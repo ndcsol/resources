@@ -1,65 +1,317 @@
-{
-    "AIR MILES Canada": "0.1050",
-    "ALL - Accor Live Limitless": "0.0270",
-    "AMEX Membership Rewards": "0.0100",
-    "Aer Lingus AerClub": "0.0150",
-    "Aeromexico Club Premier": "0.0200",
-    "Air Canada Aeroplan": "0.0210",
-    "Air France/KLM Flying Blue": "0.0180",
-    "Alaska Airlines MileagePlan": "0.0210",
-    "Amazon Rewards": "0.0100",
-    "American Airlines AAdvantage": "0.0190",
-    "American Express (Canada) Membership Rewards": "0.0220",
-    "American Express (US) Membership Rewards": "0.0240",
-    "Asiana Airlines Asiana Club": "0.0200",
-    "Aventura Rewards": "0.0200",
-    "BMO Rewards": "0.0067",
-    "Best Western Rewards": "0.0080",
-    "Brim Rewards": "0.0100",
-    "British Airways Executive Club": "0.0200",
-    "CWB Rewards": "0.0100",
-    "Capital One Rewards": "0.0100",
-    "Cathay Pacific Asia Miles": "0.0180",
-    "Chase Ultimate Rewards": "0.0230",
-    "Choice Hotels": "0.0080",
-    "CIBC Aventura": "0.0125",
-    "Citi ThankYou": "0.0230",
-    "Delta Airlines SkyMiles": "0.0160",
-    "Emirates Skywards": "0.0130",
-    "Etihad Guest": "0.0080",
-    "Frontier Airlines FRONTIER Miles": "0.0130",
-    "HSBC CA Rewards": "0.0080",
-    "Hawaiian Airlines HawaiianMiles": "0.0160",
-    "Hilton Hotels": "0.0070",
-    "Hudson's Bay Rewards": "0.0050",
-    "Hyatt Hotels": "0.0200",
-    "IHG Hotels": "0.0050",
-    "Iberia Plus": "0.0150",
-    "JetBlue TrueBlue": "0.0170",
-    "Korean Air SKYPASS": "0.0200",
-    "LATAM Pass": "0.0130",
-    "Laurentian Rewards": "0.0100",
-    "Lufthansa Miles &amp; More": "0.0160",
-    "MBNA Rewards": "0.0100",
-    "Marriott Bonvoy": "0.0080",
-    "NBC Rewards": "0.0100",
-    "National Bank À la carte Reward": "0.0100",
-    "PC Optimum Rewards": "0.0010",
-    "Qantas Frequent Flyer": "0.0190",
-    "Qatar Airways Privilege Club": "0.0110",
-    "RBC Avion Rewards": "0.0200",
-    "RBC Rewards": "0.0100",
-    "Radisson Hotels": "0.0050",
-    "Scotia Rewards": "0.0100",
-    "Scotia Scene+ Rewards": "0.0100",
-    "Singapore KrisFlyer": "0.0180",
-    "Southwest Airlines Rapid Rewards": "0.0170",
-    "Spirit Airlines Free Spirit": "0.0160",
-    "TD Bank": "0.0050",
-    "United Airlines Mileage Plus": "0.0160",
-    "Virgin Atlantic Flying Club": "0.0160",
-    "Vueling Club": "0.0150",
-    "Wyndham Hotels": "0.0130",
-    "WestJet Rewards": "1.0200",
-    "myAllegiant Rewards": "0.0130"
-}
+[
+    {
+        "name": "AIR MILES Canada",
+        "ratio": "0.1050",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "ALL - Accor Live Limitless",
+        "ratio": "0.0270",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "AMEX Membership Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Aer Lingus AerClub",
+        "ratio": "0.0150",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Aeromexico Club Premier",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Air Canada Aeroplan",
+        "ratio": "0.0210",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Air France/KLM Flying Blue",
+        "ratio": "0.0180",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Alaska Airlines MileagePlan",
+        "ratio": "0.0210",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Amazon Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "American Airlines AAdvantage",
+        "ratio": "0.0190",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "American Express (Canada) Membership Rewards",
+        "ratio": "0.0220",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "American Express (US) Membership Rewards",
+        "ratio": "0.0240",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Asiana Airlines Asiana Club",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Aventura Rewards",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "BMO Rewards",
+        "ratio": "0.0067",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Best Western Rewards",
+        "ratio": "0.0080",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Brim Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "British Airways Executive Club",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "CWB Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Capital One Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Cathay Pacific Asia Miles",
+        "ratio": "0.0180",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Chase Ultimate Rewards",
+        "ratio": "0.0230",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Choice Hotels",
+        "ratio": "0.0080",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "CIBC Aventura",
+        "ratio": "0.0125",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Citi ThankYou",
+        "ratio": "0.0230",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Delta Airlines SkyMiles",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Emirates Skywards",
+        "ratio": "0.0130",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Etihad Guest",
+        "ratio": "0.0080",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Frontier Airlines FRONTIER Miles",
+        "ratio": "0.0130",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "HSBC CA Rewards",
+        "ratio": "0.0080",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Hawaiian Airlines HawaiianMiles",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Hilton Hotels",
+        "ratio": "0.0070",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Hudson's Bay Rewards",
+        "ratio": "0.0050",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Hyatt Hotels",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "IHG Hotels",
+        "ratio": "0.0050",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Iberia Plus",
+        "ratio": "0.0150",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "JetBlue TrueBlue",
+        "ratio": "0.0170",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Korean Air SKYPASS",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "LATAM Pass",
+        "ratio": "0.0130",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Laurentian Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Lufthansa Miles &amp; More",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "MBNA Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Marriott Bonvoy",
+        "ratio": "0.0080",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "NBC Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "National Bank À la carte Reward",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "PC Optimum Rewards",
+        "ratio": "0.0010",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Qantas Frequent Flyer",
+        "ratio": "0.0190",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Qatar Airways Privilege Club",
+        "ratio": "0.0110",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "RBC Avion Rewards",
+        "ratio": "0.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "RBC Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Radisson Hotels",
+        "ratio": "0.0050",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Scotia Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Scotia Scene+ Rewards",
+        "ratio": "0.0100",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Singapore KrisFlyer",
+        "ratio": "0.0180",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Southwest Airlines Rapid Rewards",
+        "ratio": "0.0170",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Spirit Airlines Free Spirit",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "TD Bank",
+        "ratio": "0.0050",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "United Airlines Mileage Plus",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Virgin Atlantic Flying Club",
+        "ratio": "0.0160",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Vueling Club",
+        "ratio": "0.0150",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "Wyndham Hotels",
+        "ratio": "0.0130",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "WestJet Rewards",
+        "ratio": "1.0200",
+        "currencyCode": "CAD"
+    },
+    {
+        "name": "myAllegiant Rewards",
+        "ratio": "0.0130",
+        "currencyCode": "CAD"
+    }
+]
