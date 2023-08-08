@@ -240,16 +240,16 @@
     "region_name": null
   },
   {
-    "name": "Berlin Metropolian Area",
+    "name": "Berlin Brandenburg Airport",
     "iata": "BER",
     "city": "Berlin",
     "country": "Germany",
     "country_code": "DE",
     "alpha_3_code": "DEU",
-    "lat": "52.520008",
-    "lng": "13.404954",
-    "type": "master",
-    "metro": "BER",
+    "lat": "52.366665",
+    "lng": "13.501998",
+    "type": "large",
+    "metro": null,
     "category": "large",
     "region": "DE-BR",
     "nearest_major_airport": null,
@@ -35888,22 +35888,6 @@
     "region_name": "Maine"
   },
   {
-    "name": "Berlin-Schönefeld Airport",
-    "iata": "SXF",
-    "city": "Berlin",
-    "country": "Germany",
-    "country_code": "DE",
-    "alpha_3_code": "DEU",
-    "lat": "52.380001",
-    "lng": "13.5225",
-    "type": "city",
-    "metro": "BER",
-    "category": null,
-    "region": null,
-    "nearest_major_airport": "BER",
-    "region_name": null
-  },
-  {
     "name": "Gray Army Air Field",
     "iata": "GRF",
     "city": "Fort Lewis",
@@ -36894,22 +36878,6 @@
     "region": "US-NY",
     "nearest_major_airport": "LGA",
     "region_name": "New York"
-  },
-  {
-    "name": "Berlin-Tempelhof International Airport",
-    "iata": "THF",
-    "city": "Berlin",
-    "country": "Germany",
-    "country_code": "DE",
-    "alpha_3_code": "DEU",
-    "lat": "52.472999572753906",
-    "lng": "13.403900146484375",
-    "type": "city",
-    "metro": null,
-    "category": null,
-    "region": null,
-    "nearest_major_airport": "BER",
-    "region_name": null
   },
   {
     "name": "Francis S Gabreski Airport",
@@ -38238,22 +38206,6 @@
     "region": "US-FL",
     "nearest_major_airport": "TPA",
     "region_name": "Florida"
-  },
-  {
-    "name": "Berlin-Tegel Airport",
-    "iata": "TXL",
-    "city": "Berlin",
-    "country": "Germany",
-    "country_code": "DE",
-    "alpha_3_code": "DEU",
-    "lat": "52.5597",
-    "lng": "13.2877",
-    "type": "city",
-    "metro": "BER",
-    "category": null,
-    "region": "DE-BE",
-    "nearest_major_airport": "BER",
-    "region_name": "Berlin"
   },
   {
     "name": "Dallas Fort Worth International Airport",
