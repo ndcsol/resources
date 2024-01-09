@@ -489,7 +489,7 @@
   },
   {
     "code": "MO",
-    "name": "Abu Dhabi Amiri Flight"
+    "name": "Calm Air"
   },
   {
     "code": "5N",
@@ -937,7 +937,7 @@
   },
   {
     "code": "RV",
-    "name": "Caspian Airlines"
+    "name": "Air Canada Rouge"
   },
   {
     "code": "KX",
@@ -1089,7 +1089,7 @@
   },
   {
     "code": "D8",
-    "name": "Djibouti Airlines"
+    "name": "Norwegian Air Swedens"
   },
   {
     "code": "DO",
@@ -1649,7 +1649,7 @@
   },
   {
     "code": "LM",
-    "name": "Linhas A"
+    "name": "Logan Air"
   },
   {
     "code": "JT",
@@ -3710,5 +3710,10 @@
   {
     "code": "PO",
     "name": "FlyPortugal"
-  }
+  },
+  { "code": "GQ", "name": "Sky Express" },
+  { "code": "P6", "name": "Pascan" },
+  { "code": "PB", "name": "PAL Airlines" },
+  { "code": "UK", "name": "Vistara" },
+  { "code": "VB", "name": "Viva Aerobus" }
 ]
