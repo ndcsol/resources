@@ -1,0 +1,214 @@
+{
+  "id": "demo",
+  "general": {
+    "privacyPolicy": "/",
+    "currency": "CAD",
+    "country": "CA",
+    "banner": {
+      "title": "Macdonald Travel Management",
+      "preTitle": "BaLa baBaBA"
+    },
+    "fullLogo": "logo/demo-brand.png",
+    "favicon": "logo/demo-brand.png",
+    "fullName": "Macdonald Travel Management",
+    "fullLogoWhite": "logo/demo-brand.png",
+    "customerService": {
+      "email": "CS@demo.com",
+      "phone": "(604) 123-4567"
+    },
+    "address": {
+      "address_line_1": "123 MacDonald Street",
+      "city": "Vancouver",
+      "region": "BC",
+      "country": "Canada",
+      "postal_code": "MCD 123"
+    },
+    "accounting_info": "GST No. 12345 | B.C.Reg.No. 54321",
+    "disclaimer": "some exmaple text"
+  },
+  "theme": {
+    "primary_color": "#FFC72C",
+    "secondary_color": "#DA291C",
+    "primary_contrast_color": "#DA292C"
+  },
+  "mainPage": {
+    "heros": {
+      "images": {
+        "flight": "bnwtravel/hero-flights.jpg",
+        "hotel": "bnwtravel/hero-hotels.jpg",
+        "car": "bnwtravel/hero-cars.jpg"
+      },
+      "tagLines": {
+        "flight": "Come Fly With Us",
+        "hotel": "Come Stay With Us",
+        "car": "Come Ride With Us"
+      },
+      "title": "BNW Travel Management"
+    }
+  },
+  "navigation": {
+    "desktop": {
+      "public": [
+        {
+          "title": "Travel Search",
+          "items": [
+            {
+              "title": "Promotions",
+              "path": "/promotion"
+            }
+          ]
+        },
+        {
+          "title": "Support",
+          "items": [
+            {
+              "preTitle": "Support",
+              "title": "FAQ",
+              "path": "/"
+            },
+            {
+              "title": "Health and Safety",
+              "path": "/"
+            }
+          ]
+        }
+      ],
+      "corp": [
+        {
+          "title": "Support",
+          "items": [
+            {
+              "title": "Contact",
+              "path": "https://hub.bnwtravel.com/contact/support",
+              "target": "blank"
+            }
+          ]
+        }
+      ],
+      "agent": [
+        {
+          "path": "/management/commissionsTracking",
+          "text": "Commissions",
+          "sections": [
+            {
+              "text": "Commissions",
+              "path": "/management/commissionsTracking"
+            }
+          ]
+        },
+        {
+          "path": "/management/accounting/report-all",
+          "text": "Reports"
+        },
+        {
+          "text": "Manage Portal",
+          "path": "/management/profile/general",
+          "sections": [
+            {
+              "text": "Plan Subscription",
+              "path": "/management/profile/subscription"
+            }
+          ]
+        }
+      ],
+      "admin": [
+        {
+          "text": "Manage Portals",
+          "path": "/management/portals/general",
+          "sections": [
+            {
+              "text": "Corporate Portals",
+              "path": "/management/portals/corporate"
+            },
+            {
+              "text": "Agent Portals",
+              "path": "/management/portals/agent"
+            },
+            {
+              "text": "Create Portal - Agent",
+              "path": "/management/portals/create-agent"
+            },
+            {
+              "text": "Create Portal - Corporate",
+              "path": "/management/portals/create-corp"
+            }
+          ]
+        }
+      ],
+      "corpDashboard": [
+        {
+          "text": "Accounting",
+          "path": "/management/accounting/report-all",
+          "sections": [
+            {
+              "text": "Reports",
+              "path": "/management/accounting/report-all"
+            }
+          ]
+        },
+        {
+          "text": "Subscription & Payments",
+          "path": "/subscription"
+        }
+      ]
+    },
+    "mobile": {
+      "public": {
+        "items": [
+          {
+            "text": "BNW Corporate",
+            "path": "https://hub.bnwtravel.com/solutions/bnw-corporate",
+            "target": "blank"
+          },
+          {
+            "text": "BNW Agent",
+            "path": "https://hub.bnwtravel.com/solutions/bnw-agent",
+            "target": "blank"
+          },
+          {
+            "text": "Contact",
+            "path": "https://hub.bnwtravel.com/contact",
+            "target": "blank"
+          },
+          {
+            "text": "Blog and News",
+            "path": "https://hub.bnwtravel.com/blogs",
+            "target": "blank"
+          }
+        ]
+      },
+      "corp": {
+        "items": [
+          {
+            "text": "Contact",
+            "path": "https://hub.bnwtravel.com/contact",
+            "target": "blank"
+          },
+          {
+            "text": "Blog and News",
+            "path": "https://hub.bnwtravel.com/blogs",
+            "target": "blank"
+          }
+        ]
+      }
+    },
+    "footer": {
+      "public": [
+        {
+          "title": "Support",
+          "items": [
+            {
+              "preTitle": "Support",
+              "title": "FAQ",
+              "path": "/"
+            },
+            {
+              "title": "Health and Safety",
+              "path": "/"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
