@@ -2380,23 +2380,6 @@
         "continent": "AF"
     },
     {
-        "name": "Cairo West Airport",
-        "iata": "CWE",
-        "city": "Cairo",
-        "country": "Egypt",
-        "country_code": "EG",
-        "alpha_3_code": "EGY",
-        "lat": "30.116399765",
-        "lng": "30.9153995514",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "CAI",
-        "region_name": null,
-        "continent": "AF"
-    },
-    {
         "name": "Hurghada International Airport",
         "iata": "HRG",
         "city": "Hurghada",
@@ -2411,23 +2394,6 @@
         "region": "EG-BA",
         "nearest_major_airport": null,
         "region_name": "Red Sea Governorate",
-        "continent": "AF"
-    },
-    {
-        "name": "El Gora Airport",
-        "iata": "EGH",
-        "city": "El Gorah",
-        "country": "Egypt",
-        "country_code": "EG",
-        "alpha_3_code": "EGY",
-        "lat": "31.068559000000004",
-        "lng": "34.129629",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "EG-SIN",
-        "nearest_major_airport": "CAI",
-        "region_name": "North Sinai Governorate",
         "continent": "AF"
     },
     {
@@ -4369,23 +4335,6 @@
         "continent": "EU"
     },
     {
-        "name": "Valenciennes-Denain Airport",
-        "iata": "XVS",
-        "city": "Valenciennes",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "50.32580184936523",
-        "lng": "3.4612600803375244",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "CDG",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Agen-La Garenne Airport",
         "iata": "AGF",
         "city": "Agen",
@@ -4794,23 +4743,6 @@
         "continent": "NA"
     },
     {
-        "name": "Montauban Airport",
-        "iata": "XMW",
-        "city": "Montauban",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "44.02569961547852",
-        "lng": "1.3780399560928345",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "TLS",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Rochefort-Saint-Agnant (BA 721) Airport",
         "iata": "RCO",
         "city": "Rochefort",
@@ -5134,23 +5066,6 @@
         "continent": "EU"
     },
     {
-        "name": "Annemasse Airport",
-        "iata": "QNJ",
-        "city": "Annemasse",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "46.1920013428",
-        "lng": "6.268390178680002",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "LYS",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Lyon Saint-Exupéry Airport",
         "iata": "LYS",
         "city": "Lyon",
@@ -5457,23 +5372,6 @@
         "continent": "EU"
     },
     {
-        "name": "Orange-Caritat (BA 115) Air Base",
-        "iata": "XOG",
-        "city": "Orange",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "44.14049911499024",
-        "lng": "4.866720199584961",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "MRS",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Sherbrooke Airport",
         "iata": "YSC",
         "city": "Sherbrooke",
@@ -5658,23 +5556,6 @@
         "region": "FR-NOR",
         "nearest_major_airport": "PAR",
         "region_name": "Normandy",
-        "continent": "EU"
-    },
-    {
-        "name": "Abbeville",
-        "iata": "XAB",
-        "city": "Abbeville",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "50.143501",
-        "lng": "1.831891",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "CDG",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -5865,23 +5746,6 @@
         "continent": "EU"
     },
     {
-        "name": "Nanisivik Airport",
-        "iata": "YSR",
-        "city": "Nanisivik",
-        "country": "Canada",
-        "country_code": "CA",
-        "alpha_3_code": "CAN",
-        "lat": "72.982201",
-        "lng": "-84.613602",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "YWG",
-        "region_name": null,
-        "continent": "NA"
-    },
-    {
         "name": "Paris-Orly Airport",
         "iata": "ORY",
         "city": "Paris",
@@ -5967,23 +5831,6 @@
         "continent": "NA"
     },
     {
-        "name": "Maubeuge-Élesmes Airport",
-        "iata": "XME",
-        "city": "Maubeuge",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "50.31050109863281",
-        "lng": "4.0331201553344735",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "CDG",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Lille-Lesquin Airport",
         "iata": "LIL",
         "city": "Lille",
@@ -6015,23 +5862,6 @@
         "region": "FR-HDF",
         "nearest_major_airport": "CDG",
         "region_name": "Hauts-de-France",
-        "continent": "EU"
-    },
-    {
-        "name": "Charleville-Mézières Airport",
-        "iata": "XCZ",
-        "city": "Charleville",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "49.78390121459961",
-        "lng": "4.647079944610597",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "CDG",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -8058,23 +7888,6 @@
         "continent": "EU"
     },
     {
-        "name": "Padova Airport",
-        "iata": "QPA",
-        "city": "Padova",
-        "country": "Italy",
-        "country_code": "IT",
-        "alpha_3_code": "ITA",
-        "lat": "45.395802",
-        "lng": "11.8479",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "VCE",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Verona Villafranca Airport",
         "iata": "VRN",
         "city": "Villafranca",
@@ -8191,23 +8004,6 @@
         "region": "IT-52",
         "nearest_major_airport": "PSA",
         "region_name": "Tuscany",
-        "continent": "EU"
-    },
-    {
-        "name": "Latina Air Base",
-        "iata": "QLT",
-        "city": "Latina",
-        "country": "Italy",
-        "country_code": "IT",
-        "alpha_3_code": "ITA",
-        "lat": "41.5424",
-        "lng": "12.909",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "ROM",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -9705,23 +9501,6 @@
         "nearest_major_airport": "ZRH",
         "region_name": "Canton of Lucerne",
         "continent": "EU"
-    },
-    {
-        "name": "Edmonton City Centre (Blatchford Field) Airport",
-        "iata": "YXD",
-        "city": "Edmonton",
-        "country": "Canada",
-        "country_code": "CA",
-        "alpha_3_code": "CAN",
-        "lat": "53.5724983215",
-        "lng": "-113.52100372299999",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "CA-AB",
-        "nearest_major_airport": "YEA",
-        "region_name": "Alberta",
-        "continent": "NA"
     },
     {
         "name": "Lugano Airport",
@@ -13413,23 +13192,6 @@
         "continent": "NA"
     },
     {
-        "name": "Pinar Del Rio Airport",
-        "iata": "QPD",
-        "city": "Pinar Del Rio Norte",
-        "country": "Cuba",
-        "country_code": "CU",
-        "alpha_3_code": "CUB",
-        "lat": "22.42140007019043",
-        "lng": "-83.67839813232422",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "HAV",
-        "region_name": null,
-        "continent": "NA"
-    },
-    {
         "name": "Abel Santamaria Airport",
         "iata": "SNU",
         "city": "Santa Clara",
@@ -14567,23 +14329,6 @@
         "nearest_major_airport": "PPT",
         "region_name": "(unassigned)",
         "continent": "OC"
-    },
-    {
-        "name": "Downsview Airport",
-        "iata": "YZD",
-        "city": "Toronto",
-        "country": "Canada",
-        "country_code": "CA",
-        "alpha_3_code": "CAN",
-        "lat": "43.74250030517578",
-        "lng": "-79.4655990600586",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "YTO",
-        "region_name": null,
-        "continent": "NA"
     },
     {
         "name": "Bora Bora Airport",
@@ -15963,23 +15708,6 @@
         "continent": "NA"
     },
     {
-        "name": "Jubail Airport",
-        "iata": "QJB",
-        "city": "Jubail",
-        "country": "Saudi Arabia",
-        "country_code": "SA",
-        "alpha_3_code": "SAU",
-        "lat": "27.03899955749512",
-        "lng": "49.40510177612305",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "SA-04",
-        "nearest_major_airport": "DMM",
-        "region_name": "Ash Sharqiyah Region",
-        "continent": "AS"
-    },
-    {
         "name": "King Abdulaziz International Airport",
         "iata": "JED",
         "city": "Jeddah",
@@ -16641,23 +16369,6 @@
         "nearest_major_airport": "THR",
         "region_name": "Gilan Province",
         "continent": "AS"
-    },
-    {
-        "name": "Blida Airport",
-        "iata": "QLD",
-        "city": "Blida",
-        "country": "Algeria",
-        "country_code": "DZ",
-        "alpha_3_code": "DZA",
-        "lat": "36.50360107421875",
-        "lng": "2.814169883728028",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "DZ-09",
-        "nearest_major_airport": "ALG",
-        "region_name": "Blida Province",
-        "continent": "AF"
     },
     {
         "name": "Arak Airport",
@@ -19159,23 +18870,6 @@
         "continent": "AS"
     },
     {
-        "name": "Gifu Airport",
-        "iata": "QGU",
-        "city": "Gifu",
-        "country": "Japan",
-        "country_code": "JP",
-        "alpha_3_code": "JPN",
-        "lat": "35.394100189208984",
-        "lng": "136.8699951171875",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "JP-21",
-        "nearest_major_airport": "NGO",
-        "region_name": "Gifu Prefecture",
-        "continent": "AS"
-    },
-    {
         "name": "Komatsu Airport",
         "iata": "KMQ",
         "city": "Kanazawa",
@@ -20669,23 +20363,6 @@
         "region": "AR-X",
         "nearest_major_airport": "AEP",
         "region_name": "Córdoba Province",
-        "continent": "SA"
-    },
-    {
-        "name": "San Fernando Airport",
-        "iata": "FDO",
-        "city": "San Fernando",
-        "country": "Argentina",
-        "country_code": "AR",
-        "alpha_3_code": "ARG",
-        "lat": "-34.4532",
-        "lng": "-58.5896",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "AR-B",
-        "nearest_major_airport": "AEP",
-        "region_name": "Buenos Aires Province",
         "continent": "SA"
     },
     {
@@ -23732,23 +23409,6 @@
         "continent": "SA"
     },
     {
-        "name": "Campo Fontenelle Airport",
-        "iata": "QPS",
-        "city": "Piracununga",
-        "country": "Brazil",
-        "country_code": "BR",
-        "alpha_3_code": "BRA",
-        "lat": "-21.984600067138672",
-        "lng": "-47.33480072021485",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "BR-SP",
-        "nearest_major_airport": "GRU",
-        "region_name": "São Paulo",
-        "continent": "SA"
-    },
-    {
         "name": "Chacalluta Airport",
         "iata": "ARI",
         "city": "Arica",
@@ -24089,23 +23749,6 @@
         "continent": "SA"
     },
     {
-        "name": "De La Independencia Airport",
-        "iata": "QRC",
-        "city": "Rancagua",
-        "country": "Chile",
-        "country_code": "CL",
-        "alpha_3_code": "CHL",
-        "lat": "-34.17369842529297",
-        "lng": "-70.77570343017578",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "SCL",
-        "region_name": null,
-        "continent": "SA"
-    },
-    {
         "name": "Teniente Rodolfo Marsh Martin Base",
         "iata": "TNM",
         "city": "Isla Rey Jorge",
@@ -24155,23 +23798,6 @@
         "nearest_major_airport": null,
         "region_name": null,
         "continent": "AF"
-    },
-    {
-        "name": "Maquehue Airport",
-        "iata": "PZS",
-        "city": "Temuco",
-        "country": "Chile",
-        "country_code": "CL",
-        "alpha_3_code": "CHL",
-        "lat": "-38.766799926758",
-        "lng": "-72.637100219727",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "CL-AR",
-        "nearest_major_airport": "SCL",
-        "region_name": "Araucanía Region",
-        "continent": "SA"
     },
     {
         "name": "El Tepual Airport",
@@ -35717,23 +35343,6 @@
         "continent": "NA"
     },
     {
-        "name": "Schönhagen Airport",
-        "iata": "QXH",
-        "city": "Schoenhagen",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "52.203609",
-        "lng": "13.156389",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "BER",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Grants-Milan Municipal Airport",
         "iata": "GNT",
         "city": "Grants",
@@ -40290,23 +39899,6 @@
         "continent": "NA"
     },
     {
-        "name": "Frankfurt-Egelsbach Airport",
-        "iata": "QEF",
-        "city": "Egelsbach",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "49.959998999999996",
-        "lng": "8.645833",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "FRA",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Waco Regional Airport",
         "iata": "ACT",
         "city": "Waco",
@@ -42415,23 +42007,6 @@
         "continent": "NA"
     },
     {
-        "name": "Griffing Sandusky Airport",
-        "iata": "SKY",
-        "city": "Sandusky",
-        "country": "United States",
-        "country_code": "US",
-        "alpha_3_code": "USA",
-        "lat": "41.4333992004",
-        "lng": "-82.6522979736",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "US-OH",
-        "nearest_major_airport": "CLE",
-        "region_name": "Ohio",
-        "continent": "NA"
-    },
-    {
         "name": "Snohomish County (Paine Field) Airport",
         "iata": "PAE",
         "city": "Everett",
@@ -44132,23 +43707,6 @@
         "continent": "AS"
     },
     {
-        "name": "Selaparang Airport",
-        "iata": "AMI",
-        "city": "Mataram",
-        "country": "Indonesia",
-        "country_code": "ID",
-        "alpha_3_code": "IDN",
-        "lat": "-8.560709953309999",
-        "lng": "116.095001221",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "ID-NB",
-        "nearest_major_airport": "DPS",
-        "region_name": "Nusa Tenggara Barat (West Nusa Tenggara)",
-        "continent": "AS"
-    },
-    {
         "name": "Muhammad Salahuddin Airport",
         "iata": "BMU",
         "city": "Bima",
@@ -44810,23 +44368,6 @@
         "nearest_major_airport": null,
         "region_name": "Northern Red Sea Region",
         "continent": "AF"
-    },
-    {
-        "name": "Yasser Arafat International Airport",
-        "iata": "GZA",
-        "city": "Gaza",
-        "country": "Palestine",
-        "country_code": "PS",
-        "alpha_3_code": "PSE",
-        "lat": "31.246400833129996",
-        "lng": "34.276100158691",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "PS-RFH",
-        "nearest_major_airport": null,
-        "region_name": "Rafah Governorate",
-        "continent": "AS"
     },
     {
         "name": "Batumi International Airport",
@@ -46427,23 +45968,6 @@
         "continent": "NA"
     },
     {
-        "name": "Panama City-Bay Co International Airport",
-        "iata": "PFN",
-        "city": "Panama City",
-        "country": "United States",
-        "country_code": "US",
-        "alpha_3_code": "USA",
-        "lat": "30.212099",
-        "lng": "-85.6828",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "ATL",
-        "region_name": null,
-        "continent": "NA"
-    },
-    {
         "name": "Honiara International Airport",
         "iata": "HIR",
         "city": "Honiara",
@@ -47226,23 +46750,6 @@
         "continent": "NA"
     },
     {
-        "name": "Donaueschingen-Villingen Airport",
-        "iata": "ZQL",
-        "city": "Donaueschingen",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "47.97333145139999",
-        "lng": "8.52222156525",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "STR",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Glacier Park International Airport",
         "iata": "FCA",
         "city": "Kalispell",
@@ -47427,23 +46934,6 @@
         "region": "IQ-AN",
         "nearest_major_airport": "BGW",
         "region_name": "Al-Anbar Governorate",
-        "continent": "AS"
-    },
-    {
-        "name": "Joint Base Balad",
-        "iata": "XQC",
-        "city": "Al Bakr",
-        "country": "Iraq",
-        "country_code": "IQ",
-        "alpha_3_code": "IRQ",
-        "lat": "33.940200805699995",
-        "lng": "44.361598968500005",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "BGW",
-        "region_name": null,
         "continent": "AS"
     },
     {
@@ -49691,23 +49181,6 @@
         "continent": "EU"
     },
     {
-        "name": "El Toro Marine Corps Air Station",
-        "iata": "NZJ",
-        "city": "Santa Ana",
-        "country": "United States",
-        "country_code": "US",
-        "alpha_3_code": "USA",
-        "lat": "33.676101684570305",
-        "lng": "-117.7310028076172",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "ONT",
-        "region_name": null,
-        "continent": "NA"
-    },
-    {
         "name": "Phetchabun Airport",
         "iata": "PHY",
         "city": "Phetchabun",
@@ -50439,23 +49912,6 @@
         "continent": "EU"
     },
     {
-        "name": "Oslo, Fornebu Airport",
-        "iata": "FBU",
-        "city": "Oslo",
-        "country": "Norway",
-        "country_code": "NO",
-        "alpha_3_code": "NOR",
-        "lat": "59.89580154418945",
-        "lng": "10.617199897766113",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "OSL",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Norilsk-Alykel Airport",
         "iata": "NSK",
         "city": "Norilsk",
@@ -50947,23 +50403,6 @@
         "nearest_major_airport": "SDJ",
         "region_name": "Niigata Prefecture",
         "continent": "AS"
-    },
-    {
-        "name": "Johnston Atoll Airport",
-        "iata": "JON",
-        "city": "Johnston Island",
-        "country": "Johnston Atoll",
-        "country_code": "JT",
-        "alpha_3_code": "JTN",
-        "lat": "16.7285995483",
-        "lng": "-169.53399658200001",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "UM-67",
-        "nearest_major_airport": null,
-        "region_name": "Johnston Atoll",
-        "continent": "OC"
     },
     {
         "name": "Lennart Meri Tallinn Airport",
@@ -54026,23 +53465,6 @@
         "continent": "EU"
     },
     {
-        "name": "Penzance Heliport",
-        "iata": "PZE",
-        "city": "Penzance",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "50.128101",
-        "lng": "-5.51845",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "GB-ENG",
-        "nearest_major_airport": "BHX",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "Kemi-Tornio Airport",
         "iata": "KEM",
         "city": "Kemi",
@@ -55452,23 +54874,6 @@
         "nearest_major_airport": "FNA",
         "region_name": "Southern Province",
         "continent": "AF"
-    },
-    {
-        "name": "Lahti Vesivehmaa Airport",
-        "iata": "QLF",
-        "city": "Vesivehmaa",
-        "country": "Finland",
-        "country_code": "FI",
-        "alpha_3_code": "FIN",
-        "lat": "61.144199",
-        "lng": "25.693501",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "HEL",
-        "region_name": null,
-        "continent": "EU"
     },
     {
         "name": "Bo Airport",
@@ -58409,23 +57814,6 @@
         "region": "BS-CK",
         "nearest_major_airport": "NAS",
         "region_name": "Crooked Island and Long Cay",
-        "continent": "NA"
-    },
-    {
-        "name": "Nassau Paradise Island Airport",
-        "iata": "PID",
-        "city": "Nassau",
-        "country": "Bahamas",
-        "country_code": "BS",
-        "alpha_3_code": "BHS",
-        "lat": "25.08300018310547",
-        "lng": "-77.30000305175781",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "BS-NP",
-        "nearest_major_airport": "NAS",
-        "region_name": "New Providence",
         "continent": "NA"
     },
     {
@@ -64753,23 +64141,6 @@
         "continent": "OC"
     },
     {
-        "name": "Plymouth City Airport",
-        "iata": "PLH",
-        "city": "Plymouth",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "50.422798",
-        "lng": "-4.10583",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "GB-ENG",
-        "nearest_major_airport": "BHX",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "Boulia Airport",
         "iata": "BQL",
         "city": "Boulia",
@@ -65329,23 +64700,6 @@
         "nearest_major_airport": "PER",
         "region_name": "Western Australia",
         "continent": "OC"
-    },
-    {
-        "name": "Lasham Airport",
-        "iata": "QLA",
-        "city": "Lasham",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "51.18719863891602",
-        "lng": "-1.0334999561309814",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "LHR",
-        "region_name": null,
-        "continent": "EU"
     },
     {
         "name": "King Island Airport",
@@ -67966,23 +67320,6 @@
         "continent": "SA"
     },
     {
-        "name": "Kent International Airport",
-        "iata": "MSE",
-        "city": "Manston",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "51.342201",
-        "lng": "1.3461100000000001",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "GB-ENG",
-        "nearest_major_airport": "STN",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "Inishmore Aerodrome",
         "iata": "IOR",
         "city": "Inis Mor",
@@ -70499,23 +69836,6 @@
         "continent": "EU"
     },
     {
-        "name": "Sabadell Airport",
-        "iata": "QSA",
-        "city": "Sabadell",
-        "country": "Spain",
-        "country_code": "ES",
-        "alpha_3_code": "ESP",
-        "lat": "41.52090072631836",
-        "lng": "2.1050798892974854",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "ES-CT",
-        "nearest_major_airport": "BCN",
-        "region_name": "Catalonia",
-        "continent": "EU"
-    },
-    {
         "name": "Whitsunday Island Airport",
         "iata": "WSY",
         "city": "Airlie Beach",
@@ -70652,23 +69972,6 @@
         "continent": "NA"
     },
     {
-        "name": "Lympne Airport",
-        "iata": "LYM",
-        "city": "Lympne",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "51.08",
-        "lng": "1.013",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "GB-ENG",
-        "nearest_major_airport": "STN",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "Porto Cheli Airport",
         "iata": "PKH",
         "city": "Porto Heli",
@@ -70751,23 +70054,6 @@
         "region": "UA-07",
         "nearest_major_airport": "LWO",
         "region_name": "Volyn Oblast",
-        "continent": "EU"
-    },
-    {
-        "name": "Chernihiv Shestovitsa Airport",
-        "iata": "CEJ",
-        "city": "Chernigov",
-        "country": "Ukraine",
-        "country_code": "UA",
-        "alpha_3_code": "UKR",
-        "lat": "51.4021987915",
-        "lng": "31.1583003998",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "UA-74",
-        "nearest_major_airport": "KBP",
-        "region_name": "Chernihiv Oblast",
         "continent": "EU"
     },
     {
@@ -70983,40 +70269,6 @@
         "alpha_3_code": "CHE",
         "lat": "46.54529953",
         "lng": "6.616670131679999",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "GVA",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
-        "name": "Locarno Airport",
-        "iata": "ZJI",
-        "city": "Locarno",
-        "country": "Switzerland",
-        "country_code": "CH",
-        "alpha_3_code": "CHE",
-        "lat": "46.160800933800004",
-        "lng": "8.87860965729",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "CH-TI",
-        "nearest_major_airport": "ZRH",
-        "region_name": "Canton of Ticino",
-        "continent": "EU"
-    },
-    {
-        "name": "Neuchatel Airport",
-        "iata": "QNC",
-        "city": "Neuchatel",
-        "country": "Switzerland",
-        "country_code": "CH",
-        "alpha_3_code": "CHE",
-        "lat": "46.957500457799995",
-        "lng": "6.86471986771",
         "type": "city",
         "metro": null,
         "category": null,
@@ -72095,23 +71347,6 @@
         "nearest_major_airport": "ONT",
         "region_name": "California",
         "continent": "NA"
-    },
-    {
-        "name": "Interlaken Air Base",
-        "iata": "ZIN",
-        "city": "Interlaken",
-        "country": "Switzerland",
-        "country_code": "CH",
-        "alpha_3_code": "CHE",
-        "lat": "46.676601399999996",
-        "lng": "7.8790797999999995",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "CH-BE",
-        "nearest_major_airport": "ZRH",
-        "region_name": "Canton of Berne",
-        "continent": "EU"
     },
     {
         "name": "Inisheer Aerodrome",
@@ -74647,23 +73882,6 @@
         "continent": "NA"
     },
     {
-        "name": "Bristol Filton Airport",
-        "iata": "FZO",
-        "city": "Bristol",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "51.519401550299996",
-        "lng": "-2.5908300876599997",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "GB-ENG",
-        "nearest_major_airport": "BHX",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "South Indian Lake Airport",
         "iata": "XSI",
         "city": "South Indian Lake",
@@ -76126,23 +75344,6 @@
         "continent": "SA"
     },
     {
-        "name": "Tsletsi Airport",
-        "iata": "QDJ",
-        "city": "Djelfa",
-        "country": "Algeria",
-        "country_code": "DZ",
-        "alpha_3_code": "DZA",
-        "lat": "34.6657",
-        "lng": "3.3510000000000004",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "DZ-17",
-        "nearest_major_airport": "ALG",
-        "region_name": "Djelfa Province",
-        "continent": "AF"
-    },
-    {
         "name": "Nzagi Airport",
         "iata": "NZA",
         "city": "Nzagi",
@@ -76327,23 +75528,6 @@
         "region": "ET-AM",
         "nearest_major_airport": "ADD",
         "region_name": "Amhara Region",
-        "continent": "AF"
-    },
-    {
-        "name": "Harar Meda Airport",
-        "iata": "QHR",
-        "city": "Debre Zeyit",
-        "country": "Ethiopia",
-        "country_code": "ET",
-        "alpha_3_code": "ETH",
-        "lat": "8.7163",
-        "lng": "39.0059",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "ET-OR",
-        "nearest_major_airport": "ADD",
-        "region_name": "Oromia Region",
         "continent": "AF"
     },
     {
@@ -78795,23 +77979,6 @@
         "continent": "OC"
     },
     {
-        "name": "Aeroclube Airport",
-        "iata": "QNV",
-        "city": "Nova Iguacu",
-        "country": "Brazil",
-        "country_code": "BR",
-        "alpha_3_code": "BRA",
-        "lat": "-22.74530029296875",
-        "lng": "-43.46030044555664",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "BR-RJ",
-        "nearest_major_airport": "GIG",
-        "region_name": "Rio de Janeiro",
-        "continent": "SA"
-    },
-    {
         "name": "San Carlos Airport",
         "iata": "SQL",
         "city": "San Carlos",
@@ -78929,23 +78096,6 @@
         "nearest_major_airport": "RNO",
         "region_name": "California",
         "continent": "NA"
-    },
-    {
-        "name": "Fréjus Airport",
-        "iata": "FRJ",
-        "city": "Frejus",
-        "country": "France",
-        "country_code": "FR",
-        "alpha_3_code": "FRA",
-        "lat": "43.4175",
-        "lng": "6.7357",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "NCE",
-        "region_name": null,
-        "continent": "EU"
     },
     {
         "name": "Geelong Airport",
@@ -79285,23 +78435,6 @@
         "region": "NL-DR",
         "nearest_major_airport": "AMS",
         "region_name": "Drente",
-        "continent": "EU"
-    },
-    {
-        "name": "Oksywie Military Air Base",
-        "iata": "QYD",
-        "city": "Gdynia",
-        "country": "Poland",
-        "country_code": "PL",
-        "alpha_3_code": "POL",
-        "lat": "54.57970047",
-        "lng": "18.51720047",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "GDN",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -80019,23 +79152,6 @@
         "continent": "NA"
     },
     {
-        "name": "Soesterberg Air Base",
-        "iata": "UTC",
-        "city": "Soesterberg",
-        "country": "Netherlands",
-        "country_code": "NL",
-        "alpha_3_code": "NLD",
-        "lat": "52.1273002625",
-        "lng": "5.27618980408",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "NL-UT",
-        "nearest_major_airport": "AMS",
-        "region_name": "Utrecht",
-        "continent": "EU"
-    },
-    {
         "name": "Herrera Airport",
         "iata": "HEX",
         "city": "Santo Domingo",
@@ -80255,23 +79371,6 @@
         "nearest_major_airport": "PPT",
         "region_name": "(unassigned)",
         "continent": "OC"
-    },
-    {
-        "name": "Valkenburg Naval Air Base",
-        "iata": "LID",
-        "city": "Valkenburg",
-        "country": "Netherlands",
-        "country_code": "NL",
-        "alpha_3_code": "NLD",
-        "lat": "52.1660995483",
-        "lng": "4.41794013977",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "NL-ZH",
-        "nearest_major_airport": "AMS",
-        "region_name": "Zuid-Holland",
-        "continent": "EU"
     },
     {
         "name": "Puerto Obaldia Airport",
@@ -80527,23 +79626,6 @@
         "nearest_major_airport": "LAS",
         "region_name": "Nevada",
         "continent": "NA"
-    },
-    {
-        "name": "Gostomel Airport",
-        "iata": "GML",
-        "city": "Kiev",
-        "country": "Ukraine",
-        "country_code": "UA",
-        "alpha_3_code": "UKR",
-        "lat": "50.60350036621094",
-        "lng": "30.1919002532959",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "UA-32",
-        "nearest_major_airport": "KBP",
-        "region_name": "Kyiv Oblast",
-        "continent": "EU"
     },
     {
         "name": "Fort Simpson Airport",
@@ -85034,23 +84116,6 @@
         "continent": "NA"
     },
     {
-        "name": "Geilo Airport Dagali",
-        "iata": "DLD",
-        "city": "Geilo",
-        "country": "Norway",
-        "country_code": "NO",
-        "alpha_3_code": "NOR",
-        "lat": "60.41730117797852",
-        "lng": "8.518349647521973",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "NO-30",
-        "nearest_major_airport": "OSL",
-        "region_name": "Viken",
-        "continent": "EU"
-    },
-    {
         "name": "Fond du Lac County Airport",
         "iata": "FLD",
         "city": "Fond du Lac",
@@ -85626,23 +84691,6 @@
         "region": "NO-46",
         "nearest_major_airport": "BGO",
         "region_name": "Vestland",
-        "continent": "EU"
-    },
-    {
-        "name": "Duxford Aerodrome",
-        "iata": "QFO",
-        "city": "Duxford",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "52.090801",
-        "lng": "0.131944",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "STN",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -86462,40 +85510,6 @@
         "continent": "NA"
     },
     {
-        "name": "Lista Airport",
-        "iata": "FAN",
-        "city": "Farsund",
-        "country": "Norway",
-        "country_code": "NO",
-        "alpha_3_code": "NOR",
-        "lat": "58.0994987487793",
-        "lng": "6.626049995422362",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "NO-42",
-        "nearest_major_airport": "SVG",
-        "region_name": "Agder",
-        "continent": "EU"
-    },
-    {
-        "name": "Botucatu - Tancredo de Almeida Neves Airport",
-        "iata": "QCJ",
-        "city": "Botucatu",
-        "country": "Brazil",
-        "country_code": "BR",
-        "alpha_3_code": "BRA",
-        "lat": "-22.939501",
-        "lng": "-48.467999",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "BR-SP",
-        "nearest_major_airport": "SAO",
-        "region_name": "São Paulo",
-        "continent": "SA"
-    },
-    {
         "name": "Mário Pereira Lopes–São Carlos Airport",
         "iata": "QSC",
         "city": "Sao Carlos",
@@ -86632,23 +85646,6 @@
         "continent": "AS"
     },
     {
-        "name": "Redhill Aerodrome",
-        "iata": "KRH",
-        "city": "Redhill",
-        "country": "United Kingdom",
-        "country_code": "GB",
-        "alpha_3_code": "GBR",
-        "lat": "51.2136001587",
-        "lng": "-0.138611003757",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "GB-ENG",
-        "nearest_major_airport": "LGW",
-        "region_name": "England",
-        "continent": "EU"
-    },
-    {
         "name": "Jiagedaqi Airport",
         "iata": "JGD",
         "city": "Jiagedaqi District",
@@ -86714,23 +85711,6 @@
         "region": "NZ-TAS",
         "nearest_major_airport": "WLG",
         "region_name": "Tasman Region",
-        "continent": "OC"
-    },
-    {
-        "name": "Shute Harbour Airport",
-        "iata": "JHQ",
-        "city": "Shute Harbour",
-        "country": "Australia",
-        "country_code": "AU",
-        "alpha_3_code": "AUS",
-        "lat": "-20.277221",
-        "lng": "148.755556",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "AU-QLD",
-        "nearest_major_airport": "BNE",
-        "region_name": "Queensland",
         "continent": "OC"
     },
     {
@@ -87021,23 +86001,6 @@
         "nearest_major_airport": "BNE",
         "region_name": "Queensland",
         "continent": "OC"
-    },
-    {
-        "name": "Alameda Naval Air Station",
-        "iata": "NGZ",
-        "city": "Alameda",
-        "country": "United States",
-        "country_code": "US",
-        "alpha_3_code": "USA",
-        "lat": "37.78889846801758",
-        "lng": "-122.31999969482422",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "US-CA",
-        "nearest_major_airport": "OAK",
-        "region_name": "California",
-        "continent": "NA"
     },
     {
         "name": "Cochrane Airport",
@@ -88366,23 +87329,6 @@
         "continent": "OC"
     },
     {
-        "name": "Taszár Air Base",
-        "iata": "TZR",
-        "city": "Columbus",
-        "country": "United States",
-        "country_code": "US",
-        "alpha_3_code": "USA",
-        "lat": "46.39310073852539",
-        "lng": "17.917499542236328",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "HU-SO",
-        "nearest_major_airport": "PWM",
-        "region_name": "Somogy County",
-        "continent": "NA"
-    },
-    {
         "name": "Fort Bridger Airport",
         "iata": "FBR",
         "city": "Fort Bridger",
@@ -89318,23 +88264,6 @@
         "continent": "AF"
     },
     {
-        "name": "Redzikowo Air Base",
-        "iata": "OSP",
-        "city": "Slupsk",
-        "country": "Poland",
-        "country_code": "PL",
-        "alpha_3_code": "POL",
-        "lat": "54.47890090942383",
-        "lng": "17.107500076293945",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "PL-PM",
-        "nearest_major_airport": "GDN",
-        "region_name": "Pomeranian Voivodeship",
-        "continent": "EU"
-    },
-    {
         "name": "Kasama Airport",
         "iata": "KAA",
         "city": "Kasama",
@@ -90015,23 +88944,6 @@
         "continent": "EU"
     },
     {
-        "name": "Kautokeino Air Base",
-        "iata": "QKX",
-        "city": "Kautokeino",
-        "country": "Norway",
-        "country_code": "NO",
-        "alpha_3_code": "NOR",
-        "lat": "69.04029846191406",
-        "lng": "23.03400039672852",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "TOS",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Stinson Municipal Airport",
         "iata": "SSF",
         "city": "Stinson",
@@ -90233,40 +89145,6 @@
         "region": "US-SC",
         "nearest_major_airport": "CLT",
         "region_name": "South Carolina",
-        "continent": "NA"
-    },
-    {
-        "name": "San Cristobal de las Casas Airport",
-        "iata": "SZT",
-        "city": "San Cristobal de las Casas",
-        "country": "Mexico",
-        "country_code": "MX",
-        "alpha_3_code": "MEX",
-        "lat": "16.690299987793",
-        "lng": "-92.530097961426",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": "MX-CHP",
-        "nearest_major_airport": "MEX",
-        "region_name": "Chiapas",
-        "continent": "NA"
-    },
-    {
-        "name": "Dunnville Airport",
-        "iata": "DU9",
-        "city": "Dunnville",
-        "country": "Canada",
-        "country_code": "CA",
-        "alpha_3_code": "CAN",
-        "lat": "42.8722000122",
-        "lng": "-79.5958023071",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "YYZ",
-        "region_name": null,
         "continent": "NA"
     },
     {
@@ -94520,23 +93398,6 @@
         "continent": "EU"
     },
     {
-        "name": "Cuatro Vientos Airport",
-        "iata": "ECV",
-        "city": "Madrid",
-        "country": "Spain",
-        "country_code": "ES",
-        "alpha_3_code": "ESP",
-        "lat": "40.370701000000004",
-        "lng": "-3.78514",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "ES-M",
-        "nearest_major_airport": "MAD",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Castellón-Costa Azahar Airport",
         "iata": "CDT",
         "city": "Castellón de la Plana",
@@ -94568,23 +93429,6 @@
         "region": "ES-AR",
         "nearest_major_airport": "ALC",
         "region_name": "Aragón",
-        "continent": "EU"
-    },
-    {
-        "name": "Sarzana-Luni Air Base",
-        "iata": "QLP",
-        "city": "Sarzana (SP)",
-        "country": "Italy",
-        "country_code": "IT",
-        "alpha_3_code": "ITA",
-        "lat": "44.088001",
-        "lng": "9.98795",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "PSA",
-        "region_name": null,
         "continent": "EU"
     },
     {
@@ -94673,23 +93517,6 @@
         "continent": "NA"
     },
     {
-        "name": "San Nicolas De Bari Airport",
-        "iata": "QSN",
-        "city": "San Nicolás",
-        "country": "Cuba",
-        "country_code": "CU",
-        "alpha_3_code": "CUB",
-        "lat": "22.75609970092773",
-        "lng": "-81.9208984375",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "CU-16",
-        "nearest_major_airport": "HAV",
-        "region_name": "Mayabeque Province",
-        "continent": "NA"
-    },
-    {
         "name": "San Julian Air Base",
         "iata": "SNJ",
         "city": "Pinar Del Rio",
@@ -94738,23 +93565,6 @@
         "region": "SA-14",
         "nearest_major_airport": "JED",
         "region_name": "Asir Region",
-        "continent": "AS"
-    },
-    {
-        "name": "Riyadh Air Base",
-        "iata": "XXN",
-        "city": "Riyadh",
-        "country": "Saudi Arabia",
-        "country_code": "SA",
-        "alpha_3_code": "SAU",
-        "lat": "24.709800720214844",
-        "lng": "46.72520065307617",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "SA-01",
-        "nearest_major_airport": "RUH",
-        "region_name": "Riyadh Region",
         "continent": "AS"
     },
     {
@@ -95010,23 +93820,6 @@
         "region": "BR-SP",
         "nearest_major_airport": "SAO",
         "region_name": "São Paulo",
-        "continent": "SA"
-    },
-    {
-        "name": "Base de Aviação de Taubaté Airport",
-        "iata": "QHP",
-        "city": "Taubaté",
-        "country": "Brazil",
-        "country_code": "BR",
-        "alpha_3_code": "BRA",
-        "lat": "-23.04010009765625",
-        "lng": "-45.51599884033203",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "GRU",
-        "region_name": null,
         "continent": "SA"
     },
     {
@@ -95299,23 +94092,6 @@
         "region": "SE-BD",
         "nearest_major_airport": "ARN",
         "region_name": "Norrbottena län",
-        "continent": "EU"
-    },
-    {
-        "name": "Vilyuisk Airport",
-        "iata": "VYI",
-        "city": "Vilyuisk",
-        "country": "Russia",
-        "country_code": "RU",
-        "alpha_3_code": "RUS",
-        "lat": "63.75666809082",
-        "lng": "121.69333648681999",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "RU-SA",
-        "nearest_major_airport": "VVO",
-        "region_name": "Sakha (Yakutia) Republic",
         "continent": "EU"
     },
     {
@@ -96016,23 +94792,6 @@
         "continent": "OC"
     },
     {
-        "name": "Narromine Airport",
-        "iata": "QRM",
-        "city": "",
-        "country": "Australia",
-        "country_code": "AU",
-        "alpha_3_code": "AUS",
-        "lat": "-32.214698791503906",
-        "lng": "148.22500610351562",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "AU-NSW",
-        "nearest_major_airport": "SYD",
-        "region_name": "New South Wales",
-        "continent": "OC"
-    },
-    {
         "name": "Port Pirie Airport",
         "iata": "PPI",
         "city": "",
@@ -96184,23 +94943,6 @@
         "nearest_major_airport": "STO",
         "region_name": "Kalmar län",
         "continent": "EU"
-    },
-    {
-        "name": "Warren Airport",
-        "iata": "QRR",
-        "city": "",
-        "country": "Australia",
-        "country_code": "AU",
-        "alpha_3_code": "AUS",
-        "lat": "-31.73329925537109",
-        "lng": "147.80299377441406",
-        "type": "city",
-        "metro": null,
-        "category": "medium",
-        "region": "AU-NSW",
-        "nearest_major_airport": "SYD",
-        "region_name": "New South Wales",
-        "continent": "OC"
     },
     {
         "name": "West Sale Airport",
@@ -96968,23 +95710,6 @@
         "continent": "AF"
     },
     {
-        "name": "Klaipėda Airport",
-        "iata": "KLJ",
-        "city": "Klaipeda",
-        "country": "Lithuania",
-        "country_code": "LT",
-        "alpha_3_code": "LTU",
-        "lat": "55.7118988037",
-        "lng": "21.242799758900002",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "VNO",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "West Bend Municipal Airport",
         "iata": "ETB",
         "city": "WEST BEND",
@@ -97053,23 +95778,6 @@
         "continent": "NA"
     },
     {
-        "name": "Cenej Airport",
-        "iata": "QND",
-        "city": "Novi Sad",
-        "country": "Serbia",
-        "country_code": "RS",
-        "alpha_3_code": "SRB",
-        "lat": "45.385799",
-        "lng": "19.839199",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "BEG",
-        "region_name": null,
-        "continent": "EU"
-    },
-    {
         "name": "Grundarfjörður Airport",
         "iata": "GUU",
         "city": "Grundarfjordur",
@@ -97119,23 +95827,6 @@
         "nearest_major_airport": "WDH",
         "region_name": "Otjozondjupa Region",
         "continent": "AF"
-    },
-    {
-        "name": "Celle Airport",
-        "iata": "ZCN",
-        "city": "Celle",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "52.59120178222656",
-        "lng": "10.022100448608398",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "HAJ",
-        "region_name": null,
-        "continent": "EU"
     },
     {
         "name": "Taos Regional Airport",
@@ -97254,23 +95945,6 @@
         "region": "SH-SH",
         "nearest_major_airport": "LGW",
         "region_name": "Saint Helena",
-        "continent": "EU"
-    },
-    {
-        "name": "Bonn-Hangelar Airport",
-        "iata": "BNJ",
-        "city": "Sankt-Augustin",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "50.768890380900004",
-        "lng": "7.16333293915",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "DE-NW",
-        "nearest_major_airport": "CGN",
-        "region_name": "North Rhine-Westphalia",
         "continent": "EU"
     },
     {
@@ -97835,23 +96509,6 @@
         "continent": "NA"
     },
     {
-        "name": "Qeqertaq Heliport",
-        "iata": "QQT",
-        "city": "Qeqertaq",
-        "country": "Greenland",
-        "country_code": "GL",
-        "alpha_3_code": "GRL",
-        "lat": "69.9958611087",
-        "lng": "-51.3009166718",
-        "type": "city",
-        "metro": null,
-        "category": "heliport",
-        "region": "GL-U-A",
-        "nearest_major_airport": null,
-        "region_name": "(unassigned)",
-        "continent": "NA"
-    },
-    {
         "name": "Ikamiut Heliport",
         "iata": "QJI",
         "city": "Ikamiut",
@@ -97860,23 +96517,6 @@
         "alpha_3_code": "GRL",
         "lat": "68.6342530984",
         "lng": "-51.8322622776",
-        "type": "city",
-        "metro": null,
-        "category": "heliport",
-        "region": "GL-U-A",
-        "nearest_major_airport": null,
-        "region_name": "(unassigned)",
-        "continent": "NA"
-    },
-    {
-        "name": "Eqalugaarsuit Heliport",
-        "iata": "QFG",
-        "city": "Eqalugaarsuit",
-        "country": "Greenland",
-        "country_code": "GL",
-        "alpha_3_code": "GRL",
-        "lat": "60.619719653599994",
-        "lng": "-45.9140619636",
         "type": "city",
         "metro": null,
         "category": "heliport",
@@ -97918,23 +96558,6 @@
         "nearest_major_airport": "MAO",
         "region_name": "Pará",
         "continent": "SA"
-    },
-    {
-        "name": "Hanau Army Air Field",
-        "iata": "ZNF",
-        "city": "Hanau",
-        "country": "Germany",
-        "country_code": "DE",
-        "alpha_3_code": "DEU",
-        "lat": "50.169201",
-        "lng": "8.96159",
-        "type": "city",
-        "metro": null,
-        "category": null,
-        "region": null,
-        "nearest_major_airport": "FRA",
-        "region_name": null,
-        "continent": "EU"
     },
     {
         "name": "Adolino Bedin Regional Airport",
@@ -98308,23 +96931,6 @@
         "region": "TZ-12",
         "nearest_major_airport": "DAR",
         "region_name": "Lindi Region",
-        "continent": "AF"
-    },
-    {
-        "name": "Moshi Airport",
-        "iata": "QSI",
-        "city": "Moshi",
-        "country": "Tanzania",
-        "country_code": "TZ",
-        "alpha_3_code": "TZA",
-        "lat": "-3.3633298873901367",
-        "lng": "37.32690048217773",
-        "type": "city",
-        "metro": null,
-        "category": "small",
-        "region": "TZ-09",
-        "nearest_major_airport": "ZNZ",
-        "region_name": "Kilimanjaro Region",
         "continent": "AF"
     },
     {
