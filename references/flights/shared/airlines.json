@@ -3707,23 +3707,80 @@
     "code": "PO",
     "name": "FlyPortugal"
   },
-  { "code": "GQ", "name": "Sky Express" },
-  { "code": "P6", "name": "Pascan" },
-  { "code": "PB", "name": "PAL Airlines" },
-  { "code": "UK", "name": "Vistara" },
-  { "code": "VB", "name": "Viva Aerobus" },
-  { "code": "F2", "name": "Safarilink Aviation" },
-  { "code": "KP", "name": "ASKY" },
-  { "code": "3C", "name": "Air Chathams" },
-  { "code": "NZ", "name": "Air New Zealand" },
-  { "code": "Q4", "name": "Euroairlines" },
-  { "code": "X1", "name": "Hahn Air" },
-  { "code": "P2", "name": "AirKenya Express" },
-  { "code": "F2", "name": "Safarilink Aviation" },
-  { "code": "OW", "name": "Skyward Express" },
-  { "code": "5O", "name": "ASL Airlines France" },
-  { "code": "2Z", "name": "Voepass Linhas Aéreas" },
-  { "code": "5U", "name": "TAG Airlines" },
-  { "code": "3M", "name": "Silver Airways" },
-  { "code": "Y2", "name": "Air Century" }
+  {
+    "code": "GQ",
+    "name": "Sky Express"
+  },
+  {
+    "code": "P6",
+    "name": "Pascan"
+  },
+  {
+    "code": "PB",
+    "name": "PAL Airlines"
+  },
+  {
+    "code": "UK",
+    "name": "Vistara"
+  },
+  {
+    "code": "VB",
+    "name": "Viva Aerobus"
+  },
+  {
+    "code": "F2",
+    "name": "Safarilink Aviation"
+  },
+  {
+    "code": "KP",
+    "name": "ASKY"
+  },
+  {
+    "code": "3C",
+    "name": "Air Chathams"
+  },
+  {
+    "code": "NZ",
+    "name": "Air New Zealand"
+  },
+  {
+    "code": "Q4",
+    "name": "Euroairlines"
+  },
+  {
+    "code": "X1",
+    "name": "Hahn Air"
+  },
+  {
+    "code": "P2",
+    "name": "AirKenya Express"
+  },
+  {
+    "code": "F2",
+    "name": "Safarilink Aviation"
+  },
+  {
+    "code": "OW",
+    "name": "Skyward Express"
+  },
+  {
+    "code": "5O",
+    "name": "ASL Airlines France"
+  },
+  {
+    "code": "2Z",
+    "name": "Voepass Linhas Aéreas"
+  },
+  {
+    "code": "5U",
+    "name": "TAG Airlines"
+  },
+  {
+    "code": "3M",
+    "name": "Silver Airways"
+  },
+  {
+    "code": "Y2",
+    "name": "Air Century"
+  }
 ]
