@@ -459,23 +459,6 @@
     "continent": "NA"
   },
   {
-    "name": "Houston Metropolitan Area",
-    "iata": "QHO",
-    "city": "Houston",
-    "country": "United States",
-    "country_code": "US",
-    "alpha_3_code": "USA",
-    "lat": "29.749907",
-    "lng": "-95.358421",
-    "type": "master",
-    "metro": "QHO",
-    "category": null,
-    "region": null,
-    "nearest_major_airport": null,
-    "region_name": null,
-    "continent": "NA"
-  },
-  {
     "name": "Stockholm Metropolitan Area",
     "iata": "STO",
     "city": "Stockholm",
@@ -36749,7 +36732,7 @@
     "metro": null,
     "category": "small",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -37480,7 +37463,7 @@
     "metro": "IAH",
     "category": "medium",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -37599,7 +37582,7 @@
     "metro": null,
     "category": "medium",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -37769,7 +37752,7 @@
     "metro": null,
     "category": "medium",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -48173,7 +48156,7 @@
     "metro": null,
     "category": "medium",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -48258,7 +48241,7 @@
     "metro": null,
     "category": "small",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -86660,9 +86643,9 @@
     "type": "city",
     "metro": null,
     "category": "medium",
-    "region": "ID-KI",
-    "nearest_major_airport": "QHO",
-    "region_name": "Kalimantan Timur (East Kalimantan)",
+    "region": "US-TX",
+    "nearest_major_airport": "IAH",
+    "region_name": "Texas",
     "continent": "NA"
   },
   {
@@ -86882,7 +86865,7 @@
     "metro": null,
     "category": "medium",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
@@ -90214,7 +90197,7 @@
     "metro": null,
     "category": "small",
     "region": "US-TX",
-    "nearest_major_airport": "QHO",
+    "nearest_major_airport": "IAH",
     "region_name": "Texas",
     "continent": "NA"
   },
