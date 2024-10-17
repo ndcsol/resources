@@ -1,0 +1,999 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Montevideo,Montevideo,"Ciudad de Montevideo",-34.8836,-56.1819,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,primary,1807.0,1719453,1319108,1,America/Montevideo,FALSE,1858107000
+Maldonado,Maldonado,"San Fernando de Maldonado",-34.9000,-54.9500,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,admin,452.0,135014,86782,2,America/Montevideo,FALSE,1858958595
+Salto,Salto,"Ciudad del Salto|Salta",-31.3833,-57.9500,Uruguay,UY,URY,Salto,Salto,UY-SA,department,admin,4021.2,124878,124878,2,America/Montevideo,FALSE,1858575950
+"Ciudad de la Costa","Ciudad de la Costa",,-34.8167,-55.9500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2194.1,112449,112449,2,America/Montevideo,FALSE,1858042396
+Paysandú,Paysandu,"Ciudad de Paysandú",-32.3214,-58.0756,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,admin,4464.5,76429,76429,2,America/Montevideo,FALSE,1858756515
+"Las Piedras","Las Piedras","San Isidrio|Piedras|Villa de las Piedras",-34.7167,-56.2167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,5700.9,71268,71268,2,America/Montevideo,FALSE,1858563314
+Rivera,Rivera,"Villa de Rivera",-30.9025,-55.5506,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,admin,5396.3,64465,64465,2,America/Montevideo,FALSE,1858819782
+Tacuarembó,Tacuarembo,"Villa de Tacuarembo|San Fructuoso|Villa de San Fructuoso",-31.7333,-55.9833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,admin,4792.5,54755,54755,2,America/Montevideo,FALSE,1858952595
+Melo,Melo,"Ciudad de Melo",-32.3667,-54.1833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,admin,5407.4,51830,51830,2,America/Montevideo,FALSE,1858600801
+Mercedes,Mercedes,"Ciudad de Mercedes",-33.2500,-58.0333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,admin,6438.3,41974,41974,2,America/Montevideo,FALSE,1858182538
+Artigas,Artigas,"San Eugenio",-30.4667,-56.4667,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,admin,5814.1,40658,40658,2,America/Montevideo,FALSE,1858646839
+Minas,Minas,"Ciudad de Minas|Lavalleja",-34.3667,-55.2333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,admin,4688.5,38446,38446,2,America/Montevideo,FALSE,1858724823
+"San José","San Jose","San José de Mayo|Ciudad de San José",-34.3333,-56.7167,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,admin,5361.6,36747,36747,2,America/Montevideo,FALSE,1858927597
+Durazno,Durazno,Duranzo,-33.3667,-56.5167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,admin,4830.6,34368,34368,2,America/Montevideo,FALSE,1858006236
+Florida,Florida,"Ciudad de la Florida",-34.1000,-56.2167,Uruguay,UY,URY,Florida,Florida,UY-FD,department,admin,5921.8,33639,33639,2,America/Montevideo,FALSE,1858077099
+"Barros Blancos","Barros Blancos",,-34.7542,-56.0042,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2445.6,31650,31650,2,America/Montevideo,FALSE,1858612587
+"Ciudad del Plata","Ciudad del Plata",,-34.7667,-56.3806,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,1774.6,31145,31145,3,America/Montevideo,FALSE,1858720449
+"San Carlos","San Carlos","Villa de San Carlos",-34.8000,-54.9167,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,5465.4,27471,27471,2,America/Montevideo,FALSE,1858085265
+"Colonia del Sacramento","Colonia del Sacramento","Sacramento|La Ciudad de Colonia|Ciudad de la Colonia del Sacramento|Colonia",-34.4714,-57.8442,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,admin,3527.2,26231,26231,2,America/Montevideo,FALSE,1858338569
+Pando,Pando,"Villa de Pando",-34.7167,-55.9583,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,5436.1,25949,25949,2,America/Montevideo,FALSE,1858276269
+"Treinta y Tres","Treinta y Tres","Villa de Treinta y Tres",-33.2333,-54.3833,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,admin,4503.2,25477,25477,2,America/Montevideo,FALSE,1858879204
+Rocha,Rocha,"Ciudad de Rocha",-34.4833,-54.3500,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,admin,3975.0,25422,25422,2,America/Montevideo,FALSE,1858936449
+"Fray Bentos","Fray Bentos","Villa Independencia|Independencia|Villa Fray Bentos|Villa de Fray Bentos",-33.1333,-58.3000,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,admin,1246.8,24406,24406,2,America/Montevideo,FALSE,1858727525
+Trinidad,Trinidad,,-33.5333,-56.8833,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,529.0,21429,21429,3,America/Montevideo,FALSE,1858903609
+"El Pinar","El Pinar",,-34.7972,-55.9097,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1026.6,21091,21091,3,America/Montevideo,FALSE,1858554922
+"La Paz","La Paz",,-34.7617,-56.2233,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,6570.1,20524,20524,2,America/Montevideo,FALSE,1858113046
+Canelones,Canelones,"Guadalupe|Villa de Canelones",-34.5167,-56.2833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,admin,1418.9,19865,19865,2,America/Montevideo,FALSE,1858741797
+"Bella Unión","Bella Union","Santa Rosa del Cuareim|Santa Rosa",-30.2500,-57.5833,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,2958.2,19100,19100,2,America/Montevideo,FALSE,1858883224
+Carmelo,Carmelo,"Las Víboras",-34.0000,-58.2833,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,3777.0,18041,18041,2,America/Montevideo,FALSE,1858670999
+Young,Young,,-32.7000,-57.6333,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,2344.7,16756,16756,2,America/Montevideo,FALSE,1858448729
+"Santa Lucía","Santa Lucia","San Juan Bautista",-34.4525,-56.3964,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,4489.3,16742,16742,2,America/Montevideo,FALSE,1858287723
+Progreso,Progreso,"Ingeniero Eduardo García de Zúñiga",-34.6650,-56.2194,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2321.4,16244,16244,2,America/Montevideo,FALSE,1858245447
+"Paso de Carrasco","Paso de Carrasco",,-34.8714,-56.0272,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,4580.1,15908,15908,2,America/Montevideo,FALSE,1858805647
+Dolores,Dolores,,-33.5333,-58.2167,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,5068.2,15753,15753,2,America/Montevideo,FALSE,1858369530
+"Río Branco","Rio Branco","La Cuchilla|Artigas",-32.5972,-53.3833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.8,14604,14604,3,America/Montevideo,FALSE,1858289927
+Tala,Tala,,-34.3500,-55.7667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2329.8,13254,13254,2,America/Montevideo,FALSE,1858233151
+"Paso de los Toros","Paso de los Toros","Santa Isabel",-32.8112,-56.5086,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,409.8,12985,12985,3,America/Montevideo,FALSE,1858768851
+"Juan L. Lacaze","Juan L. Lacaze","Juan Lacaze|J.L. Lacaze|Pueblo Juan L. Lacaze",-34.4311,-57.4483,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1516.9,12816,12816,3,America/Montevideo,FALSE,1858599610
+Libertad,Libertad,Liberfad,-34.6333,-56.6192,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,3645.0,11458,11458,2,America/Montevideo,FALSE,1858652953
+"Nueva Helvecia","Nueva Helvecia",,-34.2833,-57.2000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,810.4,10630,10630,3,America/Montevideo,FALSE,1858393787
+"Nueva Palmira","Nueva Palmira",,-33.8833,-58.4167,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2711.5,9857,9857,2,America/Montevideo,FALSE,1858193401
+Chuy,Chuy,,-33.6964,-53.4600,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2454.5,9675,9675,2,America/Montevideo,FALSE,1858852364
+"Colonia Nicolich","Colonia Nicolich",,-34.8167,-56.0167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,856.4,9624,9624,3,America/Montevideo,FALSE,1858537250
+Rosario,Rosario,"Villa del Rosario",-34.3139,-57.3525,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1245.6,9311,9311,3,America/Montevideo,FALSE,1858160603
+"Punta del Este","Punta del Este",,-34.9667,-54.9500,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,455.9,9277,9277,3,America/Montevideo,FALSE,1858267433
+Piriápolis,Piriapolis,"Puerto del Inglés",-34.9000,-55.2833,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,353.2,8830,8830,3,America/Montevideo,FALSE,1858127354
+Salinas,Salinas,"Balneario de Pando|Balneario Salinas",-34.7833,-55.8333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2088.4,8626,8626,2,America/Montevideo,FALSE,1858193593
+"Nuevo Paysandú","Nuevo Paysandu","Colonia Nuevo Paysandú",-32.2667,-58.0667,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,461.3,8578,8578,3,America/Montevideo,FALSE,1858171895
+"Cerro Pelado","Cerro Pelado",,-34.8833,-54.9833,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,6048.4,8177,8177,2,America/Montevideo,FALSE,1858988608
+Lagomar,Lagomar,,-34.8358,-55.9850,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2532.6,8066,8066,2,America/Montevideo,FALSE,1858353224
+"Parque del Plata","Parque del Plata","Balneario Parque del Plata",-34.7667,-55.7167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1259.2,7896,7896,3,America/Montevideo,FALSE,1858274411
+Lascano,Lascano,Lazcano,-33.6739,-54.2075,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2877.7,7645,7645,2,America/Montevideo,FALSE,1858593854
+Castillos,Castillos,"Pueblo de San Vicente de Castillos|San Vicente de Castillos",-34.1989,-53.8575,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2394.7,7541,7541,2,America/Montevideo,FALSE,1858885344
+Tranqueras,Tranqueras,,-31.1833,-55.7667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.8,7235,7235,4,America/Montevideo,FALSE,1858727708
+"Sarandí del Yi","Sarandi del Yi",,-33.3333,-55.6333,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,1993.0,7176,7176,3,America/Montevideo,FALSE,1858908164
+"San Ramón","San Ramon",,-34.3000,-55.9575,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1802.8,7133,7133,3,America/Montevideo,FALSE,1858512396
+"San Jacinto","San Jacinto",,-34.5500,-55.8667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1831.9,7000,7000,3,America/Montevideo,FALSE,1858537441
+Tarariras,Tarariras,"J. Suárez|Suárez|Joaquín Suárez",-34.2661,-57.6169,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2598.8,6632,6632,2,America/Montevideo,FALSE,1858133439
+"Pan de Azúcar","Pan de Azucar",,-34.8000,-55.2167,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,9.2,6597,6597,3,America/Montevideo,FALSE,1858825191
+"Joaquín Suárez","Joaquin Suarez","J. Suarez|Suárez|Pueblo Joaquín Suárez",-34.7333,-56.0333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,3135.0,6570,6570,2,America/Montevideo,FALSE,1858294756
+Sauce,Sauce,,-34.6500,-56.0667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,3117.1,6132,6132,2,America/Montevideo,FALSE,1858554370
+"Sarandí Grande","Sarandi Grande","Villa Sarandí|Sarandí",-33.5667,-56.3333,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,1605.7,6130,6130,3,America/Montevideo,FALSE,1858373689
+Atlántida,Atlantida,"Playa Atlántida",-34.7667,-55.7500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1922.4,5562,5562,3,America/Montevideo,FALSE,1858331514
+"Barra de Carrasco","Barra de Carrasco",,-34.8714,-56.0272,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2122.9,5410,5410,2,America/Montevideo,FALSE,1858260412
+"José Pedro Varela","Jose Pedro Varela","J.P. Varela|José P. Varela",-33.4500,-54.5333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,1637.0,5118,5118,3,America/Montevideo,FALSE,1858511994
+Guichón,Guichon,,-32.3500,-57.2000,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,1396.0,5039,5039,3,America/Montevideo,FALSE,1858589907
+Neptunia,Neptunia,,-34.7833,-55.8667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,864.6,4774,4774,3,America/Montevideo,FALSE,1858997385
+Cardona,Cardona,,-33.8694,-57.3681,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,2283.8,4600,4600,2,America/Montevideo,FALSE,1858722442
+Toledo,Toledo,,-34.7422,-56.0983,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2675.4,4397,4397,2,America/Montevideo,FALSE,1858946246
+"Villa Aeroparque","Villa Aeroparque",,-34.7917,-55.9944,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2084.8,4307,4307,2,America/Montevideo,FALSE,1858520715
+Vergara,Vergara,,-32.9500,-53.9333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,740.3,3810,3810,3,America/Montevideo,FALSE,1858979569
+"Minas de Corrales","Minas de Corrales",Corrales,-31.5667,-55.4667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,709.4,3788,3788,3,America/Montevideo,FALSE,1858601251
+"Santa Rosa","Santa Rosa",,-34.5000,-56.0333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1690.2,3727,3727,3,America/Montevideo,FALSE,1858970257
+"Florencio Sánchez","Florencio Sanchez",,-33.8833,-57.3833,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1110.4,3716,3716,3,America/Montevideo,FALSE,1858200885
+Vichadero,Vichadero,"Poblado Vichadero|Vicheadero",-31.7833,-54.7000,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,1.6,3698,3698,4,America/Montevideo,FALSE,1858889086
+Marindia,Marindia,,-34.7708,-55.8236,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1590.1,3543,3543,3,America/Montevideo,FALSE,1858289080
+"La Paloma","La Paloma","Puerto de la Paloma",-34.6500,-54.1667,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,761.0,3495,3495,3,America/Montevideo,FALSE,1858559267
+"San Gregorio de Polanco","San Gregorio de Polanco","San Gregorio",-32.6167,-55.8333,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,768.8,3415,3415,3,America/Montevideo,FALSE,1858275224
+"Ombúes de Lavalle","Ombues de Lavalle","Colonia Ombúes de Lavalle",-33.9375,-57.8125,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1167.2,3390,3390,3,America/Montevideo,FALSE,1858959659
+"Colonia Valdense","Colonia Valdense",Piamontesa|Valdense,-34.3383,-57.2653,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,737.2,3235,3235,3,America/Montevideo,FALSE,1858066277
+"Cerro Chato","Cerro Chato",,-33.1000,-55.1333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,338.8,3227,3227,3,America/Montevideo,FALSE,1858377014
+Shangrilá,Shangrila,,-34.8475,-55.9981,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2326.2,3195,3195,2,America/Montevideo,FALSE,1858708822
+"Fraile Muerto","Fraile Muerto","Frayle Muerto",-32.5167,-54.5167,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,236.7,3168,3168,3,America/Montevideo,FALSE,1858079689
+"Las Toscas","Las Toscas","Balneario Las Toscas",-34.7667,-55.7333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,967.3,3146,3146,3,America/Montevideo,FALSE,1858784846
+Quebracho,Quebracho,,-31.9361,-57.9028,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,1350.5,2853,2853,3,America/Montevideo,FALSE,1858133508
+"Villa Constitución","Villa Constitucion","Constitución|Pueblo Constitución|Constitution",-31.0667,-57.8500,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,1111.4,2844,2844,3,America/Montevideo,FALSE,1858599144
+"La Capuera","La Capuera",,-34.8556,-55.1286,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,672.6,2838,2838,3,America/Montevideo,FALSE,1858159448
+"Solís de Mataojo","Solis de Mataojo","Solís Grande|Solís",-34.6000,-55.4667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,830.3,2825,2825,3,America/Montevideo,FALSE,1858416979
+"Colinas de Solymar","Colinas de Solymar",,-34.8019,-55.9578,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1708.6,2813,2813,3,America/Montevideo,FALSE,1858020539
+"Las Piedras","Las Piedras",,-30.2333,-57.5833,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,28.6,2771,2771,4,America/Montevideo,FALSE,1858283646
+Ansina,Ansina,"Borracho|Poblado del Borracho|Paso del Borracho|El Borracho",-31.8778,-55.4653,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,5.0,2712,2712,4,America/Montevideo,FALSE,1858880549
+"Villa del Carmen","Villa del Carmen","Pueblo de Nuestra Señora del Carmen|Pueblo del Carmen|Carmen del Durazno|Carmen",-33.2500,-56.0167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,74.9,2692,2692,4,America/Montevideo,FALSE,1858149826
+"Tomás Gomensoro","Tomas Gomensoro",,-30.4333,-57.4333,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,1474.1,2659,2659,3,America/Montevideo,FALSE,1858095408
+Rodríguez,Rodriguez,Concordia,-34.3828,-56.5417,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,1498.7,2604,2604,3,America/Montevideo,FALSE,1858135690
+"Ecilda Paullier","Ecilda Paullier","Santa Ecilda",-34.3667,-57.0667,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,946.3,2585,2585,3,America/Montevideo,FALSE,1858484103
+"Baltasar Brum","Baltasar Brum","Isla Cabellos|Cabellos|Estación Isla de Cabello|Estación Isla Cabello|Pueblo Isla Cabellos|Isla Cabello|Isla de Cabellos",-30.7167,-57.3333,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,1016.0,2531,2531,3,America/Montevideo,FALSE,1858039985
+"Los Cerrillos","Los Cerrillos",Cerrillos,-34.6069,-56.3583,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,558.7,2508,2508,3,America/Montevideo,FALSE,1858719873
+Aiguá,Aigua,"Pueblo de Aiguá",-34.2000,-54.7500,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,415.7,2465,2465,3,America/Montevideo,FALSE,1858068520
+"Nuevo Berlín","Nuevo Berlin",,-32.9792,-58.0528,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1063.5,2450,2450,3,America/Montevideo,FALSE,1858872301
+Casupá,Casupa,"Estación Casupá",-34.0333,-55.6500,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,661.6,2402,2402,3,America/Montevideo,FALSE,1858297544
+"Fray Marcos","Fray Marcos",,-34.1833,-55.7333,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,1205.4,2398,2398,3,America/Montevideo,FALSE,1858175732
+"Santa Clara de Olimar","Santa Clara de Olimar","Santa Clara del Olimar|Olimar Santa Clara|Santa Clara|Pueblo Olimar",-32.9167,-54.9500,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,72.3,2341,2341,3,America/Montevideo,FALSE,1858383158
+"Isidoro Noblía","Isidoro Noblia",,-31.9667,-54.1167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,2.2,2331,2331,3,America/Sao_Paulo,FALSE,1858965450
+"Estación Atlántida","Estacion Atlantida",,-34.7500,-55.7667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2308.7,2274,2274,2,America/Montevideo,FALSE,1858246256
+"José Batlle y Ordóñez","Jose Batlle y Ordonez","Batlle y Ordoñez",-33.4667,-55.1500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.1,2203,2203,3,America/Montevideo,FALSE,1858852252
+Palmitas,Palmitas,,-33.6500,-57.8000,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,552.2,2123,2123,3,America/Montevideo,FALSE,1858551704
+"José Enrique Rodó","Jose Enrique Rodo","Rodo|J.E. Rodo|E. Robo|Drable|Drabble",-33.7000,-57.5333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,452.3,2113,2113,3,America/Montevideo,FALSE,1858051664
+Migues,Migues,Miguez,-34.4833,-55.6333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1479.3,2109,2109,3,America/Montevideo,FALSE,1858047960
+Belén,Belen,,-30.7833,-57.7833,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,938.1,2030,2030,3,America/Montevideo,FALSE,1858609287
+"Pajas Blancas","Pajas Blancas","Playa Pajas Blancas",-34.8669,-56.3331,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,1570.8,1976,1976,3,America/Montevideo,FALSE,1858894263
+"San Bautista","San Bautista",,-34.4403,-55.9597,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,793.4,1973,1973,3,America/Montevideo,FALSE,1858588069
+"Barrio Hipódromo","Barrio Hipodromo",,-34.8625,-54.9414,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,2202.5,1973,1973,2,America/Montevideo,FALSE,1858602902
+"Chacras de Dolores","Chacras de Dolores",,-33.5500,-58.2167,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,91.1,1961,1961,4,America/Montevideo,FALSE,1858740034
+"San Luis","San Luis","Balneario San Luis",-34.7667,-55.5833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,699.4,1878,1878,3,America/Montevideo,FALSE,1858108126
+"Veinticinco de Mayo","Veinticinco de Mayo","25 de Mayo|Isla Mala",-34.1897,-56.3400,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,664.8,1852,1852,3,America/Montevideo,FALSE,1858652708
+"Veinticinco de Agosto","Veinticinco de Agosto","25 de Agosto",-34.4111,-56.4058,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,992.3,1849,1849,3,America/Montevideo,FALSE,1858340867
+Soca,Soca,"Doctor Soca|Doctor Francisco Soca|Mosquitos|Francisco Soca",-34.6833,-55.7000,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1301.7,1797,1797,3,America/Montevideo,FALSE,1858654210
+"San Javier","San Javier","Colonia San Javier",-32.6833,-58.1333,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,887.6,1781,1781,3,America/Montevideo,FALSE,1858081716
+Montes,Montes,,-34.5000,-55.5667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,612.3,1760,1760,3,America/Montevideo,FALSE,1858762998
+"San Félix","San Felix",,-32.3500,-58.1000,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,27.5,1718,1718,4,America/Argentina/Cordoba,FALSE,1858571730
+Pintadito,Pintadito,,-30.4339,-56.4594,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,331.4,1642,1642,3,America/Montevideo,FALSE,1858617795
+Mariscala,Mariscala,"La Mariscala",-34.0333,-54.7833,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,495.7,1626,1626,3,America/Montevideo,FALSE,1858797290
+Cebollatí,Cebollati,"Pueblo Cebollatí",-33.2667,-53.8000,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,771.0,1609,1609,3,America/Montevideo,FALSE,1858776941
+"La Floresta","La Floresta",Floresta,-34.7550,-55.6758,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,472.3,1595,1595,3,America/Montevideo,FALSE,1858410741
+Tambores,Tambores,,-31.8833,-56.2500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,631.4,1561,1561,3,America/Montevideo,FALSE,1858541041
+"Buenos Aires","Buenos Aires",,-34.8889,-54.7917,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,690.6,1551,1551,3,America/Montevideo,FALSE,1858557597
+Aceguá,Acegua,,-31.8667,-54.1667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,2.0,1511,1511,3,America/Montevideo,FALSE,1858016724
+"Puntas de Valdéz","Puntas de Valdez",,-34.5839,-56.6994,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,953.7,1491,1491,3,America/Montevideo,FALSE,1858282300
+"San Antonio","San Antonio",,-34.4500,-56.0833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,744.4,1489,1489,3,America/Montevideo,FALSE,1858873592
+"Santiago Vázquez","Santiago Vazquez",Santiago,-34.7900,-56.3506,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,918.0,1482,1482,3,America/Montevideo,FALSE,1858701711
+"La Paloma","La Paloma",,-32.7333,-55.5833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,9.5,1443,1443,4,America/Montevideo,FALSE,1858656415
+"General Enrique Martínez","General Enrique Martinez","La Charqueada|Charqueada|Enrique Martinez|Poblado General Enrique Martinez|Pueblo La Charqueada",-33.2067,-53.8053,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,633.2,1430,1430,3,America/Montevideo,FALSE,1858806944
+"Villa San José","Villa San Jose",,-34.7167,-56.0742,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,739.2,1419,1419,3,America/Montevideo,FALSE,1858411867
+"El Tesoro","El Tesoro",,-34.9064,-54.8731,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,500.0,1396,1396,3,America/Montevideo,FALSE,1858913023
+"Alejandro Gallinal","Alejandro Gallinal","Cerro Colorado",-33.8667,-55.5500,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,545.8,1357,1357,3,America/Montevideo,FALSE,1858153108
+"Villa Felicidad","Villa Felicidad",,-34.6500,-56.2333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,464.5,1344,1344,3,America/Montevideo,FALSE,1858356274
+"Estación La Floresta","Estacion La Floresta",,-34.7361,-55.6861,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,725.7,1313,1313,3,America/Montevideo,FALSE,1858347384
+Juanicó,Juanico,Joanicó,-34.6000,-56.2500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1558.8,1305,1305,3,America/Montevideo,FALSE,1858927874
+"Rafael Perazza","Rafael Perazza",,-34.5236,-56.7972,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,946.6,1277,1277,3,America/Montevideo,FALSE,1858190821
+Cardal,Cardal,,-34.2906,-56.3889,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,133.9,1202,1202,4,America/Montevideo,FALSE,1858138902
+"Villa Sara","Villa Sara",,-33.2528,-54.4139,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,323.7,1199,1199,3,America/Montevideo,FALSE,1858983422
+Porvenir,Porvenir,,-32.3939,-57.9678,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,1036.5,1159,1159,3,America/Montevideo,FALSE,1858011847
+"Pueblo Sequeira","Pueblo Sequeira",Sequeira,-31.0333,-56.8667,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,80.1,1149,1149,4,America/Montevideo,FALSE,1858123425
+"Las Toscas","Las Toscas","Paso de las Toscas",-32.1500,-55.0083,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,1142,1142,4,America/Montevideo,FALSE,1858402480
+"Pueblo Centenario","Pueblo Centenario",,-32.8300,-56.4989,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.5,1136,1136,4,America/Montevideo,FALSE,1858962842
+"Villa Soriano","Villa Soriano","Villa de Soriano|Santo Domingo de Soriano|Soriano",-33.4000,-58.3200,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,509.3,1124,1124,3,America/Montevideo,FALSE,1858213446
+Tupambaé,Tupambae,,-32.8333,-54.7667,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,22.3,1122,1122,3,America/Montevideo,FALSE,1858025876
+"Santa Bernardina","Santa Bernardina",,-33.3500,-56.5167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.8,1094,1094,4,America/Montevideo,FALSE,1858981407
+"Piedras Coloradas","Piedras Coloradas",,-32.5333,-57.6167,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,711.1,1094,1094,3,America/Montevideo,FALSE,1858890119
+Blanquillo,Blanquillo,,-32.8833,-55.6167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.2,1084,1084,4,America/Montevideo,FALSE,1858309643
+"Aguas Corrientes","Aguas Corrientes",,-34.5217,-56.3933,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,481.3,1047,1047,3,America/Montevideo,FALSE,1858542218
+Curtina,Curtina,"San Máximo",-32.1500,-56.1167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,222.1,1037,1037,3,America/Montevideo,FALSE,1858235483
+"Playa Grande","Playa Grande",,-34.8500,-55.2994,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,733.6,1031,1031,3,America/Montevideo,FALSE,1858118933
+"Nico Pérez","Nico Perez",,-33.4828,-55.1539,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,703.4,1030,1030,3,America/Montevideo,FALSE,1858534253
+Velázquez,Velazquez,"Pueblo Velázquez|Velasquez",-34.0333,-54.2833,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,463.2,1022,1022,3,America/Montevideo,FALSE,1858553763
+Miguelete,Miguelete,"Colonia Miguelete",-34.0000,-57.6500,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,662.8,999,999,3,America/Montevideo,FALSE,1858449748
+"Santa Catalina","Santa Catalina",,-33.7833,-57.4833,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,278.0,998,998,3,America/Montevideo,FALSE,1858139319
+"Dieciocho de Julio","Dieciocho de Julio","18 de Julio|Pueblo 18 de Julia|Diez y Ocho de Julio",-33.6833,-53.5556,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,350.5,977,977,3,America/Montevideo,FALSE,1858915728
+Molles,Molles,"Carlos Reyles",-33.0575,-56.4764,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.5,976,976,4,America/Montevideo,FALSE,1858282279
+"Costa Azul","Costa Azul","Balneario Costa Azul",-34.7667,-55.6500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,550.3,965,965,3,America/Montevideo,FALSE,1858949996
+"Colonia Lavalleja","Colonia Lavalleja",Lavalleja,-31.0972,-57.0250,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,570.6,956,956,3,America/Montevideo,FALSE,1858612579
+"Gregorio Aznáres","Gregorio Aznares","Gregorio Aznárez",-34.7167,-55.4167,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,614.0,944,944,3,America/Montevideo,FALSE,1858559252
+Franquía,Franquia,,-30.2222,-57.5972,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,26.7,935,935,4,America/Montevideo,FALSE,1858104141
+"Ismael Cortinas","Ismael Cortinas","Arroyo Grande",-33.9611,-57.0886,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,528.3,918,918,3,America/Montevideo,FALSE,1858723942
+"San Antonio","San Antonio",,-31.3500,-57.7667,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,291.3,877,877,3,America/Montevideo,FALSE,1858177371
+"Capilla del Sauce","Capilla del Sauce",,-33.4667,-55.6306,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.2,835,835,3,America/Montevideo,FALSE,1858343400
+"Punta del Diablo","Punta del Diablo",,-34.0458,-53.5389,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,48.4,823,823,4,America/Montevideo,FALSE,1858513739
+"Mendoza Chico","Mendoza Chico",,-34.2000,-56.2167,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,328.7,810,810,3,America/Montevideo,FALSE,1858624970
+Egaña,Egana,"Pueblo Egaña",-33.6000,-57.6333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,386.6,783,783,3,America/Montevideo,FALSE,1858042675
+Algorta,Algorta,,-32.4222,-57.3922,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,278.1,779,779,3,America/Montevideo,FALSE,1858975269
+"Lorenzo Geyres","Lorenzo Geyres",Queguay,-32.0833,-57.9167,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,659.9,774,774,3,America/Montevideo,FALSE,1858002753
+Ituzaingó,Ituzaingo,,-34.4194,-56.4250,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,384.3,771,771,3,America/Montevideo,FALSE,1858328984
+Capurro,Capurro,,-34.4367,-56.4647,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,134.7,771,771,4,America/Montevideo,FALSE,1858250803
+"Estanque de Pando","Estanque de Pando",,-34.7000,-55.9667,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2146.4,770,770,2,America/Montevideo,FALSE,1858679349
+"Colonia Dieciocho de Julio","Colonia Dieciocho de Julio",,-31.3614,-57.8739,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,211.7,750,750,3,America/Montevideo,FALSE,1858474519
+"Punta Ballena","Punta Ballena",,-34.8889,-55.0406,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,50.9,750,750,4,America/Montevideo,FALSE,1858024386
+"La Cruz","La Cruz",,-33.9292,-56.2350,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,540.4,747,747,3,America/Montevideo,FALSE,1858041121
+"Totoral del Sauce","Totoral del Sauce",Totoral,-34.6667,-56.0000,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,483.4,746,746,3,America/Montevideo,FALSE,1858455626
+Raigón,Raigon,,-34.3403,-56.6639,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,418.5,738,738,3,America/Montevideo,FALSE,1858556495
+Chapicuy,Chapicuy,,-31.6667,-57.8833,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,657.3,735,735,3,America/Montevideo,FALSE,1858848115
+Mendoza,Mendoza,,-34.2833,-56.2167,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,460.9,730,730,3,America/Montevideo,FALSE,1858694098
+Pirarajá,Piraraja,"Santa María del Pirarajá|Santa María",-33.7403,-54.7583,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,30.3,713,713,4,America/Montevideo,FALSE,1858306972
+Cuareim,Cuareim,,-30.2250,-57.5681,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,87.0,710,710,4,America/Montevideo,FALSE,1858739731
+Gallinal,Gallinal,,-31.8833,-57.4778,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,143.7,700,700,4,America/Montevideo,FALSE,1858751220
+Achar,Achar,"Pueblo Achar",-32.4000,-56.1833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,108.5,687,687,4,America/Montevideo,FALSE,1858092686
+Gerona,Gerona,,-34.7667,-55.2556,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,358.4,679,679,3,America/Montevideo,FALSE,1858186252
+"Empalme Olmos","Empalme Olmos","Olmos|Estación Olmos",-34.7000,-55.9000,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,2186.9,662,662,2,America/Montevideo,FALSE,1858988612
+"Villa Argentina","Villa Argentina",,-34.7667,-55.7833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,654.8,622,622,3,America/Montevideo,FALSE,1858655890
+"Villa María","Villa Maria",,-34.5153,-56.7611,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,652.0,620,620,3,America/Montevideo,FALSE,1858096674
+"Playa Hermosa","Playa Hermosa",,-34.8336,-55.3022,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,291.7,611,611,3,America/Montevideo,FALSE,1858024337
+"La Paz","La Paz","Colonia Piamontesa|Villa de la Paz|Pueblo de la Paz",-34.3500,-57.3000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,553.4,603,603,3,America/Montevideo,FALSE,1858631037
+"El Semillero","El Semillero",,-34.3333,-57.7000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,189.8,600,600,4,America/Montevideo,FALSE,1858873273
+"San Luis al Medio","San Luis al Medio","Paso de San Luis|Olivera|San Luis|Costa de San Luis",-33.6042,-53.7181,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,224.6,598,598,3,America/Montevideo,FALSE,1858097460
+Grecco,Grecco,"Greco|Las Flores",-32.8153,-57.0458,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,141.6,598,598,4,America/Montevideo,FALSE,1858144569
+Agraciada,Agraciada,"Pueblo la Agraciada",-33.8097,-58.2672,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,220.0,586,586,3,America/Montevideo,FALSE,1858558940
+Orgoroso,Orgoroso,,-32.3833,-57.5167,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,334.7,583,583,3,America/Montevideo,FALSE,1858476968
+Risso,Risso,,-33.6167,-57.5667,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,459.8,557,557,3,America/Montevideo,FALSE,1858533965
+Zapicán,Zapican,,-33.5275,-54.9392,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.6,553,553,4,America/Montevideo,FALSE,1858997717
+Albisu,Albisu,,-31.3844,-57.8139,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,529.9,544,544,3,America/Montevideo,FALSE,1858319488
+Chamizo,Chamizo,,-34.2500,-55.9333,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,207.2,540,540,3,America/Montevideo,FALSE,1858355899
+Merinos,Merinos,,-32.3833,-56.9000,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,165.2,528,528,4,America/Montevideo,FALSE,1858141965
+"Cuchilla Alta","Cuchilla Alta","Balneario Cuchilla Alta",-34.7944,-55.4944,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,329.5,527,527,3,America/Montevideo,FALSE,1858823879
+Castellanos,Castellanos,,-34.3778,-55.9569,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,285.9,520,520,3,America/Montevideo,FALSE,1858558900
+"La Coronilla","La Coronilla","Balneario La Coronilla",-33.9000,-53.5167,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,88.7,510,510,4,America/Montevideo,FALSE,1858889040
+Puimayen,Puimayen,,-33.7667,-53.4000,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,96.8,505,505,4,America/Montevideo,FALSE,1858942556
+"San Jorge","San Jorge","Sauce de San Jorge|Cerro San Jorge",-32.8431,-55.8958,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,410.4,502,502,3,America/Montevideo,FALSE,1858800757
+"Rincón de Valentín","Rincon de Valentin","Rincón de Valentines",-31.2833,-57.2000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,66.0,481,481,4,America/Montevideo,FALSE,1858829070
+"Colonia Itapebí","Colonia Itapebi",,-31.3383,-57.4053,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,381.9,460,460,3,America/Montevideo,FALSE,1858122624
+Jaureguiberry,Jaureguiberry,"Balneario Jaureguiberry",-34.7850,-55.4028,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,103.7,458,458,4,America/Montevideo,FALSE,1858059221
+"Villa Darwin","Villa Darwin",Darwin,-33.1167,-57.6333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,23.5,456,456,4,America/Montevideo,FALSE,1858859289
+"Colonia Palma","Colonia Palma",,-30.5842,-57.6792,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,309.4,440,440,3,America/Montevideo,FALSE,1858999316
+Coronado,Coronado,,-30.2778,-57.6014,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,32.9,438,438,4,America/Montevideo,FALSE,1858166198
+"Cañada Nieto","Canada Nieto",,-33.6992,-58.1083,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,394.8,430,430,3,America/Montevideo,FALSE,1858116814
+"Aguas Dulces","Aguas Dulces","Agua Dulce|Balneario Agua Dulce",-34.2764,-53.7833,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,172.8,417,417,4,America/Montevideo,FALSE,1858718045
+"Plácido Rosas","Placido Rosas",Rosas,-32.7500,-53.7167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,36.2,415,415,3,America/Montevideo,FALSE,1858033076
+"Parada Cabrera","Parada Cabrera",,-34.6233,-56.2561,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,111.4,409,409,4,America/Montevideo,FALSE,1858659298
+Conchillas,Conchillas,,-34.1644,-58.0328,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,202.3,401,401,3,America/Montevideo,FALSE,1858745697
+"El Chorro","El Chorro",,-34.9028,-54.8111,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,505.4,392,392,3,America/Montevideo,FALSE,1858970926
+"Bernabé Rivera","Bernabe Rivera",Allende,-30.3000,-56.9667,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,191.2,380,380,3,America/Montevideo,FALSE,1858958960
+Arachania,Arachania,,-34.6153,-54.1500,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,97.7,377,377,4,America/Montevideo,FALSE,1858571935
+"Barra del Chuy","Barra del Chuy","Balneario Barra del Chuy|Barra Do Chuy|La Barra",-33.7556,-53.3889,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,250.2,370,370,3,America/Montevideo,FALSE,1858279690
+"Termas del Daymán","Termas del Dayman",,-31.4528,-57.9083,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,115.7,356,356,4,America/Montevideo,FALSE,1858093139
+Cainsa,Cainsa,"Cainsa Itacumbú",-30.3892,-57.6128,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,434.3,355,355,3,America/Montevideo,FALSE,1858384797
+Garibaldi,Garibaldi,,-31.3389,-57.8286,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,499.9,354,354,3,America/Montevideo,FALSE,1858213456
+Biassini,Biassini,,-31.2500,-57.1667,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,144.3,345,345,4,America/Montevideo,FALSE,1858513812
+"Mal Abrigo","Mal Abrigo","Mal Abriga",-34.1500,-56.9500,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,258.0,344,344,3,America/Montevideo,FALSE,1858833584
+"La Barra","La Barra",,-34.9139,-54.8528,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,154.2,339,339,4,America/Montevideo,FALSE,1858232401
+"Piedra del Toro","Piedra del Toro",,-34.7022,-55.8853,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,17.3,332,332,4,America/Montevideo,FALSE,1858032006
+"Barra de Valizas","Barra de Valizas",Valizas|Balizas,-34.3361,-53.7958,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,242.6,330,330,3,America/Montevideo,FALSE,1858364159
+"Portones de Hierro y Campodónico","Portones de Hierro y Campodonico",Campodónico,-30.2653,-57.5750,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,20.9,323,323,4,America/Montevideo,FALSE,1858777633
+Lapuente,Lapuente,"Yaguan|Yaguarí|Poblado Lapuente",-31.4667,-54.9667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,321,321,4,America/Montevideo,FALSE,1858736842
+Hospital,Hospital,"Poblado del Hospital",-31.6833,-54.6500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,337.1,295,295,3,America/Montevideo,FALSE,1858206555
+"Faro José Ignacio","Faro Jose Ignacio",,-34.8464,-54.6333,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,112.4,292,292,4,America/Montevideo,FALSE,1858610329
+Solís,Solis,"Balneario Solís",-34.7931,-55.3833,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,115.2,288,288,4,America/Montevideo,FALSE,1858262941
+"Playa Verde","Playa Verde",,-34.8264,-55.3139,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,252.0,269,269,3,America/Montevideo,FALSE,1858399270
+"Cerro de las Cuentas","Cerro de las Cuentas",,-32.6203,-54.5928,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,139.5,263,263,3,America/Montevideo,FALSE,1858046555
+Andresito,Andresito,,-33.1333,-57.1653,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,227.7,261,261,3,America/Montevideo,FALSE,1858743574
+"Las Flores","Las Flores","Flores|Playa Las Flores",-34.8125,-55.3319,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,215.6,241,241,3,America/Montevideo,FALSE,1858881371
+Masoller,Masoller,,-31.0847,-56.0083,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,261.4,240,240,3,America/Sao_Paulo,FALSE,1858396840
+"Paso del Cerro","Paso del Cerro",,-31.4781,-55.8330,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,235,235,4,America/Montevideo,FALSE,1858374377
+"Ocean Park","Ocean Park",,-34.8750,-55.1403,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,46.4,234,234,4,America/Montevideo,FALSE,1858353479
+"La Pedrera","La Pedrera","Punta Rubia|Balneario La Pedrera|Playa La Pedrera",-34.5917,-54.1250,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,143.1,225,225,3,America/Montevideo,FALSE,1858927412
+"Estación Tapia","Estacion Tapia",Tapia,-34.5672,-55.7514,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,179.4,213,213,4,America/Montevideo,FALSE,1858901768
+"Sarandí del Arapey","Sarandi del Arapey",Sarandí,-30.9883,-56.2147,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,82.4,210,210,4,America/Montevideo,FALSE,1858971081
+"Bañado de Medina","Banado de Medina",,-32.4031,-54.3514,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.6,207,207,4,America/Montevideo,FALSE,1858516777
+Garzón,Garzon,"Estación Garzón",-34.5922,-54.5450,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.3,198,198,3,America/Montevideo,FALSE,1858170355
+"El Eucalipto","El Eucalipto","Eucaliptus|El Eucaliptus",-31.9000,-57.2667,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,89.4,197,197,4,America/Montevideo,FALSE,1858198164
+"Tres Islas","Tres Islas",,-32.5150,-54.6886,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,11.1,195,195,4,America/Montevideo,FALSE,1858660245
+"Termas del Arapey","Termas del Arapey",Arapey,-30.9481,-57.5214,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,130.2,184,184,4,America/Montevideo,FALSE,1858488184
+Valentines,Valentines,,-33.2583,-55.1033,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.8,178,178,4,America/Montevideo,FALSE,1858036953
+"Punta Negra","Punta Negra",,-34.8903,-55.2208,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,13.0,178,178,4,America/Montevideo,FALSE,1858448339
+"Las Cañas","Las Canas",,-33.1633,-58.3567,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,101.1,177,177,4,America/Montevideo,FALSE,1858616389
+"Palo Solo","Palo Solo",,-33.8286,-58.0231,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,198.8,170,170,4,America/Montevideo,FALSE,1858808916
+Clara,Clara,,-32.2333,-55.7333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,9.2,160,160,4,America/Montevideo,FALSE,1858090861
+Barker,Barker,,-34.2667,-57.4667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,55.4,158,158,4,America/Montevideo,FALSE,1858465534
+"Ramón Trigo","Ramon Trigo",Trigo,-32.3494,-54.6375,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,63.0,150,150,4,America/Montevideo,FALSE,1858678936
+Manantiales,Manantiales,"Playa Manantiales",-34.9056,-54.8250,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,94.0,149,149,4,America/Montevideo,FALSE,1858041426
+"Bella Vista","Bella Vista",,-34.8028,-55.3542,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,60.0,141,141,4,America/Montevideo,FALSE,1858721925
+"Javier de Viana","Javier de Viana",,-30.4328,-56.7872,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,82.1,140,140,4,America/Montevideo,FALSE,1858052562
+Bolívar,Bolivar,,-34.2331,-55.7331,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,138.4,139,139,4,America/Montevideo,FALSE,1858908417
+Toledo,Toledo,,-32.5292,-54.5292,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,0.3,132,132,4,America/Montevideo,FALSE,1858789085
+"Sauce de Portezuelo","Sauce de Portezuelo",,-34.8750,-55.1403,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,545.1,128,128,3,America/Montevideo,FALSE,1858767353
+Topador,Topador,"El Topador",-30.2978,-56.8214,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,82.7,124,124,4,America/Montevideo,FALSE,1858164606
+Cuaró,Cuaro,,-30.6119,-56.9056,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,40.8,113,113,4,America/Montevideo,FALSE,1858926979
+"La Loma","La Loma",,-33.4250,-58.3372,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,3.2,111,111,4,America/Montevideo,FALSE,1858550556
+Zagarzazú,Zagarzazu,,-33.9667,-58.3333,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,88.3,96,96,4,America/Montevideo,FALSE,1858688136
+"Cabo Polonio","Cabo Polonio","Faro de Polonio|Faro del Polonio|Polonio",-34.3975,-53.7892,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,44.8,95,95,4,America/Montevideo,FALSE,1858244627
+"Punta Colorada","Punta Colorada",,-34.9011,-55.2586,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,19.2,92,92,4,America/Montevideo,FALSE,1858184074
+"Polanco Norte","Polanco Norte",Polanco,-33.8744,-55.1217,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,34.2,87,87,4,America/Montevideo,FALSE,1858061737
+"Aguas Buenas","Aguas Buenas",,-32.8850,-55.8567,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.3,86,86,4,America/Montevideo,FALSE,1858684780
+Fomento,Fomento,,-34.4347,-57.2542,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,95.1,84,84,4,America/Montevideo,FALSE,1858992734
+Quebracho,Quebracho,,-32.6233,-54.7531,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.1,70,70,5,America/Montevideo,FALSE,1858835922
+Argentino,Argentino,"Balneario Argentino",-34.7858,-55.4553,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,24.1,68,68,4,America/Montevideo,FALSE,1858649335
+"Los Cerros de San Juan","Los Cerros de San Juan",,-34.2200,-57.9300,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,55.2,60,60,4,America/Montevideo,FALSE,1858396189
+"La Esmeralda","La Esmeralda",,-34.1520,-53.6990,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,4.6,57,57,5,America/Montevideo,FALSE,1858018138
+Biarritz,Biarritz,"Balneario Biarritz",-34.7919,-55.5086,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,34.8,57,57,4,America/Montevideo,FALSE,1858443612
+"Santa Regina","Santa Regina",,-34.4347,-57.1958,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,70.2,52,52,4,America/Montevideo,FALSE,1858799245
+Chamberlain,Chamberlain,,-32.6167,-56.4667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.2,52,52,5,America/Montevideo,FALSE,1858252294
+Chihuahua,Chihuahua,,-34.8750,-55.0889,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,41.5,37,37,4,America/Montevideo,FALSE,1858888092
+"La Ribiera","La Ribiera",,-34.5450,-54.3267,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,34.6,30,30,4,America/Montevideo,FALSE,1858678534
+Uruguay,Uruguay,,-32.4833,-53.5167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.6,,,5,America/Montevideo,FALSE,1858235337
+Juncal,Juncal,,-34.0971,-56.1851,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,3.1,,,5,America/Montevideo,FALSE,1858240963
+"Edén Rock","Eden Rock",,-34.8701,-54.7549,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,5.3,,,5,America/Montevideo,FALSE,1858359290
+Guayubirá,Guayubira,,-30.5046,-56.3933,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,5.7,,,5,America/Montevideo,FALSE,1858922494
+Tarumán,Taruman,,-30.4736,-56.6677,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,1.8,,,5,America/Montevideo,FALSE,1858409533
+"La Aldea","La Aldea",,-31.7393,-56.0416,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,11.5,,,4,America/Montevideo,FALSE,1858014957
+"Rincón del Colorado","Rincon del Colorado",,-34.6889,-56.3329,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,26.3,,,4,America/Montevideo,FALSE,1858326318
+"Pueblo Conciliación","Pueblo Conciliacion",Conciliación,-34.8333,-56.2333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,3861.1,,,2,America/Montevideo,FALSE,1858732776
+"San Roque","San Roque",,-34.0384,-58.0641,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.6,,,5,America/Montevideo,FALSE,1858323471
+Blanquillos,Blanquillos,"Blanquillo|Poblado Blanquillo",-32.3500,-55.8333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.3,,,5,America/Montevideo,FALSE,1858518395
+Riachuelo,Riachuelo,,-34.4300,-57.7296,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,116.5,,,4,America/Montevideo,FALSE,1858333927
+"El Caño","El Cano",,-34.4000,-57.6667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.4,,,5,America/Montevideo,FALSE,1858354559
+"Pintado Grande","Pintado Grande",,-30.5158,-56.4230,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,5.7,,,5,America/Montevideo,FALSE,1858037246
+"Juan Soler","Juan Soler",,-34.3232,-56.8043,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,280.0,,,3,America/Montevideo,FALSE,1858719078
+Oratorio,Oratorio,"El Oratorio",-33.9833,-53.9833,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.5,,,5,America/Montevideo,FALSE,1858563875
+"Poblado Las Arenas","Poblado Las Arenas","Las Arenas",-32.0167,-55.0667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858379899
+Soto,Soto,,-31.0333,-56.6000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.0,,,5,America/Montevideo,FALSE,1858547352
+"Sarandí de Yacuy","Sarandi de Yacuy",,-30.7410,-57.6296,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.2,,,5,America/Montevideo,FALSE,1858369558
+"Puntas de Corrales","Puntas de Corrales",,-31.3167,-55.2000,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,,,5,America/Montevideo,FALSE,1858462822
+"Ciudad Viaje","Ciudad Viaje",,-34.9083,-56.2083,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,5460.6,,,2,America/Montevideo,FALSE,1858790690
+"Colonia América","Colonia America",,-34.2000,-56.9833,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,2.1,,,5,America/Montevideo,FALSE,1858582887
+"Los Talas","Los Talas",,-34.0931,-54.4906,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,48.2,,,4,America/Montevideo,FALSE,1858500060
+"Empalme Sauce","Empalme Sauce",,-34.7153,-56.0733,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1148.6,,,3,America/Montevideo,FALSE,1858236328
+"Rincón de Cololó","Rincon de Cololo",,-33.0455,-57.8722,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.2,,,5,America/Montevideo,FALSE,1858972047
+"Pepe Núñez","Pepe Nunez",,-31.4543,-56.3868,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858418005
+"Poblado Cerro del Pastoreo","Poblado Cerro del Pastoreo","Cerro Pastoreo",-31.7000,-56.1000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,11.6,,,4,America/Montevideo,FALSE,1858453366
+"Colonia España","Colonia Espana",,-30.3645,-57.6427,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,7.8,,,5,America/Montevideo,FALSE,1858768143
+"Los Mezquitas","Los Mezquitas",,-32.9000,-56.0833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858317301
+Alonso,Alonso,,-32.3937,-56.7252,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,1.2,,,5,America/Montevideo,FALSE,1858591461
+"Rincón de Vidal","Rincon de Vidal",,-34.3833,-56.3833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,3.7,,,5,America/Montevideo,FALSE,1858319895
+"Boca del Rosario Oeste","Boca del Rosario Oeste",,-34.4341,-57.3349,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,9.9,,,5,America/Montevideo,FALSE,1858373857
+"Poblado Paso Hondo","Poblado Paso Hondo","Paso Hondo del Arroyo Malo|Paso Hondo",-32.3333,-55.8833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.3,,,5,America/Montevideo,FALSE,1858653141
+Achiras,Achiras,,-33.5333,-54.4333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858411168
+Feliciano,Feliciano,,-33.1828,-56.8117,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,60.5,,,4,America/Montevideo,FALSE,1858326242
+"Radial Ruta Tres","Radial Ruta Tres",,-34.5508,-56.7604,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,147.9,,,4,America/Montevideo,FALSE,1858332299
+"Poblado San Benito","Poblado San Benito","San Benito",-32.4667,-56.1667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858482128
+"Puerto de los Botes","Puerto de los Botes",,-34.5448,-54.3185,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,39.4,,,4,America/Montevideo,FALSE,1858829529
+"Sauce de Abajo","Sauce de Abajo",,-32.1235,-57.6424,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858360956
+"Villa General Borges","Villa General Borges","General Borges|Villa Borges",-32.5550,-57.3882,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,134.7,,,4,America/Montevideo,FALSE,1858168539
+"La Alegría","La Alegria",,-32.6000,-55.5833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.2,,,5,America/Montevideo,FALSE,1858055807
+"Paso del Potrero","Paso del Potrero","Paso Potrero|Paso del Potrero de Arerunguá",-31.4380,-56.8383,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858120460
+Morató,Morato,"Ovidio Morató",-32.3786,-56.7033,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,81.1,,,4,America/Montevideo,FALSE,1858067941
+Caraballo,Caraballo,,-32.9333,-57.6500,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.2,,,5,America/Montevideo,FALSE,1858252930
+"Los Arrayanes","Los Arrayanes",,-33.2332,-58.0385,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,23.5,,,4,America/Montevideo,FALSE,1858435139
+"La Bolsa","La Bolsa",,-31.0521,-57.0357,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,81.7,,,4,America/Montevideo,FALSE,1858249482
+"La Bolsa","La Bolsa",,-31.4287,-57.7958,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,2.5,,,5,America/Montevideo,TRUE,1858694786
+"La Bolsa","La Bolsa",,-31.2500,-57.2000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,TRUE,1858328455
+"Arroyo Malo","Arroyo Malo",,-33.3333,-56.9333,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.2,,,5,America/Montevideo,FALSE,1858631695
+"Paso Francos","Paso Francos",,-34.4500,-56.2833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,13.5,,,4,America/Montevideo,FALSE,1858366484
+Jiménez,Jimenez,,-33.0000,-55.7833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.6,,,5,America/Montevideo,FALSE,1858036097
+"Paso de los Cobres","Paso de los Cobres",,-32.9451,-57.5530,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.9,,,5,America/Montevideo,FALSE,1858564051
+"Colonia Española","Colonia Espanola","Española Colonia Agrícola",-34.4000,-57.1667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.9,,,5,America/Montevideo,FALSE,1858505671
+Guaviyú,Guaviyu,,-31.4833,-54.8333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858490383
+"Mataojo Chico","Mataojo Chico",,-31.1833,-56.2833,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858036817
+"Cerrillos al Sur","Cerrillos al Sur",,-34.6369,-56.3561,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,19.0,,,4,America/Montevideo,FALSE,1858874940
+"La Macana","La Macana",,-34.0500,-56.2000,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,20.1,,,4,America/Montevideo,FALSE,1858305313
+Padula,Padula,"Puerto Gómez",-33.0000,-53.6333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.3,,,5,America/Montevideo,FALSE,1858166598
+"Chacras de Belén","Chacras de Belen",,-30.8074,-57.7737,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,9.3,,,5,America/Montevideo,FALSE,1858049082
+"La Boyada","La Boyada",,-34.4075,-56.9877,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,51.7,,,4,America/Montevideo,FALSE,1858489681
+"El Coronilla","El Coronilla",,-33.2608,-57.0770,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.1,,,5,America/Montevideo,FALSE,1858611329
+"Poblado Los Laureles","Poblado Los Laureles","Laureles|Paso de Laureles",-32.5000,-56.0333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858728770
+Olivera,Olivera,,-31.1190,-56.8781,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,138.2,,,4,America/Montevideo,FALSE,1858528193
+Acosta,Acosta,,-33.2449,-53.8438,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,130.4,,,4,America/Montevideo,FALSE,1858146120
+Minuano,Minuano,,-32.0667,-53.7667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.7,,,5,America/Sao_Paulo,FALSE,1858699640
+Minuano,Minuano,"Cantera del Minuano|Poblado del Minuano",-34.3698,-57.4717,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.6,,,4,America/Montevideo,FALSE,1858536150
+Scavino,Scavino,"Pueblo Scavino",-34.3706,-57.0437,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,242.5,,,3,America/Montevideo,FALSE,1858708356
+"San Gabriel","San Gabriel",,-34.0500,-55.8833,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,1.7,,,5,America/Montevideo,FALSE,1858623052
+"Rincón de Velázquez","Rincon de Velazquez",,-34.4000,-56.3333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,5.1,,,5,America/Montevideo,FALSE,1858551322
+"Juan González","Juan Gonzalez",,-34.0586,-58.1920,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858354815
+"La Mazamorra","La Mazamorra",,-32.5333,-55.5000,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858323034
+"Ramón Saravia","Ramon Saravia",,-33.0167,-55.0500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.7,,,5,America/Montevideo,FALSE,1858918594
+"La Pedrera","La Pedrera",,-32.3500,-54.1333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,3.0,,,5,America/Montevideo,FALSE,1858984414
+Arenales,Arenales,"Arenal|Puntas del Arenal",-33.7167,-58.2667,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.6,,,5,America/Montevideo,FALSE,1858492620
+"Pueblo de la Arena","Pueblo de la Arena",,-33.0333,-57.0000,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858571347
+Martinote,Martinote,"Poblado Martinote",-31.8765,-55.9768,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858460584
+Caraguatá,Caraguata,,-31.7833,-54.7500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,1.6,,,5,America/Montevideo,FALSE,1858121078
+"Arrozal Treinta y Tres","Arrozal Treinta y Tres",,-33.0167,-53.7000,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.1,,,5,America/Montevideo,FALSE,1858698472
+"Rincón de Buschental","Rincon de Buschental",,-34.5885,-56.5265,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,5.6,,,5,America/Montevideo,FALSE,1858125613
+"Rincón de la Aldea","Rincon de la Aldea","Rincón Aldea|Poblado Rincón de la Aldea",-31.7500,-56.0667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.9,,,5,America/Montevideo,FALSE,1858052653
+"Villa Jardín","Villa Jardin",,-34.6861,-55.9656,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,727.5,,,3,America/Montevideo,FALSE,1858164033
+"Tres Bocas","Tres Bocas",,-31.8833,-57.4833,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,143.7,,,4,America/Montevideo,FALSE,1858602621
+"Carreta Quemada","Carreta Quemada",,-34.1726,-56.5523,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,114.5,,,4,America/Montevideo,FALSE,1858125081
+"Puntas de José Ignacio","Puntas de Jose Ignacio",,-34.4209,-54.5866,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.3,,,5,America/Montevideo,FALSE,1858804900
+Boné,Bone,,-34.0333,-57.8333,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858354171
+"Paso de Soca","Paso de Soca","Paso Soca",-32.6335,-56.7348,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.1,,,5,America/Montevideo,FALSE,1858444388
+Machado,Machado,,-33.8667,-57.0000,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.3,,,5,America/Montevideo,FALSE,1858315041
+"Paso de Antolín","Paso de Antolin","Paso Antolín",-34.2000,-57.7833,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.1,,,5,America/Montevideo,FALSE,1858822729
+Victoria,Victoria,"Pueblo Victoria",-34.8833,-56.2333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,33.1,,,4,America/Montevideo,FALSE,1858569857
+"Santa Elisa","Santa Elisa",,-32.4755,-58.1472,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.8,,,5,America/Montevideo,FALSE,1858153224
+"Sarandí de Cebollatí","Sarandi de Cebollati",,-33.7167,-54.5333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,5,America/Montevideo,FALSE,1858717163
+Musi,Musi,,-31.0833,-56.5167,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.4,,,5,America/Montevideo,FALSE,1858682778
+"Estación Migues","Estacion Migues",,-34.5243,-55.6251,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,80.0,,,4,America/Montevideo,FALSE,1858036586
+"La Plata","La Plata",,-34.4324,-55.3020,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,1.2,,,5,America/Montevideo,FALSE,1858995939
+"Punta Rubia","Punta Rubia",,-34.5831,-54.1225,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,25.9,,,4,America/Montevideo,FALSE,1858726775
+"Paso del Tapado","Paso del Tapado",,-31.2500,-55.3333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.3,,,5,America/Montevideo,FALSE,1858281826
+"Campo de Todos","Campo de Todos",,-31.5596,-57.6140,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,64.2,,,4,America/Montevideo,FALSE,1858515152
+Valdéz,Valdez,,-32.4648,-57.8081,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.2,,,5,America/Montevideo,FALSE,1858537368
+"María Isabel","Maria Isabel",,-33.8000,-54.0000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.6,,,5,America/Montevideo,FALSE,1858706801
+"Santa Lucía del Este","Santa Lucia del Este","Balneario Santa Lucía|Santa Lucía",-34.7833,-55.5333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,237.8,,,3,America/Montevideo,FALSE,1858295558
+"San Gregorio","San Gregorio","Costa de San Gregorio",-33.9336,-56.7560,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,40.8,,,4,America/Montevideo,FALSE,1858860089
+"Nuevo Torino","Nuevo Torino",,-34.3689,-57.2638,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,88.0,,,4,America/Montevideo,FALSE,1858680106
+"Cardozo Chico","Cardozo Chico",,-32.4566,-56.3070,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858980088
+"Colonia Rossell y Rius","Colonia Rossell y Rius","Rossell y Rius",-33.1833,-55.7000,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,23.7,,,4,America/Montevideo,FALSE,1858963956
+"Cuchilla de Peralta","Cuchilla de Peralta",,-32.4333,-56.3500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858021721
+Roja,Roja,,-33.2167,-56.6833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858567912
+"Las Cholgas","Las Cholgas",,-33.9077,-53.5141,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,207.4,,,3,America/Montevideo,FALSE,1858252031
+"Nueva Carrara","Nueva Carrara",,-34.7197,-55.2615,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,146.3,,,4,America/Montevideo,FALSE,1858413426
+"Sierra de Lunarejo","Sierra de Lunarejo",,-31.2333,-55.8833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,1.3,,,5,America/Montevideo,FALSE,1858277921
+"El Soldado","El Soldado",,-34.2057,-55.3622,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,5,America/Montevideo,FALSE,1858214319
+"Paso Campamento","Paso Campamento",Campamento,-30.7883,-56.7822,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,243.3,,,3,America/Montevideo,FALSE,1858818470
+"Boca del Cufré","Boca del Cufre",,-34.4423,-57.1476,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,34.5,,,4,America/Montevideo,FALSE,1858826204
+"Poblado Goyo Martínez","Poblado Goyo Martinez","Goyo Martinez",-31.9000,-55.8833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858140677
+"Los Potreros","Los Potreros",,-31.2500,-55.9500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.1,,,5,America/Montevideo,FALSE,1858885594
+"Cuchilla Caraguatá","Cuchilla Caraguata","Poblado Cuchilla Caraguata|Caraguatá",-32.2333,-54.9833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,79.3,,,4,America/Montevideo,FALSE,1858586111
+Paredón,Paredon,,-30.6648,-57.7889,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,15.1,,,4,America/Montevideo,FALSE,1858184726
+"Puntas de Cañada Grande","Puntas de Canada Grande",,-34.4079,-56.7391,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,5.8,,,5,America/Montevideo,FALSE,1858364150
+"Sauce Solo de Río Negro","Sauce Solo de Rio Negro","Sauce Solo|Poblado Río Negro|Río Negro",-32.1000,-54.8667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,4,America/Montevideo,FALSE,1858979973
+"Capilla de Farruco","Capilla de Farruco","Capilla Farruco",-32.8833,-55.4167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858494431
+Came,Came,,-33.8667,-57.6167,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.8,,,5,America/Montevideo,FALSE,1858874078
+Víboras,Viboras,,-33.9375,-58.1061,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.2,,,5,America/Montevideo,FALSE,1858498653
+"María Albina","Maria Albina","Villa María Albina",-33.4000,-54.6833,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,11.9,,,4,America/Montevideo,FALSE,1858135165
+Colón,Colon,"Villa Colón",-34.8000,-56.2333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,6316.0,,,2,America/Montevideo,FALSE,1858613241
+Colla,Colla,,-34.0667,-57.3500,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.0,,,5,America/Montevideo,FALSE,1858860101
+"Paso del Bote","Paso del Bote",,-34.6210,-56.4516,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,12.6,,,4,America/Montevideo,FALSE,1858288860
+"Puerto Platero","Puerto Platero",Platero,-34.4500,-57.6000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,172.4,,,4,America/Montevideo,FALSE,1858740615
+"La Barra","La Barra",,-34.3667,-53.7667,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,1.4,,,5,America/Montevideo,FALSE,1858391296
+Bordenave,Bordenave,,-31.0835,-56.6868,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,125.7,,,4,America/Montevideo,FALSE,1858801002
+"Colonia Diecinueve de Abril","Colonia Diecinueve de Abril","Colonia 19 de Abril",-32.3333,-57.8000,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.6,,,5,America/Montevideo,FALSE,1858397634
+Bifurcación,Bifurcacion,,-34.3167,-56.8000,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,14.7,,,4,America/Montevideo,FALSE,1858897212
+"La Azotea","La Azotea",,-30.5137,-57.6675,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.4,,,5,America/Montevideo,FALSE,1858270327
+"Cruz de los Caminos","Cruz de los Caminos",,-34.2500,-56.6833,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,1.8,,,5,America/Montevideo,FALSE,1858100204
+"Poblado Echeverry","Poblado Echeverry",Echeverry,-31.6833,-55.9500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.4,,,5,America/Montevideo,FALSE,1858643199
+"Sauce Chico","Sauce Chico",,-31.5457,-57.5659,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858057974
+"La Cuchilla","La Cuchilla",,-32.5833,-53.3833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,265.7,,,3,America/Montevideo,FALSE,1858362203
+"Cañada Chica","Canada Chica",,-33.3170,-53.9817,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.4,,,5,America/Montevideo,FALSE,1858015192
+Riffó,Riffo,,-34.5333,-56.3000,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,681.0,,,3,America/Montevideo,FALSE,1858096506
+"Colonia Suiza","Colonia Suiza","Nueva Helvecia",-34.3167,-57.2167,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,8.4,,,5,America/Montevideo,FALSE,1858955051
+"Arenas de José Ignacio","Arenas de Jose Ignacio",,-34.8196,-54.6165,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,14.0,,,4,America/Montevideo,FALSE,1858399836
+"Rosario y Colla","Rosario y Colla",,-34.2753,-57.3350,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2.4,,,5,America/Montevideo,FALSE,1858645258
+"Paso de Los Talas","Paso de Los Talas",,-34.1087,-54.5220,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.4,,,5,America/Montevideo,FALSE,1858257974
+"Santa Ana","Santa Ana",,-34.4200,-57.6000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,131.7,,,4,America/Montevideo,FALSE,1858664121
+"El Espinillar","El Espinillar",,-30.9562,-57.8450,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,1.0,,,5,America/Montevideo,FALSE,1858601168
+"Estación Solís","Estacion Solis",,-34.3663,-55.4478,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,6.6,,,5,America/Montevideo,FALSE,1858753316
+"Casa Blanca","Casa Blanca","Casas Blancas",-32.3968,-58.1615,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,187.2,,,4,America/Montevideo,FALSE,1858002920
+"Cuchilla Manguera","Cuchilla Manguera","Manguera|Poblado Cuchilla de la Manguera",-31.3500,-55.3833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.3,,,5,America/Montevideo,FALSE,1858912620
+"Poblado Rolón","Poblado Rolon",Rolón,-32.3333,-55.9667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.3,,,5,America/Montevideo,FALSE,1858846226
+"Paso de León","Paso de Leon","Paso del León",-30.1270,-57.0882,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.6,,,5,America/Montevideo,FALSE,1858314835
+"La Esperanza","La Esperanza",,-33.0000,-55.1333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.7,,,5,America/Montevideo,FALSE,1858805270
+"Arenitas Blancas","Arenitas Blancas",,-31.4161,-58.0000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,80.6,,,4,America/Montevideo,FALSE,1858568869
+"Belgrano Norte","Belgrano Norte",,-33.8814,-58.3483,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.8,,,5,America/Montevideo,FALSE,1858641401
+Piedritas,Piedritas,,-34.3333,-55.6500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,4.9,,,5,America/Montevideo,FALSE,1858686116
+"Local Feria Itacumbú","Local Feria Itacumbu",,-30.4848,-57.4153,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.5,,,5,America/Montevideo,FALSE,1858131171
+"El Bañado","El Banado",,-34.1340,-57.9793,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.6,,,5,America/Montevideo,FALSE,1858168746
+"El Chaco","El Chaco",,-31.9590,-57.5133,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858322031
+"San Pedro Norte","San Pedro Norte",,-34.2837,-57.8277,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,7.3,,,5,America/Montevideo,FALSE,1858064007
+"San Servando","San Servando",,-32.6333,-53.3000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.8,,,5,America/Montevideo,FALSE,1858872231
+"El Ombú","El Ombu",,-32.8569,-57.4547,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,48.9,,,4,America/Montevideo,FALSE,1858778995
+"Piedra de los Indios","Piedra de los Indios",,-34.3770,-57.8415,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,7.3,,,5,America/Montevideo,FALSE,1858178069
+Sarandí,Sarandi,,-33.9500,-57.9000,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.0,,,5,America/Montevideo,FALSE,1858140077
+Sarandí,Sarandi,"Sarandí de Barceló",-32.4833,-53.7167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.7,,,5,America/Montevideo,FALSE,1858040947
+"Villa Elisa","Villa Elisa",,-32.3333,-57.0500,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,112.5,,,4,America/Montevideo,FALSE,1858887243
+Britópolis,Britopolis,,-34.4328,-57.2713,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,90.8,,,4,America/Montevideo,FALSE,1858926955
+Zapará,Zapara,,-31.6938,-56.0382,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,13.5,,,4,America/Montevideo,FALSE,1858591584
+"Cuchilla del Perdido","Cuchilla del Perdido",,-33.7202,-57.2605,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,47.3,,,4,America/Montevideo,FALSE,1858382191
+"Cuchilla del Perdido","Cuchilla del Perdido",,-33.5833,-57.3000,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.7,,,5,America/Montevideo,TRUE,1858145619
+"El Cuadro","El Cuadro",,-34.1380,-57.7995,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858713657
+Cañas,Canas,,-31.3000,-56.0167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.2,,,5,America/Montevideo,FALSE,1858803367
+"Bella Vista","Bella Vista","Barrio de Bella Vista",-34.8833,-56.2000,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,8437.4,,,2,America/Montevideo,FALSE,1858204480
+"Toro Negro","Toro Negro",Ceferino,-31.3500,-56.6333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858056564
+"El Canelón","El Canelon",,-34.5957,-54.4158,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.3,,,5,America/Montevideo,FALSE,1858657512
+Cerrillada,Cerrillada,,-31.6500,-56.8333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858028527
+"Costa de Sacra","Costa de Sacra",,-32.3575,-58.0340,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,22.1,,,4,America/Montevideo,FALSE,1858897582
+"Molles Chico","Molles Chico",,-33.5000,-55.2167,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.2,,,5,America/Montevideo,FALSE,1858553531
+Pandule,Pandule,,-32.3846,-57.4629,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858150919
+"Rincón de Moraes","Rincon de Moraes",,-31.3000,-55.8667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.4,,,5,America/Montevideo,FALSE,1858976615
+"Las Flores","Las Flores","Carpintería|Poblado Las Flores|Poblado Las Flores",-31.8167,-55.2167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,4,America/Montevideo,FALSE,1858151428
+Oribe,Oribe,,-31.5000,-57.1167,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.0,,,5,America/Montevideo,FALSE,1858547471
+"Puntas del Tala","Puntas del Tala",,-33.3833,-57.5500,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.3,,,5,America/Montevideo,FALSE,1858679130
+Centurión,Centurion,Latorre,-32.1000,-53.7500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,2.5,,,5,America/Montevideo,FALSE,1858610387
+"Poblado Sosa","Poblado Sosa",Sosa|Carqueja,-31.2333,-57.1167,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.6,,,5,America/Montevideo,FALSE,1858292927
+Constancia,Constancia,,-32.2066,-58.0074,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,393.0,,,3,America/Montevideo,FALSE,1858967611
+Correa,Correa,,-33.3667,-53.6667,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.2,,,5,America/Montevideo,FALSE,1858564456
+Corrales,Corrales,,-33.4667,-54.6667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858370810
+"Santa Fernandina","Santa Fernandina","Santa Ernestina",-31.5500,-55.5500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.4,,,5,America/Montevideo,FALSE,1858252329
+Cerrezuelo,Cerrezuelo,,-32.7667,-55.4333,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858168515
+Solís,Solis,,-34.3333,-55.4500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,2.1,,,5,America/Montevideo,FALSE,1858541805
+"Poblado Pedro Aramendía","Poblado Pedro Aramendia",,-33.6378,-54.6195,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,55.0,,,4,America/Montevideo,FALSE,1858459843
+"Guaviyú de Arapey","Guaviyu de Arapey","Poblado Guaviyú|Guaviyú|Paso Guaviyú del Arapey",-31.0315,-56.6322,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,3.7,,,4,America/Montevideo,FALSE,1858209641
+"Santa Mónica","Santa Monica",,-34.8464,-54.6999,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,67.3,,,4,America/Montevideo,FALSE,1858777357
+"Rincón de Cuadra","Rincon de Cuadra","Pantanosa de Cuadra|Cuchilla de Cuadra",-33.3833,-56.4167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.6,,,5,America/Montevideo,FALSE,1858450386
+"Las Cumbres","Las Cumbres",,-34.8468,-55.0317,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,19.9,,,4,America/Montevideo,FALSE,1858294661
+"Poblado Laureles","Poblado Laureles",Laureles,-31.3833,-55.8667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858440823
+Pintado,Pintado,,-33.8347,-56.3070,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,157.6,,,4,America/Montevideo,FALSE,1858711568
+"Palmar de Quebracho","Palmar de Quebracho","Palmares de Quebracho",-31.8900,-57.7339,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.5,,,5,America/Montevideo,FALSE,1858166993
+Buceo,Buceo,,-34.9000,-56.1333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,10613.8,,,2,America/Montevideo,FALSE,1858296127
+Coquimbo,Coquimbo,,-33.4500,-57.7333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.7,,,5,America/Montevideo,FALSE,1858801431
+"Puntas de Maciel","Puntas de Maciel",,-33.6000,-56.3500,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.6,,,5,America/Montevideo,FALSE,1858197338
+Guerrero,Guerrero,,-33.8500,-57.6833,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.2,,,5,America/Montevideo,FALSE,1858185965
+"Poblado Rincón de la Bolsa","Poblado Rincon de la Bolsa","Rincón de la Bolsa",-31.8167,-55.9167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858295464
+"Sánchez Grande","Sanchez Grande","Pueblo Sanchez",-32.8333,-57.7167,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.1,,,5,America/Montevideo,FALSE,1858310330
+"Paso Pereira","Paso Pereira",,-32.4667,-55.2333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.5,,,5,America/Montevideo,FALSE,1858720046
+"Colonia Viñar","Colonia Vinar",,-30.4675,-57.6156,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.4,,,5,America/Montevideo,FALSE,1858070961
+"Colonia Arrué","Colonia Arrue",,-34.0165,-58.1526,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.5,,,5,America/Montevideo,FALSE,1858725808
+"El Horno","El Horno",,-31.9836,-57.4850,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858774762
+Ladrillos,Ladrillos,,-33.7500,-55.2833,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.1,,,5,America/Montevideo,FALSE,1858468674
+Esperanza,Esperanza,"Colonia Esperanza|Estación Esperanza",-32.3498,-57.9483,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,1.1,,,5,America/Montevideo,FALSE,1858552621
+"La Estanzuela","La Estanzuela",Estanzuela,-34.3288,-57.7228,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,219.4,,,3,America/Montevideo,FALSE,1858038694
+"Pueblo de Arriba","Pueblo de Arriba",,-31.7500,-55.4667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.6,,,5,America/Montevideo,FALSE,1858913345
+"La Coronilla","La Coronilla",,-32.6098,-56.7532,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.1,,,5,America/Montevideo,FALSE,1858979426
+"La Coronilla","La Coronilla",Coronilla,-33.5579,-53.8580,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.3,,,5,America/Montevideo,TRUE,1858254760
+"El Caracol","El Caracol",,-34.7877,-54.5384,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2.2,,,5,America/Montevideo,FALSE,1858951425
+"El Totoral","El Totoral",,-33.4318,-56.9709,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.7,,,5,America/Montevideo,FALSE,1858929716
+"Villa Alejandrina","Villa Alejandrina","Alejandrina|Villa Alesandrina",-33.7667,-58.3500,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.3,,,5,America/Montevideo,FALSE,1858499996
+"Cuchilla de Gazón","Cuchilla de Gazon",,-34.6708,-54.4230,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.4,,,5,America/Montevideo,FALSE,1858334869
+"Montevideo Chico","Montevideo Chico",,-32.2500,-56.5167,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,17.9,,,4,America/Montevideo,FALSE,1858000000
+"La Concordia","La Concordia",,-33.5651,-58.4265,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,118.0,,,4,America/Montevideo,FALSE,1858346452
+"Cerros de los Rochas","Cerros de los Rochas",,-34.1667,-53.8500,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.8,,,5,America/Montevideo,FALSE,1858458166
+"Balneario Iporá","Balneario Ipora",,-31.6674,-55.9536,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,173.1,,,4,America/Montevideo,FALSE,1858147468
+Chilcas,Chilcas,,-33.5500,-55.6667,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.3,,,5,America/Montevideo,FALSE,1858989744
+"Cerrilladas de Saucedo","Cerrilladas de Saucedo",,-31.1392,-57.5206,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858831285
+"El Chimango","El Chimango",,-33.8256,-54.1952,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.2,,,5,America/Montevideo,FALSE,1858350897
+Conde,Conde,,-32.9333,-57.1167,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.2,,,5,America/Montevideo,FALSE,1858339388
+Ceibal,Ceibal,,-32.8833,-55.5167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.3,,,5,America/Montevideo,FALSE,1858249668
+"Belgrano Sur","Belgrano Sur",,-33.9091,-58.3811,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.0,,,5,America/Montevideo,FALSE,1858499919
+"Sarandí de Cuaró","Sarandi de Cuaro",,-30.8742,-56.6598,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858326906
+Toledo,Toledo,,-32.5000,-54.0167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,2.1,,,5,America/Montevideo,FALSE,1858868078
+Lavaderos,Lavaderos,"Lavaderos del Este",-34.9000,-56.1000,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,7708.7,,,2,America/Montevideo,FALSE,1858426686
+"La Mina","La Mina",,-31.9000,-54.1500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.1,,,5,America/Montevideo,FALSE,1858083714
+"Villa María","Villa Maria",,-32.5600,-57.3763,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,103.4,,,4,America/Montevideo,FALSE,1858389951
+"Poblado Godoy","Poblado Godoy",Godoy,-31.7667,-56.0167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,11.4,,,4,America/Montevideo,FALSE,1858320254
+Cambará,Cambara,,-31.1167,-56.4667,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858647243
+"Paso Palomeque","Paso Palomeque",,-34.5221,-56.2546,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,22.9,,,4,America/Montevideo,FALSE,1858165463
+"El Dorado","El Dorado",,-34.6983,-56.2175,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,4853.8,,,2,America/Montevideo,FALSE,1858491096
+"Cerros de Vera","Cerros de Vera",Veras|Vera,-31.5992,-56.8106,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,62.5,,,4,America/Montevideo,FALSE,1858176155
+"Poblado Las Chircas","Poblado Las Chircas","Las Chircas",-32.3833,-55.0667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858543764
+"Costa de Pando","Costa de Pando",,-34.5669,-55.9792,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,9.9,,,5,America/Montevideo,FALSE,1858990014
+Tiatucurá,Tiatucura,"Villa Maria|Tiatocura",-32.3402,-56.5457,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,6.4,,,5,America/Montevideo,FALSE,1858802991
+Pavón,Pavon,,-34.3117,-56.9044,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,2.2,,,5,America/Montevideo,FALSE,1858688091
+"Las Flores","Las Flores",,-32.3964,-57.5709,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.5,,,5,America/Montevideo,FALSE,1858434796
+"Estación Ortíz","Estacion Ortiz",,-34.3398,-55.3933,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,3.2,,,5,America/Montevideo,FALSE,1858417156
+"Los Feos","Los Feos",,-32.3000,-55.3333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858435884
+"San Martín","San Martin",,-33.7500,-57.6167,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.2,,,5,America/Montevideo,FALSE,1858737294
+"Cerro Chato","Cerro Chato",,-31.8628,-57.5400,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,67.7,,,4,America/Montevideo,FALSE,1858023183
+"Buena Hora","Buena Hora",Buenahora,-34.0765,-58.1329,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.7,,,5,America/Montevideo,FALSE,1858325146
+Pinamar,Pinamar,,-34.7869,-55.8588,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,1614.0,,,3,America/Montevideo,FALSE,1858134908
+Palomas,Palomas,,-31.0809,-57.6093,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,85.2,,,4,America/Montevideo,FALSE,1858752831
+"La Tentación","La Tentacion",,-32.4862,-57.7451,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,170.6,,,4,America/Montevideo,FALSE,1858345644
+"Pueblo Palmar","Pueblo Palmar",,-33.0614,-57.4587,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,245.4,,,3,America/Montevideo,FALSE,1858900099
+"Cerro Vera","Cerro Vera",Vera,-33.1833,-57.4667,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.2,,,5,America/Montevideo,FALSE,1858446309
+Baygorria,Baygorria,"Rincón de Baygorria",-32.8768,-56.8134,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,95.6,,,4,America/Montevideo,FALSE,1858235622
+"El Tala","El Tala",,-33.2500,-57.3333,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.1,,,5,America/Montevideo,FALSE,1858572022
+Laureles,Laureles,"Poblado Laureles",-31.6833,-55.4333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.6,,,5,America/Montevideo,FALSE,1858245510
+"Poblado San Ramón","Poblado San Ramon","San Ramón",-31.9667,-55.0500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,2.4,,,5,America/Montevideo,FALSE,1858100881
+Soto,Soto,,-31.9713,-57.5596,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,24.1,,,4,America/Montevideo,FALSE,1858027181
+Patitas,Patitas,,-30.9074,-57.1896,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858490179
+"Villa Nueva","Villa Nueva",,-34.6000,-56.1333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,19.5,,,4,America/Montevideo,FALSE,1858252817
+Arévalo,Arevalo,"Pueblito Arevalo",-32.6333,-55.1167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.5,,,5,America/Montevideo,FALSE,1858753048
+Cortume,Cortume,,-31.7833,-55.1500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858219324
+"Paso Nuevo del Arapey","Paso Nuevo del Arapey",,-31.1269,-56.6634,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.4,,,5,America/Montevideo,FALSE,1858899408
+Rolón,Rolon,"Puntas de Rolón",-32.6373,-56.8908,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.1,,,5,America/Montevideo,FALSE,1858217841
+"Cruz de Piedra","Cruz de Piedra",,-32.0333,-54.1833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.3,,,5,America/Montevideo,FALSE,1858495422
+Araújo,Araujo,,-31.9965,-57.7450,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,39.4,,,4,America/Montevideo,FALSE,1858567548
+"Colonia Díaz","Colonia Diaz",,-33.3271,-58.0378,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.4,,,5,America/Montevideo,FALSE,1858623892
+"Paso de Pache","Paso de Pache",,-34.3991,-56.2816,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,6.4,,,5,America/Montevideo,FALSE,1858353686
+Pedrera,Pedrera,,-34.5833,-55.8333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,6.2,,,5,America/Montevideo,FALSE,1858534249
+Kiyú,Kiyu,,-34.6941,-56.7496,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,124.4,,,4,America/Montevideo,FALSE,1858185492
+"Cuchilla Grande","Cuchilla Grande",,-32.6500,-54.4500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.5,,,5,America/Montevideo,FALSE,1858786109
+"Los Titanes","Los Titanes","Balneario Los Titanes",-34.7833,-55.5833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,431.0,,,3,America/Montevideo,FALSE,1858453165
+"Arroyo de la Virgen","Arroyo de la Virgen",,-34.1333,-56.4000,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,2.1,,,5,America/Montevideo,FALSE,1858947770
+Mataojo,Mataojo,,-32.6472,-57.2565,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.4,,,5,America/Montevideo,FALSE,1858229297
+Paguero,Paguero,,-30.6374,-56.7686,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858675221
+"Pueblo Pintos","Pueblo Pintos",Pintos,-33.8840,-56.8384,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.3,,,5,America/Montevideo,FALSE,1858192590
+Águila,Aguila,"Arroyo Aguila",-33.6000,-57.9833,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.6,,,5,America/Montevideo,FALSE,1858918083
+"Rincón de Pacheco","Rincon de Pacheco",,-30.7054,-56.1626,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,8.5,,,5,America/Montevideo,FALSE,1858858850
+Ramos,Ramos,"La Reforma",-31.2833,-56.4333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858459775
+"Molles del Pescado","Molles del Pescado",,-33.4667,-55.2000,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.1,,,5,America/Montevideo,FALSE,1858691939
+"Las Brujas","Las Brujas",,-34.6333,-56.3333,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,23.5,,,4,America/Montevideo,FALSE,1858674680
+"Puntas del Parao","Puntas del Parao",,-32.7500,-54.4000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,4.8,,,5,America/Montevideo,FALSE,1858104827
+"Piedras de Afilar","Piedras de Afilar",,-34.7419,-55.5189,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,83.6,,,4,America/Montevideo,FALSE,1858068517
+Larrosa,Larrosa,,-33.3833,-55.0833,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,5,America/Montevideo,FALSE,1858541402
+"Poblado del Minuano","Poblado del Minuano",Minuano,-32.4500,-55.0333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858843322
+"Rincón de Mariscala","Rincon de Mariscala",,-33.9347,-54.5856,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858334415
+"Rincón de los Negros","Rincon de los Negros",,-32.7167,-57.4667,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.7,,,5,America/Montevideo,FALSE,1858028726
+"Miguelete de Conchillas","Miguelete de Conchillas",,-34.1058,-57.8521,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.7,,,5,America/Montevideo,FALSE,1858353599
+"Sánchez Chico","Sanchez Chico",,-32.8818,-57.7488,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.2,,,5,America/Montevideo,FALSE,1858146694
+Campana,Campana,,-34.0326,-57.9020,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,266.9,,,3,America/Montevideo,FALSE,1858001151
+"Puntas del Buricayupí","Puntas del Buricayupi","Puntas de Buricayupí|Buricayupí|Sauce Buricayupí",-31.8628,-57.3429,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,4,America/Montevideo,FALSE,1858849811
+"Santa Teresa","Santa Teresa",,-34.4333,-57.7167,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.4,,,5,America/Montevideo,FALSE,1858340977
+"Rincón de los Francos","Rincon de los Francos",,-33.1727,-54.6224,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.2,,,5,America/Montevideo,FALSE,1858183057
+Echevarría,Echevarria,Echeverría,-34.5333,-56.3167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,21.6,,,4,America/Montevideo,FALSE,1858656117
+"Cañada Sauce","Canada Sauce",,-32.4667,-54.3167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.0,,,5,America/Montevideo,FALSE,1858242938
+Sauzal,Sauzal,,-30.9333,-55.5500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,1993.5,,,3,America/Montevideo,FALSE,1858913439
+Sauce,Sauce,"Sauce del Yí",-33.2000,-56.7833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.2,,,5,America/Montevideo,FALSE,1858021703
+"Vuelta del Palmar","Vuelta del Palmar",,-34.1979,-53.7867,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.7,,,5,America/Montevideo,FALSE,1858092475
+"El Ceibo","El Ceibo",,-33.5167,-53.7833,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.3,,,5,America/Montevideo,FALSE,1858254944
+"El Tarugo","El Tarugo",Tarugo,-32.0000,-57.3000,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.2,,,5,America/Montevideo,FALSE,1858783367
+Cardoso,Cardoso,"Maximo Tajes|Cardozo|Pueblo Cardozo",-32.6333,-56.3500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,13.6,,,4,America/Montevideo,FALSE,1858416544
+"Puntas del Marincho","Puntas del Marincho",,-33.5222,-57.0497,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.5,,,5,America/Montevideo,FALSE,1858044563
+"Puntas de Cañas","Puntas de Canas",,-31.6333,-56.9167,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858942949
+Maroñas,Maronas,,-34.8500,-56.1167,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,6773.0,,,2,America/Montevideo,FALSE,1858255664
+"Tres Cerros","Tres Cerros",,-31.3667,-55.6667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858775660
+"Bañado de los Olivera","Banado de los Olivera",,-33.2024,-54.4402,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,1.3,,,5,America/Montevideo,FALSE,1858407344
+"Poblado La Humedad","Poblado La Humedad","La Humedad",-32.0500,-54.8667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858018490
+"San Luis Sánchez","San Luis Sanchez",,-34.1728,-57.6732,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.8,,,5,America/Montevideo,FALSE,1858612218
+"Boca del Rosario","Boca del Rosario",,-34.4000,-57.3333,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.6,,,5,America/Montevideo,FALSE,1858709670
+"La Pedrera","La Pedrera",,-33.5000,-56.8667,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,4.7,,,5,America/Montevideo,FALSE,1858615703
+Rolón,Rolon,,-33.1167,-55.9833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.3,,,5,America/Montevideo,FALSE,1858268081
+"Colonia Jefferies","Colonia Jefferies",,-33.2500,-54.3333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,1.3,,,5,America/Montevideo,FALSE,1858653393
+Polancos,Polancos,,-33.8778,-58.2760,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2.7,,,5,America/Montevideo,FALSE,1858695393
+"Rincón de Freitas","Rincon de Freitas",,-31.6119,-56.1728,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,11.8,,,4,America/Montevideo,FALSE,1858038170
+"Buena Unión","Buena Union",,-31.2333,-55.6333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858991070
+Mouriño,Mourino,"Pueblo Mouriño",-32.9000,-56.1333,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.2,,,5,America/Montevideo,FALSE,1858692463
+Platón,Platon,,-31.0000,-55.6833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.2,,,5,America/Montevideo,FALSE,1858226807
+"José Ignacio","Jose Ignacio",,-34.6500,-55.2333,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,1.3,,,5,America/Montevideo,FALSE,1858150257
+Piñera,Pinera,,-32.3269,-57.0486,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,112.5,,,4,America/Montevideo,FALSE,1858569322
+Marincho,Marincho,,-33.2333,-57.1333,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.2,,,5,America/Montevideo,FALSE,1858001658
+"Rancherío Tejera","Rancherio Tejera",,-33.3333,-56.4667,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.6,,,5,America/Montevideo,FALSE,1858017770
+"El Chajá","El Chaja",,-33.0167,-53.9500,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.4,,,5,America/Montevideo,FALSE,1858055132
+Bellaco,Bellaco,,-32.7639,-57.8837,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.7,,,5,America/Montevideo,FALSE,1858384016
+"Puntas de Pantanoso","Puntas de Pantanoso",,-34.5429,-56.0601,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,12.8,,,4,America/Montevideo,FALSE,1858510016
+"Los Furtado","Los Furtado",,-32.2667,-55.9000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858051393
+Illescas,Illescas,,-33.6000,-55.3333,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,26.4,,,4,America/Montevideo,FALSE,1858506770
+"Villa Serrana","Villa Serrana",,-34.2833,-54.9833,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,15.9,,,4,America/Montevideo,FALSE,1858666947
+Reynold,Reynold,,-33.0667,-55.8500,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.6,,,5,America/Montevideo,FALSE,1858147674
+Velázquez,Velazquez,,-34.4707,-55.2859,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.9,,,5,America/Montevideo,FALSE,1858430387
+Sauce,Sauce,"El Sauce",-32.9052,-57.7318,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.2,,,5,America/Montevideo,FALSE,1858455184
+"Pueblo del Sauce","Pueblo del Sauce","Poblado del Sauce|Sauce",-33.6833,-54.6500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.1,,,5,America/Montevideo,FALSE,1858260918
+"La Calavera","La Calavera",,-32.9333,-54.2667,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.6,,,5,America/Montevideo,FALSE,1858057540
+"Brigadier General Diego Lamas","Brigadier General Diego Lamas",,-30.7499,-57.0569,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858187361
+"Estancia Bichadero","Estancia Bichadero",,-32.9693,-57.7129,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.1,,,5,America/Montevideo,FALSE,1858802552
+"Solís Grande","Solis Grande",,-34.4782,-55.5309,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,1.7,,,5,America/Montevideo,FALSE,1858829083
+"Wenceslao Silveira","Wenceslao Silveira",,-32.5167,-54.5833,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,0.3,,,5,America/Montevideo,FALSE,1858723596
+"Picada Tolosa","Picada Tolosa",,-34.6434,-54.5025,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2.5,,,5,America/Montevideo,FALSE,1858870438
+Castillos,Castillos,Castillo,-33.8833,-57.6667,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.1,,,5,America/Montevideo,FALSE,1858985524
+"El Infiernillo","El Infiernillo",,-33.9167,-55.6667,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.5,,,4,America/Montevideo,FALSE,1858030420
+"Paso de los Carros","Paso de los Carros",,-31.9803,-57.4324,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.2,,,5,America/Montevideo,FALSE,1858454204
+"Villa del Rosario","Villa del Rosario",,-34.3112,-55.4760,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,187.7,,,4,America/Montevideo,FALSE,1858684574
+"Paso Espinosa","Paso Espinosa",,-34.4943,-56.2792,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,311.2,,,3,America/Montevideo,FALSE,1858824825
+"Colonia Brigadier General Rivera","Colonia Brigadier General Rivera",,-30.4048,-56.5536,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,1.8,,,5,America/Montevideo,FALSE,1858040343
+Lares,Lares,,-33.8283,-57.7905,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,163.6,,,4,America/Montevideo,FALSE,1858981577
+"Dieciocho de Julio","Dieciocho de Julio","Pueblo Nuevo",-34.4424,-56.4430,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,250.2,,,3,America/Montevideo,FALSE,1858735929
+"Martín Chico","Martin Chico",,-34.1594,-58.2054,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858468123
+"Las Cañas","Las Canas","Puntas de las Cañas|Cañas",-32.9333,-55.5167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858495642
+"Radial Conchillas","Radial Conchillas",,-34.1213,-58.0079,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,180.4,,,4,America/Montevideo,FALSE,1858250271
+Arbolito,Arbolito,,-32.6500,-54.2500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.1,,,5,America/Montevideo,FALSE,1858806745
+"Villa Libertad","Villa Libertad",,-34.6500,-56.6000,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,6.2,,,5,America/Montevideo,FALSE,1858306001
+"Paso del Parque","Paso del Parque",,-31.9000,-54.7833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.6,,,5,America/Montevideo,FALSE,1858760289
+Cañitas,Canitas,Cañas,-32.3500,-53.8333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,2.3,,,5,America/Montevideo,FALSE,1858444768
+"Valle Edén","Valle Eden",,-31.8233,-56.1772,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858295573
+"Paso Ataques","Paso Ataques","Passo de Ataques|Paso de Ataques|Estación Ataques",-31.1000,-55.6667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,2.0,,,4,America/Montevideo,FALSE,1858393600
+Horqueta,Horqueta,"Horqueta de Castillos",-34.1167,-53.9500,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.9,,,5,America/Montevideo,FALSE,1858793927
+"El Bellaco","El Bellaco",,-33.4140,-54.5932,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.3,,,5,America/Montevideo,FALSE,1858401373
+Arriera,Arriera,,-32.0333,-54.5667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.3,,,5,America/Montevideo,FALSE,1858583664
+"Ombúes de Oribe","Ombues de Oribe",,-33.3000,-56.3500,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.6,,,5,America/Montevideo,FALSE,1858862524
+Larrayos,Larrayos,,-32.1667,-55.0167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,5.4,,,5,America/Montevideo,FALSE,1858124977
+"Rincón de Cebollatí","Rincon de Cebollati",,-33.6533,-54.4554,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,5,America/Montevideo,FALSE,1858538648
+"Pueblo Fernández","Pueblo Fernandez",Fernández|Mataojo|Mataojito,-31.1764,-56.3706,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,67.4,,,4,America/Montevideo,FALSE,1858311011
+"Isla Patrulla","Isla Patrulla","Villa Maria Isabel Isla de Patrulla|Maria Isabel",-32.9833,-54.5833,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,10.1,,,4,America/Montevideo,FALSE,1858556952
+"Cainsa Campo Tres","Cainsa Campo Tres",,-30.4304,-57.7326,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,10.7,,,4,America/Montevideo,FALSE,1858584460
+"Zanja Honda","Zanja Honda",,-33.7944,-57.5511,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.2,,,5,America/Montevideo,FALSE,1858240706
+"Cerro de las Armas","Cerro de las Armas",,-34.0660,-57.7232,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.5,,,5,America/Montevideo,FALSE,1858301257
+"El Progreso","El Progreso",,-32.7325,-56.9485,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.1,,,5,America/Montevideo,FALSE,1858241296
+"Sarandí de Navarro","Sarandi de Navarro",Sarandí,-32.5437,-56.8658,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,157.8,,,4,America/Montevideo,FALSE,1858316940
+"Poblado Lambari","Poblado Lambari",Lambaré,-31.5167,-55.9667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.0,,,5,America/Montevideo,FALSE,1858215310
+"Poblado Rincón de Giloca","Poblado Rincon de Giloca","Rincón de Giloca",-31.8333,-55.7667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858330324
+Medina,Medina,,-33.1167,-54.8333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.5,,,5,America/Montevideo,FALSE,1858008013
+"Pueblo Ferrocarril","Pueblo Ferrocarril","Ferro Carril",-34.8000,-56.2167,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,1234.0,,,3,America/Montevideo,FALSE,1858048457
+"Poblado Segarra","Poblado Segarra",Segarra,-31.5000,-55.1667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.6,,,5,America/Montevideo,FALSE,1858358493
+"Costa de Navarro","Costa de Navarro",,-34.2457,-57.3408,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2.4,,,5,America/Montevideo,FALSE,1858715802
+"Paso Barrancas","Paso Barrancas",Barrancas,-33.6341,-53.8059,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.5,,,5,America/Montevideo,FALSE,1858988634
+"Cap. Juan A. Artigas","Cap. Juan A. Artigas",,-34.7625,-56.0206,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,3772.1,,,2,America/Montevideo,FALSE,1858327848
+"Sarandí de Aceguá","Sarandi de Acegua",,-32.0167,-54.2000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.3,,,5,America/Montevideo,FALSE,1858763700
+"El General","El General",,-34.4260,-57.8296,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,4.4,,,5,America/Montevideo,FALSE,1858407818
+"Paso de Piriz","Paso de Piriz",,-33.0500,-54.0667,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.4,,,5,America/Montevideo,FALSE,1858305095
+"Las Violetas","Las Violetas",,-33.6000,-57.1333,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.3,,,5,America/Montevideo,FALSE,1858876317
+"Cañada Grande","Canada Grande",,-34.4660,-56.7508,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,29.5,,,4,America/Montevideo,FALSE,1858671761
+"Blanca Arena","Blanca Arena",,-34.4356,-57.2967,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,166.2,,,4,America/Montevideo,FALSE,1858717330
+"Paso de la Laguna","Paso de la Laguna",,-30.9667,-57.5333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,29.0,,,4,America/Montevideo,FALSE,1858314204
+"Puerto Amaro","Puerto Amaro",Amaro,-32.7500,-53.4833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.8,,,5,America/Montevideo,FALSE,1858909018
+"Corral de Piedra","Corral de Piedra",,-33.8833,-56.4500,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.6,,,5,America/Montevideo,FALSE,1858755400
+Cabellos,Cabellos,,-30.7079,-57.3773,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.1,,,5,America/Montevideo,FALSE,1858548737
+"Parador Tajes","Parador Tajes",,-34.6085,-56.4673,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,12.6,,,4,America/Montevideo,FALSE,1858079436
+Verdún,Verdun,,-32.6667,-55.4500,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858041189
+"Paso Toscas","Paso Toscas",,-34.4500,-56.2500,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,6.4,,,5,America/Montevideo,FALSE,1858373946
+Ferrer,Ferrer,,-33.4833,-55.5667,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.6,,,5,America/Montevideo,FALSE,1858533059
+"Guardia Vieja","Guardia Vieja",,-34.7363,-55.0236,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,6.6,,,5,America/Montevideo,FALSE,1858212881
+"Rincón de Coronel","Rincon de Coronel",,-32.7000,-53.9667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.0,,,5,America/Montevideo,FALSE,1858869021
+Cuaró,Cuaro,,-31.9000,-55.1333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858519279
+Chamizo,Chamizo,,-34.1667,-56.6833,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,1.8,,,5,America/Montevideo,FALSE,1858435504
+"Verde Alto","Verde Alto",,-33.1584,-54.4393,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,1.3,,,5,America/Montevideo,FALSE,1858218874
+"Pueblo de Barro","Pueblo de Barro","Pueblo del Barro",-32.0500,-55.3833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.2,,,5,America/Montevideo,FALSE,1858443218
+Sánchez,Sanchez,"Pueblo Sánchez Grande|Pueblo Sanchez|Sanchez Grande|Sanchez Chico|Pueblo Sauce",-32.8138,-57.7550,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.0,,,4,America/Montevideo,FALSE,1858244407
+Saucedo,Saucedo,,-31.1076,-57.5293,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,240.4,,,3,America/Montevideo,FALSE,1858740937
+"Sarandí de Gutiérrez","Sarandi de Gutierrez",,-33.5333,-54.6000,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,5,America/Montevideo,FALSE,1858343514
+"La Micaela","La Micaela",,-32.6333,-53.9000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.3,,,5,America/Montevideo,FALSE,1858677771
+Menafra,Menafra,,-32.5582,-57.4846,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,12.2,,,4,America/Montevideo,FALSE,1858709674
+"Minas de Narancio","Minas de Narancio",,-34.1819,-57.9206,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.7,,,5,America/Montevideo,FALSE,1858518983
+Pedernal,Pedernal,,-34.3667,-55.7833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,9.2,,,5,America/Montevideo,FALSE,1858327565
+"Los Mellizos","Los Mellizos","Paso de los Mellizos",-32.5198,-57.1591,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,285.9,,,3,America/Montevideo,FALSE,1858899242
+Yacot,Yacot,,-30.2500,-56.8500,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858414862
+"Sauce de Batoví","Sauce de Batovi",,-31.8911,-56.0208,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858238099
+"Los Ceibos","Los Ceibos",,-34.7644,-54.9671,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,9.2,,,5,America/Montevideo,FALSE,1858594616
+Daymán,Dayman,,-31.5301,-57.8961,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.5,,,5,America/Montevideo,FALSE,1858541125
+"Sauce de Aiguá","Sauce de Aigua",,-34.2616,-54.7264,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.4,,,5,America/Montevideo,FALSE,1858293801
+"Poblado Los Coitinhos","Poblado Los Coitinhos","Los Coitinhos",-31.8333,-55.9833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.9,,,5,America/Montevideo,FALSE,1858055819
+"Los Camejos","Los Camejos",,-33.1167,-54.8167,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.5,,,5,America/Montevideo,FALSE,1858452717
+Laureles,Laureles,"Bella Aurora",-31.4990,-57.5255,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,63.3,,,4,America/Montevideo,FALSE,1858389872
+"La Paraguaya","La Paraguaya","Cañada Paraguaya",-33.5667,-58.0667,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.6,,,4,America/Montevideo,FALSE,1858868634
+"Polanco del Yi","Polanco del Yi","Paso Polanco del Yi",-33.4833,-56.1500,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,31.6,,,4,America/Montevideo,FALSE,1858457321
+González,Gonzalez,,-34.2292,-56.8742,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,63.9,,,4,America/Montevideo,FALSE,1858411344
+"Poblado Berruti","Poblado Berruti",Berruti,-31.4333,-55.2333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,,,5,America/Montevideo,FALSE,1858241337
+"Costas del Soldado","Costas del Soldado",,-34.1906,-55.3451,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,5,America/Montevideo,FALSE,1858200435
+"Abra de Perdomo","Abra de Perdomo",,-34.7413,-54.9819,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,5.5,,,5,America/Montevideo,FALSE,1858886954
+"Cerro Caqueira","Cerro Caqueira",,-30.9333,-55.4833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,2.1,,,5,America/Sao_Paulo,FALSE,1858335702
+"Pueblo Cuchilla","Pueblo Cuchilla",,-32.0833,-56.8667,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.0,,,5,America/Montevideo,FALSE,1858465524
+Mangrullo,Mangrullo,,-32.1167,-54.0667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.6,,,5,America/Montevideo,FALSE,1858946817
+"Paso del Bañado","Paso del Banado",,-34.2000,-53.9333,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.9,,,5,America/Montevideo,FALSE,1858262751
+"Ingenio José Serrato","Ingenio Jose Serrato",,-33.2500,-53.9167,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.3,,,5,America/Montevideo,FALSE,1858603406
+"Santa Isabel","Santa Isabel",,-34.5572,-54.1001,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2.2,,,5,America/Montevideo,FALSE,1858948445
+"Arrozal Victoria","Arrozal Victoria",,-33.3512,-53.8856,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.5,,,5,America/Montevideo,FALSE,1858808877
+Cufré,Cufre,,-34.1940,-57.1076,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,221.4,,,3,America/Montevideo,FALSE,1858160246
+Mederos,Mederos,,-32.9000,-55.2333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.0,,,5,America/Montevideo,FALSE,1858619163
+Bizcocho,Bizcocho,,-33.4310,-58.1339,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.4,,,5,America/Montevideo,FALSE,1858364689
+"Capilla de Cella","Capilla de Cella",,-34.6989,-55.5189,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,179.0,,,4,America/Montevideo,FALSE,1858139169
+Arenal,Arenal,"Puntas del Arenal Chico",-34.4500,-55.7833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,9.1,,,5,America/Montevideo,FALSE,1858460935
+"Poblado Cerro Chato","Poblado Cerro Chato","Cerro Chato",-32.4500,-56.0333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858275486
+Portezuelo,Portezuelo,"El Portezuelo",-34.8879,-55.0403,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,94.1,,,4,America/Montevideo,FALSE,1858566461
+"Colonia Cosmopolita","Colonia Cosmopolita",,-34.3848,-57.4019,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,63.5,,,4,America/Montevideo,FALSE,1858471961
+Ordeig,Ordeig,,-34.7040,-56.7072,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,53.9,,,4,America/Montevideo,FALSE,1858319553
+"Parada Herrería","Parada Herreria",,-31.3670,-57.7923,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,7.2,,,5,America/Montevideo,FALSE,1858919024
+"Capón de la Yerba","Capon de la Yerba",,-31.6164,-56.0502,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.9,,,5,America/Montevideo,FALSE,1858022015
+Yacare,Yacare,,-30.5927,-57.4154,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.1,,,5,America/Montevideo,FALSE,1858695593
+Alonso,Alonso,,-33.4199,-54.3880,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,5,America/Montevideo,FALSE,1858303904
+"Molles de Cañada Grande","Molles de Canada Grande",,-33.6221,-54.5426,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,5,America/Montevideo,FALSE,1858210332
+"Villa Vieja","Villa Vieja",,-34.0584,-56.3673,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,2.0,,,5,America/Montevideo,FALSE,1858578125
+Manga,Manga,,-34.8167,-56.1000,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,3264.6,,,2,America/Montevideo,FALSE,1858089364
+Falagian,Falagian,,-34.3667,-55.1667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,5,America/Montevideo,FALSE,1858133562
+"Juan José Castro","Juan Jose Castro","Juan J. Castro",-33.5000,-56.7500,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,123.7,,,4,America/Montevideo,FALSE,1858144044
+"Cuchilla del Ombú","Cuchilla del Ombu",,-31.8000,-55.7000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858167944
+Talita,Talita,,-33.9252,-56.0422,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,0.5,,,5,America/Montevideo,FALSE,1858006164
+"Colonia Rosario","Colonia Rosario","Colonia Piamontesa|Colonia Valdense",-34.4167,-57.2833,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,3.4,,,5,America/Montevideo,FALSE,1858977795
+"Villa del Cerro","Villa del Cerro",,-34.8750,-56.2589,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,7047.8,,,2,America/Montevideo,FALSE,1858753123
+"Paso de Ceferino","Paso de Ceferino","Paso Ceferino|Pablado Paso de Ceferino",-31.5197,-56.0766,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858234589
+"Poblado Batoví","Poblado Batovi",Batoví,-31.9167,-55.9333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858546228
+"Poblado la Villa","Poblado la Villa",Vila,-31.3667,-55.0833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,,,5,America/Montevideo,FALSE,1858313698
+"Puntas de Juan González","Puntas de Juan Gonzalez",,-34.1024,-57.9360,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.7,,,5,America/Montevideo,FALSE,1858568279
+Lluveras,Lluveras,,-31.1015,-57.0641,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,276.3,,,3,America/Montevideo,FALSE,1858299052
+"Sierra del Mar","Sierra del Mar",,-34.7917,-55.4701,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,161.4,,,4,America/Montevideo,FALSE,1858093285
+"Puntas de Valentín","Puntas de Valentin",,-31.4969,-57.1329,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,49.1,,,4,America/Montevideo,FALSE,1858820301
+"Villa García","Villa Garcia",,-34.7811,-56.0533,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,1759.2,,,3,America/Montevideo,FALSE,1858972345
+"Buena Vista","Buena Vista",,-32.1500,-54.2000,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.6,,,5,America/Montevideo,FALSE,1858149595
+"Saca Chispas","Saca Chispas",,-33.1667,-57.5833,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.2,,,5,America/Montevideo,FALSE,1858333881
+"Rincón del Cololó","Rincon del Cololo",,-33.0833,-57.4333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,367.6,,,3,America/Montevideo,FALSE,1858159745
+"Fortín de Santa Rosa","Fortin de Santa Rosa",,-34.7708,-55.8081,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,143.0,,,4,America/Montevideo,FALSE,1858517898
+"Paso de la Cadena","Paso de la Cadena",,-34.4423,-56.1484,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,11.1,,,4,America/Montevideo,FALSE,1858651319
+"Paso Bonilla","Paso Bonilla",,-31.8087,-55.9845,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858035608
+"Delta del Tigre","Delta del Tigre",,-34.7633,-56.3853,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,2716.4,,,2,America/Montevideo,FALSE,1858848324
+"Cañada del Pueblo","Canada del Pueblo",,-31.9427,-57.1831,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,77.3,,,4,America/Montevideo,FALSE,1858755248
+"Cerro Convento","Cerro Convento",,-32.7500,-55.6500,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.3,,,5,America/Montevideo,FALSE,1858280278
+"Poblado Zapucay","Poblado Zapucay","Zapucay|Minas de Zapucay",-31.7167,-55.3333,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,,,5,America/Montevideo,FALSE,1858192977
+"Paso Cementerio","Paso Cementerio",,-31.3992,-56.7436,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,41.6,,,4,America/Montevideo,FALSE,1858557799
+"Polanco Sur","Polanco Sur",,-33.8983,-55.1672,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.6,,,5,America/Montevideo,FALSE,1858422678
+"Piedra Sola","Piedra Sola",,-32.0829,-56.3098,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,101.2,,,4,America/Montevideo,FALSE,1858444192
+Rincón,Rincon,,-32.7833,-53.8333,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.1,,,5,America/Montevideo,FALSE,1858138337
+"Partido Oeste","Partido Oeste",,-34.7188,-54.9610,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,1.9,,,5,America/Montevideo,FALSE,1858845424
+"Marco de Los Reyes","Marco de Los Reyes",,-34.3919,-54.9852,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,5,America/Montevideo,FALSE,1858961443
+Espinillar,Espinillar,,-33.4667,-54.2000,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.5,,,4,America/Montevideo,FALSE,1858261648
+"La Cuchilla","La Cuchilla",,-34.3648,-56.5316,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,1.6,,,5,America/Montevideo,FALSE,1858558015
+Arbolito,Arbolito,Totoral,-32.2163,-56.4570,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858447627
+"Santa Ana","Santa Ana","Balneario Santa Ana",-34.7900,-55.4690,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,157.7,,,4,America/Montevideo,FALSE,1858180256
+"El Empalme","El Empalme",,-31.8165,-56.2659,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858063328
+"Tres Quintas","Tres Quintas",,-32.6929,-57.9749,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.8,,,5,America/Montevideo,FALSE,1858986563
+Camaño,Camano,,-30.5667,-56.8833,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858314943
+"El Maturrango","El Maturrango",Maturrango,-34.0667,-53.9333,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.9,,,5,America/Montevideo,FALSE,1858740636
+"Barra de Maldonado","Barra de Maldonado",,-34.8667,-54.8667,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,7.0,,,5,America/Montevideo,FALSE,1858646956
+"Tres Bocas","Tres Bocas",,-33.7333,-57.8333,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.2,,,5,America/Montevideo,FALSE,1858578814
+Gervasio,Gervasio,,-33.8833,-53.5000,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.8,,,5,America/Montevideo,FALSE,1858797863
+"Los Ceibos","Los Ceibos",,-33.1821,-54.2256,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.7,,,5,America/Montevideo,FALSE,1858574656
+"Poblado La Chilca","Poblado La Chilca","La Chirca",-32.0500,-54.6333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.3,,,5,America/Montevideo,FALSE,1858438380
+Laureles,Laureles,,-31.3667,-55.8500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858887346
+"San Pedro","San Pedro",,-34.3500,-57.8500,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,7.3,,,5,America/Montevideo,FALSE,1858982072
+"Poblado Rincón de la Laguna","Poblado Rincon de la Laguna","Rincón de la Laguna",-32.0000,-55.4833,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.3,,,5,America/Montevideo,FALSE,1858825368
+Soto,Soto,,-31.9833,-54.1667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,147.1,,,4,America/Montevideo,FALSE,1858032849
+"Valdéz Chico","Valdez Chico",,-34.5308,-56.6187,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,7.3,,,5,America/Montevideo,FALSE,1858425006
+"María Cejas","Maria Cejas","Arroyo María Cejas",-33.0833,-56.1833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858620232
+Guazu-Virá,Guazu-Vira,,-34.7667,-55.6167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,11.0,,,4,America/Montevideo,FALSE,1858893049
+"Poblado Sauce de Batoví","Poblado Sauce de Batovi","Sauce Batoví",-31.9167,-56.0167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858213395
+"El Tropiezo","El Tropiezo",Tropiezo,-31.4000,-57.7833,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,2.5,,,5,America/Montevideo,FALSE,1858073455
+"Piedra Pintada","Piedra Pintada","Colonia Pintado|Pintado Colonia Agrícola",-30.5242,-56.3527,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,5.7,,,5,America/Montevideo,FALSE,1858749285
+"Local Feria Don Félix","Local Feria Don Felix",,-30.6881,-57.6925,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.4,,,5,America/Montevideo,FALSE,1858513759
+"Solís Grande","Solis Grande",,-34.7125,-55.4307,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.9,,,5,America/Montevideo,FALSE,1858550484
+"La Montañesa","La Montanesa",,-34.7200,-55.8797,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,774.0,,,3,America/Montevideo,FALSE,1858172152
+"Arenal Chico","Arenal Chico",,-33.5785,-57.1102,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.3,,,5,America/Montevideo,FALSE,1858877656
+"La Florida","La Florida",,-32.7484,-57.8023,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.7,,,5,America/Montevideo,FALSE,1858469509
+"Los Talas","Los Talas",,-33.3167,-54.7667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.2,,,4,America/Montevideo,FALSE,1858327668
+"Los Furtados","Los Furtados",,-32.2500,-55.7500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,9.2,,,5,America/Montevideo,FALSE,1858250799
+Tamanduá,Tamandua,"Puntas Tamanduá",-30.4643,-56.5070,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,1.8,,,5,America/Montevideo,FALSE,1858406119
+"Poblado Los García","Poblado Los Garcia","Los Garcia",-32.1500,-54.9500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,2.4,,,5,America/Montevideo,FALSE,1858535294
+"Villa Don Bosco","Villa Don Bosco",,-34.8031,-56.0858,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,2785.0,,,2,America/Montevideo,FALSE,1858902462
+"Barrio La Coronilla-Ancap","Barrio La Coronilla-Ancap",,-34.3947,-55.2990,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,244.4,,,3,America/Montevideo,FALSE,1858267162
+Zeballos,Zeballos,"Los Ceballos",-32.0457,-57.4164,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.7,,,5,America/Montevideo,FALSE,1858819151
+Florentino,Florentino,,-31.3000,-57.1333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,86.0,,,4,America/Montevideo,FALSE,1858955430
+Peñarol,Penarol,,-34.8167,-56.1833,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,2455.8,,,2,America/Montevideo,FALSE,1858642175
+"Los Ahogados","Los Ahogados",,-33.5333,-56.9333,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,4.4,,,5,America/Montevideo,FALSE,1858527685
+Anastasia,Anastasia,,-33.2167,-54.3833,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,2327.6,,,2,America/Montevideo,FALSE,1858732037
+"Queguay Chico","Queguay Chico",,-32.0864,-56.9152,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,2.4,,,5,America/Montevideo,FALSE,1858109944
+"Rincón de Gutiérrez","Rincon de Gutierrez",,-33.2000,-54.7500,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.3,,,5,America/Montevideo,FALSE,1858121881
+Itapebí,Itapebi,Itapeby,-31.2863,-57.7050,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,2.1,,,5,America/Montevideo,FALSE,1858234146
+"Barker Norte","Barker Norte",,-34.2203,-57.4776,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.3,,,5,America/Montevideo,FALSE,1858923070
+"Paso del Parque","Paso del Parque",,-31.7715,-57.0453,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,72.7,,,4,America/Montevideo,FALSE,1858833443
+"Víboras y Vacas","Viboras y Vacas",,-33.9293,-58.1984,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.6,,,5,America/Montevideo,FALSE,1858421780
+"La Unión","La Union",,-32.7500,-57.7500,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,1.0,,,5,America/Montevideo,FALSE,1858166629
+"La Unión","La Union",,-32.8431,-57.9103,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.3,,,5,America/Montevideo,TRUE,1858477698
+"Estación José Ignacio","Estacion Jose Ignacio",,-34.6889,-54.7118,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,1.6,,,5,America/Montevideo,FALSE,1858920860
+"La Arena","La Arena",,-32.9990,-57.0122,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.1,,,5,America/Montevideo,FALSE,1858155057
+"Tomás Paz","Tomas Paz",,-31.6328,-57.6963,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858972551
+"Parque Medina","Parque Medina",,-34.7983,-54.8927,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,371.6,,,3,America/Montevideo,FALSE,1858199062
+"Paso de la Horqueta","Paso de la Horqueta",,-34.2449,-57.8757,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.9,,,5,America/Montevideo,FALSE,1858013839
+Gaetán,Gaetan,,-34.1713,-55.5291,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.7,,,5,America/Montevideo,FALSE,1858558061
+Palmar,Palmar,,-34.1785,-53.8243,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,753.2,,,3,America/Montevideo,FALSE,1858035128
+"Paso de las Cañas","Paso de las Canas",,-31.4643,-56.9864,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858914207
+Fagúndez,Fagundez,,-30.6989,-56.5847,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858049590
+"Poblado Los Gómez","Poblado Los Gomez","Los Gomez",-32.1833,-55.0333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.5,,,5,America/Montevideo,FALSE,1858182118
+"Poblado Cerro Batoví","Poblado Cerro Batovi","Cerro Batoví",-31.8833,-56.0000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858642624
+"Bella Italia","Bella Italia","Balneario Bella Italia",-34.8333,-56.1167,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,4513.9,,,2,America/Montevideo,FALSE,1858288190
+"Tres Árboles","Tres Arboles",,-32.4000,-56.7167,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,81.1,,,4,America/Montevideo,FALSE,1858727665
+"Real de San Carlos","Real de San Carlos","Real San Carlos",-34.4365,-57.8652,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,61.5,,,4,America/Montevideo,FALSE,1858575359
+"Sauce del Yi","Sauce del Yi",,-33.4667,-55.6167,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,60.6,,,4,America/Montevideo,FALSE,1858142424
+Palma,Palma,,-30.6000,-57.6833,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,4.6,,,5,America/Montevideo,FALSE,1858441471
+Moirones,Moirones,"Poblado Moirones",-31.6333,-55.0000,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858941495
+Rabón,Rabon,,-32.5262,-57.9689,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.8,,,5,America/Montevideo,FALSE,1858227974
+Cuñapirú,Cunapiru,,-31.5333,-55.5833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.5,,,5,America/Montevideo,FALSE,1858666044
+"Paso de las Carretas","Paso de las Carretas",,-31.5634,-56.0482,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.3,,,5,America/Montevideo,FALSE,1858938832
+"El Cerro","El Cerro",,-33.9842,-58.2379,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,205.8,,,3,America/Montevideo,FALSE,1858758046
+"Julio María Sanz","Julio Maria Sanz",,-33.1500,-54.1500,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.2,,,5,America/Montevideo,FALSE,1858862890
+"Villa San Cono","Villa San Cono",,-34.7028,-55.8876,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,723.6,,,3,America/Montevideo,FALSE,1858139667
+"Poblado La Hilera","Poblado La Hilera","La Hilera",-32.0833,-55.6500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,64.7,,,4,America/Montevideo,FALSE,1858387911
+"Polanco de Ibargoyen","Polanco de Ibargoyen",,-33.9333,-55.2667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.6,,,5,America/Montevideo,FALSE,1858362612
+"Palmares de la Coronilla","Palmares de la Coronilla",,-33.8467,-53.4828,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,11.0,,,4,America/Montevideo,FALSE,1858641587
+"San Juan","San Juan",,-34.2040,-57.7994,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.1,,,5,America/Montevideo,FALSE,1858919244
+"San Juan","San Juan","Puntas de San Juan",-33.9333,-57.4667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.9,,,5,America/Montevideo,TRUE,1858964576
+Zapucay,Zapucay,,-31.8000,-55.3333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858742869
+"San Rafael","San Rafael",,-34.9296,-54.8981,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,203.8,,,3,America/Montevideo,FALSE,1858421638
+"Poblado de los Cuadrados","Poblado de los Cuadrados","Los Cuadrado",-32.1667,-55.9500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858959054
+"Valentín Grande","Valentin Grande","Valentín|Poblacion Valentin",-31.2735,-57.1568,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858824526
+Mendizabal,Mendizabal,"Poblado Mendizabal",-33.0500,-54.1500,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,76.4,,,4,America/Montevideo,FALSE,1858470293
+Pinchazo,Pinchazo,,-31.3000,-57.1000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,144.3,,,4,America/Montevideo,FALSE,1858035400
+"Poblado Zambullón","Poblado Zambullon",Zambullón,-32.0333,-55.7833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.6,,,5,America/Montevideo,FALSE,1858176340
+Goní,Goni,,-33.4833,-56.4833,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,5.0,,,5,America/Montevideo,FALSE,1858720673
+"Poblado Montevideo Chico","Poblado Montevideo Chico","Montevideo Chico",-32.2167,-55.6000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858888762
+Fernández,Fernandez,,-32.0000,-54.1333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.7,,,5,America/Montevideo,FALSE,1858551124
+"Paso del Centurión","Paso del Centurion",,-32.1667,-53.7500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.8,,,5,America/Montevideo,FALSE,1858573679
+"Poblado de los Morales","Poblado de los Morales","Rincón de Pereyra",-32.4000,-55.3500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858896302
+"Santa Adelaida","Santa Adelaida",,-33.7654,-57.1544,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.6,,,5,America/Montevideo,FALSE,1858627685
+"Arroyo Negro","Arroyo Negro",,-32.4750,-57.5557,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.5,,,5,America/Montevideo,FALSE,1858779868
+"Poblado Laura","Poblado Laura",Laura,-32.1500,-54.8833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,2.4,,,5,America/Montevideo,FALSE,1858564880
+Beisso,Beisso,,-32.3153,-57.0532,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,239.1,,,3,America/Montevideo,FALSE,1858602357
+"La Aguada","La Aguada",,-34.6400,-54.1597,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,919.0,,,3,America/Montevideo,FALSE,1858658409
+Peñarol,Penarol,,-31.7833,-54.3333,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.0,,,5,America/Montevideo,FALSE,1858971975
+"Rincón de Py","Rincon de Py",,-32.5000,-54.4167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.3,,,5,America/Montevideo,FALSE,1858371834
+"Ismael Cortinas","Ismael Cortinas",,-33.4167,-57.0667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.1,,,5,America/Montevideo,FALSE,1858563050
+Carumbé,Carumbe,,-31.5231,-56.6037,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858567978
+Estanzuela,Estanzuela,,-34.3000,-57.7333,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,7.3,,,5,America/Montevideo,FALSE,1858874242
+"Poblado de Castro","Poblado de Castro","Los Castros",-32.8333,-56.4333,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,17.6,,,4,America/Montevideo,FALSE,1858033019
+"Juan Jackson","Juan Jackson",,-33.9144,-57.2285,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,13.2,,,4,America/Montevideo,FALSE,1858945845
+Abayuba,Abayuba,,-34.7642,-56.2139,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,409.5,,,3,America/Montevideo,FALSE,1858103197
+Díaz,Diaz,,-33.1333,-54.9333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858262623
+"Sarandí Campana","Sarandi Campana",,-34.0361,-57.9562,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.7,,,5,America/Montevideo,FALSE,1858099691
+"Sauce de Tranqueras","Sauce de Tranqueras","Poblado Sause de Tranqueras|Sauce Tranqueras",-31.8515,-55.9254,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858419999
+"Sauce del Queguay","Sauce del Queguay","Sauce Queguay|Sauce de Queguay",-32.0916,-57.6117,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.1,,,5,America/Montevideo,FALSE,1858823745
+"Rincón de los Olivera","Rincon de los Olivera","Rincón de los Oliveras",-34.3030,-53.8479,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.9,,,5,America/Montevideo,FALSE,1858574871
+"Poblado Los Grozos","Poblado Los Grozos","Los Grozos",-31.8500,-56.0000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858519699
+"Cruz de los Caminos","Cruz de los Caminos",,-34.6346,-55.9629,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,189.7,,,4,America/Montevideo,FALSE,1858013355
+"El Ensueño","El Ensueno",,-34.4237,-57.6025,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,28.9,,,4,America/Montevideo,FALSE,1858941005
+"Poblado Rincón de los Muchadas","Poblado Rincon de los Muchadas","Rincón de los Machado",-32.2167,-56.0167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.4,,,5,America/Montevideo,FALSE,1858189553
+"Barrancas Coloradas","Barrancas Coloradas",,-34.2417,-57.2209,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858429648
+Sauce,Sauce,"Sauce Chico de Laureles",-31.5167,-57.5833,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.2,,,5,America/Montevideo,FALSE,1858183238
+"Cuchilla de Guaviyú","Cuchilla de Guaviyu",,-31.0266,-56.5611,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858297846
+"Palma Sola","Palma Sola",,-30.6833,-57.5167,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.2,,,5,America/Montevideo,FALSE,1858324474
+Coronilla,Coronilla,,-31.9167,-54.7333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.6,,,5,America/Montevideo,FALSE,1858772924
+González,Gonzalez,,-33.0833,-55.9667,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.3,,,5,America/Montevideo,FALSE,1858313182
+Canepa,Canepa,,-34.5167,-55.2500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.6,,,4,America/Montevideo,FALSE,1858933717
+Sayago,Sayago,Savago,-34.8333,-56.2333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,3861.1,,,2,America/Montevideo,FALSE,1858353720
+"Puntas Duraznito","Puntas Duraznito",Duraznito,-33.6500,-57.5333,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.8,,,5,America/Montevideo,FALSE,1858386360
+"Rincón de Yaguarí","Rincon de Yaguari",,-31.8167,-55.1833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.6,,,5,America/Montevideo,FALSE,1858591388
+"La Querencia","La Querencia",,-34.6333,-55.6167,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,3.5,,,5,America/Montevideo,FALSE,1858801464
+Parallé,Paralle,,-34.2215,-54.3161,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,12.0,,,4,America/Montevideo,FALSE,1858826767
+"Chacras de Constitución","Chacras de Constitucion",,-31.0725,-57.7893,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,1.0,,,5,America/Montevideo,FALSE,1858417263
+Chacarita,Chacarita,"Balneario Chacarita",-34.8500,-56.0833,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,25.6,,,4,America/Montevideo,FALSE,1858906897
+"Puntas del Sauce","Puntas del Sauce",,-33.8215,-57.0195,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.3,,,5,America/Montevideo,FALSE,1858059697
+Artilleros,Artilleros,,-34.4260,-57.5746,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,109.6,,,4,America/Montevideo,FALSE,1858283531
+"Poblado La Morcona","Poblado La Morcona","La Morcona",-32.1833,-56.0667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858395191
+Colón,Colon,Coion,-33.8764,-54.7203,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,157.0,,,4,America/Montevideo,FALSE,1858161915
+"Colonia Estrella","Colonia Estrella",,-33.9640,-58.2893,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2.7,,,5,America/Montevideo,FALSE,1858270352
+"Palmar de Castillos","Palmar de Castillos","Castillos|Palmares de Castillos",-34.2667,-53.9333,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.9,,,5,America/Montevideo,FALSE,1858467533
+"San José de las Cañas","San Jose de las Canas","San José de Cañas",-32.8333,-55.4833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,5,America/Montevideo,FALSE,1858848789
+"Las Garzas","Las Garzas","Balneario Las Garzas",-34.6967,-54.3247,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2.0,,,5,America/Montevideo,FALSE,1858990713
+Campanero,Campanero,,-34.3307,-55.2500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,54.4,,,4,America/Montevideo,FALSE,1858236779
+Reboledo,Reboledo,,-33.9911,-55.6474,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,68.5,,,4,America/Montevideo,FALSE,1858031425
+"La Palmita","La Palmita",,-34.6895,-55.8023,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,10.4,,,4,America/Montevideo,FALSE,1858384864
+"El Placer","El Placer",,-34.9195,-54.8803,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,246.6,,,3,America/Montevideo,FALSE,1858638757
+Federación,Federacion,Federaciõn,-32.0319,-57.3118,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,4.1,,,5,America/Montevideo,FALSE,1858816658
+Aldecoa,Aldecoa,,-33.5500,-56.9000,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,4.4,,,5,America/Montevideo,FALSE,1858983200
+"Los Rosanos","Los Rosanos",,-31.8169,-56.1758,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858205870
+Pastoreo,Pastoreo,,-34.3314,-57.3513,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,544.4,,,3,America/Montevideo,FALSE,1858023146
+Carpintería,Carpinteria,"Paso de Carpintería",-32.8333,-56.1833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858514571
+"Bello Horizonte","Bello Horizonte",,-34.7710,-55.6407,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,143.2,,,4,America/Montevideo,FALSE,1858500737
+"Nuevo París","Nuevo Paris","Balneario Nuevo Paris",-34.8500,-56.2333,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,5466.6,,,2,America/Montevideo,FALSE,1858970283
+"San Dios","San Dios",,-33.8667,-57.5167,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,1.2,,,5,America/Montevideo,FALSE,1858156211
+"San Díos","San Dios",,-33.1009,-57.7574,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.8,,,5,America/Montevideo,TRUE,1858334047
+"Barrio Artigas","Barrio Artigas",,-31.3875,-57.8996,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,2263.7,,,2,America/Montevideo,FALSE,1858031672
+Ferreira,Ferreira,,-31.1019,-56.9562,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.6,,,5,America/Montevideo,FALSE,1858244569
+Ituzaingó,Ituzaingo,"Pueblo Ituzaingó",-34.8500,-56.1167,Uruguay,UY,URY,Montevideo,Montevideo,UY-MO,department,,6773.0,,,2,America/Montevideo,FALSE,1858801188
+"Saca Chispas","Saca Chispas",,-31.8667,-57.2833,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.2,,,5,America/Montevideo,FALSE,1858533733
+"Tres Bocas","Tres Bocas",,-33.1395,-53.7182,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.1,,,5,America/Montevideo,FALSE,1858521331
+"Pueblo Castillos","Pueblo Castillos",,-33.8500,-57.7475,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,91.3,,,4,America/Montevideo,FALSE,1858919598
+"Pueblo Cayetano","Pueblo Cayetano",Cayetano,-31.2367,-56.7621,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,21.4,,,4,America/Montevideo,FALSE,1858723077
+"Poblado de Heriberto","Poblado de Heriberto",Heriberto,-31.8167,-55.5000,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,4,America/Montevideo,FALSE,1858975101
+Independencia,Independencia,,-34.3517,-56.3983,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,462.6,,,3,America/Montevideo,FALSE,1858584277
+"Kilómetro 71","Kilometro 71",,-34.3667,-56.4000,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,2.2,,,5,America/Montevideo,FALSE,1858813361
+Curticeras,Curticeras,,-30.9667,-55.5500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,12.7,,,4,America/Montevideo,FALSE,1858493704
+"Zanja Honda","Zanja Honda",,-31.8167,-54.6667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,552.1,,,3,America/Montevideo,FALSE,1858112339
+"Zanja Honda","Zanja Honda",,-31.2167,-55.6667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.8,,,5,America/Montevideo,TRUE,1858801167
+Mataojo,Mataojo,,-34.5000,-56.3833,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,9.9,,,5,America/Montevideo,FALSE,1858434145
+"Poblado Lavalleja","Poblado Lavalleja",Lavalleja,-31.8167,-55.9667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,1.0,,,5,America/Montevideo,FALSE,1858911838
+"Villa Viñoles","Villa Vinoles",Viñolles,-32.2000,-54.0667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,1.5,,,5,America/Montevideo,FALSE,1858347709
+Nando,Nando,"El Chuy|Chuy",-32.1667,-54.1167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.6,,,5,America/Montevideo,FALSE,1858200827
+"Poblado Celeste","Poblado Celeste",Celeste,-31.3000,-57.0667,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.3,,,5,America/Montevideo,FALSE,1858106327
+Escudero,Escudero,,-34.2167,-57.0000,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,2.1,,,5,America/Montevideo,FALSE,1858349455
+"Rincón del Bonete","Rincon del Bonete",,-32.8000,-56.4167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.2,,,5,America/Montevideo,FALSE,1858759934
+"Paso de los Novillos","Paso de los Novillos",,-34.1660,-56.4012,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,2.1,,,5,America/Montevideo,FALSE,1858877073
+"Las Chacras","Las Chacras",,-34.4583,-54.2965,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,2.4,,,5,America/Montevideo,FALSE,1858068733
+"El Chaco","El Chaco",,-32.9667,-55.3833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.4,,,4,America/Montevideo,FALSE,1858890510
+Machado,Machado,,-33.3500,-55.6167,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,811.3,,,3,America/Montevideo,FALSE,1858560585
+"La Bolsa","La Bolsa",,-30.8509,-56.3398,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.1,,,5,America/Montevideo,FALSE,1858794196
+Guayabos,Guayabos,,-32.2692,-57.3159,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.6,,,5,America/Montevideo,FALSE,1858659063
+"Paso de las Piedras","Paso de las Piedras",,-31.6667,-56.6333,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,21.2,,,4,America/Montevideo,FALSE,1858711106
+"Bañado de Rocha","Banado de Rocha",,-31.6000,-55.8500,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.7,,,5,America/Montevideo,FALSE,1858466369
+"Santa Rosa","Santa Rosa",,-34.0845,-57.9961,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.6,,,5,America/Montevideo,FALSE,1858471394
+"San Luis","San Luis",,-30.9167,-56.3000,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858844771
+"Cerro Alegre","Cerro Alegre",,-33.3333,-57.9500,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,5.4,,,5,America/Montevideo,FALSE,1858536286
+"La Chiva","La Chiva",,-33.2500,-54.0167,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,1.3,,,5,America/Montevideo,FALSE,1858798045
+Águila,Aguila,,-32.6667,-53.6167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.7,,,5,America/Montevideo,FALSE,1858552218
+"Las Ratas","Las Ratas",,-32.0833,-54.2500,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.2,,,5,America/Montevideo,FALSE,1858326715
+"Rincón del Pino","Rincon del Pino",,-34.5033,-56.8348,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,256.8,,,3,America/Montevideo,FALSE,1858564507
+Uleste,Uleste,,-32.5882,-57.8424,Uruguay,UY,URY,"Río Negro","Rio Negro",UY-RN,department,,0.7,,,5,America/Montevideo,FALSE,1858511235
+"Colonia Alemana","Colonia Alemana",,-33.4618,-57.0252,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.1,,,5,America/Montevideo,FALSE,1858383864
+Aguirre,Aguirre,,-32.3667,-54.7667,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.2,,,5,America/Montevideo,FALSE,1858250625
+Candil,Candil,,-34.0667,-56.3000,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,2.1,,,5,America/Montevideo,FALSE,1858884367
+Maguna,Maguna,,-33.4667,-54.6500,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858336366
+"Cerro Pelado del Este","Cerro Pelado del Este",,-31.4667,-55.1667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,4.9,,,5,America/Montevideo,FALSE,1858053965
+Cerrillada,Cerrillada,,-31.5000,-54.7167,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858690750
+"Bella Vista","Bella Vista",,-34.3167,-57.0000,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,2.2,,,5,America/Montevideo,FALSE,1858607320
+Celeste,Celeste,,-31.3095,-57.1177,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,86.0,,,4,America/Montevideo,FALSE,1858417555
+"La Garrapata","La Garrapata",,-30.6028,-57.3478,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.1,,,5,America/Montevideo,FALSE,1858185945
+"Diecinueve de Abril","Diecinueve de Abril","Pueblo 19 de Abril|19 de Abril",-34.3650,-54.0672,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,64.0,,,4,America/Montevideo,FALSE,1858017599
+"La Lata","La Lata",,-31.7333,-54.4167,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.0,,,5,America/Montevideo,FALSE,1858526573
+Espinillo,Espinillo,,-33.6167,-58.2833,Uruguay,UY,URY,Soriano,Soriano,UY-SO,department,,0.6,,,5,America/Montevideo,FALSE,1858344535
+"Carlos Reyles","Carlos Reyles",,-33.0167,-56.4833,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.5,,,5,America/Montevideo,FALSE,1858964566
+"San Luis","San Luis",,-31.5667,-54.5500,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.1,,,5,America/Montevideo,FALSE,1858900773
+Abrojal,Abrojal,,-31.7500,-55.0167,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858014935
+Quintana,Quintana,,-31.3447,-56.3975,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,57.0,,,4,America/Montevideo,FALSE,1858050964
+"Bella Vista","Bella Vista",,-31.6624,-57.7198,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,49.3,,,4,America/Montevideo,FALSE,1858554035
+"La Tuna","La Tuna","Playa de La Tuna|Playa La Tuna|Las Tunas",-34.7802,-55.5648,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,383.1,,,3,America/Montevideo,FALSE,1858789451
+"Puntas de Santa Lucía","Puntas de Santa Lucia",,-34.1919,-55.1609,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.8,,,5,America/Montevideo,FALSE,1858591611
+"Ingeniero Luis Andreoni","Ingeniero Luis Andreoni","Ingeniero Andreoni",-34.4149,-55.5056,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,2.1,,,5,America/Montevideo,FALSE,1858775140
+"Quiebra Yugos","Quiebra Yugos",,-31.6667,-56.1667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,7.0,,,5,America/Montevideo,FALSE,1858269601
+"Paso de las Toscas","Paso de las Toscas",,-34.6717,-56.3541,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,25.2,,,4,America/Montevideo,FALSE,1858701329
+"El Edén","El Eden",,-34.6256,-55.0568,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,17.0,,,4,America/Montevideo,FALSE,1858845178
+Salamanca,Salamanca,,-34.1667,-54.6667,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.5,,,5,America/Montevideo,FALSE,1858244950
+Higueritas,Higueritas,,-34.3442,-55.2820,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,3.2,,,5,America/Montevideo,FALSE,1858236804
+"Poblado Varese","Poblado Varese",Varese,-31.3000,-57.1500,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,197.1,,,4,America/Montevideo,FALSE,1858549498
+"Puntas del Rosario","Puntas del Rosario",,-33.9785,-57.1794,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,0.7,,,5,America/Montevideo,FALSE,1858418976
+"Los Vásquez","Los Vasquez","Vázquez|Poblado Vasquez",-31.8833,-55.4333,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.5,,,5,America/Montevideo,FALSE,1858854736
+"Paso del Guaycurú","Paso del Guaycuru",,-33.9849,-56.9844,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,0.4,,,5,America/Montevideo,FALSE,1858287468
+"Brisas del Plata","Brisas del Plata",,-34.4428,-57.1693,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,91.9,,,4,America/Montevideo,FALSE,1858823671
+"Cerros Azules","Cerros Azules",,-34.7655,-55.3645,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,206.8,,,3,America/Montevideo,FALSE,1858013933
+"Costa de Víboras","Costa de Viboras","Costa de las Víboras",-33.9333,-58.1667,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,2.6,,,5,America/Montevideo,FALSE,1858305729
+"De los Pastores","De los Pastores",,-33.1667,-54.9667,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.3,,,5,America/Montevideo,FALSE,1858598524
+"Cerros Blancos","Cerros Blancos",,-31.7667,-54.8000,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.7,,,5,America/Montevideo,FALSE,1858028178
+Peralta,Peralta,,-32.4938,-56.3611,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,73.0,,,4,America/Montevideo,FALSE,1858830834
+"Arroyo Blanco","Arroyo Blanco",,-31.6833,-54.7667,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.3,,,5,America/Montevideo,FALSE,1858098754
+"Tres Esquinas","Tres Esquinas",,-34.1223,-57.3718,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.3,,,5,America/Montevideo,FALSE,1858964172
+"La Pedrera","La Pedrera",,-31.7214,-56.0136,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,294.0,,,3,America/Montevideo,FALSE,1858217471
+"El Hueco","El Hueco",,-33.9500,-55.8500,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,1.5,,,5,America/Montevideo,FALSE,1858275516
+Ahogados,Ahogados,,-33.7500,-56.4667,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,1.0,,,5,America/Montevideo,FALSE,1858144793
+"Tres Cerros","Tres Cerros",,-30.9500,-56.6500,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,0.0,,,5,America/Montevideo,FALSE,1858456670
+"El Catete","El Catete",,-32.9500,-54.2167,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.4,,,5,America/Montevideo,FALSE,1858707379
+"Parque José Luis","Parque Jose Luis",,-31.2896,-57.9430,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,113.0,,,4,America/Montevideo,FALSE,1858523024
+"Las Achiras","Las Achiras",,-33.7259,-54.6237,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,0.4,,,5,America/Montevideo,FALSE,1858494223
+Tropezón,Tropezon,,-34.4000,-56.5333,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,6.4,,,5,America/Montevideo,FALSE,1858860714
+"Diecinueve de Junio","Diecinueve de Junio","Averías|19 de Junio",-33.6102,-54.3299,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,67.9,,,4,America/Montevideo,FALSE,1858216808
+"Estación Porvenir","Estacion Porvenir",Porvenir,-32.3665,-57.8591,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.8,,,5,America/Montevideo,FALSE,1858769572
+"Los Tacuruses","Los Tacuruses",,-33.3626,-53.8550,Uruguay,UY,URY,Rocha,Rocha,UY-RO,department,,0.3,,,5,America/Montevideo,FALSE,1858398333
+"La Calera","La Calera",Calera,-31.4500,-55.4167,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,0.4,,,5,America/Montevideo,FALSE,1858755359
+"José Ignacio","Jose Ignacio",,-34.6833,-56.7333,Uruguay,UY,URY,"San José","San Jose",UY-SJ,department,,13.1,,,4,America/Montevideo,FALSE,1858605335
+"Poblado los Silveira","Poblado los Silveira","Los Silveyra",-32.2667,-54.9167,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.8,,,5,America/Montevideo,FALSE,1858653408
+"Paso Hospital","Paso Hospital",,-34.1267,-57.6757,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.2,,,5,America/Montevideo,FALSE,1858957519
+"La Paloma","La Paloma",,-34.4883,-56.1521,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,18.2,,,4,America/Montevideo,FALSE,1858493130
+"Poblado del Turupí","Poblado del Turupi",Turupí,-32.1833,-55.2833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.6,,,5,America/Montevideo,FALSE,1858861132
+"Poblado Rivera Chico","Poblado Rivera Chico","Rivera Chico",-32.0333,-55.6667,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.1,,,5,America/Montevideo,FALSE,1858621759
+"Lechiguana de Corrales de Cebollatí","Lechiguana de Corrales de Cebollati",,-33.3426,-54.2597,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,0.3,,,5,America/Montevideo,FALSE,1858309455
+"Canteras de Marelli","Canteras de Marelli",,-34.8422,-54.9472,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,362.9,,,3,America/Montevideo,FALSE,1858825629
+"Estación Pedrera","Estacion Pedrera",,-34.6103,-55.8153,Uruguay,UY,URY,Canelones,Canelones,UY-CA,department,,167.5,,,4,America/Montevideo,FALSE,1858764652
+Lunarejo,Lunarejo,,-31.1000,-55.9833,Uruguay,UY,URY,Rivera,Rivera,UY-RV,department,,1.3,,,5,America/Montevideo,FALSE,1858704743
+Berrondo,Berrondo,,-34.1474,-56.2812,Uruguay,UY,URY,Florida,Florida,UY-FD,department,,226.5,,,3,America/Montevideo,FALSE,1858603394
+"Abra de Castellanos","Abra de Castellanos",,-34.6297,-55.3748,Uruguay,UY,URY,Maldonado,Maldonado,UY-MA,department,,0.9,,,5,America/Montevideo,FALSE,1858729344
+"Costa de Colla al Este","Costa de Colla al Este",,-34.2476,-57.4097,Uruguay,UY,URY,Colonia,Colonia,UY-CO,department,,1.9,,,5,America/Montevideo,FALSE,1858185389
+"Los Novillos","Los Novillos","Poblado Paso de los Novillos|Poblado de los Novillos|Novillos",-31.9833,-55.6833,Uruguay,UY,URY,Tacuarembó,Tacuarembo,UY-TA,department,,0.2,,,4,America/Montevideo,FALSE,1858534201
+"Sauce de Buricayupí","Sauce de Buricayupi",,-31.9947,-57.5423,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,24.1,,,4,America/Montevideo,FALSE,1858824684
+Vejigas,Vejigas,,-34.2833,-55.2333,Uruguay,UY,URY,Lavalleja,Lavalleja,UY-LA,department,,1.4,,,5,America/Montevideo,FALSE,1858618053
+"Costa de San José","Costa de San Jose","Costas de San José",-33.8500,-56.8833,Uruguay,UY,URY,Flores,Flores,UY-FS,department,,0.4,,,5,America/Montevideo,FALSE,1858396043
+"Paso de las Piedras","Paso de las Piedras",,-32.5167,-53.4833,Uruguay,UY,URY,"Cerro Largo","Cerro Largo",UY-CL,department,,0.8,,,5,America/Montevideo,FALSE,1858373975
+"Villa Passano","Villa Passano","Picada de Passano",-33.2907,-53.9007,Uruguay,UY,URY,"Treinta y Tres","Treinta y Tres",UY-TT,department,,6.0,,,5,America/Montevideo,FALSE,1858644286
+"Los Agregados","Los Agregados",,-32.7833,-55.9000,Uruguay,UY,URY,Durazno,Durazno,UY-DU,department,,0.1,,,5,America/Montevideo,FALSE,1858443024
+"Ingeniero Agrónomo Alfredo Mones Quintela","Ingeniero Agronomo Alfredo Mones Quintela","Calpica Itacumbú",-30.3737,-57.6638,Uruguay,UY,URY,Artigas,Artigas,UY-AR,department,,567.3,,,3,America/Montevideo,FALSE,1858492453
+"Poblado Los Rodríguez","Poblado Los Rodriguez","Los Rodriguez",-31.7667,-56.2500,Uruguay,UY,URY,Paysandú,Paysandu,UY-PA,department,,0.8,,,5,America/Montevideo,FALSE,1858077569
+"Barra Tapado","Barra Tapado",,-31.6000,-56.7500,Uruguay,UY,URY,Salto,Salto,UY-SA,department,,0.1,,,5,America/Montevideo,FALSE,1858140302

@@ -1,0 +1,466 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Reykjavík,Reykjavik,,64.1467,-21.9400,Iceland,IS,ISL,Reykjavík,Reykjavik,IS-RKV,,primary,509.5,139875,139875,1,Atlantic/Reykjavik,FALSE,1352327190
+Kópavogur,Kopavogur,Kópavogskaupstaður,64.1108,-21.9094,Iceland,IS,ISL,Kópavogur,Kopavogur,IS-KOP,,,475.5,39810,39810,3,Atlantic/Reykjavik,FALSE,1352411842
+Hafnarfjörður,Hafnarfjordhur,Halfnarfjorður|Hafnarfjörður,64.0200,-21.9700,Iceland,IS,ISL,Hafnarfjörður,Hafnarfjordur,IS-HAF,,,213.8,30568,30568,3,Atlantic/Reykjavik,FALSE,1352845977
+Akureyri,Akureyri,,65.6833,-18.1000,Iceland,IS,ISL,Akureyri,Akureyri,IS-AKU,,,144.2,19893,19893,3,Atlantic/Reykjavik,FALSE,1352098424
+Garðabær,Gardhabaer,,64.0902,-21.9264,Iceland,IS,ISL,Garðabær,Gardabaer,IS-GAR,,,266.1,18891,18891,3,Atlantic/Reykjavik,FALSE,1352650773
+Selfoss,Selfoss,,63.9333,-21.0000,Iceland,IS,ISL,"Sveitarfélagið Árborg","Sveitarfelagid Arborg",IS-SFA,,,74.2,9624,9624,3,Atlantic/Reykjavik,FALSE,1352214400
+Akranes,Akranes,Skipaskagi,64.3158,-22.0947,Iceland,IS,ISL,Akranes,Akranes,IS-AKN,,,888.6,7997,7997,3,Atlantic/Reykjavik,FALSE,1352521514
+Vestmannaeyjar,Vestmannaeyjar,Kaupstaður,63.4167,-20.2833,Iceland,IS,ISL,Vestmannaeyjar,Vestmannaeyjar,IS-VEM,,,277.5,4523,4523,3,Atlantic/Reykjavik,FALSE,1352280215
+Njarðvík,Njardhvik,"Njarðvíkur|Innri Njarðvík",63.9833,-22.5500,Iceland,IS,ISL,Reykjanesbær,Reykjanesbaer,IS-RKN,,,118.3,4398,4398,3,Atlantic/Reykjavik,FALSE,1352557265
+Grindavík,Grindavik,,63.8433,-22.4361,Iceland,IS,ISL,Grindavíkurbær,Grindavikurbaer,IS-GRN,,,8.2,3427,3427,3,Atlantic/Reykjavik,FALSE,1352401389
+Ísafjörður,Isafjordhur,Ísafjördhur|Ísafjardardjup|Issafjörður|Isafiordr,66.0758,-23.1267,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,2620,2620,3,Atlantic/Reykjavik,FALSE,1352563432
+Sauðárkrókur,Saudharkrokur,Saudarkrokr|Saudharkrokur,65.7461,-19.6394,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,2614,2614,4,Atlantic/Reykjavik,FALSE,1352929836
+Hveragerði,Hveragerdhi,Hveragerdi,63.9992,-21.2065,Iceland,IS,ISL,Hveragerði,Hveragerdi,IS-HVE,,,295.22,2564,2564,3,Atlantic/Reykjavik,FALSE,1352448739
+Höfn,Hofn,,64.2540,-15.2120,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.4,2389,2389,3,Atlantic/Reykjavik,FALSE,1352857630
+Egilsstaðir,Egilsstadhir,Egilstaðir|Egilisstaðir,65.2833,-14.3833,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,2332,2332,3,Atlantic/Reykjavik,FALSE,1352699507
+Húsavík,Husavik,Husayik,66.0500,-17.3167,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,2307,2307,3,Atlantic/Reykjavik,FALSE,1352689799
+Borgarnes,Borgarnes,,64.5333,-21.9167,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,1962,1962,3,Atlantic/Reykjavik,FALSE,1352063842
+Sandgerði,Sandgerdhi,Sangerdhi,64.0531,-22.7042,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,25.95,1779,1779,3,Atlantic/Reykjavik,FALSE,1352699594
+Þorlákshöfn,Thorlakshofn,,63.8500,-21.3667,Iceland,IS,ISL,"Sveitarfélagið Ölfus","Sveitarfelagid Olfus",IS-SOL,,,3.2,1651,1651,3,Atlantic/Reykjavik,FALSE,1352642134
+Garðar,Gardhar,Gerðar,64.0667,-22.6333,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,67.1,1595,1595,3,Atlantic/Reykjavik,FALSE,1352017148
+Neskaupstaður,Neskaupstadhur,Nes|Neskaupstadhur,65.1500,-13.7000,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,1432,1432,3,Atlantic/Reykjavik,FALSE,1352922115
+Dalvík,Dalvik,,65.9667,-18.5333,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,1362,1362,3,Atlantic/Reykjavik,FALSE,1352276424
+Stykkishólmur,Stykkisholmur,,65.0750,-22.7250,Iceland,IS,ISL,Stykkishólmur,Stykkisholmur,IS-STY,,,130.8,1308,1308,3,Atlantic/Reykjavik,FALSE,1352686672
+Reyðarfjörður,Reydharfjordhur,Búðareyri,65.0333,-14.2167,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,1270,1270,3,Atlantic/Reykjavik,FALSE,1352701177
+Siglufjörður,Siglufjordhur,Hvanneyri,66.1519,-18.9089,Iceland,IS,ISL,Fjallabyggð,Fjallabyggd,IS-FJL,,,7.6,1182,1182,3,Atlantic/Reykjavik,FALSE,1352004863
+Ólafsvík,Olafsvik,,64.8942,-23.7108,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,970,970,3,Atlantic/Reykjavik,FALSE,1352075602
+Bolungarvík,Bolungarvik,Bolungavík,66.1575,-23.2508,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.8,953,953,3,Atlantic/Reykjavik,FALSE,1352321051
+Blönduós,Blonduos,,65.6667,-20.3000,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,5.1,939,939,3,Atlantic/Reykjavik,FALSE,1352745820
+Hvolsvöllur,Hvolsvollur,Hvolsvellír,63.7500,-20.2333,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,931,931,3,Atlantic/Reykjavik,FALSE,1352612687
+Hella,Hella,,63.8333,-20.4000,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,861,861,3,Atlantic/Reykjavik,FALSE,1352147661
+Grundarfjörþur,Grundarfjorthur,Grafarnes,64.9333,-23.2667,Iceland,IS,ISL,Grundarfjarðarbær,Grundarfjardarbaer,IS-GRU,,,5.8,861,861,3,Atlantic/Reykjavik,FALSE,1352522693
+Vopnafjörður,Vopnafjordhur,Vopnafjordur|Vopnatjorður,65.7500,-14.8333,Iceland,IS,ISL,Vopnafjarðarhreppur,Vopnafjardarhreppur,IS-VOP,,,0.37,695,695,3,Atlantic/Reykjavik,FALSE,1352763899
+Patreksfjörður,Patreksfjordhur,Patreksfjordhur|Vatneyri,65.5953,-23.9847,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,677,677,3,Atlantic/Reykjavik,FALSE,1352004157
+Seyðisfjörður,Seydhisfjordhur,Seyðisfjordhur|Seydisfjorður,65.2631,-14.0089,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,2.7,676,676,4,Atlantic/Reykjavik,FALSE,1352857180
+Fáskrúðsfjörður,Faskrudhsfjordhur,Búðir,64.9294,-14.0104,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,662,662,4,Atlantic/Reykjavik,FALSE,1352103917
+Vogar,Vogar,,63.9667,-22.3667,Iceland,IS,ISL,"Sveitarfélagið Vogar","Sveitarfelagid Vogar",IS-SVG,,,11.1,639,639,3,Atlantic/Reykjavik,FALSE,1352662543
+Hvammstangi,Hvammstangi,,65.4000,-20.9500,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0,578,578,3,Atlantic/Reykjavik,FALSE,1352351814
+Stokkseyri,Stokkseyri,Stokkseyre,63.8355,-21.0505,Iceland,IS,ISL,"Sveitarfélagið Árborg","Sveitarfelagid Arborg",IS-SFA,,,74.2,528,528,3,Atlantic/Reykjavik,FALSE,1352846262
+Eyrarbakki,Eyrarbakki,,63.8667,-21.1500,Iceland,IS,ISL,"Sveitarfélagið Árborg","Sveitarfelagid Arborg",IS-SFA,,,74.2,526,526,3,Atlantic/Reykjavik,FALSE,1352981588
+Djúpivogur,Djupivogur,Diupivogur,64.6500,-14.2833,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.4,509,509,4,Atlantic/Reykjavik,FALSE,1352053010
+Skútustaðir,Skutustadhir,,65.6436,-16.9174,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.07,502,502,3,Atlantic/Reykjavik,FALSE,1352897570
+Skagaströnd,Skagastrond,Skagastrand|Höfðakaupstaður,65.8333,-20.3167,Iceland,IS,ISL,"Sveitarfélagið Skagaströnd","Sveitarfelagid Skagastrond",IS-SSS,,,9.5,470,470,4,Atlantic/Reykjavik,FALSE,1352356093
+Þórshöfn,Thorshofn,,66.2000,-15.3333,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0,380,380,4,Atlantic/Reykjavik,FALSE,1352900802
+Hellissandur,Hellissandur,Sandur|Sandhur,64.9167,-23.9000,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,365,365,3,Atlantic/Reykjavik,FALSE,1352774283
+Svalbarð,Svalbardh,,65.7500,-18.1000,Iceland,IS,ISL,Svalbarðsstrandarhreppur,Svalbardsstrandarhreppur,IS-SBT,,,8.6,358,358,3,Atlantic/Reykjavik,FALSE,1352850331
+Þingeyri,Thingeyri,Dýrafjörður|Pingeyri|Þingeri,65.8794,-23.5000,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,326,326,4,Atlantic/Reykjavik,FALSE,1352328129
+Hólmavík,Holmavik,,65.7167,-21.6833,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,320,320,3,Atlantic/Reykjavik,FALSE,1352654069
+Keflavík,Keflavik,,64.0167,-22.5667,Iceland,IS,ISL,Reykjanesbær,Reykjanesbaer,IS-RKN,,,118.3,314,314,3,Atlantic/Reykjavik,FALSE,1352901945
+Suðureyri,Sudhureyri,,66.1167,-23.5333,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,294,294,4,Atlantic/Reykjavik,FALSE,1352128159
+Búðardalur,Budhardalur,,65.1167,-21.7667,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,272,272,3,Atlantic/Reykjavik,FALSE,1352723049
+Flateyri,Flateyri,,66.0500,-23.5167,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,267,267,4,Atlantic/Reykjavik,FALSE,1352597036
+Reykhólar,Reykholar,Reykhóar,65.4500,-22.2000,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,242,242,3,Atlantic/Reykjavik,FALSE,1352313476
+Bíldudalur,Bildudalur,,65.6831,-23.6306,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,225,225,3,Atlantic/Reykjavik,FALSE,1352814757
+Hnífsdalur,Hnifsdalur,Hmifsdalur,66.1167,-23.1167,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,213,213,4,Atlantic/Reykjavik,FALSE,1352339946
+Reykjahlíð,Reykjahlidh,,65.6436,-16.9086,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.1,208,208,3,Atlantic/Reykjavik,FALSE,1352761331
+Ólafsfjörður,Olafsfjordhur,Olafsfjördhur,66.0667,-18.6500,Iceland,IS,ISL,Fjallabyggð,Fjallabyggd,IS-FJL,,,4.5,192,192,3,Atlantic/Reykjavik,FALSE,1352319971
+Hofsós,Hofsos,Hafsós,65.9000,-19.4333,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,190,190,4,Atlantic/Reykjavik,FALSE,1352523013
+Raufarhöfn,Raufarhofn,,66.4542,-15.9500,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,188,188,4,Atlantic/Reykjavik,FALSE,1352022572
+Stöðvarfjörður,Stodhvarfjordhur,Kirkjuból|Kirkjubólsþorp,64.8333,-13.8743,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,184,184,4,Atlantic/Reykjavik,FALSE,1352602879
+Kirkjubæjarklaustur,Kirkjubaejarklaustur,Kirkjubær,63.7833,-18.0667,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,176,176,3,Atlantic/Reykjavik,FALSE,1352484529
+Súðavík,Sudhavik,Súðavik,66.0278,-22.9917,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0.2,176,176,4,Atlantic/Reykjavik,FALSE,1352992360
+Varmahlíð,Varmahlidh,,65.5525,-19.4449,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,137,137,4,Atlantic/Reykjavik,FALSE,1352686891
+Breiðdalsvík,Breidhdalsvik,,64.8000,-14.0000,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,2.5,137,137,3,Atlantic/Reykjavik,FALSE,1352459431
+Kópasker,Kopasker,,66.3000,-16.4500,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,120,120,4,Atlantic/Reykjavik,FALSE,1352796030
+Kaldrananes,Kaldrananes,,65.6903,-21.4417,Iceland,IS,ISL,Kaldrananeshreppur,Kaldrananeshreppur,IS-KAL,,,0.27,116,116,3,Atlantic/Reykjavik,FALSE,1352496027
+Hafnir,Hafnir,Kirkjuvogur,63.9333,-22.6833,Iceland,IS,ISL,Reykjanesbær,Reykjanesbaer,IS-RKN,,,118.3,109,109,4,Atlantic/Reykjavik,FALSE,1352109163
+Hólar,Holar,,65.7319,-19.1136,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,89,89,5,Atlantic/Reykjavik,FALSE,1352495729
+Bakkafjörður,Bakkafjordhur,,66.0333,-14.8000,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0,72,72,5,Atlantic/Reykjavik,FALSE,1352730677
+Drangsnes,Drangsnes,,65.6833,-21.4500,Iceland,IS,ISL,Kaldrananeshreppur,Kaldrananeshreppur,IS-KAL,,,0.2,67,67,5,Atlantic/Reykjavik,FALSE,1352057727
+Helgafell,Helgafell,Hellgafell,65.0411,-22.7292,Iceland,IS,ISL,Stykkishólmur,Stykkisholmur,IS-STY,,,0.91,62,62,3,Atlantic/Reykjavik,FALSE,1352924705
+Hjalteyri,Hjalteyri,Hjaleyri,65.8500,-18.2000,Iceland,IS,ISL,Hörgársveit,Horgarsveit,IS-HRG,,,0.7,43,43,5,Atlantic/Reykjavik,FALSE,1352282673
+Eskifjörður,Eskifjordhur,Eskiforður,65.0715,-14.0154,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,21,21,3,Atlantic/Reykjavik,FALSE,1352017833
+Borðeyri,Bordheyri,Broðeyri,65.2000,-21.1000,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,16,16,5,Atlantic/Reykjavik,FALSE,1352726165
+Þönglabakki,Thonglabakki,,66.1527,-18.1238,Iceland,IS,ISL,Grýtubakkahreppur,Grytubakkahreppur,IS-GRY,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352358799
+Sandnes,Sandnes,,65.7287,-21.6305,Iceland,IS,ISL,Kaldrananeshreppur,Kaldrananeshreppur,IS-KAL,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352713391
+Hvammur,Hvammur,,65.8538,-23.4162,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352803561
+Vetleifsholtshverfi,Vetleifsholtshverfi,,63.8261,-20.5102,Iceland,IS,ISL,Ásahreppur,Asahreppur,IS-ASA,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352319853
+Hlíðarhús,Hlidharhus,,66.1257,-22.6970,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352388084
+Minnihlíð,Minnihlidh,,66.1605,-23.2932,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352133134
+Möðruvellir,Modhruvellir,Moedruvellir,65.4535,-18.1660,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352633336
+Hafrafell,Hafrafell,,66.0500,-23.1667,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352844053
+Ábær,Abaer,"Abær Kirkja",65.3000,-18.8667,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352673443
+Úþlíð,Uthlidh,,64.2769,-20.4518,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352660842
+Olíustöð,Oliustodh,,64.3989,-21.4581,Iceland,IS,ISL,Hvalfjarðarsveit,Hvalfjardarsveit,IS-HVA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352910052
+Hjarðarholt,Hjardharholt,Htarðarholt,64.7108,-21.5082,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352735713
+Sauðanes,Saudhanes,Saudhanes,66.2391,-15.2338,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0,,,5,Atlantic/Reykjavik,FALSE,1352587430
+Svínavatn,Svinavatn,,65.5167,-19.9667,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352262047
+Bjarnanes,Bjarnanes,,64.3154,-15.2418,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352094898
+Staðarbakki,Stadharbakki,,65.2966,-20.8692,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352966710
+Lögmannshlíð,Logmannshlidh,,65.6765,-18.1655,Iceland,IS,ISL,Akureyri,Akureyri,IS-AKU,,,154.2,,,4,Atlantic/Reykjavik,FALSE,1352465274
+Munkaþverá,Munkathvera,,65.5452,-18.0812,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352515829
+Árnes,Arnes,,66.0079,-21.5346,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352611283
+Kleppur,Kleppur,,64.1458,-21.8500,Iceland,IS,ISL,Reykjavík,Reykjavik,IS-RKV,,,461.7,,,3,Atlantic/Reykjavik,FALSE,1352877283
+Hof,Hof,,64.5552,-14.6861,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352556893
+Bær,Baer,,65.7099,-21.4227,Iceland,IS,ISL,Kaldrananeshreppur,Kaldrananeshreppur,IS-KAL,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352280690
+Kinnarstaðir,Kinnarstadhir,Kinnarstaður,65.5603,-22.1376,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352532694
+Haukadalur,Haukadalur,,64.3271,-20.2860,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352906884
+Hólmabæir,Holmabaeir,,63.6167,-20.0833,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352272935
+Brautarholt,Brautarholt,,64.2333,-21.8500,Iceland,IS,ISL,Reykjavík,Reykjavik,IS-RKV,,,461.7,,,3,Atlantic/Reykjavik,FALSE,1352792566
+Draflastaðir,Draflastadhir,,65.8130,-17.9150,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,8.6,,,5,Atlantic/Reykjavik,FALSE,1352574948
+Vatnsfjörður,Vatnsfjordhur,Vatnsefjörður|Vaþsfjorður|Vantsfjörður,65.9424,-22.4586,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0.2,,,4,Atlantic/Reykjavik,FALSE,1352539479
+Mælifell,Maelifell,,65.4429,-19.3502,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352624785
+Vaðlar,Vadhlar,,65.9909,-23.4364,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352593571
+Gunnólfsá,Gunnolfsa,,66.0948,-18.6464,Iceland,IS,ISL,Fjallabyggð,Fjallabyggd,IS-FJL,,,4.5,,,5,Atlantic/Reykjavik,FALSE,1352169744
+Hruni,Hruni,,64.1333,-20.2667,Iceland,IS,ISL,Hrunamannahreppur,Hrunamannahreppur,IS-HRU,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352624169
+Þóroddsstaður,Thoroddsstadhur,,65.8540,-17.5472,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352970435
+Flugumýri,Flugumyri,Flugumijri,65.5788,-19.3218,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352725648
+Miðdalur,Midhdalur,,64.2460,-20.6700,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352027561
+Gjögur,Gjogur,,65.9886,-21.3491,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352389347
+Sandur,Sandur,,65.8674,-23.5302,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352103411
+Óspakseyri,Ospakseyri,,65.4562,-21.4319,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352414537
+Hofstaðir,Hofstadhir,,65.6939,-19.3735,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352608070
+Sauðafell,Saudhafell,,65.0113,-21.6294,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352958947
+Múli,Muli,,65.4833,-23.4667,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352928054
+Kolbeinsstaðir,Kolbeinsstadhir,Kolbeinsstaður,64.8204,-22.3018,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352444331
+Skeiðflötur,Skeidhflotur,Skelðflötur|Skeiðiflötur,63.4376,-19.1898,Iceland,IS,ISL,Mýrdalshreppur,Myrdalshreppur,IS-MYR,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352975768
+Grenjaðarstaður,Grenjadharstadhur,,65.8208,-17.3508,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352596213
+Melgraseyri,Melgraseyri,,66.0184,-22.4428,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0,,,5,Atlantic/Reykjavik,FALSE,1352468893
+Þykkvabæjarklaustur,Thykkvabaejarklaustur,Þykkvabejarklaustur|Þykkvibær,63.5046,-18.3753,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352220557
+Síðumúli,Sidhumuli,Siðmúli,64.7101,-21.3375,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352482337
+Hafnarnes,Hafnarnes,,64.8740,-13.7646,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352540565
+"Neðri Arnardalur","Nedhri Arnardalur","Nedhri Arndardalur",66.0926,-23.0447,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352609100
+Þingmúli,Thingmuli,,65.0437,-14.6472,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352115048
+Verzlunarstaður,Verzlunarstadhur,,65.4500,-21.9333,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0,,,5,Atlantic/Reykjavik,FALSE,1352467332
+Hallormsstaður,Hallormsstadhur,Hallormstaður|Hallormsstaðir,65.0918,-14.7419,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352830765
+Álftanes,Alftanes,Alttanes,64.4686,-22.1572,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352469829
+Staðarfell,Stadharfell,Stadarfell,65.1286,-22.1387,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352346415
+Skálar,Skalar,,66.3333,-14.7667,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352131286
+Háls,Hals,,66.0238,-23.6757,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352218123
+Minnibakki,Minnibakki,,66.1854,-23.4774,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352398971
+Fjörður,Fjordhur,,65.1933,-14.0245,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352957930
+Akrar,Akrar,,64.6409,-22.3786,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352839909
+Svalbarð,Svalbardh,,66.2065,-15.7162,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352142888
+Skinnastaður,Skinnastadhur,Skinnastaðir,66.0667,-16.4333,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352733417
+Ytri-Njarðvík,Ytri-Njardhvik,,63.9897,-22.5473,Iceland,IS,ISL,Reykjanesbær,Reykjanesbaer,IS-RKN,,,118.3,,,4,Atlantic/Reykjavik,FALSE,1352917328
+Hámundarstaðir,Hamundarstadhir,,65.8422,-14.7797,Iceland,IS,ISL,Vopnafjarðarhreppur,Vopnafjardarhreppur,IS-VOP,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352219215
+Nes,Nes,,65.3610,-13.7393,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352811351
+Álafoss,Alafoss,,64.1638,-21.6765,Iceland,IS,ISL,Mosfellsbær,Mosfellsbaer,IS-MOS,,,64.9,,,4,Atlantic/Reykjavik,FALSE,1352559364
+Dvergasteinn,Dvergasteinn,,66.0066,-23.0433,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352051503
+Laugarvatn,Laugarvatn,,64.2111,-20.7111,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352458493
+Eiðar,Eidhar,,65.3757,-14.3703,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352849149
+Silfurtún,Silfurtun,,64.1000,-21.9167,Iceland,IS,ISL,Garðabær,Gardabaer,IS-GAR,,,298.5,,,3,Atlantic/Reykjavik,FALSE,1352852858
+Skálholt,Skalholt,,64.1256,-20.5242,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352823804
+Strandarkirkja,Strandarkirkja,Strandakirkja,63.8359,-21.7048,Iceland,IS,ISL,"Sveitarfélagið Ölfus","Sveitarfelagid Olfus",IS-SOL,,,3.2,,,5,Atlantic/Reykjavik,FALSE,1352370182
+Bessastaðir,Bessastadhir,,64.1000,-22.0000,Iceland,IS,ISL,Garðabær,Gardabaer,IS-GAR,,,251.7,,,3,Atlantic/Reykjavik,FALSE,1352430148
+Geirseyri,Geirseyri,,65.5833,-23.9833,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352508090
+Höfði,Hofdhi,,66.2400,-22.6359,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352463087
+Hlíðarendi,Hlidharendi,,63.7248,-19.9507,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,3,Atlantic/Reykjavik,FALSE,1352201540
+Rafnseyri,Rafnseyri,,65.7679,-23.4256,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352687307
+Bergsstaðir,Bergsstadhir,,65.4370,-19.7048,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352993077
+Urðir,Urdhir,,65.8630,-18.6935,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352873121
+Brekka,Brekka,,64.1000,-22.0167,Iceland,IS,ISL,Garðabær,Gardabaer,IS-GAR,,,251.7,,,3,Atlantic/Reykjavik,FALSE,1352635806
+Árbær,Arbaer,,65.7667,-23.5000,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352940811
+Litli-Árskógssandur,Litli-Arskogssandur,,65.9442,-18.3565,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352823335
+Grenivík,Grenivik,Grenvik,65.9510,-18.1749,Iceland,IS,ISL,Grýtubakkahreppur,Grytubakkahreppur,IS-GRY,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352525941
+Áshverfi,Ashverfi,,63.8414,-20.5883,Iceland,IS,ISL,Ásahreppur,Asahreppur,IS-ASA,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352277433
+Stóridalur,Storidalur,,63.6371,-19.9489,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352465796
+Holt,Holt,,66.0049,-23.4470,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352120384
+Ólafsvellir,Olafsvellir,,64.0063,-20.5954,Iceland,IS,ISL,"Skeiða- og Gnúpverjahreppur","Skeida- og Gnupverjahreppur",IS-SOG,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352241856
+Snartastaðir,Snartastadhir,Snartarstaðir|Snartarstadir,66.2909,-16.3619,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352023809
+Kirkjuból,Kirkjubol,,66.0167,-23.5600,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352995108
+Glerárþorp,Glerarthorp,,65.6938,-18.0929,Iceland,IS,ISL,Akureyri,Akureyri,IS-AKU,,,154.2,,,4,Atlantic/Reykjavik,FALSE,1352487460
+Meiribakki,Meiribakki,,66.1812,-23.4815,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352424304
+Berunes,Berunes,,64.6999,-14.2378,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352480641
+Lágafell,Lagafell,,64.1603,-21.7116,Iceland,IS,ISL,Mosfellsbær,Mosfellsbaer,IS-MOS,,,64.9,,,4,Atlantic/Reykjavik,FALSE,1352957899
+Stærri-Árskógur,Staerri-Arskogur,,65.9163,-18.3505,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352236110
+Kljáströnd,Kljastrond,,65.9127,-18.1832,Iceland,IS,ISL,Grýtubakkahreppur,Grytubakkahreppur,IS-GRY,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352639953
+Silfrastaðir,Silfrastadhir,,65.4410,-19.1816,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352927651
+Kvíabekkur,Kviabekkur,,66.0156,-18.7738,Iceland,IS,ISL,Fjallabyggð,Fjallabyggd,IS-FJL,,,4.5,,,5,Atlantic/Reykjavik,FALSE,1352349956
+Tjörn,Tjorn,,65.6393,-20.7682,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352345668
+Þingvellir,Thingvellir,,64.2622,-21.0973,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352662155
+Hallbjarnarstaðir,Hallbjarnarstadhir,Hallbjarnstaðir,66.1534,-17.2653,Iceland,IS,ISL,Tjörneshreppur,Tjorneshreppur,IS-TJO,,,0,,,5,Atlantic/Reykjavik,FALSE,1352316645
+Breiðabólsstaður,Breidhabolsstadhur,,65.0361,-22.3406,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352234347
+Geysir,Geysir,,64.3167,-20.3000,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352267663
+Oddi,Oddi,,63.7747,-20.3873,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352508582
+Njarðvík,Njardhvik,Nardhvik,65.5811,-13.8878,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352452665
+Villingaholt,Villingaholt,,63.8844,-20.7532,Iceland,IS,ISL,Flóahreppur,Floahreppur,IS-FLA,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352562245
+Vestdalseyri,Vestdalseyri,,65.2855,-13.9942,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352219777
+Hjalli,Hjalli,,63.9407,-21.2967,Iceland,IS,ISL,"Sveitarfélagið Ölfus","Sveitarfelagid Olfus",IS-SOL,,,3.2,,,5,Atlantic/Reykjavik,FALSE,1352448048
+Skálavík,Skalavik,,66.1833,-23.4833,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352135322
+Kirkjuból,Kirkjubol,,65.5817,-22.8803,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352122061
+Miklibær,Miklibaer,,65.5098,-19.2932,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.0,,,5,Atlantic/Reykjavik,FALSE,1352767531
+Stórólfshvoll,Storolfshvoll,Stórófshvoll,63.7523,-20.2025,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352792237
+Kirkjubær,Kirkjubaer,,66.0490,-23.1448,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352837277
+Eiríksstaðir,Eiriksstadhir,,65.1188,-15.4828,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352076980
+Skarð,Skardh,,64.0049,-20.0950,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352234001
+Hánefsstaðir,Hanefsstadhir,,65.2868,-13.8707,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352238144
+Kálfafell,Kalfafell,,63.9500,-17.6833,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352764597
+Efri-Núpur,Efri-Nupur,,65.1299,-20.7440,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352951332
+Garðakauptún,Gardhakauptun,Garðahreppur,64.0833,-21.9000,Iceland,IS,ISL,Garðabær,Gardabaer,IS-GAR,,,251.7,,,3,Atlantic/Reykjavik,FALSE,1352029149
+Þjórsárbrú,Thjorsarbru,,63.9333,-20.6667,Iceland,IS,ISL,Flóahreppur,Floahreppur,IS-FLA,,,1.4,,,5,Atlantic/Reykjavik,FALSE,1352214743
+Sandfell,Sandfell,,63.9385,-16.7878,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352387827
+Brunnhólskirkja,Brunnholskirkja,,64.2833,-15.4333,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352544531
+Tungufell,Tungufell,,64.2860,-20.1614,Iceland,IS,ISL,Hrunamannahreppur,Hrunamannahreppur,IS-HRU,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352348250
+Þaralátursfjörður,Tharalatursfjordhur,,66.2500,-22.1500,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352353760
+Lambastaðir,Lambastadhir,,64.1500,-22.0000,Iceland,IS,ISL,Seltjarnarnes,Seltjarnarnes,IS-SEL,,,1665.2,,,3,Atlantic/Reykjavik,FALSE,1352252124
+Vattarnes,Vattarnes,Vattannes,65.6198,-22.7209,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352961642
+Víðidalstunga,Vidhidalstunga,,65.3500,-20.6000,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352356185
+Undirfell,Undirfell,,65.3605,-20.2289,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352854428
+Laugardælir,Laugardaelir,,63.9500,-20.9667,Iceland,IS,ISL,Flóahreppur,Floahreppur,IS-FLA,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352181837
+Skálanes,Skalanes,,65.2959,-13.7076,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352268232
+Kálfatjörn,Kalfatjorn,Kálfajörn,64.0168,-22.2938,Iceland,IS,ISL,"Sveitarfélagið Vogar","Sveitarfelagid Vogar",IS-SVG,,,11.1,,,4,Atlantic/Reykjavik,FALSE,1352172904
+Eyri,Eyri,,66.0084,-22.9374,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352784628
+Auðkúla,Audhkula,,65.5097,-20.0329,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,0.0,,,5,Atlantic/Reykjavik,FALSE,1352030166
+Stóra-Vatnshorn,Stora-Vatnshorn,,65.0624,-21.5532,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352590368
+Bær,Baer,,66.1142,-23.5488,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352248995
+Skaftafell,Skaftafell,,64.0226,-16.9460,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352853280
+Reykjafjörður,Reykjafjordhur,,66.2609,-22.0913,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352806870
+Hof,Hof,,65.6544,-14.9815,Iceland,IS,ISL,Vopnafjarðarhreppur,Vopnafjardarhreppur,IS-VOP,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352117154
+Kálfafellsstaður,Kalfafellsstadhur,,64.1810,-15.9139,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352952387
+Hesteyri,Hesteyri,,66.3403,-22.8846,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352124693
+Fíflholt,Fiflholt,,63.6667,-20.3000,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352983567
+Djúpidalur,Djupidalur,,63.7770,-20.2780,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,0.9,,,5,Atlantic/Reykjavik,FALSE,1352437340
+Hagi,Hagi,,63.9810,-20.4441,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352438945
+Árbær,Arbaer,,63.8635,-20.3513,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352186595
+Leirá,Leira,,64.4144,-21.8428,Iceland,IS,ISL,Hvalfjarðarsveit,Hvalfjardarsveit,IS-HVA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352892628
+Borgarhöfn,Borgarhofn,,64.1833,-15.8167,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352804744
+Hvallátur,Hvallatur,Hvallátr,65.5338,-24.4519,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352541438
+Syðstibær,Sydhstibaer,,65.9667,-18.3667,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,154.2,,,4,Atlantic/Reykjavik,FALSE,1352332262
+Auðkúla,Audhkula,,65.7629,-23.5035,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352082249
+Langholt,Langholt,,63.5776,-18.1562,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352687609
+Vellir,Vellir,,65.9196,-18.5419,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352639663
+Keta,Keta,,66.0512,-20.0178,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352084324
+Staðarhraun,Stadharhraun,Staðurhraun,64.7453,-22.0893,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352853365
+Laufás,Laufas,,65.8931,-18.0718,Iceland,IS,ISL,Grýtubakkahreppur,Grytubakkahreppur,IS-GRY,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352673708
+Þverá,Thvera,,65.7317,-17.2462,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352062774
+Guðlaugsvík,Gudhlaugsvik,Guðaugsvik,65.4519,-21.2592,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352463297
+Reynistaður,Reynistadhur,Reynistadhir,65.6575,-19.5612,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352876279
+Garður,Gardhur,Garðhur,66.0694,-16.7866,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352525985
+Þykkvibær,Thykkvibaer,,63.7426,-20.6091,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352409752
+Glaumbær,Glaumbaer,,65.6068,-19.5111,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352652401
+Staðarhólskirkja,Stadharholskirkja,,65.3835,-21.9066,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352779642
+Dagverðarnes,Dagverdharnes,,65.1711,-22.4829,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352556289
+Gufunes,Gufunes,Gufnas|Gufnes,64.1526,-21.8162,Iceland,IS,ISL,Reykjavík,Reykjavik,IS-RKV,,,461.7,,,3,Atlantic/Reykjavik,FALSE,1352482641
+Álftamýri,Alftamyri,Álptamýri,65.7833,-23.7167,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352969109
+Stóri-Dalur,Stori-Dalur,,63.6333,-19.9500,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352321732
+Þorkötlustaðir,Thorkotlustadhir,,63.8411,-22.3895,Iceland,IS,ISL,Grindavíkurbær,Grindavikurbaer,IS-GRN,,,8.2,,,5,Atlantic/Reykjavik,FALSE,1352096841
+Heydalir,Heydalir,,64.7939,-14.1035,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352560670
+Klyppsstaðir,Klyppsstadhir,Klypsstaðir,65.3653,-13.8989,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352781261
+Býjarsker,Byjarsker,Býjasker,64.0286,-22.7072,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,32.9,,,4,Atlantic/Reykjavik,FALSE,1352598015
+Háteigur,Hateigur,,64.8453,-13.9650,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352186480
+Kvíabryggja,Kviabryggja,Kviabryggva,64.9528,-23.3306,Iceland,IS,ISL,Grundarfjarðarbær,Grundarfjardarbaer,IS-GRU,,,5.8,,,5,Atlantic/Reykjavik,FALSE,1352065437
+Dísarstaðir,Disarstadhir,Disastaðir,64.8319,-14.2834,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352563793
+Möðruvellir,Modhruvellir,,65.7725,-18.2521,Iceland,IS,ISL,Hörgársveit,Horgarsveit,IS-HRG,,,0.7,,,4,Atlantic/Reykjavik,FALSE,1352116948
+Hóll,Holl,,65.5960,-14.2597,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352450830
+Kolbeinseyri,Kolbeinseyri,,66.0167,-22.8667,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352214064
+Norðurbotn,Nordhurbotn,,65.5990,-23.7716,Iceland,IS,ISL,Tálknafjarðarhreppur,Talknafjardarhreppur,IS-TAL,,,1.3,,,5,Atlantic/Reykjavik,FALSE,1352206198
+Tirðilmýri,Tirdhilmyri,,66.1114,-22.6133,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352092283
+Ásólfsskáli,Asolfsskali,,63.5745,-19.7978,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352054087
+Staður,Stadhur,,65.4833,-22.3667,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352774728
+Hof,Hof,,63.9067,-16.7072,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352799932
+Munaðarnes,Munadharnes,,66.0784,-21.6212,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0,,,5,Atlantic/Reykjavik,FALSE,1352176177
+"Stóri Laugardalur","Stori Laugardalur",,65.6583,-23.9102,Iceland,IS,ISL,Tálknafjarðarhreppur,Talknafjardarhreppur,IS-TAL,,,1.3,,,5,Atlantic/Reykjavik,FALSE,1352747900
+Fell,Fell,,66.0330,-19.3655,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352415645
+Hjarðarfell,Hjardharfell,,64.8790,-22.7372,Iceland,IS,ISL,"Eyja- og Miklaholtshreppur","Eyja- og Miklaholtshreppur",IS-EOM,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352793787
+Reykir,Reykir,,65.4724,-19.3523,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352834735
+Hvammur,Hvammur,,65.8752,-19.8446,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352482023
+Gaulverjabær,Gaulverjabaer,,63.8328,-20.8891,Iceland,IS,ISL,Flóahreppur,Floahreppur,IS-FLA,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352187171
+Saurbær,Saurbaer,,65.4796,-23.9722,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352382276
+Hafnarhólmur,Hafnarholmur,,65.6973,-21.5241,Iceland,IS,ISL,Kaldrananeshreppur,Kaldrananeshreppur,IS-KAL,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352379370
+Hólar,Holar,,65.3644,-18.2445,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352210219
+Breiðavík,Breidhavik,,65.5525,-24.3576,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352354725
+Hrepphólar,Hreppholar,,64.0690,-20.3271,Iceland,IS,ISL,Hrunamannahreppur,Hrunamannahreppur,IS-HRU,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352544064
+Kolfreyjustaður,Kolfreyjustadhur,Kolfreyjustaðir,64.9151,-13.7525,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352200560
+Skarð,Skardh,,65.2849,-22.2895,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352434416
+Látrar,Latrar,,66.3970,-23.0355,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352086469
+Útskálar,Utskalar,"Útskáler Church",64.0782,-22.6608,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,88.9,,,4,Atlantic/Reykjavik,FALSE,1352578721
+Hóll,Holl,,66.1518,-23.2769,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352183102
+Bær,Baer,Kelda,64.6194,-21.5386,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352870749
+Álftártunga,Alftartunga,,64.6725,-22.0198,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352578749
+Reykjarfjörður,Reykjarfjordhur,,65.6196,-23.4590,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352902095
+Stafholt,Stafholt,,64.6525,-21.6828,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352590323
+Eyri,Eyri,,64.9021,-13.9166,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352745612
+Stöð,Stodh,,64.8479,-13.9690,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352895994
+Hvammur,Hvammur,,64.8477,-21.3632,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352896721
+Tjörn,Tjorn,,65.9278,-18.5694,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352869956
+Hrafnsfjarðareyri,Hrafnsfjardhareyri,,66.2540,-22.4457,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352509743
+Hjaltastaður,Hjaltastadhur,Hjáltstaður,65.5054,-14.2243,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352382702
+Kaupangur,Kaupangur,,65.6417,-18.0148,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352999930
+Miðsandur,Midhsandur,,64.3984,-21.4499,Iceland,IS,ISL,Hvalfjarðarsveit,Hvalfjardarsveit,IS-HVA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352146615
+Viðvík,Vidhvik,,65.7650,-19.2776,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352073388
+Einarsstaðir,Einarsstadhir,,65.7410,-17.4065,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352615671
+Tunga,Tunga,Vatnoyri,65.6315,-23.8399,Iceland,IS,ISL,Tálknafjarðarhreppur,Talknafjardarhreppur,IS-TAL,,,1.3,,,5,Atlantic/Reykjavik,FALSE,1352160815
+Bjarnarhöfn,Bjarnarhofn,,65.0058,-22.9970,Iceland,IS,ISL,Stykkishólmur,Stykkisholmur,IS-STY,,,5.8,,,5,Atlantic/Reykjavik,FALSE,1352730763
+Kollafjarðarnes,Kollafjardharnes,Kollafarðarnes,65.6107,-21.4474,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352933191
+Tjaldtangi,Tjaldtangi,,66.0415,-22.8513,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352213322
+Bænahús,Baenahus,Baenshús,66.0167,-22.4500,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0,,,5,Atlantic/Reykjavik,FALSE,1352869798
+Búðir,Budhir,,64.8231,-23.3849,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352934739
+Ljósavatn,Ljosavatn,Ljósvatn|Liósavatn,65.6832,-17.6141,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352841238
+Norðtunga,Nordhtunga,Novotunga,64.7355,-21.3712,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352787887
+Hvanneyri,Hvanneyri,,64.5620,-21.7620,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352212507
+Gata,Gata,,65.8667,-23.5833,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352958847
+Lönd,Lond,,64.8338,-13.8283,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352184550
+Borg,Borg,,64.5633,-21.8973,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352880464
+Stórinúpur,Storinupur,,64.0546,-20.1622,Iceland,IS,ISL,"Skeiða- og Gnúpverjahreppur","Skeida- og Gnupverjahreppur",IS-SOG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352709916
+Vík,Vik,,64.8940,-13.8391,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352455011
+Folafótur,Folafotur,,66.0340,-22.8721,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352463501
+Narfeyri,Narfeyri,,65.0180,-22.5798,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352986611
+Staður,Stadhur,,65.7681,-21.8640,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352101886
+Staðastaður,Stadhastadhur,Staðarstaður,64.8185,-23.0069,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352248792
+Furufjörður,Furufjordhur,,66.2645,-22.2707,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352579422
+Innrihólmur,Innriholmur,,64.3070,-21.9289,Iceland,IS,ISL,Hvalfjarðarsveit,Hvalfjardarsveit,IS-HVA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352183060
+Keldur,Keldur,,63.8219,-20.0739,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352820174
+Tröð,Trodh,,66.1625,-23.2804,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352895969
+Vomúlastaðahverfi,Vomulastadhahverfi,,63.6333,-20.2000,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352214820
+Stóri-Ás,Stori-As,Ás,64.6928,-21.0574,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352743828
+Arngerðareyri,Arngerdhareyri,Argerdareyri|Arngerðeyri,65.8886,-22.3787,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352935461
+Saurbær,Saurbaer,,64.4061,-21.6269,Iceland,IS,ISL,Hvalfjarðarsveit,Hvalfjardarsveit,IS-HVA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352186568
+Bær,Baer,,64.3905,-14.7915,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352383455
+Akurey,Akurey,,63.6637,-20.3810,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352710569
+Melstaður,Melstadhur,Meistaður|Melstadur,65.3127,-20.9102,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352371346
+Höfðaströnd,Hofdhastrond,,66.2500,-22.6833,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352220897
+Hlíð,Hlidh,,66.0157,-23.0171,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352499741
+Kirkjuból,Kirkjubol,,64.0651,-22.7017,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,32.9,,,4,Atlantic/Reykjavik,FALSE,1352156537
+Kjós,Kjos,,66.2364,-22.5253,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352883965
+Unaðsdalur,Unadhsdalur,,66.1093,-22.5517,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352126789
+Höfðahverfi,Hofdhahverfi,,65.9381,-18.1540,Iceland,IS,ISL,Grýtubakkahreppur,Grytubakkahreppur,IS-GRY,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352569090
+Prestbakki,Prestbakki,Þrestbakki,65.3090,-21.1932,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352734585
+Saurbær,Saurbaer,,64.2840,-21.8327,Iceland,IS,ISL,Reykjavík,Reykjavik,IS-RKV,,,461.7,,,3,Atlantic/Reykjavik,FALSE,1352706211
+Breiðabólsstaður,Breidhabolsstadhur,Breiðabólsstaðir,63.7403,-20.1299,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352556110
+Hvammur,Hvammur,,64.8756,-13.8001,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352961494
+Miðgarðar,Midhgardhar,,66.5377,-17.9512,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,154.2,,,4,Atlantic/Reykjavik,FALSE,1352730486
+Horn,Horn,,66.4520,-22.4521,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352903297
+Brjánslækur,Brjanslaekur,Brianslaekur,65.5235,-23.2078,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352347217
+Reynivellir,Reynivellir,,64.3365,-21.5233,Iceland,IS,ISL,Kjósarhreppur,Kjosarhreppur,IS-KJO,,,1.0,,,5,Atlantic/Reykjavik,FALSE,1352887211
+Prestbakki,Prestbakki,Prestsbakki|Þrestbakki,63.8266,-18.0351,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352130469
+Hof,Hof,,65.9057,-20.3198,Iceland,IS,ISL,Skagabyggð,Skagabyggd,IS-SKG,,,0,,,5,Atlantic/Reykjavik,FALSE,1352169237
+Vík,Vik,Vík-Handelssted,63.4189,-18.9932,Iceland,IS,ISL,Mýrdalshreppur,Myrdalshreppur,IS-MYR,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352040290
+Núpur,Nupur,Nupu|Núp,65.9303,-23.5911,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352959200
+Hof,Hof,,65.9047,-19.3821,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352862755
+Ofanleiti,Ofanleiti,,63.4197,-20.2944,Iceland,IS,ISL,Vestmannaeyjar,Vestmannaeyjar,IS-VEM,,,202.3,,,3,Atlantic/Reykjavik,FALSE,1352879366
+Grund,Grund,,65.5203,-18.1505,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352831049
+Illugastaðir,Illugastadhir,,65.6199,-17.8211,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352178136
+Víðimýri,Vidhimyri,,65.5389,-19.4701,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352521920
+Brunnastaðir,Brunnastadhir,,64.0000,-22.3833,Iceland,IS,ISL,"Sveitarfélagið Vogar","Sveitarfelagid Vogar",IS-SVG,,,11.1,,,4,Atlantic/Reykjavik,FALSE,1352591920
+Flóagaflshverfi,Floagaflshverfi,,63.9000,-21.2333,Iceland,IS,ISL,"Sveitarfélagið Ölfus","Sveitarfelagid Olfus",IS-SOL,,,74.2,,,4,Atlantic/Reykjavik,FALSE,1352450798
+Vallanes,Vallanes,,65.2000,-14.5500,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352288122
+Goðdalir,Godhdalir,,65.3306,-19.0998,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352795656
+Selárdalur,Selardalur,,65.7861,-23.9952,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352256126
+Litlibær,Litlibaer,,65.9902,-22.8343,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352484971
+Grafarkirkja,Grafarkirkja,,63.7221,-18.5361,Iceland,IS,ISL,Skaftárhreppur,Skaftarhreppur,IS-SKF,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352924016
+Gufudalur,Gufudalur,,65.5697,-22.3866,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352039070
+Gilsbakki,Gilsbakki,,64.7225,-20.9846,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352476288
+Háls,Hals,,65.7385,-17.8703,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352820344
+Sveinseyri,Sveinseyri,,65.6333,-23.8500,Iceland,IS,ISL,Tálknafjarðarhreppur,Talknafjardarhreppur,IS-TAL,,,1.3,,,5,Atlantic/Reykjavik,FALSE,1352617758
+Stafafell,Stafafell,,64.4210,-14.8376,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352566224
+Skarð,Skardh,,66.1425,-22.7809,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352603540
+"Stóra Fjarðarhorn","Stora Fjardharhorn",,65.5538,-21.4762,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352608839
+Vesturhópshólar,Vesturhopsholar,,65.5329,-20.6656,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352191025
+Bólstaðarhlíð,Bolstadharhlidh,,65.5232,-19.8062,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352069752
+Merki,Merki,,64.9056,-13.9783,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352589707
+Torfastaðir,Torfastadhir,Torfastadur,64.1770,-20.5023,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352235961
+Eyrar,Eyrar,,65.2919,-13.8405,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352121474
+Ásláksstaðir,Aslaksstadhir,,64.0083,-22.3346,Iceland,IS,ISL,"Sveitarfélagið Vogar","Sveitarfelagid Vogar",IS-SVG,,,11.1,,,4,Atlantic/Reykjavik,FALSE,1352870048
+Sæból,Saebol,,66.0561,-23.7018,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352872271
+Sæból,Saebol,,66.3408,-23.1149,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,TRUE,1352558842
+Garðskagi,Gardhskagi,,64.0795,-22.6781,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,83.5,,,4,Atlantic/Reykjavik,FALSE,1352116063
+Tunga,Tunga,,65.5833,-24.1333,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352422152
+Hvammur,Hvammur,,65.2198,-21.8278,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352761232
+Kirkjubær,Kirkjubaer,,65.5158,-14.4276,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352625146
+Brekka,Brekka,,65.2154,-13.8151,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352007100
+Bæir,Baeir,,66.0896,-22.5509,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352483624
+Breiðabólsstaður,Breidhabolsstadhur,Breiðibólsstaður|Breiðabolsstaðir,65.4492,-20.7114,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352713136
+Kúvíkur,Kuvikur,Kuvíker,65.9518,-21.4803,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352608269
+Staður,Stadhur,,65.1432,-21.0466,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352408038
+Vík,Vik,,66.1359,-18.7619,Iceland,IS,ISL,Fjallabyggð,Fjallabyggd,IS-FJL,,,4.5,,,5,Atlantic/Reykjavik,FALSE,1352963608
+Kálfholt,Kalfholt,,63.9026,-20.6562,Iceland,IS,ISL,Ásahreppur,Asahreppur,IS-ASA,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352298418
+Hraun,Hraun,,65.9000,-23.7500,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352706543
+Lundur,Lundur,,64.5579,-21.3620,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352412482
+Marteinstunga,Marteinstunga,,63.9173,-20.4008,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352487480
+Sauðlauksdalur,Saudhlauksdalur,,65.5305,-24.0426,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352964336
+Háfur,Hafur,,63.7794,-20.7101,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352253259
+Mosfell,Mosfell,,64.1278,-20.5981,Iceland,IS,ISL,"Grímsnes- og Grafningshreppur","Grimsnes- og Grafningshreppur",IS-GOG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352633696
+Ingjaldshóll,Ingjaldsholl,,64.9092,-23.8203,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352696984
+Glæsibær,Glaesibaer,,65.7564,-18.1655,Iceland,IS,ISL,Hörgársveit,Horgarsveit,IS-HRG,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352996663
+Tunga,Tunga,,66.1500,-23.3000,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352343618
+Laugarás,Laugaras,Laugards,64.1156,-20.4938,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352839945
+Stapi,Stapi,,64.7667,-23.6333,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352000449
+Berjadalsá,Berjadalsa,,66.1578,-22.8669,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352707665
+Bjóluhverfi,Bjoluhverfi,,63.7988,-20.4652,Iceland,IS,ISL,"Rangárþing Ytra","Rangarthing Ytra",IS-RGY,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352460267
+Lækjamót,Laekjamot,,65.4188,-20.5988,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352215153
+Eyri,Eyri,,65.6000,-22.5038,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352177509
+Brimilsvellir,Brimilsvellir,,64.9107,-23.5831,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352197698
+Ófeigsfjörður,Ofeigsfjordhur,,66.0511,-21.7097,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0.1,,,5,Atlantic/Reykjavik,FALSE,1352091490
+Bakkagerði,Bakkagerdhi,,65.5167,-13.8167,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352647359
+Látur,Latur,,65.9530,-22.5931,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352610905
+Gvendarnes,Gvendarnes,,64.8525,-13.7686,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352259549
+Brettingsstaðir,Brettingsstadhir,,66.1191,-17.9109,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352555041
+Úlfsá,Ulfsa,,66.0667,-23.1667,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352837060
+Holtastaðir,Holtastadhir,,65.5985,-20.0955,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352358034
+Stóra-Vatnsléysa,Stora-Vatnsleysa,,64.0185,-22.2182,Iceland,IS,ISL,"Sveitarfélagið Vogar","Sveitarfelagid Vogar",IS-SVG,,,11.1,,,4,Atlantic/Reykjavik,FALSE,1352090087
+Haganesvík,Haganesvik,Haganes,66.0833,-19.1667,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352584175
+Svínafell,Svinafell,,63.9816,-16.8540,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352891899
+Húsavík,Husavik,,65.6498,-21.6438,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352814731
+Reykholt,Reykholt,,64.6667,-21.3000,Iceland,IS,ISL,Borgarbyggð,Borgarbyggd,IS-BOG,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352465332
+Höskuldsstaðir,Hoskuldsstadhir,Hoskuldsstaðhir,65.7409,-20.2397,Iceland,IS,ISL,Skagabyggð,Skagabyggd,IS-SKG,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352319673
+Barð,Bardh,,66.0481,-19.1123,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352024473
+Upsir,Upsir,"Upsnir Church",65.9752,-18.5535,Iceland,IS,ISL,Dalvíkurbyggð,Dalvikurbyggd,IS-DAV,,,3.5,,,5,Atlantic/Reykjavik,FALSE,1352872659
+Mýrar,Myrar,,65.9027,-23.5155,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352038216
+Hraun,Hraun,,63.8430,-22.3911,Iceland,IS,ISL,Grindavíkurbær,Grindavikurbaer,IS-GRN,,,8.2,,,5,Atlantic/Reykjavik,FALSE,1352552696
+Lundarbrekka,Lundarbrekka,,65.4580,-17.3940,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352784888
+Kross,Kross,,63.6019,-20.2839,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352519478
+Úlfljótsvatn,Ulfljotsvatn,,64.0962,-21.0453,Iceland,IS,ISL,"Grímsnes- og Grafningshreppur","Grimsnes- og Grafningshreppur",IS-GOG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352054521
+Nauteyri,Nauteyri,Nanteyri,65.9167,-22.3724,Iceland,IS,ISL,Strandabyggð,Strandabyggd,IS-STR,,,0,,,5,Atlantic/Reykjavik,FALSE,1352994067
+Nes,Nes,,65.8783,-17.4051,Iceland,IS,ISL,Þingeyjarsveit,Thingeyjarsveit,IS-THG,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352677428
+Setberg,Setberg,,64.9500,-23.2000,Iceland,IS,ISL,Grundarfjarðarbær,Grundarfjardarbaer,IS-GRU,,,5.8,,,5,Atlantic/Reykjavik,FALSE,1352816718
+Ögur,Ogur,,66.0338,-22.7076,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352992306
+Hvaleyri,Hvaleyri,,64.0632,-21.9859,Iceland,IS,ISL,Hafnarfjörður,Hafnarfjordur,IS-HAF,,,243.9,,,3,Atlantic/Reykjavik,FALSE,1352782726
+Starmýri,Starmyri,,64.5191,-14.5587,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352779929
+Hólanes,Holanes,,65.8224,-20.2881,Iceland,IS,ISL,"Sveitarfélagið Skagaströnd","Sveitarfelagid Skagastrond",IS-SSS,,,3.1,,,5,Atlantic/Reykjavik,FALSE,1352990218
+Miklholt,Miklholt,,64.8207,-22.5408,Iceland,IS,ISL,"Eyja- og Miklaholtshreppur","Eyja- og Miklaholtshreppur",IS-EOM,,,0.4,,,5,Atlantic/Reykjavik,FALSE,1352465510
+Ytri-Bægisá,Ytri-Baegisa,,65.6736,-18.4015,Iceland,IS,ISL,Hörgársveit,Horgarsveit,IS-HRG,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352987973
+Rauðamelur,Raudhamelur,Raudhimelur|Ytri-Rauðamelur,64.8687,-22.3992,Iceland,IS,ISL,"Eyja- og Miklaholtshreppur","Eyja- og Miklaholtshreppur",IS-EOM,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352153115
+Sólmundarhöfði,Solmundarhofdhi,,64.3167,-22.0480,Iceland,IS,ISL,Akranes,Akranes,IS-AKN,,,688.2,,,3,Atlantic/Reykjavik,FALSE,1352749382
+Búðareyri,Budhareyri,,65.0342,-14.2116,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352614500
+Hraungerði,Hraungerdhi,,63.9486,-20.8210,Iceland,IS,ISL,Flóahreppur,Floahreppur,IS-FLA,,,2.7,,,5,Atlantic/Reykjavik,FALSE,1352895469
+Búðarhólshverfi,Budharholshverfi,,63.5833,-20.1667,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352000000
+Flatey,Flatey,,65.3761,-22.9119,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0,,,5,Atlantic/Reykjavik,FALSE,1352539784
+Laxamýri,Laxamyri,,65.9755,-17.3836,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352585890
+Hagi,Hagi,,65.5054,-23.4683,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352527800
+Spákonufell,Spakonufell,,65.8291,-20.2764,Iceland,IS,ISL,"Sveitarfélagið Skagaströnd","Sveitarfelagid Skagastrond",IS-SSS,,,8.6,,,5,Atlantic/Reykjavik,FALSE,1352895789
+Haukadalur,Haukadalur,,65.8833,-23.6333,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352085184
+Staður,Stadhur,,66.2476,-22.8302,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352886308
+Staður,Stadhur,,66.1141,-23.5670,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,TRUE,1352925349
+Tannanes,Tannanes,,65.9926,-23.3768,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352104731
+Ríp,Rip,,65.6712,-19.4445,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352029329
+Vaðlækir,Vadhlaekir,Vaðlækur,64.0333,-20.9667,Iceland,IS,ISL,"Grímsnes- og Grafningshreppur","Grimsnes- og Grafningshreppur",IS-GOG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352338537
+Knappstaðir,Knappstadhir,,65.9764,-18.9744,Iceland,IS,ISL,Skagafjörður,Skagafjordur,IS-SKR,,,1.1,,,5,Atlantic/Reykjavik,FALSE,1352937941
+Reynir,Reynir,,63.4249,-19.0490,Iceland,IS,ISL,Mýrdalshreppur,Myrdalshreppur,IS-MYR,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352133730
+Búrfell,Burfell,,64.0833,-20.9333,Iceland,IS,ISL,"Grímsnes- og Grafningshreppur","Grimsnes- og Grafningshreppur",IS-GOG,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352838008
+Knappavellir,Knappavellir,,63.8987,-16.5946,Iceland,IS,ISL,"Sveitarfélagið Hornafjörður","Sveitarfelagid Hornafjordur",IS-SHF,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352258099
+Bakki,Bakki,Kakki,65.6153,-18.5072,Iceland,IS,ISL,Hörgársveit,Horgarsveit,IS-HRG,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352400457
+Norðurfjörður,Nordhurfjordhur,,66.0511,-21.5714,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0,,,5,Atlantic/Reykjavik,FALSE,1352238874
+Brekkuvellir,Brekkuvellir,,65.4770,-23.6404,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352596659
+Hólmahverfi,Holmahverfi,,63.5624,-20.1483,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352631550
+Skógur,Skogur,,65.7198,-23.3562,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352814054
+Engidalur,Engidalur,,66.0342,-23.1740,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352645070
+Múli,Muli,,65.0206,-13.6063,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352688485
+Hnjótur,Hnjotur,,65.5653,-24.1519,Iceland,IS,ISL,Vesturbyggð,Vesturbyggd,IS-VER,,,0.5,,,5,Atlantic/Reykjavik,FALSE,1352100651
+Vattarnes,Vattarnes,,64.9379,-13.6852,Iceland,IS,ISL,Fjarðabyggð,Fjardabyggd,IS-FJD,,,4.4,,,5,Atlantic/Reykjavik,FALSE,1352980952
+Skeggjastaðir,Skeggjastadhir,,66.0195,-14.9399,Iceland,IS,ISL,Langanesbyggð,Langanesbyggd,IS-LAN,,,0,,,5,Atlantic/Reykjavik,FALSE,1352214503
+Skálmarnesmúli,Skalmarnesmuli,,65.5157,-22.7512,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352659612
+Hofteigur,Hofteigur,,65.3570,-14.8596,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352643805
+Húsavík,Husavik,,65.4108,-13.6664,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.3,,,5,Atlantic/Reykjavik,FALSE,1352812600
+Bræðratunga,Braedhratunga,,64.1635,-20.3835,Iceland,IS,ISL,Bláskógabyggð,Blaskogabyggd,IS-BLA,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352236376
+Snæfjöll,Snaefjoll,,66.1643,-22.8910,Iceland,IS,ISL,Ísafjarðarbær,Isafjardarbaer,IS-ISA,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352749055
+Kotströnd,Kotstrond,,63.9672,-21.1441,Iceland,IS,ISL,"Sveitarfélagið Ölfus","Sveitarfelagid Olfus",IS-SOL,,,3.2,,,5,Atlantic/Reykjavik,FALSE,1352136188
+Snóksdalur,Snoksdalur,Snóksdolur,65.0166,-21.6980,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352166865
+Saurbær,Saurbaer,,65.4478,-18.2167,Iceland,IS,ISL,Eyjafjarðarsveit,Eyjafjardarsveit,IS-EYF,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352677146
+Dyrhólahverfi,Dyrholahverfi,,63.4221,-19.1937,Iceland,IS,ISL,Mýrdalshreppur,Myrdalshreppur,IS-MYR,,,0.8,,,5,Atlantic/Reykjavik,FALSE,1352616639
+Laugabakki,Laugabakki,,65.3307,-20.8882,Iceland,IS,ISL,"Húnaþing Vestra","Hunathing Vestra",IS-HUV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352812414
+Sleðbrjótur,Sledhbrjotur,,65.5683,-14.4736,Iceland,IS,ISL,Múlaþing,Mulathing,IS-MUL,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352725521
+Tröð,Trodh,,66.0333,-22.9833,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,1.5,,,5,Atlantic/Reykjavik,FALSE,1352991194
+Garðsstaðir,Gardhsstadhir,,66.0393,-22.7184,Iceland,IS,ISL,Súðavíkurhreppur,Sudavikurhreppur,IS-SDV,,,0,,,5,Atlantic/Reykjavik,FALSE,1352704309
+Þingeyrar,Thingeyrar,,65.5521,-20.4032,Iceland,IS,ISL,Húnabyggð,Hunabyggd,IS-HUG,,,0,,,5,Atlantic/Reykjavik,FALSE,1352731321
+Eyvindarhólar,Eyvindarholar,Sydra-Holakot|Evindarhólar,63.5094,-19.6031,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352841830
+Hanhóll,Hanholl,,66.1187,-23.2618,Iceland,IS,ISL,Bolungarvík,Bolungarvik,IS-BOL,,,8.7,,,5,Atlantic/Reykjavik,FALSE,1352771531
+Holt,Holt,,63.5515,-19.7910,Iceland,IS,ISL,"Rangárþing Eystra","Rangarthing Eystra",IS-RGE,,,1.2,,,5,Atlantic/Reykjavik,FALSE,1352568337
+Garpsdalur,Garpsdalur,,65.4516,-21.8261,Iceland,IS,ISL,Reykhólahreppur,Reykholahreppur,IS-RHH,,,0.2,,,5,Atlantic/Reykjavik,FALSE,1352133217
+Valþjófsstaður,Valthjofsstadhur,Valþjofsstaðir,65.0108,-14.9638,Iceland,IS,ISL,Fljótsdalshreppur,Fljotsdalshreppur,IS-FLR,,,0.6,,,5,Atlantic/Reykjavik,FALSE,1352619585
+Hjarðarholt,Hjardharholt,,65.1222,-21.6911,Iceland,IS,ISL,Dalabyggð,Dalabyggd,IS-DAB,,,0,,,5,Atlantic/Reykjavik,FALSE,1352737165
+Reykjarnes,Reykjarnes,,65.9962,-21.3159,Iceland,IS,ISL,Árneshreppur,Arneshreppur,IS-ARN,,,0,,,5,Atlantic/Reykjavik,FALSE,1352759666
+Hvalsnes,Hvalsnes,,63.9946,-22.7350,Iceland,IS,ISL,Suðurnesjabær,Sudurnesjabaer,IS-SDN,,,32.9,,,4,Atlantic/Reykjavik,FALSE,1352942715
+Hellnar,Hellnar,,64.7500,-23.6500,Iceland,IS,ISL,Snæfellsbær,Snaefellsbaer,IS-SNF,,,2.5,,,5,Atlantic/Reykjavik,FALSE,1352290078
+Víðirhóll,Vidhirholl,Vidirholl,65.7284,-16.0400,Iceland,IS,ISL,Norðurþing,Nordurthing,IS-NOR,,,0.7,,,5,Atlantic/Reykjavik,FALSE,1352064250

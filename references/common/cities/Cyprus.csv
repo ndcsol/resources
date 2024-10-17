@@ -1,0 +1,648 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Nicosia,Nicosia,Lefkoşa|Lefkosía,35.1725,33.3650,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,primary,1246.5,330000,330000,1,Asia/Famagusta,FALSE,1196944155
+Limassol,Limassol,Lemesós|Lemessus|Leymosun|Limasol,34.6747,33.0442,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,admin,5238.6,235056,235056,2,Asia/Nicosia,FALSE,1196136222
+Larnaca,Larnaca,Citium|Salines|Chittim|Lapithou|Salina|Kition|Kozan|Kitium|Kittim|Lárnaka,34.9167,33.6333,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,admin,2227.0,84900,51468,2,Asia/Nicosia,FALSE,1196804795
+Paphos,Paphos,"Néa Páfos|Nea Paphos|Páfos|Gazibaf|Baf",34.7667,32.4167,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,admin,1754.4,63600,31738,2,Asia/Nicosia,FALSE,1196607408
+Famagusta,Famagusta,"Ammokhostos|Magosa|Ammochostus|Gazi Magosa|Ammóchostos|Mağusa|Gazimağusa",35.1250,33.9417,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,admin,103.5,40920,40920,2,Asia/Famagusta,FALSE,1196128852
+Kyrenia,Kyrenia,Kérynia|Kerýneia|Girne,35.3403,33.3192,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,admin,103.5,33207,33207,2,Asia/Famagusta,FALSE,1196334499
+"Káto Polemídia","Kato Polemidia","Kato Polemidhia|Kato Polemidya|Polemidia|Polemidhia|Aşağı Polemitya|Aşağı Binatlı",34.6931,32.9992,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,1236.0,22369,22369,3,Asia/Nicosia,FALSE,1196458883
+Aradíppou,Aradippou,Aradhippou|Aradippu|Aradip,34.9528,33.5900,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,347.0,19199,19199,3,Asia/Nicosia,FALSE,1196144891
+Latsia,Latsia,Lakkia|Laxia|Laksa|Lacha|Laçça|Latsi,35.1000,33.3667,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1030.9,16774,16774,3,Asia/Nicosia,FALSE,1196538391
+Paralímni,Paralimni,Paralim|Paralımnı,35.0333,33.9833,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,294.6,14963,14963,3,Asia/Nicosia,FALSE,1196452575
+"Ágios Athanásios","Agios Athanasios","Ayatanas|Saint Athanasios|Ayios Athanasios|Ayios Atanasios|Ayatanasiyo",34.7086,33.0503,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,1028.7,14578,14578,3,Asia/Nicosia,FALSE,1196729508
+"Mésa Geitoniá","Mesa Geitonia",Mesayitonia|Mesayitonia|Mesayitonya,34.7022,33.0453,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,4012.3,14477,14477,2,Asia/Nicosia,FALSE,1196704525
+Germasógeia,Germasogeia,Yermasoyia|Yermasoya,34.7181,33.0856,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,839.3,13421,13421,3,Asia/Nicosia,FALSE,1196232379
+Dáli,Dali,Dhali|Idalion|Dalı,35.0211,33.4200,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,334.2,10466,10466,3,Asia/Nicosia,FALSE,1196765328
+Géri,Geri,Yeri,35.1069,33.4214,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,246.8,8235,8235,3,Asia/Nicosia,FALSE,1196343994
+Geroskípou,Geroskipou,Yeroskipos|Yeroşibo|Yeroşibu,34.7667,32.4667,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,725.4,7878,7878,3,Asia/Nicosia,FALSE,1196873140
+Livádia,Livadia,Livatya|Livadhia|Livatia|Leivadia|Livadya|Sazlıköy,34.9494,33.6311,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,922.5,7177,7177,3,Asia/Nicosia,FALSE,1196810840
+Tséri,Tseri,Xeri|Bilen|Seri,35.0669,33.3167,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,260.1,7035,7035,3,Asia/Nicosia,FALSE,1196695842
+Xylofágou,Xylofagou,Xylophaghou|Ksilofagu|Xylophagou|Ksilofogo|Ksilofago|Xylophago,34.9750,33.8517,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,210.4,6231,6231,3,Asia/Nicosia,FALSE,1196962746
+Voróklini,Voroklini,Voroglini|Vorglini,34.9828,33.6544,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,699.4,6134,6134,3,Asia/Nicosia,FALSE,1196134228
+Derýneia,Deryneia,"Dherinia|Derinya|Derinköy|Derinia|Yukarı Derinya",35.0556,33.9569,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,182.8,5844,5844,3,Asia/Nicosia,FALSE,1196610554
+Sotíra,Sotira,Sotıra,35.0267,33.9503,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,213.4,5474,5474,3,Asia/Nicosia,FALSE,1196872875
+Dromolaxiá,Dromolaxia,"Dhromolaxia|Mor Menekshe|Mormenekşe|Dromolaksia",34.8833,33.5833,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,307.3,5064,5064,3,Asia/Nicosia,FALSE,1196322526
+Athíenou,Athienou,Kiracıköy|Atienu|Athiænou|Atiyenu,35.0667,33.5333,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,77.6,4996,4996,3,Asia/Nicosia,FALSE,1196593465
+Chlórakas,Chlorakas,Khlorakas|Klorakas|Hloraka|Hiloraka,34.8011,32.4086,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1521.7,4420,4420,3,Asia/Nicosia,FALSE,1196842063
+Frénaros,Frenaros,Phrenaros|Frenaro|Frennaros|Frenaros,35.0408,33.9192,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,180.2,4298,4298,4,Asia/Nicosia,FALSE,1196046748
+Kíti,Kiti,Kition|Çite,34.8472,33.5719,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,630.0,4252,4252,3,Asia/Nicosia,FALSE,1196268750
+"Miá Miliá","Mia Milia","Haspolat|Mia Milea|Miyamilya|Birincimil",35.2049,33.4215,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,142.9,4204,4204,4,Asia/Famagusta,FALSE,1196789410
+Ormídeia,Ormideia,Ormidhia|Ormiteia|Ormitya|Ormidia|Ormidya,34.9925,33.7803,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,207.5,4189,4189,3,Asia/Nicosia,FALSE,1196316238
+Pégeia,Pegeia,Peyia|Peya,34.8833,32.3833,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,78.1,3953,3953,3,Asia/Nicosia,FALSE,1196440574
+Episkopí,Episkopi,Piskobu|Yalova,34.6708,32.9019,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,177.7,3681,3681,4,Asia/Nicosia,FALSE,1196290305
+Xylotýmvou,Xylotymvou,Xylotymbou|Ksilotimbu|Ksilodimbu|Ksilodimbo|Xylotymbo,35.0167,33.7500,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,153.6,3655,3655,4,Asia/Nicosia,FALSE,1196021797
+Áskeia,Askeia,"Asha|Pasha Keuy|Rasa Koy|Aşşa|Aşa|Paşaköy",35.1592,33.6100,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,3561,3561,4,Asia/Famagusta,FALSE,1196351403
+"Káto Zódeia","Kato Zodeia","Aşağı Zodya|Aşağı Bostancı|Aşağı Zotya|Kato Zodhia|Káto Zodia|Zodia|Kato Zodya|Zodhia|Kato Zadhia",35.1678,33.0072,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,3317,3317,4,Asia/Famagusta,FALSE,1196793217
+"Agía Nápa","Agia Napa","Ayia Napa|Aynapa|Aya Napa",34.9800,34.0000,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,104.8,3212,3212,3,Asia/Nicosia,FALSE,1196252951
+"Páno Defterá","Pano Deftera","Pano Dheftera|Defterá Pano|Yukarı Deftera|Pano Deftera",35.0806,33.2661,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,222.8,2789,2789,3,Asia/Nicosia,FALSE,1196446176
+Gerólakkos,Gerolakkos,Alayköy|Yerolakkos|Eskikuyu|Yerolakko,35.1833,33.2500,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,2777,2777,4,Asia/Famagusta,FALSE,1196864286
+Pýla,Pyla,Pila|Pile,35.0139,33.6925,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,181.4,2771,2771,4,Asia/Nicosia,FALSE,1196360832
+Akáki,Akaki,Akácha|Akaca,35.1333,33.1292,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,130.7,2675,2675,4,Asia/Nicosia,FALSE,1196672723
+Égkomi,Egkomi,Engomi|Enkomi|Alasia|Tuzla,35.1583,33.8911,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,103.5,2645,2645,4,Asia/Famagusta,FALSE,1196195960
+Lythrodóntas,Lythrodontas,Litrodonda|Lythrodhonda|Litrodontas|Lythrodonda|Lythrodhondas|Litronda,34.9497,33.2961,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,82.5,2628,2628,4,Asia/Nicosia,FALSE,1196241206
+Kissónerga,Kissonerga,Kisonerga|Kissoneros|Cisonerga,34.8167,32.4000,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,292.9,2505,2505,3,Asia/Nicosia,FALSE,1196432248
+Lápithos,Lapithos,Gilderen|Lapitos|Gildirin|Lâpta,35.3367,33.1742,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,126.7,2370,2370,4,Asia/Famagusta,FALSE,1196668710
+Rizokárpaso,Rizokarpaso,Dipkurpaz|Rizokarpasso|Rizokarpason|Dipkarpas|Dipkarpaz,35.5986,34.3806,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,2349,2349,4,Asia/Famagusta,FALSE,1196738872
+Astromerítis,Astromeritis,Astromeritia|Astromeriti|Astromerit,35.1333,33.0333,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,123.7,2307,2307,4,Asia/Nicosia,FALSE,1196283739
+Mórfou,Morfou,Morphou|Omorfo|Güzelyurt|Güzelköy,35.1981,32.9939,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,38.9,2267,2267,4,Asia/Famagusta,FALSE,1196086957
+"Péra Chorió","Pera Chorio","Perakhorio|Pera Chorion|Perachorio|Perahorio|Perahorya|Perahoryo|Pera Horıo",35.0117,33.3903,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,368.1,2236,2236,3,Asia/Nicosia,FALSE,1196022634
+Peristeróna,Peristerona,Perısterona,35.1289,33.0792,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,93.3,2173,2173,4,Asia/Nicosia,FALSE,1196103957
+Kórnos,Kornos,Korno|Khorno,34.9217,33.3956,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,76.5,2083,2083,4,Asia/Nicosia,FALSE,1196047729
+"Káto Defterá","Kato Deftera","Kato Dheftera|Dheftera|Aşağı Deftera|Deftera",35.0858,33.2794,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,338.8,2054,2054,3,Asia/Nicosia,FALSE,1196298633
+Pólis,Polis,Poli,35.0333,32.4333,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,150.9,2018,2018,3,Asia/Nicosia,FALSE,1196424746
+Tríkomo,Trikomo,İskele,35.2875,33.8917,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,1948,1948,4,Asia/Famagusta,FALSE,1196632192
+Aigialoúsa,Aigialousa,Gialousa|Yalousa|Maltepe|Yialousa|Yialoussa|Yalusa|Yenierenköy,35.5356,34.1894,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,1774,1774,4,Asia/Famagusta,FALSE,1196499836
+Psimolófou,Psimolofou,Psomolophou|Psomolopho|Psomolof|Somolof|Psomolafa,35.0606,33.2600,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,204.5,1686,1686,3,Asia/Nicosia,FALSE,1196984806
+Kythréa,Kythrea,Kitrea|Kitreya|Kythræa|Değirmenlik,35.2500,33.4833,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,49.7,1630,1630,4,Asia/Famagusta,FALSE,1196359327
+Ergátes,Ergates,Argatœs|Argadez|Argátaes|Argates|Ergates,35.0536,33.2428,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,175.1,1588,1588,4,Asia/Nicosia,FALSE,1196365237
+"Ágioi Trimithiás","Agioi Trimithias","Saint Trimithias|Aytrimitya|Ayii Trimidyes|Aytrimityas|Ayious|Ayii Trimithias",35.1147,33.2100,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,87.2,1529,1529,4,Asia/Nicosia,FALSE,1196926486
+Kyperoúnta,Kyperounta,Kyperounda|Kiperunda|Ciperunda,34.9414,32.9692,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,173.1,1497,1497,4,Asia/Nicosia,FALSE,1196265042
+Karavás,Karavas,Karava|Alsancak,35.3472,33.2078,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,105.0,1474,1474,4,Asia/Famagusta,FALSE,1196756672
+Lefkónoiko,Lefkonoiko,Lefkonikon|Aksaray|Lefkonuk|Lefkoniko|Geçitkale,35.2600,33.7317,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,27.3,1448,1448,4,Asia/Famagusta,FALSE,1196474626
+Pýrgos,Pyrgos,Pyrga,34.7428,33.1833,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,264.3,1348,1348,3,Asia/Nicosia,FALSE,1196265585
+Kofínou,Kofinou,"Kophinou|Pano Kophinou|Köfünye|Kophino|Páno Kophína|Bakraçli|Kofinu|Kato Kophinou|Geçitkale",34.8258,33.3917,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,46.8,1312,1312,4,Asia/Nicosia,FALSE,1196864970
+Kakopetriá,Kakopetria,Kakopetriya,34.9833,32.9000,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,40.6,1198,1198,4,Asia/Nicosia,FALSE,1196690449
+Meneoú,Meneou,Meneu|Menevi,34.8647,33.5906,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,312.2,1196,1196,3,Asia/Nicosia,FALSE,1196558517
+Troúlloi,Troulloi,Troulli|Trulli,35.0319,33.6150,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,46.2,1175,1175,4,Asia/Nicosia,FALSE,1196043492
+Akanthoú,Akanthou,Akatu|Tatlısu,35.3742,33.7558,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,14.5,1162,1162,4,Asia/Famagusta,FALSE,1196540846
+Témplos,Templos,Temblos|Temroz|Zeytinlik,35.3311,33.2942,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,1090,1090,4,Asia/Famagusta,FALSE,1196232957
+Mámmari,Mammari,,35.1742,33.2028,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,117.5,1052,1052,4,Asia/Nicosia,FALSE,1196308980
+Pissoúri,Pissouri,Pissuri,34.6667,32.7000,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,74.8,1033,1033,4,Asia/Nicosia,FALSE,1196123303
+Argáki,Argaki,Akçay|Arkaca|Argaci,35.1797,33.0353,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,1008,1008,4,Asia/Famagusta,FALSE,1196089894
+Méniko,Meniko,Menikon|Menıko,35.1122,33.1461,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,46.9,980,980,4,Asia/Nicosia,FALSE,1196809889
+Páchna,Pachna,Pakhna|Pahna,34.7783,32.7931,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,27.0,865,865,4,Asia/Nicosia,FALSE,1196255629
+Evrýchou,Evrychou,Evrykhou|Evrihu|Evrih,35.0333,32.9000,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,63.7,827,827,4,Asia/Nicosia,FALSE,1196361622
+Agrós,Agros,Ağro,34.9167,33.0167,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,75.5,804,804,4,Asia/Nicosia,FALSE,1196157111
+Zýgi,Zygi,Ziyi|Terazi|Zyyi,34.7333,33.3333,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,305.0,803,803,3,Asia/Nicosia,FALSE,1196005143
+Lýsi,Lysi,Lisi|Akdoğan,35.1053,33.6811,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,16.7,759,759,4,Asia/Famagusta,FALSE,1196329049
+Leonárisso,Leonarisso,Ziamet|Leonariso|Ziyamet,35.4697,34.1386,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,739,739,4,Asia/Famagusta,FALSE,1196524631
+Giólou,Giolou,Yolu|Yiolou|Yalu,34.9233,32.4744,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,73.6,737,737,4,Asia/Nicosia,FALSE,1196188061
+Kalavasós,Kalavasos,Kalavason|Kalavaso,34.7719,33.2958,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,40.0,737,737,4,Asia/Nicosia,FALSE,1196440502
+"Páno Léfkara","Pano Lefkara","Yukarı Lefkara|Lefkara",34.8667,33.3069,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,11.9,737,737,3,Asia/Nicosia,FALSE,1196103457
+Maróni,Maroni,,34.7572,33.3558,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,66.2,710,710,4,Asia/Nicosia,FALSE,1196851241
+Mandriá,Mandria,Mandriya|Mandırya,34.8692,32.8319,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,22.2,700,700,4,Asia/Nicosia,FALSE,1196706553
+"Potamós tou Kámpou","Potamos tou Kampou","Potamos tou Kambou|Potamo tu Kambu|Yedidalga",35.1442,32.8078,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,669,669,4,Asia/Famagusta,FALSE,1196278050
+Oroúnta,Orounta,"Orounda|Orunda|Orounta|Kato Mom",35.1014,33.0939,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,27.7,656,656,4,Asia/Nicosia,FALSE,1196027369
+Galáta,Galata,,34.9833,32.8833,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,63.1,653,653,4,Asia/Nicosia,FALSE,1196794431
+Mathiátis,Mathiatis,Mathiati|Madyat|Matyat|Matiatis,34.9628,33.3361,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,33.7,646,646,4,Asia/Nicosia,FALSE,1196904535
+"Agía Marína","Agia Marina","Ayia Marina|Ayia Marina Xyliatou|Ayia Marina Xyliatos",35.0500,33.0500,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,25.6,628,628,4,Asia/Nicosia,TRUE,1196930098
+"Agía Triás","Agia Trias","Ayia Trias|Aytriada|Ay Trias|Ayia Tria|Ayria Trias|Sipahi",35.5394,34.2194,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,614,614,4,Asia/Famagusta,FALSE,1196718803
+Pomós,Pomos,Pomo|Pomos,35.1597,32.5450,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,29.3,595,595,4,Asia/Nicosia,FALSE,1196586296
+"Páno Panagía","Pano Panagia","Pano Panayia|Panayia|Pano Panaya|Yukarı Panaya",34.9167,32.6333,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.7,564,564,4,Asia/Nicosia,FALSE,1196256593
+Kapédes,Kapedes,Kapedhes|Kapades|Kappedhes|Kabedes,34.9756,33.2539,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,29.6,523,523,4,Asia/Nicosia,FALSE,1196801877
+Farmakás,Farmakas,Pharmakas|Farmaka|Parmaga,34.9119,33.1361,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,28.4,507,507,4,Asia/Nicosia,FALSE,1196388819
+Kornókipos,Kornokipos,Korneç|Keurnech|Görneç,35.2825,33.5728,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,500,500,4,Asia/Famagusta,FALSE,1196315878
+Limnítis,Limnitis,Limniti|Limnidi|Yeşilırmak,35.1672,32.7381,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,458,458,4,Asia/Famagusta,FALSE,1196586252
+Nikitári,Nikitari,Nicidari|Nicitar|Nıkıtarı,35.0667,32.9833,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,14.1,426,426,4,Asia/Nicosia,FALSE,1196877229
+Kampos,Kampos,Kambo|Kambos,35.0406,32.7322,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,2.6,426,426,4,Asia/Nicosia,FALSE,1196450391
+Kampiá,Kampia,Kambia|Gambya|Kambya|Kambiya|Kampıa,35.0069,33.2561,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,42.0,417,417,4,Asia/Nicosia,FALSE,1196763356
+Maloúnta,Malounta,Malounda|Malunda|Malounta,35.0344,33.1819,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,93.7,402,402,4,Asia/Nicosia,FALSE,1196580308
+Kantoú,Kantou,Kandu|Kandou|Çanakkale|Dönemeç,34.6903,32.9067,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,57.1,397,397,4,Asia/Nicosia,FALSE,1196888997
+Louroukína,Louroukina,Akıncılar|Louroujina|Lurucina|Lûricina,35.0092,33.4647,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,9.2,390,390,4,Asia/Famagusta,FALSE,1196660658
+Droúseia,Drouseia,Dhrousha|Druşa|Drousa|Truşa,34.9614,32.3975,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.5,386,386,4,Asia/Nicosia,FALSE,1196724651
+Íneia,Ineia,İnya|Inia,34.9553,32.3936,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.6,385,385,4,Asia/Nicosia,FALSE,1196937761
+Týmvou,Tymvou,Tymbou|Timbu|Kırklar,35.1347,33.5289,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,384,384,4,Asia/Famagusta,FALSE,1196720676
+Politikó,Politiko,Politikón|Politikio|Polıtıko,35.0278,33.2419,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,49.5,369,369,4,Asia/Nicosia,FALSE,1196347359
+Anaríta,Anarita,Anaryta|Anarida,34.7397,32.5344,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,130.9,368,368,4,Asia/Nicosia,FALSE,1196677849
+Mandriá,Mandria,Mandriya|Mandirya|Agıllar|Mandna|Yeşilova,34.7153,32.5317,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,155.3,360,360,4,Asia/Nicosia,FALSE,1196001071
+Palaichóri,Palaichori,"Palekhori|Palœokhorio|Paleokhorio|Palehor|Palœókhorio|Palekhori Orinis",34.9219,33.0939,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,20.0,333,333,4,Asia/Nicosia,FALSE,1196557965
+Kormakítis,Kormakitis,Kormakiti|Kormacit|Karamacit|Koruçam,35.3428,33.0108,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,309,309,4,Asia/Famagusta,FALSE,1196251781
+Kalopanagiótis,Kalopanagiotis,Kalopanayiotis|Kalapanayot|Kalopanayot,34.9919,32.8292,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,10.0,287,287,4,Asia/Nicosia,FALSE,1196286663
+Koiláni,Koilani,Cilan|Kilani|Gilani|Gilân|Ceylan,34.8447,32.8603,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,16.1,280,280,4,Asia/Nicosia,FALSE,1196284822
+Lythrágkomi,Lythragkomi,Lythrangomi|Litrankomi|Litrangomi|Lithrangomi|Litrongomi|Lythránkomi|Boltaşlı,35.4767,34.1669,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,228,228,4,Asia/Famagusta,FALSE,1196214240
+Kelokédara,Kelokedara,Kelokedhara|Celocera|Jelojara|Kelokethara,34.8125,32.6508,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.7,227,227,4,Asia/Nicosia,FALSE,1196098410
+"Agía Marinoúda","Agia Marinouda","Ayia Marinoudha|Marinoudha|Aymarinuda|Ayia Marinuda",34.7608,32.4736,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,210.6,220,220,3,Asia/Nicosia,FALSE,1196811442
+"Páno Plátres","Pano Platres","Páno Plátræs|Platres|Yukarı Platres",34.8869,32.8628,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,10.6,200,200,4,Asia/Nicosia,FALSE,1196023310
+Askás,Askas,Aska,34.9333,33.0833,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,19.0,187,187,4,Asia/Nicosia,FALSE,1196546610
+Oíkos,Oikos,Ikos|Ockos|Niko|Nikos,34.9994,32.8303,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,12.7,186,186,4,Asia/Nicosia,FALSE,1196252802
+Natá,Nata,Taşlıca,34.7667,32.5667,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,18.6,181,181,4,Asia/Nicosia,FALSE,1196017552
+Moutoullás,Moutoullas,Mudulla|Mutulla,34.9833,32.8167,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,10.0,174,174,4,Asia/Nicosia,FALSE,1196892997
+Polýstypos,Polystypos,Polystipos|Polistipos,34.9394,33.0194,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,37.1,173,173,4,Asia/Nicosia,FALSE,1196180226
+Platanistása,Platanistasa,Platanistassa|Pladanistasa,34.9464,33.0447,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,4.0,172,172,4,Asia/Nicosia,FALSE,1196625021
+"Agía Varvára","Agia Varvara","Ayia Varvara|Engindere|Ayvarvara|Saint Varvara",34.7506,32.5114,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,89.0,172,172,4,Asia/Nicosia,FALSE,1196402908
+Amargéti,Amargeti,Amarget|Amarketi|Amargot,34.8236,32.5825,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,16.5,171,171,4,Asia/Nicosia,FALSE,1196714873
+"Kaló Chorió","Kalo Chorio","Kalokhorio|Kalokhorio Lefkas|Lefkas|Kalon Chorion|Kalohoryo|Kalo Khoria|İyiköy|Çamlıköy",35.1156,32.8767,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,170,170,4,Asia/Famagusta,FALSE,1196858081
+Fýti,Fyti,Phiti|Fiti|Fidi|Phýti,34.9289,32.5447,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,48.9,150,150,4,Asia/Nicosia,FALSE,1196988048
+Vouní,Vouni,Vuni|Gökhan,34.8233,32.8336,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,10.7,136,136,4,Asia/Nicosia,FALSE,1196711054
+Pedoulás,Pedoulas,Pedula|Pedhoulas,34.9675,32.8286,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,8.6,132,132,4,Asia/Nicosia,FALSE,1196658116
+"Kato Léfkara","Kato Lefkara","Aşağı Lefkara",34.8622,33.3167,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,11.0,128,128,4,Asia/Nicosia,FALSE,1196345000
+Gerakiés,Gerakies,Yeraces|Yerakiœs|Yerakiæs|Yerakies,34.9997,32.8047,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.9,123,123,4,Asia/Nicosia,FALSE,1196405570
+Silíkou,Silikou,Siligu|Siliku|Silifke,34.8322,32.8889,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,24.7,98,98,4,Asia/Nicosia,FALSE,1196448523
+Karpáseia,Karpaseia,Karpasha|Karpasia|Karpaşa,35.2978,33.0711,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,89,89,4,Asia/Famagusta,FALSE,1196681787
+Lagouderá,Lagoudera,Lagoudhera|Lagudera,34.9625,33.0103,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,6.6,84,84,5,Asia/Nicosia,FALSE,1196394081
+Sotíra,Sotira,,34.7122,32.8631,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,8.2,83,83,5,Asia/Nicosia,FALSE,1196079245
+Milioú,Miliou,Milyu,34.9333,32.4667,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,45.8,81,81,4,Asia/Nicosia,FALSE,1196156978
+Tsakístra,Tsakistra,Chakistra|Çakistra|Tsakıstra,35.0169,32.7228,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.8,79,79,4,Asia/Nicosia,FALSE,1196462536
+Asómatos,Asomatos,Asomados|Asomato|Özhan,35.2758,33.1069,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,73,73,4,Asia/Famagusta,FALSE,1196825578
+"Péra Pedí","Pera Pedi",Perapedhi,34.8594,32.8761,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,27.7,66,66,4,Asia/Nicosia,FALSE,1196339138
+Melíni,Melini,,34.8664,33.1564,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,9.5,59,59,5,Asia/Nicosia,FALSE,1196652216
+Vávla,Vavla,,34.8411,33.2678,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,5.7,52,52,5,Asia/Nicosia,FALSE,1196422449
+Mylikoúri,Mylikouri,Milikouri|Milikuri|Miligur,34.9619,32.7506,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.0,39,39,4,Asia/Nicosia,FALSE,1196165296
+Armínou,Arminou,Arminu,34.8617,32.7194,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,2.5,26,26,5,Asia/Nicosia,FALSE,1196709168
+Kantára,Kantara,Kandara|Kantara,35.3878,33.8986,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,21,21,4,Asia/Famagusta,FALSE,1196050287
+"Ágios Sozómenos","Agios Sozomenos","Aysezomeno|Aysozomeno|Arpalık|Ayios Sozomenos|Saint Sozomenos",35.0658,33.4383,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,2.5,4,4,4,Asia/Nicosia,FALSE,1196939752
+"Ágios Ioánnis","Agios Ioannis","Ayios Ioannis|Ayyanni|Aydın",34.8958,33.0221,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,38.3,,,4,Asia/Nicosia,FALSE,1196261030
+"Ágios Ioánnis","Agios Ioannis","Ayios Ioannis",35.1375,32.7667,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196700098
+"Ágios Ioánnis","Agios Ioannis","Ayios Ioannis|Saint Ioannis|Ayios Ioannis Maloundas|Ayyanni",35.0653,33.1840,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,36.5,,,4,Asia/Nicosia,TRUE,1196001315
+"Páno Archimandríta","Pano Archimandrita","Pano Arhimandrita|Pano Arkhimandrita|Arkhimandrita|Yukarı Arhimandrita",34.7492,32.6771,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.0,,,4,Asia/Nicosia,FALSE,1196668030
+"Ágios Ioánnis","Agios Ioannis","Ayios Ioannis|Ayyanni|Aydın|Ayanni",34.8692,32.6912,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.4,,,4,Asia/Nicosia,FALSE,1196565999
+Kazáfani,Kazafani,Kazaphani|Kazabifan|Kazafana|Ozanköy,35.3131,33.3491,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196608566
+Platanísteia,Platanisteia,Plataniskia|Platanisya|Plâdanisya|Çamlıca,34.7124,32.7109,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3.6,,,4,Asia/Nicosia,FALSE,1196836130
+"Káto Koutrafás","Kato Koutrafas","Kato Koutraphas|Kato Kutrafa|Koutrapha|Koutraphas|Kato Koutrapha|Aşağı Kurtboğan",35.1028,32.9776,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,0.9,,,4,Asia/Nicosia,FALSE,1196227524
+Eliá,Elia,Elea|Elya|Elæá|Yeşiltepe,35.3322,33.2193,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196490495
+Eliá,Elia,Elea|Elæá|Elye|Elya|Doğancı,35.1327,32.9125,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196463249
+Platáni,Platani,Bladan|Çinarlı|Çınarlı,35.3330,33.7518,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196594182
+Drápeia,Drapeia,Dhrapia|Drapya|Drabiya|Drapia,34.8023,33.2796,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,8.5,,,4,Asia/Nicosia,FALSE,1196810158
+Téra,Tera,Terra|Çakırlar,34.9655,32.4244,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,10.6,,,4,Asia/Nicosia,FALSE,1196091447
+Lapithioú,Lapithiou,Lapithiu|Lapithou|Lâpityu|Bozalan,34.9046,32.5967,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,10.5,,,4,Asia/Nicosia,FALSE,1196002241
+Kampylí,Kampyli,Kambyli|Kambilli|Kambili|Hanbeli|Hisarköy,35.3014,33.1075,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196474494
+Frodísia,Frodisia,Vroisha|Yağmuralan|Vróisia|Vroyişa|Vroişa,35.0679,32.6608,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,2.6,,,4,Asia/Nicosia,FALSE,1196470288
+Zoopigí,Zoopigi,Zoopiyi|Zoobiyí,34.8632,33.0158,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,11.3,,,4,Asia/Nicosia,FALSE,1196693702
+Léfka,Lefka,Lefke|Lefke-Karadağ,35.1120,32.8500,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196469930
+Móra,Mora,Morköy|Meriç,35.1751,33.5508,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196955785
+Mándres,Mandres,Mandrez|Mandraz|Mandraes|Ağıllar,35.3471,33.7992,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196129795
+"Ágios Dimitrianós","Agios Dimitrianos","Ayios Dhimitrianos|Aydimitrino|Saint Dhimitrianos|Aydimitriyano",34.9066,32.5511,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,17.8,,,4,Asia/Nicosia,FALSE,1196410595
+Mándres,Mandres,"Hamitköy|Hamit|Hamid Mandres|Hamidmandiralari|Mandralar|Mandres Hamid|Ramit Mandres|Hamit Mandres",35.2214,33.3776,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196343980
+Mándres,Mandres,"Mandræs|Mandres Morphou|Hamitköy",35.0766,32.9530,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,0.9,,,4,Asia/Nicosia,TRUE,1196401903
+Episkopí,Episkopi,Piskobu|Episcopí,34.7964,32.5261,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,21.7,,,4,Asia/Nicosia,FALSE,1196964893
+Stení,Steni,,34.9982,32.4720,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,36.1,,,4,Asia/Nicosia,FALSE,1196220851
+Klepíni,Klepini,Arapköy,35.3065,33.4353,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196252868
+Bélapaïs,Belapais,Bellapais|Bellapaise|Bellabayis|Balabayis|Beylerbeyi,35.3000,33.3500,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196030629
+Sýsklipos,Sysklipos,Sisklipos|Siskilip|Sisklip|Sisklibo|Akçiçek,35.3004,33.1737,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196958565
+Aplíki,Apliki,Aliçlar|Apliç|Aplıç,35.1004,32.8491,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196273055
+Aplíki,Apliki,Alıçler,34.9306,33.1175,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,22.8,,,4,Asia/Nicosia,TRUE,1196717029
+Koróveia,Koroveia,Korovia|Karovia|Krovya|Korovya|Koruova|Kuruova,35.5113,34.2740,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196288871
+Goúfes,Goufes,Gouphes|Gouphæs|Kufez|Gufes|Kurez|Gouphœs|Kepez|Grouphes|Çamlica,35.2826,33.6878,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196138781
+Kriní,Krini,Kirni|Kiran|Pınarbaşı,35.2880,33.2375,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196022012
+Trachypédoula,Trachypedoula,Trakhypedhoula|Trahipedula|Trasipeyula|Trakhypedoula,34.8005,32.6786,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,5.7,,,4,Asia/Nicosia,FALSE,1196964715
+Agiá,Agia,"Ayia|Agyia|Ayia Kebir|Ayakebir|Dilekkaya",35.1091,33.5641,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196621941
+Challéri,Challeri,Khaleri|Khalari|Kaleri|Halleri,35.1699,32.6612,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,5.6,,,4,Asia/Nicosia,FALSE,1196827938
+Fikárdou,Fikardou,Phikardhou|Figardu|Phykardou|Phikardhos|Fikardu,34.9597,33.1709,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,9.7,,,4,Asia/Nicosia,FALSE,1196217088
+Erími,Erimi,,34.6777,32.9182,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,635.6,,,3,Asia/Nicosia,FALSE,1196585444
+"Páno Pýrgos","Pano Pyrgos",,35.1549,32.6823,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,0.6,,,5,Asia/Nicosia,FALSE,1196680202
+Marathóvounos,Marathovounos,Marathovouno|Maratoğno|Maratovuno|Maratovno|Ulukışla,35.2229,33.6178,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196576477
+Ármou,Armou,Armu,34.7996,32.4782,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,138.3,,,4,Asia/Nicosia,FALSE,1196503885
+Lémpa,Lempa,Lemba|Çiralı|Lâmba,34.8112,32.4088,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,538.8,,,3,Asia/Nicosia,FALSE,1196806650
+Kióneli,Kioneli,Gönyeli|Geunyeli|Geunyely|Gönelli,35.2108,33.3095,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196563134
+Kómi,Komi,"Komi Kebir|Büyükkonuk",35.4105,33.9962,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196635073
+Tróodos,Troodos,"Camp Troodos|Tróödhos Resort|Trodos",34.9234,32.8805,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,10.6,,,4,Asia/Nicosia,FALSE,1196385135
+"Ágios Mémnon","Agios Memnon","Ayios Memnon",35.0869,33.9667,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,112.3,,,4,Asia/Famagusta,FALSE,1196494191
+"Agía Ánna","Agia Anna","Ayia Anna|Ayanna|Akhisar",34.9430,33.4821,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,55.2,,,4,Asia/Nicosia,FALSE,1196124466
+Kiómourtzou,Kiomourtzou,Keumurju|Keumurji|Keumurja|Kiomurtzou|Kömürcü,35.2934,33.2564,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196173372
+Artémi,Artemi,Artimi|Arıdamı,35.3203,33.7036,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196218931
+Aplánta,Aplanta,"Aplanda|Aplánda Chiftlík",34.8287,33.4746,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,44.2,,,4,Asia/Nicosia,FALSE,1196525513
+Saïttás,Saittas,Sayitta|Saitta,34.8687,32.9163,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,22.3,,,4,Asia/Nicosia,FALSE,1196272961
+Alithinoú,Alithinou,Alitinu,34.9461,33.0331,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,4.8,,,5,Asia/Nicosia,FALSE,1196823255
+Fáleia,Faleia,Phalia|Falia|Falya|Gökçebel,34.8599,32.5892,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.2,,,4,Asia/Nicosia,FALSE,1196758886
+Stýlloi,Stylloi,Istillos|Direkli|Stillos|Stylos|Styllos|Mutluyaka,35.1721,33.8337,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196686581
+Prodromi,Prodromi,Prodhromi|Karşıyaka|Prodromos|Prodhromos|Prodhomi,35.0273,32.4178,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,137.2,,,4,Asia/Nicosia,FALSE,1196197408
+Potamítissa,Potamitissa,,34.9073,32.9897,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,11.8,,,4,Asia/Nicosia,FALSE,1196921381
+Kynoúsa,Kynousa,Kinousa|Kinusa|Cinusa,35.0323,32.5078,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.0,,,4,Asia/Nicosia,FALSE,1196224288
+Koutsovéntis,Koutsoventis,Kutsoventi|Kutsovendis|Kutsoventis|Koutsovendis|Güngör,35.2631,33.4208,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196222251
+Potámi,Potami,Potamı|Dereler,35.1044,33.0298,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,51.1,,,4,Asia/Nicosia,FALSE,1196998086
+Tremetousiá,Tremetousia,Tremethousha|Tremetousha|Tremeşa|Erdemli,35.0838,33.6084,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,103.5,,,4,Asia/Famagusta,FALSE,1196026764
+Vounó,Vouno,Chamlija|Vouna|Vounon|Vuno|Taşkent|Yukarıtaşkent,35.2710,33.3910,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196799713
+"Agía Eiríni","Agia Eirini","Ayia Irini|Akdeniz|Ayirini|Ayia Irmi|Ayairini|Irmi",35.2989,32.9634,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196583357
+Gerovása,Gerovasa,Yerovasa|Yerovası,34.8128,32.7393,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,0.7,,,5,Asia/Nicosia,FALSE,1196793547
+"Káto Amíantos","Kato Amiantos","Aşağı Amyanto|Amiandos|Kato Amiyando|Kato Amiandos",34.9172,32.9358,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,28.3,,,4,Asia/Nicosia,FALSE,1196229849
+Anadioú,Anadiou,Anadhiou|Anadyu|Görmeli|Anadhiu|Anatyu,34.9442,32.5660,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.5,,,4,Asia/Nicosia,FALSE,1196659338
+Klírou,Klirou,Kliru|Klırou,35.0200,33.1781,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,114.9,,,4,Asia/Nicosia,FALSE,1196771674
+Lása,Lasa,,34.9246,32.5272,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,13.2,,,4,Asia/Nicosia,FALSE,1196477033
+Kelliá,Kellia,Ağılbaşı|Yıldırım|Celya,34.9761,33.6231,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,31.6,,,4,Asia/Nicosia,FALSE,1196588272
+Tóchni,Tochni,Tokhni|Dohni|Taşkent,34.7813,33.3233,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,31.3,,,4,Asia/Nicosia,FALSE,1196354816
+Zakaki,Zakaki,Zakáti,34.6586,33.0026,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3091.4,,,2,Asia/Nicosia,FALSE,1196920227
+Árdana,Ardana,Ardhana|Ardahan,35.3566,33.8859,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196780314
+Krídeia,Krideia,Kridhia|Kritya|Kilitkaya,35.3953,33.9729,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196124430
+"Treís Eliés","Treis Elies","Triselyes|Üçzeytinler|Tris Elies|Tris Eliæs",34.9311,32.7942,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,2.3,,,4,Asia/Nicosia,FALSE,1196849915
+Melánarga,Melanarga,Melangra|Adaçay,35.5147,34.1968,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196917761
+Livádia,Livadia,Leivadia|Livadhia|Livatya|Livadya|Sazlıköy,34.9459,33.0222,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,14.9,,,4,Asia/Nicosia,FALSE,1196423158
+Monagroúlli,Monagroulli,Monagrulli,34.7490,33.2130,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,33.9,,,4,Asia/Nicosia,FALSE,1196031267
+Peristeronári,Peristeronari,Peristerona|Cavuslari|Peristeronar|Narliköy|Cengizköy|Gengizköy,35.1326,32.8651,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196956224
+"Páno Akourdáleia","Pano Akourdaleia","Pano Akourdhalia|Pano Akourdália|Pano Akurdalya",34.9423,32.4454,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,21.1,,,4,Asia/Nicosia,FALSE,1196198379
+Pyrgá,Pyrga,"Pirga|Kato Pyrgos|Aşağı Pyrgo|Çamlıbel|Pirhan",35.1827,33.7267,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196744084
+"Káto Pýrgos","Kato Pyrgos","Aşağı Pirgo|Kato Pirgo",35.1790,32.6860,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,149.7,,,4,Asia/Nicosia,FALSE,1196438711
+Livádia,Livadia,Leivadia|Livadhia|Livadya|Livatya|Sazlıköy,35.3988,34.0255,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196918655
+Arakapás,Arakapas,Arakaba|Arakapa,34.8438,33.1121,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,25.8,,,4,Asia/Nicosia,FALSE,1196780047
+Akapnoú,Akapnou,Akapnu,34.8388,33.1865,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3.7,,,5,Asia/Nicosia,FALSE,1196562864
+Víkla,Vikla,,34.8271,33.1955,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,2.1,,,5,Asia/Nicosia,FALSE,1196581382
+Potamioú,Potamiou,Bodamyu|Potamyu,34.8241,32.8067,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,10.9,,,4,Asia/Nicosia,FALSE,1196754083
+"Káto Díkomo","Kato Dikomo","Kato Dhikomo|Dhikomo|Lower Dikomo|Kato Dikomon|Aşağı Dikomo|Aşağı Dikmen",35.2675,33.3247,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196057272
+"Krítou Maróttou","Kritou Marottou","Gritmarut|Kritu Marotu|Girit Marot",34.9268,32.5625,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.0,,,4,Asia/Nicosia,FALSE,1196495389
+Loukroúnou,Loukrounou,Olukönü|Lukrunu,34.9517,32.4640,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.4,,,4,Asia/Nicosia,FALSE,1196744512
+Gastriá,Gastria,Gastirya|Gastriya|Kalecik,35.3427,33.9999,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196253628
+Knódara,Knodara,Knodhara|Konedra|Conendere|Kounetra|Konetra|Gönendere,35.2648,33.6604,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196109685
+Meládeia,Meladeia,Meladhia|Melatya|Malatya|Melâdya,34.9885,32.5063,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,6.5,,,4,Asia/Nicosia,FALSE,1196727218
+"Ágios Mámas","Agios Mamas","Ayios Mamas|Saint Mamos|Aymama",34.8512,32.9489,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,8.2,,,4,Asia/Nicosia,FALSE,1196625576
+Kontémenos,Kontemenos,Kördümen|Kördemen|Kurdemen|Kondemenos|Kılıçaslan,35.2686,33.1247,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196188063
+Alámpra,Alampra,Alambra,34.9890,33.3989,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,130.2,,,4,Asia/Nicosia,FALSE,1196246179
+Akroúnta,Akrounta,Akrounda|Akrunda|Akrunta,34.7652,33.0816,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,44.6,,,4,Asia/Nicosia,FALSE,1196874641
+Vasíleia,Vasileia,Vasilia|Vasilya|Vasileja|Karşıyaka,35.3449,33.1242,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196687825
+Apesiá,Apesia,Apaisia|Apesha|Apœsia|Abeşa|Apeşa|Abosha,34.7894,32.9776,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,69.6,,,4,Asia/Nicosia,FALSE,1196302314
+Péra,Pera,Pera,35.0335,33.2541,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,81.2,,,4,Asia/Nicosia,FALSE,1196289920
+Liverá,Livera,Liveras|Sadrazamköy,35.3833,32.9526,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196436158
+"Ágios Therápon","Agios Therapon","Ayios Therapon|Saint Therapon|Ayterapon|Ayterap",34.7976,32.8398,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,6.4,,,4,Asia/Nicosia,FALSE,1196681859
+Pachýammos,Pachyammos,"Pahiammos|Pakhyammos|Pakký Ammos|Paçiammo|Paşiammo|Pakhy Amjnos",35.1716,32.5847,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,14.0,,,4,Asia/Nicosia,FALSE,1196197525
+Livádi,Livadi,Livadya|Leivadi|Livadhi,35.1012,32.5969,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.6,,,4,Asia/Nicosia,FALSE,1196087963
+Avlóna,Avlona,Gayretköy,35.1613,33.1069,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196560100
+Ársos,Arsos,Dışkapı|Arçoz|Yiğitler,35.0900,33.6283,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,103.5,,,4,Asia/Famagusta,FALSE,1196063690
+Ársos,Arsos,Yigitler|Arçoz,34.8412,32.7694,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,17.6,,,4,Asia/Nicosia,FALSE,1196254114
+Parsáta,Parsata,Parsada|Parsa|Barsata,34.8265,33.2662,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,8.2,,,4,Asia/Nicosia,FALSE,1196203795
+Trikoukkiá,Trikoukkia,Trikoukia|Trikuçça|Trikukya|Driguçça,34.9370,32.8388,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,14.5,,,4,Asia/Nicosia,FALSE,1196785271
+Dorós,Doros,Dhoros,34.8153,32.9089,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,27.5,,,4,Asia/Nicosia,FALSE,1196325522
+Pampoula,Pampoula,Pamboula,34.6750,32.9125,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,350.8,,,3,Asia/Nicosia,FALSE,1196113393
+Áchna,Achna,Athna|Akhna|Ahna|Düzce,35.0553,33.7844,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,63.4,,,4,Asia/Famagusta,FALSE,1196599363
+Varíseia,Variseia,Varisha|Varişa|Şirinköy,35.1303,32.7498,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Nicosia,FALSE,1196849264
+Mathikolóni,Mathikoloni,Matikoloni|Madikoloni,34.7752,33.0491,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,18.2,,,4,Asia/Nicosia,FALSE,1196189703
+Geráni,Gerani,Yerani|Turnalar,35.3592,33.9223,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196835256
+Pigénia,Pigenia,Piğenya|Pienia|Piyenia|Pigænia,35.1676,32.6543,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,4.3,,,4,Asia/Nicosia,FALSE,1196273304
+Limnátis,Limnatis,Linnatis|Limnat,34.8132,32.9481,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,31.7,,,4,Asia/Nicosia,FALSE,1196507472
+Mavrolí,Mavroli,Mavralis|Mavioli,35.0521,32.4531,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,137.2,,,4,Asia/Nicosia,FALSE,1196411203
+"Ágios Geórgios","Agios Georgios","Ayios Yeoryios|Áyios Yeórgios|Ayyorgi|Ayorgi|Argun|Saint Yeorgios|Ayios Yeoryios Spatharikou|Aygün",35.2559,33.8629,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196009477
+"Ágios Geórgios","Agios Georgios","Ayios Yeoryios|Ayorgi|Kavaklı|Ayyorgi",34.7786,32.6523,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,16.8,,,4,Asia/Nicosia,FALSE,1196662095
+"Páno Aródes","Pano Arodes","Pano Arodhes|Yukarı Kalkanlı|Yukarı Arodez",34.9358,32.4067,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.9,,,4,Asia/Nicosia,FALSE,1196597148
+Moúsere,Mousere,Musere,34.7706,32.7153,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,4.2,,,5,Asia/Nicosia,FALSE,1196029535
+Koilíneia,Koilineia,Kilinia|Cilinya|Gilinya,34.8835,32.6315,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,8.5,,,4,Asia/Nicosia,FALSE,1196732585
+"Ágios Geórgios","Agios Georgios","Ayios Yeoryios|Ay Yorgi",34.8148,32.8986,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,28.8,,,4,Asia/Nicosia,FALSE,1196932403
+Álassa,Alassa,Kalassa|Halassa|Alasa|Halasa|Khalassa,34.7631,32.9269,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,41.9,,,4,Asia/Nicosia,FALSE,1196813788
+Polémi,Polemi,Polem,34.8863,32.5089,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,95.2,,,4,Asia/Nicosia,FALSE,1196949235
+Saránti,Saranti,Sarandi,34.9692,32.9993,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,3.6,,,5,Asia/Nicosia,FALSE,1196212754
+Trachóni,Trachoni,Demirhan|Trakhoni|Trahoni|Tirhon,35.2244,33.4786,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196433237
+Trachóni,Trachoni,Trahon|Kayakale|Trahoni|Trakhoni,34.6576,32.9653,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,1010.5,,,3,Asia/Nicosia,FALSE,1196000002
+Távrou,Tavrou,Tavros|Pamuklu,35.3966,34.0765,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196785100
+Perivólia,Perivolia,"Perivolia tou Trikomou|Pervolya Trikomu|Tricomo Bahceler|Bahçalar|Perivolya|Perivolia tou Tricomou|Bahçeler",35.2862,33.9101,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196083979
+Drýmou,Drymou,Dhrymou|Drymo|Drimu|Dhrymo,34.9257,32.5129,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,19.8,,,4,Asia/Nicosia,FALSE,1196095909
+Chárkeia,Charkeia,Kharcha|Harça|Khartja|Harcha|Karaağaç,35.3187,33.5566,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196448009
+Paramýtha,Paramytha,Paramitha|Paramiha|Paramita,34.7608,32.9946,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,96.1,,,4,Asia/Nicosia,FALSE,1196391124
+Arnadí,Arnadi,Arnadhi|Arnayi|Arnathi|Kuzucuk,35.2366,33.8605,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196379125
+Kissoúsa,Kissousa,Cissusa|Kissusa|Kisusa,34.8108,32.7948,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3.5,,,4,Asia/Nicosia,FALSE,1196599201
+Perivólia,Perivolia,Perivolya|Bervolya|Bahçalar|Bahçeler,34.8336,33.5820,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,604.0,,,3,Asia/Nicosia,FALSE,1196653025
+Makoúnta,Makounta,Magounda|Magunda|Yakacık|Bakacak,35.0521,32.4778,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,19.5,,,4,Asia/Nicosia,FALSE,1196616945
+Béïkioï,Beikioi,"Bey Keuy|Beikioï|Beyköy",35.2368,33.5020,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196110134
+Marathoúnta,Marathounta,Marathounda|Maratunda|Maratunya,34.7916,32.4871,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,30.7,,,4,Asia/Nicosia,FALSE,1196142013
+"Káto Mýlos","Kato Mylos","Aşağı Mylos|Kato Milo|Kato Milos|Mylos",34.8953,33.0060,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,16.1,,,4,Asia/Nicosia,FALSE,1196773076
+Makrásyka,Makrasyka,Makrasiga|Uzunköy|Makrasika|İncirli,35.0740,33.7622,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196348963
+"Páno Kivídes","Pano Kivides","Kividhes|Yukarı Alsandık|Pano Kividhes|Pano Civiya|Alsandık",34.7574,32.8572,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,40.7,,,4,Asia/Nicosia,FALSE,1196580806
+"Ágios Thomás","Agios Thomas","Ayios Thomas|Yalıktaş|Aytuma|Mersinli",34.7162,32.7255,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,19.9,,,4,Asia/Nicosia,FALSE,1196251225
+Mosfilerí,Mosfileri,Mosphileri|Mosphili,35.1804,32.6309,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.5,,,5,Asia/Nicosia,FALSE,1196601316
+"Éxo Metóchi","Exo Metochi",Exometokhi|Esensehitler|Eksomedoş|Exometochi|Ekşometos|Düzova,35.2151,33.5273,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196702669
+Choúlou,Choulou,Khoulou|Hulu,34.8726,32.5582,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.9,,,5,Asia/Nicosia,FALSE,1196931570
+Petrofáni,Petrofani,Petrophani|Petrofan|Bodurağaç|Esendağ,35.0458,33.5194,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,23.0,,,4,Asia/Nicosia,FALSE,1196318191
+Androlíkou,Androlikou,Androlykou|Antroliku|Androlikon|Gündoğdu|Androhkou,34.9987,32.3819,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,21.8,,,4,Asia/Nicosia,FALSE,1196981217
+Chrysilioú,Chrysiliou,Yuvacık|Khrysiliou|Hrisilyu|Hirisilla|Hirilliya|Yuvacik|Chrysiiou,35.2122,33.0218,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196323288
+"Ágios Iákovos","Agios Iakovos","Ayios Iakovos|Aynakofo|Ainakofo|Saint Igkovos|Kopuzlu|Altınova",35.3270,33.8151,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196951967
+Láneia,Laneia,Lania|Lanya,34.8249,32.9215,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,48.2,,,4,Asia/Nicosia,FALSE,1196423585
+Spatharikó,Spathariko,Ispaharigo|Spatariko|Ötüken,35.2365,33.8718,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196194404
+Skylloúra,Skylloura,Yılmazköy|Skillouras|Skilloura|Şillura|Yilmazköy,35.2303,33.1654,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196472406
+Syrianochóri,Syrianochori,Siryanohor|Siryanohori|Syrianokhori|Yayla,35.2244,32.9412,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196474964
+"Káto Flásou","Kato Flasou","Kato Phlasou|Kato Flasu|Káto Vláso|Phlasou|Vlaso|Aşağıflaso|Flâsu|Kato Flasou",35.0608,32.8877,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,44.3,,,4,Asia/Nicosia,FALSE,1196081803
+Statós,Statos,İstatos|Stato,34.8911,32.6097,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,14.5,,,4,Asia/Nicosia,FALSE,1196099402
+Psevdás,Psevdas,Psevdhas|Pseftas|Psevda,34.9465,33.4628,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,116.6,,,4,Asia/Nicosia,FALSE,1196405859
+Goúrri,Gourri,Gurri|Guri|Yourri,34.9574,33.1578,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,10.2,,,4,Asia/Nicosia,FALSE,1196924096
+"Ágios Pávlos","Agios Pavlos","Ayios Pavlos|Ay Pavlo",34.8639,33.0460,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,21.4,,,4,Asia/Nicosia,FALSE,1196878845
+"Néo Chorió","Neo Chorio","Minareliköy|Neokhorio|Neokhoria|Minareli Keuy|Neohoryo|Neon Chorion",35.2348,33.4757,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196900298
+Fóta,Fota,Photta|Photia|Dağyolu,35.2641,33.2225,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196790802
+"Néo Chorío","Neo Chorio","Neokhorio|Neokhorion|Neohoryo|Yeniköy|Neon Chorion|Yenije Keuy|Neo Horıo",35.0258,32.3644,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,15.7,,,4,Asia/Nicosia,FALSE,1196054868
+Trápeza,Trapeza,Teknecik|Beşparmak,35.3082,33.4696,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196709245
+Axýlou,Axylou,Aksilu|Aksilou|Aksulu|Aksu,34.8061,32.5646,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,12.8,,,4,Asia/Nicosia,FALSE,1196132660
+Káthikas,Kathikas,Katikas|Gahiga|Katika,34.9129,32.4253,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,30.3,,,4,Asia/Nicosia,FALSE,1196819972
+Kontéa,Kontea,Kondeya|Kondea|Türkmenköy,35.1027,33.7158,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196682831
+Chrysochoú,Chrysochou,Khrysokhou|Altıncık|Hirsofu|Khrisohu,35.0036,32.4405,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,49.8,,,4,Asia/Nicosia,FALSE,1196613521
+"Ágios Geórgios","Agios Georgios","Agion Georgoudi|Ayyorgi|Saint Yeorgios|Ayios Yeoryios Lefkas|Ayios Yeoryios|Madenliköy",35.0911,32.8847,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Nicosia,FALSE,1196235250
+Agrokipiá,Agrokipia,Ağrocipya,35.0436,33.1579,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,63.9,,,4,Asia/Nicosia,FALSE,1196643532
+Anógyra,Anogyra,Anoyira|Taşlica|Anoyra,34.7397,32.7345,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,17.2,,,4,Asia/Nicosia,FALSE,1196884826
+"Páno Polemídia","Pano Polemidia","Pano Polemidhia|Yukarı Polemitya|Polemidia|Pano Polemidya|Yukarı Binatlı",34.7056,32.9927,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,920.0,,,3,Asia/Nicosia,FALSE,1196285783
+Aléktora,Alektora,Alekhtora|Alehtora|Gökağaç,34.7093,32.6835,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,2.9,,,4,Asia/Nicosia,FALSE,1196367660
+Nikoloudes,Nikoloudes,Hajinikoloues,35.2952,33.8806,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196503781
+Thelétra,Theletra,Teletra,34.9122,32.4473,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,42.2,,,4,Asia/Nicosia,FALSE,1196779524
+Margí,Margi,Oğlakli|Marki|Küçükköy,35.0239,33.3252,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,22.0,,,4,Asia/Nicosia,FALSE,1196565467
+Argáka,Argaka,Argaca|Arkaka|Argaka,35.0665,32.4945,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,83.7,,,4,Asia/Nicosia,FALSE,1196819487
+Eptagóneia,Eptagoneia,Ephtagonia|Eptagonia|Eftagonya|Eptagonya,34.8472,33.1578,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,30.9,,,4,Asia/Nicosia,FALSE,1196258122
+Mésana,Mesana,,34.8488,32.7069,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,16.1,,,4,Asia/Nicosia,FALSE,1196064982
+"Ágios Týchon","Agios Tychon","Ayithona|Ayios Tihonos|Ayios Tykhonas|Ayandihona",34.7261,33.1387,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,508.6,,,3,Asia/Nicosia,FALSE,1196976631
+Menógeia,Menogeia,Menoyia|Ötüken|Mennoya|Mennogeia|Menoya,34.8434,33.4414,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,6.4,,,4,Asia/Nicosia,FALSE,1196957886
+Anglisídes,Anglisides,Anglisidhes|Anklisides|Aksu|Anglisiya|Agkleisides|Aglisides,34.8518,33.4569,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,82.1,,,4,Asia/Nicosia,FALSE,1196299262
+Agrídia,Agridia,Ağridya|Ağritya|Agridhia,34.9283,32.9947,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,21.4,,,4,Asia/Nicosia,FALSE,1196183501
+"Ágios Epíktitos","Agios Epiktitos","Ayepiktitos|Chatal Keuy|Saint Epiktitos|Aypihtito|Ayios Epiktitos|Çatalköy",35.3207,33.3903,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196417977
+Acherítou,Acheritou,Akhyritou|Aharitu|Kouverjinlik|Aharida|Ağratur|Aşeritu|Ahiritu|Güvercinlik,35.1002,33.8615,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,36.7,,,4,Asia/Famagusta,FALSE,1196538877
+Kidási,Kidasi,Kithasi|Ciyas|Kitasi|Jiaz|Ceyhan,34.8074,32.7132,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.6,,,4,Asia/Nicosia,FALSE,1196114793
+Kampí,Kampi,"Kambi|Kambi Pharmaka",34.9085,33.1290,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,18.4,,,4,Asia/Nicosia,FALSE,1196797516
+Sínta,Sinta,Sinda|Sinde|Sindirgi|İnönü,35.1571,33.7011,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196392602
+Tremithoúsa,Tremithousa,"Trimithousa|Trimithousa Paphos|Trimitusa|Trimithusa|Tremetuşa",34.8184,32.4486,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,340.0,,,3,Asia/Nicosia,FALSE,1196122886
+"Ágios Fótios","Agios Fotios","Ayios Photios|Saint Photios|Ayios Fotios|Ayfodi|Ayfoti",34.8739,32.6126,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,14.5,,,4,Asia/Nicosia,FALSE,1196480928
+Patríki,Patriki,Batriç|Patriç|Tuzluca,35.3632,33.9965,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196000000
+Pyrgá,Pyrga,Pirga|Çamlıbel,34.9259,33.4324,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,27.4,,,4,Asia/Nicosia,FALSE,1196166758
+Koniá,Konia,Konya|Konnia,34.7851,32.4589,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,790.8,,,3,Asia/Nicosia,FALSE,1196756227
+"Ágios Geórgios","Agios Georgios","Ayios Yeoryios|Ayyorgi|Karaoğlanoğlu",35.3422,33.2753,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196280377
+Cheromylos,Cheromylos,Sheromylos|Karaoğlanoğlu,35.3721,33.7083,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196766256
+Siá,Sia,Sha|Şa,34.9552,33.3900,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,58.4,,,4,Asia/Nicosia,FALSE,1196606514
+Vasíli,Vasili,Vasilya|Gelincik,35.4728,34.1506,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196148395
+Temvriá,Temvria,Tembriye|Temvriya|Tembriya|Tembria,35.0278,32.8918,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,81.2,,,4,Asia/Nicosia,FALSE,1196274219
+Nikókleia,Nikokleia,Nikolia|Nikoklia|Nikokla|Nikoklo,34.7293,32.5758,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,46.1,,,4,Asia/Nicosia,FALSE,1196751209
+Tsáda,Tsada,Tsadha|Çada|Isada,34.8380,32.4755,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,89.5,,,4,Asia/Nicosia,FALSE,1196267027
+"Ágios Konstantínos","Agios Konstantinos","Ayios Konstantinos|Ay Kostantino|Saint Konstantinos|Aykonstandino",34.8670,33.0665,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,15.5,,,4,Asia/Nicosia,FALSE,1196563212
+Vrétsia,Vretsia,Vrecha|Vreçça|Vretcha|Dağaşan|Vretsa,34.8908,32.6569,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.0,,,4,Asia/Nicosia,FALSE,1196592552
+"Káto Gialiá","Kato Gialia","Aşağıyayla|Kato Yalya|Kato Yialia",35.1182,32.5139,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,48.5,,,4,Asia/Nicosia,FALSE,1196010813
+Lysós,Lysos,Lyso|Liso,34.9948,32.5124,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,2.8,,,5,Asia/Nicosia,FALSE,1196861603
+Liopétri,Liopetri,Leopetra|Liyopetri|Lıopetrı,35.0088,33.8926,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,222.6,,,3,Asia/Nicosia,FALSE,1196046308
+"Moró Neró","Moro Nero","Moron Nero|Moronero|Küçüksu",34.8130,32.5259,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,28.9,,,4,Asia/Nicosia,FALSE,1196210994
+Galatariá,Galataria,Galatarya|Yoğurtcular,34.8769,32.6319,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,6.9,,,5,Asia/Nicosia,FALSE,1196965537
+Saramá,Sarama,Kuşluca,34.9556,32.5286,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.2,,,5,Asia/Nicosia,FALSE,1196502047
+Thriniá,Thrinia,Drynia|Dhrinia|Drinya|Dhrynia,34.9159,32.5294,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,10.8,,,4,Asia/Nicosia,FALSE,1196156475
+"Ágios Andrónikos","Agios Andronikos","Ayios Andronikos|Saint Andronikos|Ayandroniko|Ayandronikas|Ayantroniko|Topsiou Keuy|Topçuköy",35.3398,33.8737,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196429177
+"Ágios Andrónikos","Agios Andronikos","Ayios Andronikos|Saint Andronikos|Ayantroniko|Ayantronigo|Yeşilköy",35.5024,34.1617,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,TRUE,1196577970
+Palaiósofos,Palaiosofos,Paleosophos|Palyosofo|Palæosophos|Balyosofo|Balyosofa|Malatya,35.3256,33.2071,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196917333
+Episkopeió,Episkopeio,Episkopion|Episkopeion|Episkopyo|Episkopio,35.0426,33.2458,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,143.2,,,4,Asia/Nicosia,FALSE,1196891765
+Achéleia,Acheleia,Akhelia|Akheilia|Aşelya,34.7387,32.4875,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,18.4,,,4,Asia/Nicosia,FALSE,1196362619
+Maloúnta,Malounta,Malounda|Malunda,34.8649,32.6907,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.4,,,5,Asia/Nicosia,FALSE,1196944480
+"Kálo Chorió","Kalo Chorio","Kálon Chorión|Kalokhorio|Kalohoryo|Voudo|Kalokhoria|Kalohorio|Vuda",34.9290,33.5377,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,61.7,,,4,Asia/Nicosia,FALSE,1196900694
+"Kaló Chorío","Kalo Chorio","Kalkanlı|Kapoúti|Kalokhorio|Kaputi|Kalohoryo|Kalokhorio Morphou|Kalon Chorion",35.2443,33.0395,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,TRUE,1196906250
+"Kaló Chorió","Kalo Chorio","Kalokhorio|Kalohorio|Kalokhorio Orinis|Kalón Chorión|Kalohoryo",35.0099,33.1630,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.1,,,4,Asia/Nicosia,TRUE,1196683530
+Katalióntas,Kataliontas,Kataliondas|Gadalyonda|Katalyonda|Katalionda,34.9914,33.2989,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,12.3,,,4,Asia/Nicosia,FALSE,1196110784
+Anavargos,Anavargos,Anavargo,34.7946,32.4515,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,2192.1,,,2,Asia/Nicosia,FALSE,1196195617
+"Agía Marína","Agia Marina","Ayia Marina|Gürpınar|Skylloura|Aymarina|Ayia Marina Skyllouras",35.2167,33.1333,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196850451
+"Agía Marína","Agia Marina","Ayia Marina|Saint Marina|Ayia Marina Khrysokhou|Aymarina",35.1118,32.5371,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,48.5,,,4,Asia/Nicosia,FALSE,1196379560
+"Agía Marína","Agia Marina","Ayia Marina|Ayia Marina Kelokedhara|Aymarina",34.8288,32.6141,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,5.4,,,4,Asia/Nicosia,TRUE,1196459726
+Choletria,Choletria,Kholetria|Holetria,34.7727,32.5874,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,39.6,,,4,Asia/Nicosia,FALSE,1196377912
+"Krítou Téra","Kritou Tera","Girit Tera|Kritu Terra|Kritou Terra",34.9551,32.4220,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,10.9,,,4,Asia/Nicosia,FALSE,1196470540
+Trimithoúsa,Trimithousa,"Trimituşa|Trimithousa Khrysokhou|Tremithousa|Tremythousa|Uzunmeşe",34.9741,32.4873,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.4,,,4,Asia/Nicosia,FALSE,1196631305
+Zanakiá,Zanakia,Zanaja|Zanaca|Sanaya,34.7304,32.8755,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,78.2,,,4,Asia/Nicosia,FALSE,1196119033
+Angastína,Angastina,Arslanköy|Aslanköy,35.2033,33.5878,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196351258
+Vyzakiá,Vyzakia,Vizaca|Vizacia|Visakia|Vizakia|Vizakya|Vyzakıa,35.0785,33.0143,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,38.9,,,4,Asia/Nicosia,FALSE,1196939806
+Karákoumi,Karakoumi,"Karskoumi|Karokomi Chiftlik|Karakum",35.3340,33.3478,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196405268
+"Káto Kivídes","Kato Kivides","Kato Kividhes|Kato Civiya|Aşağı Alsandık",34.7647,32.8638,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,2.4,,,4,Asia/Nicosia,FALSE,1196940409
+Órga,Orga,Kayalar,35.3582,33.0332,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196878125
+"Agía Varvára","Agia Varvara","Ayia Varvara|Ayvaryara|Ayvarvara",34.9969,33.3695,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,134.7,,,4,Asia/Nicosia,FALSE,1196488444
+Óvgoros,Ovgoros,Ergazi,35.3659,33.9384,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196742103
+Aredioú,Arediou,Aradiou|Aradhiou|Aradyu|Arediu|Aratyu|Aredyu|Aredhiou,35.0484,33.1961,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,114.2,,,4,Asia/Nicosia,FALSE,1196850048
+Koloni,Koloni,Yolüstü,34.7523,32.4649,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,313.5,,,3,Asia/Nicosia,FALSE,1196335171
+Armenochóri,Armenochori,Armenokhori|Bulgurlu|Armenehor|Armenohori|Armenohor|Esenköy,34.7444,33.1291,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,33.9,,,4,Asia/Nicosia,FALSE,1196786237
+Vitsáda,Vitsada,Vitsadha|Pınarlı,35.2443,33.6466,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196064981
+Koilánemos,Koilanemos,Kilanemos|Kilamenos|Cilanemos|Ceylani|Kilanimos|Cilanemo|Esenköy,35.4908,34.1420,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196527559
+"Ágios Symeón","Agios Symeon","Ayios Symeon|Saint Symeon|Aysimyo|Avtepe",35.4910,34.2185,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196773776
+Mamónia,Mamonia,Mamonya,34.7696,32.6369,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,8.0,,,5,Asia/Nicosia,FALSE,1196019710
+Ampelikoú,Ampelikou,Ambelikou|Ambeliku|Bağlıköy,35.1203,32.8040,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196638507
+Tersefánou,Tersefanou,Tersephanou|Tersefan|Tersofanu,34.8541,33.5475,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,85.3,,,4,Asia/Nicosia,FALSE,1196580981
+"Ágios Ermólaos","Agios Ermolaos","Ayios Ermolaos|Sirimevler|Saint Ermilaos|Avios Ermolaos|Ayirmola|Şirinevler",35.2781,33.1725,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196512571
+Lakkí,Lakki,Latsi|Lachi|Laççi|Latzi,35.0409,32.3943,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,110.7,,,4,Asia/Nicosia,FALSE,1196394346
+Koúrdali,Kourdali,Kourdhali|Kurtali|Kurdali,34.9751,32.9501,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,6.4,,,4,Asia/Nicosia,FALSE,1196629354
+Koúrdaka,Kourdaka,Kourtaka|Kurtaka|Kurtağa|Kurdaka,34.8588,32.5404,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.0,,,4,Asia/Nicosia,FALSE,1196696084
+Letýmvou,Letymvou,Letimbou|Letimbu|Letimvou|Lelymbou|Lemitbu|Letymbou,34.8565,32.5137,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,32.3,,,4,Asia/Nicosia,FALSE,1196518658
+Prastió,Prastio,"Prasdyo|Prastyo|Prastion|Prastio Morphou|Aydinli|Aydınköy",35.1758,32.9396,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196153153
+Afánteia,Afanteia,Afanya|Aphaneia|Aranya|Aphania|Gaziköy,35.1577,33.5859,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196329496
+Prastió,Prastio,Prastyo|Prastion|Dörtyol,35.1754,33.7577,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196858087
+Avdímou,Avdimou,Evdim|Evdhimu|Evdhimou|Düzkaya,34.6941,32.7626,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,24.3,,,4,Asia/Nicosia,FALSE,1196318051
+Filoúsa,Filousa,"Philousa|Philousa Kelokedhara|Filusa",34.8525,32.7426,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,5.8,,,4,Asia/Nicosia,FALSE,1196866662
+Filoúsa,Filousa,"Philousa|Philousa Khrysokhou|Filusa",34.9742,32.5053,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,4.9,,,4,Asia/Nicosia,TRUE,1196558451
+Kalami,Kalami,Yalı,35.3938,33.7440,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196130041
+Psematisménos,Psematismenos,"Psematizmeno|Psematismeno|Yalancı köy",34.7673,33.3450,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,48.4,,,4,Asia/Nicosia,FALSE,1196681347
+Pródromos,Prodromos,Prodhromos|Prodromo,34.9487,32.8310,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,14.5,,,4,Asia/Nicosia,FALSE,1196707220
+Palaiométocho,Palaiometocho,"Paleometokho|Paleometokhi|Eskimetoş|Palæó Metókhi|Balyametoş|Paleomotoho|Palyometoho|Palaiometochon|Palaıometokho",35.1249,33.1910,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,119.3,,,4,Asia/Nicosia,FALSE,1196576471
+Chrysída,Chrysida,Bahçelivler|Khrysidha|Khrysida|Hrisidha|Beyköy|Krisida|Hirisida,35.2390,33.4840,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196014064
+Potamiá,Potamia,Bodamya|Potamya|Dereliköy,35.0422,33.4453,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,54.5,,,4,Asia/Nicosia,FALSE,1196734700
+"Ágios Sérgios","Agios Sergios","Aysergi|Ayasergi|Yenibosazici|Áyios Sergios|Ayios Seryios|Saint Sergios|Ayios Seryos|Yeniboğaziçi",35.1964,33.8742,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196847033
+Másari,Masari,Şahinler|Saninler,35.1865,33.0769,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196298420
+"Káto Akourdáleia","Kato Akourdaleia","Kato Akourdalya|Aşağıkardali|Kato Akourdhalia|Kato Akourdalia|Aşağı Akurdalya|Kato Akurdalia|Kato Akurdalya",34.9527,32.4511,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,40.5,,,4,Asia/Nicosia,FALSE,1196622076
+Meloúseia,Melouseia,Melousha|Pelitil|Meluşa|Kırıkkale,35.0777,33.5849,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,103.5,,,4,Asia/Famagusta,FALSE,1196220373
+Kivisíli,Kivisili,Kivisil|Cevizdali|Civisil|Cevriğil|Cevizli,34.8399,33.5051,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,17.7,,,4,Asia/Nicosia,FALSE,1196887650
+Dieróna,Dierona,Dhierona|Diyerona,34.8299,33.1111,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,6.4,,,5,Asia/Nicosia,FALSE,1196501056
+Giannitsaros,Giannitsaros,Yiannitsaros|Güzelyalı,35.3624,33.1189,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196133637
+Choirokoitía,Choirokoitia,Khirokitia|Skoritya|Şirokitkya|Hirokitiya,34.7967,33.3437,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,43.5,,,4,Asia/Nicosia,FALSE,1196731510
+"Ágios Amvrósios","Agios Amvrosios","Ayamvrasiyo|Ayamvrosio|Ayios Amvrosios|Ayios Evrosis",34.7802,32.8259,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,24.0,,,4,Asia/Nicosia,FALSE,1196437135
+"Ágios Amvrósios","Agios Amvrosios","Ayios Amvrosios|Saint Amvrosios|Ayia Grosh|Aykuruş|Esentepe",35.3390,33.5826,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196279505
+Mótides,Motides,Motidhes|Mothides|İncesu,35.3349,33.2073,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196719912
+Lýmpia,Lympia,Lymbia|Limbya|Limya|Limbia,34.9989,33.4617,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,136.3,,,4,Asia/Nicosia,FALSE,1196328427
+Kallépeia,Kallepeia,Kallepia|Gallepya|Ceyhan|Kallepya,34.8454,32.4999,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,38.7,,,4,Asia/Nicosia,FALSE,1196924702
+Fterikoúdi,Fterikoudi,Phterikhoudhi|Phterikoudhi|Phterykoudi|Fterikudi,34.9436,33.0688,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,6.1,,,4,Asia/Nicosia,FALSE,1196564474
+Kelláki,Kellaki,Cellaci,34.8165,33.1583,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,35.3,,,4,Asia/Nicosia,FALSE,1196195868
+Foiní,Foini,Phini|Fini,34.8924,32.8378,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,15.5,,,4,Asia/Nicosia,FALSE,1196107772
+Anágeia,Anageia,Anagyia|Anaya|Anayia,35.0756,33.2543,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,306.1,,,3,Asia/Nicosia,FALSE,1196617224
+Marátha,Maratha,Marata|Muratağa|Şehitler,35.2118,33.7769,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196979708
+Parekklisiá,Parekklisia,Pareklisha|Pareklişa|Parekklisha,34.7425,33.1603,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,207.5,,,3,Asia/Nicosia,FALSE,1196656117
+"Selládi tou Áppi","Selladi tou Appi","Selain T’appi|Kayadibi|Selçuklu|Sellayi tu Appı|Selain t’ Api|Sellain d’Api",35.1566,32.6196,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,0.9,,,4,Asia/Nicosia,FALSE,1196645172
+Fasoúla,Fasoula,Phasoula|Fasula|Fasulla|Bağrıkara,34.7612,32.6253,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,8.1,,,4,Asia/Nicosia,FALSE,1196256896
+Fasoúla,Fasoula,Fasoulla|Phasoula|Phasoulla|Fasulla|Fasula,34.7639,33.0272,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,59.3,,,4,Asia/Nicosia,FALSE,1196476477
+Kyrá,Kyra,Mevlevi|Kira|Cira,35.2039,33.0603,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196948059
+Orníthi,Ornithi,"Orunta|Orniti|Tatli Sou|Ekmekciler|Ornita|Ornuta|Tavukçu|Ekmekçiler Damlari",35.1559,33.5721,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196580673
+Galinóporni,Galinoporni,"Kalepurnu|Kalé Bournou|Kaleburnu",35.5223,34.3018,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196745255
+Dýmes,Dymes,Dhymœs|Dhymes|Dimes|Dhymæs|Dime,34.9175,32.9839,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,25.7,,,4,Asia/Nicosia,FALSE,1196340791
+Margó,Margo,Kargı|Marko|Markon,35.0775,33.4914,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196605316
+Trimíklini,Trimiklini,Trimiklina|Trimiklin,34.8472,32.9123,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,72.3,,,4,Asia/Nicosia,FALSE,1196330280
+Kédares,Kedares,Kedhares|Ciyares|Kedera|Kedhare|Çığır,34.8362,32.7363,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,20.2,,,4,Asia/Nicosia,FALSE,1196890958
+Alaminós,Alaminos,Alamino|Alaminyo|Alaminya,34.8071,33.4334,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,42.6,,,4,Asia/Nicosia,FALSE,1196622318
+"Páno Zódeia","Pano Zodeia","Yukarı Bostancı|Yukarı Zodya|Yukarı Zotya|Páno Zodia|Pano Zodhia",35.1636,33.0158,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196177923
+Pérgamos,Pergamos,Pergama|Beyarmudu,35.0417,33.7083,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,10.4,,,4,Asia/Famagusta,FALSE,1196844981
+Asgáta,Asgata,Azgata,34.7793,33.2553,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,22.2,,,4,Asia/Nicosia,FALSE,1196489715
+Marí,Mari,"Tatlısu|Tatli Sou",34.7411,33.2991,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,12.8,,,4,Asia/Nicosia,FALSE,1196222189
+Tála,Tala,Dalâ,34.8374,32.4327,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,673.9,,,3,Asia/Nicosia,FALSE,1196534947
+"Ágios Ioánnis Selémani","Agios Ioannis Selemani","Selemani|Ayyanni|Agios Ioannis|Ayios Ioannis|Süleymaniye",35.1333,32.7000,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,64.2,,,4,Asia/Nicosia,FALSE,1196881200
+Mouttagiáka,Mouttagiaka,Moutayiaka|Mutlayaka|Muthiyaka|Mutayaka|Muttayaka|Moutayaka|Mutluyaka,34.7202,33.1007,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,651.2,,,3,Asia/Nicosia,FALSE,1196818173
+Vavatsiniá,Vavatsinia,Vavatsinya,34.8933,33.2285,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,5.3,,,5,Asia/Nicosia,FALSE,1196167412
+Gaïdourás,Gaidouras,Gaidhouras|Gayidura|Gaydura|Gaidhoura|Korkuteli,35.1672,33.7891,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196977709
+Vása,Vasa,"Vasa Kilani",34.8329,32.7918,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,26.0,,,4,Asia/Nicosia,FALSE,1196358043
+Vása,Vasa,"Vasa Limassol",34.8028,33.2153,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,5.8,,,5,Asia/Nicosia,TRUE,1196669061
+"Mésa Chorió","Mesa Chorio","Mesa Khorio|Mesahoryo|Mesa Chorion|Mesa Khorion|İçköy",34.8092,32.4614,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,230.3,,,3,Asia/Nicosia,FALSE,1196512154
+Dorá,Dora,Dhora|Dhor,34.7807,32.7383,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,6.8,,,5,Asia/Nicosia,FALSE,1196063345
+Platanissós,Platanissos,Platanisso|Blâdanisyo|Balalau|Balalan,35.4787,34.1068,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196651290
+Xyliátos,Xyliatos,Xyliatou|Xyliato|Ksilyado|Ksilyato|Ksiliatos,35.0298,33.0434,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,9.6,,,4,Asia/Nicosia,FALSE,1196550864
+"Páno Koutrafás","Pano Koutrafas","Pano Koutraphas|Pano Koutrapha|Yukarı Kutrafas|Pano Kutrafa|Yukarı Kurtboğan",35.0960,32.9894,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,2.1,,,4,Asia/Nicosia,FALSE,1196581879
+Asómatos,Asomatos,Asomalos|Asomato|Asomados|Gözügüzel,34.6377,32.9596,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,146.7,,,4,Asia/Nicosia,FALSE,1196404847
+Máronas,Maronas,Marona|Uluçam,34.7683,32.6669,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,0.8,,,5,Asia/Nicosia,FALSE,1196306915
+Diórios,Diorios,Dhiorios|Diyoriyos|Yorgoz|Tepebaşı,35.3057,33.0548,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196055154
+Palodeia,Palodeia,Palodhia|Palodiya|Palodya,34.7450,33.0058,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,349.7,,,3,Asia/Nicosia,FALSE,1196839967
+Delíkipos,Delikipos,Delikipo|Delicipo|Dilicibo,34.9165,33.3635,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,21.7,,,4,Asia/Nicosia,FALSE,1196825384
+Kápsalos,Kapsalos,"Küçük Erenköy",35.3632,33.6702,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196765703
+Pentágeia,Pentageia,Pendayia|Pendaya|Bendaya|Yeşilyurt,35.1533,32.8848,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196685803
+Ammadiés,Ammadies,Günebakan|Amadhaes|Günebakan|Amadyez|Günecakar|Amadhies|Amadhiæs|Ammadhies,35.1568,32.7165,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,64.2,,,4,Asia/Famagusta,FALSE,1196913652
+Kanlí,Kanli,"Kanlıköy|Kanlı Chiftlik|Kanli Keuy",35.2217,33.2596,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196400553
+"Páno Flásou","Pano Flasou","Phlasou|Páno Vláso|Pano Phlasou|Yukarı Flasa|Vlaso|Pano Flasu|Flâsu",35.0689,32.8887,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,35.9,,,4,Asia/Nicosia,FALSE,1196222795
+"Lárnakas Lapíthou","Larnakas Lapithou","Larnakas tis Lapithou|Larnaka|Lapithos|Lapityu-Larnaka|Kozen|Kozan",35.3554,33.1979,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,3,Asia/Famagusta,FALSE,1196654312
+"Ágios Charíton","Agios Chariton","Ayios Khariton|Ayharita|Saint Khariton|Aykarida|Ayharida|Ergenekon",35.3053,33.6046,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196852791
+Agroládou,Agroladou,Agroladhou|Ağraladu|Ağroladu,35.0486,32.8970,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,63.1,,,4,Asia/Nicosia,FALSE,1196633008
+Kouká,Kouka,Kuka,34.8512,32.8879,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,74.2,,,4,Asia/Nicosia,FALSE,1196999459
+Lemóna,Lemona,,34.8625,32.5578,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.3,,,5,Asia/Nicosia,FALSE,1196966869
+"Agía Eiríni","Agia Eirini","Ayia Irini|Ayirini",34.9812,32.9695,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,3.8,,,5,Asia/Nicosia,FALSE,1196082406
+"Ágios Geórgios Kafkállou","Agios Georgios Kafkallou","Kafkallou|Agios Georgios tou Kafkallou|Ayios Yeoryios Kafkalou|Ayyorgi Kefkalu|Ayyorgi|Kafkalou|Kafkalu|Ayios Yeoryios",35.0375,33.0130,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,2.0,,,4,Asia/Nicosia,FALSE,1196603992
+Kaziverá,Kazivera,Ghaziveran|Gaziviran|Chaziveran|Gaziveran|Gaziveren,35.1717,32.9164,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196426421
+Tserkézoi,Tserkezoi,"Cherkez|Cherkes Plantation|Cherkes Chiftlik|Cherkes|Çerkez|Halsu Çerkez Çiftlik|Çerkez Çiftlik",34.6469,32.9737,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,95.6,,,4,Asia/Nicosia,FALSE,1196744421
+Monargá,Monarga,Deregeçit|Monagra|Monarka|Dağgeçit|Boğaztepe,35.3135,33.9476,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196732450
+Davlós,Davlos,Dhavlos|Kaplıca,35.4215,33.9052,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196664177
+Kolóssi,Kolossi,Burçiu|Kolos|Yunus|Burçlu,34.6705,32.9328,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,842.8,,,3,Asia/Nicosia,FALSE,1196000001
+Kokkinotrimithiá,Kokkinotrimithia,"Kokkini Trimithia|Koççinotrimitya|Kokkinotrimitya|Koçinodrimitya|Koççinno-Trimitya|Kokıno Trımıthıa",35.1530,33.1997,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,219.3,,,3,Asia/Nicosia,FALSE,1196824024
+"Dýo Potamoí","Dyo Potamoi","Diyopotamo|İkedere|Diyobodamo|Dhyo Potami",35.2464,33.0908,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196664988
+"Káto Plátres","Kato Platres","Káto Plátræs|Aşağı Platres",34.8782,32.8396,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,18.5,,,4,Asia/Nicosia,FALSE,1196334020
+Déneia,Deneia,Dhenia|Denya,35.1667,33.1460,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,33.6,,,4,Asia/Nicosia,FALSE,1196847031
+Peléndri,Pelendri,Pelendria|Belendri,34.8960,32.9682,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,30.6,,,4,Asia/Nicosia,FALSE,1196881722
+Orá,Ora,,34.8621,33.1956,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,8.5,,,5,Asia/Nicosia,FALSE,1196979847
+Korákou,Korakou,Koraku|Koralou,35.0411,32.8874,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,56.1,,,4,Asia/Nicosia,FALSE,1196353905
+Kapileió,Kapileio,Kapilio|Kapilyo|Kapilion|Kapileion,34.8325,32.9590,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3.8,,,4,Asia/Nicosia,FALSE,1196000353
+Ftéricha,Ftericha,Phterykha|Fteriha|Ilgaz,35.3228,33.2212,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196859467
+Monágri,Monagri,,34.8098,32.9106,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,27.5,,,4,Asia/Nicosia,FALSE,1196310465
+Skarínou,Skarinou,Skarinu|Skarino|Ortakonak,34.8223,33.3563,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,53.2,,,4,Asia/Nicosia,FALSE,1196735822
+Nikítas,Nikitas,Nikita|Nicida|Güneşköy,35.1763,32.9572,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196841493
+Loutrós,Loutros,Lutro|Bademliköy|Bağdemliköy,35.1458,32.7456,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196695463
+Bogázi,Bogazi,"Bogaz Trading Station|Boghaz|Boğaz",35.3136,33.9525,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196906070
+"Páno Díkomo","Pano Dikomo","Pano Dhikomo|Upper Dikomo|Yukarı Dikomo|Pano Dikomon|Yukarı Dikmen",35.2777,33.3218,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196109811
+"Ágios Efstáthios","Agios Efstathios","Ayios Efstathios|Ayistat|Ayios Evstathios|Ayevstatios|Ayastad|Zeybekköy",35.3893,34.0147,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196670144
+Pigí,Pigi,Piyi|Alaniçi,35.2267,33.7596,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196892380
+"Ágios Theódoros","Agios Theodoros","Saint Theodoros|Otluk|Ayios Theodhoros|Bozdağ|Aytotro|Aytotoro|Ayios Theodoros|Ayios Teodoros|Çayırova",35.3660,34.0288,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196401098
+Lófou,Lofou,Lophos|Lof|Lofu|Lofos,34.8160,32.8754,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,14.6,,,4,Asia/Nicosia,FALSE,1196065116
+"Ágios Theódoros","Agios Theodoros","Taşlidere|Ayios Theodhoros|Saint Theodoros|Aytotro|Aytotoro|Áyios Theódoros|Ayios Theodhoros Tillirias",35.1763,32.6417,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.9,,,4,Asia/Nicosia,FALSE,1196265263
+"Ágios Theódoros","Agios Theodoros","Aytotro|Ayios Theodhoros Soleas|Ayios Theodhoros",35.0423,32.9279,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.7,,,4,Asia/Nicosia,TRUE,1196708049
+"Ágios Theódoros","Agios Theodoros","Ayios Theodhoros|Aytotoro|Saint Theodoros|Boğaziçi|Ayios Teodoros|Áyios Theódoros",34.8002,33.3840,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,19.0,,,4,Asia/Nicosia,FALSE,1196876075
+"Ágios Theódoros","Agios Theodoros","Boğaziçi|Ayios Theodoros|Ayios Theodhoros",34.8958,33.0333,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,18.6,,,4,Asia/Nicosia,FALSE,1196125724
+"Káto Moní","Kato Moni","Kat Morı|Moni",35.0605,33.0941,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,27.3,,,4,Asia/Nicosia,FALSE,1196808887
+Evrétou,Evretou,Evretu|Dereboyu,34.9610,32.4833,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,0.8,,,5,Asia/Nicosia,FALSE,1196500320
+"Ágios Isídoros","Agios Isidoros","Ayios Isidhoros|Demirci|Aysidero|Aysederos",35.0003,32.4723,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,14.5,,,4,Asia/Nicosia,FALSE,1196976393
+Klonári,Klonari,,34.8259,33.1814,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,5.8,,,5,Asia/Nicosia,FALSE,1196791911
+Alóda,Aloda,Aloa|Altilar|Alodha|Atlılar,35.2107,33.8266,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196368777
+Melándra,Melandra,Beşiktepe|Beşikte,34.9890,32.5251,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,0.6,,,5,Asia/Nicosia,FALSE,1196319029
+Louvarás,Louvaras,Louvara|Luvara,34.8365,33.0402,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,33.1,,,4,Asia/Nicosia,FALSE,1196664387
+"Kouroú Monastíri","Kourou Monastiri","Kourou Monastir|Kuru Manastir|Çukurova",35.2240,33.5557,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196192823
+Katýdata,Katydata,Katydhata|Katidata|Kadidada|Katydata,35.0825,32.8879,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,14.2,,,4,Asia/Nicosia,FALSE,1196959440
+Epichó,Epicho,Epikho|Aboukhor|Abohor|Cihangir,35.2282,33.5126,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196461106
+Stroumpí,Stroumpi,Stroumbi|İstrumbi|Strumbi,34.8827,32.4819,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,45.7,,,4,Asia/Nicosia,FALSE,1196630992
+Mazotós,Mazotos,Mazoto,34.8038,33.4889,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,62.5,,,4,Asia/Nicosia,FALSE,1196142590
+Meloúnta,Melounta,Melounda|Melunda|Malounda|Mallıdağ,35.3326,33.6893,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196982317
+Koúklia,Kouklia,Köprü|Kukla|Köklü|Köprülü,35.1085,33.7507,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196451813
+"Pétra tou Digení","Petra tou Digeni","Petraduyeni|Yenije Keuy|Petra tou Dhiyeni|Yeniceköy",35.2380,33.5464,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196094528
+Nísou,Nisou,"Nisu|Nisuyu|Dizdar Keuy|Dizdarköy",35.0207,33.3935,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,365.6,,,3,Asia/Nicosia,FALSE,1196982660
+"Páno Amíantos","Pano Amiantos","Pano Amiandos|Yukarı Amyanto|Pano Amiyando|Pano Amiyando",34.9278,32.9173,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,25.3,,,4,Asia/Nicosia,FALSE,1196359130
+Apsioú,Apsiou,"Pano Aspiou|Kato Aspiou|Apsiu|Apsou|Apşu",34.7973,33.0167,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,10.8,,,4,Asia/Nicosia,FALSE,1196028677
+Sýgkrasi,Sygkrasi,Syngrasis|Singrası|Gölbasi|Synkrasi|Syngrassis|Syngrasi|Sygkrasis|Sınırüstü,35.2729,33.8523,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196734669
+Galiní,Galini,Ömerli,35.1361,32.7672,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196400859
+Asínou,Asinou,Asinu,35.0442,32.9723,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,14.1,,,4,Asia/Nicosia,FALSE,1196407308
+Salamioú,Salamiou,Salamiu|Salamyu,34.8412,32.6891,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,21.5,,,4,Asia/Nicosia,FALSE,1196562033
+Thérmeia,Thermeia,"Thermia|Dermiya|Termia|Termya|Termiya|Thermiá Chiftlík|Doğanköy",35.3276,33.3270,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196734027
+Verengaria,Verengaria,"Berengaria Village",34.6961,33.0054,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,1463.0,,,3,Asia/Nicosia,FALSE,1196567470
+Gialiá,Gialia,Yialia|Yalya|Yalia|Yayla,35.0966,32.5262,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.6,,,4,Asia/Nicosia,FALSE,1196485468
+Fylliá,Fyllia,Serhatköy|Philia|Serhadköy|Phylia|Filya,35.1882,33.0919,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196330793
+Koíli,Koili,Kili|Kyli|Cili,34.8600,32.4550,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,38.4,,,4,Asia/Nicosia,FALSE,1196615055
+Mersinníki,Mersinniki,Mersiniki|Mersinnikki|Mersinlik,35.3415,33.7246,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196243688
+Kaliána,Kaliana,Kalyana,35.0107,32.8835,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,23.0,,,4,Asia/Nicosia,FALSE,1196532220
+Mamoúntali,Mamountali,Soğucak|Mamoundali|Mamundali,34.9176,32.6188,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,11.0,,,4,Asia/Nicosia,FALSE,1196805076
+Moniátis,Moniatis,Monyat|Elmalı|Moniat,34.8680,32.8976,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,22.3,,,4,Asia/Nicosia,FALSE,1196091272
+Peristeróna,Peristerona,,34.9907,32.4890,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,67.1,,,4,Asia/Nicosia,FALSE,1196273382
+Peristeróna,Peristerona,"Piyi Peristerona|Alaniçi",35.2178,33.7610,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196371376
+Kiós,Kios,Kio|Istinjon|Tabanlı|Istinjo|Istingó|İstinco,34.9747,32.5273,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.1,,,4,Asia/Nicosia,FALSE,1196883239
+Prastió,Prastio,"Prastion|Prasyo|Prastyo|Prastio Evdhimou|Çeliktaş",34.7305,32.7788,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,20.8,,,4,Asia/Nicosia,FALSE,1196639360
+Prastió,Prastio,Prastion|Prastyo,34.8114,33.1429,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,12.0,,,4,Asia/Nicosia,TRUE,1196602388
+Mesógi,Mesogi,Mesoyi,34.8158,32.4554,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,451.6,,,3,Asia/Nicosia,FALSE,1196048483
+Sykópetra,Sykopetra,Sikopetra,34.8786,33.1125,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,7.7,,,5,Asia/Nicosia,FALSE,1196131411
+Gerása,Gerasa,Yerasa,34.8025,32.9980,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,5.9,,,5,Asia/Nicosia,FALSE,1196029708
+Ómodos,Omodos,Omodhos,34.8483,32.8089,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,26.2,,,4,Asia/Nicosia,FALSE,1196342186
+Sináoros,Sinaoros,"Sina Oros",35.0093,32.8993,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,42.4,,,4,Asia/Nicosia,FALSE,1196548714
+Goudí,Goudi,Goudhi|Gudi,34.9919,32.4418,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,62.0,,,4,Asia/Nicosia,FALSE,1196923567
+Kaminária,Kaminaria,Kaminara|Kaminarga|Kaminarya|Kominarga|Kaminarka,34.9283,32.7842,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,2.9,,,4,Asia/Nicosia,FALSE,1196354185
+"Kóma tou Gialoú","Koma tou Gialou","Komyalık|Komialik|Koma to Yialou|Komad Tuyalu|Komatuyalu|Kamyali|Koma tou Yialou|Kumyalı",35.4275,34.1310,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196127444
+Platymátis,Platymatis,Gözübüyük|Bladimat|Platimati,35.3233,33.5028,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196686144
+Mosfilotí,Mosfiloti,Mosphiloti,34.9526,33.4251,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,118.7,,,4,Asia/Nicosia,FALSE,1196434273
+Kalyvákia,Kalyvakia,Kalavas|Kalavaç,35.2582,33.5484,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196645947
+Anafotída,Anafotida,Anaphotia|Akkor|Anafodiya|Anafotia,34.8245,33.4631,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,75.8,,,4,Asia/Nicosia,FALSE,1196160359
+Vóni,Voni,Gökhan|Vani,35.2304,33.4961,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196522108
+Ýpsonas,Ypsonas,Ipsonas|İpsona,34.6833,32.9500,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,558.8,,,3,Asia/Nicosia,FALSE,1196341763
+Spília,Spilia,Spilya|İspilya,34.9668,32.9555,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,7.1,,,5,Asia/Nicosia,FALSE,1196229782
+"Templ Stoou","Templ Stoou",Templestowe,35.3115,33.3216,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196338047
+Lápathos,Lapathos,Lapatos|Lâpatoz|Boğaziçi,35.2700,33.8259,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196683373
+Skouriótissa,Skouriotissa,Sukuryotissa|Skuryotissa,35.0917,32.8841,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,33.0,,,4,Asia/Nicosia,FALSE,1196030048
+Eptakómi,Eptakomi,Eftakomi|Yedikonak|Ephtakomi|Yedikonuk,35.4465,34.0318,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196315600
+Pentákomo,Pentakomo,Pendakoma|Beşevler|Pentakomon|Pendakomo,34.7379,33.2408,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,51.0,,,4,Asia/Nicosia,FALSE,1196948705
+Akoursós,Akoursos,Akourso|Akurso|Akarsu,34.8864,32.4213,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.6,,,4,Asia/Nicosia,FALSE,1196605425
+Génagra,Genagra,Yenagra|Nergisli|Nergizli,35.2174,33.6981,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196293634
+Maliá,Malia,Malya|Koyunlu|Mallia|Koyuniu|Bağlarbaşı,34.8173,32.7826,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,16.6,,,4,Asia/Nicosia,FALSE,1196112700
+Mýrtou,Myrtou,Mirti|Camlıbel|Çamlıbel,35.3073,33.0710,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196435452
+Agírda,Agirda,Aghirda|Ağirda|Agridhi|Agirta|Ağırdağ,35.2974,33.2681,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196404902
+"Ágios Vasíleios","Agios Vasileios","Türkeli|Ayvasil|Ayios Vasilios|Saint Vasilios",35.2182,33.1852,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196213701
+"Ágios Nikólaos","Agios Nikolaos","Ayios Nikolaos|Aynikola|Esentepe",34.8624,32.7535,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.9,,,4,Asia/Nicosia,FALSE,1196731084
+"Ágios Nikólaos","Agios Nikolaos","Ayios Nikolaos",35.3751,33.7057,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196306430
+"Ágios Nikólaos","Agios Nikolaos","Saint Nicholaos|Aynikola|Ayios Nikolaos Lefkas|Ayios Nikolaos|Yamac|Madenköy",35.0911,32.8847,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Nicosia,FALSE,1196903223
+"Ágios IIías","Agios IIias","Ayios Elias|Saint Elias|Ayilya|Ayilia|Ay Ilia|Beyköy|Yarköy",35.3288,33.9282,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196877908
+Palaiómylos,Palaiomylos,Palyomilo|Palæomylos|Eskielma|Paleomilo|Paleomylos,34.9352,32.8221,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,5.7,,,4,Asia/Nicosia,FALSE,1196184386
+Santaláris,Santalaris,Sandalaris|Şehitler|Santalar|Sandallar,35.2104,33.8007,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196015615
+Athrakós,Athrakos,Adrakos|Atrako|Atrakos,34.8514,33.0491,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,21.3,,,4,Asia/Nicosia,FALSE,1196483712
+Kiónia,Kionia,Conya,34.9202,33.1975,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.1,,,5,Asia/Nicosia,FALSE,1196844546
+Foinikária,Foinikaria,Phinikaria|Finikarya|Finikari|Finikaria,34.7519,33.0978,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,37.6,,,4,Asia/Nicosia,FALSE,1196829434
+"Statós-Ágios Fótios","Statos-Agios Fotios","Stato-Ayfoti|Statos and Ayios Photios",34.8854,32.6215,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,14.5,,,4,Asia/Nicosia,FALSE,1196579330
+Lágeia,Lageia,Layia|Laya,34.8428,33.2470,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,3.0,,,5,Asia/Nicosia,FALSE,1196582178
+Softádes,Softades,Sophtadhes|Düzova|Softalar,34.8364,33.5506,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,71.1,,,4,Asia/Nicosia,FALSE,1196136825
+Kókkina,Kokkina,Koççina|Erenköy,35.1792,32.6117,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,1.5,,,5,Asia/Famagusta,FALSE,1196814349
+Alethrikó,Alethriko,Aletirke|Aletrike|Aletriko|Alethrikon,34.8604,33.4945,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,81.2,,,4,Asia/Nicosia,FALSE,1196342554
+Kotsiatis,Kotsiatis,Kochati|Kotchati|Koçyatağı|Koççat,35.0132,33.3501,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,83.5,,,4,Asia/Nicosia,FALSE,1196984406
+Sicharí,Sichari,Sygcharí|Sinchari|Sykhari|Kaynokkoy|Sihari|Kaynakköy|Aşağıtaşkent,35.2764,33.3812,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196880292
+Galáteia,Galateia,Galatya|Galatia|Mehmetçik,35.4227,34.0713,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196242902
+Asprogiá,Asprogia,Asproyia|Asproya|Aktepe,34.9221,32.6155,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.0,,,4,Asia/Nicosia,FALSE,1196182396
+Palaíkythro,Palaikythro,Balıkesır|Palekythro|Palikitre|Balikitre|Palaekythro,35.2075,33.4930,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196465662
+Praitóri,Praitori,Prætori|Pretori,34.8487,32.7458,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,7.6,,,5,Asia/Nicosia,FALSE,1196740706
+"Ágios Dimítrios","Agios Dimitrios","Ayios Dhimitrios|Ayios Dimitrios|Aydimitri",34.9261,32.8096,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,9.6,,,4,Asia/Nicosia,FALSE,1196589279
+Avgórou,Avgorou,Avgoru|Avgora|Avgoro|Avghorou,35.0362,33.8392,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,153.7,,,4,Asia/Nicosia,FALSE,1196250897
+Chóli,Choli,Kholi|Holi,34.9797,32.4434,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,44.7,,,4,Asia/Nicosia,FALSE,1196146441
+Pyrógi,Pyrogi,Gaziler|Pyroi|Gasiler|Piroi|Piroyi,35.0775,33.4914,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196822945
+Tími,Timi,Ovalık|Dimi,34.7328,32.5163,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,139.5,,,4,Asia/Nicosia,FALSE,1196762964
+"Káto Aródes","Kato Arodes","Kato Arodhes|Aşağı Arodes|Aşağı Kalkanlı|Arodhes Kato|Arodhes|Kato Arodesd|Aşağı Arodez",34.9406,32.4026,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,9.9,,,4,Asia/Nicosia,FALSE,1196048905
+Gýpsou,Gypsou,Gypsos|Yipsos|İpsos|Ipso|Akova,35.2598,33.7863,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196656942
+Klavdiá,Klavdia,Klavdhia|Klâvya|Alaniçi,34.8934,33.5149,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,19.6,,,4,Asia/Nicosia,FALSE,1196044990
+Trimíthi,Trimithi,Hamidiye|Tirmit|Trimiti|Edremit|Edrimit,35.3288,33.2598,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196101673
+Miliá,Milia,Milya,34.9197,32.5406,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,13.7,,,4,Asia/Nicosia,FALSE,1196151397
+Miliá,Milia,Milea|Milya|Mylea|Yıldırım,35.2394,33.7817,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196212177
+Angolémi,Angolemi,Angolem|Angolæmi|Angolœmi|Taşpınar,35.1181,32.9483,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196058935
+Mousoulíta,Mousoulita,Kurudera|Musulita|Kurudere,35.1930,33.6406,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196660921
+Karamoúllides,Karamoullides,Kervanyolu|Karamulyez|Karamulles|Karamulla|Karamulliyes|Karamoullidhes,35.0011,32.4426,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,55.5,,,4,Asia/Nicosia,FALSE,1196226342
+Skoúlli,Skoulli,Skulli,34.9809,32.4491,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,44.7,,,4,Asia/Nicosia,FALSE,1196320589
+Chandriá,Chandria,Khandria|Handriya|Handri|Kandriya,34.9439,32.9939,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,50.7,,,4,Asia/Nicosia,FALSE,1196200002
+Kannavioú,Kannaviou,Kanavya|Kannaviu|Kannavyu,34.9137,32.5722,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,27.3,,,4,Asia/Nicosia,FALSE,1196548277
+Pánagra,Panagra,Geçitköy,35.3340,33.0685,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196872671
+Vokolída,Vokolida,Vokolidha|Vogolida|Bafra,35.3796,34.0714,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196226743
+Trypiméni,Trypimeni,Delik|Tripimeni|Tirmen,35.3100,33.6336,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196525102
+Vothýlakas,Vothylakas,Vathylakas|Vathylakkas|Vatilaka|Vathylakka|Vatilakka|Derince,35.4834,34.1871,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196281215
+Mitseró,Mitsero,Mitseron|Mıtsero,35.0427,33.1240,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,41.2,,,4,Asia/Nicosia,FALSE,1196901512
+Psyllátos,Psyllatos,Psillatos|Psilatos|İpsillât|Sütlüce,35.2538,33.6873,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196124747
+Strongylós,Strongylos,Yuvarlak|Stroncilo|Strongylo|Turunçlu,35.1664,33.6392,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196073743
+Foínikas,Foinikas,Phinikas|Finike|Finikas,34.7526,32.5688,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,1.6,,,4,Asia/Nicosia,FALSE,1196919802
+Álona,Alona,,34.9337,33.0403,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,4.8,,,5,Asia/Nicosia,FALSE,1196367674
+Agridáki,Agridaki,Agridhaki|Ağridaki|Ağirdaki|Agrıdağı|Alemdağ,35.3072,33.1511,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196516058
+Lazaniás,Lazanias,Lazania|Lazanya,34.9487,33.1746,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,4.5,,,5,Asia/Nicosia,FALSE,1196161737
+Kannávia,Kannavia,Kannavya,34.9831,32.9769,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,5.4,,,5,Asia/Nicosia,FALSE,1196124962
+Soúni,Souni,Suni,34.7398,32.8811,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,78.2,,,4,Asia/Nicosia,FALSE,1196306372
+Odoú,Odou,Odhou|Odu,34.8850,33.1509,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,23.6,,,4,Asia/Nicosia,FALSE,1196311012
+"Kaló Chorió","Kalo Chorio","Kalokhorio|Kalon Chorion|Kalohoryo|Kalohorio",34.8502,33.0311,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,21.3,,,4,Asia/Nicosia,FALSE,1196185267
+Xerós,Xeros,Ksero,35.1395,32.8343,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196977248
+Chalévga,Chalevga,Halevga|Alevkaya,35.2854,33.5336,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196607565
+Eledió,Eledio,Eledhiou|Eledyu|Elediu|Eledyo|Eletyu,34.8094,32.5676,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,21.9,,,4,Asia/Nicosia,FALSE,1196483182
+Avgolída,Avgolida,Avgalidha|Kurtulug|Avgalida|Avgolidha|Kurtuluş,35.3548,33.9627,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196313772
+Katokopiá,Katokopia,"Zümrütköy|Kato Kopia|Katakopya|Kopia|Katokopya|Kadokopya",35.1742,33.0511,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196473638
+Kiádos,Kiados,Chatos|Çatköy|Çatoz|Serdarlı,35.2547,33.6012,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196460994
+"Ágios Epifánios","Agios Epifanios","Ayios Epiphanios|Aybifan|Saint Epiphanios|Agios Epiphanios|Ayios Epiphanios Soleas|Ayepifani|Esendağ",35.0638,32.8861,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,44.3,,,4,Asia/Nicosia,FALSE,1196273839
+"Ágios Epifánios","Agios Epifanios","Ayios Epiphanios|Saint Epiphanios|Ayepifani|Aybifan|Ayios Epiphanios Orinis",34.9951,33.1197,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,28.3,,,4,Asia/Nicosia,TRUE,1196212236
+Lemíthou,Lemithou,Lemithu|Lemitu,34.9494,32.8114,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,12.2,,,4,Asia/Nicosia,FALSE,1196150204
+Pentaliá,Pentalia,Pendelya|Pendalia|Pendalya,34.8555,32.6202,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,5.6,,,4,Asia/Nicosia,FALSE,1196164692
+"Agia Fylaxis","Agia Fylaxis","Saint Phyla|Ayia Fila|Aya Filya|Ayafila|Ayia Phyla",34.7167,33.0250,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3612.6,,,2,Asia/Nicosia,FALSE,1196202092
+"Ágioi Vavatsiniás","Agioi Vavatsinias","Ayii Vavatsinias|Saint Vavatsinia|Ayii Vavatsinia|Ayios Vavatsinia|Ay Vavatsinya|Ayvavaçinya|Ayias Vavatsinias|Agio Vavatsinias",34.8799,33.1914,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,6.5,,,4,Asia/Nicosia,FALSE,1196849859
+Psáthi,Psathi,Psati|Psahi,34.8982,32.5302,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,71.8,,,4,Asia/Nicosia,FALSE,1196167803
+Piléri,Pileri,Göçeri,35.2910,33.2179,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196985544
+Karavostási,Karavostasi,"Karavostas|Karavostassi|Gemi Konaghi|Gemikonağı",35.1381,32.8302,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196640052
+"Néa Dímmata","Nea Dimmata","Nea Dhimmata|Nea Dimmatya",35.1353,32.5215,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,27.8,,,4,Asia/Nicosia,FALSE,1196816653
+Korfí,Korfi,"Yeni Korfi|Korphi|Gorfi",34.7959,32.9648,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,43.3,,,4,Asia/Nicosia,FALSE,1196093798
+Flamoúdi,Flamoudi,Phlamoudhi|Flâmuda|Flamudi|Mersinlik,35.3966,33.8571,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196920048
+Émpa,Empa,Emba,34.8076,32.4240,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,687.8,,,3,Asia/Nicosia,FALSE,1196233279
+Spitáli,Spitali,Spitalli|İspitali,34.7634,33.0022,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,179.9,,,4,Asia/Nicosia,FALSE,1196822183
+Néta,Neta,Taşlıca,35.4696,34.2146,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196133328
+Vatilí,Vatili,Valili|Vadili,35.1334,33.6556,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196600234
+Gerontas,Gerontas,Yerondas,35.3645,33.0309,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196483374
+Stavrokónnou,Stavrokonnou,Stavrokono|Stavrokonno|Aydoğan,34.7852,32.6188,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.6,,,4,Asia/Nicosia,FALSE,1196342749
+Kalograía,Kalograia,Kalogrea|Kalorka|Kaloğria|Kallurga|Bahçeli,35.3379,33.6306,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196667972
+Platánia,Platania,Platanya,34.9482,32.9265,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,30.5,,,4,Asia/Nicosia,FALSE,1196676830
+Símou,Simou,Simu,34.9410,32.5037,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,30.3,,,4,Asia/Nicosia,FALSE,1196466902
+Pétra,Petra,Petre|Dereli|Taşköy,35.1086,32.9078,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,103.5,,,4,Asia/Famagusta,FALSE,1196783396
+"Káto Archimandríta","Kato Archimandrita","Kato Arkhimandrita|Kato Arhimandrita|Aşağı Arhimandrita",34.7354,32.6788,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,3.0,,,4,Asia/Nicosia,FALSE,1196287455
+Analióntas,Analiontas,Analjondas|Analiondas|Analionda|Analyonda,35.0067,33.2900,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,59.0,,,4,Asia/Nicosia,FALSE,1196732149
+Pelathoúsa,Pelathousa,Pelatusa|Pelathusa|Karaağaç,35.0274,32.4760,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,10.2,,,4,Asia/Nicosia,FALSE,1196992621
+Koúklia,Kouklia,"Palea Paphos|Palæa Paphos|Köprülü|Sakarya|Köprü|Kukla",34.6978,32.5920,Cyprus,CY,CYP,Páfos,Pafos,CY-05,district,,26.7,,,4,Asia/Nicosia,FALSE,1196105952
+Soularavia,Soularavia,,34.7467,32.9434,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,558.8,,,3,Asia/Nicosia,FALSE,1196259757
+"Ágioi Iliófotoi","Agioi Iliofotoi","Zeytinlik|Eliophotes|Ayii Eliophoti|Alifodez|Alifotes|Alifodes|Alihodes",35.0580,33.0928,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,27.3,,,4,Asia/Nicosia,FALSE,1196003992
+Avdelleró,Avdellero,Avdeleró|Avdeler|Avdhelleron|Avdhellero,35.0080,33.5705,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,17.0,,,4,Asia/Nicosia,FALSE,1196328319
+"Káto Drys","Kato Drys","Kato Dhrys|Drys|Kotodori|Katodris",34.8512,33.3042,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,10.5,,,4,Asia/Nicosia,FALSE,1196363433
+Moní,Moni,,34.7385,33.2019,Cyprus,CY,CYP,Lárnaka,Larnaka,CY-03,district,,114.8,,,4,Asia/Nicosia,FALSE,1196614349
+Sanída,Sanida,Sanidha|Sanidka,34.8075,33.1887,Cyprus,CY,CYP,Lemesós,Lemesos,CY-02,district,,3.7,,,5,Asia/Nicosia,FALSE,1196884031
+Limniá,Limnia,Limnya|Mormenekşe,35.1996,33.8586,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196618160
+Kármi,Karmi,Karni|Karaman,35.3182,33.2556,Cyprus,CY,CYP,Kerýneia,Keryneia,CY-06,district,,103.5,,,4,Asia/Famagusta,FALSE,1196472986
+Kalopsída,Kalopsida,Kalopsidha|Cakmali|Kalopsyda|Çayönü,35.0964,33.7940,Cyprus,CY,CYP,Ammóchostos,Ammochostos,CY-04,district,,103.5,,,4,Asia/Famagusta,FALSE,1196356268
+Linoú,Linou,Linu|Lınou,35.0744,32.8924,Cyprus,CY,CYP,Lefkosía,Lefkosia,CY-01,district,,27.9,,,4,Asia/Nicosia,FALSE,1196514054
