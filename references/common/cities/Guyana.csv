@@ -1,0 +1,533 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Georgetown,Georgetown,Demerara,6.8058,-58.1508,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,primary,1358.4,200500,200500,1,America/Guyana,FALSE,1328160906
+Linden,Linden,,6.0000,-58.3000,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,admin,123.5,29298,29298,2,America/Guyana,FALSE,1328531190
+"New Amsterdam","New Amsterdam",,6.2500,-57.5167,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,admin,783.7,17329,17329,2,America/Guyana,FALSE,1328195392
+"Anna Regina","Anna Regina",,7.2633,-58.4806,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,12448,12448,3,America/Guyana,FALSE,1328787362
+Princetown,Princetown,,5.9049,-57.1391,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,12000,12000,3,America/Guyana,FALSE,1328276701
+Bartica,Bartica,Barteke,6.4000,-58.6167,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,admin,7274.1,8532,8532,2,America/Guyana,FALSE,1328806426
+"Crabwood Creek","Crabwood Creek",,5.8500,-57.1500,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,33.4,4459,4459,4,America/Guyana,FALSE,1328657282
+Parika,Parika,,6.8588,-58.4252,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,463.5,4385,4385,3,America/Guyana,FALSE,1328442926
+"Rose Hall","Rose Hall","Rose Hall Town|Rose Hall Village",6.2532,-57.3571,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,253.9,3301,3301,3,America/Guyana,FALSE,1328556574
+Lethem,Lethem,"Bon Success|Lethen",3.3833,-59.8000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,admin,4.1,3000,3000,2,America/Guyana,FALSE,1328749920
+Uitvlugt,Uitvlugt,,6.8742,-58.3023,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,328.3,2980,2980,3,America/Guyana,FALSE,1328793386
+Rosignol,Rosignol,Rosignal,6.2736,-57.5403,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,46.2,2939,2939,3,America/Guyana,FALSE,1328064849
+Mahdia,Mahdia,,5.2825,-59.1500,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,admin,0.7,2563,2563,2,America/Guyana,FALSE,1328358422
+Kwakwani,Kwakwani,,5.2641,-58.0643,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,6.1,2504,2504,4,America/Guyana,FALSE,1328483693
+Skeldon,Skeldon,"Number 80|Skeldon Place",5.8833,-57.1333,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,2275,2275,4,America/Paramaribo,FALSE,1328038098
+"Mahaicony Village","Mahaicony Village",Mahaicony,6.5500,-57.8000,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,39.2,2000,2000,4,America/Guyana,FALSE,1328130733
+"Saint Cuthberts Mission","Saint Cuthberts Mission","Saint Cuthberts|Saint Cuthberts Village",6.3667,-58.0667,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,2.7,1700,1700,4,America/Guyana,FALSE,1328940998
+"Cane Grove","Cane Grove",,6.6167,-57.9167,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,98.2,1630,1630,4,America/Guyana,FALSE,1328576045
+"Windsor Forest","Windsor Forest",,6.8464,-58.2395,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,270.7,1602,1602,3,America/Guyana,FALSE,1328318898
+"Karasabai Village","Karasabai Village",Karasabai,4.0329,-59.5449,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,2.0,1600,1600,4,America/Guyana,FALSE,1328195791
+Charity,Charity,,7.4000,-58.6000,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,1485,1485,4,America/Guyana,FALSE,1328456510
+Paramakatoi,Paramakatoi,Paramahatoi,4.7167,-59.7000,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,5.9,1423,1423,4,America/Guyana,FALSE,1328537736
+Adventure,Adventure,,7.0833,-58.4833,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,1334,1334,4,America/Guyana,FALSE,1328571203
+Annandale,Annandale,,7.1669,-58.4831,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,15.0,1305,1305,4,America/Guyana,FALSE,1328990632
+Mabaruma,Mabaruma,,8.2000,-59.7833,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,admin,26.0,1254,1254,2,America/Guyana,FALSE,1328079873
+Clonbrook,Clonbrook,,6.7333,-57.9333,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,284.0,1193,1193,3,America/Guyana,FALSE,1328703404
+"Port Kaituma","Port Kaituma",Kaituma,7.7261,-59.8842,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,7.2,1152,1152,4,America/Guyana,FALSE,1328743562
+"Port Mourant","Port Mourant","Port Mourant Village",6.2500,-57.3333,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.9,1136,1136,4,America/Guyana,FALSE,1328135942
+Onderneeming,Onderneeming,,7.1006,-58.4815,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,1095,1095,4,America/Guyana,FALSE,1328202284
+Aishalton,Aishalton,"Aishalton Village|Ishalton",2.5167,-59.2500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,1069,1069,4,America/Guyana,FALSE,1328440304
+Karaudanawa,Karaudanawa,,2.4068,-59.4589,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.0,1053,1053,4,America/Guyana,FALSE,1328374061
+Orealla,Orealla,"Oreala|Orealla Mission",5.2972,-57.3472,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,981,981,4,America/Paramaribo,FALSE,1328121862
+"Den Amstel","Den Amstel","Amstel|Den Amstel Village",6.8500,-58.2500,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,242.2,938,938,3,America/Guyana,FALSE,1328684522
+"Santa Rosa Mission","Santa Rosa Mission","Santa Rosa",7.6500,-58.9500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,913,913,4,America/Guyana,FALSE,1328635409
+"Sand Creek Village","Sand Creek Village",,2.9952,-59.5198,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,2.3,834,834,4,America/Guyana,FALSE,1328516661
+"Marurawaunawa Village","Marurawaunawa Village",Marurawaunawa|Maruranau|Maruranawa,2.7468,-59.1599,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,830,830,4,America/Guyana,FALSE,1328574181
+Belladrum,Belladrum,,6.5017,-57.7014,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,777,777,4,America/Guyana,FALSE,1328442191
+Hosororo,Hosororo,Hossororo|Issororo,8.1667,-59.8000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,26.0,723,723,4,America/Guyana,FALSE,1328072121
+"Monkey Mountain","Monkey Mountain",,4.4522,-59.6028,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,2.8,711,711,4,America/Guyana,FALSE,1328559508
+Ituni,Ituni,"Itoni Township|Ituni Townsite",5.5333,-58.2500,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.9,676,676,3,America/Guyana,FALSE,1328501744
+"Hampton Court","Hampton Court","Hampton Court Estate|Hampton Court Plantation",7.3113,-58.4802,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,619,619,4,America/Guyana,FALSE,1328990668
+Awaruwaunawa,Awaruwaunawa,Awariwaunau,2.6426,-59.1919,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,600,600,4,America/Guyana,FALSE,1328082110
+Achiwib,Achiwib,"Achiwuib Village",2.3000,-59.5833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,586,586,4,America/Guyana,FALSE,1328435256
+"Kamwatta Hill","Kamwatta Hill",,8.1167,-59.8500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,565,565,4,America/Guyana,FALSE,1328443933
+Koriabo,Koriabo,,7.6167,-59.6333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,565,565,4,America/Guyana,FALSE,1328956123
+Yupukarri,Yupukarri,Yupukari|Eupukari,3.6618,-59.3557,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,548,548,4,America/Guyana,FALSE,1328407130
+Capoey,Capoey,,7.1932,-58.5340,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,56.2,523,523,4,America/Guyana,FALSE,1328110605
+Sawariwaunawa,Sawariwaunawa,Sawariwau,2.6732,-59.6537,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,521,521,4,America/Guyana,FALSE,1328777456
+"Saint Francis Mission","Saint Francis Mission",Moraikobe,6.0955,-57.9547,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,500,500,4,America/Guyana,FALSE,1328709462
+Kumaka,Kumaka,,7.6500,-58.9500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,497,497,4,America/Guyana,TRUE,1328755507
+Annai,Annai,Anwai,3.9500,-59.1333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,481,481,4,America/Guyana,FALSE,1328806330
+Queenstown,Queenstown,"Queenstown Village",7.1936,-58.4938,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,474,474,3,America/Guyana,FALSE,1328242284
+Vreed-en-Hoop,Vreed-en-Hoop,"Vreed en Hoop",6.8076,-58.1815,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,admin,1360.7,469,469,2,America/Guyana,FALSE,1328178268
+Kabakaburi,Kabakaburi,,7.2458,-58.7300,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,464,464,4,America/Guyana,FALSE,1328527329
+"Kato Village","Kato Village",Karto|Kato,4.6551,-59.8227,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,424,424,4,America/Guyana,FALSE,1328987066
+"Matthews Ridge","Matthews Ridge",,7.5000,-60.1667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,7.2,409,409,4,America/Guyana,FALSE,1328360616
+Dadanawa,Dadanawa,"Melvilles Ranch",2.8333,-59.5167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,391,391,4,America/Guyana,FALSE,1328904993
+Barakara,Barakara,"Barakara Mission",5.8450,-57.4650,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.2,350,350,4,America/Guyana,FALSE,1328009405
+Kamarang,Kamarang,,5.8653,-60.6142,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.3,347,347,4,America/Guyana,FALSE,1328159962
+"Woweta Village","Woweta Village",Woweta,3.9500,-59.1333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,332,332,4,America/Guyana,FALSE,1328502630
+Weldaad,Weldaad,,6.4875,-57.6833,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,285,285,4,America/Guyana,FALSE,1328620165
+Hiawa,Hiawa,,3.3899,-59.6288,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,278,278,4,America/Guyana,FALSE,1328850572
+"Santa Mission","Santa Mission",,6.5618,-58.3304,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,2.4,277,277,4,America/Guyana,FALSE,1328202047
+"Surama Village","Surama Village",Surama,4.1369,-59.0683,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,274,274,4,America/Guyana,FALSE,1328976497
+Apoteri,Apoteri,,4.0333,-58.5833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,271,271,4,America/Guyana,FALSE,1328242912
+Imbaimadai,Imbaimadai,,5.6925,-60.2820,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,2.8,246,246,4,America/Guyana,FALSE,1328893470
+"Hyde Park","Hyde Park",,6.5000,-58.2667,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,14.8,245,245,4,America/Guyana,FALSE,1328829767
+Rockstone,Rockstone,,5.9831,-58.5497,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.1,218,218,4,America/Guyana,FALSE,1328300105
+Zeelandia,Zeelandia,Zealandia,7.0167,-58.4500,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,211,211,4,America/Guyana,FALSE,1328631855
+"Paruima Mission","Paruima Mission",Paruima,5.8065,-61.0632,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.4,207,207,4,America/Guyana,FALSE,1328957997
+"Toka Village","Toka Village",Toka|Tuka,3.9115,-59.3844,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,207,207,4,America/Guyana,FALSE,1328128786
+Morawhanna,Morawhanna,,8.2667,-59.7500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,26.0,203,203,4,America/Guyana,FALSE,1328051473
+Konashen,Konashen,,1.6261,-58.6526,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,201,201,4,America/Guyana,FALSE,1328790586
+Arakaka,Arakaka,,7.5833,-60.0167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,7.2,196,196,4,America/Guyana,FALSE,1328032746
+Soesdyke,Soesdyke,,6.5458,-58.2359,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,48.1,156,156,4,America/Guyana,FALSE,1328056369
+"Essau and Jacob","Essau and Jacob","Esau and Jacob",6.4093,-57.7935,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,154,154,4,America/Guyana,FALSE,1328552376
+"Mora Point","Mora Point",,6.4349,-57.7850,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,153,153,4,America/Guyana,FALSE,1328259767
+Burma,Burma,,6.4639,-57.7597,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,137,137,4,America/Guyana,FALSE,1328161962
+"Fort Wellington","Fort Wellington",Wellington,6.4000,-57.6167,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,admin,79.6,118,118,2,America/Guyana,FALSE,1328483798
+Saxakalli,Saxakalli,"Saxsacali|Primrose Hill|Saxacalli",6.5833,-58.6167,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0.0,105,105,4,America/Guyana,FALSE,1328280109
+Pickersgill,Pickersgill,Pickersgil,7.2561,-58.7225,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,105,105,4,America/Guyana,FALSE,1328577773
+Karanambo,Karanambo,,3.7511,-59.3118,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.4,19,19,5,America/Guyana,FALSE,1328841413
+"Governor Light","Governor Light",,6.4500,-57.7833,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,11,11,4,America/Guyana,FALSE,1328769325
+Orinduik,Orinduik,,4.7000,-60.0167,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,3,3,5,America/Guyana,FALSE,1328660866
+Patentia,Patentia,,6.6985,-58.2001,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,177.8,,,4,America/Guyana,FALSE,1328056129
+Masabona,Masabona,,5.6000,-58.3833,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.4,,,5,America/Guyana,FALSE,1328954554
+"Old England","Old England",,5.9722,-58.2746,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,123.5,,,4,America/Guyana,FALSE,1328739183
+"Kowaeng Village","Kowaeng Village",Kowaeng,5.6500,-60.3000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.5,,,5,America/Guyana,FALSE,1328793995
+Apanachi,Apanachi,,5.6500,-59.2167,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.7,,,5,America/Guyana,FALSE,1328584041
+Kwabanna,Kwabanna,,7.5667,-59.1500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328728975
+Leeds,Leeds,,6.0549,-57.1761,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,50.9,,,4,America/Guyana,FALSE,1328892373
+Kamaria,Kamaria,,6.4167,-58.7667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328932688
+Caledonia,Caledonia,,7.0034,-58.4471,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328875198
+"Amamuri Village","Amamuri Village","Amamure Village",6.8000,-60.0167,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328673968
+"Number Two Courtland","Number Two Courtland","Courtland|Number 2",6.2785,-57.3916,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,265.4,,,3,America/Guyana,FALSE,1328621618
+"Red Hill Settlement","Red Hill Settlement",,7.8667,-59.4333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328863973
+Exmouth,Exmouth,,7.3458,-58.4876,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990638
+Wichabai,Wichabai,,2.8667,-59.5333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328020881
+Banakari,Banakari,,6.6139,-58.6276,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328951584
+Schoonord,Schoonord,Schoonoord,6.7850,-58.1953,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,222.2,,,3,America/Guyana,FALSE,1328201144
+"Number Sixty-one","Number Sixty-one","Number 61",5.9958,-57.1613,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328712291
+Sparta,Sparta,,7.3022,-58.4794,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990647
+Pubu,Pubu,,5.2333,-58.6167,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.2,,,5,America/Guyana,FALSE,1328556973
+"Saint Mary’s","Saint Mary's","Saint Mary",5.2000,-59.0167,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328344896
+"Takama Battle School","Takama Battle School",,5.6000,-57.9667,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.6,,,5,America/Guyana,FALSE,1328252819
+Kumaka,Kumaka,,5.5833,-57.9333,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.8,,,5,America/Guyana,FALSE,1328764046
+Craig,Craig,,6.6877,-58.1713,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,210.3,,,3,America/Guyana,FALSE,1328147970
+Tarlogie,Tarlogie,"Tarlogie Farm",6.1816,-57.2388,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,39.3,,,4,America/Guyana,FALSE,1328895004
+"La Jalousie","La Jalousie",,6.8497,-58.2497,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,254.8,,,3,America/Guyana,FALSE,1328287809
+"La Bagatelle","La Bagatelle",Bagatelle,6.6492,-57.9220,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,98.2,,,4,America/Guyana,FALSE,1328878348
+Somerset,Somerset,,7.4000,-58.5667,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328170913
+"Gordon Table","Gordon Table",,6.3922,-57.7922,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328789235
+Baramita,Baramita,,7.3500,-60.4833,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.1,,,5,America/Guyana,FALSE,1328240844
+Aberdeen,Aberdeen,,7.2274,-58.4852,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,133.0,,,4,America/Guyana,FALSE,1328990651
+Massara,Massara,"Massara Village",3.9000,-59.3000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328308264
+"Number Forty-six","Number Forty-six",,6.0833,-57.2000,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,50.9,,,4,America/Guyana,FALSE,1328223497
+"Number Sixty-six","Number Sixty-six","Number 66",5.9662,-57.1614,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328802653
+Keweigek,Keweigek,"Kaywaek Village|Kaywaek",5.9333,-60.6333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.3,,,5,America/Guyana,FALSE,1328221912
+Wineperu,Wineperu,,6.1760,-58.5848,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328169318
+Warida,Warida,,6.3156,-58.2861,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,6.3,,,5,America/Guyana,FALSE,1328294999
+"Grant Calvin","Grant Calvin",,7.4882,-58.6382,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990641
+Meritizero,Meritizero,Hart,3.7500,-59.5833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328984254
+Wastelands,Wastelands,,7.1521,-58.4788,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990629
+Arthurville,Arthurville,,6.9537,-58.4517,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328602474
+"Chenapowu Village","Chenapowu Village",,4.9167,-59.5667,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328666269
+Mortice,Mortice,,6.5176,-57.8160,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328926799
+Williamsburg,Williamsburg,,6.2448,-57.3627,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,854.8,,,3,America/Guyana,FALSE,1328044145
+"Number Sixty-three Benab","Number Sixty-three Benab","Number 63|Benab",5.9847,-57.1591,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328022544
+Sandhills,Sandhills,"Sand Hills",5.8120,-57.7403,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.0,,,5,America/Guyana,FALSE,1328905426
+"Akar Village","Akar Village",Akar,5.6833,-60.3167,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,1.5,,,5,America/Guyana,FALSE,1328744144
+"Issano Terminus","Issano Terminus",Issano,5.8138,-59.4239,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328924785
+"Fear Not","Fear Not",,7.2983,-58.4806,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990650
+Catherine,Catherine,,6.5486,-57.7473,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,,,4,America/Guyana,FALSE,1328150491
+Parikaranal,Parikaranal,Paricaranal,3.5667,-59.5833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328122781
+Mibikuri,Mibikuri,,6.1055,-57.2824,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,33.6,,,4,America/Guyana,FALSE,1328182621
+"Glasgow Village","Glasgow Village",Glasgow,6.5167,-58.2833,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,2.4,,,5,America/Guyana,FALSE,1328689364
+"Princess Carolina","Princess Carolina",,6.4893,-58.3036,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,4.5,,,5,America/Guyana,FALSE,1328727196
+"Number Sixty-two","Number Sixty-two",,5.9907,-57.1616,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328730354
+Manaka,Manaka,,6.7136,-58.6015,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,23.2,,,4,America/Guyana,FALSE,1328981478
+Simiri,Simiri,,7.2153,-58.6700,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328119186
+"Mountain Point","Mountain Point",,3.0000,-59.6333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328118528
+"Enachu Landing","Enachu Landing","Enachu Station|Enachu",6.1530,-60.0338,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328365600
+"Number Seventy-six Harriet","Number Seventy-six Harriet","Harriet|Number 76",5.9101,-57.1493,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Guyana,FALSE,1328282965
+"Manari Village","Manari Village",Manari,7.5167,-59.8333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328047891
+"Kukui-Eng Village","Kukui-Eng Village",Kukuieng,4.5833,-59.6667,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328190264
+"The Jib","The Jib",,7.3379,-58.4838,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,129.1,,,4,America/Guyana,FALSE,1328990643
+"Number Seventy-eight Mary and Eliza","Number Seventy-eight Mary and Eliza","Mary and Eliza|Eliza and Mary|Mary & Eliza|Number 78",5.8987,-57.1467,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,4,America/Guyana,FALSE,1328661630
+"La Resource","La Resource",,7.3904,-58.5304,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990621
+"Lucky Spot","Lucky Spot",,5.9652,-58.3173,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328764393
+"Kurukabaru Village","Kurukabaru Village",Kurikebary|Kurikebaru|Kurukabaru,4.7500,-59.8833,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,,,4,America/Guyana,FALSE,1328820395
+"Bel Air","Bel Air",,6.3169,-57.5564,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,302.5,,,3,America/Guyana,FALSE,1328978073
+"Taruma Village","Taruma Village",Taruma,2.0833,-58.3833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328525004
+Seafield,Seafield,,6.4808,-57.6739,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,56.4,,,4,America/Guyana,FALSE,1328674556
+Kwatata,Kwatata,Quatata,3.6333,-59.5000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328486964
+"Tipuru Village","Tipuru Village",Tipuru,4.2167,-59.5667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,2.0,,,5,America/Guyana,FALSE,1328733432
+"Number Seventy Massiah","Number Seventy Massiah","Massiah|Number 70",5.9402,-57.1661,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,87.3,,,4,America/Guyana,FALSE,1328582479
+"Belle Plaine","Belle Plaine",,6.9596,-58.4652,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328747597
+"Igupa Village","Igupa Village",Iguapa,7.4000,-59.2667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328099983
+"Number Forty-five","Number Forty-five",,6.1000,-57.2000,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,52.0,,,4,America/Guyana,FALSE,1328501712
+"Bush Lot","Bush Lot",,6.4063,-57.6185,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,79.6,,,4,America/Guyana,FALSE,1328179695
+Wakadanawa,Wakadanawa,,1.9833,-59.7167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328762513
+Manawarin,Manawarin,,7.5833,-58.8667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328079396
+"De Gezusters","De Gezusters",,6.7111,-58.2062,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,609.6,,,3,America/Guyana,FALSE,1328372803
+Westbury,Westbury,,7.3669,-58.5028,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990624
+"Barabina Hill","Barabina Hill",,8.2129,-59.8009,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,26.0,,,4,America/Guyana,FALSE,1328113119
+Mocha,Mocha,,7.1937,-58.4892,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990625
+"Saint Marys","Saint Marys",,6.2439,-58.5835,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328288735
+"Saint Edwards Mission","Saint Edwards Mission",,6.3713,-58.6981,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328732964
+Kaikan,Kaikan,,6.1833,-61.1333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,1.0,,,5,America/Guyana,FALSE,1328539825
+Pipillipai,Pipillipai,,5.5167,-60.4333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.5,,,5,America/Guyana,FALSE,1328186097
+Kalakun,Kalakun,"Kalakoon House|Kalkoon|Kalacoon",6.3884,-58.6531,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,31.6,,,4,America/Guyana,FALSE,1328937843
+Kumaka,Kumaka,,8.2000,-59.8000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,26.0,,,4,America/Guyana,FALSE,1328186595
+"Nappi Village","Nappi Village","Village Nappita",3.4147,-59.5760,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328902291
+"Shea Village","Shea Village",Shea|Shoa,2.8167,-59.1333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328795907
+Kitty,Kitty,,7.5385,-58.6716,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328703748
+"Sisipelin Village","Sisipelin Village",Sisipelin,4.6500,-59.5500,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328768546
+"Sand Hills","Sand Hills",,6.4786,-58.3141,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,5.8,,,5,America/Guyana,FALSE,1328358835
+"Urisirima Point","Urisirima Point","Urisirma Point|Urisirma",6.4342,-58.5939,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,7679.4,,,2,America/Guyana,FALSE,1328112851
+Whim,Whim,,6.2324,-57.3123,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,101.3,,,4,America/Guyana,FALSE,1328386647
+Machabo,Machabo,,7.0500,-58.5500,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328988406
+Makasima,Makasima,,7.2414,-58.7450,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990661
+Kurukuru-Baibari,Kurukuru-Baibari,,1.7333,-58.6167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328336463
+Columbia,Columbia,,7.2235,-58.4856,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990678
+Wiribisirikanali,Wiribisirikanali,,5.5000,-58.3833,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.4,,,5,America/Guyana,FALSE,1328217042
+"Kaibarupai Village","Kaibarupai Village",,3.5667,-59.8667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Boa_Vista,FALSE,1328859903
+Uit,Uit,,6.4523,-58.3028,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,15.7,,,4,America/Guyana,FALSE,1328936910
+"Bush Lot","Bush Lot",Bushlot,7.2535,-58.4835,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990620
+Alness,Alness,Alnes,6.2245,-57.2886,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,127.4,,,4,America/Guyana,FALSE,1328824627
+"Hoff Van Aurich","Hoff Van Aurich",,7.1848,-58.4963,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328735055
+Adelair,Adelair,,2.1333,-59.6333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328347037
+Islington,Islington,,6.2167,-57.5167,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,957.3,,,3,America/Guyana,FALSE,1328085956
+Suddie,Suddie,,7.1138,-58.4756,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328218873
+Joanna,Joanna,,6.0790,-57.2650,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,33.6,,,4,America/Guyana,FALSE,1328090480
+"Yepi Village","Yepi Village",,1.3500,-58.6667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328865763
+Harlem,Harlem,,6.8361,-58.2209,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,270.7,,,3,America/Guyana,FALSE,1328298262
+"Waramadon Village","Waramadon Village",Waramadan,5.8167,-60.7500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,6.9,,,5,America/Guyana,FALSE,1328644527
+Parabara,Parabara,,2.2167,-59.3000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,2.0,,,5,America/Guyana,FALSE,1328815444
+"Illimir Village","Illimir Village",,2.2667,-59.4500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328103594
+Tumareng,Tumareng,Tumereng|Tumureng,6.1667,-60.0500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328431970
+Simirie,Simirie,,6.5167,-58.5833,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0.0,,,5,America/Guyana,FALSE,1328251371
+Butukari,Butukari,Butakari,5.7414,-58.6131,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328595234
+"GNS Kimbia","GNS Kimbia",,5.6189,-57.7305,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328128669
+"Diamond Place","Diamond Place","Diamond|Great Diamond|Big Diamond",6.7227,-58.1771,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,579.0,,,3,America/Guyana,FALSE,1328435379
+Cullen,Cullen,,7.1604,-58.4799,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990619
+"Good Intent","Good Intent",,6.7171,-58.2055,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,609.6,,,3,America/Guyana,FALSE,1328505063
+Mubohina,Mubohina,,7.5833,-59.1333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328335675
+"Helena Number One","Helena Number One","Helena Number 1",6.6787,-57.9347,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,549.6,,,3,America/Guyana,FALSE,1328458921
+"Mount Everard","Mount Everard",,7.8167,-59.4667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328217695
+"Saint Ignatius","Saint Ignatius","Saint Ignatius Mission",3.3333,-59.8000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328420184
+Cajueiro,Cajueiro,McTurk,3.8000,-59.4000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328045206
+Pearl,Pearl,,6.5891,-58.2085,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,210.3,,,3,America/Guyana,FALSE,1328691839
+Lesbeholden,Lesbeholden,,6.1463,-57.3019,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,33.6,,,4,America/Guyana,FALSE,1328556609
+Kurachi,Kurachi,,6.8833,-60.2667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328249555
+Wariwau,Wariwau,"Wariwiau Village",2.7167,-59.2000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.5,,,5,America/Guyana,FALSE,1328900948
+"Number Seventy-seven","Number Seventy-seven","Number 77",5.9039,-57.1512,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,32.6,,,4,America/Guyana,FALSE,1328135299
+Kotoewau,Kotoewau,,2.3000,-59.1500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328604078
+Wai-Wai,Wai-Wai,,1.5833,-58.6500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328017243
+Richmond,Richmond,,7.2731,-58.4814,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990679
+Berks,Berks,,7.4000,-58.5667,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328046220
+"Tobago & Wauna Hill","Tobago & Wauna Hill",,8.1595,-59.8343,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,24.7,,,4,America/Guyana,FALSE,1328990623
+Canefield,Canefield,"Cane Field",6.2462,-57.4836,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,52.3,,,4,America/Guyana,FALSE,1328535653
+Amazon,Amazon,,7.3833,-58.5833,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,55.0,,,4,America/Guyana,FALSE,1328673882
+Brighton,Brighton,,6.1431,-57.2161,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,62.7,,,4,America/Guyana,FALSE,1328467670
+Jacoba,Jacoba,,6.4609,-57.6590,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,56.4,,,4,America/Guyana,FALSE,1328573854
+Makeshift,Makeshift,,7.0090,-58.4903,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,123.4,,,4,America/Guyana,FALSE,1328990645
+"Kamuda Village","Kamuda Village",Kamuda,5.6333,-60.3000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.5,,,5,America/Guyana,FALSE,1328689727
+Imprenza,Imprenza,,3.1333,-59.8333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328848698
+Dalli,Dalli,,6.4856,-58.5857,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0.0,,,5,America/Guyana,FALSE,1328060660
+Peropo,Peropo,,4.1333,-59.1167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,,,5,America/Guyana,FALSE,1328117859
+"First Savannah","First Savannah",,6.3622,-57.7948,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328310032
+Pakera,Pakera,,7.4907,-60.1506,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,7.2,,,5,America/Guyana,FALSE,1328989150
+"Elizabeth Ann","Elizabeth Ann",,6.4481,-58.2983,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,14.5,,,4,America/Guyana,FALSE,1328655041
+"Abrams Zuil","Abrams Zuil","Abram’s Zuil",7.1632,-58.4826,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990622
+Margot,Margot,,6.8142,-58.0627,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,594.5,,,3,America/Guyana,FALSE,1328164074
+Glasgow,Glasgow,,6.4963,-58.2947,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,2.4,,,5,America/Guyana,FALSE,1328692830
+"Arau Village","Arau Village",,6.4167,-61.1333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,3.0,,,5,America/Guyana,FALSE,1328289780
+Resource,Resource,,6.2400,-57.3409,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.9,,,4,America/Guyana,FALSE,1328504610
+Marakanata,Marakanata,,3.6000,-59.5500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328296669
+"Maria Johanna","Maria Johanna",,6.9415,-58.4623,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328514965
+"Ward village","Ward village",,6.0667,-57.1833,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,50.9,,,4,America/Guyana,FALSE,1328462655
+Eurowa,Eurowa,,7.3902,-58.5958,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328483620
+Macouba,Macouba,,6.3811,-57.7881,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328501523
+"Mon Desir","Mon Desir",,6.7209,-58.2568,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,63.6,,,4,America/Guyana,FALSE,1328979652
+"Sarah Johanna","Sarah Johanna",,6.5936,-58.2088,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,210.3,,,3,America/Guyana,FALSE,1328375609
+Awarabati,Awarabati,,6.8000,-60.8000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,4.8,,,5,America/Caracas,FALSE,1328916016
+Mainstay,Mainstay,,7.2331,-58.5386,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990648
+Perseverance,Perseverance,Perseverence,7.1459,-58.4758,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990671
+"Number Three Fyrish","Number Three Fyrish","Fyrish|Fyrish Village",6.2750,-57.3868,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,265.4,,,3,America/Guyana,FALSE,1328198232
+"Johi Village","Johi Village",Johi,1.8500,-58.5333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328644366
+Marlborough,Marlborough,,7.4938,-58.6438,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328586737
+Hibernia,Hibernia,,7.0206,-58.4886,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,123.4,,,4,America/Guyana,FALSE,1328990640
+Blairmont,Blairmont,"Blairmont Place",6.2570,-57.5398,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,36.1,,,4,America/Guyana,FALSE,1328365765
+Isherton,Isherton,,2.3167,-59.3667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328915306
+Beribisiballi,Beribisiballi,Beribissibali|Beribissiballi|Berebisibali|Berebisiballi,6.6609,-58.5658,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328212786
+Morowta,Morowta,,5.7500,-60.5833,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,2.1,,,5,America/Guyana,FALSE,1328579721
+Novar,Novar,,6.5540,-57.7633,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,41.4,,,4,America/Guyana,FALSE,1328690902
+Kwiokrebaru,Kwiokrebaru,,6.0167,-60.6500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.3,,,5,America/Guyana,FALSE,1328436357
+"Anna Catherina","Anna Catherina",,6.8564,-58.2740,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,412.2,,,3,America/Guyana,FALSE,1328128222
+"Number Sixty","Number Sixty","Number 60",5.9981,-57.1671,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328100066
+"Waipa Village","Waipa Village",,4.9333,-60.0000,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.7,,,5,America/Boa_Vista,FALSE,1328294502
+"Number Ten","Number Ten","Number 10",6.5685,-57.8863,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.2,,,5,America/Guyana,FALSE,1328331835
+Vilvoorden,Vilvoorden,,7.0350,-58.4893,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,123.4,,,4,America/Guyana,FALSE,1328990669
+"Wakakulud Village","Wakakulud Village",Wakakulud,1.3833,-58.7500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328690274
+"Number Forty","Number Forty","Number 40",6.4700,-57.6693,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,56.4,,,4,America/Guyana,FALSE,1328583494
+Makari,Makari,,4.5455,-58.5538,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.4,,,5,America/Guyana,FALSE,1328952125
+Stanleytown,Stanleytown,,6.7330,-58.2051,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,609.6,,,3,America/Guyana,FALSE,1328662869
+Brandwagt-Sari,Brandwagt-Sari,,5.9833,-57.6333,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.2,,,5,America/Guyana,FALSE,1328136129
+"Durung Bang","Durung Bang",Issororo,7.2547,-58.8808,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.2,,,5,America/Guyana,FALSE,1328623956
+Stanleytown,Stanleytown,,6.2347,-57.5126,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,922.2,,,3,America/Guyana,FALSE,1328578780
+Sirikie,Sirikie,,7.3000,-58.6667,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328087212
+"Lower Kamaria","Lower Kamaria",,6.4116,-58.7629,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328899492
+Kokadai,Kokadai,,5.7500,-60.5667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,2.7,,,5,America/Guyana,FALSE,1328433763
+"Surprise Hill","Surprise Hill",,7.8167,-59.8000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328489178
+Baramanni,Baramanni,Baramanna|Barimanni|Baramani,7.8384,-59.2161,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,1.8,,,4,America/Guyana,FALSE,1328977163
+"Oranapai Landing","Oranapai Landing",Oranapai|Oranopai,6.0721,-59.9178,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328493531
+Opposite,Opposite,,7.3930,-58.5443,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990658
+Morasi,Morasi,,6.7643,-58.4912,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,25.9,,,4,America/Guyana,FALSE,1328127869
+Dublin,Dublin,,7.4495,-58.6142,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990618
+"Mariwa Village","Mariwa Village","Muriwa Village",3.0500,-59.6667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328057348
+"Waikerebi Mission","Waikerebi Mission",,7.5333,-59.4000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328025778
+"Waioklepaluta Village","Waioklepaluta Village",Waioklepalul,5.4531,-60.1572,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.5,,,5,America/Guyana,FALSE,1328882283
+Dageraad,Dageraad,,7.1928,-58.5002,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990681
+Paradise,Paradise,,6.5031,-57.6955,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,,,4,America/Guyana,FALSE,1328440658
+"Yepu Village","Yepu Village",,1.3667,-58.6333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328664484
+"Saint Bede’s Mission","Saint Bede's Mission","Saint Bedes",7.5667,-59.4667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328425711
+"Macusi Village","Macusi Village",,3.0667,-59.7167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328664991
+Dartmouth,Dartmouth,,7.3648,-58.4995,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328082853
+Surumatra,Surumatra,,4.1667,-59.0667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,,,5,America/Guyana,FALSE,1328464491
+"Taymouth Manor","Taymouth Manor","Taymouth Manor Plantation",7.2101,-58.4864,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990626
+Kokerite,Kokerite,"Kokerit|Kokerit Landing",7.3338,-59.5900,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328266396
+"Gold Hill","Gold Hill",,6.0813,-58.3028,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328343934
+"Big Baiabu","Big Baiabu","Big Biaboo|Biabu|Baiabu|Big Baiabo|Big Biabu",6.5500,-57.8833,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.1,,,4,America/Guyana,FALSE,1328447146
+"Good Hope","Good Hope",,6.4167,-58.2922,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,2.4,,,5,America/Guyana,FALSE,1328743041
+"Loo Lands","Loo Lands","Loo Land|Het Loo",6.2543,-58.2736,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,17.3,,,4,America/Guyana,FALSE,1328577333
+Warimure,Warimure,,2.9333,-59.4833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328561440
+"Good Hope","Good Hope",Goldspie,6.1000,-57.2000,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,52.0,,,4,America/Guyana,FALSE,1328709496
+Lanaballi,Lanaballi,,6.6179,-58.5726,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328148805
+Kalkuni,Kalkuni,,5.5500,-57.9167,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.9,,,5,America/Guyana,FALSE,1328220615
+"Santa Cruz","Santa Cruz",,7.6500,-59.2333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328411408
+"Phoenix Town","Phoenix Town",,6.8000,-58.2000,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,899.4,,,3,America/Guyana,FALSE,1328643291
+"Fort Canje","Fort Canje",,6.2623,-57.5099,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,688.4,,,3,America/Guyana,FALSE,1328561786
+Malali,Malali,,5.6167,-58.3500,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.4,,,5,America/Guyana,FALSE,1328491489
+"Kataliriwau Outstation","Kataliriwau Outstation",,2.8167,-59.2500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328867455
+"Land of Canaan","Land of Canaan",,6.6020,-58.2000,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,210.3,,,3,America/Guyana,FALSE,1328911354
+Tuschen,Tuschen,,7.5999,-58.7396,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328337207
+Belfield,Belfield,,7.1094,-58.4803,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990636
+Dora,Dora,,6.3362,-58.2306,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,17.5,,,4,America/Guyana,FALSE,1328396903
+"Konoro Village","Konoro Village","Konora Village",7.2500,-60.0167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.1,,,5,America/Guyana,FALSE,1328617452
+Ipotaikuru,Ipotaikuru,,7.4333,-59.6000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328242198
+"Windsor Castle","Windsor Castle",,7.3076,-58.4797,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990673
+"Number Sixty-five New Market","Number Sixty-five New Market","Number 65|New Market",5.9739,-57.1563,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,65.3,,,4,America/Guyana,FALSE,1328410003
+"Number Sixty-four Babylon","Number Sixty-four Babylon","Number 64|Babylon",5.9793,-57.1579,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.3,,,4,America/Guyana,FALSE,1328431652
+"Chinese Landing","Chinese Landing",,7.5167,-59.5500,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328289860
+"Low Wood","Low Wood","Lowood|Hai Maruni",6.4253,-58.2876,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,16.4,,,4,America/Guyana,FALSE,1328537017
+Nile,Nile,,7.4788,-58.6290,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990672
+Java,Java,,6.1333,-57.2000,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,62.7,,,4,America/Guyana,FALSE,1328159227
+Haswell,Haswell,,6.2407,-57.3444,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.9,,,4,America/Guyana,FALSE,1328595433
+"Number Forty-one","Number Forty-one","Number 41",6.4739,-57.6727,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,56.4,,,4,America/Guyana,FALSE,1328016468
+Wiapri,Wiapri,,4.9500,-59.9833,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.8,,,5,America/Guyana,FALSE,1328824199
+"Karisparu Village","Karisparu Village",,4.9167,-59.4500,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328205474
+"Kwaimatta Village","Kwaimatta Village","Kwaiwatta Village|Kwaimatta|Kwamatta",3.8167,-59.3333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,4,America/Guyana,FALSE,1328690541
+"Number Seventy-five Spring Garden","Number Seventy-five Spring Garden","Number 75|Spring Garden",5.9129,-57.1606,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,237.2,,,3,America/Guyana,FALSE,1328234849
+Queenstown,Queenstown,,5.8937,-57.1495,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Guyana,FALSE,1328744070
+Perth,Perth,,7.3562,-58.4932,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328861941
+"Three Friends","Three Friends",,7.2310,-58.4850,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,133.0,,,4,America/Guyana,FALSE,1328990676
+Bartica,Bartica,,5.7877,-57.6280,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.0,,,5,America/Guyana,FALSE,1328593862
+Riverstown,Riverstown,,7.0669,-58.4822,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328797663
+Jackson,Jackson,,7.4716,-58.6214,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990655
+"Sinclair Landing","Sinclair Landing",,7.7740,-59.8313,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328134734
+Alliance,Alliance,,6.5027,-58.2792,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,16.2,,,4,America/Guyana,FALSE,1328990684
+"Sans Souci","Sans Souci",,6.4415,-58.2923,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,4.4,,,5,America/Guyana,FALSE,1328707986
+Dawa,Dawa,,7.2129,-58.6103,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328951287
+"Saint Benedict Mission","Saint Benedict Mission",,7.8167,-59.8333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328772738
+Scottsburg,Scottsburg,,5.9117,-57.1381,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Paramaribo,FALSE,1328484677
+"Number Seventy-three Clonbrook","Number Seventy-three Clonbrook","La Printemps|Clonbrook|Number Seventy-three La Printemps|Number 73",5.9235,-57.1630,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,97.0,,,4,America/Guyana,FALSE,1328656340
+Wales,Wales,"De Jonge Rachael",6.7000,-58.2000,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,609.6,,,3,America/Guyana,FALSE,1328573297
+"Fort Nassau","Fort Nassau",,5.7583,-57.6574,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328441877
+Holmia,Holmia,,4.9667,-59.5833,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,2.1,,,5,America/Guyana,FALSE,1328314188
+Aurora,Aurora,Dorchester,6.4300,-58.2924,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,2.4,,,5,America/Guyana,FALSE,1328742891
+Riverview,Riverview,,6.4384,-58.5925,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,7679.4,,,2,America/Guyana,FALSE,1328525331
+"Bara Bara","Bara Bara",,6.4533,-57.7801,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,,,4,America/Guyana,FALSE,1328288694
+"Assura Village","Assura Village",,5.8167,-59.6500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328646955
+"Monkey Jump","Monkey Jump",,6.2500,-58.5667,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.1,,,5,America/Guyana,FALSE,1328482975
+Poterima,Poterima,,6.2851,-58.5851,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328023333
+Opadai,Opadai,,5.4333,-60.5833,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328284501
+"Sabernawau Village","Sabernawau Village",,2.3333,-59.2333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328421003
+"Kurutuku Village","Kurutuku Village",,6.9000,-60.3000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328886374
+"Ipisiau Village","Ipisiau Village",Ipisháu|Ipichau,4.8833,-60.0167,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.8,,,5,America/Boa_Vista,FALSE,1328848375
+Patientia,Patientia,"Gold Mine",6.5399,-58.6185,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0.0,,,5,America/Guyana,FALSE,1328757713
+Vergenoegen,Vergenoegen,,6.8782,-58.3579,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,398.0,,,3,America/Guyana,FALSE,1328889619
+"Walton Hall","Walton Hall",,7.3304,-58.4814,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,141.7,,,4,America/Guyana,FALSE,1328990654
+Pirara,Pirara,,3.6167,-59.6667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328728873
+Melville,Melville,,6.9667,-58.4667,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328692676
+"Upper Kamaria","Upper Kamaria",,6.4309,-58.8009,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328861830
+Takama,Takama,Coomacka|Tacama|Kumaka,5.5667,-57.9167,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,4,America/Guyana,FALSE,1328357499
+"Number Sixty-seven","Number Sixty-seven","Number 67",5.9633,-57.1549,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,34.4,,,4,America/Guyana,FALSE,1328512304
+Daniel,Daniel,Danielstown,7.2992,-58.4802,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328626319
+Middlesex,Middlesex,,7.0413,-58.4872,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,123.4,,,4,America/Guyana,FALSE,1328990677
+Adventure,Adventure,,7.4870,-58.6400,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,TRUE,1328990653
+Bethany,Bethany,,6.7964,-58.6033,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328980749
+"Hawkins Mission","Hawkins Mission",,3.4833,-59.5500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328181593
+"Mamir Pawa","Mamir Pawa",,1.9667,-59.7333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328955498
+Andrews,Andrews,,7.3817,-58.5178,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990635
+"La Juanita","La Juanita",Juanita,7.9500,-60.2167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,1.7,,,5,America/Guyana,FALSE,1328702747
+"Belle Vue","Belle Vue",,7.4550,-58.6149,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990642
+Fairfield,Fairfield,,7.0310,-58.4858,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,123.4,,,4,America/Guyana,FALSE,1328990682
+"Number Twelve","Number Twelve","Number 12",6.3566,-57.5831,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,424.1,,,3,America/Guyana,FALSE,1328487489
+"Number Twelve","Number Twelve","Number 12",6.5374,-57.7927,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,33.4,,,4,America/Guyana,TRUE,1328636778
+"Bon Success","Bon Success","Bom Sucesso",3.3833,-59.8000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328777950
+"Santa Fe","Santa Fe","Santa Fé Ranch",3.7833,-59.6000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328097902
+Waruma,Waruma,"Waruma Outstation",3.1000,-59.9000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328330752
+Lorenza,Lorenza,,6.7000,-58.2000,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,609.6,,,3,America/Guyana,FALSE,1328937985
+Lana,Lana,,6.4939,-58.2878,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,15.5,,,4,America/Guyana,FALSE,1328043516
+"Ambrose Village","Ambrose Village",Patarinau,3.0333,-59.7667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328920845
+Akwero,Akwero,Aqueero|Acquero,7.6500,-58.9333,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328386553
+Sarah,Sarah,,6.9678,-58.4578,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,92.3,,,4,America/Guyana,FALSE,1328899397
+Hororabo,Hororabo,,6.2833,-58.7333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328101523
+"Golden Grove","Golden Grove",,6.7035,-58.1831,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,578.6,,,3,America/Guyana,FALSE,1328611357
+"Moca Moca","Moca Moca",Mocomoco,6.4745,-57.7868,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,,,4,America/Guyana,FALSE,1328085225
+Mongreppo,Mongreppo,,6.3977,-58.6208,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,418.7,,,3,America/Guyana,FALSE,1328507592
+Zion,Zion,Sion,5.6833,-57.8500,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328049697
+"Number Seventy-one Little Massiah","Number Seventy-one Little Massiah","Little Massiah|Number 71",5.9356,-57.1582,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Guyana,FALSE,1328223520
+"Arnik Village","Arnik Village",,5.0167,-59.5333,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,4.3,,,5,America/Guyana,FALSE,1328673327
+"Devonshire Castle","Devonshire Castle",,7.3258,-58.4815,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990630
+"La Grange","La Grange",,6.7747,-58.2077,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,758.1,,,3,America/Guyana,FALSE,1328972385
+Velgrad,Velgrad,,4.8667,-59.8000,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328630833
+Lancaster,Lancaster,,5.8333,-58.2500,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328346753
+Tain,Tain,,6.2390,-57.3363,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.9,,,4,America/Guyana,FALSE,1328453394
+Towakaima,Towakaima,"Towakaima Landing|Towokaima Falls",7.3167,-60.0000,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.1,,,5,America/Guyana,FALSE,1328813220
+Westfield,Westfield,,7.1994,-58.4916,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990627
+Buxton,Buxton,,7.4028,-58.6112,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990680
+"Wel te Vreeden","Wel te Vreeden","New Ground Village",5.8583,-57.4591,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.2,,,5,America/Guyana,FALSE,1328337187
+Eliza,Eliza,,7.3542,-58.4914,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990666
+"Number Seventy-four Stockholm","Number Seventy-four Stockholm","Number 74|Balaam|Stockholm|Number Seventy-four Balaam",5.9213,-57.1540,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,4,America/Guyana,FALSE,1328837731
+Barakara,Barakara,,6.3833,-58.6667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,25.0,,,4,America/Guyana,FALSE,1328007257
+"Aunama Village","Aunama Village",Aunama,7.1500,-60.0833,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328599335
+"Number Seventy-two Hong Kong","Number Seventy-two Hong Kong","Hong Kong|Number 72",5.9311,-57.1568,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Guyana,FALSE,1328158908
+Hitia,Hitia,"Sand Hills|Hittia Settlement",5.8000,-57.7500,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328343534
+Wauna-Yarikita,Wauna-Yarikita,Wauna-Yarakita,8.0833,-59.9167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328773595
+Buabanna,Buabanna,Durabanna,6.2991,-58.2661,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,16.9,,,4,America/Guyana,FALSE,1328724045
+Parapimai,Parapimai,,7.3667,-59.6667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,1.7,,,5,America/Guyana,FALSE,1328022272
+"Land of Plenty","Land of Plenty",,7.2350,-58.4845,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990674
+Pathawaru,Pathawaru,,6.4333,-61.1333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,3.0,,,5,America/Guyana,FALSE,1328094250
+Tamton,Tamton,Tamtom,2.3500,-59.7167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.9,,,5,America/Guyana,FALSE,1328599475
+Perth,Perth,"Perth Village",6.5587,-57.8014,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,33.4,,,4,America/Guyana,FALSE,1328990683
+Lima,Lima,,7.2881,-58.4793,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990662
+"Better Success","Better Success",,7.3763,-58.5129,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990637
+"Mission Landing","Mission Landing",,7.7589,-59.8603,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328164854
+Barabara,Barabara,,6.5500,-57.8833,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.1,,,5,America/Guyana,FALSE,1328227957
+"Arawai Village","Arawai Village",,6.3167,-61.1667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,4.1,,,5,America/Guyana,FALSE,1328147165
+"Pine Ground","Pine Ground",,6.4151,-57.7831,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328611447
+Opposition,Opposition,,7.3923,-58.6003,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990634
+Wolga,Wolga,,6.4724,-58.6164,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328431332
+"Kamana Village","Kamana Village",,4.8333,-59.9333,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,,,5,America/Guyana,FALSE,1328569019
+"Wandapa Village","Wandapa Village","Wandapa|Waudapa Village",4.5500,-59.7167,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,2.3,,,5,America/Guyana,FALSE,1328477414
+Meruwang,Meruwang,,5.8167,-61.0000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.4,,,5,America/Guyana,FALSE,1328790418
+Yakusari,Yakusari,,6.0491,-57.2672,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,33.6,,,4,America/Guyana,FALSE,1328077288
+Shulinab,Shulinab,"Village Shulinab|Shulinab Village",3.0833,-59.7833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328182604
+Lichfield,Lichfield,,6.4676,-57.6615,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,56.4,,,4,America/Guyana,FALSE,1328027955
+Pilinawa,Pilinawa,Pilanawa,2.7667,-59.6833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328433036
+Parishara,Parishara,"Parishara Village",3.4542,-59.5730,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328463224
+Hobediah,Hobediah,,7.9667,-59.8167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328316749
+"Altora Village","Altora Village",,2.4833,-59.1667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328449084
+Bremen,Bremen,,7.1562,-58.4798,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990649
+Enterprise,Enterprise,,6.9234,-58.4025,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,82.2,,,4,America/Guyana,FALSE,1328048398
+"North East La Penitence","North East La Penitence",,6.7966,-58.1473,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,3654.6,,,2,America/Guyana,FALSE,1328254943
+Moreiru,Moreiru,Moreiro,3.9000,-59.5500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328739357
+"Golden Fleece","Golden Fleece","Golden Fleece Plantation",7.1424,-58.4806,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328978613
+Pomona,Pomona,,7.0588,-58.4824,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,91.5,,,4,America/Guyana,FALSE,1328068472
+Epira,Epira,"Espera|Epira Mission",5.1333,-57.3333,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.2,,,5,America/Guyana,FALSE,1328331864
+"Amokokopai Village","Amokokopai Village",,5.3833,-60.3000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.5,,,5,America/Guyana,FALSE,1328982964
+Eldorado,Eldorado,"Eldorado Village",6.5093,-57.7022,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,,,4,America/Guyana,FALSE,1328049062
+Manari,Manari,,3.4333,-59.7667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328614269
+Stena,Stena,,6.3763,-58.3144,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,5.0,,,5,America/Guyana,FALSE,1328069958
+"Powisanau Village","Powisanau Village",,2.5333,-59.4500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328916233
+"Spring Garden","Spring Garden",,6.2973,-58.2690,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,3.1,,,5,America/Guyana,FALSE,1328315614
+"Good Success","Good Success",,6.6945,-58.1815,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,336.8,,,3,America/Guyana,FALSE,1328903229
+"Bounty Hall","Bounty Hall",,7.3667,-58.5167,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328397768
+"Akawini Amerindian Village","Akawini Amerindian Village","Akawini Mission",7.3720,-58.7328,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328038378
+"De Kinderen","De Kinderen","De Kindern",6.6323,-57.8447,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,39.5,,,4,America/Guyana,FALSE,1328605432
+"Muruwawe Village","Muruwawe Village",,6.4667,-61.1500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,1.0,,,5,America/Guyana,FALSE,1328232760
+"Tiger Pond Village","Tiger Pond Village",,4.0500,-59.4333,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,2.0,,,5,America/Guyana,FALSE,1328985078
+"Marias Delight","Marias Delight","Caniegieter|Maria’s Delight",7.3921,-58.5391,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990665
+Minata,Minata,,5.9500,-60.6000,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.3,,,5,America/Guyana,FALSE,1328583932
+Ampa,Ampa,"Post Ampa",6.5204,-58.5741,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0,,,5,America/Guyana,FALSE,1328921522
+Paradise,Paradise,,5.5667,-57.9167,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328030617
+"Martins Burial Ground","Martins Burial Ground",,6.5316,-57.8922,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.1,,,5,America/Guyana,FALSE,1328927783
+Hubu,Hubu,Hooboo,6.8194,-58.4674,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328919510
+Makouria,Makouria,,6.4756,-58.5841,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,0.1,,,5,America/Guyana,FALSE,1328267272
+Kariakaria,Kariakaria,Karia,6.8333,-58.5833,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,29.0,,,4,America/Guyana,FALSE,1328531991
+Lumidpau,Lumidpau,,2.4000,-59.4833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328569388
+"Zorg en Vlygt","Zorg en Vlygt","Zorg en Vlief",7.1745,-58.4882,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,15.0,,,4,America/Guyana,FALSE,1328990675
+Ankerville,Ankerville,Ankersville,6.2412,-57.3487,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,100.9,,,4,America/Guyana,FALSE,1328595456
+"Pukasanta Village","Pukasanta Village",,3.0667,-58.9000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328043492
+Hotakwai,Hotakwai,,8.0167,-59.8167,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,0.8,,,5,America/Guyana,FALSE,1328545630
+"Susannahs Rust","Susannahs Rust",,6.3620,-58.3076,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,17.5,,,4,America/Guyana,FALSE,1328190293
+Ajimipepai,Ajimipepai,,5.9000,-60.5667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.3,,,5,America/Guyana,FALSE,1328934969
+Hururu,Hururu,,5.3667,-58.0000,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,6.1,,,5,America/Guyana,FALSE,1328023918
+"Burisanawa Village","Burisanawa Village","Village Burisanawa",2.3500,-59.3500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.5,,,5,America/Guyana,FALSE,1328798489
+Springlands,Springlands,"Springlands Place",5.9005,-57.1347,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Paramaribo,FALSE,1328310203
+"Saint Nicholas Mission","Saint Nicholas Mission","Saint Nicholas",7.5000,-58.9500,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,3.4,,,5,America/Guyana,FALSE,1328647870
+"Mountain View","Mountain View",MacDonald,3.5167,-59.5500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328291992
+"Better Hope","Better Hope",,7.3868,-58.5225,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990660
+Itabac,Itabac,,4.6000,-60.1000,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.4,,,5,America/Guyana,FALSE,1328878151
+"Providence Place","Providence Place",,6.2260,-57.5243,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,969.1,,,3,America/Guyana,FALSE,1328604499
+"Isseneru Village","Isseneru Village",,6.4667,-60.3333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328474765
+"Wash Clothes","Wash Clothes",,6.5015,-57.8145,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,1.0,,,5,America/Guyana,FALSE,1328304888
+"La Belle Alliance","La Belle Alliance",,7.2813,-58.4776,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990663
+"Yarow Creek","Yarow Creek",,6.4440,-57.7777,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,71.9,,,4,America/Guyana,FALSE,1328188529
+Henrietta,Henrietta,"Henrietta Village",7.2683,-58.4815,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990639
+Kariaku,Kariaku,Kariakau,7.3782,-59.7148,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,1.7,,,5,America/Guyana,FALSE,1328982944
+"Number Sixty-nine Friendship","Number Sixty-nine Friendship","Number 69|Friendship",5.9459,-57.1679,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,116.0,,,4,America/Guyana,FALSE,1328209762
+Atamadpau,Atamadpau,,3.0000,-59.7167,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328791163
+"Wakapau Village","Wakapau Village",,7.5167,-58.8000,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328908798
+"Arakwai Outstation","Arakwai Outstation",,2.7667,-59.4833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.1,,,5,America/Guyana,FALSE,1328440802
+"Basha Village","Basha Village","Kumu Village",3.3333,-59.8000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328574682
+"Johanna Cecelia","Johanna Cecelia","Johanna Cecilia",7.1222,-58.4773,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990670
+"Waramuri Mission","Waramuri Mission",Waramuri,7.6167,-58.8667,Guyana,GY,GUY,Barima-Waini,Barima-Waini,GY-BA,region,,2.0,,,5,America/Guyana,FALSE,1328603326
+"The Clip","The Clip",Klip,6.3833,-58.6667,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,25.0,,,4,America/Guyana,FALSE,1328062379
+"Waiwoi Village","Waiwoi Village",,1.4333,-58.8000,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328468439
+Paradise,Paradise,,7.3347,-58.4845,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,129.1,,,4,America/Guyana,FALSE,1328990685
+"New Aanlegt","New Aanlegt","New Annlegt",6.7361,-58.2659,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,112.1,,,4,America/Guyana,FALSE,1328180584
+Alliance,Alliance,"Little Affiance|Little Alliance",7.2030,-58.4891,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328989510
+Zorg,Zorg,,7.1318,-58.4762,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990659
+"Hope and Success","Hope and Success",Cozier,7.4166,-58.6098,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990628
+"Marias Lodge","Marias Lodge","Maria’s Lodge",7.1141,-58.4780,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,14.0,,,4,America/Guyana,FALSE,1328990652
+"Wandaik Village","Wandaik Village",Wandaik|Owenteik,4.4500,-59.5833,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,2.0,,,5,America/Guyana,FALSE,1328530278
+Dunkeld,Dunkeld,,7.3590,-58.4958,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990657
+Yakarinta,Yakarinta,,3.9000,-59.2500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.3,,,5,America/Guyana,FALSE,1328540067
+"Bachelors Adventure","Bachelors Adventure","Batchelor’s Adventure|Waterloo",6.9127,-58.4216,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,82.2,,,4,America/Guyana,FALSE,1328294380
+L’Union,L'Union,,7.1881,-58.4902,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990664
+"Rising Sun","Rising Sun",Rising,6.0833,-57.2000,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,50.9,,,4,America/Guyana,FALSE,1328984269
+Sunnyside,Sunnyside,,3.7000,-59.6500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328857560
+Dukestown,Dukestown,,5.9071,-57.1368,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,7.8,,,5,America/Paramaribo,FALSE,1328877345
+Nismes,Nismes,,6.7542,-58.2041,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,745.2,,,3,America/Guyana,FALSE,1328201533
+"Bush Lot","Bush Lot","Bush Lot Village",6.2072,-57.2648,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,102.4,,,4,America/Guyana,FALSE,1328184608
+"Helena Number Two","Helena Number Two","Helena Number 2",6.6822,-57.9332,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,549.6,,,3,America/Guyana,FALSE,1328325390
+"Attai Village","Attai Village",Attai,5.0833,-58.5167,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.2,,,5,America/Guyana,FALSE,1328403020
+"Golden Fleece","Golden Fleece",,6.5000,-57.6922,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,57.7,,,4,America/Guyana,FALSE,1328146969
+"Puwa Village","Puwa Village",Puwa,4.5167,-59.9833,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,,,5,America/Guyana,FALSE,1328187020
+Hamburg,Hamburg,,7.0500,-58.4667,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,123.4,,,4,America/Guyana,FALSE,1328990633
+Hampshire,Hampshire,,6.2501,-57.3663,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,660.7,,,3,America/Guyana,FALSE,1328058529
+Affiance,Affiance,,7.2155,-58.4871,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,132.1,,,4,America/Guyana,FALSE,1328990646
+Experience,Experience,,6.4012,-58.2969,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,2.9,,,5,America/Guyana,FALSE,1328906865
+Providence,Providence,,7.4838,-58.6342,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,5.3,,,5,America/Guyana,FALSE,1328990667
+Louisiana,Louisiana,,6.9000,-58.4333,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,82.2,,,4,America/Guyana,FALSE,1328779797
+Jakaretinga,Jakaretinga,Jacaretinga,3.5167,-59.6667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328656132
+"Hyde Park","Hyde Park","Hyde Park and Grove",6.8463,-58.4288,Guyana,GY,GUY,"Essequibo Islands-West Demerara","Essequibo Islands-West Demerara",GY-ES,region,,507.7,,,3,America/Guyana,FALSE,1328990617
+Ekereku,Ekereku,,6.4667,-60.8333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328983148
+Bethany,Bethany,,6.9667,-58.5833,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,0.4,,,5,America/Guyana,FALSE,1328807362
+Macaw,Macaw,,6.0833,-57.5833,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,0.2,,,5,America/Guyana,FALSE,1328120922
+"Enaruko Village","Enaruko Village",,4.5667,-59.6667,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.3,,,5,America/Guyana,FALSE,1328262018
+"Moco-Moco Village","Moco-Moco Village",Moco-Moco,3.3333,-59.6667,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,4.1,,,5,America/Guyana,FALSE,1328437064
+"Three Friends","Three Friends",,5.9177,-58.3104,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328446537
+"Kanapang Village","Kanapang Village",,4.5333,-60.1333,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.5,,,5,America/Guyana,FALSE,1328276331
+Yarowkabra,Yarowkabra,,6.4697,-58.2248,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,17.5,,,4,America/Guyana,FALSE,1328682026
+"Good Hope","Good Hope",,3.8667,-59.5833,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,1.6,,,5,America/Guyana,FALSE,1328861959
+"Kopinang Mission","Kopinang Mission",,4.9333,-59.8000,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,0.8,,,5,America/Guyana,FALSE,1328569538
+Aurora,Aurora,,6.8000,-59.7500,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328923598
+"Kartabu Point","Kartabu Point",,6.3864,-58.6942,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328767997
+"Coffee Grove","Coffee Grove",,7.2927,-58.4810,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990644
+Ebini,Ebini,"Ebini Downs",5.6667,-57.7833,Guyana,GY,GUY,"Upper Demerara-Berbice","Upper Demerara-Berbice",GY-UD,region,,0.5,,,5,America/Guyana,FALSE,1328868713
+Reliance,Reliance,,7.2436,-58.4837,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,141.7,,,4,America/Guyana,FALSE,1328990631
+Taruka,Taruka,,4.8000,-59.6333,Guyana,GY,GUY,Potaro-Siparuni,Potaro-Siparuni,GY-PT,region,,5.9,,,5,America/Guyana,FALSE,1328239800
+Belvidere,Belvidere,,6.2502,-57.3708,Guyana,GY,GUY,"East Berbice-Corentyne","East Berbice-Corentyne",GY-EB,region,,660.7,,,3,America/Guyana,FALSE,1328109231
+Blenheim,Blenheim,,6.5747,-57.8014,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,33.5,,,4,America/Guyana,FALSE,1328267185
+"Sir James","Sir James",,6.2833,-57.5333,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,295.8,,,3,America/Guyana,FALSE,1328250528
+"Mahaica Village","Mahaica Village",,6.6840,-57.9218,Guyana,GY,GUY,Demerara-Mahaica,Demerara-Mahaica,GY-DE,region,,549.6,,,3,America/Guyana,FALSE,1328320323
+Biloku,Biloku,,1.7667,-58.5500,Guyana,GY,GUY,"Upper Takutu-Upper Essequibo","Upper Takutu-Upper Essequibo",GY-UT,region,,0.0,,,5,America/Guyana,FALSE,1328125674
+Evergreen,Evergreen,,7.3933,-58.5465,Guyana,GY,GUY,Pomeroon-Supenaam,Pomeroon-Supenaam,GY-PM,region,,85.7,,,4,America/Guyana,FALSE,1328990656
+Hopetown,Hopetown,"Saint John",6.3874,-57.6153,Guyana,GY,GUY,Mahaica-Berbice,Mahaica-Berbice,GY-MA,region,,79.6,,,4,America/Guyana,FALSE,1328760709
+Muruakundi,Muruakundi,Muriakundi,7.1667,-60.1333,Guyana,GY,GUY,Cuyuni-Mazaruni,Cuyuni-Mazaruni,GY-CU,region,,0.1,,,5,America/Guyana,FALSE,1328215812

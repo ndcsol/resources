@@ -1,0 +1,908 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Hebron,Hebron,"El Khulil|El Khalil|Khalil-el-Rahman|Ḩabrūn|Al Khalīl|Hevrōn",31.5286,35.0969,"West Bank",XW,XWB,,,,,,634.8,201063,201063,2,Asia/Hebron,FALSE,1934166495
+Nāblus,Nablus,Shechem|Schechem|Sychem|Neapolis|Napouse|Shekhem|Sykhem|Nābulus,32.2222,35.2611,"West Bank",XW,XWB,,,,,,634.8,156906,156906,2,Asia/Hebron,FALSE,1934360634
+Ţūlkarm,Tulkarm,"Tūl Kerem|Keram",32.3125,35.0267,"West Bank",XW,XWB,,,,,,634.8,64532,64532,3,Asia/Hebron,FALSE,1934334760
+Yattir,Yattir,Yatir,31.4478,35.0900,"West Bank",XW,XWB,,,,,,477.5,63511,63511,3,Asia/Hebron,FALSE,1934947354
+Qalqīlyah,Qalqilyah,"Qalqīlye|Kfar Saba|Kalkilieh|Qalqīliya|Kal Kiliya|Qalkilya",32.1903,34.9686,"West Bank",XW,XWB,,,,,,2018.9,51683,51683,2,Asia/Hebron,FALSE,1934513064
+Janīn,Janin,"Djenin|Jinin|‘Ein Gannīm|Engannim|Jenin",32.4611,35.3000,"West Bank",XW,XWB,,,,,,1338.0,49908,49908,3,Asia/Hebron,FALSE,1934524373
+Ramallah,Ramallah,"Rahm Alla|Rām Allāh",31.9000,35.2000,"West Bank",XW,XWB,,,,,,634.8,38998,38998,3,Asia/Hebron,FALSE,1934604374
+"Az̧ Z̧āhirīyah","Az Zahiriyah","El Dahaheriya|Edh Dhāhrīye|Dhāhirīya|Devīr|Debir|Adh Dhahiriya|Edh Dhāiriya|Ed Dhaherie|Aḑ Ḑāhirīyah|Eḍh Ḍhāhiriya",31.4078,34.9722,"West Bank",XW,XWB,,,,,,634.8,35924,35924,3,Asia/Hebron,FALSE,1934407195
+Bethlehem,Bethlehem,"Bayt Laḩm|Beit Lahm|Beit Lehem|Bethléem",31.7044,35.2064,"West Bank",XW,XWB,,,,,,634.8,28591,28591,3,Asia/Hebron,FALSE,1934388150
+Baytūnyā,Baytunya,Betounia|Beitūnya|Beituniyā|Beitunia|Bītuniyā,31.8889,35.1675,"West Bank",XW,XWB,,,,,,1015.4,26604,26604,3,Asia/Hebron,FALSE,1934209318
+Idhnā,Idhna,Idnā|Idnah,31.5586,34.9761,"West Bank",XW,XWB,,,,,,1209.7,26009,26009,3,Asia/Jerusalem,FALSE,1934524225
+Qabāţīyah,Qabatiyah,Qabātye|Kubatiya|Qabātiya|Kubatie,32.4097,35.2808,"West Bank",XW,XWB,,,,,,483.5,24439,24439,3,Asia/Hebron,FALSE,1934173704
+Jericho,Jericho,Erīha|Arīḩā|Yirīḩū|Yerīhō,31.8561,35.4600,"West Bank",XW,XWB,,,,,,634.8,20907,20907,3,Asia/Hebron,FALSE,1934197330
+"Bayt Ūmmar","Bayt Ummar","Beit Ummar|Beit Immar|Bayt Immar|Bayt ‘Umar",31.6214,35.1022,"West Bank",XW,XWB,,,,,,634.8,16977,16977,3,Asia/Jerusalem,FALSE,1934976309
+Ya‘bad,Ya`bad,Ya‘bud,32.4467,35.1703,"West Bank",XW,XWB,,,,,,741.3,16012,16012,3,Asia/Jerusalem,FALSE,1934942551
+"Bayt Jālā","Bayt Jala","Beit Jālā",31.7150,35.1872,"West Bank",XW,XWB,,,,,,1037.2,13484,13484,3,Asia/Hebron,FALSE,1934810558
+"Bayt Sāḩūr","Bayt Sahur","Beit Saḥūr|Bettsahour|Ḩaql ar Ru‘āh|Ḩaql ar Ru‘āt|Ḥaql er Ru‘āt",31.7003,35.2250,"West Bank",XW,XWB,,,,,,634.8,13281,13281,3,Asia/Hebron,FALSE,1934945594
+"Abū Dīs","Abu Dis",,31.7625,35.2658,"West Bank",XW,XWB,,,,,,432.9,12251,12251,3,Asia/Jerusalem,FALSE,1934018131
+Tilfīt,Tilfit,Tifit,32.4015,35.3415,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934020629
+"Khirbat Dayr an Nīl","Khirbat Dayr an Nil","Khirbat Deir en Nīl|Khirbat Deir an Nil",31.6576,35.0696,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934867727
+"Khirbat al Munţār ash Sharqīyah","Khirbat al Muntar ash Sharqiyah",,32.4591,35.1210,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934855833
+Suseya,Suseya,Susya,31.3833,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934994344
+"Şūr Bāhir","Sur Bahir","Sūr Bāhit",31.7368,35.2334,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934303583
+"Ar Rām wa Ḑāḩiyat al Barīd","Ar Ram wa Dahiyat al Barid","Er Rām|Ar Rām|Rām",31.8494,35.2342,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934163803
+Tomer,Tomer,,32.0333,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934312975
+"Naẖal Kalya","Nahal Kalya","Kalya|Nahal Kallia|Kalia",31.7667,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934362449
+Immātīn,Immatin,"Umm at Tīn|Um et Tīn",32.1916,35.1584,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934465019
+"Nazlat Abū Nār","Nazlat Abu Nar",,32.4070,35.0746,"West Bank",XW,XWB,,,,,,637.5,,,3,Asia/Jerusalem,FALSE,1934380059
+"Dār Şalāḩ","Dar Salah",,31.7103,35.2624,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934802225
+‘Ajjūl,`Ajjul,,32.0223,35.1797,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934056112
+Dūmā,Duma,Dūmah|Domea|Dōma,32.0563,35.3670,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934037729
+"Dayr Abū Ḑa‘īf","Dayr Abu Da`if","Deir Abū Ḍa‘īf",32.4560,35.3616,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934150713
+"Banī Na‘īm","Bani Na`im",,31.5159,35.1642,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934435693
+"Ad Dawḩah","Ad Dawhah",,31.9559,35.1998,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934542654
+"Ad Dawḩah","Ad Dawhah",,31.6995,35.1805,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,TRUE,1934270712
+Sinjil,Sinjil,"Saint Gilles|Sindjil",32.0333,35.2654,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934044147
+"Khirbat Abū ‘Anqar","Khirbat Abu `Anqar",,32.4892,35.3937,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934371154
+Rehan,Rehan,"Naẖal Reyhan",32.4667,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934432447
+"Al Majd","Al Majd","Khirbat el Majd|Khirbat al Majd",31.4810,34.9506,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934699900
+"Khirbat al Hijrah","Khirbat al Hijrah","Khirbat el Hajra|Khirbat al Hijra|Khirbat al Ḩajarah",31.4885,35.0561,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934256119
+"‘Arab al Furayjāt","`Arab al Furayjat",,31.3564,34.9207,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934342960
+Jalqamūs,Jalqamus,,32.4246,35.3642,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934017949
+"Khallat al Ḩaddād","Khallat al Haddad",,31.6582,35.1901,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934594554
+"Khashm ad Daraj","Khashm ad Daraj","Al Hadhdhālīn",31.4163,35.2395,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934288687
+"Dār Abū Şabḩā","Dar Abu Sabha",,32.3848,35.0774,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934059293
+Kufayrit,Kufayrit,Kufeirāt|Kufeirit|Kufayrāt,32.4438,35.2018,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934502348
+Saffārīn,Saffarin,,32.2622,35.1103,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934805584
+Bidyā,Bidya,Bidya|Bidiye|Bidieh|Biddyā|Biryah|Biddiyā,32.1146,35.0803,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934910001
+Qalqas,Qalqas,"Khirbat Qilqis|Khirbat Qalqas",31.4921,35.0953,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934619688
+"Umm ash Shaqḩān","Umm ash Shaqhan",,31.4486,35.1382,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934415785
+"Bayt ‘Anān","Bayt `Anan","Beit I‘nān|Bayt ‘Inān",31.8507,35.1125,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934200028
+Hindāzah,Hindazah,,31.6873,35.2095,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934586047
+"Khirbat Tall al Ghār","Khirbat Tall al Ghar",,32.2417,35.3702,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934396841
+’Ofarim,'Ofarim,,32.0167,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934325442
+"Khallat al Musāfir","Khallat al Musafir","Ar Rawā‘īn|Musfirat Banī Na‘īm",31.5074,35.2028,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934512879
+"Khirbat Sab‘īn","Khirbat Sab`in","Khirbat Sab‘ein",32.4356,35.3286,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934041057
+"Maḩaţţat Taḩsīn Manşūr","Mahattat Tahsin Mansur",,32.1837,35.0294,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934011992
+Shani,Shani,,31.3560,35.0695,"West Bank",XW,XWB,,,,,,386.8,,,3,Asia/Jerusalem,FALSE,1934000009
+"Bayt Sūrīk","Bayt Surik","Beit Sūrīk",31.8242,35.1494,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934204828
+Jayyūs,Jayyus,Jaiyūs,32.2013,35.0342,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934182037
+"Ma‘ale H̱ever","Ma`ale Hever",,31.5000,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934706086
+"Khirbat Şīr","Khirbat Sir",,32.1971,35.0557,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934640362
+"Naẖal ‘Irit","Nahal `Irit",‘Irit,32.3333,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934050328
+‘Arabbūnah,`Arabbunah,‘Arabbūna,32.5113,35.3629,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934711172
+"Z̧ahr al ‘Abd","Zahr al `Abd","Khirbat Ḑahr al ‘Abd|Khirbat aḑ Ḑahr|Khirbat Dhahr el ‘Abd|Khirbat Dhahr al ‘Abd|Khirbat edh Dhahr|Khirbat Z̧ahr al ‘Abd",32.4500,35.0930,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934758871
+"At Tuwānī","At Tuwani","Khirbat aţ Ţuwānī",31.4127,35.1538,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934582895
+"Aţ Ţabaqah","At Tabaqah","Khirbat aţ Ţabaqah|Khirbat at Tabaqa",31.4967,35.0175,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934320886
+Zohar,Zohar,,31.4000,34.9833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934814726
+"Lido Yehuda","Lido Yehuda",,31.7667,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934314282
+Yaqqir,Yaqqir,,32.1500,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934885901
+"Dayr Istiyā","Dayr Istiya","Deir Istya|Deir Istiyā|Dayr Istyā",32.1310,35.1396,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934170483
+"Ar Rifā‘īya","Ar Rifa`iya",,31.4500,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934154302
+"An Nabī Mūsá","An Nabi Musa",,31.7865,35.4318,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934373244
+Sannīryā,Sannirya,Samiriyyah|Sannīrya|Sannīriya|Sanīreh|Sanīrah|Sannīrīyah,32.1288,35.0465,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934270939
+"Khirbat Ra’fāt","Khirbat Ra'fat",,31.3861,35.0621,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934680781
+No‘omi,No`omi,Na‘ama,31.9167,35.4667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934872079
+"Qarāwat Banī Ḩasan","Qarawat Bani Hasan",,32.1257,35.1006,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934911234
+"Al Ma‘şarah","Al Ma`sarah","Khirbat al Ma‘şarah|Khirbat el Ma‘ṣara",31.6553,35.1793,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934228477
+Junayd,Junayd,Juneid,32.2268,35.2193,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934193415
+Yāsūf,Yasuf,,32.1084,35.2378,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934904342
+"Biyār al ‘Arūs","Biyar al `Arus","Khirbat Ruq‘ah|Khirbat Raq‘ah|Khirbat Raq‘a",31.4657,35.1175,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934231490
+"Bayt Fajjār","Bayt Fajjar","Beit Fajjār",31.6244,35.1546,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934245022
+"Khashm al Karm","Khashm al Karm",,31.4427,35.2478,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934604997
+"‘Ayn Sāmyah","`Ayn Samyah",,31.9928,35.3338,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934254841
+Bal‘amah,Bal`amah,Bal‘ama,32.4502,35.2983,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934756107
+"Qarne Shomeron","Qarne Shomeron","Ginnot Shomeron",32.1667,35.0833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934415002
+Faḩmah,Fahmah,Faḥma,32.3829,35.1791,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934308445
+"Banī Zayd","Bani Zayd",,32.0392,35.1032,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934910531
+"Al Fārisīyah","Al Farisiyah",,32.3425,35.5114,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934234774
+"Naẖal Ẕor‘ef","Nahal Zor`ef",Zoref,31.6333,35.0667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934593548
+Jālūd,Jalud,,32.0667,35.3166,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934337689
+"Dayr Qurunţul","Dayr Quruntul",,31.8763,35.4342,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934294857
+"Dayr as Sūdān","Dayr as Sudan","Deir es Sūdān|Deir as Sudan",32.0321,35.1484,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934992000
+Karmah,Karmah,"Khirbat Karmah|Khirbat el Karma|Khirbat Karma|Khirbat al Karmah",31.4518,35.0271,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934753400
+Elqana,Elqana,,32.1000,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934624822
+Maythalūn,Maythalun,Meithalūn|Maysalūn,32.3480,35.2745,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934171339
+"Al Baqqār","Al Baqqar","Khirbat Baqqār",31.6050,35.0815,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934213505
+"Qanān Jābir","Qanan Jabir",,31.4226,35.1056,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934260641
+"Al Laţrūn","Al Latrun","Al Aţrūn",31.8333,34.9833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934117432
+"Bayt Wazan","Bayt Wazan","Beit Wazan",32.2311,35.2158,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934254683
+Rafādah,Rafadah,,31.5192,35.0379,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934801708
+Qaffīn,Qaffin,Quffīn|Kuffin,32.4327,35.0827,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934380682
+"Al ‘Awjā","Al `Awja","‘Aujā el Fauqā|Al ‘Awjā’|Al ‘Auja|El ’Aujā",31.9507,35.4676,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934395823
+"Miẕpé Shalem","Mizpe Shalem",Mitzpe-Shalom|Mitspe-Chalem,31.5833,35.4000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934051432
+"Abū Shukhaydim","Abu Shukhaydim","Abu Shueidin|Abu Shukheidim",31.9672,35.1714,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934896894
+"Al Ḩujaylah","Al Hujaylah",,31.7089,35.2531,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934419021
+"Bayt Ḩasan","Bayt Hasan","Khirbat Bayt Ḩasan|Khirbat Beit Hasan",32.2376,35.4041,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934458276
+Revava,Revava,,32.1167,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934474929
+"Sha‘are Tiqwa","Sha`are Tiqwa",,32.1167,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934975841
+"Al Mudawwar","Al Mudawwar","Khirbat al Mudawwar",32.1434,35.0141,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934641540
+"Khirbat Salḩab","Khirbat Salhab",Salhab,32.3543,35.3734,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934409414
+Zawātā,Zawata,,32.2461,35.2265,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934125388
+Na‘ale,Na`ale,,31.9500,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934673141
+"Al Judayyidah","Al Judayyidah","El Judeiyida|Judeida|Judaydah",32.3354,35.3011,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934814855
+Jālā,Jala,"Khirbat Jālā",31.6196,35.0741,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934229064
+"Ḩadab al Fawwār","Hadab al Fawwar",,31.4781,35.0573,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934258667
+"Umm al ‘Amd","Umm al `Amd","Khirbat Umm al ‘Amad|Khirbat Um el ‘Amad|Sahl Wād al Mā’",31.4521,35.1336,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934677462
+"Al Khushnah","Al Khushnah",,31.6844,35.2690,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934836701
+"Ar Rīḩīyah","Ar Rihiyah","Er Rīhīya|Barta’a|Rīhīya|Ar Rihiya",31.4695,35.0778,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934311030
+Arţās,Artas,Artasium|Ertas,31.6894,35.1868,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934993866
+Jinşāfūţ,Jinsafut,,32.1792,35.1304,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934292335
+Jarbā’,Jarba',,32.3861,35.2568,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934002562
+"Qedumim ‘Illit","Qedumim `Illit","Qedumim Zefon",32.2167,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934594376
+"Khirbat as Salāmah","Khirbat as Salamah","Khirbat Salama|Khirbat Salāmah",31.4910,35.0004,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934798954
+Sharafāt,Sharafat,,31.7405,35.1927,"West Bank",XW,XWB,,,,,,3594.6,,,2,Asia/Jerusalem,FALSE,1934629899
+"Al Furaydīs","Al Furaydis",,31.6693,35.2383,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934144376
+"Nūr ash Shams","Nur ash Shams","Nur es Shams|Nur esh Shems",32.3167,35.0667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934595421
+"Kefar Na‘aran","Kefar Na`aran",Yitav,31.9333,35.4167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934014707
+‘Aynabūs,`Aynabus,‘Einabūs,32.1471,35.2451,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934191249
+Almog,Almog,"Kibbutz Kallia",31.7500,35.4667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934338760
+"Dayr Sharaf","Dayr Sharaf","Deir Sharaf",32.2533,35.1889,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934973787
+"Khirbat Kharrūbah","Khirbat Kharrubah",,32.3959,35.3881,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934711942
+Ḩuwwārah,Huwwarah,Huwwāra|Ḩūwārah,32.1522,35.2567,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934708945
+‘Immanu‘el,`Immanu`el,,32.1500,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934443741
+"Shuyūkh al ‘Arrūb","Shuyukh al `Arrub","Khirbat al ‘Arrūb|Khirbat ‘Arrūb",31.6174,35.1437,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934646254
+"Khirbat al Ḩubaylah","Khirbat al Hubaylah","Khirbat Ḥubeila|Khirbat Ḩubaylah|Khirbat el Hubeila",31.6580,35.1017,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934109724
+"Giv‘at Harsina","Giv`at Harsina",,31.5333,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934326962
+Ḩūsān,Husan,,31.7093,35.1347,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934965011
+‘Izīz,`Iziz,"Khirbat al ‘Uzeiz|Khirbat el ‘Uzeir|Khirbat ‘Uzayr|Khirbat al ‘Uzayz",31.4302,35.0821,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934278326
+Sikkah,Sikkah,"Khirbat as Sikkah|Khirbat Sikkah|Khirbat es Sikka|Khirbat Sikka",31.4916,34.9430,"West Bank",XW,XWB,,,,,,425.8,,,3,Asia/Jerusalem,FALSE,1934408864
+"An Nabī Ilyās","An Nabi Ilyas","En Nabī Ilyās|En Nabī Elyās",32.1848,35.0176,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934336453
+"Baytā al Fawqā","Bayta al Fawqa","Beita el Fauqa|Beita al Fauqa",32.1426,35.2877,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934820095
+"Bi’r ‘Awnah","Bi'r `Awnah",,31.7197,35.1785,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934501377
+"Al Jamīlāt","Al Jamilat",,32.4708,35.3347,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934801445
+"Aţ Ţūr","At Tur","Ṭur|Et Tūr",31.7827,35.2493,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934364093
+Sīrīs,Siris,,32.3283,35.2913,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934181581
+‘Abdah,`Abdah,"Khirbat ‘Abda|Khirbat al ‘Abdah",31.4656,35.0233,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934212227
+"Kafr Zībād","Kafr Zibad","Khirbat Zibād",32.2258,35.0718,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934180832
+"Fakht al Jūl","Fakht al Jul",,31.6887,35.2565,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934304389
+Berakha,Berakha,,32.1928,35.2654,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934226364
+"Bayt Ijzā","Bayt Ijza","Beit Ijza",31.8468,35.1517,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934325684
+Şānūr,Sanur,,32.3561,35.2454,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934408600
+"Dar Abu Basal","Dar Abu Basal",,32.1000,35.1309,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934519174
+"Khallat al Mayyah","Khallat al Mayyah","Khirbat Khallat al Meiya|Khirbat Khallat al Mayyah|Khirbat el Maiya|Khirbat al Mayyah",31.4422,35.1429,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934285875
+"Al Makhrūq","Al Makhruq","El Makhrūq",32.1285,35.5110,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934444702
+"Kharā’ib Umm al Laḩm","Khara'ib Umm al Lahm","Khirbat Baţin Abū Liḩyah|Khirbat Bātin Abū Liḥya|Khirbat Bātin Abn Lihya",31.8385,35.0951,"West Bank",XW,XWB,,,,,,1154.4,,,3,Asia/Jerusalem,FALSE,1934531366
+"Migdal Oz","Migdal Oz",,31.6500,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934010275
+Firāsīn,Firasin,"Khirbat Firāsin",32.4261,35.1064,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934561385
+"Nişf Jubayl","Nisf Jubayl","Niṣf Jubeil",32.2836,35.2180,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934757340
+"Khallat al Lūzah","Khallat al Luzah",,31.6737,35.2027,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934406466
+"Khirbat al Ghaḑbānah","Khirbat al Ghadbanah","Khirbat el Ghadbāna|Khirbat al Ghadbana",32.2000,35.4500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934979635
+Shima,Shima,,31.3667,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934558996
+Rammūn,Rammun,Rimmon,31.9334,35.2982,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934948700
+"Ad Duwayr","Ad Duwayr",,31.4625,35.1309,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934758077
+"Al Buwayrah","Al Buwayrah",,31.4879,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934495882
+"‘Ayn ad Duyūk al Fawqā","`Ayn ad Duyuk al Fawqa","Ad Duyūk|Duyūk",31.8871,35.4272,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934391769
+Eshkolot,Eshkolot,,32.1167,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934776901
+"Minţaqat Shi‘ib al Bāţin","Mintaqat Shi`ib al Batin",,31.3941,35.1316,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934167397
+"Al Fandaqūmīyah","Al Fandaqumiyah","Fendakumie|Pentakomia|Fendakumiyeh|El Fandaqūmīye|Fandaqūmīye|El Fandaqūmiya|Pundaqa|Al Fandaqumiya|Fandaqūmīya",32.3206,35.2033,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934360339
+"Bet El","Bet El",,31.9333,35.2167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934931892
+Şīr,Sir,,32.3634,35.3153,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934338844
+"Bayt ‘Abd al Qādir","Bayt `Abd al Qadir","Beit ‘Abdul Qadir|Beit ‘Abd el Qādir",32.2028,35.4557,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934687815
+Burayḑi‘ah,Buraydi`ah,"Khirbat Burayda‘ah|Khirbat Bureida‘a|Khirbat Bureidhi‘a|Khirbat Buraydhi‘ah",31.6855,35.2368,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934319794
+"Khirbat al Fakhīt","Khirbat al Fakhit","Khirbat al Fukheit|Khirbat al Fukhayt",31.3766,35.1662,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934354553
+"Ma‘alot Dafna","Ma`alot Dafna",,31.7833,35.2167,"West Bank",XW,XWB,,,,,,4566.8,,,2,Asia/Jerusalem,FALSE,1934891817
+"Khirbat an Naḩlah","Khirbat an Nahlah","Khirbat en Naḥla",31.6780,35.1829,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934747418
+‘Illār,`Illar,,32.3702,35.1071,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934570073
+Zīf,Zif,,31.4669,35.1367,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934582625
+"Bayt ‘Ūr at Taḩtā","Bayt `Ur at Tahta","Beit ‘Ūr et Tahtā|Beit ‘Ur at Tahta|Bayt ‘Ūr",31.8961,35.0818,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934696533
+"Wādī Fūkīn","Wadi Fukin",,31.7070,35.1037,"West Bank",XW,XWB,,,,,,3312.4,,,2,Asia/Jerusalem,FALSE,1934563704
+"Khirbat Tall al Ḩimmah","Khirbat Tall al Himmah","Khirbat al Ḩammah|Khirbat al Hamma|Khirbat el Hamma",32.3710,35.5012,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934971258
+"Kifil Ḩāris","Kifil Haris","Kafr Ḩaris|Kiel Ḥārith|Kifl Ḩārith",32.1183,35.1572,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934205879
+"Qarāwat Banī Zayd","Qarawat Bani Zayd","Qarawat Bani Zeid|Quarāwat Banī Zeid",32.0547,35.1291,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934697189
+Baytīn,Baytin,Beitīn|Bethel|Bitayn,31.9267,35.2410,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934063231
+"Dayr al ‘Asal al Fawqā","Dayr al `Asal al Fawqa","Khirbat Deir ‘Asal el Fauqa|Khirbat Dayr ‘Asal al Fawqā|Khirbat Dayr al ‘Asal al Fawqā",31.4683,34.9383,"West Bank",XW,XWB,,,,,,509.5,,,3,Asia/Jerusalem,FALSE,1934932184
+"Al ‘Ubaydīyah","Al `Ubaydiyah",,31.7170,35.2901,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934312899
+Dolev,Dolev,,31.9167,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934316211
+Rūjayb,Rujayb,Rujeib,32.1906,35.2933,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934655475
+"Sīlat al Ḩārithīyah","Silat al Harithiyah","Sīlat el Ḥārithīya|Silat al Harithiya",32.5085,35.2275,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934694887
+‘Awartā,`Awarta,,32.1611,35.2839,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934841787
+"Khirbat Dūmā","Khirbat Duma","Khirbat Duma ad Deir",31.4304,34.9830,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934247851
+Telem,Telem,,31.5500,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934199669
+Kūbar,Kubar,Kawbar|Kaubar,31.9872,35.1579,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934784946
+"Al Mughayyir","Al Mughayyir","El Mughaiyir|Al Mughaiyir|Mughaiyir",32.4223,35.3848,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934817796
+"Al Mughayyir","Al Mughayyir","El Mugheir|El Mughaiyir|Al Mughayir|Al Mughaiyir|Mughaiyir",32.0192,35.3478,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934388972
+"Al Ḩaddādīyah","Al Haddadiyah",,31.6855,35.2718,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934259656
+"Bayt Rīmā","Bayt Rima","Beit Rīmā",32.0333,35.1036,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934789930
+"Khallat ad Dār","Khallat ad Dar",,31.4974,35.1136,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934278574
+"Wādī al Jawz","Wadi al Jawz",,31.7899,35.2366,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934185993
+"Bayt Duqqū","Bayt Duqqu","Beit Duqqu",31.8591,35.1312,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934816555
+Jiftlik,Jiftlik,,32.1500,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934348039
+Sabasţīyah,Sabastiyah,Sabastiya|Sebustie|Sebastye|Sebastia|Sebastiya|Shomron|Sevastē|Sebustiye|Sebaste|Sabaţīyah,32.2756,35.1987,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934096137
+H̱omesh,Homesh,,32.3000,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934981254
+"Aḑ Ḑab‘ah","Ad Dab`ah","Khirbat Maghārat aḑ Ḑab‘ah|Khirbat Maghārat ed Dab‘a",32.1584,35.0096,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934408616
+"Barţa‘ah ash Sharqīyah","Barta`ah ash Sharqiyah","Khirbat Barṭa‘a|Khirbat Barţa‘ah",32.4730,35.0936,"West Bank",XW,XWB,,,,,,635.4,,,3,Asia/Jerusalem,FALSE,1934954612
+"Al Khaḑir","Al Khadir","El Khader|Khaḍr|Al Khiḑr|Al Khadr|El Khadr",31.6941,35.1669,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934257821
+"Wādī ar Rashā","Wadi ar Rasha",,32.1683,34.9958,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934740349
+"Khirbat Zanūtah","Khirbat Zanutah","Khirbat Zānūtā",31.3705,34.9961,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934383933
+"Khallat Ḩamad","Khallat Hamad",,31.6806,35.2090,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934788233
+"Ash Shayyāḩ","Ash Shayyah",,31.7738,35.2510,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934876741
+"Khirbat Surūj","Khirbat Suruj",,32.4881,35.1948,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934267288
+Zubūbah,Zububah,Zubūbā,32.5435,35.2227,"West Bank",XW,XWB,,,,,,611.0,,,3,Asia/Jerusalem,FALSE,1934859313
+"Khirbat Abū Falāḩ","Khirbat Abu Falah","Al Jardah|Khirbet Abū Falāh",32.0168,35.3014,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934036248
+"Nazlat ‘Īsá","Nazlat `Isa",,32.4156,35.0589,"West Bank",XW,XWB,,,,,,1061.7,,,3,Asia/Jerusalem,FALSE,1934331154
+Qūşīn,Qusin,Qūṣein,32.2383,35.1830,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934183519
+"Kefar Rut","Kefar Rut",,31.9000,35.0333,"West Bank",XW,XWB,,,,,,2563.7,,,2,Asia/Jerusalem,FALSE,1934037395
+"Al ‘Ayzarīyah","Al `Ayzariyah","‘Eizarīya|Bethany|El ‘Eizarīye|Al ‘Eizariya",31.7708,35.2692,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934847170
+Qīlā,Qila,,31.6104,35.0027,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934929787
+"Khirbat al Maq‘ūrah","Khirbat al Maq`urah",,31.3970,35.1800,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934377635
+"Rās ‘Aţīyah","Ras `Atiyah","Khirbat Ra’s ‘Aţīyah|Khirbat Ras ‘Atiya",32.1585,34.9909,"West Bank",XW,XWB,,,,,,1494.2,,,3,Asia/Jerusalem,FALSE,1934235079
+"Rās al Wād","Ras al Wad",,31.6933,35.2514,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934122809
+"Newe Ya‘aqov","Newe Ya`aqov",,31.8333,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934458239
+"Jabal al Mukabbir","Jabal al Mukabbir",,31.7500,35.2469,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934514684
+"Shave Shomeron","Shave Shomeron",,32.2500,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934112629
+"Ash Shuhadā’","Ash Shuhada'","Esh Shuhadā",32.4295,35.2711,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934590605
+‘Ibwayn,`Ibwayn,‘Ibwein|‘Abwein|‘Abwayn,32.0314,35.1999,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934119696
+"Faḩmah al Jadīdah","Fahmah al Jadidah",,32.3892,35.2092,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934000592
+"Huraybat an Nabī","Huraybat an Nabi","Hurubat an Nabi|Hureibat en Nabī",31.3775,35.1100,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934296852
+Rotem,Rotem,,32.3333,35.5167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934391924
+Nirit,Nirit,,32.1455,34.9853,"West Bank",XW,XWB,,,,,,2499.6,,,2,Asia/Jerusalem,FALSE,1934000011
+Kūr,Kur,,32.2354,35.0975,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934675584
+"Ḩadb al ‘Alqah","Hadb al `Alqah","Khirbat Ḩadab al ‘Alaqah|Khirbat al Ḩadab|Khirbat Ḩadab al ‘Alaqah",31.4555,34.9949,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934015624
+"Khirbat al ‘Alāwinah","Khirbat al `Alawinah","Khirbat el ‘Alāwina",31.8167,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934007342
+"Mazor Atiqa","Mazor Atiqa",,32.0833,34.9833,"West Bank",XW,XWB,,,,,,3094.8,,,2,Asia/Jerusalem,FALSE,1934164015
+"Har Gillo","Har Gillo","Har Gilo",31.7212,35.1724,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934179350
+"Giv‘at HaMivtar","Giv`at HaMivtar",,31.8000,35.2500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934994712
+"Al Walajah","Al Walajah","El Walaja|Walajah",31.7326,35.1619,"West Bank",XW,XWB,,,,,,863.8,,,3,Asia/Jerusalem,FALSE,1934356638
+‘Ateret,`Ateret,,32.0000,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934174277
+‘Imwās,`Imwas,‘Amwās|‘Ammāōs,31.8333,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934039955
+"Naẖal Elisha‘","Nahal Elisha`",Elisha‘,31.8734,35.4783,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934727110
+"‘Ayn ‘Arīk","`Ayn `Arik","‘Ein ‘Arīk|‘Ain ‘Arīk",31.9061,35.1425,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934467898
+"Al Mazra‘ah ash Sharqīyah","Al Mazra`ah ash Sharqiyah","Mazra‘a ash Sharqiya|El Mazara‘a esh Sharqiya|El Maza’a esh Sharqīya|Mazra‘a Banī Murra",32.0002,35.2815,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934141925
+"Z̧ahrat Zayn ad Dīn","Zahrat Zayn ad Din","Ḍhahrat Zein ed Dīn",31.7500,35.2500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934419936
+"Umm ad Daraj","Umm ad Daraj","Az Zuwaydīn|‘Arab al Ka‘ābnah",31.4454,35.2007,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934938008
+Rāmīn,Ramin,,32.2852,35.1495,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934768948
+Budrus,Budrus,,31.9669,34.9942,"West Bank",XW,XWB,,,,,,973.8,,,3,Asia/Jerusalem,FALSE,1934189407
+Ari’el,Ari'el,,32.1000,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934174301
+"Rās aţ Ţīrah","Ras at Tirah","Khirbat Ra’s aţ Ţīrah|Khirbat Ras at Tira|Khirbat Ra’s Tīrah|Khirbat Ras Tīra",32.1617,35.0104,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934276278
+Masḩah,Mashah,Mas-ḥa,32.1083,35.0510,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934315016
+"Al Jiftlik","Al Jiftlik",,32.1407,35.4874,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934873960
+"‘Ayn ad Duyūk at Taḩtā","`Ayn ad Duyuk at Tahta",,31.8683,35.4396,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934462663
+"Ad Dawā","Ad Dawa",,32.1360,35.3757,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934175915
+"Ad Duwwārah","Ad Duwwarah",,31.5574,35.1429,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934911313
+"Khallat ‘Arabī","Khallat `Arabi",,31.4588,35.0522,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934337761
+Jannātah,Jannatah,"Khirbat Badd Falūh|Khirbat Badd Fallūḩ|Bayt Falūḩ",31.6696,35.2196,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934919746
+Qūzah,Quzah,"Qūza|Kuzah|Khirbet Qūza|Kūza",32.1386,35.2533,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934552210
+Shu‘afat,Shu`afat,"Rekhes Shu‘afat",31.8000,35.2000,"West Bank",XW,XWB,,,,,,2551.3,,,2,Asia/Jerusalem,FALSE,1934677620
+"Bayt ‘Amrah","Bayt `Amrah","Khirbat Bayt ‘Amrah|Khirbat Beit ‘Amra|Khirbat Beit ‘Imra|Khirbat Bayt Imrān",31.4502,35.0495,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934233432
+"Kefar Adummim","Kefar Adummim",,31.8167,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934424090
+Irtāḩ,Irtah,,32.2968,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934272972
+"Khirbat Za‘kūkah","Khirbat Za`kukah","Khirbat Za‘kuka",31.7333,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934832049
+"‘Arab al Ḩamdūn","`Arab al Hamdun",,32.4832,35.1867,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934844252
+"Khirbat Sūsah","Khirbat Susah","Khirbat Sūsiyā|Khirbat Susya|Khirbat Sūsiyah",32.0781,35.0854,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934126360
+"Rās al Fār‘ah","Ras al Far`ah",,32.2912,35.3471,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934746182
+Farkhah,Farkhah,Farkha,32.0688,35.1529,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934477199
+"Dayr al Ghuşūn","Dayr al Ghusun","Deir al Ghusun|Dayr al Ghuşn|Deir el Ghuṣūn|Deir al Ghusan",32.3524,35.0769,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934255761
+Sa‘īr,Sa`ir,Si‘īr,31.5785,35.1402,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934996481
+Sālim,Salim,Sālem,32.2096,35.3303,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934557150
+Khārās,Kharas,,31.6148,35.0417,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934674197
+"Naẖal Ro‘i","Nahal Ro`i",Ro‘i,32.2333,35.4833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934462419
+"Al Jīb","Al Jib","Jīb|El Jīb",31.8520,35.1845,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934411100
+"Khirbat al Ashqar","Khirbat al Ashqar","Khirbat el Ashgar",32.1407,35.0202,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934263927
+"Jubbit adh Dhīb","Jubbit adh Dhib",,31.6634,35.2480,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934878673
+"Al ‘Aşā‘şah","Al `Asa`sah",,32.3296,35.2046,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934136809
+"Khirbat az Zu‘rūrah","Khirbat az Zu`rurah","Khirbat az Za‘rura|Khirbat ez Za‘rūra|Khirbat az Za‘rūrah",31.7421,35.2740,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934222339
+"Naẖal Teqoa‘","Nahal Teqoa`","Nahal Tekea",31.6500,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934543398
+‘Ajjah,`Ajjah,‘Ajja,32.3607,35.1959,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934995676
+‘Anabtā,`Anabta,‘Anabtah|‘Anebta,32.3079,35.1169,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934863487
+"Bayt ar Rūsh al Fawqā","Bayt ar Rush al Fawqa","Khirbat ar Rush al Fauqa|Khirbat er Raush el Fauqa|Khirbat ar Rawsh al Fawqā|Khirbat ar Rashsh al Fawqā",31.4520,34.9265,"West Bank",XW,XWB,,,,,,591.5,,,3,Asia/Jerusalem,FALSE,1934174844
+"Khirbat Abū Ḩāmid","Khirbat Abu Hamid",,31.4719,34.9629,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934928209
+"An Nazlah al Gharbīyah","An Nazlah al Gharbiyah","En Nazla al Gharbiya|An Nazla al Gharbiya|En Nazla el Gharbiya",32.4027,35.0845,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934464124
+Bardalah,Bardalah,Bardala,32.3863,35.4808,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934644745
+"‘Izbat Abū Ādam","`Izbat Abu Adam",,32.0979,35.1057,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934254832
+"Khirbat Aşafī","Khirbat Asafi",,31.3996,35.1868,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934900870
+"Khallat Sakāryā","Khallat Sakarya","Khirbat Beit Zakariya|Khirbat Bayt Zakarīyā|Khirbat Beit Sakariya|Khirbat Bayt Sakarīyah",31.6632,35.1235,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934745472
+Mādamā,Madama,,32.1859,35.2311,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934523283
+"An Nabī Şāliḩ","An Nabi Salih","En Nabī Sāhih|Nabi Sālih|En Nabi Sālih",32.0164,35.1240,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934749747
+"Khirbat Muşţafá Abū Jābir","Khirbat Mustafa Abu Jabir",,32.1486,35.0008,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934157382
+"Dayr al Ḩaţab","Dayr al Hatab","Deir al Hatab|Deir el Hatab",32.2173,35.3213,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934693312
+"Dayr Dibwān","Dayr Dibwan","Deir Dibwān",31.9111,35.2666,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934215973
+Talfīt,Talfit,Tilfīt,32.0866,35.2909,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934747617
+Shuwaykah,Shuwaykah,Shuweika,32.3364,35.0355,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934926742
+Falāmyah,Falamyah,Falāmīyah|Falāmia|Falāmah|Falāma,32.2250,35.0229,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934688009
+"Umm Salmūnah","Umm Salmunah","Khirbat Um Salamūna|Khirbat Umm Salamuna|Khirbat Umm Salamūnah",31.6446,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934417531
+"Aţ Ţarm","At Tarm","Khirbat at Turm|Khirbat aţ Ţarm|Khirbat eṭ Ṭaram",32.4625,35.1910,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934305438
+"Rās aţ Ţawīl","Ras at Tawil","Khirbat Rās er Tawil|Khirbat Ra’s aţ Ţawīl",31.5658,35.1454,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934828879
+"Nabulus Yeshiva","Nabulus Yeshiva",,32.2000,35.2833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934013158
+Qalandiyā,Qalandiya,Kalendieh|Kulundia|Qalandye|Qalandīyah,31.8629,35.2082,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934495854
+Şāfā,Safa,"Khirbat Şafā|Khirbat Şāfah",31.6428,35.0986,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934104773
+"Al Muţillah","Al Mutillah","Khirbat al Mutilla|Khirbat el Muṭilla|Khirbat al Muţillah",32.4205,35.4076,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934553025
+"Al ‘Askirah","Al `Askirah","Khirbat an Natsh|Khirbat Umm Natshah|Khirbat Um Natsha",31.6715,35.2267,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934747343
+"Aḑ Ḑamārah","Ad Damarah",,32.4062,35.2290,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934977107
+"Bāb as Sāhirah","Bab as Sahirah",,31.7850,35.2313,"West Bank",XW,XWB,,,,,,3624.1,,,2,Asia/Jerusalem,FALSE,1934422571
+"Khirbat Bīr al ‘Idd","Khirbat Bir al `Idd","Khirbat Bi’r al ‘Idd|Khirbat Bi’r al ‘Add|Khirbat Bīr el ‘Add",31.3755,35.1321,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934150814
+"‘Izbat Shūfah","`Izbat Shufah",,32.2851,35.0449,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934222691
+Mikhmās,Mikhmas,Mukhmās,31.8721,35.2760,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934574355
+"Al Jalamah","Al Jalamah",Jalamah|Jalama,32.5082,35.3132,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934100126
+Giv‘on,Giv`on,,31.8500,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934950336
+El‘azar,El`azar,,31.6667,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934554604
+"Giv‘at H̱oma","Giv`at Homa","Giv‘at HaMatos",31.7388,35.2082,"West Bank",XW,XWB,,,,,,3506.1,,,2,Asia/Jerusalem,FALSE,1934304632
+"Khirbat al Majnūnah","Khirbat al Majnunah","Khirbat al Majnuna",31.4860,35.0426,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934912841
+"Khirbat Qays","Khirbat Qays","Khirbat Qeis",32.0628,35.1773,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934541496
+"Mashrū‘ Bayt Qād","Mashru` Bayt Qad",,32.4751,35.3658,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934467628
+Peẕa’el,Peza'el,Patzael,32.0441,35.4424,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934077955
+"Maghāyir al ‘Abīd","Maghayir al `Abid",,31.3771,35.1492,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934686152
+Nūbā,Nuba,,31.6090,35.0345,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934698053
+"Al Jāniyah","Al Janiyah","El Jāniya|Al Janiya|Jāniyah",31.9385,35.1214,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934222348
+"Al Qasayyis","Al Qasayyis","Khirbat al Qissīs|Khirbat al Qassis",31.7030,35.2561,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934118557
+"Ar Ru‘āh","Ar Ru`ah","Er Ru‘āt|Ar Ru‘āt",31.7050,35.2305,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934813256
+Naḩḩālīn,Nahhalin,,31.6856,35.1208,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934545652
+"Khirbat al Ḩafnah","Khirbat al Hafnah","Khirbat Ḩafnah|Khirbat Ḥafna|Khirbat el Hafna|Khirbat al Hafna",31.9500,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934939731
+"Aţ Ţīrah","At Tirah","Tira|Khirbat eṭ Ṭira|Et Tīra|At Tira",31.8702,35.1268,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934553305
+"Pisgat Ze’ev","Pisgat Ze'ev",,31.8167,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934642342
+"Bīr al Bāshā","Bir al Basha",,32.4202,35.2301,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934419044
+"‘Izbat Jal‘ūd","`Izbat Jal`ud",,32.1500,34.9970,"West Bank",XW,XWB,,,,,,689.0,,,3,Asia/Jerusalem,FALSE,1934991741
+"Khirbat Mas‘ūd","Khirbat Mas`ud",,32.4415,35.1484,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934155735
+"Kafr Mālik","Kafr Malik",,31.9884,35.3093,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934305221
+"Khirbat at Tuwāmīn","Khirbat at Tuwamin","Khirbat at Tuwaymīn|Khirbat el Tuweimin",31.3759,35.1214,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934751924
+Ni‘līn,Ni`lin,,31.9475,35.0203,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934215092
+Tarqūmyā,Tarqumya,Terkumie|Tarqūmiya|Turqumiya|Tarqūmye|Tarqūmiyah,31.5755,35.0122,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934231960
+"Ma‘ale Efrayim","Ma`ale Efrayim","Maale Ephraim",32.0714,35.3987,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934024470
+"Kharbathā al Mişbāḩ","Kharbatha al Misbah","Khirbat el Miṣbāḥ|Khirbat al Mişbāḩ",31.8855,35.0719,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934960921
+Kurīsah,Kurisah,,31.5227,35.0164,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934932299
+"Kokhav Ya‘aqov","Kokhav Ya`aqov",,31.8833,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934419608
+Tayāsīr,Tayasir,,32.3404,35.3960,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934554762
+"Sa Nur","Sa Nur",,32.3333,35.2000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934175396
+Argaman,Argaman,,32.1667,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934715921
+"Kafr Qaddūm","Kafr Qaddum","Alon Moreh|Allen More|Kadoum|Kufr Qaddūm|Qidmā|Kaddum|Qadum|Kafr Kaddūm|Alon-Morah|Qaddum|Elon Moreh",32.2216,35.1447,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934372367
+Imrīḩā,Imriha,,32.4324,35.1461,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934229845
+‘Otni’el,`Otni'el,,31.4399,35.0284,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934680659
+"Az Zabābidah","Az Zababidah","Ez Zabābida|Zabābida|Az Zababida|Az Zababide",32.3866,35.3241,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934801848
+Qaryūt,Qaryut,Kuriyut,32.0700,35.2943,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934809878
+"Al Burj","Al Burj","Khirbat al Burj|Burj el Baiyāra|Khirbat el Burj",31.4361,34.9170,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934927782
+Şaydā,Sayda,"Seida|Khirbat Şaydāh",32.3849,35.1186,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934280631
+"‘Izbat al Khilāl","`Izbat al Khilal",,32.2981,35.0848,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934799574
+"Ar Rawā‘īin","Ar Rawa`iin",,31.5447,35.2562,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934029856
+Meẖola,Mehola,"Nahal Mehula|Mehula",32.3667,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934216934
+Rimmonim,Rimmonim,"Naẖal Rimonim",31.9333,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934108565
+"‘Ayn Qīniyā","`Ayn Qiniya","Ein Qiniya|‘Ayn Qīnīyah|Ain Qīniyā",31.9265,35.1499,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934449355
+"Rās al Jūrah","Ras al Jurah","Khirbat Ra’s al Jūrah",31.6048,34.9979,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934344992
+Rantīs,Rantis,,32.0280,35.0188,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934551968
+Dhannābah,Dhannabah,Dannābah|Dannāba,32.3134,35.0414,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934590034
+"Kafr Dān","Kafr Dan",,32.4785,35.2542,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934635993
+"Wādī Raḩḩāl","Wadi Rahhal",,31.6652,35.1673,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934207735
+Manoah,Manoah,,31.5020,35.1040,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934228426
+"An Nabī Şamū’īl","An Nabi Samu'il","An Nabī Şamwīl|Nabi Samwīl|En Nabi Samweil|En Nabī Samwīl|En Nabī Ṣamuīl",31.8331,35.1830,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934148813
+Bil‘īn,Bil`in,,31.9284,35.0720,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934218992
+"Umm Ţūbā","Umm Tuba","Khirbat Umm Ţūbá|Umm Ţūbá",31.7298,35.2315,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934031212
+"Matkhan Tappuah","Matkhan Tappuah",,32.1167,35.2667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934748543
+"An Nuway‘imah","An Nuway`imah","Nu’eima|‘Ayn Nuwi‘imah|Nu‘aymah|‘Ain Nuwi‘ima",31.8921,35.4355,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934390483
+"Khirbat Ghuwayn al Fawqā","Khirbat Ghuwayn al Fawqa","Khirbat Ghuweina el Fauqa|Khirbat Ghuwaynat al Fawqā|Khirbat Ghuwaynah al Fawqā",31.3610,35.0790,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934951718
+"Bayt Ḩanīnā al Balad","Bayt Hanina al Balad",,31.8303,35.2078,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934259361
+Iskākā,Iskaka,Iskākah,32.1036,35.2247,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934219184
+Barqan,Barqan,,32.1000,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934362977
+Ūşarīn,Usarin,"Auṣarīn|Usarin|Osarīn|Aw Şarīn",32.1250,35.3100,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934255378
+"Khirbat al Ḩasakah","Khirbat al Hasakah","Khirbat Haska|Khirbat Ḩasakah|Khirbat Ḥasaka",31.5640,35.0965,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934238261
+"Khirbat Marāḩ ar Rahá","Khirbat Marah ar Raha",,32.4034,35.3802,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934379489
+"Mevo Shillo","Mevo Shillo","Nahal Mevo Shilo|Mevo-Chilo",32.0500,35.2833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934729993
+Mattityahu,Mattityahu,Mattiyahu,31.9167,35.0167,"West Bank",XW,XWB,,,,,,723.1,,,3,Asia/Jerusalem,FALSE,1934080624
+"Khirbat al Munqaţi‘ah","Khirbat al Munqati`ah","Khirbat Umm ash Shaghut",31.9826,35.5273,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934837034
+"Dūrā al Qar‘","Dura al Qar`","Dūrā el Qar‘",31.9586,35.2271,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934401715
+Ţūbās,Tubas,,32.3209,35.3699,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934863528
+"Al Ḩalqūm","Al Halqum",,31.6479,35.1986,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934161854
+"Wādī Muḩammad","Wadi Muhammad",,31.6322,35.1989,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934264950
+"Nīfī Ya‘qūb","Nifi Ya`qub","Nafī Ya‘qūb",31.8333,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934962929
+"Al ‘Aqrabānīyah","Al `Aqrabaniyah","Khirbat al ‘Aqrabānīyah|Khirbat el Aqrabāniya|Khirbat al ‘Aqrabaiya",32.2523,35.3784,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934686681
+"Al Lubban ash Sharqīyah","Al Lubban ash Sharqiyah","Lubban Sharqiya|Lubban esh Sharqiya",32.0701,35.2403,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934832566
+"Umm Dār","Umm Dar",,32.4571,35.1366,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934377068
+Far‘atā,Far`ata,"Far‘atah|Far‘ata|Kafr ‘Atā",32.1907,35.1660,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934129467
+"Qilā‘ Zaytā","Qila` Zayta","Khirbat Zeita|Khirbat Zaytā",31.5529,35.1208,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934243480
+Rābūd,Rabud,,31.4391,35.0162,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934984210
+"Khirbat at Tabbān","Khirbat at Tabban",,31.3822,35.1743,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934281432
+Silwān,Silwan,,31.7677,35.2398,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934975078
+Ijnisinyā,Ijnisinya,,32.2733,35.2159,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934918934
+Pesagot,Pesagot,,31.8990,35.2242,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934607141
+"Dayr Ḩajalah","Dayr Hajalah",,31.8205,35.5018,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934556673
+"‘Ein Fashkha","`Ein Fashkha","‘Ayn Fashkhah",31.7167,35.4500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934535068
+Mamilla,Mamilla,,31.7667,35.2167,"West Bank",XW,XWB,,,,,,4566.8,,,2,Asia/Jerusalem,FALSE,1934312760
+"Dayr Qiddīs","Dayr Qiddis","Dayr Qaddīs|Deir Qaddis",31.9486,35.0444,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934185455
+"Giv‘at HaMerkaziz","Giv`at HaMerkaziz",,32.2167,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934613787
+"Shamālīyah al Hawá","Shamaliyah al Hawa",,31.5984,35.1473,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934909424
+Gillo,Gillo,Gilo,31.7300,35.1906,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934410768
+"Khirbat Ţānā","Khirbat Tana","Khirbat Ţanah at Taḩtah|Khirbat Ṭana et Taḥta|Khirbat Ţānā at Taḩtā|Khirbat Tana",32.1526,35.3957,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934394053
+"Naẖal Yaqin","Nahal Yaqin",Yaqin,31.5000,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934085118
+"Khirbat al Marājim","Khirbat al Marajim",,32.0483,35.3582,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934115357
+"Giv‘at Shappira","Giv`at Shappira",,31.8000,35.2500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934385997
+"Al Bīrah","Al Birah","Bīre|Bīra|Be-ērot|El Bīra|Be-ēroth|Al Bira|Bīrah",31.9100,35.2165,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934199231
+"Al Bīrah","Al Birah",,31.4354,34.9272,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934766992
+"Khirbat al Bizrah","Khirbat al Bizrah","Khirbat al Bizra|Khirbat el Bizra",32.4105,35.4180,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934765730
+"Benot Orot Yisra’el","Benot Orot Yisra'el",,32.1167,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934441243
+Oranit,Oranit,,32.1327,34.9910,"West Bank",XW,XWB,,,,,,3094.8,,,2,Asia/Jerusalem,FALSE,1934351449
+"Al Khamjāt","Al Khamjat",,31.5459,35.0528,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934722310
+"Kafr ‘Ayn","Kafr `Ayn","Kafr ‘Ein",32.0476,35.1204,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934380790
+"Rās Karkar","Ras Karkar","Ra’s Karkar",31.9424,35.1077,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934744826
+"Al Ka‘ābinah (Tajammu‘ Badawī)","Al Ka`abinah (Tajammu` Badawi)","Al Ka‘ābinah",31.8073,35.3277,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934576650
+Pelas,Pelas,,32.2667,35.5167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934007508
+"Bayt Mirsim","Bayt Mirsim","Bet Mirsham|Khirbat Beit Mirsim|Khirbat Bayt Mirsim|Bet Mirsim",31.4528,34.9138,"West Bank",XW,XWB,,,,,,146.3,,,4,Asia/Jerusalem,FALSE,1934955618
+"Jūrat ash Sham‘ah","Jurat ash Sham`ah","Khirbat ash Sham‘ah|Khirbat ash Sham‘a|Khirbat esh Shama|Jurat esh Shama|Jaurat esh Sham‘a",31.6505,35.1700,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934086682
+"Kafr Qūd","Kafr Qud",,32.4566,35.2265,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934216811
+"Qinān an Nimir","Qinan an Nimir",,31.5403,35.1953,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934885598
+"‘Izbat aţ Ţabīb","`Izbat at Tabib","‘Izbateṭ eṭ Ṭabīb",32.1816,35.0346,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934268140
+"Bet Yattir","Bet Yattir",,31.3496,35.1000,"West Bank",XW,XWB,,,,,,224.2,,,3,Asia/Jerusalem,FALSE,1934998830
+"Al Karmil","Al Karmil","Kirbat al Karmil",31.4230,35.1328,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934202875
+Netafim,Netafim,,32.1167,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934637196
+"Al Khāş","Al Khas",,31.7163,35.2535,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934997633
+"Ar Rajmān","Ar Rajman",,32.1441,35.3639,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934801330
+Iskīk,Iskik,"Khirbat as Sikak",31.4659,34.9570,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934097550
+Tannīn,Tannin,"Khirbat Tannīn",32.4153,35.3399,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934275255
+"Al Khuljān","Al Khuljan","Khirbat al Khuljān",32.4543,35.1443,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934342513
+Barghashah,Barghashah,"Khirbat Barghasha|Khirbat Barghashah",32.4772,35.3785,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934950284
+"Beit Ṣafāfā","Beit Safafa","Bayt Şafāfā|Beit Safafa",31.7427,35.2030,"West Bank",XW,XWB,,,,,,4566.8,,,2,Asia/Jerusalem,FALSE,1934000007
+"Khirbat al Manţarah","Khirbat al Mantarah",,31.6321,35.1076,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934062066
+"Ramot Allon","Ramot Allon",,31.8167,35.2000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934203251
+"Naẖal Geva‘ot","Nahal Geva`ot",Geva‘ot|Geva‘ot,31.6667,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934277415
+"Al Ittiḩād","Al Ittihad",Beitillu|Baytillū,31.9755,35.1160,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934752831
+"Al Lubban al Gharbī","Al Lubban al Gharbi","Al Lubban|El Lubban|Lubban Rantīs|Lubban",32.0350,35.0393,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934011400
+Rummanah,Rummanah,Rummāna,32.5245,35.2048,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934038579
+"Khallat al Qarānīn","Khallat al Qaranin",,31.6662,35.2148,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934702610
+"Dayr Niz̧ām","Dayr Nizam","Deir Nidhām",32.0028,35.1144,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934678882
+Rābā,Raba,,32.3868,35.3830,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934540322
+"Mevo Dotan","Mevo Dotan",,32.4167,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934978888
+Yāşīd,Yasid,,32.2969,35.2776,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934418345
+"Khirbat ‘Aşīdah","Khirbat `Asidah","Khirbat ‘Aṣīda",31.6213,35.1022,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934948905
+Kīsān,Kisan,,31.6108,35.2245,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934521435
+Rafīdīyah,Rafidiyah,Rafīdya|Rafīdiya,32.2231,35.2367,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934707537
+Gittit,Gittit,,32.0833,35.4000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934555551
+"Al Midyah","Al Midyah","Midyā|El Midya|Al Midya|Midyah",31.9359,35.0050,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934486968
+‘Ābā,`Aba,"Khirbat ‘Abā",32.4590,35.3239,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934479330
+Beqa‘ot,Beqa`ot,,32.2500,35.4500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934547102
+"Khirbat ar Rās al Aḩmar","Khirbat ar Ras al Ahmar",,32.2870,35.4470,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934240430
+Ḩarmalah,Harmalah,,31.6624,35.2221,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934575705
+"Al Bādhān","Al Badhan",,32.2586,35.3325,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934761144
+"Abū al ‘Asjā","Abu al `Asja",,31.4331,35.0138,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934076458
+Faqqū‘ah,Faqqu`ah,Faqqū‘a,32.4900,35.4016,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934385651
+"Avne Hafez","Avne Hafez",,32.2833,35.0667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934711150
+"Khirbat al Mafjir","Khirbat al Mafjir","Qaṣr Hishām el Amawi|Khirbat el Mafjir",31.8819,35.4617,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934017315
+Jammālah,Jammalah,Jamālīyah|Jammala,31.9721,35.0929,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934675664
+Silwād,Silwad,,31.9762,35.2613,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934094705
+"An Nazlah al Wusţá","An Nazlah al Wusta","An Nazlat al Wusţá|En Nazla el Wuṣta|An Nazla al Wusta|En Nazla al Wusta|En Nazle el Wasta",32.4089,35.0942,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934867185
+"Z̧ahrat an Nadá","Zahrat an Nada",,31.6913,35.2342,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934998151
+Shabtīn,Shabtin,,31.9733,35.0498,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934194482
+"Bayt al Khirbah","Bayt al Khirbah","Beit el Khirba",32.1497,35.2576,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934149998
+Till,Till,Tell|Tīl|Tall,32.2007,35.2129,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934816957
+Juhḑum,Juhdum,,31.7056,35.2694,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934113387
+Kūzībah,Kuzibah,"Khirbat Kuweiziba|Khirbat Kuwayzibah",31.6076,35.1561,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934572023
+"Ma‘ale Shomeron","Ma`ale Shomeron",,32.1500,35.0667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934282076
+Yo’ezer,Yo'ezer,,32.0667,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934838456
+"Bāqat al Ḩaţab","Baqat al Hatab",Baka|Bāqa|Bāqah,32.2043,35.1143,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934109111
+"Al Ḩīlah","Al Hilah",,31.4745,35.1074,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934713369
+"Qinān an Najmah","Qinan an Najmah",,31.4533,35.0640,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934024489
+Niran,Niran,,31.9667,35.4500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934921514
+‘Aţārūt,`Atarut,Kalandia|‘Atārōt,31.8667,35.2167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934326086
+"Abū al ‘Ajāj","Abu al `Ajaj","Abū el ‘Ajāj",32.1164,35.4894,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934191477
+"Shiḩda wa Hamlān","Shihda wa Hamlan",,32.2159,35.3940,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934686572
+"Ash Shaykh ‘Arūrī","Ash Shaykh `Aruri","Esh Sheikh ‘Arūrī|Ash Shaykh ‘Arūbī",31.9833,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934085631
+Mirkah,Mirkah,Mirka,32.3958,35.2381,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934322184
+"Khirbat al ‘Awjā’ at Taḩtā","Khirbat al `Awja' at Tahta","Khirbat el ‘Auja el Taḥta",31.9469,35.4597,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934333092
+"Al ‘Alaqah at Taḩtā","Al `Alaqah at Tahta","Khirbat al ‘Alaqah|Khirbat al ‘Alaga|Khirbat al ‘Alaqa",31.4558,35.0045,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934924883
+"Kefar Tappuah","Kefar Tappuah",,32.1167,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934944101
+"Kafr Ni‘mah","Kafr Ni`mah","Kafr Ni‘ma",31.9259,35.0956,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934138593
+"Hadar Betar","Hadar Betar",,31.7000,35.1000,"West Bank",XW,XWB,,,,,,3312.4,,,2,Asia/Jerusalem,FALSE,1934836666
+"Khirbat as Sākūt","Khirbat as Sakut","Khirbat es Sākūt",32.3636,35.5466,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934594890
+‘Akkābah,`Akkabah,"Khirbat ‘Aqqābah|Khirbat ‘Aqqaba|Khirbat al ‘Aqqabah|Khirbat el ‘Akkāba",32.4482,35.0816,"West Bank",XW,XWB,,,,,,739.2,,,3,Asia/Jerusalem,FALSE,1934572577
+Qīrah,Qirah,Qīra|Kireh|Qire,32.1221,35.1717,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934555171
+Qedumim,Qedumim,,32.2000,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934219121
+Efrata,Efrata,Efratah,31.6500,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934117858
+Jiljīlīyā,Jiljiliya,Jiljilīya|Jiljilīye|Jiljilia|Jiljilīyah,32.0299,35.2230,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934046179
+"‘Innāb al Kabīr","`Innab al Kabir","Qaşr ‘Inab al Kabīr|Qaṣr ‘Anāb el Kabīra|Qaşr ‘Anāb al Kabīrah|Qasr ‘Anab al Kabir",31.3956,34.9278,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934177636
+"An Nāqūrah","An Naqurah","En Nāqūra|An Māqūrah|Naqūra|An Naqura",32.2651,35.2013,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934253757
+Ḩalḩūl,Halhul,,31.5803,35.1018,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934666275
+"‘Ayn Sīnyā","`Ayn Sinya","‘Ein Sīnyā",31.9713,35.2278,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934736736
+"Khirbat an Najjār","Khirbat an Najjar","Khirbat en Najjār",32.1211,35.0093,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934926866
+Rakhmah,Rakhmah,,31.6782,35.2207,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934576906
+Ḩablah,Hablah,Habla,32.1652,34.9775,"West Bank",XW,XWB,,,,,,2575.0,,,2,Asia/Jerusalem,FALSE,1934594745
+"Aş Şuwānah","As Suwanah",,31.7855,35.2381,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934073770
+Shaqed,Shaqed,,32.3333,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934664743
+"Rās al ‘Āmūd","Ras al `Amud",,31.7702,35.2462,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934584980
+"Shaykh Jarrāḩ","Shaykh Jarrah",,31.7929,35.2317,"West Bank",XW,XWB,,,,,,883.8,,,3,Asia/Jerusalem,FALSE,1934924068
+"Miẕpé Yeriẖo","Mizpe Yeriho",,31.8000,35.3833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934418189
+Khuraysah,Khuraysah,"Khirbat al Khuraysah|Khirbat Khurseisa|Khirbat Khursaysah|Khirbat Khureisa",31.4521,35.1287,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934059263
+Yaţţā,Yatta,Yaţţah|Yaṭṭa|Yuta,31.4459,35.0944,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934931254
+‘Anzah,`Anzah,‘Anza,32.3592,35.2201,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934288368
+Allon,Allon,,31.8167,35.3500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934559291
+Nili,Nili,,31.9500,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934993160
+H̱aggy,Haggy,Haggai,31.4833,35.0833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934282315
+Jībiyā,Jibiya,Jībyā,31.9980,35.1599,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934815924
+"Al Manshīyah","Al Manshiyah",,31.6424,35.1942,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934877053
+"Al Manshīyah","Al Manshiyah",,32.4485,35.2386,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,TRUE,1934569268
+"As Samū‘","As Samu`","Es Samū‘|Eshtemoa‘",31.3967,35.0661,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934399628
+"Al ‘Aţţārah","Al `Attarah","El ‘Aţţāra|Al ‘Attara|‘Aṭṭāra",32.3257,35.1637,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934749805
+"Bayt Qād","Bayt Qad","Beit Qād",32.4697,35.3563,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934020203
+"Bayt Ta‘mar","Bayt Ta`mar","Khirbat Beit Ta‘mir|Khirbat Bayt Ta‘mīr",31.6793,35.2399,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934473899
+"Khirbat Dayr Shams","Khirbat Dayr Shams","Khirbat Deir ash Shams|Khirbat Deir Shams|Khirbat Dayr ash Shams",31.4073,35.0203,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934587555
+"Wādī al ‘Arāyis","Wadi al `Arayis",,31.7120,35.2719,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934213545
+"‘Arab as Suwayţāt","`Arab as Suwaytat",,32.4450,35.3089,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934321987
+"Tel Hayim","Tel Hayim",,32.1667,35.3000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934303501
+"‘Irqān Ţurād","`Irqan Turad",,31.6006,35.1539,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934664753
+Būrīn,Burin,,32.1845,35.2501,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934420413
+‘Attīl,`Attil,,32.3694,35.0719,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934093434
+Surdā,Surda,Surdah,31.9371,35.2032,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934080833
+Kafā,Kafa,"Khirbat Kafā",32.2953,35.0521,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934292349
+Jifnā,Jifna,,31.9619,35.2134,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934297617
+Jīt,Jit,"Jītt|Qaryat Jīt",32.2143,35.1708,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934823778
+"Naẖal Ginnat","Nahal Ginnat",Ginnat,32.4667,35.2667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934872897
+"An Naşşārīyah","An Nassariyah","Khirbat el Murassas|Khirbat el Mirṣāṣ|Khirbat al Muraşşaş|Khirbat al Mirşās",32.2365,35.3871,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934795184
+"Wādī as Sādah","Wadi as Sadah",,31.4602,35.0793,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934770811
+"Khirbat Ţablīyah","Khirbat Tabliyah","Khirbat Tabaliya",31.7394,35.1984,"West Bank",XW,XWB,,,,,,3594.6,,,2,Asia/Jerusalem,FALSE,1934421835
+"Umm ar Rīḩān","Umm ar Rihan","Khirbat Um er Rihān|Khirbat Umm ar Rīḩān|Khirbat Umm ar Rayḩān",32.4833,35.1409,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934131992
+Qīqis,Qiqis,,32.4466,35.1054,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934332990
+Ḩumşah,Humsah,"Khirbat Ḩumşah|Khirbat Ḩumsā",31.5326,34.9856,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934072634
+"Khallat an Nu‘mān","Khallat an Nu`man",,31.7175,35.2423,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934688054
+"Khirbat ‘Abd Allāh Ibrāhīm","Khirbat `Abd Allah Ibrahim","Khirbat ‘Abdullah Ibrāhīm",31.6667,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934714313
+Ḩurayz,Hurayz,,31.4695,35.1222,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934815734
+"Khirbat al Mushrif","Khirbat al Mushrif","Khirbat al Musharraf|Khirbat el Mushrif|Khirbat Musharraf",31.6244,35.0267,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934431694
+Bazzāryah,Bazzaryah,Bazāriya|Bazzāriya|Bazārīyah|Bazzārīyah,32.3080,35.1659,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934848354
+"Mezad B","Mezad B",,31.5833,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934773987
+Nofim,Nofim,,32.1500,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934003577
+"Abū al ‘Urqān","Abu al `Urqan","Khirbat ar Rābūd|Khirbat el Rābūd|Khirbat Rabūḑ",31.4312,35.0211,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934027325
+"‘Arab ar Rashāydah","`Arab ar Rashaydah",,31.5711,35.2323,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934718169
+"Al Jakhādim","Al Jakhadim","El Jakhādim",32.4524,35.2197,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934322899
+"Kafr Qallīl","Kafr Qallil","Kafr Qalīl",32.1935,35.2828,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934006523
+Ofra,Ofra,,31.9167,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934030564
+"‘Ayn al Bayḑā","`Ayn al Bayda",,32.3805,35.5084,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934048815
+"Khirbat al Munţār al Gharbīyah","Khirbat al Muntar al Gharbiyah",,32.4614,35.1124,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934252370
+H̱allamish,Hallamish,,32.0000,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934895476
+"Az Zāwiyah","Az Zawiyah","Ez Zāwiya|Zāwiya|Zāwiyah",32.3760,35.2317,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934199290
+"Az Zāwiyah","Az Zawiyah","Ez Zāwiya|Zāwiyah|Zāwiya|Ez Zāwye",32.0963,35.0398,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934686916
+‘Aţārah,`Atarah,"‘Attāra|Ain ‘Atāra|‘Aţţārah",32.0006,35.2047,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934957323
+"Ma‘ale Mikhmas","Ma`ale Mikhmas",Mikhmas,31.8667,35.3000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934081526
+"Banī Zayd ash Shārqīyah","Bani Zayd ash Sharqiyah","Mazāri‘ an Nūbānī|Mazāri‘ en Nūbānī",32.0493,35.1659,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934102364
+Jaba‘,Jaba`,Geva‘|Jeba,32.3241,35.2213,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934440260
+Jaba‘,Jaba`,"Al Jaba‘",31.8573,35.2587,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934873199
+Ḩāris,Haris,,32.1142,35.1419,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934408888
+"Khirbat Jubb ar Rūm","Khirbat Jubb ar Rum","Khirbat Jubb er Rūm",31.7415,35.2681,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934140147
+Ḩattā,Hatta,"Khirbat Ḩaţţah|Khirbat Ḥatteh|Khirbat Hatta",31.6188,35.0236,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934599820
+Şūrīf,Surif,,31.6508,35.0644,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934894185
+"Ţūrah ash Sharqīyah","Turah ash Sharqiyah","Khirbat Tūra ash Sharqīya|Tūra esh Shargiya",32.4645,35.1712,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934012412
+"Abū Nujaym","Abu Nujaym","Khirbat Abu Nujeim|Khirbat Abū Nujaym",31.6628,35.1990,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934946291
+‘Ammūryah,`Ammuryah,‘Ammuriya|‘Ammūrya|‘Ammūriyah,32.0635,35.2097,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934153164
+"Khallat Şāliḩ","Khallat Salih",,31.4201,35.1152,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934737172
+"Aţ Ţaybah","At Taybah","Khirbat aţ Ţayyibah|Aţ Ţayyibah|Khirbet at Taiyiba|Et Taiyiba",32.5149,35.1857,"West Bank",XW,XWB,,,,,,649.2,,,3,Asia/Jerusalem,FALSE,1934759854
+"Aţ Ţaybah","At Taybah","El Ṭaiyibā|Ophrah|‘Ofrā|Ṭaiyiba|Aţ Ţayyibah|At Taiyiba|Et Taiyibe|Et Taiyiba|Taiyibi|Aţ Ţayyibā|Et Tayyibeh",31.9539,35.2998,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934098452
+‘Aqrabā,`Aqraba,‘Aqrabe|‘Aqraba,32.1250,35.3455,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934581370
+Yitav,Yitav,,31.9500,35.4167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934891716
+"Bayt Amīn","Bayt Amin","Khirbat Beit Amīn|Khirbat Bayt Amīn",32.1315,35.0214,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934955734
+"Dayr Ibzī‘","Dayr Ibzi`","Deir Ibzī‘",31.9173,35.1211,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934676999
+"Bet H̱oron B","Bet Horon B",,31.8833,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934464340
+"Mishor Adummim","Mishor Adummim","Ma‘ale Adumin",31.8000,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934931420
+Jammā‘īn,Jamma`in,Djemmain|Jemmā‘īn,32.1316,35.2040,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934019306
+Yabrūd,Yabrud,,31.9733,35.2452,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934194651
+"Bayt Dajan","Bayt Dajan","Beit Dajan",32.1930,35.3713,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934949243
+"Wādī ‘Ubayd","Wadi `Ubayd",,31.4903,35.0068,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934263096
+Adnim,Adnim,,32.0667,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934907584
+Atraqzia,Atraqzia,,31.7500,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934035265
+‘Anātā,`Anata,‘Anātōt,31.8092,35.2590,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934575740
+Naẖali’el,Nahali'el,,31.9667,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934012153
+"Al ‘Araqa","Al `Araqa","Arrakah|‘Araqa|El ‘Araqa|‘Araqah|‘Arrāqa",32.4706,35.2003,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934168548
+"Khirbat an Naşārá","Khirbat an Nasara","Khirbat en Naṣāra",31.5530,35.1018,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934311021
+"Talmon C","Talmon C",,31.9333,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934355677
+"Bayt Imrīn","Bayt Imrin","Bayt Umrīn|Beit Umrīn",32.2930,35.2161,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934677803
+Kaddim,Kaddim,Qaddim,32.4500,35.3167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934638808
+"Kefar ‘Eẕyon","Kefar `Ezyon","Kfar Etzion|Kfar-Etsion|Kefar Etzion|Kfar Etziyon",31.6500,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934983226
+"Bayt ‘Īnūn","Bayt `Inun","Khirbat Bayt ‘Aynūn|Khirbat Bayt ‘Ānūn|Khirbat Beit ‘Anun",31.5587,35.1244,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934947947
+"Wered Yeriẖo","Wered Yeriho","Vered Yeriho",31.8167,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934636567
+"Khirbat ‘Aţūf","Khirbat `Atuf",,32.2629,35.4376,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934053881
+"Bayt ‘Awwā","Bayt `Awwa","Khirbat Beit ‘Awwa|Khirbat Bayt ‘Awwā’",31.5091,34.9494,"West Bank",XW,XWB,,,,,,237.4,,,3,Asia/Jerusalem,FALSE,1934791692
+Migdallim,Migdallim,Migdalim,32.0833,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934240936
+"Bayt Ḩanīnā","Bayt Hanina","Beit Ḥanīnā",31.8300,35.2254,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934807449
+‘Aslah,`Aslah,‘Islah|‘Isla,32.1733,35.0355,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934073757
+"Giv‘on HaHadasha","Giv`on HaHadasha","Giv‘On Hadassa",31.8500,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934765606
+"Khirbat ‘Asalah","Khirbat `Asalah","Khirbat Asala",32.1667,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934608423
+"Bayt Ḩamdān al Aḩmad","Bayt Hamdan al Ahmad","Beit Ḥamdān el Aḥmad",32.4688,35.1507,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934473538
+"Ḑāḩiyat Şabāḩ al Khayr","Dahiyat Sabah al Khayr",,32.4883,35.2990,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934065198
+"Abū al Ghuzlān","Abu al Ghuzlan",,31.4373,35.0084,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934397561
+"Khallat al ‘Aqd","Khallat al `Aqd",,31.4675,34.9864,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934459976
+"Kafr Lāqif","Kafr Laqif",,32.1834,35.0907,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934417234
+Zaytā,Zayta,Zeitā,32.3856,35.0512,"West Bank",XW,XWB,,,,,,1395.3,,,3,Asia/Jerusalem,FALSE,1934695859
+"Khirbat Kafr Baytā","Khirbat Kafr Bayta","Khirbat Kūfr Beita|Khirbat Kūfr Baytah|Kafr Beita|Kafr Baytā|Khirbat Kafr Beita",32.1902,35.3253,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934984656
+"Khirbat ash Shaykh Sa‘īd","Khirbat ash Shaykh Sa`id",,32.4717,35.1079,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934653480
+"‘Aşīrah ash Shamālīyah","`Asirah ash Shamaliyah","Aş Şīrā ash Shamālīyah|Asira ash Shamaliya|‘Asira|‘Aṣīra esh Shamālīya|‘Asīra esh Shamālīye",32.2512,35.2672,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934945640
+"Wādī aḑ Ḑabi‘","Wadi ad Dabi`","Khirbat Wad ad Dabi‘|Khirbat Wādī eḍ Ḍab‘|Khirbat Wādī aḑ Ḑab‘",32.4532,35.3323,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934134615
+Zamarot,Zamarot,,32.1167,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934849616
+"Al ‘Īsawīyah","Al `Isawiyah",,31.7990,35.2500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934185338
+"Khirbat Muqaysimah","Khirbat Muqaysimah","Khirbat Muqeisima",32.2427,35.4548,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934440361
+"As Sāyidah","As Sayidah",,32.5075,35.2033,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934650847
+"Al ‘Azāzimah","Al `Azazimah",,31.5633,35.2358,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934392206
+Mardā,Marda,Marda|Mardah,32.1138,35.1954,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934373325
+"Khayr wa Shuyūsh wal Ḩadīdīyah","Khayr wa Shuyush wal Hadidiyah",,31.4417,35.1279,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934889194
+Rachelim,Rachelim,,32.0833,35.2500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934361006
+Dūrā,Dura,Dūrah,31.5078,35.0293,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934306895
+"Dayr Ghazālah","Dayr Ghazalah","Deir Ghazāla|Dayr Ghazzālah|Deir Ghazzālah|Deir Ghazzāla",32.4959,35.3510,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934280424
+"Giv‘on Hadassa B","Giv`on Hadassa B",,31.8333,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934589323
+"Al Muwarraq","Al Muwarraq","Khirbat al Murāq",31.5282,34.9677,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934980354
+"Zaytā Jammā‘īn","Zayta Jamma`in",Zeita|Zaytā,32.1370,35.1860,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934411726
+Baytā,Bayta,,32.1415,35.2835,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934153078
+"Jurūn al Lawz","Jurun al Lawz","Khirbat Jurn al Lawzah|Khirbat Jurūn al Lawzah|Khirbat Jurun al Lauza|Khirbat Jurūn el Lauza",31.5452,35.1742,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934649796
+"Abū Qashsh","Abu Qashsh","Abū Qash",31.9488,35.1843,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934666615
+"Khirbat Jamrīn","Khirbat Jamrin",,31.6296,35.0467,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934688771
+"Az Za‘ayyim","Az Za`ayyim",,31.7885,35.2651,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934012654
+Jūrīsh,Jurish,,32.1019,35.3219,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934121841
+"As Sawāḩirah al Gharbīyah","As Sawahirah al Gharbiyah",,31.7459,35.2668,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934242325
+"Wādī Du‘ūq","Wadi Du`uq",,32.3924,35.2219,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934324844
+Za‘tarah,Za`tarah,"Khirbat Za‘tarah|Khirbat Za‘tara",32.1227,35.2569,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934739118
+Za‘tarah,Za`tarah,"Za ‘Tara",31.6736,35.2566,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934409202
+"Umm al Khayr","Umm al Khayr","Al Faqīr|Khirbat Umm Kheir|Khirbat Umm Khayr|Khirbat Um Kheir",31.4254,35.1957,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934083469
+Shūfah,Shufah,Shūfa|Shawfah,32.2755,35.0813,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934297200
+"Wādī al Fār‘ah","Wadi al Far`ah",,32.2745,35.3419,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934031632
+Mezad,Mezad,,31.5833,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934482630
+"Al Buq‘ah","Al Buq`ah",,31.5420,35.1428,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934532134
+"Jalamat as Siyār","Jalamat as Siyar","Jalamāt eṣ Ṣiyar",32.4433,35.2988,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934241654
+"Al Buwayb","Al Buwayb","Khirbat al Buwayb|Khirbat al Buweib|Khirbat al Buweig|Khirbat al Buwayq",31.4640,35.1523,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934716339
+"Naẖal Negohot","Nahal Negohot",Negohot,31.4833,34.9667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934743237
+"Khallat al Ballūţah","Khallat al Ballutah",,31.6675,35.1197,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934559595
+"An Nazlah ash Sharqīyah","An Nazlah ash Sharqiyah","En Nazla esh Sharqiya|En Nazla ash Sharqiya|An Nazlat ash Sharqīyah|An Nazla ash Sharqiya",32.4107,35.1092,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934426393
+"Newe Oranim","Newe Oranim",,32.1667,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934455266
+"Khirbat Shuwaykah","Khirbat Shuwaykah","Khirbat Shuweika",31.4030,35.0076,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934024120
+Gavri’el,Gavri'el,,32.0833,35.0667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934870710
+"‘Ayn Yabrūd","`Ayn Yabrud","Yabrūd|‘Ain Yabrūd|‘Ein Yabrūd",31.9492,35.2512,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934277517
+"Khirbat al Jamrūrah","Khirbat al Jamrurah","Khirbat Jamrura",31.5856,34.9770,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934110570
+"Al Kufayr","Al Kufayr",Kufeir|Kufayr,32.3717,35.3416,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934299887
+Jalbūn,Jalbun,Djelbon|Gilbo‘a,32.4596,35.4152,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934443521
+"Qurnat ar Rās","Qurnat ar Ras",,31.4508,35.1186,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934590362
+Ti‘innik,Ti`innik,Ta‘anākh|Tannuk,32.5196,35.2197,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934888564
+Burhām,Burham,Burbam,31.9896,35.1741,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934951666
+"‘Izbat Salmān","`Izbat Salman",,32.1422,34.9983,"West Bank",XW,XWB,,,,,,689.0,,,3,Asia/Jerusalem,FALSE,1934316659
+"Al ‘Iqāb","Al `Iqab",,31.6646,35.2346,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934785478
+"Wādī Qānā","Wadi Qana",,32.1591,35.1064,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934401308
+"Umm at Tūt","Umm at Tut","Umm et Tūt|Um et Tūt",32.4323,35.3442,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934558840
+"Karme Ẕur","Karme Zur",,31.6000,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934856401
+Yānūn,Yanun,,32.1454,35.3554,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934931035
+"‘Arab ar Ramaḑīn ash Shamālī","`Arab ar Ramadin ash Shamali",,32.1939,35.0007,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934666812
+"Mashra‘ Abū Gharbah","Mashra` Abu Gharbah","Mashra‘ Abū Gharba",32.1023,35.5259,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934314866
+"Az Zubaydāt","Az Zubaydat",,32.1733,35.5301,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934310657
+Birqīn,Birqin,Burqīn,32.4546,35.2608,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934937546
+"Khān al ‘Askar","Khan al `Askar","Khān el ‘Askar",31.8167,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934862061
+"Bayt Nūbā","Bayt Nuba","Beit Nūbā|Bayt Lūbā",31.8591,35.0436,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934452656
+"Har Adar","Har Adar","Giv‘at HaRadar",31.8167,35.1333,"West Bank",XW,XWB,,,,,,952.3,,,3,Asia/Jerusalem,FALSE,1934638680
+"Khirbat Bayt Naşīb al Gharbīyah","Khirbat Bayt Nasib al Gharbiyah","Khirbat Beit Naṣīb el Gharbiya",31.5916,35.0250,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934270307
+Karmel,Karmel,,31.4167,35.1833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934534943
+Gannim,Gannim,,32.4500,35.3333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934900530
+Adam,Adam,,31.8333,35.2667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934524623
+"Bayt Fūrīk","Bayt Furik","Beit Fūrīk|Bayt Nūrīk",32.1769,35.3354,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934997400
+"Qiryatayim Anim","Qiryatayim Anim",,31.3500,35.0667,"West Bank",XW,XWB,,,,,,386.8,,,3,Asia/Jerusalem,FALSE,1934397511
+"Al Ḩafīrah","Al Hafirah","Khirbat al Ḩufayrah|Khirbat el Ḥufeira|Khirbat Ḩafīrah|Khirbat Hafira",32.4116,35.2368,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934985415
+Adora,Adora,,31.5167,34.9833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934575513
+Zufin,Zufin,Zofim,32.2000,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934810373
+"‘Irāq Būrīn","`Iraq Burin",,32.2008,35.2416,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934880796
+"Ma‘ale Levona","Ma`ale Levona",,32.0500,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934070157
+Ya‘arit,Ya`arit,,32.2500,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934519631
+"Ar Rakīz","Ar Rakiz",,31.4092,35.1610,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934944798
+"‘Ez Efrayim","`Ez Efrayim",,32.1167,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934996657
+"Makhfar Kālīyah","Makhfar Kaliyah",Kallia,31.7667,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934431586
+"Khirbat al Majāz","Khirbat al Majaz",,31.3791,35.1880,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934223794
+Şarţah,Sartah,Sarta,32.1045,35.0920,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934374680
+Brūqīn,Bruqin,Bruqin|Burqayn|Burqīn|Burgīn,32.0722,35.0994,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934536073
+‘Eli,`Eli,,32.0667,35.2667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934380021
+"Bet El B","Bet El B",,31.9333,35.2167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934321494
+"Al Funduq","Al Funduq","El Funduq|Pundaq",32.1905,35.1371,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934352212
+"Wādī an Nīş","Wadi an Nis",,31.6539,35.1615,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934997727
+"Al Ḩafāşī","Al Hafasi",,32.2914,35.0765,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934818893
+"Jafā an Nūn","Jafa an Nun",,32.1321,35.4033,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934332436
+"Khirbat Kafr Shayyān","Khirbat Kafr Shayyan","Khirbat Kafr Shaiyān|Khirbat Kafr Sheiyan|Khirbat Kafr Shiyyān",31.9078,35.1589,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934710805
+Ţawās,Tawas,"Khirbat Ţawās",31.4891,34.9564,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934102344
+Yiẕhar,Yizhar,,32.1667,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934520734
+Khursā,Khursa,"Khirbat Kharsā’|Khirbat Khursah|Khirbat Khursa",31.4823,35.0174,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934917714
+"Pisgat Amir","Pisgat Amir",,31.8167,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934415226
+"Al ‘Aqbah","Al `Aqbah",,32.3361,35.4189,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934088022
+"Bayt Kāḩil","Bayt Kahil","Beit Kāḥil",31.5701,35.0650,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934898479
+"Kafr ad Dīk","Kafr ad Dik","Kafr ed Dīk",32.0671,35.0829,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934288242
+"Bīr Nabālā","Bir Nabala","Bi’r Nabālā",31.8508,35.2036,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934151846
+Adorah,Adorah,,31.5500,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934566390
+"Khirbat Tuqū‘","Khirbat Tuqu`",,31.6288,35.2080,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934895947
+Sal‘it,Sal`it,,32.2333,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934577172
+"Khirbat ar Rahwah","Khirbat ar Rahwah","Khirbat ar Rahwa",31.3552,34.9387,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934464007
+"Umm Qābūb","Umm Qabub",,32.4628,35.3663,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934306502
+"Khirbat Ţawīl ash Shīḩ","Khirbat Tawil ash Shih",,31.3830,35.2254,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934294927
+"Ar Rās","Ar Ras","Ar Ra’s|Er Rās",32.2513,35.0620,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934292801
+"Alfe Menashe","Alfe Menashe",,32.1667,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934518268
+Salfīt,Salfit,,32.0837,35.1808,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934211739
+"Mizpe Rahel","Mizpe Rahel",,32.0500,35.2833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934325443
+"Khirbat Ḩumşah","Khirbat Humsah","Khirbat al Ḩumşah|Khirbat el Ḥumṣa",32.2345,35.4912,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934843245
+"Al Munţār","Al Muntar","Khirbat Minţār|Khirbat al Munţār",31.4358,35.0766,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934721738
+"Sīlat az̧ Z̧ahr","Silat az Zahr","Silat edh Dhahr|Sīlat adh Dhahr|Sīlet edh Dhahr|Saylat aḑ Ḑahr",32.3193,35.1842,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934376469
+Ţallūzah,Talluzah,Ţallūzā,32.2706,35.2950,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934042655
+"Bayt Liqyā","Bayt Liqya","Likia|Beit Liqyā",31.8696,35.0654,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934153023
+"Bayt Ūlā","Bayt Ula","Beit Aulā|Bayt Awlā",31.5962,35.0296,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934957454
+"‘Arab Abū Fardah","`Arab Abu Fardah",,32.1823,35.0001,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934968974
+Taffūḩ,Taffuh,,31.5386,35.0497,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934370974
+"Az Zaytūnīyah","Az Zaytuniyah","Al Mazra‘ah al Qiblīyah|Mazra‘at Bani Hārith|El Mazra‘a el Qibliya|El Mazra‘a al Qibliya|Al Mazra‘at al Qiblīyah|Mazra‘a al Qibliya",31.9540,35.1624,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934921662
+"Kafr Thulth","Kafr Thulth",,32.1533,35.0470,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934363309
+"Al Māliḩ","Al Malih","Khirbat al Māliḩ",32.3275,35.4619,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934115351
+"Zoref B","Zoref B",,31.6667,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934806943
+"Dayr Ghassānah","Dayr Ghassanah","Deir Ghassāna",32.0458,35.0973,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934750611
+Kurzah,Kurzah,"Khirbat Karza|Khirbat Karazah|Khirbat Karaza|Khirbat Karzah",31.4405,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934531715
+Ţarrāmah,Tarramah,"Khirbat Tarrama|Khirbat et Tarrāma|Khirbat al Tarrāma|Khirbat at Tarrāmah",31.4808,35.0325,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934352374
+"Khirbat Bism","Khirbat Bism",,31.4627,35.0335,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934859051
+"Ath Thaghrah","Ath Thaghrah",,32.3300,35.3898,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934351575
+Qalya,Qalya,,31.7500,35.4667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934078965
+"Khallat Ḩamāmah","Khallat Hamamah",,31.7216,35.1924,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934689506
+"Bayt Ībā","Bayt Iba","Beit Ība",32.2372,35.2098,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934361529
+"Ma‘ale Adummim","Ma`ale Adummim","Ma‘ale Ha‘adumim",31.8167,35.3500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934843334
+"Al ‘Alaqah al Fawqā","Al `Alaqah al Fawqa",,31.4606,35.0085,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934738883
+Ūdalah,Udalah,‘Udala|‘Awdallah|Audala|Odala,32.1536,35.2765,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934465545
+Massu’a,Massu'a,Massau,32.1000,35.4833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934671048
+"‘Aşīrah al Qiblīyah","`Asirah al Qibliyah","Kiblie|‘Asīra el Qiblīya|‘Asīra al Qiblīya|Kibliyeh|‘Asīra el Qiblīye|Hatsērōt",32.1784,35.2157,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934374129
+"Kafr ‘Abbūsh","Kafr `Abbush",,32.2235,35.0850,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934048304
+Ţammūn,Tammun,,32.2835,35.3837,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934002130
+"Khirbat ad Dayr","Khirbat ad Dayr","Khirbat ad Deir|Khirbat ed Deir",31.6521,35.2118,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934513643
+"Khirbat ad Dayr","Khirbat ad Dayr","Khirbat ad Deir|Khirbat ed Deir",31.6556,35.0255,"West Bank",XW,XWB,,,,,,611.5,,,3,Asia/Jerusalem,TRUE,1934685350
+Wāḑiḩ,Wadih,"Khirbat Wāḑiḩ",31.5036,35.0007,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934797278
+"Al Mas‘ūdīyah","Al Mas`udiyah",,32.2821,35.1767,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934000098
+"Kokhav HaShaẖar","Kokhav HaShahar","Nahal Kochav Hashahar",31.9667,35.3500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934640110
+"Mizpe Deragot","Mizpe Deragot",,31.5833,35.3833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934493585
+"Al Manşūrah","Al Mansurah",,32.3865,35.2163,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934260429
+"Al Ḩadīdīyah","Al Hadidiyah","Khirbat al Ḩadīdah|Khirbat al Hadidiya|Khirbat al Ḩadīdīyah",32.2403,35.4961,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934395351
+"H̱oron Gimmel","Horon Gimmel",,31.9167,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934167774
+‘Aqqābah,`Aqqabah,‘Aqqābe|‘Aqqāba|Aqabe|Akabeh,32.3510,35.3503,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934363394
+"‘Ayn Shiblī","`Ayn Shibli",,32.2293,35.4252,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934813049
+"Ad Dayrāt","Ad Dayrat","Khirbat ad Dayrāt|Khirbat ad Deirat|Khirbat ad Dayrah",31.4438,35.1635,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934461086
+Kardalah,Kardalah,,32.3797,35.4920,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934992162
+"Dayr Jarīr","Dayr Jarir","Deir Jarīr",31.9664,35.2926,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934297649
+"Khirbat Bayt Naşīb ash Sharqīyah","Khirbat Bayt Nasib ash Sharqiyah","Khirbat Beit Naṣīb esh Sharqiya|Khirbat Beit Nasib|Khirbat Bayt Naşīb",31.5880,35.0246,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934241465
+"Kafr Rummān","Kafr Rumman",,32.3165,35.1261,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934657882
+"Canada Park","Canada Park",,31.8333,35.0000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934404299
+"Bāqah ash Sharqīyah","Baqah ash Sharqiyah","Bāqa esh Sharqiya|Baqa ash Sharqiya|Bāqat ash Sharqīyah",32.4103,35.0705,"West Bank",XW,XWB,,,,,,756.9,,,3,Asia/Jerusalem,FALSE,1934467090
+"Umm al Buţm","Umm al Butm",,31.6098,35.1936,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934412812
+"Rosh Ẕurim","Rosh Zurim","Rosh Tzurim",31.6667,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934816656
+Menora,Menora,,31.9167,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934249824
+"Dayr Sāmit","Dayr Samit","Khirbat Dayr Şāmit|Khirbat Deir Samit",31.5206,34.9744,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934047292
+Shuqbā,Shuqba,Shuqbah,31.9870,35.0401,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934789665
+"Naẖal Argaman","Nahal Argaman","Nahal Argeman|Argaman",32.1731,35.5242,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934114319
+Far‘ūn,Far`un,Far‘un|Fir‘awn,32.2861,35.0233,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934779278
+‘Arrānah,`Arranah,‘Arrāna,32.4972,35.3227,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934805276
+"Dayr ‘Ammār","Dayr `Ammar","Deir Ammar",31.9675,35.1052,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934811322
+Iktābah,Iktabah,Iktaba,32.3266,35.0526,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934450727
+"Bīr Zayt","Bir Zayt","Bīr Zeit|Bi’r az Zayt|Az Zayt",31.9696,35.1941,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934670995
+Zabdah,Zabdah,Zibda|Zibdah,32.4508,35.1296,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934175926
+"Ath Thabrah","Ath Thabrah",,31.6707,35.1798,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934146926
+"Barqan B","Barqan B",,32.1000,35.1000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934629791
+"Al Faşāyil","Al Fasayil","El Faṣāyil|Paza’el|Al Faşā’il",32.0251,35.4435,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934416998
+"Bayt Maqdūm","Bayt Maqdum","Khirbat Bayt Maqdūm|Khirbat Beit Maqdum",31.5354,34.9719,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934342463
+"Khirbat Yarzah","Khirbat Yarzah","Khirbat Yarzā",32.3080,35.4353,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934587390
+"Ar Rāmah","Ar Ramah","Rāma|Ar Rama|Er Rāma",32.3592,35.1712,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934807978
+Bal‘ā,Bal`a,Bal‘ah,32.3339,35.1116,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934308278
+Shilat,Shilat,,31.9167,35.0167,"West Bank",XW,XWB,,,,,,723.1,,,3,Asia/Jerusalem,FALSE,1934802110
+"Qiryat Arba‘","Qiryat Arba`","Kiryat Arba",31.5284,35.1190,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934326613
+"As Sāwiyah","As Sawiyah","As Sawiya|Es Sāwiya",32.0854,35.2578,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934352907
+"Al Hāshimīyah","Al Hashimiyah","El Hāshimiya|Al Bārid|El Bārid",32.4639,35.2194,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934898012
+"Umm Şafā","Umm Safa","Um es Safa|Kafr Ishwa|Kafr Ashwa‘|Um es Saf",32.0089,35.1646,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934217194
+’Omarim,'Omarim,,31.3667,34.9500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934524301
+"Al Yāmūn","Al Yamun","El Yāmūn|Yāmūn",32.4856,35.2301,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934618035
+"Khirbat Abū Khamīsh","Khirbat Abu Khamish",,32.3100,35.0852,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934240287
+Noqedim,Noqedim,,31.6500,35.2333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934547843
+"Newe Daniyyel","Newe Daniyyel",,31.6833,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934740181
+"Wādī ar Rīm","Wadi ar Rim",,31.5451,35.1860,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934733905
+H̱amra,Hamra,Attarot,32.2000,35.4167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934053047
+Maskiyyot,Maskiyyot,,32.3167,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934489383
+Rāfāt,Rafat,,31.8710,35.1918,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934316460
+Rāfāt,Rafat,,32.0781,35.0442,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934632667
+"Al Manīyah","Al Maniyah","Khirbat al Minyā",31.6185,35.2212,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934256985
+"Bīr Musallam","Bir Musallam",,31.5732,34.9827,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934579339
+Ḩajjah,Hajjah,"Qaryat Ḩajjah|Ḥajja|Qaryat Hajja",32.2043,35.1308,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934636619
+H̱innanit,Hinnanit,,32.4667,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934084450
+"Bayt Līd","Bayt Lid","Beit Līd",32.2609,35.1317,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934931193
+Mislīyah,Misliyah,Misilya|Misliya|Misilyah,32.3861,35.2878,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934535904
+"Shadmot Mehola","Shadmot Mehola",,32.3333,35.5333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934994306
+"Aş Şūrrah","As Surrah",,31.4710,34.9990,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934310584
+"Badiw al Mu‘arrajāt","Badiw al Mu`arrajat",,31.9255,35.3183,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934468760
+"Al Jab‘ah","Al Jab`ah","Al Jaba‘|Jab‘a|El Jab‘a",31.6742,35.0772,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934618176
+Tuqū‘,Tuqu`,"Khirbat aţ Ţuqu‘",31.6373,35.2174,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934078874
+"Khirbat Umm aţ Ţal‘","Khirbat Umm at Tal`","Khirbat Umm at Tala‘|Khirbat Um et Tala‘",31.6971,35.2640,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934713908
+"‘Arab al Jahālīn","`Arab al Jahalin",,31.7593,35.2850,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934236109
+"‘Arab ar Ramāḑīn al Janūbī","`Arab ar Ramadin al Janubi",,32.1746,34.9898,"West Bank",XW,XWB,,,,,,726.4,,,3,Asia/Jerusalem,FALSE,1934531300
+Talmon,Talmon,,31.9333,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934213064
+"An Najādah","An Najadah",,31.4079,35.2124,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934770633
+"As Sīmyā","As Simya","Khirbat as Sīmīyah|Khirbat as Sīmiyā’",31.4210,35.0331,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934472834
+"Elqana D","Elqana D",,32.1000,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934261595
+"Furūsh Bayt Dajan","Furush Bayt Dajan",,32.1856,35.4568,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934131062
+"Marāḩ al Baqqār","Marah al Baqqar","Khirbat Marāḩ al Baqqār|Khirbat Maraḥ el Baqqār",31.4764,34.9805,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934863365
+‘Ūrīf,`Urif,,32.1595,35.2223,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934961465
+Turmus‘ayyā,Turmus`ayya,"Turmus ‘Ayyah|Turmus ‘Aiyā|Turmas ‘Aya|Turmus ‘Ayyā",32.0354,35.2856,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934945986
+"Bet Arye","Bet Arye",,32.0333,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934755045
+Ḩamrūsh,Hamrush,,31.6040,35.1745,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934824606
+"Allon Shevut","Allon Shevut",,31.6667,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934293930
+‘Ārūrah,`Arurah,Brura|‘Arūra,32.0411,35.1709,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934031796
+"Dayr al ‘Asal at Taḩtā","Dayr al `Asal at Tahta","Khirbat Dayr ‘Asal at Taḩtā|Khirbat Dayr al ‘Asal|Khirbat Deir al ‘Asal|Khirbat Deir ‘Asal et Taḥta|Khirbat Dayr al ‘Asal at Taḩtā",31.4733,34.9446,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934517464
+"Umm Laşafā","Umm Lasafa","Khirbat Um Laṣafa|Khirbat Umm Laşafā|Khirbat Umm Lasafa",31.4360,35.1561,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934929994
+"Khirbat al Ḩarazān","Khirbat al Harazan","Khirbat el Ḥarazān",31.7333,35.2721,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934222825
+"Ash Shuyūkh","Ash Shuyukh","Esh Shuyūkh|Shūyūkh",31.5700,35.1561,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934064225
+"Bayt Iksā","Bayt Iksa","Beit Iksa",31.8173,35.1793,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934236902
+"Al Judayrah","Al Judayrah",Judīra|Judeira|Judayrah|Judīrah,31.8559,35.1971,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934610851
+"Al Kūm","Al Kum","Khirbat al Kaum|Khirbat el Kaum|Khirbat al Kawm",31.5334,34.9639,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934836421
+Biddū,Biddu,Bidu,31.8348,35.1495,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934915067
+"Umm ‘Aslah","Umm `Aslah",,31.6984,35.2825,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934402789
+Pedu’el,Pedu'el,,32.0500,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934090028
+Qabalān,Qabalan,Kubalan,32.1018,35.2894,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934357068
+Ḩizmā,Hizma,Ḩizmah,31.8334,35.2631,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934490571
+Yatmā,Yatma,,32.1089,35.2691,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934887594
+"Naẖal H̱emdat","Nahal Hemdat",Hemdat,32.2500,35.5167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934162335
+Pe’erim,Pe'erim,,32.0833,35.0167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934300206
+Şarrah,Sarrah,Ṣarra,32.2097,35.1915,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934681854
+"Kharbathā Banī Ḩārith","Kharbatha Bani Harith",Kharbatā|Khirbatā,31.9451,35.0719,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934007067
+"Bayt Sīrā","Bayt Sira","Beit Sīrā",31.8878,35.0462,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934401567
+"Bet H̱oron","Bet Horon",,31.8667,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934551396
+‘Azmūţ,`Azmut,,32.2230,35.3099,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934337322
+"Giv‘at Ze’ev","Giv`at Ze'ev",,31.8667,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934541839
+‘Ābūd,`Abud,,32.0164,35.0683,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934052270
+"Khirbat aţ Ţayyāḩ","Khirbat at Tayyah","Khirbat at Taiyah",32.3003,35.0419,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934676476
+"Nazlat ash Shaykh Zayd","Nazlat ash Shaykh Zayd","Khirbat an Nazla|Khirbat en Nazla|Khirbat an Nazlah",32.4625,35.1750,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934938345
+"Kafr Şūr","Kafr Sur",,32.2437,35.0639,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934495229
+‘Anīn,`Anin,,32.5026,35.1667,"West Bank",XW,XWB,,,,,,726.7,,,3,Asia/Jerusalem,FALSE,1934444386
+Ma‘on,Ma`on,,31.4000,35.1667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934260202
+‘Enav,`Enav,,32.2833,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934228469
+"Khirbat ‘Abd Allāh al Yūnis","Khirbat `Abd Allah al Yunis","Khirbat ‘Abd Allāh al Yūnus|Khirbat ‘Abdullāh el Yūnis",32.4758,35.1140,"West Bank",XW,XWB,,,,,,655.0,,,3,Asia/Jerusalem,FALSE,1934813591
+Shu‘fāţ,Shu`fat,,31.8165,35.2274,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934279239
+Ibzīq,Ibziq,"Khirbat Ibziq",32.3688,35.3974,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934902772
+"‘Izbat Abū Ḩamādah","`Izbat Abu Hamadah","Khirbat Abū Ḩarfīl",32.2012,35.0715,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934423571
+Burqah,Burqah,Burqā,31.8968,35.2543,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934207857
+Burqah,Burqah,Burqā,32.3018,35.1926,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,TRUE,1934520572
+"Ash Shaykh Sa‘d","Ash Shaykh Sa`d","Khirbat ash Shaykh Sa‘ad|Khirbat esh Sheikh Sa‘ad|Khirbat ash Shaykh Sa‘d|Khirbat ash Sheikh Sa‘d",31.7372,35.2574,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934691145
+"Ash Shaykh Fāliḩ","Ash Shaykh Falih","Esh Sheikh Falih|Sheikh Falih",32.2882,35.5586,"West Bank",XW,XWB,,,,,,628.5,,,3,Asia/Jerusalem,FALSE,1934348191
+‘Almon,`Almon,,31.8167,35.2833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934495800
+"Mul Nevo","Mul Nevo",,31.8167,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934406730
+"Marj Na‘jah","Marj Na`jah","Marj Na‘ja",32.1849,35.5390,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934426715
+Qedar,Qedar,,31.7333,35.2833,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934341532
+"Tall al Khashbah","Tall al Khashbah","Khirbat eṭ Ṭuwaiyil|Khirbat aţ Ţuwayyil",32.1099,35.3674,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934688436
+"Naẖl Mivsam","Nahl Mivsam",,31.9667,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934082169
+"Bayt ‘Ūr al Fawqā","Bayt `Ur al Fawqa","Beit Ur el Foka|Beit ‘Ūr el Fauqā|Beit ‘Ur al Fauqa|Upper Beth-horon|Beit ‘Ūr el Fōqa|Beit Hōrōn hā ‘Elyōn",31.8853,35.1153,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934155378
+"Khirbat Umm ‘Allās","Khirbat Umm `Allas","Khirbat Um ‘Allās",31.6012,35.0147,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934639201
+"Ash Shawāwrah","Ash Shawawrah",,31.6910,35.2680,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934522441
+"Ma‘ale ‘Amos","Ma`ale `Amos",,31.5833,35.2167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934516793
+"Ir David","Ir David",,31.7667,35.2333,"West Bank",XW,XWB,,,,,,3467.9,,,2,Asia/Jerusalem,FALSE,1934533495
+‘Azzūn,`Azzun,,32.1750,35.0575,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934135791
+"Naẖal Ẕori","Nahal Zori",Zori,31.9333,35.4500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934510477
+"Baytā at Taḩtā","Bayta at Tahta","Beita et Taḩta|Beita at Tahta|Beitā|Kafr Baytā|Baytā",32.1387,35.2837,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934102416
+"Dayr ar Rāziḩ","Dayr ar Razih","Khirbat Deir er Rāzih|Khirbat Dayr ar Rāziḩ",31.4666,35.0417,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934733470
+Fuqayqīs,Fuqayqis,"Khirbat Fuqayqīs|Khirbat Fuqeiqis|Fuqīqīs",31.4884,34.9843,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934247496
+Imrīsh,Imrish,"Khirbat Mureish|Khirbat Muraysh",31.4689,35.0082,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934177969
+Battīr,Battir,Betar,31.7194,35.1410,"West Bank",XW,XWB,,,,,,985.4,,,3,Asia/Jerusalem,FALSE,1934151403
+Qawāwīs,Qawawis,"Khirbat el Kuwaiyis|Khirbat al Kuwayyis|Khirbat al Kuweiyis",31.3965,35.1378,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934593989
+"Al Bayḑā","Al Bayda","Khirbat al Bayḑā’|Khirbat al Beida",31.6688,35.1870,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934473523
+"Marj al Ghazāl","Marj al Ghazal",,32.1672,35.5268,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934088322
+Qibyah,Qibyah,Qibye|Kibbia|Qibyā,31.9773,35.0098,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934113546
+Ţārūsah,Tarusah,,31.5231,34.9906,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934114487
+"Kafr al Labad","Kafr al Labad","Kafr el Labad",32.2997,35.1095,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934788436
+"Naẖal Mekhora","Nahal Mekhora",Mekhora,32.1648,35.4228,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934312284
+"Dayr al Qilţ","Dayr al Qilt",,31.8414,35.4096,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934760317
+Şaffā,Saffa,,31.9056,35.0609,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934829167
+"Ar Ramāḑīn","Ar Ramadin","Khirbat Umm Dayminah|Khirbat Mudeimina|Khirbat Mudayminah",31.3795,34.9125,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934447294
+"Ţūrah al Gharbīyah","Turah al Gharbiyah","Khirbat Ţūrā|Tūra el Gharbiya|Khirbat Tūra el Gharbīya",32.4688,35.1525,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934936692
+"Majdal Banī Fāḑil","Majdal Bani Fadil","Majdal Bani Fadl",32.0836,35.3638,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934553009
+"Z̧ahr al Māliḩ","Zahr al Malih",,32.4731,35.1500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934429514
+Şūbā,Suba,"Khirbat Şūbā",31.5432,34.9925,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934822701
+"Bayt ar Rūsh at Taḩtā","Bayt ar Rush at Tahta","Khirbat er Rush et Taḥta|Khirbat ar Rush at Tahta|Khirbat ar Rawsh at Taḩtā|Khirbat ar Rashsh at Taḩtā",31.4634,34.9359,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934389091
+"Khirbat Şarrah","Khirbat Sarrah","Khirbat Sārah|Khirbat Sāra",32.0565,35.3069,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934603901
+Niriyya,Niriyya,,32.1333,35.0500,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934931144
+"Qiryat Sefer","Qiryat Sefer",,31.9333,35.0333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934419846
+"Wādī Umm Qal‘ah","Wadi Umm Qal`ah",,31.6888,35.2254,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934598668
+"Elon More","Elon More",,32.1000,35.2000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934158679
+Yālū,Yalu,,31.8409,35.0226,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934913715
+Imnīzil,Imnizil,"Khirbat al Muneizil|Khirbat al Munayzil",31.3714,35.1046,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934342294
+"Qafān al Khamīs","Qafan al Khamis",,31.5707,35.1472,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934442131
+"Marāḩ Rabbāḩ","Marah Rabbah","Khirbat Marāḩ Rabbāḩ",31.6341,35.1869,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934476556
+"Dayr Abū Mash‘al","Dayr Abu Mash`al","Deir Abu Mash‘al",31.9988,35.0684,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934033410
+Brosh,Brosh,,32.3167,35.5333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934179533
+Bīrīn,Birin,,31.4910,35.1467,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934317282
+"Wādī ash Shājinah","Wadi ash Shajinah",,31.4706,35.0315,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934589520
+Ma‘īn,Ma`in,"Khirbat Mā‘īn",31.4098,35.1324,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934941971
+"Al ‘Udaysah","Al `Udaysah","Khirbat al ‘Uddeisa|Khirbat al ‘Udaysah",31.5480,35.1400,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934071225
+"Khirbat Jubārah","Khirbat Jubarah",,32.2685,35.0432,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934953417
+"‘Azzūn ‘Atmah","`Azzun `Atmah","Khirbat ‘Azzūn al ‘Aţmah|Khirbat ‘Azzūn el ‘Atma|Ibn ‘Atma",32.1225,35.0189,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934571831
+Gilgal,Gilgal,,32.0000,35.4167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934030338
+Balāţah,Balatah,Balāta,32.2121,35.2856,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934880486
+"Talmon B","Talmon B",,31.9333,35.1333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934495356
+"Khirbat Şārūrah","Khirbat Sarurah","Khirbat Sarura",31.4029,35.1507,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934143977
+"Netiv HaGedud","Netiv HaGedud",,31.9833,35.4333,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934706277
+"Khallat ‘Afānah","Khallat `Afanah",,31.6499,35.1313,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934214211
+"Dayr Ballūţ","Dayr Ballut","Dair Balut|Deir Balluṭ",32.0655,35.0245,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934357591
+"Kafr Jammāl","Kafr Jammal",,32.2255,35.0434,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934424765
+"Al Jārūshīyah","Al Jarushiyah","Khirbat al Jarushiya|Khirbat Jārūshīya|Khirbat el Jārūshiya|Khirbat al Jārūshīyah",32.3470,35.0501,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934480503
+Kashdah,Kashdah,"Khirbet Kashda|Khirbat Kashdah|Khirbat Kashda",32.3113,35.3442,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934196238
+Qaţanah,Qatanah,Katanneh|Qatanne|Qaţannah|Qatanna|Qatana,31.8337,35.1189,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934261819
+"Mevo H̱oron","Mevo Horon","Mevo Horan|Modi’in",31.8667,35.0333,"West Bank",XW,XWB,,,,,,999.3,,,3,Asia/Jerusalem,FALSE,1934839021
+Quşrah,Qusrah,Kusrah|Quṣra,32.0854,35.3300,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934556014
+‘Arrābah,`Arrabah,‘Arrābe|Arabeh|‘Arrāba|‘Arāvā,32.4052,35.2019,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934831343
+H̱ermesh,Hermesh,,32.4167,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934105963
+"Kafr Rā‘ī","Kafr Ra`i","Raay|Kufr Rā‘i",32.3740,35.1545,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Hebron,FALSE,1934480237
+"Al Masqūfah","Al Masqufah","Khirbat el Masqūfah|Khirbat el Masqūfa",32.3356,35.0569,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934404704
+"Ath Thawrī","Ath Thawri",,31.7644,35.2337,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934961269
+"Banī Qays","Bani Qays","Bani Qeis",31.4912,35.1148,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934635711
+"Wādī al ‘Amāyir","Wadi al `Amayir","Khirbat al Kharābah|Khirbat al Kharaba",31.3724,35.0920,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934483650
+"Marāḩ Ma‘allā","Marah Ma`alla",,31.6492,35.1748,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934011018
+"Khirbat Kūfīn","Khirbat Kufin","Kusin|Khirbet Koufin",31.6167,35.1167,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934336858
+Yafit,Yafit,,32.0500,35.4667,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934695088
+"Al Qubaybah","Al Qubaybah","El Qubeiba|Al Qubeiba|Qubeiba",31.8389,35.1368,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934615678
+"As Sawāḩirah ash Sharqīyah","As Sawahirah ash Sharqiyah",,31.7419,35.2837,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934756053
+"Bet Ha‘Arava","Bet Ha`Arava",,31.8000,35.5000,"West Bank",XW,XWB,,,,,,634.8,,,3,Asia/Jerusalem,FALSE,1934657798

@@ -1,0 +1,451 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Chaguanas,Chaguanas,"Chaguanas Village",10.5167,-61.4000,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,admin,1399.7,101297,83489,2,America/Port_of_Spain,FALSE,1780795054
+"San Fernando","San Fernando",,10.2833,-61.4667,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,admin,2973.1,82997,55419,2,America/Port_of_Spain,FALSE,1780361077
+"Port of Spain","Port of Spain","City of Port-of-Spain|Port-au-Spain|Port-of-Spain",10.6667,-61.5167,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,primary,3089.5,81142,37074,1,America/Port_of_Spain,FALSE,1780670676
+Arima,Arima,"Town of Arima",10.6333,-61.2833,"Trinidad and Tobago",TT,TTO,Arima,Arima,TT-ARI,municipality,admin,2801.0,65623,33606,2,America/Port_of_Spain,FALSE,1780753308
+Couva,Couva,"Couva Savannah Village",10.4167,-61.4500,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,admin,716.4,48858,48858,2,America/Port_of_Spain,FALSE,1780835692
+"Point Fortin","Point Fortin",,10.1667,-61.6667,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,admin,809.0,29579,20161,2,America/Port_of_Spain,FALSE,1780702349
+"Princes Town","Princes Town","Princess Town",10.2667,-61.3833,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,admin,178.7,28335,28335,2,America/Port_of_Spain,FALSE,1780714817
+"Diego Martin","Diego Martin","Diego Martin Village",10.7167,-61.5667,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,admin,808.3,25370,25370,2,America/Port_of_Spain,FALSE,1780534918
+Laventille,Laventille,,10.6500,-61.4833,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,723.0,21454,21454,3,America/Port_of_Spain,FALSE,1780201146
+"Sangre Grande","Sangre Grande",,10.5667,-61.1333,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,admin,91.1,18127,18127,2,America/Port_of_Spain,FALSE,1780469686
+Tunapuna,Tunapuna,"Tunapuna Village",10.6333,-61.3833,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,admin,408.8,17650,17650,2,America/Port_of_Spain,FALSE,1780508155
+Scarborough,Scarborough,"Port Louis",11.1833,-60.7375,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,admin,1754.0,17537,17537,2,America/Port_of_Spain,FALSE,1780875399
+Gasparillo,Gasparillo,"Gasparillo Village",10.3167,-61.4167,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,16426,16426,3,America/Port_of_Spain,FALSE,1780142944
+"Claxton Bay","Claxton Bay","Claxton Bay Village",10.3405,-61.4555,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,14436,14436,3,America/Port_of_Spain,FALSE,1780203587
+"Saint Joseph","Saint Joseph",,10.6556,-61.4167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,419.8,14376,14376,3,America/Port_of_Spain,FALSE,1780256893
+"San Juan","San Juan",,10.6500,-61.4500,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,59.6,13797,13797,3,America/Port_of_Spain,FALSE,1780554728
+Fyzabad,Fyzabad,"Fyzabad Village",10.1833,-61.5500,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,13099,13099,3,America/Port_of_Spain,FALSE,1780514222
+Marabella,Marabella,,10.3000,-61.4500,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2367.3,12508,12508,2,America/Port_of_Spain,FALSE,1780714221
+Valencia,Valencia,"Valencia Village",10.6500,-61.2000,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,12327,12327,3,America/Port_of_Spain,FALSE,1780842812
+Penal,Penal,"Peñal Village|Peñal",10.1667,-61.4667,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,12281,12281,3,America/Port_of_Spain,FALSE,1780976981
+Freeport,Freeport,,10.4500,-61.4167,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,11850,11850,3,America/Port_of_Spain,FALSE,1780420196
+Arouca,Arouca,"Arouca Village",10.6333,-61.3333,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,10869,10869,3,America/Port_of_Spain,FALSE,1780178879
+Siparia,Siparia,"Siparia Village",10.1333,-61.5000,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,admin,304.1,10254,10254,2,America/Port_of_Spain,FALSE,1780418671
+"Rio Claro","Rio Claro",,10.3042,-61.1708,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,admin,48.7,8881,8881,2,America/Port_of_Spain,FALSE,1780883666
+Cunupia,Cunupia,"Cunupia Village",10.5500,-61.3667,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,8768,8768,3,America/Port_of_Spain,FALSE,1780256527
+Barrackpore,Barrackpore,"Barrackpore Settlement",10.1910,-61.3940,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,7578,7578,3,America/Port_of_Spain,FALSE,1780147063
+Debe,Debe,"Débé Village|Débé",10.2000,-61.4500,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,admin,733.3,7084,7084,2,America/Port_of_Spain,FALSE,1780510715
+Mayaro,Mayaro,,10.2978,-61.0067,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,6348,6348,3,America/Port_of_Spain,FALSE,1780863951
+D’Abadie,D'Abadie,"Dabadie Village|Dabadie",10.6333,-61.3167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,5827,5827,3,America/Port_of_Spain,FALSE,1780462926
+"Saint Augustine","Saint Augustine",,10.6500,-61.4000,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,4844,4844,3,America/Port_of_Spain,FALSE,1780984785
+"Kelly Village","Kelly Village",,10.5833,-61.3667,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,4178,4178,3,America/Port_of_Spain,FALSE,1780082636
+Biche,Biche,"Biche Village",10.4330,-61.1330,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,3055,3055,3,America/Port_of_Spain,FALSE,1780719057
+Cheeyou,Cheeyou,,10.5494,-61.1328,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,2207,2207,4,America/Port_of_Spain,FALSE,1780374783
+Roxborough,Roxborough,"Roxborough Village",11.2500,-60.5833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,2089,2089,4,America/Port_of_Spain,FALSE,1780401326
+Bonasse,Bonasse,"Bonasse Village",10.0931,-61.8603,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,659,659,4,America/Port_of_Spain,FALSE,1780976183
+Pointe-à-Pierre,Pointe-a-Pierre,,10.3167,-61.4667,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,460,460,3,America/Port_of_Spain,FALSE,1780953707
+"Grande Riviere","Grande Riviere","Grande Riviere Village",10.8333,-61.0500,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,334,334,4,America/Port_of_Spain,FALSE,1780035080
+Curucaye,Curucaye,,10.6691,-61.4502,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780730679
+Belmont,Belmont,,10.6682,-61.5057,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,1823.1,,,3,America/Port_of_Spain,FALSE,1780059730
+Mamon,Mamon,,10.4758,-61.1622,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780116411
+Rambert,Rambert,"Rambert Village",10.2388,-61.4744,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780541912
+Buccoo,Buccoo,,11.1819,-60.8047,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780312107
+"Sea View Gardens","Sea View Gardens",,10.6837,-61.5820,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780398817
+"Studley Park","Studley Park",,11.1977,-60.6617,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,101.0,,,4,America/Port_of_Spain,FALSE,1780878214
+Friendsfield,Friendsfield,,11.1939,-60.7115,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780284587
+Redhead,Redhead,"Redhead Village",10.7917,-60.9453,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780805086
+"Sierra Leone","Sierra Leone",,10.7000,-61.5500,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780525385
+Carmichael,Carmichael,,10.4973,-61.1980,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780059468
+"Mount Harris","Mount Harris",,10.4993,-61.1165,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780756416
+Cunapo,Cunapo,,10.5831,-61.1369,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780101430
+Diamond,Diamond,,10.3677,-61.4372,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780303195
+"East Dry River","East Dry River",,10.6564,-61.5056,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2245.3,,,2,America/Port_of_Spain,FALSE,1780928313
+Merchiston,Merchiston,,11.2745,-60.5321,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780289944
+"Sum Sum Hill","Sum Sum Hill",,10.3667,-61.4333,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780680654
+Plum,Plum,,10.5000,-61.0667,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780171985
+"Arnos Vale","Arnos Vale",,11.2167,-60.7500,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780162599
+Cap-de-Ville,Cap-de-Ville,Cape-de-Ville,10.1526,-61.7075,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,,797.0,,,3,America/Port_of_Spain,FALSE,1780168352
+Culloden,Culloden,,11.2466,-60.7365,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780865257
+Victoria,Victoria,"Victoria Village",10.2612,-61.4547,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,1494.1,,,3,America/Port_of_Spain,FALSE,1780286050
+"Buen Intento","Buen Intento","Buen Intento Village",10.2793,-61.3694,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780314312
+"Maracas Bay Village","Maracas Bay Village",,10.7569,-61.4342,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780851194
+"Fifth Company","Fifth Company",,10.2322,-61.3247,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780443256
+Bacolet,Bacolet,,11.1667,-60.7167,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780799743
+"El Socorro","El Socorro",,10.6374,-61.4554,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780242444
+"Frederick Village","Frederick Village",,10.6055,-61.3949,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780827785
+"Upper Carapichaima","Upper Carapichaima","Upper Carapichima",10.4456,-61.3963,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780341351
+Pembroke,Pembroke,,11.2170,-60.6170,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780600749
+Ogis,Ogis,,10.5653,-61.1349,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780080349
+Tabaquite,Tabaquite,"Tabaquite Village",10.3903,-61.3014,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780765560
+"Mount Dillon River","Mount Dillon River",,11.2667,-60.7000,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780249100
+"Busy Corner","Busy Corner","Busy Corner Village",10.3141,-61.2936,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780578596
+Morichal,Morichal,,10.3618,-61.3520,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780820221
+"Mc Bean","Mc Bean","Mc Bean Village",10.4477,-61.4522,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780828142
+"Shore Park","Shore Park",,11.2579,-60.5378,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780875273
+"Monkey Town","Monkey Town",,10.2667,-61.3333,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780603873
+Thick,Thick,,10.1757,-61.5209,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780852024
+"New Grant","New Grant",,10.2850,-61.3221,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780305915
+Mesopotamia,Mesopotamia,,11.1950,-60.6910,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780792996
+Plaisance,Plaisance,,10.2453,-61.4849,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,566.0,,,3,America/Port_of_Spain,FALSE,1780004100
+Libertville,Libertville,,10.3045,-61.1928,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780372057
+Matura,Matura,,10.6757,-61.0590,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780994240
+Lengua,Lengua,"Lengua Village",10.2549,-61.3672,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780051919
+Friendship,Friendship,,11.1488,-60.8044,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780501123
+"Gordon Settlement","Gordon Settlement",,10.3000,-61.4000,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780179986
+Coffee,Coffee,,10.2681,-61.4607,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780900282
+"Golden Lane","Golden Lane",,11.2425,-60.7346,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780739179
+Palmiste,Palmiste,,10.4932,-61.3679,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780375883
+Bayshore,Bayshore,,10.6785,-61.5662,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780770751
+"Gordon Settlement","Gordon Settlement",,10.3899,-61.3923,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780914399
+Adventure,Adventure,,11.2215,-60.7610,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780222207
+Coco,Coco,,10.6833,-61.5833,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780448442
+Plaisance,Plaisance,,10.2936,-60.9998,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780197400
+Guapo,Guapo,,10.1951,-61.6566,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,,797.0,,,3,America/Port_of_Spain,FALSE,1780697765
+Haswaron,Haswaron,,10.2996,-61.3176,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780881154
+Plymouth,Plymouth,,11.2222,-60.7778,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,312.8,,,3,America/Port_of_Spain,FALSE,1780469709
+"Upper Manzanilla","Upper Manzanilla",,10.5229,-61.0621,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780618027
+Courland,Courland,,11.2103,-60.7729,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,419.1,,,3,America/Port_of_Spain,FALSE,1780292807
+Sadhoowa,Sadhoowa,,10.1314,-61.4335,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780804269
+"Sans Souci","Sans Souci",,10.8341,-61.0015,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780883455
+Cove,Cove,,11.1414,-60.7964,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780917559
+"Mount Pleasant","Mount Pleasant",,11.1640,-60.7926,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780565012
+Iere,Iere,"Iere Village",10.2833,-61.3833,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780060327
+"Cipero-Sainte Croix","Cipero-Sainte Croix",,10.2283,-61.3774,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,363.7,,,3,America/Port_of_Spain,FALSE,1780010542
+"Zion Hill","Zion Hill",,11.2333,-60.6167,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.3,,,4,America/Port_of_Spain,FALSE,1780158649
+"Saint Thomas","Saint Thomas","Saint Thomas Village",10.5197,-61.4234,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780458284
+"Cacandee Settlement","Cacandee Settlement",,10.5500,-61.4333,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780454591
+"Saint Margaret","Saint Margaret","Saint Margaret Village",10.3452,-61.4528,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780862758
+"Buenos Ayres","Buenos Ayres","Buenos Aires",10.1000,-61.6833,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780945307
+Waterloo,Waterloo,,10.4777,-61.4687,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780090791
+"King’s Bay","King's Bay",,11.2724,-60.5518,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780412679
+Canaan,Canaan,,11.1500,-60.8170,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780229817
+Delaford,Delaford,,11.2660,-60.5593,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780818338
+"Sangre Chiquita","Sangre Chiquita","Sagre Chiquita",10.5670,-61.1115,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780058048
+"Todd’s Road","Todd's Road","Todds Road",10.4810,-61.3333,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780628929
+Butler,Butler,,10.4800,-61.4634,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780511371
+Loango,Loango,,10.7242,-61.4219,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780182518
+Platanal,Platanal,,10.7410,-61.1334,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780380065
+"La Pastora","La Pastora","La Pastoria",10.6997,-61.3161,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780615614
+Prospect,Prospect,,11.1772,-60.7818,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,877.0,,,3,America/Port_of_Spain,FALSE,1780202396
+Union,Union,,10.3014,-61.4361,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,1951.4,,,3,America/Port_of_Spain,FALSE,1780343271
+"Mount Pleasant","Mount Pleasant",,10.7132,-61.6100,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780249061
+Goldsborough,Goldsborough,,11.2153,-60.6295,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780038201
+"Felicity Hall","Felicity Hall",,10.4485,-61.4772,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780052108
+"Upper Fishing Pond","Upper Fishing Pond",,10.5879,-61.0550,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780433106
+"Red Hill","Red Hill",,10.6167,-61.3167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780432889
+Earthigg,Earthigg,Erthig,10.6667,-61.5000,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780469253
+"Saint Julien","Saint Julien","Saint Julien Village",10.2711,-61.3588,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780718070
+Friendship,Friendship,,10.3879,-61.4739,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780062448
+Blanchisseuse,Blanchisseuse,"Blanchisseuse Village",10.7833,-61.3000,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780063753
+Diamond,Diamond,,11.1716,-60.7701,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,798.9,,,3,America/Port_of_Spain,FALSE,1780151300
+"Black Rock","Black Rock",,11.2050,-60.7775,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780350336
+Tableland,Tableland,"Mairad Village",10.2780,-61.2711,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780616619
+"Green Hill","Green Hill","Greenhill Village",10.7314,-61.5634,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780454466
+Usine,Usine,,10.2209,-61.4863,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780889440
+Palmiste,Palmiste,,10.2627,-61.4648,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,1826.7,,,3,America/Port_of_Spain,FALSE,1780553476
+"New Jersey","New Jersey",,10.2333,-61.6333,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780772117
+Bakhen,Bakhen,,10.1784,-61.4506,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780143890
+"Pepper Village","Pepper Village",Pepper,10.4032,-61.3564,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780788063
+"Brasso Venado","Brasso Venado",,10.4253,-61.2731,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780572686
+"Harmony Hall","Harmony Hall",,11.1982,-60.7322,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,845.2,,,3,America/Port_of_Spain,FALSE,1780445044
+Hindustan,Hindustan,,10.2708,-61.3218,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780829524
+"Brasso Seco Village","Brasso Seco Village",,10.7481,-61.2687,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780979379
+Windsor,Windsor,,11.2128,-60.6521,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780089638
+Concordia,Concordia,,11.2180,-60.7253,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780790475
+"Lapai Village","Lapai Village",,10.6151,-61.4004,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780241560
+Paradise,Paradise,,10.6530,-61.3630,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780267370
+Mouville,Mouville,,10.1526,-61.0008,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780808190
+"Calder Hall","Calder Hall",,11.1913,-60.7350,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780427245
+Valsayn,Valsayn,,10.6500,-61.4167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780123076
+"North Manzanilla","North Manzanilla",,10.5167,-61.0333,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780031585
+Fullarton,Fullarton,,10.0853,-61.8861,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780167451
+Woodbrook,Woodbrook,,10.6628,-61.5231,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2476.0,,,2,America/Port_of_Spain,FALSE,1780729695
+Brazil,Brazil,,10.5547,-61.2757,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780095312
+"Guaico Tamana","Guaico Tamana",,10.4821,-61.1499,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780346871
+"Basse Terre","Basse Terre","Basseterre Village",10.1273,-61.2962,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780364783
+Unis,Unis,,10.3339,-61.2780,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780229915
+"Saint Mary’s","Saint Mary's","Saint Mary’s Village|Oropuche",10.2233,-61.5425,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780548193
+"Saint Marys","Saint Marys",,10.4625,-61.4268,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780593570
+"San Francique","San Francique","Francique Village|Erin",10.0761,-61.6534,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780150831
+Grafton,Grafton,,11.1833,-60.7833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,877.0,,,3,America/Port_of_Spain,FALSE,1780090676
+Gonzales,Gonzales,,10.6586,-61.5036,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,2349.6,,,2,America/Port_of_Spain,FALSE,1780108841
+"Sangre Grande Oropuche","Sangre Grande Oropuche",,10.5944,-61.0784,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780693810
+Glencoe,Glencoe,,10.6816,-61.5740,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780690124
+"Las Lomas","Las Lomas",,10.5380,-61.3142,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780248053
+"Orange Valley","Orange Valley","Orange Valley Village",10.4591,-61.4730,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780766810
+Barataria,Barataria,,10.6500,-61.4667,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780874634
+"La Romain","La Romain",,10.2495,-61.4835,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,566.0,,,3,America/Port_of_Spain,FALSE,1780917551
+"Sainte Madeleine","Sainte Madeleine","Saint Madeleine Village|Saint Madeleine|Sainte Madeleine Village",10.2719,-61.4297,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780475212
+Castara,Castara,,11.2833,-60.6833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780505025
+"Riche Plaine","Riche Plaine",,10.7167,-61.5667,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780450913
+"El Chorro","El Chorro",,10.7063,-61.4190,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780960726
+Carapichaima,Carapichaima,,10.4667,-61.4500,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780428261
+"George Village","George Village",,10.2794,-61.3199,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780003359
+"Flanagin Town","Flanagin Town","Brasso Caparo Village",10.4317,-61.3158,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780955780
+Longdenville,Longdenville,,10.5062,-61.3722,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,278.4,,,3,America/Port_of_Spain,FALSE,1780298946
+Tulls,Tulls,,10.6167,-61.4000,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780599873
+Starwood,Starwood,,11.3286,-60.5270,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780852193
+"Belle Garden","Belle Garden",,11.2335,-60.5989,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780945626
+Tortuga,Tortuga,,10.3715,-61.3928,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780986250
+Vistabella,Vistabella,"Vistabella Village|Vista Bella",10.2892,-61.4541,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780626376
+Guamal,Guamal,,10.7500,-61.3667,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780692252
+Piparo,Piparo,"Piparo Settlement",10.3333,-61.3333,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,205.7,,,3,America/Port_of_Spain,FALSE,1780265494
+"Bonne Terre","Bonne Terre","Bonne Terre Village",10.3141,-61.3082,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780777709
+Glamorgan,Glamorgan,,11.2226,-60.6098,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780756946
+Carapo,Carapo,,10.5936,-61.2963,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780511795
+Basterhall,Basterhall,,10.4011,-61.4412,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780707570
+"James Smart","James Smart","James Stewart",10.5500,-61.0833,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780614812
+Richmond,Richmond,,11.2319,-60.6121,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,109.0,,,4,America/Port_of_Spain,FALSE,1780616579
+"Tyson Hall","Tyson Hall",,11.1549,-60.8182,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780088387
+"Bon Accord Village","Bon Accord Village",,11.1559,-60.8331,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780398156
+Charuma,Charuma,,10.4023,-61.1550,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780939745
+Irois,Irois,,10.1337,-61.7470,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780865242
+Canaan,Canaan,,10.2533,-61.4763,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,1145.0,,,3,America/Port_of_Spain,FALSE,1780432520
+Arden,Arden,,11.2667,-60.5833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780290821
+"Hubert’s Town","Hubert's Town",,10.1793,-61.6380,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,,183.7,,,4,America/Port_of_Spain,FALSE,1780203586
+"Mary’s Hill","Mary's Hill",,11.2048,-60.7556,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,402.2,,,3,America/Port_of_Spain,FALSE,1780845098
+Pleasantville,Pleasantville,,10.2687,-61.4548,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780275997
+Rampanalgas,Rampanalgas,"Rampanagas Village",10.7351,-60.9836,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780594601
+Spring,Spring,"Spring Village",10.4210,-61.4262,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780584965
+Reform,Reform,,10.3056,-61.4165,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780389512
+"La Retraite","La Retraite",,10.6799,-61.6587,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780295774
+Salybia,Salybia,"Salibea|Salibia Village",10.7015,-61.0305,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780533478
+Cocorite,Cocorite,,10.6811,-61.5488,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,1199.5,,,3,America/Port_of_Spain,FALSE,1780589481
+"Monkey Town","Monkey Town","Monkey Town Village",10.2138,-61.4265,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780207270
+Hermitage,Hermitage,,10.3500,-61.4333,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780684462
+Mayo,Mayo,"Montserrat Village",10.3542,-61.3814,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780131384
+"Saint James","Saint James",,10.6717,-61.5345,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2476.0,,,2,America/Port_of_Spain,FALSE,1780025821
+"Lower Manzanilla","Lower Manzanilla",,10.5167,-61.0500,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780332348
+Rushville,Rushville,,10.1290,-61.0556,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780410265
+Brickfield,Brickfield,,10.4902,-61.4686,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780645001
+Brickfield,Brickfield,,10.3422,-61.2746,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,TRUE,1780985083
+"Santa Cruz","Santa Cruz",,10.7167,-61.4667,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780369197
+"La Pique","La Pique",,10.2799,-61.4643,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780189366
+Preysal,Preysal,,10.4216,-61.4041,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780149919
+Runnemede,Runnemede,Runnymede,11.2524,-60.7063,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780944395
+Bethel,Bethel,,11.1856,-60.7776,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,619.5,,,3,America/Port_of_Spain,FALSE,1780667504
+"El Quemado","El Quemado",,10.4833,-61.2500,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780099985
+Dinsley,Dinsley,,10.6388,-61.3603,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780379516
+Peters,Peters,,10.5000,-61.1500,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780113148
+"Saint Helena","Saint Helena",,10.5798,-61.3365,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780085104
+"Trois Rivieres","Trois Rivieres",,11.2898,-60.5372,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,77.7,,,4,America/Port_of_Spain,FALSE,1780670940
+"Mount Thomas","Mount Thomas",,11.2386,-60.7378,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780043183
+Comparo,Comparo,,10.5333,-61.0667,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780381385
+Caparo,Caparo,,10.4570,-61.3219,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780974032
+Caura,Caura,,10.7134,-61.3567,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780915412
+Edinburgh,Edinburgh,,10.5009,-61.4098,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1566.5,,,3,America/Port_of_Spain,FALSE,1780667252
+Cameron,Cameron,,10.7167,-61.5500,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780387559
+"Quarry Village","Quarry Village",,10.1333,-61.5333,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780674581
+Guaico,Guaico,"Guaico Village",10.5833,-61.1500,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780472527
+Soledad,Soledad,,10.3580,-61.4520,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780781991
+Auchenskeoch,Auchenskeoch,,11.1655,-60.7807,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780198418
+Balmain,Balmain,"Balmain Village",10.4210,-61.4284,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780492354
+Parlatuvier,Parlatuvier,,11.3003,-60.6440,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780028367
+Chickland,Chickland,,10.4167,-61.3833,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780198172
+Esperance,Esperance,"Esperance Village",10.2465,-61.4528,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780233124
+Chaguaramas,Chaguaramas,,10.6833,-61.6333,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780110199
+Morvant,Morvant,,10.6500,-61.4667,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780063471
+Centeno,Centeno,Centento,10.5889,-61.3200,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,399.2,,,3,America/Port_of_Spain,FALSE,1780333281
+Manahambre,Manahambre,"Manahambre Village",10.2668,-61.3848,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780824868
+"Mount Grace","Mount Grace",,11.1833,-60.7500,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780087575
+"Petit Bourg","Petit Bourg",,10.6827,-61.6183,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780368500
+"Windsor Park","Windsor Park",,10.3842,-61.4442,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780464140
+"Brasso Piedra","Brasso Piedra",,10.4399,-61.3117,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780167211
+Icacos,Icacos,,10.0473,-61.9123,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780153252
+Felicity,Felicity,,10.5389,-61.4389,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780074128
+"Forres Park","Forres Park",,10.3636,-61.4313,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780379295
+"Spring Vale","Spring Vale",,10.2867,-61.4625,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780149622
+Hermitage,Hermitage,"Hermitage Village",10.2355,-61.4612,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780013168
+Coryal,Coryal,,10.4848,-61.4342,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780829253
+Montgomery,Montgomery,,11.1852,-60.7908,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,430.2,,,3,America/Port_of_Spain,FALSE,1780567185
+"Malabar Settlement","Malabar Settlement",,10.6167,-61.2833,"Trinidad and Tobago",TT,TTO,Arima,Arima,TT-ARI,municipality,,2952.8,,,2,America/Port_of_Spain,FALSE,1780649103
+"Madras Settlement","Madras Settlement",,10.5534,-61.3343,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780800299
+Lendor,Lendor,,10.5167,-61.4000,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780096979
+Piarco,Piarco,"Piarco Savanna Village",10.5833,-61.3333,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,399.2,,,3,America/Port_of_Spain,FALSE,1780025279
+Filette,Filette,"Filette Village|Fillette",10.8058,-61.3590,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780475870
+Riseland,Riseland,,11.1667,-60.7833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,716.7,,,3,America/Port_of_Spain,FALSE,1780332668
+"Coolie Block","Coolie Block",,10.7333,-61.5500,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780708662
+Peru,Peru,,10.6636,-61.5358,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2476.0,,,2,America/Port_of_Spain,FALSE,1780435319
+"Rockly Vale","Rockly Vale",,11.1902,-60.7377,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780924423
+Goodwood,Goodwood,,11.2042,-60.6368,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780535399
+"Chin Chin Savanna Village","Chin Chin Savanna Village",,10.5606,-61.3427,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780866462
+Bamboo,Bamboo,"Bamboo Village",10.0962,-61.8459,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780816781
+Pluck,Pluck,,10.1768,-61.5036,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780222598
+"Coromandel Settlement","Coromandel Settlement",,10.1008,-61.8010,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780429397
+"Mason Hall","Mason Hall",,11.2211,-60.7095,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780653854
+Roussillac,Roussillac,"Roussillac Settlement",10.2150,-61.5826,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780714555
+Brighton,Brighton,,10.2459,-61.6219,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780579944
+Lothian,Lothian,Lothians,10.2564,-61.3812,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780835761
+Nestor,Nestor,,10.5278,-61.1464,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780576175
+"Ravin Anglais","Ravin Anglais",,10.7919,-60.9534,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780031033
+"Mundo Nuevo","Mundo Nuevo",,10.4775,-61.2590,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780711212
+Concord,Concord,,10.2340,-61.4880,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780792250
+Cumuto,Cumuto,"Cumuto Village",10.5833,-61.2000,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780441486
+Avocat,Avocat,,10.1998,-61.5350,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780700642
+Cumaca,Cumaca,,10.7092,-61.1587,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780016134
+"Parry Lands","Parry Lands",,10.1728,-61.6396,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780920792
+"Indian Walk","Indian Walk",,10.2747,-61.3302,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780456439
+Warren,Warren,,10.5821,-61.4007,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780679629
+Ouplay,Ouplay,,10.3969,-61.4564,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780834069
+Cunaripa,Cunaripa,,10.5559,-61.1640,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780842113
+"Four Roads","Four Roads",,10.6885,-61.5602,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780632646
+Cochrane,Cochrane,,10.1860,-61.6452,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,,578.4,,,3,America/Port_of_Spain,FALSE,1780106130
+"Saint Ann’s","Saint Ann's",,10.6771,-61.5134,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780995652
+Matelot,Matelot,,10.8167,-61.1167,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780947155
+Hasnalli,Hasnalli,Hasnally,10.5626,-61.1966,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780684261
+Dowe,Dowe,"Dow|Dow Village",10.4035,-61.4708,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780319630
+Jaitoo,Jaitoo,,10.4345,-61.3893,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780033478
+Cantaro,Cantaro,"Cantaro Village",10.7112,-61.4718,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780607522
+Maraval,Maraval,,10.7000,-61.5167,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,803.0,,,3,America/Port_of_Spain,FALSE,1780148375
+"Englishman’s Bay","Englishman's Bay",,11.2856,-60.6741,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,120.2,,,4,America/Port_of_Spain,FALSE,1780996768
+"Gran Couva","Gran Couva",,10.4039,-61.3745,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780544368
+Woodlands,Woodlands,,11.2497,-60.7226,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780940050
+"Green Hill","Green Hill",,11.2124,-60.6754,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780986151
+Providence,Providence,,11.2047,-60.7339,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,728.8,,,3,America/Port_of_Spain,FALSE,1780190806
+Toco,Toco,,10.8333,-60.9500,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780268176
+Lopinot,Lopinot,,10.6833,-61.3167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780320962
+Dibe,Dibe,,10.6833,-61.5333,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780761785
+"La Finette","La Finette",,10.7314,-61.5161,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780135592
+Easterfield,Easterfield,,11.2258,-60.6819,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780442596
+"Vance River","Vance River",,10.2017,-61.6312,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780620916
+"The Mission","The Mission",,10.8310,-60.9583,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780905387
+"Plum Mitan","Plum Mitan","Plum Mitan Settlement|Mitan",10.4500,-61.1167,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780939723
+Adelphi,Adelphi,,11.2097,-60.7177,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780138901
+"Goodwood Park","Goodwood Park",,10.6833,-61.5687,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780390515
+"Mon Plaisir","Mon Plaisir",,10.5757,-61.3784,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780858670
+Mamoral,Mamoral,Mamural,10.4490,-61.2908,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780452659
+Mucurapo,Mucurapo,,10.6625,-61.5370,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2476.0,,,2,America/Port_of_Spain,FALSE,1780283067
+Pierreville,Pierreville,,10.2953,-61.0078,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780148187
+"Verdant Vale","Verdant Vale",,10.6903,-61.2938,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780194429
+"The Whim","The Whim",,11.2063,-60.7436,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,516.8,,,3,America/Port_of_Spain,FALSE,1780048935
+"Plaisance Park","Plaisance Park",,10.3370,-61.4579,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780871820
+"Corbeaux Town","Corbeaux Town",,10.6500,-61.5167,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2476.0,,,2,America/Port_of_Spain,FALSE,1780028339
+Homard,Homard,"Homard Village",10.8284,-61.0688,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780899104
+"Saint Elizabeth","Saint Elizabeth",,10.6833,-61.5000,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780964664
+Warners,Warners,"Warners Village",10.5730,-61.4171,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,637.6,,,3,America/Port_of_Spain,FALSE,1780464175
+Robert,Robert,,10.2711,-61.2887,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780778547
+"Palo Seco","Palo Seco","Palo Seco Village",10.0934,-61.5892,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780504150
+"La Veronica","La Veronica","Veronica Village",10.7000,-61.3500,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780503917
+Exchange,Exchange,"Exchange Village",10.4215,-61.4532,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780458467
+"Los Bajos","Los Bajos",,10.1119,-61.5646,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780521818
+Lowlands,Lowlands,,11.1489,-60.7806,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780978452
+Golconda,Golconda,Colconda,10.2500,-61.4333,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,207.6,,,3,America/Port_of_Spain,FALSE,1780742566
+Cumberbatch,Cumberbatch,,10.5067,-61.4092,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1566.5,,,3,America/Port_of_Spain,FALSE,1780226466
+"Petit Valley","Petit Valley",,10.6989,-61.5467,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780319118
+"Petit Trou","Petit Trou","Petit Trou Village",10.8333,-60.9333,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780021647
+Florida,Florida,,11.2500,-60.6000,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,130.2,,,4,America/Port_of_Spain,FALSE,1780498980
+"Delhi Settlement","Delhi Settlement",,10.1848,-61.5609,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780147931
+"Chandernagore Settlement","Chandernagore Settlement",,10.4929,-61.4102,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,258.6,,,3,America/Port_of_Spain,FALSE,1780202585
+Craignish,Craignish,,10.2682,-61.3674,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780129991
+Woodlands,Woodlands,"Woodlands Village",10.2568,-61.3998,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780272347
+Navet,Navet,,10.3563,-61.1831,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780058696
+"La Carrière","La Carriere","La Carrière Village",10.3233,-61.4540,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780757647
+Tarouba,Tarouba,,10.2748,-61.4342,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,512.7,,,3,America/Port_of_Spain,FALSE,1780079318
+Caroni,Caroni,,10.6057,-61.3817,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780622770
+"Lower Quarter","Lower Quarter",Roselle,11.2060,-60.7651,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780940452
+Diamond,Diamond,"Diamond Village",10.2365,-61.4427,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780599630
+"Monte Video","Monte Video",,10.8206,-61.0246,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780818871
+Maturita,Maturita,,10.6415,-61.2691,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,1231.4,,,3,America/Port_of_Spain,FALSE,1780413155
+Grange,Grange,,11.1918,-60.7903,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,427.3,,,3,America/Port_of_Spain,FALSE,1780090185
+"La Basse","La Basse",,10.6500,-61.5000,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,830.1,,,3,America/Port_of_Spain,FALSE,1780546730
+Carenage,Carenage,"Saint Pierre|Saint Pierre Village",10.6833,-61.6000,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780086595
+"La Brea","La Brea","La Brea Village",10.2500,-61.6167,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780871699
+Preau,Preau,"Preau Village",10.2026,-61.3161,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780171150
+Coryal,Coryal,,10.5099,-61.1844,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780188370
+Moriah,Moriah,"Moriah Village",11.2461,-60.7137,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780694743
+Moos,Moos,,10.2702,-61.2828,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780133062
+Caratal,Caratal,,10.3500,-61.4167,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780322108
+Caratal,Caratal,,10.5282,-61.2088,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,92.5,,,4,America/Port_of_Spain,TRUE,1780867313
+Oropuche,Oropuche,,10.6046,-61.0954,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780306030
+Caigual,Caigual,,10.5570,-61.0613,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780864171
+Cuche,Cuche,,10.3788,-61.1792,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780920099
+"Calcutta Settlement","Calcutta Settlement",,10.4349,-61.4488,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780885900
+Ortinola,Ortinola,,10.7000,-61.3167,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780516461
+Montrose,Montrose,,11.2014,-60.6531,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780720575
+"Las Cuevas","Las Cuevas",,10.7850,-61.3889,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780924313
+"Saint Joseph","Saint Joseph",,10.3167,-60.9932,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780074843
+Enterprise,Enterprise,,10.5226,-61.3856,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780952582
+Palmyra,Palmyra,"Palmyra Village",10.2814,-61.4275,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780527697
+Moruga,Moruga,"Moruga Village",10.0883,-61.2803,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,3,America/Port_of_Spain,FALSE,1780500012
+"Point Ligoure","Point Ligoure",,10.1667,-61.6667,"Trinidad and Tobago",TT,TTO,"Point Fortin","Point Fortin",TT-PTF,municipality,,797.0,,,3,America/Port_of_Spain,FALSE,1780642320
+Cambleton,Cambleton,Campbeltown,11.3172,-60.5515,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780672281
+Cardiff,Cardiff,,11.2338,-60.6341,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780748774
+"Mount Stewart","Mount Stewart","Mount Stewart Village",10.2899,-61.4061,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780152788
+Bronte,Bronte,,10.2157,-61.3988,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780374245
+"San Rafael","San Rafael","San Rafael Village",10.5735,-61.2699,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780671510
+Guarata,Guarata,,10.6959,-61.4103,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780662331
+Speyside,Speyside,"Speyside Village",11.3000,-60.5333,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780494792
+"Third Company","Third Company",,10.2505,-61.3364,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780815042
+"South Oropouche","South Oropouche",,10.2167,-61.5500,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780760603
+"Chase Village","Chase Village",Chase,10.4765,-61.4111,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780392178
+"Saint Andrew","Saint Andrew",,10.4225,-61.4786,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780953909
+Fonrose,Fonrose,"Fonrose Village",10.2871,-61.2387,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,177.6,,,4,America/Port_of_Spain,FALSE,1780793762
+"Indian Chain","Indian Chain",,10.3965,-61.4119,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780728297
+"San Francisco Settlement","San Francisco Settlement",,10.4325,-61.3945,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780978107
+"L’Anse Noire","L'Anse Noire","Noire Bay|Anse Noire",10.8348,-60.9789,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780700885
+"Mon Repos","Mon Repos",,10.2798,-61.4459,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780343940
+"Mount Saint George","Mount Saint George","Mount Saint George Village",11.1950,-60.6826,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780158322
+Wyaby,Wyaby,,10.4813,-61.4447,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780707825
+"Phoenix Park","Phoenix Park",,10.3841,-61.4596,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780263853
+Naranjo,Naranjo,,10.7833,-60.9833,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780843287
+Riversdale,Riversdale,,11.2833,-60.6833,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780437604
+Talparo,Talparo,,10.5000,-61.2667,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780293248
+Lambeau,Lambeau,,11.1688,-60.7609,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780185421
+"Boissiere Village","Boissiere Village",Boissière,10.6667,-61.5167,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2299.3,,,2,America/Port_of_Spain,FALSE,1780770562
+"Les Coteaux","Les Coteaux",,11.2264,-60.7450,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.2,,,3,America/Port_of_Spain,FALSE,1780884580
+Charlotteville,Charlotteville,,11.3167,-60.5500,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780694320
+Chatham,Chatham,,10.0887,-61.7349,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780179550
+"Moque Point","Moque Point",,10.0703,-61.4454,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780717012
+"Guaracara Junction","Guaracara Junction","Guaracara Junction Village",10.3797,-61.3254,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780326345
+"Lower Fishing Pond","Lower Fishing Pond",,10.5734,-61.0437,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780508694
+"Jermingham Junction","Jermingham Junction","Jerningham Junction",10.5488,-61.3994,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780328545
+"Nancoo Village","Nancoo Village",,10.5636,-61.3247,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780676779
+California,California,"California Village",10.4000,-61.4667,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780409981
+Hope,Hope,,11.1923,-60.6982,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,191.7,,,4,America/Port_of_Spain,FALSE,1780064593
+"Patience Hill","Patience Hill",,11.1882,-60.7639,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780642295
+Woodland,Woodland,,10.2152,-61.4841,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780978531
+Brasso,Brasso,"Brasso Village",10.4122,-61.3209,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780513006
+"Four Roads","Four Roads","Four Roads Village",10.4869,-61.2176,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780975067
+Belmont,Belmont,,11.3151,-60.5275,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780916929
+Franklyns,Franklyns,,11.2206,-60.7473,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,255.0,,,3,America/Port_of_Spain,FALSE,1780545826
+"Petit Bourg","Petit Bourg",,10.6500,-61.4500,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780701536
+Granville,Granville,,10.1326,-61.8041,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780149316
+Montrose,Montrose,,10.5170,-61.3948,"Trinidad and Tobago",TT,TTO,Chaguanas,Chaguanas,TT-CHA,municipality,,1675.9,,,3,America/Port_of_Spain,FALSE,1780971697
+Duncan,Duncan,,10.2529,-61.4600,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780400759
+"Parrot Hall","Parrot Hall",,11.2921,-60.6587,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780193002
+Carolina,Carolina,,10.3961,-61.4270,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780590845
+Success,Success,,10.6500,-61.4833,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780896832
+"Fourth Company","Fourth Company",,10.2386,-61.3347,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780778189
+Agostini,Agostini,,10.4833,-61.4000,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780202424
+Hardbargain,Hardbargain,,10.3333,-61.3333,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780328470
+"Morne Cabrite","Morne Cabrite",,10.8034,-60.9397,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780088125
+"Nutmeg Grove","Nutmeg Grove",,11.2378,-60.7030,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,249.8,,,3,America/Port_of_Spain,FALSE,1780885666
+"Sixth Company","Sixth Company","Sixth Company Village",10.2626,-61.3452,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780916441
+Guanapo,Guanapo,Gunapo|Cunapo,10.5974,-61.2682,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780637543
+Tacarigua,Tacarigua,,10.6333,-61.3667,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780854786
+"Kelly Junction","Kelly Junction",,10.3274,-61.3733,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,223.1,,,3,America/Port_of_Spain,FALSE,1780659916
+"Saint Clair","Saint Clair",,10.6705,-61.5211,"Trinidad and Tobago",TT,TTO,"Port of Spain","Port of Spain",TT-POS,municipality,,2299.3,,,2,America/Port_of_Spain,FALSE,1780382399
+"Eckel Village","Eckel Village","Eckel Ville",10.3221,-61.3808,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780665821
+"Bonne Aventure","Bonne Aventure",,10.3333,-61.4000,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780386412
+Maracas,Maracas,"Maracas Village",10.7106,-61.4196,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780284397
+"Spring Vale","Spring Vale",,10.3739,-61.4252,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780059850
+"Morne Diablo","Morne Diablo",,10.1092,-61.4461,"Trinidad and Tobago",TT,TTO,Penal/Debe,Penal/Debe,TT-PED,region,,379.0,,,3,America/Port_of_Spain,FALSE,1780983153
+"La Pastora","La Pastora",,10.7167,-61.4667,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780747751
+Howson,Howson,,10.5253,-61.1786,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780985414
+Hermitage,Hermitage,,11.3121,-60.5824,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780845452
+"Morne Quiton","Morne Quiton",,11.1864,-60.7261,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,874.9,,,3,America/Port_of_Spain,FALSE,1780724232
+Aranguez,Aranguez,,10.6472,-61.4461,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,admin,711.4,,,2,America/Port_of_Spain,FALSE,1780000001
+"Anse Fourmi","Anse Fourmi",,11.3097,-60.6122,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,44.8,,,4,America/Port_of_Spain,FALSE,1780958645
+"Lower Town","Lower Town",,11.1843,-60.7379,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780796735
+Union,Union,,11.1833,-60.7500,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,878.8,,,3,America/Port_of_Spain,FALSE,1780000000
+"Sainte Croix","Sainte Croix","Sainte Croix Village|Saint Croix",10.2629,-61.3687,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780662998
+"El Dorado","El Dorado",,10.6398,-61.3805,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780210336
+"Los Atajos","Los Atajos",,10.4167,-61.3000,"Trinidad and Tobago",TT,TTO,Couva/Tabaquite/Talparo,Couva/Tabaquite/Talparo,TT-CTT,region,,258.6,,,3,America/Port_of_Spain,FALSE,1780954918
+"Saint Joseph","Saint Joseph","Saint Joseph Village",10.2845,-61.4470,"Trinidad and Tobago",TT,TTO,"San Fernando","San Fernando",TT-SFO,municipality,,2368.1,,,2,America/Port_of_Spain,FALSE,1780769465
+Curepe,Curepe,"Curepe Village",10.6333,-61.4000,"Trinidad and Tobago",TT,TTO,Tunapuna/Piarco,Tunapuna/Piarco,TT-TUP,region,,408.8,,,3,America/Port_of_Spain,FALSE,1780895824
+Poole,Poole,,10.4511,-61.1235,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780526181
+Poole,Poole,,10.2997,-61.2289,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,TRUE,1780791564
+Guayaguayare,Guayaguayare,"Guayaguayare Village",10.1333,-61.0333,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,3,America/Port_of_Spain,FALSE,1780518675
+Fébeau,Febeau,,10.6500,-61.4500,"Trinidad and Tobago",TT,TTO,"San Juan/Laventille","San Juan/Laventille",TT-SJL,region,,711.4,,,3,America/Port_of_Spain,FALSE,1780843123
+"Cinnamon Hill","Cinnamon Hill",,11.2045,-60.7252,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,659.3,,,3,America/Port_of_Spain,FALSE,1780990792
+"Carnbee Village","Carnbee Village",,11.1685,-60.7814,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,716.7,,,3,America/Port_of_Spain,FALSE,1780912748
+"La Lune","La Lune",,10.0764,-61.3329,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780322745
+"Saint John","Saint John","Saint John Village",10.2475,-61.4183,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,322.7,,,3,America/Port_of_Spain,FALSE,1780623523
+Hillsborough,Hillsborough,,11.2199,-60.6642,"Trinidad and Tobago",TT,TTO,Tobago,Tobago,TT-TOB,ward,,62.2,,,4,America/Port_of_Spain,FALSE,1780126950
+Williamsville,Williamsville,"Williamsville Station",10.3128,-61.3830,"Trinidad and Tobago",TT,TTO,"Princes Town","Princes Town",TT-PRT,region,,178.7,,,4,America/Port_of_Spain,FALSE,1780024949
+"Hart’s Cut","Hart's Cut",,10.6833,-61.6167,"Trinidad and Tobago",TT,TTO,"Diego Martin","Diego Martin",TT-DMN,region,,808.3,,,3,America/Port_of_Spain,FALSE,1780535325
+Ecclesville,Ecclesville,"Ecclesville Village",10.3237,-61.1374,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780306313
+Jaraysingh,Jaraysingh,,10.5333,-61.1333,"Trinidad and Tobago",TT,TTO,"Sangre Grande","Sangre Grande",TT-SGE,region,,91.1,,,4,America/Port_of_Spain,FALSE,1780680058
+Vessigny,Vessigny,,10.2243,-61.6291,"Trinidad and Tobago",TT,TTO,Siparia,Siparia,TT-SIP,region,,183.7,,,4,America/Port_of_Spain,FALSE,1780620523
+"Saint Margaret","Saint Margaret",,10.2556,-61.0035,"Trinidad and Tobago",TT,TTO,"Mayaro/Rio Claro","Mayaro/Rio Claro",TT-MRC,region,,48.7,,,4,America/Port_of_Spain,FALSE,1780945700
