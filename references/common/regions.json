@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Maui",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "20.8020",
+        "lng": "-156.2947",
+        "radius": "50",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Hawaii Island",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "19.5666",
+        "lng": "-155.5128",
+        "radius": "100",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Lanai",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "20.8319",
+        "lng": "-156.9245",
+        "radius": "20",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Oahu",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "21.4729",
+        "lng": "-157.9780",
+        "radius": "45",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Kauai",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "22.0717",
+        "lng": "-159.5161",
+        "radius": "30",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Napa Valley",
+        "country": "United States",
+        "country_code": "US",
+        "lat": "38.5793",
+        "lng": "-122.2882",
+        "radius": "34",
+        "relevance_rank": "1",
+        "greater_region": "Hawaii"
+    },
+    {
+        "name": "Okanagan",
+        "country": "Canada",
+        "country_code": "CA",
+        "lat": "49.7182",
+        "lng": "-119.3246",
+        "radius": "80",
+        "relevance_rank": "1",
+        "greater_region": "British Columbia"
+    },
+    {
+        "name": "Cinque Terre",
+        "country": "Italy",
+        "country_code": "IT",
+        "lat": "44.0570",
+        "lng": "9.6975",
+        "radius": "12",
+        "relevance_rank": "1",
+        "greater_region": "Liguria"
+    }
+]
