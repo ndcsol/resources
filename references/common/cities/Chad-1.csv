@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+N’Djamena,N'Djamena,Ndjemena|Lamy|Fort-Lamy|N’Djaména,12.1100,15.0500,Chad,TD,TCD,N’Djamena,N'Djamena,TD-ND,region,primary,10920.7,1092066,1092066,1,Africa/Ndjamena,FALSE,1148708596
+Moundou,Moundou,Mondu|Mondou|Moundu,8.5667,16.0833,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,admin,128.6,142462,142462,2,Africa/Ndjamena,FALSE,1148369114
+Sarh,Sarh,Archambault|Shar|Fort-Archambault|Sahr|Sagh,9.1500,18.3833,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,admin,23.5,108061,108061,2,Africa/Ndjamena,FALSE,1148442794
+Yao,Yao,,12.8508,17.5608,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,91507,91507,3,Africa/Ndjamena,FALSE,1148655909
+Léré,Lere,,9.6572,14.2283,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,89237,89237,3,Africa/Ndjamena,FALSE,1148428566
+Abéché,Abeche,Abacher|Abécher,13.8331,20.8347,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,admin,30.1,76492,76492,2,Africa/Ndjamena,FALSE,1148461151
+Goz-Beida,Goz-Beida,Goz Beïda,12.2236,21.4144,Chad,TD,TCD,Sila,Sila,TD-SI,region,admin,23.6,66107,66107,2,Africa/Ndjamena,FALSE,1148101824
+Chèddra,Cheddra,Chedra,13.4428,16.0508,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,54072,54072,3,Africa/Ndjamena,FALSE,1148029349
+Déressia,Deressia,Dérésia,9.7603,16.2697,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,50113,50113,3,Africa/Ndjamena,FALSE,1148460531
+Faya,Faya,Faya-Largeau|Largeau,17.9169,19.1167,Chad,TD,TCD,Borkou,Borkou,TD-BO,region,admin,2.7,48090,48090,2,Africa/Ndjamena,FALSE,1148095016
+Kelo,Kelo,,9.3100,15.8100,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,45224,45224,3,Africa/Ndjamena,FALSE,1148149571
+Fianga,Fianga,,9.9153,15.1375,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,42606,42606,3,Africa/Ndjamena,FALSE,1148228151
+Koumra,Koumra,Koumbra,8.9100,17.5500,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,admin,50.8,39852,39852,2,Africa/Ndjamena,FALSE,1148599298
+Pala Oua,Pala Oua,Pala,9.3625,14.9106,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,38975,38975,3,Africa/Ndjamena,FALSE,1148631807
+Am-Timan,Am-Timan,Am Timmane|Umm Timman|Am Timane|Am Timan,11.0333,20.2833,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,admin,9.5,38261,38261,2,Africa/Ndjamena,FALSE,1148823427
+Iriba,Iriba,,15.1167,22.2500,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,17.1,33572,33572,3,Africa/Ndjamena,FALSE,1148106836
+Bongor,Bongor,,10.2806,15.3722,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,admin,38.7,27770,27770,2,Africa/Ndjamena,FALSE,1148833900
+Mongo,Mongo,,12.1837,18.7000,Chad,TD,TCD,Guéra,Guera,TD-GR,region,admin,30.1,27763,27763,2,Africa/Ndjamena,FALSE,1148891648
+Oum Hadjer,Oum Hadjer,,13.2944,19.6914,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,26136,26136,3,Africa/Ndjamena,FALSE,1148641107
+Doba,Doba,,8.6600,16.8500,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,admin,97.6,25650,25650,2,Africa/Ndjamena,FALSE,1148367091
+Fada,Fada,Fort de Fada,17.1833,21.5833,Chad,TD,TCD,Ennedi-Ouest,Ennedi-Ouest,TD-EO,region,admin,0.8,23786,23786,2,Africa/Ndjamena,FALSE,1148787282
+Amdjarass,Amdjarass,Am Djarass,16.0658,22.8431,Chad,TD,TCD,Ennedi-Est,Ennedi-Est,TD-EE,region,admin,10.1,20850,20850,2,Africa/Ndjamena,FALSE,1148268495
+Ati,Ati,,13.2133,18.3381,Chad,TD,TCD,Batha,Batha,TD-BA,region,admin,5.6,20695,20695,2,Africa/Ndjamena,FALSE,1148642108
+Mao,Mao,,14.1194,15.3133,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,admin,25.7,19004,19004,2,Africa/Ndjamena,FALSE,1148740154
+Massaguet,Massaguet,Massaguette|Massaguete|Massa Gueit|Massaquet,12.4742,15.4428,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,18872,18872,3,Africa/Ndjamena,FALSE,1148369489
+Bitkine,Bitkine,Bitkin,11.9817,18.2125,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,18495,18495,3,Africa/Ndjamena,FALSE,1148547709
+Dourbali,Dourbali,Ndourbali,11.8050,15.8647,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,17682,17682,3,Africa/Ndjamena,FALSE,1148000062
+Moussoro,Moussoro,Bahr el Ghazal,13.6431,16.4919,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,admin,22.1,16349,16349,2,Africa/Ndjamena,FALSE,1148918270
+Guelendeng,Guelendeng,Gélengdeng|Guélengdeng,10.9183,15.5486,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,16320,16320,3,Africa/Ndjamena,FALSE,1148777607
+Massakory,Massakory,Massakori|Dagana,13.0000,15.7333,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,admin,30.7,16237,16237,2,Africa/Ndjamena,FALSE,1148908311
+Kyabé,Kyabe,Kiyabi|Kiyabé,9.4514,18.9447,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,15960,15960,3,Africa/Ndjamena,FALSE,1148010568
+Bokoro,Bokoro,,12.3667,17.0500,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,15517,15517,3,Africa/Ndjamena,FALSE,1148118704
+Béré,Bere,,9.3156,16.1597,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,14666,14666,3,Africa/Ndjamena,FALSE,1148449680
+Bousso,Bousso,Fort Bretonnet,10.4825,16.7161,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,14286,14286,3,Africa/Ndjamena,FALSE,1148720066
+Laï,Lai,Behagle|Behagie,9.4000,16.3000,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,admin,26.2,14272,14272,2,Africa/Ndjamena,FALSE,1148360693
+Mata,Mata,,14.0436,21.1611,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,13739,13739,3,Africa/Ndjamena,FALSE,1148342501
+Adré,Adre,,13.4667,22.2000,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,12571,12571,3,Africa/Ndjamena,FALSE,1148372250
+Benoy,Benoy,Bénoye,8.9908,16.3169,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,12097,12097,3,Africa/Ndjamena,FALSE,1148969711
+Biltine,Biltine,,14.5275,20.9267,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,admin,14.3,11840,11840,2,Africa/Ndjamena,FALSE,1148086843
+Bol,Bol,Bol I,13.4600,14.7400,Chad,TD,TCD,Lac,Lac,TD-LC,region,admin,21.4,11700,11700,2,Africa/Ndjamena,FALSE,1148232209
+Mangalmé,Mangalme,,12.3547,19.6139,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,11155,11155,3,Africa/Ndjamena,FALSE,1148616441
+Beïnamar,Beinamar,,8.6681,15.3803,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,7445,7445,4,Africa/Ndjamena,FALSE,1148036495
+Zouar,Zouar,,20.4500,16.5167,Chad,TD,TCD,Tibesti,Tibesti,TD-TI,region,,0.4,6432,6432,3,Africa/Ndjamena,FALSE,1148690803
+Massenya,Massenya,Tchekna|Massenia|Chekna,11.4000,16.1667,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,admin,10.5,3680,3680,2,Africa/Ndjamena,FALSE,1148928302
+Arak Tignari,Arak Tignari,,13.4176,20.8001,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148131057
+Koumbale,Koumbale,,7.6833,15.9667,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148008900
+Aaba,Aaba,,12.3667,22.2833,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148991668
+Niourmo,Niourmo,,13.0858,20.6410,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148395641
+Ndildo,Ndildo,Dildo|Dido,8.5320,16.8426,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148629825
+Donkazé,Donkaze,,8.2297,15.8742,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148877363
+Faki Dout,Faki Dout,,13.0969,18.2430,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148608092
+Magardjala,Magardjala,Magardialla,12.4833,21.7667,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148819163
+Denga,Denga,,9.2839,15.6539,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148607490
+Bembaïndi,Bembaindi,,7.8140,16.3959,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148744580
+Bembaïndi,Bembaindi,,7.8446,15.8749,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,TRUE,1148888984
+Abado,Abado,,12.8320,14.7841,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148941303
+Selbé,Selbe,,10.7358,15.4128,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148130461
+Garoua I,Garoua I,,8.3108,15.6674,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148908640
+Mayouliri,Mayouliri,,14.1062,15.3549,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148547923
+Karna,Karna,,14.0585,21.1459,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148000111
+Domo Dongogo,Domo Dongogo,Domo Dongozo,9.4857,15.6590,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148445688
+Kemkaba,Kemkaba,,9.2113,17.5886,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148656405
+Mordé,Morde,,10.6000,15.2833,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148557551
+Ngal I,Ngal I,,8.0028,15.7451,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148785925
+Bara,Bara,,14.2855,15.2356,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148822165
+Gréda,Greda,Gereda,12.2690,15.2876,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148760905
+Kouri Obatari,Kouri Obatari,,13.2851,16.0857,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148017935
+Korodrakassa,Korodrakassa,,8.1010,17.8189,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148317445
+Korio,Korio,,9.4167,15.2500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148109185
+Douban,Douban,,13.6987,20.9153,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148489481
+Djabélo,Djabelo,,8.7807,15.7916,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,120.6,,,4,Africa/Ndjamena,FALSE,1148178727
+Chokolki,Chokolki,,12.9500,21.2500,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148778713
+Karoua,Karoua,,13.4180,15.8757,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148142893
+Tagal,Tagal,,9.6000,15.2667,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148707333
+Ngaranda,Ngaranda,,13.6706,15.0973,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148210464
+Kaywa,Kaywa,,13.4140,15.5321,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,55.5,,,4,Africa/Ndjamena,FALSE,1148412811
+Mogroum,Mogroum,,9.0706,16.5617,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148454577
+Barde,Barde,,11.0149,15.9663,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148190175
+Golaou,Golaou,,12.2462,18.8883,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148630759
+Gandaye II,Gandaye II,,8.6500,15.3500,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148391836
+Biakongo,Biakongo,,9.1054,16.4775,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148502661
+Bèmrang,Bemrang,,8.8379,15.9029,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148587090
+Ambasadna,Ambasadna,,12.7993,14.9006,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148629321
+Goldigré,Goldigre,,9.1081,15.9459,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148766162
+Bédogo II,Bedogo II,,8.6299,17.0691,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148000031
+Moutzoul,Moutzoul,,11.7045,15.1462,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148985676
+Yougoum,Yougoum,,14.2145,15.8919,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148599202
+Aouïn Rado,Aouin Rado,,12.2667,22.4000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148052423
+Kamba,Kamba,,10.0813,16.3023,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148032277
+Lodok,Lodok,Lodor,14.3709,21.1637,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148901671
+Dimed,Dimed,,13.1781,18.5527,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148221454
+Tirian,Tirian,Tiriam,9.7122,14.3659,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148740005
+Sobo,Sobo,,10.7167,18.4667,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148312456
+Tikepabaïdang,Tikepabaidang,,9.6525,14.0991,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148672131
+Guira,Guira,Gaïra,8.3567,17.7425,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148633649
+Kébinia,Kebinia,,9.6215,16.5848,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148419819
+Balakiousi,Balakiousi,,14.2120,14.8531,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148243021
+Tchire Andam,Tchire Andam,,9.5146,15.8878,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148700686
+Kaga Mbassa,Kaga Mbassa,,9.2296,16.8396,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148604593
+Mougoumou Foulbé,Mougoumou Foulbe,,10.0618,16.1235,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148533732
+Goz Himet,Goz Himet,,13.5544,21.7945,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148000190
+Kaloubou,Kaloubou,,10.8039,15.3644,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148429814
+Tchawa,Tchawa,,11.8861,17.6012,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148796829
+Béyara,Beyara,,8.9619,17.0335,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148044643
+Kadjinga,Kadjinga,,9.1995,17.2248,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148846348
+Kadjinga,Kadjinga,,9.0521,17.2529,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,TRUE,1148200003
+Pala,Pala,Palla,9.3646,14.9073,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,admin,55.2,,,2,Africa/Ndjamena,FALSE,1148687410
+Bé Kordou,Be Kordou,,9.1679,16.7831,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148613067
+Rahat el Bagar,Rahat el Bagar,,12.1300,16.7179,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,11.0,,,4,Africa/Ndjamena,FALSE,1148725799
+Goré I,Gore I,Goré|Gorr|Gor,8.4272,15.8309,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148274291
+Begala,Begala,,8.7667,16.5833,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,77.9,,,4,Africa/Ndjamena,FALSE,1148731703
+Ndiouloum,Ndiouloum,,13.5691,15.2674,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148277303
+Léo Baktano,Leo Baktano,Bactana,9.6482,15.7211,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,100.4,,,4,Africa/Ndjamena,FALSE,1148189253
+Marfakatèl,Marfakatel,,11.9403,21.9216,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148332832
+Dagésa,Dagesa,,12.0000,22.4500,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,3,Africa/Ndjamena,FALSE,1148000033
+Charati Gato,Charati Gato,Cherati Salah,10.2427,19.8762,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148246819
+Béboura,Beboura,,8.8428,16.8329,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148127446
+Koumalé,Koumale,,14.5816,21.4018,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148887527
+Moundo,Moundo,Mondo|Mondo,10.8077,15.8205,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,12.7,,,4,Africa/Ndjamena,FALSE,1148406924
+Kondoko,Kondoko,Kandoko,14.4876,21.9813,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148400322
+Takapti,Takapti,,8.3891,17.0261,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148254275
+Antarena,Antarena,,11.1088,17.9396,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148132931
+Niangala,Niangala,,13.2710,20.6358,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148954152
+Am Sayala,Am Sayala,,13.4513,20.5055,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148948470
+Kassine,Kassine,Kasin|Kasiné,14.2500,21.5000,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148682101
+Domann II,Domann II,Doman II,8.3747,15.6148,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148177488
+Magram Seko,Magram Seko,Seko,12.8333,20.2667,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148296733
+Kimré,Kimre,,9.3604,16.9308,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148747694
+Mayélé,Mayele,,9.1130,18.2886,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148582260
+Malodo,Malodo,,11.1956,15.3407,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148791278
+Gangala,Gangala,,9.7277,16.6222,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148360666
+Mantcharné,Mantcharne,,12.6773,17.0571,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148682591
+Sondoum,Sondoum,,11.2784,17.8564,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148224519
+Sindalolo,Sindalolo,,8.3972,16.7958,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,60.3,,,4,Africa/Ndjamena,FALSE,1148989890
+Lében,Leben,,13.9888,19.5958,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148339848
+Tchogni,Tchogni,,9.7393,16.8230,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148432813
+Sartoa,Sartoa,,12.9384,17.6377,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148345887
+Oum-Chalouba,Oum-Chalouba,,15.8000,20.7667,Chad,TD,TCD,Borkou,Borkou,TD-BO,region,,0.8,,,5,Africa/Ndjamena,FALSE,1148280935
+Tara Ganmbir,Tara Ganmbir,,13.4131,21.4236,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148023892
+Ouénabdou,Ouenabdou,Ouendou Abdou|Ouendou Abdou|Ouendou Abdou,10.8847,15.9369,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148775746
+Bani,Bani,,8.7275,15.7847,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148048833
+Gadang-Haddad-Dandi,Gadang-Haddad-Dandi,,10.3689,17.0273,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148509141
+Moudouga,Moudouga,,12.6167,22.1333,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148224903
+Mafaki,Mafaki,,10.5829,15.5295,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148484910
+Andadja Djebel,Andadja Djebel,,13.1434,22.0289,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148000173
+Birkel Beïda,Birkel Beida,,11.4305,17.0990,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148596444
+Doukoa,Doukoa,,13.7546,15.5477,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148513019
+Balal,Balal,,13.2857,18.3207,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148463007
+Ngari,Ngari,,14.1246,15.2508,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148236337
+Abaron,Abaron,,13.5376,21.6081,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.5,,,4,Africa/Ndjamena,FALSE,1148709403
+Bémal,Bemal,,8.1714,16.2867,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148479520
+Iseni,Iseni,,12.9642,16.8658,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148708786
+Dagé,Dage,,14.4563,15.5030,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,2.5,,,5,Africa/Ndjamena,FALSE,1148439582
+Oubir,Oubir,,11.9548,18.9109,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148324415
+Ninga Kouma,Ninga Kouma,,9.5645,16.3078,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148186128
+Tchindaye,Tchindaye,Tchindaï,9.4732,16.2904,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148467556
+Asnet,Asnet,,13.2217,19.1797,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148199844
+Limter,Limter,,10.1560,16.6797,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148768125
+Goudoum,Goudoum,,9.9203,14.9420,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148291628
+Dingamdili,Dingamdili,,8.4550,17.4130,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148668415
+Emté Ragay,Emte Ragay,,13.1677,18.3366,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148432739
+Taniam,Taniam,,12.6667,20.3000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148153559
+Térédina,Teredina,,14.4510,21.7343,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148410337
+Tandal Bol,Tandal Bol,,13.4833,14.7167,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148961930
+Dourdigi,Dourdigi,,12.7296,17.2110,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148880224
+Ab Agarip,Ab Agarip,Ab Agaridé,13.5187,19.2850,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148985719
+Pala,Pala,Palla,11.0318,15.3012,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148498111
+Kay Manèmba,Kay Manemba,,9.7293,18.5637,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148153510
+Bé Mangra,Be Mangra,,9.0946,16.6032,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148815803
+Anfar,Anfar,,13.9793,20.9470,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148285750
+Ouadjigi,Ouadjigi,Ouachtiguï,14.3207,15.3988,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148118847
+Boloro,Boloro,,9.5561,14.1842,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148476453
+Sama,Sama,Samma,9.0477,16.5887,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148798549
+Sama,Sama,,8.8597,16.7706,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,TRUE,1148437855
+Maboum,Maboum,,7.8151,15.7577,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148748551
+Maïmani,Maimani,,9.2162,17.6587,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148956943
+Maïmani,Maimani,,8.9829,17.7040,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,TRUE,1148634236
+Samata II,Samata II,,9.7988,20.7865,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,2.6,,,5,Africa/Ndjamena,FALSE,1148228876
+Souébé,Souebe,,11.5983,16.7969,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148819589
+Banda,Banda,,9.1561,18.3653,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148405744
+Banda,Banda,,9.0125,18.4824,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,TRUE,1148260724
+Banda,Banda,,9.4892,19.0323,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,TRUE,1148746153
+Rim,Rim,,10.5762,18.3565,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148043245
+Balouay,Balouay,Balouhaye|Bolohaye,9.6963,18.4649,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148822544
+Alifarom,Alifarom,,13.3097,15.4290,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,35.5,,,4,Africa/Ndjamena,FALSE,1148882769
+Békoule,Bekoule,,8.9320,16.7769,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148947022
+Tchou Tchoui,Tchou Tchoui,,12.9177,18.1338,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148172494
+Gounou Soulok,Gounou Soulok,Souloc,9.7744,15.3690,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,106.9,,,4,Africa/Ndjamena,FALSE,1148328985
+Kobo,Kobo,,9.5297,18.7266,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148869231
+Ngarana,Ngarana,Ngarna,14.2958,13.7622,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148155432
+Kouri,Kouri,,9.8982,17.6670,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148917777
+Mahora,Mahora,,9.7500,15.8000,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148926381
+Goumi,Goumi,,11.1030,17.8637,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148740844
+Manzolo,Manzolo,,13.4975,20.0806,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148707531
+Moussafoyo,Moussafoyo,,8.8453,18.7103,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148146758
+Guinedilé,Guinedile,Ginedilé,13.6684,20.8256,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148856217
+Koughekja,Koughekja,,11.6324,15.1911,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148681935
+Bépara,Bepara,,8.2954,17.0422,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148800919
+Tchoukou,Tchoukou,,11.6975,17.2016,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148250594
+Kiritia,Kiritia,,13.5880,15.3708,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148330978
+Moungalkasi,Moungalkasi,,12.5833,21.8167,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148383857
+Kaoré Oulad Tao,Kaore Oulad Tao,,13.5226,20.5530,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148353543
+Potalé,Potale,,9.7423,14.0581,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148965480
+Dédé,Dede,,11.3669,18.4266,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148578865
+Touria,Touria,,9.8526,15.1800,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148415035
+Roura,Roura,,13.9789,21.7323,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148537662
+Am Chimélé Dougoum,Am Chimele Dougoum,Dougoum Am Chimélè,14.0320,20.0309,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148038635
+Koronboué,Koronboue,,14.4346,20.9556,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148810997
+Korémirom,Koremirom,,13.4167,14.7167,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148766151
+Djilmi,Djilmi,,11.6852,17.9138,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148928847
+Adabarta,Adabarta,,13.2196,22.1536,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148990661
+Ndagazo,Ndagazo,,11.7648,15.1291,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148119470
+Karfisso,Karfisso,Kerfisso,11.3291,18.2104,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148873623
+Baïda Djérassim,Baida Djerassim,Baïda Djerasim,9.1367,14.9033,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148727194
+Goudoukou Moursili,Goudoukou Moursili,Goudoukou Mourtchili,9.7824,14.1226,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148246168
+Siho,Siho,,10.1960,19.7027,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148514679
+Chakarnaba,Chakarnaba,Chakernaba,14.2266,20.8457,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148578640
+Man Kala,Man Kala,,13.0415,18.2106,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148897334
+Arango,Arango,,11.9439,21.3071,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148055936
+Maïmosso,Maimosso,,8.1529,17.5484,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148079540
+Koumakéniako,Koumakeniako,,9.6475,19.0066,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148918893
+Doborti,Doborti,,8.8174,16.8615,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148212971
+Bougouna,Bougouna,,9.7500,15.7833,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148296486
+Outach,Outach,,13.6089,20.1297,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148000044
+Outach,Outach,,13.2229,19.9834,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,TRUE,1148288338
+Gambaraou,Gambaraou,,13.7328,15.5821,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148012585
+Zamré Dongor,Zamre Dongor,,9.3697,15.5483,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148995451
+Ramo,Ramo,,13.0725,19.4898,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148986380
+Ramo,Ramo,,12.9165,19.4686,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,TRUE,1148111202
+Afianga Fortori,Afianga Fortori,Afianga,13.0154,15.6323,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148666830
+Badgué,Badgue,Badgé,9.1351,16.5362,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148673143
+Fil,Fil,,11.2195,19.0423,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148604012
+Laramanay,Laramanay,Laramin,8.0380,15.7034,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148430552
+Baoaré,Baoare,,9.2081,14.4397,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148472077
+Darélech,Darelech,Dar el Esh|Dar el Esch,11.7104,19.8029,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148285994
+Djidada,Djidada,Gidada,12.2624,15.2501,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148647142
+Goz Abou Danap,Goz Abou Danap,,10.2587,19.7800,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148766596
+Landè,Lande,,13.6517,15.4011,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148197432
+Landé,Lande,,13.5642,15.2566,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,TRUE,1148110479
+Mahimi,Mahimi,,9.0743,18.5794,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148933531
+Lourga,Lourga,,14.1262,21.2158,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148828790
+El Mréir,El Mreir,,12.9189,15.1174,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148223433
+Koubounda,Koubounda,,9.6594,19.4428,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148178490
+Bitchotchi Doungous,Bitchotchi Doungous,Bitchochi Doungous,12.8335,19.5618,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148821692
+Fitchari,Fitchari,Fichar,12.1349,18.9234,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148444588
+Békamba I,Bekamba I,,8.6986,17.3591,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148346067
+Dakaïko,Dakaiko,,13.1470,20.7516,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148370917
+Bilamtou,Bilamtou,,10.6001,16.5279,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148795852
+Diokana,Diokana,,12.1407,16.3218,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148907890
+Diokana,Diokana,,12.2149,16.6633,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,TRUE,1148663705
+Diokana,Diokana,,12.1246,16.2715,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,TRUE,1148974235
+Dalak,Dalak,,12.3918,17.2266,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148618692
+Ndia,Ndia,,13.4000,14.9500,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148825869
+Am Sakine,Am Sakine,,10.9972,17.1843,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148957492
+Damaré,Damare,,13.8293,21.5107,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148157836
+Beter,Beter,,9.0224,15.6993,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148464942
+Karouadji,Karouadji,,12.8000,21.0167,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148483527
+Bir Kédouas,Bir Kedouas,,12.8667,21.8500,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,40.3,,,4,Africa/Ndjamena,FALSE,1148452289
+Daka,Daka,,12.9849,16.7019,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148290132
+Kali,Kali,,14.4818,14.7503,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,2.5,,,5,Africa/Ndjamena,FALSE,1148314978
+Melméle,Melmele,Melmel,12.8528,18.0719,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148835841
+Bédodan,Bedodan,,8.5848,17.2037,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148707731
+Abirbri,Abirbri,,12.6000,22.1667,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148029170
+Adiguel,Adiguel,Addigel,12.1891,15.1049,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148527164
+Am Arhar Iésey,Am Arhar Iesey,,13.8769,20.0705,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148000001
+Mirédo,Miredo,M’Redo,11.3941,19.8577,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148981485
+Koumka,Koumka,,12.8991,18.1128,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148867910
+Ntiara Touri,Ntiara Touri,,13.8314,15.4116,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148992268
+Bakala,Bakala,,10.5938,15.1820,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148788693
+Kayré,Kayre,,8.3806,16.1268,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148860354
+Békoninga,Bekoninga,,7.7139,16.6658,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,32.0,,,4,Africa/Ndjamena,FALSE,1148875704
+Féné,Fene,,13.4749,21.2093,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148564842
+Am Bougouna,Am Bougouna,Am Bougouma,12.0450,15.2304,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148363516
+Kalimba,Kalimba,Kalimboa,13.3489,15.4859,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148994061
+Doua,Doua,Doa,9.2109,16.3707,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148427209
+Moulyo,Moulyo,,13.0089,17.6384,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148918996
+Al Goz,Al Goz,El Goz,11.4811,20.1268,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148170713
+Al Goz,Al Goz,El Goz,11.4097,19.8683,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,TRUE,1148227895
+Fadjé Lhala,Fadje Lhala,,12.8183,18.3855,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148801808
+Holom,Holom,Kholem|Valloum|Cholem|Hollom,11.3312,15.0722,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148811082
+Ouagif,Ouagif,Ouéré,13.5144,21.1260,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148566021
+Koudougou,Koudougou,,10.2333,15.4500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148577049
+Matodjo,Matodjo,,11.9800,21.4769,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148967833
+Ferimounga,Ferimounga,,13.2036,16.2553,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148775224
+Nangda,Nangda,,9.1456,16.2835,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148184815
+Am Djan,Am Djan,,13.5801,20.2191,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148430101
+Mastoudou,Mastoudou,,9.7333,15.4000,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148899130
+Tchoukoula,Tchoukoula,,12.3763,14.9562,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148560144
+Bouado,Bouado,,8.2121,15.5743,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148552824
+Koulga,Koulga,,12.7421,19.1345,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148907845
+Koro II,Koro II,,8.7103,16.0197,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148083365
+Tamadaï,Tamadai,,12.9137,15.3536,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148672884
+Bebourou,Bebourou,,7.7167,16.0833,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148277643
+Bouado,Bouado,,8.2854,15.5946,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148371387
+Guélédi,Gueledi,Guéleidi,8.9746,15.8601,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148296649
+Guindita,Guindita,Gindita,13.3365,22.0615,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148495259
+Bagoudam,Bagoudam,,12.2828,18.4700,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148592275
+Lal,Lal,,7.8011,16.3330,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148747021
+Zarli,Zarli,,12.0501,18.6889,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148908133
+Ardim,Ardim,,11.9109,21.3029,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148740563
+Matabgé,Matabge,,13.3319,17.7551,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148917676
+Matabgé,Matabge,Matabjé,13.2635,18.3122,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,TRUE,1148456293
+Abougoudam,Abougoudam,,13.6667,20.7333,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148000359
+Langda,Langda,,8.8506,15.8837,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148000022
+Kodouyoloso,Kodouyoloso,,13.3398,16.4366,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148377639
+Tiéou,Tieou,Thiéou,10.3299,19.5458,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148787005
+Tolkaba,Tolkaba,,9.5993,18.6486,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148902364
+Chiotak,Chiotak,,13.7979,21.5321,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148837757
+Al Mazarap,Al Mazarap,,12.4211,16.5512,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148561016
+Boula Bouda,Boula Bouda,,11.1260,16.0851,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148700812
+Maïna Madou,Maina Madou,,11.9269,15.0902,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148277745
+Nguéto,Ngueto,Ngiéto,12.2757,15.2294,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148272683
+Bébonboura,Bebonboura,,8.1716,16.5022,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148546956
+Ibinda,Ibinda,,11.9474,18.9874,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148736730
+Dinguilérou,Dinguilerou,Dingilérou,14.1027,21.3538,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148099729
+Bachèr,Bacher,,13.1859,18.3343,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148863820
+Boulonkou Yako,Boulonkou Yako,,13.5064,15.4195,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148005573
+Kédété,Kedete,,10.6000,15.2333,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148891583
+Ouazkaga,Ouazkaga,,11.5781,15.2431,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148222190
+Aouyé,Aouye,,13.9526,19.3683,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148694375
+Atia,Atia,,11.1342,17.9419,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148597631
+Kangar Kangara,Kangar Kangara,,13.2570,15.8270,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148684041
+Morkouata,Morkouata,,8.6456,18.9035,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148882911
+Matassi,Matassi,Matasi,11.2811,15.1673,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148713513
+Matassi,Matassi,Matasi,11.2054,15.3553,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,32.8,,,4,Africa/Ndjamena,TRUE,1148561331
+Gamkoul,Gamkoul,Gamboul,10.2524,17.7147,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148953043
+Dakono,Dakono,,8.5666,18.6034,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148390216
+Bèngabou,Bengabou,,8.7366,16.9786,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148608242
+Keuni,Keuni,,9.0125,15.7444,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148051445
+Khichemak,Khichemak,,12.5278,16.7511,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148732340
+Biéré Am Kindoué,Biere Am Kindoue,,12.7333,21.0167,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148246104
+Baila-Kali,Baila-Kali,,8.9500,15.5333,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148494775
+Sédégué,Sedegue,,9.6321,16.5663,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148314582
+Maïda,Maida,,8.4366,16.5760,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,77.9,,,4,Africa/Ndjamena,FALSE,1148638990
+Madibé,Madibe,,8.6189,15.4012,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148642263
+Alakou,Alakou,,9.4380,18.9074,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148757618
+Kontjala,Kontjala,,7.9457,16.6198,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148453714
+Bembaré,Bembare,Bimbaré|Bimbari,9.0390,16.6011,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148697647
+Douroumbédat,Douroumbedat,Djouroum Bedek,11.2959,20.6614,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148695504
+Kalam-Kalam,Kalam-Kalam,Kélam,11.8900,15.1895,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148844691
+Méléko,Meleko,,13.5292,15.6018,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148188759
+Nianigin,Nianigin,,14.1710,20.3541,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148771618
+Daloueï,Dalouei,,9.6421,15.7526,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148821398
+Agarta,Agarta,,13.3048,22.0587,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148716715
+Koudangui,Koudangui,,8.8253,15.8280,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148464068
+Eré,Ere,Niéré|Niery,14.3157,21.6746,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148636668
+Tagla II,Tagla II,,8.8688,16.2672,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148833142
+Yébé,Yebe,,8.6790,18.0887,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148091390
+Karay,Karay,Karaï,13.8847,19.4499,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148454598
+Sounta,Sounta,,14.7671,20.8670,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148644243
+Bitenda,Bitenda,,8.5049,17.1295,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148299584
+Bitènda,Bitenda,,8.6732,16.6280,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,77.9,,,4,Africa/Ndjamena,TRUE,1148747384
+Dokan,Dokan,,12.7500,21.7500,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148108664
+Am Kouk,Am Kouk,,14.1346,20.4463,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148267114
+Mabani,Mabani,,8.9504,16.9387,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148847544
+Monney,Monney,,13.4018,21.1897,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148885938
+Er,Er,,15.1833,22.1167,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,17.1,,,4,Africa/Ndjamena,FALSE,1148271764
+Harouba,Harouba,,14.0667,22.0500,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148946914
+Vounianbi,Vounianbi,,9.1778,14.7211,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148840201
+Balé II,Bale II,,8.7090,17.4729,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,78.7,,,4,Africa/Ndjamena,FALSE,1148159021
+Bifou Kengéla,Bifou Kengela,,13.8167,14.2667,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148205759
+Am Boung,Am Boung,,12.3097,15.0076,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148301971
+Gousamsi,Gousamsi,,9.8894,15.0223,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148478909
+Benga Kindonion,Benga Kindonion,,8.6336,17.2282,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148263359
+Masarma,Masarma,,12.5715,16.5959,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148703252
+Andi Garbokoum,Andi Garbokoum,,10.7394,17.9247,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148915689
+Diogoromo,Diogoromo,,13.3103,15.9461,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148349187
+Dar Ninga,Dar Ninga,,9.2952,17.0296,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148791257
+Adiabé,Adiabe,,15.3333,21.7667,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,17.1,,,4,Africa/Ndjamena,FALSE,1148014855
+Boul,Boul,,12.2598,17.6066,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148563994
+Moudjibé,Moudjibe,,8.9129,17.7744,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148526040
+Bourio,Bourio,,12.9693,17.4840,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148739076
+Mayé,Maye,,15.3000,22.4000,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,17.1,,,4,Africa/Ndjamena,FALSE,1148773947
+Sandéné II,Sandene II,,8.6435,17.7171,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148283303
+Pipigne,Pipigne,,8.0833,15.6667,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148518511
+Di,Di,,9.8777,15.4974,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148238436
+Mefi,Mefi,,11.3528,15.4322,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148191218
+Doumka,Doumka,,13.0090,17.5984,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148423101
+Chouarom,Chouarom,,13.1759,15.3892,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,57.7,,,4,Africa/Ndjamena,FALSE,1148953582
+Al Oubana,Al Oubana,,10.3774,19.9345,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148611250
+Guidlolo,Guidlolo,,8.6718,18.2966,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148559564
+Maïbian,Maibian,,8.6282,18.5439,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148845138
+Maïbian,Maibian,,8.3680,17.5195,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148218181
+Tangaray,Tangaray,,9.0944,19.5868,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148498508
+Rahat es Souk,Rahat es Souk,,12.5347,16.7509,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148471345
+Kabara,Kabara,,12.7174,17.4347,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148177558
+Godéré,Godere,,10.5856,15.4723,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148565778
+Néouya,Neouya,,11.8333,21.1333,Chad,TD,TCD,Sila,Sila,TD-SI,region,,17.3,,,4,Africa/Ndjamena,FALSE,1148657227
+Bisséo II,Bisseo II,Biséo II,9.8370,14.8681,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148567690
+Kaditaya,Kaditaya,,8.4532,17.7852,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148945704
+Kougouloumadinga,Kougouloumadinga,,14.2150,14.1440,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148116833
+Tandjam,Tandjam,,12.1000,19.0000,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148158021
+Odok,Odok,Adok,12.4092,19.2757,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148733200
+Manmatigue,Manmatigue,,9.0380,18.4581,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148008324
+Doguigui,Doguigui,,8.8226,17.4740,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148809532
+Abènakabré,Abenakabre,,12.1337,15.8421,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148691381
+Goundang,Goundang,,13.1624,22.0178,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148078677
+Kalérom,Kalerom,,13.2819,15.5586,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148168984
+Mbaïkor,Mbaikor,,9.0289,16.3527,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148914789
+Ogoum,Ogoum,,11.2348,19.2257,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148974231
+Kérkébé,Kerkebe,,14.2159,21.6116,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148574122
+Djidja,Djidja,,14.2633,13.7418,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148219538
+Bandar,Bandar,,12.0167,21.6000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148045715
+Bandar,Bandar,,12.2500,21.6000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,TRUE,1148922094
+Bandar,Bandar,,12.3833,21.5333,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,TRUE,1148629477
+Siguet,Siguet,Siget,11.7849,15.2204,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148620652
+Allantana,Allantana,,12.7416,17.1199,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148058952
+Ngourtoula,Ngourtoula,Gourtala,13.7360,15.3783,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,84.7,,,4,Africa/Ndjamena,FALSE,1148163155
+Bangoul,Bangoul,Bangul|Bangoui,8.6300,17.3406,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148299441
+Makarake,Makarake,,11.7788,15.1250,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148277240
+Khéréga,Kherega,Kréga,13.2750,18.2645,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148060375
+Toguior Ngolo,Toguior Ngolo,,9.4686,16.1184,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148268928
+Béguéli,Begueli,,8.1169,16.8972,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,37.4,,,4,Africa/Ndjamena,FALSE,1148378914
+Djola I,Djola I,Djola II,8.5561,17.6410,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148974769
+Mimiaka,Mimiaka,,11.8354,15.7140,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148934151
+Tchanar II,Tchanar II,,9.1020,16.1947,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148203703
+Tsakaméder,Tsakameder,Tsakamédéri,10.8983,16.2036,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148012265
+Bogré,Bogre,,8.9654,16.9410,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148036906
+Gonougotor,Gonougotor,,13.2069,15.9174,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148623290
+Gim,Gim,Gaïme|Guim,14.0406,14.3788,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148724633
+Abioko,Abioko,,13.0333,18.4833,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148210369
+Moursalé Banba,Moursale Banba,Mourssalé|Moursalé Bamba|Messale,9.3429,14.7067,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148512061
+Lamimé,Lamime,,12.6763,19.3268,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148572892
+Bodérom,Boderom,,14.1887,13.7202,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148226816
+Banda II,Banda II,,8.8274,18.4208,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148676187
+Zéréf,Zeref,,13.8893,19.1909,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148579100
+Rémélé,Remele,,13.8277,16.2833,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148700923
+Am Dalam,Am Dalam,,13.8369,20.2380,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148771499
+Bénnbann,Bennbann,,8.1813,15.5778,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148078301
+Bilo,Bilo,,11.3278,15.4987,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148291969
+Kantara,Kantara,,13.6052,17.0228,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148223814
+Malakomé,Malakome,Malakouma,9.5703,18.5322,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148912550
+Asaroa,Asaroa,,13.2420,15.9009,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148747909
+Bémouli,Bemouli,,7.8281,16.2557,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148575690
+Kidi,Kidi,,8.3168,16.1398,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148284753
+Konkioudouwi,Konkioudouwi,,13.4338,15.9058,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148132622
+Dogolo,Dogolo,,11.2805,17.0703,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148468175
+Afat,Afat,,12.4940,15.9467,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148677751
+Katala,Katala,,13.1390,18.6311,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148640873
+Bégara Daye,Begara Daye,,8.5528,17.6858,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148851878
+Zazéré,Zazere,Zazéré Foulbé,9.8168,14.2177,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148387742
+Goun,Goun,,9.3661,15.8806,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148863274
+Kataférita,Kataferita,,13.2399,21.9991,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148419270
+Zérinkel,Zerinkel,,12.1992,18.4902,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148861090
+Dotogou,Dotogou,Dotogo,7.8795,15.8203,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148308140
+Hidjilidjé,Hidjilidje,Hidjelidj,12.1574,15.8737,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148959040
+Doui,Doui,,21.1667,17.4333,Chad,TD,TCD,Tibesti,Tibesti,TD-TI,region,,0.3,,,5,Africa/Ndjamena,FALSE,1148784395
+Kindoultié,Kindoultie,,13.5034,15.3431,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148027803
+Mafou,Mafou,,9.2802,14.5941,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148596893
+Ngabou,Ngabou,,8.9713,17.9914,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148289092
+Mondjiguin,Mondjiguin,Mondjigin,13.5323,20.6471,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148572957
+Dilka,Dilka,,11.0109,15.4890,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,29.0,,,4,Africa/Ndjamena,FALSE,1148230422
+Mounkoumba,Mounkoumba,,8.4174,17.7486,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148525333
+Dobara,Dobara,,8.6960,16.2371,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148043517
+Bara,Bara,,8.4833,17.4667,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148118712
+Bara,Bara,,8.2537,17.7037,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,TRUE,1148236487
+Lété,Lete,Leteï,11.8154,18.0937,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148686493
+Bara,Bara,,9.7962,18.8470,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148100478
+Bara,Bara,,9.6497,18.9148,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,TRUE,1148367189
+Goundo Nongom,Goundo Nongom,,9.5461,16.1972,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,97.2,,,4,Africa/Ndjamena,FALSE,1148976404
+Bara,Bara,,9.4809,15.1190,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148615167
+Koubong,Koubong,,9.5093,16.6422,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148267362
+Goudirta,Goudirta,,13.2195,16.8779,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148674019
+Iboy,Iboy,,14.0000,14.5833,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148076826
+Korio,Korio,,13.0907,21.4399,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148567445
+Abakada,Abakada,,14.6000,22.2333,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148080752
+Kalékokori,Kalekokori,,13.0310,15.7703,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148231501
+Abli,Abli,,13.1473,17.6082,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148259636
+Tchassa,Tchassa,Tchasa,11.1253,15.9816,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148345092
+Moro,Moro,,11.0929,22.7429,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148867278
+Ab Sioufa,Ab Sioufa,Absiouf|Am Ciouf,13.1646,19.5660,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148606129
+Abou Koulam,Abou Koulam,,13.9801,19.9763,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148585277
+Méléléa,Melelea,,13.7101,15.5270,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148800541
+Léo Djargay II,Leo Djargay II,Djargaye II,9.5780,15.6956,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148757479
+Garo,Garo,,8.7447,16.3815,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148761864
+Bérné,Berne,,13.8195,19.7113,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148535903
+Delasa,Delasa,,13.5478,15.2123,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148041255
+Nokoro,Nokoro,Nakourou,8.0833,15.7500,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148743082
+Toumo,Toumo,,13.4167,14.9833,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148360244
+Kaba,Kaba,,9.1600,16.4509,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148053989
+Obou,Obou,,9.3219,15.8862,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148477277
+Koul Lao,Koul Lao,,8.4500,15.9000,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148516414
+Dio,Dio,,11.5037,15.1907,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148119180
+Birboti,Birboti,,9.2692,17.1025,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148045577
+Koloum,Koloum,Couloum,14.1574,15.3319,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148938105
+Boro Kateltek,Boro Kateltek,,13.3676,21.6660,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,39.8,,,4,Africa/Ndjamena,FALSE,1148153319
+Bita-Ndololo,Bita-Ndololo,,8.8153,16.2066,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148702801
+Enga,Enga,Inga,9.4242,15.7088,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148472455
+Ab Tibne,Ab Tibne,,12.9784,18.5597,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148987499
+Sékoua,Sekoua,,10.7839,15.7953,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148877160
+Toumka,Toumka,Temka,12.0846,18.1701,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148519637
+Kapba,Kapba,,11.4326,20.4030,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148063836
+Ziguey,Ziguey,Zigueïdé|Zigueï|Zigey,14.7226,15.7921,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,2.5,,,4,Africa/Ndjamena,FALSE,1148973346
+Sakala,Sakala,,8.1574,17.7457,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148287950
+Benibo,Benibo,Béribo,8.6552,16.1528,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148944177
+Foulounga Lunion,Foulounga Lunion,Lugnion,11.5360,19.5099,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148794521
+Djana,Djana,,7.7000,16.0500,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148061477
+Adja,Adja,Hudjer,10.8055,19.3812,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148766225
+Mangueigne,Mangueigne,Mangueióne|Mangeine|Mangeigne,10.5167,21.3167,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,2.6,,,4,Africa/Ndjamena,FALSE,1148353224
+Bepia,Bepia,,9.0690,16.3641,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148968082
+Pérépéré,Perepere,,10.4136,16.7409,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148608332
+Kaférek,Kaferek,,13.4069,20.4290,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148280932
+Tourouma,Tourouma,,9.1688,16.0051,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148898381
+Tiney,Tiney,Tinaye|Tiney Doungous,12.7167,20.7500,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148163631
+Balinga,Balinga,,10.6893,15.4299,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148198507
+Lag Lakha,Lag Lakha,,13.1283,17.5333,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148466031
+Oulam,Oulam,,10.7414,15.3863,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148692913
+Mala,Mala,,10.9394,15.0905,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.3,,,4,Africa/Ndjamena,FALSE,1148947544
+Tchilili Nguiribing,Tchilili Nguiribing,Tchilili|Tchitilli|Tchilili Ngiribing,10.7604,16.8031,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148318655
+Donédo,Donedo,,8.8167,15.8167,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148223221
+Mala,Mala,,9.0000,18.5167,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148971338
+Dabakay Soféra,Dabakay Sofera,Dabakaï Sefer|Diabacaï|Dabakay,11.0656,17.9710,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,4,Africa/Ndjamena,FALSE,1148942167
+Kalari,Kalari,,13.6617,15.5636,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148630217
+Ounè,Oune,,13.5827,15.3980,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148786052
+Guelberim,Guelberim,,9.0750,16.3569,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,126.3,,,4,Africa/Ndjamena,FALSE,1148530682
+Kangara Kouroua,Kangara Kouroua,,13.3092,15.7481,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148785689
+Laria Kola,Laria Kola,,13.0088,15.5047,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148214941
+Dam,Dam,,9.3667,15.2500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148401271
+Am Dam,Am Dam,,12.7622,20.4703,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148904229
+Askanga,Askanga,,13.6037,15.8547,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148672981
+Imer,Imer,,13.2581,16.1829,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148508352
+Logou,Logou,,14.1805,15.0340,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148447763
+Laïndou,Laindou,,9.3249,16.9935,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148431491
+Zakaria,Zakaria,,13.0843,17.3844,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148851434
+Magadada,Magadada,Mogadedda,10.3784,19.8863,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148608875
+Lao Nangara,Lao Nangara,Lao Nongara,9.1640,15.2574,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148377221
+Moun Dagami,Moun Dagami,,13.5000,14.7167,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148861205
+Délébé,Delebe,,13.5428,15.5333,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148761034
+Békoumbo,Bekoumbo,,8.6775,17.2600,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148995141
+Tagobo Moudang,Tagobo Moudang,,9.2279,14.4069,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148057893
+Gourle,Gourle,,12.0458,16.1022,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148616220
+Am Rhibéché,Am Rhibeche,,13.9303,20.4018,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148704170
+Kéuni Damongay,Keuni Damongay,Damangoï|Damongay,8.7427,15.2691,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148869644
+Dabdabaya,Dabdabaya,Dabdeba|Dabdada,11.5495,19.8803,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148761383
+Dokagaye,Dokagaye,Dogakaye,7.9843,16.0314,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148084341
+Hid el Goz,Hid el Goz,,12.0500,17.3333,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148841644
+Koulidirom,Koulidirom,,13.6070,15.4972,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148719407
+Kodok,Kodok,,14.2497,21.1418,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148762881
+Dalala,Dalala,,10.7623,16.7080,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148278864
+Tchorno,Tchorno,,13.1535,18.4704,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148690258
+Banga,Banga,,13.3831,19.6857,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148253334
+Alayri,Alayri,,13.4311,15.7341,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148474582
+Magao,Magao,Magrao,10.6043,15.3497,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148003544
+Gormongo,Gormongo,,8.1992,17.6247,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148554612
+Tchatchouroum,Tchatchouroum,,9.4254,16.8059,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148392492
+Douvoul,Douvoul,Doufou|Divel,11.4838,15.1047,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,60.6,,,4,Africa/Ndjamena,FALSE,1148611467
+Kazam,Kazam,,13.9895,19.4615,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148444092
+Mateunseung,Mateunseung,,9.5470,14.2269,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148000007
+Petit Saïka,Petit Saika,Saïka,9.7774,15.0878,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148148102
+Mustafari,Mustafari,,11.7404,15.2465,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148116978
+Chalkandié,Chalkandie,,13.7988,20.4714,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148982250
+Tchingrin,Tchingrin,,9.9264,14.9592,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148170878
+Kichina,Kichina,,12.4942,18.7625,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148908494
+Tchâ Arabe,Tcha Arabe,,10.9171,16.7256,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148210701
+Seyrom,Seyrom,,13.4333,14.7000,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148544461
+Toubeï,Toubei,,9.4620,16.0828,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148529458
+Dankian,Dankian,,8.9460,18.2664,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148393014
+Tréhé Kébir,Trehe Kebir,,12.6167,20.2000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148862242
+Mossio,Mossio,Mossia,10.8185,15.8748,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148778015
+Touba,Touba,,9.4542,16.0925,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148783390
+Tando,Tando,,9.1606,18.3327,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148105664
+Oulargo,Oulargo,Ourlargo,9.7783,15.0153,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148193711
+Manouraïdi,Manouraidi,,9.2051,16.6899,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148853661
+Amasi,Amasi,,11.0041,17.9285,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148781936
+Daba Asi Féra,Daba Asi Fera,Daba Zifèrat,13.1819,18.2425,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148476199
+Lèl,Lel,,8.9053,15.8568,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148745591
+Dokhane,Dokhane,,13.1585,18.5827,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148793545
+Yong,Yong,,9.3754,17.4187,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148150360
+Bédotoumba,Bedotoumba,Bendotombo,8.6023,17.1775,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148163702
+Am Kharouba,Am Kharouba,Am Karouba,13.0759,18.6376,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148062257
+Bébala,Bebala,,8.7828,17.1400,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,99.8,,,4,Africa/Ndjamena,FALSE,1148077610
+Bébala,Bebala,,9.2435,17.1462,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,TRUE,1148062208
+Dissing,Dissing,Dising,9.6365,14.1531,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148219742
+Boumo,Boumo,,9.6073,16.0848,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,35.2,,,4,Africa/Ndjamena,FALSE,1148169229
+Djermaya,Djermaya,Djermaïa|Djerdjeraba,12.4007,15.0544,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148839781
+Lore,Lore,,8.0333,16.1000,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148793923
+Awaydoulou,Awaydoulou,,13.4271,16.3337,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148586752
+Loré,Lore,,9.0125,15.9153,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148354925
+Bagay Toua,Bagay Toua,,9.4550,15.8473,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148940365
+Alifa,Alifa,Loas,12.8384,17.9110,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148314222
+Djabel,Djabel,,12.2333,21.3833,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148007537
+Dokague,Dokague,,8.5869,16.9505,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148483766
+Kousiouaït,Kousiouait,Kousouaïd,12.3285,18.5615,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148940174
+Ter Baro,Ter Baro,,12.8374,16.6872,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148764393
+Bangsi Laygué,Bangsi Laygue,Bangsi Laygé,8.7230,15.2915,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148452875
+Ngaro,Ngaro,,8.9407,17.3440,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148790956
+Dogoumbo,Dogoumbo,,10.0424,16.7774,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148995078
+Horey el Meïna,Horey el Meina,,9.4667,15.3500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148773896
+Bangneu,Bangneu,Bagne,10.0333,16.7500,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,25.8,,,4,Africa/Ndjamena,FALSE,1148953113
+Mossekoyo,Mossekoyo,,9.6971,16.2626,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148592682
+Bondo,Bondo,,8.5167,15.7833,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148497231
+Kandarang,Kandarang,,13.7518,20.9029,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148649486
+Kaoré,Kaore,,14.1430,20.6319,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148871437
+Djérnao,Djernao,,8.6500,15.1500,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,54.6,,,4,Africa/Ndjamena,FALSE,1148190036
+Ouli,Ouli,,7.7667,15.7333,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148262313
+Agouaré,Agouare,,9.9827,20.9010,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,2.6,,,5,Africa/Ndjamena,FALSE,1148529469
+Ouli,Ouli,,13.6500,14.5833,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148848843
+Bébinga,Bebinga,,8.8572,18.3355,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148200076
+Sananga,Sananga,Saranga,13.7313,15.7560,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148771351
+Léo Mbaya,Leo Mbaya,,9.7690,15.7598,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,99.6,,,4,Africa/Ndjamena,FALSE,1148165597
+Bodjama,Bodjama,,8.3993,16.3193,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148277683
+Balaïa,Balaia,,12.9759,15.4597,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148052217
+Konkia,Konkia,,13.1173,15.7688,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148175160
+Rignégné,Rignegne,,13.0431,18.2955,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148659563
+Mouoïlandee,Mouoilandee,,9.5463,16.3942,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148716064
+Ngoidé II,Ngoide II,Ngaïdé|N’Gada,9.6333,20.9000,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,2.6,,,5,Africa/Ndjamena,FALSE,1148753808
+Ngoïdé II,Ngoide II,,9.7645,21.0195,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,2.5,,,5,Africa/Ndjamena,TRUE,1148707323
+Soto,Soto,Ssoto,10.2741,16.1625,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,35.0,,,4,Africa/Ndjamena,FALSE,1148066002
+Kouki,Kouki,,12.7507,17.4736,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148461351
+Maskena Abdoul,Maskena Abdoul,,9.7000,16.2667,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148498349
+Sarkalia,Sarkalia,,13.6382,21.1733,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148051821
+Ditila,Ditila,,13.6659,15.1692,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148175765
+Malboum,Malboum,,10.9115,15.4413,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148464452
+Kuitkede,Kuitkede,,11.8056,15.2376,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148129151
+Atron,Atron,,13.3604,16.2407,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148353515
+Maldou,Maldou,,11.1523,15.2171,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148622370
+Kaouissène,Kaouissene,Kaouisene,11.9269,15.1140,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148349707
+Massera,Massera,,11.0500,15.2500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148731168
+Andreï,Andrei,,12.2333,16.5000,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148459050
+Am Dagaguer,Am Dagaguer,Am Dagergeir,12.5496,15.2532,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148175990
+Yogoudi,Yogoudi,,13.7505,15.9020,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148184297
+Kourmal,Kourmal,,10.2376,17.8909,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148109337
+Eléyédit,Eleyedit,,14.2513,21.4822,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148000137
+Ménéret,Meneret,,14.4333,22.3000,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148183723
+Ali Farom,Ali Farom,,13.6667,14.8167,Chad,TD,TCD,Lac,Lac,TD-LC,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148025132
+Bengar II,Bengar II,,7.8073,16.0240,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148812593
+Bournoul,Bournoul,,10.2272,16.0240,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148500723
+Tézoko,Tezoko,,9.6472,14.3988,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148514107
+Sihédji,Sihedji,,12.0908,15.6823,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148781962
+Zalango,Zalango,,12.0023,19.4717,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148109383
+Doring,Doring,Dorene,13.8814,20.9723,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148763259
+Ogol,Ogol,Ogul,10.3744,15.3011,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148813146
+Doumbour,Doumbour,,13.5648,15.5010,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148224590
+Gotokèmbé I,Gotokembe I,,9.3498,18.4206,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148179530
+Oura,Oura,,8.0500,16.2500,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148249205
+Am Loubia,Am Loubia,,13.5153,20.8261,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148697141
+Kato I,Kato I,,7.7328,15.6854,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148567683
+Sadaga,Sadaga,,11.9008,16.8910,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148926014
+Tchongolé,Tchongole,,13.3167,14.8500,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148007753
+Binder,Binder,Binder Foulbé|Bindere,9.9667,14.4667,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148017004
+Gététat,Getetat,Guetetat,12.6000,21.1000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148993461
+Dansama,Dansama,Dangssama,8.1647,17.8287,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148969683
+Guindi,Guindi,,7.6680,15.9402,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148383056
+Ngoroboa,Ngoroboa,,13.4063,15.7536,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148397203
+Mokor,Mokor,,13.7061,15.3455,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148467517
+Guélé,Guele,,9.8655,17.6458,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148223887
+Bengor,Bengor,,7.7046,16.0727,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148792655
+Bétoro,Betoro,,8.0438,16.5060,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148786291
+Pandzangué II,Pandzangue II,,7.9899,15.8770,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148579758
+Bémia,Bemia,,9.2333,16.6500,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148205653
+Kakara,Kakara,,13.7943,20.7457,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148000079
+Sourtidé,Sourtide,,13.3018,15.6838,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148597312
+Doroté II,Dorote II,,12.4667,21.5667,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148883139
+Bessira,Bessira,,8.9011,17.3727,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148624027
+Mboursou,Mboursou,Mboursoui|Būrsū|Boursou,9.9922,14.2185,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,133.9,,,4,Africa/Ndjamena,FALSE,1148012049
+Kaye Kaye,Kaye Kaye,Keïkeï|Kaikai,10.7871,15.0845,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148383923
+Guelmasé,Guelmase,Gelmasé,9.1421,15.9917,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148061498
+Koutoumarom,Koutoumarom,,13.6702,15.4254,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148342455
+Oyimbou,Oyimbou,,13.6966,15.0014,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148765246
+Doulba,Doulba,,11.1416,15.6427,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148923980
+Morko,Morko,,8.8167,18.5000,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148503232
+Sofa,Sofa,Safa,13.6326,15.8356,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148922918
+Yongui,Yongui,Yangaï,9.2837,17.4989,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148947862
+Dar Nahingar,Dar Nahingar,,9.3203,17.0666,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148238646
+Lordo,Lordo,,12.9084,15.5180,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148624170
+Toura,Toura,,8.3278,16.9548,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148209424
+Toura,Toura,,8.0295,16.2426,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,TRUE,1148923443
+Toura,Toura,,8.4432,16.1786,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,TRUE,1148402084
+Falla-Koubi,Falla-Koubi,,10.7637,17.9202,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148703921
+Deraïa,Deraia,,11.9485,15.4794,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148173782
+Al Adjiri,Al Adjiri,,10.8195,16.7572,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148783516
+Rey,Rey,,12.8000,21.5833,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148266788
+Sounoumani Bornou,Sounoumani Bornou,,10.6933,16.7092,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148695453
+Ganatir,Ganatir,,13.5333,14.6667,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148691019
+Ganoma Mok Bornou,Ganoma Mok Bornou,Gonoma Moh Bornou|Ganoma Mohammed Bornou,12.8433,15.1088,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148411076
+Afadja,Afadja,,12.3333,21.5833,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148401442
+Kata,Kata,,10.6058,17.2868,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148142817
+Kosso,Kosso,,11.8222,18.8078,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148907072
+Télibé,Telibe,,14.8333,22.1167,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148454452
+Maïélé,Maiele,,8.6754,18.7917,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148201479
+Am Ziéfé,Am Ziefe,Am Seife,12.7000,20.3333,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148900799
+Metil,Metil,,14.1016,15.1631,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148857188
+Fakir,Fakir,,13.4445,21.6225,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148390661
+Mtabane,Mtabane,,11.7722,15.1113,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148033825
+Mahiri,Mahiri,,10.7269,15.9469,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148085721
+Bodagolé,Bodagole,,11.5874,16.0685,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148030645
+Bémara,Bemara,,8.9926,16.6797,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148371625
+Galé,Gale,,9.8368,15.5990,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148293135
+Kénika,Kenika,,8.5000,17.6000,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148035155
+Iama,Iama,,11.2155,15.1971,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148347543
+Bagoua,Bagoua,Bugeï|Bougaï,10.6828,15.4711,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148438588
+Serem Ogodo,Serem Ogodo,,9.0746,15.7994,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148553968
+Ouardamgué,Ouardamgue,,8.5687,17.6740,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148931534
+Léréda,Lereda,,10.7773,15.4753,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148406771
+Kar Kay,Kar Kay,Karkaye,8.9225,15.8389,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148528706
+Ariourou,Ariourou,,13.0250,15.6296,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148509507
+Agrap,Agrap,Agrab,11.2985,18.6494,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148954073
+Saria,Saria,,12.7940,18.0118,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148600063
+Godopo,Godopo,,9.7833,15.1833,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148242191
+Dagari,Dagari,,13.8279,20.4219,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148199972
+Kouso Béré,Kouso Bere,,9.1407,15.8157,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148632252
+Bengon,Bengon,,8.0667,16.1667,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148546844
+Madiné,Madine,,14.4390,21.9314,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148000153
+Témed al Fachara,Temed al Fachara,,13.1633,19.9358,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148013118
+Gantouch,Gantouch,,12.9167,21.3667,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148985116
+Maïgomo,Maigomo,Maygomo,12.8224,19.4870,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148405177
+Aziz Djédad Kébir,Aziz Djedad Kebir,,13.6996,19.9421,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148211169
+Midzigir,Midzigir,,12.3296,19.4261,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148528402
+Am Khoumi,Am Khoumi,,12.8301,19.7133,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148497624
+Todou,Todou,,11.6235,22.4811,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148535284
+Berbéré,Berbere,,13.2435,21.9741,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148000496
+Kindiri,Kindiri,,9.1306,17.5064,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148867932
+Dram Kichlna,Dram Kichlna,,12.3260,19.6451,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148495981
+Dar Bangon,Dar Bangon,,9.2867,17.0154,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148502891
+Gabian,Gabian,,8.2667,17.3833,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148505186
+Gabian,Gabian,Gabiane,8.3572,18.0014,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,TRUE,1148344072
+Faligui,Faligui,,10.9259,17.1401,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148778289
+Sol,Sol,,13.4167,14.8000,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148640351
+Eri,Eri,,14.0078,15.7866,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148707184
+Ouaya,Ouaya,,13.5407,15.1078,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148189105
+Nodjibodo,Nodjibodo,,8.4000,17.7667,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148336842
+Mormo,Mormo,,12.1469,18.8868,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148695836
+Tambeli,Tambeli,,13.3175,21.9569,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148000182
+Am Niédouan,Am Niedouan,,12.1258,16.1080,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148419740
+Gorang,Gorang,Gorarane,14.3231,21.4070,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148965599
+Gopala,Gopala,,10.4512,16.0330,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148213965
+Naïna,Naina,Naheina|Nahaina|Nahama|Nahahina|Nayna,10.0880,15.5501,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148553014
+Dara,Dara,,11.0481,17.8273,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148222072
+Djengrang,Djengrang,Djengreng,9.2957,15.8023,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148313491
+Dibekra,Dibekra,,12.2110,15.5712,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148867743
+Kaio,Kaio,Keiso|Kayo,12.3333,21.0667,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148666518
+Ouroulla,Ouroulla,Ouroula,12.5120,15.3133,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148052317
+Pobame,Pobame,,9.9012,14.2637,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148469284
+Pobame,Pobame,,9.7081,14.0370,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,TRUE,1148875284
+Maénani,Maenani,,8.2182,16.3776,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148750340
+Ad Dehera,Ad Dehera,,13.2054,18.2711,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148462934
+Mouna-Mouna,Mouna-Mouna,,14.1377,15.4829,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,25.7,,,4,Africa/Ndjamena,FALSE,1148725960
+Beïdé II,Beide II,,9.1689,17.0658,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148883177
+Marafaïn,Marafain,Marfeïne,10.3057,19.7354,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148767638
+Dondounga,Dondounga,,8.4488,15.5205,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148414868
+Bourmataguil,Bourmataguil,Burma Tigil|Bourmatiguil|Bourmatagil,11.5427,19.0730,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,4,Africa/Ndjamena,FALSE,1148715580
+Brahouné,Brahoune,,14.6076,21.4390,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148036218
+Kélékélé Doulou,Kelekele Doulou,,13.2376,15.6308,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148732610
+Lougoui,Lougoui,,8.4218,15.4707,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148107392
+Matabga,Matabga,,11.9348,17.2153,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148671016
+Matabga,Matabga,,12.5407,16.7304,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,TRUE,1148945876
+Matabga,Matabga,,12.7516,16.7216,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,TRUE,1148761582
+Lougoui,Lougoui,,8.3188,15.3822,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148881899
+Meloumbay,Meloumbay,,8.5689,15.2585,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148996282
+Kouara Gambaye,Kouara Gambaye,,9.1970,16.4454,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148193477
+Forom,Forom,,13.4148,15.3599,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148684115
+Maïna,Maina,,10.6494,16.9535,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148524981
+Zioud,Zioud,,13.0828,17.3518,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148108396
+Paredoumga II,Paredoumga II,,8.4065,17.3997,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148917235
+Tchok,Tchok,,12.0508,17.0927,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148905183
+Abougoui Féllata,Abougoui Fellata,,11.8017,16.1511,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148861751
+Kiouguéré,Kiouguere,Kiougéré,13.9652,20.5172,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148604551
+Ngarouma,Ngarouma,,13.7750,21.8306,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148589281
+Malemguida,Malemguida,Malemgida,11.5840,15.4359,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148208788
+Achoumar,Achoumar,,13.0904,20.6210,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148519519
+Djangatiti Dafana,Djangatiti Dafana,Djinguetité,11.7735,21.3158,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148660328
+Latir,Latir,,13.6000,14.7333,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148362020
+Gonari,Gonari,Bonari,11.5507,15.2670,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148659780
+Kalatio,Kalatio,,13.5667,16.3813,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148566127
+Kan,Kan,,13.4500,14.4500,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148963825
+Malé,Male,,9.9773,19.0716,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148815259
+Tourguéssi,Tourguessi,Tourgési,14.9000,21.1000,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.7,,,4,Africa/Ndjamena,FALSE,1148909694
+Kortota,Kortota,,12.0581,15.1925,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148106847
+Béko II,Beko II,,8.7720,17.2723,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148900984
+Iré Bi,Ire Bi,Irébi,12.5120,14.9863,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148713481
+Déouaré,Deouare,,13.8907,21.5321,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148707334
+Besi Bourou,Besi Bourou,,9.0188,15.7176,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148385571
+Foulgouin,Foulgouin,,9.6792,15.0053,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148327664
+Masise,Masise,,12.1670,18.2170,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148485833
+Djoda,Djoda,,12.8943,18.3833,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148801564
+Founo,Founo,Foumo|Foulna,13.0000,20.6833,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148450283
+Maten Guergué,Maten Guergue,Maten Gergé,11.4471,16.4875,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148315760
+Amana,Amana,,13.0444,17.3233,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148793583
+Assouèt,Assouet,Asuet,12.3826,15.1743,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148850738
+Kerfé,Kerfe,,13.0013,17.2862,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148293262
+Gouria Bongouri,Gouria Bongouri,,13.7332,15.4279,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148106096
+Féhiné,Fehine,Foiné,14.3029,21.9034,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148467530
+Ngarangou Koura,Ngarangou Koura,,13.5833,14.8167,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148822292
+Asangori,Asangori,,13.4099,20.3389,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148176331
+Ouroa,Ouroa,,11.3793,17.4804,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148729743
+Kérébo,Kerebo,Korbo|Kerbo,10.3895,17.4097,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148994689
+Anagourt,Anagourt,Anagourf,14.8943,21.2242,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,17.1,,,4,Africa/Ndjamena,FALSE,1148554552
+Koussayaba,Koussayaba,Kousseyaba,9.6413,18.8535,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148747391
+Maïbodo,Maibodo,,8.3907,17.7562,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148553686
+Tagoldé,Tagolde,,8.3440,16.9516,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148708220
+Am Bassatna,Am Bassatna,Am Bazatna,12.0670,15.2895,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148666726
+Am Bassatna,Am Bassatna,Am Bazatna,12.1401,15.4429,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,TRUE,1148203030
+Maïtéra,Maitera,Mahitoura,8.3479,18.1046,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148356213
+Mifa,Mifa,,10.6842,15.3090,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148561505
+Tamargo,Tamargo,,14.3772,21.0881,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148954430
+Roumta,Roumta,,12.0619,17.2887,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148048726
+Roumta,Roumta,,12.1796,17.4744,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,13.7,,,4,Africa/Ndjamena,TRUE,1148546069
+Mormondigi,Mormondigi,Marmadingui,12.5333,22.2000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148255265
+Ab Idimi,Ab Idimi,,13.0159,17.6783,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148099179
+Gaser,Gaser,,12.4567,17.1498,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148652704
+Abou Hidjilidjé,Abou Hidjilidje,Abou Hidjelidj,12.2284,15.5104,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,26.5,,,4,Africa/Ndjamena,FALSE,1148577136
+Djerangeli,Djerangeli,,12.6667,20.3000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148810029
+Aboundrou,Aboundrou,,12.6706,16.5415,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148169589
+Tongoz Tat,Tongoz Tat,,14.0833,22.4333,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148504199
+Nadé Dadjé,Nade Dadje,,8.9745,15.4118,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148307257
+Dobor,Dobor,,9.1110,16.4437,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,112.4,,,4,Africa/Ndjamena,FALSE,1148213166
+Alogué,Alogue,,11.9632,18.7265,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148075037
+Abonday,Abonday,Abondaye,11.8618,21.5159,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148895056
+Dagbao,Dagbao,,7.6508,15.8854,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148429199
+Birket Fatimé,Birket Fatime,Birket Fatmé,12.9068,19.0767,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148799283
+Kafia,Kafia,,13.3000,14.7000,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148433501
+Kafia,Kafia,,13.5333,14.3500,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,TRUE,1148000042
+Dengui,Dengui,Dengi,11.4700,20.9802,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148175941
+Ahoura,Ahoura,,14.5626,21.7653,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148000025
+Ego,Ego,,9.7968,16.1909,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148055112
+Kairom,Kairom,,13.4035,15.4337,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148903620
+Abadji,Abadji,,10.6333,15.3167,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148852810
+Motgoro,Motgoro,,11.8172,18.1271,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148991615
+Narabasé,Narabase,Narabassé,10.6811,16.4572,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148147850
+Bitoï II,Bitoi II,Botoï II,7.5895,15.5856,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148107725
+Ngouri,Ngouri,Ngoun,8.5135,16.0068,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148196169
+Lar,Lar,,14.2632,14.2170,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,6.3,,,5,Africa/Ndjamena,FALSE,1148810613
+Ngouri,Ngouri,Fort Millot,13.6378,15.3690,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148119048
+Bantéré,Bantere,,10.4332,16.0329,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148657769
+Wéwèrta,Wewerta,,13.3880,22.2442,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148268313
+An Goudoum,An Goudoum,,11.8412,15.9119,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148059348
+Aboundouro,Aboundouro,Aboundourno,13.9475,20.7354,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148461061
+Guerdout,Guerdout,Gerdout,13.0148,21.6425,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148844481
+Béboto,Beboto,,8.2668,16.9390,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,37.4,,,4,Africa/Ndjamena,FALSE,1148495222
+Djaoula,Djaoula,N’Zaola,9.1267,16.1576,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148711957
+Banama,Banama,,11.6313,18.0088,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148676678
+Aleati,Aleati,,13.3079,15.7796,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148091376
+Atimed,Atimed,,13.0792,19.9791,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148980160
+Kalité,Kalite,,9.2203,17.1709,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148515483
+Ihan,Ihan,,10.5980,15.3867,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148866564
+Msamo,Msamo,,8.5653,15.9404,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148695494
+Karna,Karna,,13.3416,15.6468,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148173112
+Djouman,Djouman,Djomane|Djimane|Jimane,9.8790,15.8111,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148112405
+Kérénifé,Kerenife,Kirenife,12.7524,15.0966,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148008752
+Djianga,Djianga,,10.0706,18.8588,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148188724
+Doumboula,Doumboula,,13.8167,14.4833,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148901828
+Dokou,Dokou,,8.9783,15.6195,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,104.8,,,4,Africa/Ndjamena,FALSE,1148926827
+Dokou,Dokou,,8.5080,15.6588,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,TRUE,1148343264
+Goudoum Goudoum,Goudoum Goudoum,,10.7932,15.3909,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148436947
+Lokodji,Lokodji,,11.8664,18.4597,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148052874
+Kalfoure,Kalfoure,,11.0033,15.7719,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148683130
+Ngréa,Ngrea,,13.3333,14.4333,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148997229
+Moro,Moro,,10.0926,17.5274,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148787511
+Aladjiri,Aladjiri,,13.0073,15.7669,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148406656
+Moro,Moro,,8.8962,17.3596,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148417286
+Mokoloum,Mokoloum,,11.7524,15.2184,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148727885
+Ballam,Ballam,,10.6605,15.3132,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148251387
+Poubal-Lam,Poubal-Lam,,7.6833,16.0000,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148098403
+Ab Garip,Ab Garip,Ab Garib,13.5216,19.2334,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148074771
+Dray Mbassa,Dray Mbassa,Draï Nbassa|Dray Bassa,9.4725,16.2715,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148241765
+Maou,Maou,,13.5987,14.6018,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148171638
+Ntiona,Ntiona,Tiouna|N’Tiouna,14.4573,15.4332,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,2.5,,,5,Africa/Ndjamena,FALSE,1148938273
+Ndoubo Do,Ndoubo Do,,8.4133,17.2488,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148681691
+Bardé,Barde,,13.2073,21.7140,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148166077
+Bardé,Barde,,13.4129,21.7072,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,TRUE,1148666510
+Goundarnié,Goundarnie,,14.8672,21.1529,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148000164
+Batri,Batri,,12.1920,15.8818,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148157192
+Yélga,Yelga,,9.8945,15.0837,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148235070
+Bolok,Bolok,,13.7811,21.5604,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148996563
+Bir Douan,Bir Douan,,15.8167,22.7667,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,10.1,,,4,Africa/Ndjamena,FALSE,1148616824
+Kaya Gaoybé,Kaya Gaoybe,,9.1995,16.7783,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148180438
+Tiktiké,Tiktike,,14.2957,21.3462,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148000037
+Kalambari,Kalambari,,11.5675,17.1034,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148821365
+Djamoussa,Djamoussa,,11.2888,18.9338,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148216662
+Mila,Mila,,9.0167,18.1000,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,30.3,,,4,Africa/Ndjamena,FALSE,1148291031
+Gofena,Gofena,,10.3841,17.2095,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148858774
+Galianga,Galianga,,13.7887,15.7153,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148210080
+Mobou,Mobou,,9.9297,16.7157,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148003891
+Bakouadénédje,Bakouadenedje,,8.3029,16.2692,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148934836
+Barati,Barati,,13.4421,15.4001,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148136677
+Al Kouk,Al Kouk,,12.2498,15.9792,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148812208
+Dolko,Dolko,,12.6691,17.9789,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148399109
+Kolé Akéré,Kole Akere,,11.2676,17.0944,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148496286
+Kaoré Oulad Mousa,Kaore Oulad Mousa,,13.5120,20.5337,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148500982
+Gobo,Gobo,,9.6439,18.9821,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148642396
+Matakayap Kangama,Matakayap Kangama,Kangama|Matakayap,13.6833,15.6843,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148485403
+Bomala,Bomala,Bémala,8.9317,16.8429,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148515212
+Guerguer,Guerguer,Gergeir,12.1841,15.3713,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148916009
+Al Kiézi,Al Kiezi,,13.2537,19.7902,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148770366
+Al Kiézi,Al Kiezi,,13.6276,19.6263,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,TRUE,1148359182
+Balnimiri,Balnimiri,,12.9511,16.7861,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148910128
+Am Djourar,Am Djourar,Am Djourar Moustakhide,12.9000,20.4000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148756567
+Bani Asan,Bani Asan,Bani Assan,13.1734,19.4977,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148332627
+Bologo Madang,Bologo Madang,,9.1486,15.8334,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148464159
+Fildan,Fildan,,14.3477,21.0920,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148000094
+El Kouk,El Kouk,El Kuk,11.2757,20.6144,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148045804
+Am Kornoy,Am Kornoy,,13.3684,18.3144,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148288641
+Aoura,Aoura,,14.3462,21.4063,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,14.3,,,4,Africa/Ndjamena,FALSE,1148359760
+Bodoumey,Bodoumey,,9.9386,15.2296,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148598115
+Dobeni II,Dobeni II,,8.7833,15.9000,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148874812
+Matta Léré,Matta Lere,,9.8573,14.1831,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,74.2,,,4,Africa/Ndjamena,FALSE,1148208785
+Moussongouli,Moussongouli,Moussogoli,8.8668,17.6950,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148648108
+Mangsé,Mangse,,9.2781,15.8568,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148456372
+Kolten,Kolten,,13.4035,20.7644,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148485548
+Karkour,Karkour,Korkor,13.3989,18.1416,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148879212
+Bala Bogolo,Bala Bogolo,,9.1165,15.8517,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148302893
+Dagour,Dagour,Dagur,11.2449,19.4921,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,7.9,,,5,Africa/Ndjamena,FALSE,1148849132
+Alouf,Alouf,,12.2244,19.3057,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,13.0,,,4,Africa/Ndjamena,FALSE,1148382081
+Baranga,Baranga,,10.1543,17.5388,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,23.5,,,4,Africa/Ndjamena,FALSE,1148188021
+Koulka,Koulka,,12.0470,18.7180,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148753259
+Chaoua,Chaoua,,13.0136,18.9452,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148444848
+Takira,Takira,,8.5330,18.9594,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148814277
+Foji,Foji,,13.7385,21.1659,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148769632
+Madi Salamat,Madi Salamat,Médi Salamat,10.4873,20.2151,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148867546
+Wambé,Wambe,,9.4299,17.3301,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148196035
+Ouro Mal Soulèy,Ouro Mal Souley,,9.0973,14.4826,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,20.2,,,4,Africa/Ndjamena,FALSE,1148527488
+Bodou Bourboura,Bodou Bourboura,,13.8333,14.2833,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148048270
+Ndorokaga,Ndorokaga,,8.6039,16.8964,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148832224
+Am Laména,Am Lamena,Am Lemena,12.8697,19.4003,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148609362
+Djouganta,Djouganta,,13.2499,22.0265,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148815215
+Bégada,Begada,Bégada I,8.5398,17.0709,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,91.7,,,4,Africa/Ndjamena,FALSE,1148970883
+Bégada,Begada,,8.5146,16.7381,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,77.9,,,4,Africa/Ndjamena,TRUE,1148185488
+Dibindi Al Aya,Dibindi Al Aya,Dibindi Allaya,12.5041,15.1199,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148571483
+Takaba,Takaba,,8.3702,17.5756,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148326693
+Abrania,Abrania,,12.9413,17.7082,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148053666
+Abrania,Abrania,,12.7951,17.1076,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,TRUE,1148610066
+Obolo,Obolo,,9.1060,15.7422,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148545968
+Riandou,Riandou,,13.6602,15.1979,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148353384
+Mindobadi,Mindobadi,,8.6500,15.6833,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,53.4,,,4,Africa/Ndjamena,FALSE,1148071991
+Mogolo,Mogolo,,9.2077,15.8891,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148012706
+Arioungha,Arioungha,,13.5446,16.0948,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148780244
+Tahoua,Tahoua,,10.8461,15.3423,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,32.8,,,4,Africa/Ndjamena,FALSE,1148355662
+Dinakobo,Dinakobo,Ndenakobo,8.5756,18.4564,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,27.2,,,4,Africa/Ndjamena,FALSE,1148655477
+Kaoulay,Kaoulay,,13.4428,15.5866,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148870899
+Ngara Léanbro,Ngara Leanbro,,9.3411,14.7379,Chad,TD,TCD,Mayo-Kebbi-Ouest,Mayo-Kebbi-Ouest,TD-MO,region,,55.2,,,4,Africa/Ndjamena,FALSE,1148491290
+Ségré,Segre,,14.8000,21.6167,Chad,TD,TCD,Wadi-Fira,Wadi-Fira,TD-WF,region,,37.5,,,4,Africa/Ndjamena,FALSE,1148472490
+Ragay,Ragay,,13.8211,15.6904,Chad,TD,TCD,Barh-El-Gazel,Barh-El-Gazel,TD-BG,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148677342
+Bokery,Bokery,,11.2602,15.7919,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148989947
+Adrik Akoulkouli,Adrik Akoulkouli,Adrik Akoulkoulis,12.8193,14.8039,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148484814
+Amout Sougour,Amout Sougour,,12.7833,21.4667,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148777724
+Ab Gara,Ab Gara,,13.3530,19.3415,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148396350
+Ab Gara,Ab Gara,,13.3038,19.3497,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,TRUE,1148396237
+Ab Gara,Ab Gara,,13.1715,18.4399,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,TRUE,1148621171
+Robou,Robou,,9.7194,16.6509,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,26.2,,,4,Africa/Ndjamena,FALSE,1148976589
+Békamba,Bekamba,Bakamba|Bekoumbo,8.7101,17.3877,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148007770
+Békamba,Bekamba,,8.4844,17.9611,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,TRUE,1148202279
+Koundoul,Koundoul,Koundouli|Kondoul,11.9667,15.1500,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148105482
+Gourba,Gourba,,12.2212,18.5670,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148287578
+Ganatir,Ganatir,,11.0593,20.2927,Chad,TD,TCD,Salamat,Salamat,TD-SA,region,,9.5,,,5,Africa/Ndjamena,FALSE,1148323707
+Langué,Langue,Langé,13.4150,21.5592,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148236806
+Nguendé,Nguende,,8.0785,17.8133,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148864836
+Garamosso,Garamosso,,9.8333,15.8167,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148082135
+Karaska,Karaska,,11.1725,15.0909,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,56.5,,,4,Africa/Ndjamena,FALSE,1148379310
+Dogourou,Dogourou,,8.8359,17.3694,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,111.3,,,4,Africa/Ndjamena,FALSE,1148902368
+Magarin Saba,Magarin Saba,,13.9699,20.2963,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148704944
+Nzili,Nzili,,11.1345,22.9241,Chad,TD,TCD,Sila,Sila,TD-SI,region,,23.6,,,4,Africa/Ndjamena,FALSE,1148640855
+Lara,Lara,,8.7040,16.3087,Chad,TD,TCD,Logone Occidental,Logone Occidental,TD-LO,region,,128.6,,,4,Africa/Ndjamena,FALSE,1148867920
+Nalnoudji,Nalnoudji,,10.4977,16.5467,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148071618
+Mombassa,Mombassa,,10.2833,15.9167,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148025981
+Goungour,Goungour,,13.1845,22.0565,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,56.4,,,4,Africa/Ndjamena,FALSE,1148499161
+Alouna,Alouna,,10.9091,18.5630,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148447040
+Iroua,Iroua,Iroa,10.5845,16.6441,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,18.0,,,4,Africa/Ndjamena,FALSE,1148086742
+Lara,Lara,,8.1667,15.5167,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148419603
+Gréfa,Grefa,Guerfé,13.3178,18.2056,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148004757
+Gogmi,Gogmi,,11.1864,17.7883,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,4.7,,,5,Africa/Ndjamena,FALSE,1148312834
+Kouli,Kouli,,8.1719,15.9109,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148525087
+Afoul,Afoul,,13.6804,20.7262,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148358422
+Bégangbé II,Begangbe II,,8.0753,15.8165,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148313966
+Kouli,Kouli,,13.5627,15.2505,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148577731
+Dabana,Dabana,,9.8594,15.5192,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,109.0,,,4,Africa/Ndjamena,FALSE,1148834962
+Koutchiou,Koutchiou,,10.5667,15.1500,Chad,TD,TCD,Mayo-Kebbi-Est,Mayo-Kebbi-Est,TD-ME,region,,38.7,,,4,Africa/Ndjamena,FALSE,1148623987
+Békamna II,Bekamna II,,8.7280,16.8775,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,97.6,,,4,Africa/Ndjamena,FALSE,1148798994
+Kouloa,Kouloa,,13.3833,14.8000,Chad,TD,TCD,Lac,Lac,TD-LC,region,,21.4,,,4,Africa/Ndjamena,FALSE,1148925002
+Békao,Bekao,,7.9282,16.1038,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,33.0,,,4,Africa/Ndjamena,FALSE,1148101747
+At Tawil,At Tawil,,13.1348,18.1078,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148894559
+Chérap,Cherap,,13.4587,15.6106,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148860569
+Dangay,Dangay,Dangueï,13.3941,18.7094,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148123739
+Tiororou,Tiororou,,12.2260,19.0382,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148912227
+Seidjanjaïti,Seidjanjaiti,,12.8665,16.5444,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148158503
+Mouiaori,Mouiaori,,13.7749,15.7128,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,22.1,,,4,Africa/Ndjamena,FALSE,1148183923
+Ndirom,Ndirom,,13.6640,15.2993,Chad,TD,TCD,Lac,Lac,TD-LC,region,,96.2,,,4,Africa/Ndjamena,FALSE,1148827433
+Kindilia,Kindilia,,13.4984,15.5991,Chad,TD,TCD,Kanem,Kanem,TD-KA,region,,51.4,,,4,Africa/Ndjamena,FALSE,1148321866
+Agourbo,Agourbo,,13.5573,21.4562,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148823723
+Bokrom,Bokrom,Bogroun,11.0521,15.4526,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148177933
+Dibèkré,Dibekre,,12.8279,15.5137,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,30.7,,,4,Africa/Ndjamena,FALSE,1148746631
+Tialo Zoudou,Tialo Zoudou,,12.1553,18.5227,Chad,TD,TCD,Guéra,Guera,TD-GR,region,,25.5,,,4,Africa/Ndjamena,FALSE,1148518495
+Kolkol,Kolkol,,12.8620,19.3781,Chad,TD,TCD,Batha,Batha,TD-BA,region,,8.9,,,5,Africa/Ndjamena,FALSE,1148448102
+Ouelgagé,Ouelgage,Ouelgagué,12.0573,17.4134,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148419108
+Mbororo,Mbororo,,9.0457,15.9192,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,104.2,,,4,Africa/Ndjamena,FALSE,1148000051
+Palamaèjé,Palamaeje,,11.0213,15.8250,Chad,TD,TCD,Chari-Baguirmi,Chari-Baguirmi,TD-CB,region,,10.5,,,4,Africa/Ndjamena,FALSE,1148167965
+Dabgué Bassa,Dabgue Bassa,,9.3000,16.1500,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148182180
+Baba Djimez,Baba Djimez,,12.7661,17.9775,Chad,TD,TCD,Batha,Batha,TD-BA,region,,5.6,,,5,Africa/Ndjamena,FALSE,1148994553
+Abkirfi,Abkirfi,,12.3066,17.5801,Chad,TD,TCD,Batha,Batha,TD-BA,region,,13.7,,,4,Africa/Ndjamena,FALSE,1148667944
+Moyon,Moyon,,8.3321,17.5848,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,35.8,,,4,Africa/Ndjamena,FALSE,1148881704
+Faral,Faral,,13.4905,21.1157,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,30.1,,,4,Africa/Ndjamena,FALSE,1148554261
+Koumaye,Koumaye,,9.2082,17.5271,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,FALSE,1148361603
+Koumayé,Koumaye,,8.9086,17.8014,Chad,TD,TCD,Mandoul,Mandoul,TD-MA,region,,50.8,,,4,Africa/Ndjamena,TRUE,1148280052
+Masa,Masa,,12.8270,16.6722,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,19.5,,,4,Africa/Ndjamena,FALSE,1148970554
+Djomégué,Djomegue,,9.5438,18.5548,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148883972
+Komoské,Komoske,,12.8000,21.3167,Chad,TD,TCD,Ouaddaï,Ouaddai,TD-OD,region,,45.3,,,4,Africa/Ndjamena,FALSE,1148197848
+Tchokio,Tchokio,,12.0000,20.9000,Chad,TD,TCD,Sila,Sila,TD-SI,region,,9.0,,,5,Africa/Ndjamena,FALSE,1148341362
+Draï Ngolo,Drai Ngolo,Dray Golo,9.5673,16.1528,Chad,TD,TCD,Tandjilé,Tandjile,TD-TA,region,,101.6,,,4,Africa/Ndjamena,FALSE,1148393377
+Ngolti,Ngolti,Ngueto,12.5342,14.9552,Chad,TD,TCD,Hadjer-Lamis,Hadjer-Lamis,TD-HL,region,,34.4,,,4,Africa/Ndjamena,FALSE,1148645959
+Balisako,Balisako,,9.6417,19.0511,Chad,TD,TCD,Moyen-Chari,Moyen-Chari,TD-MC,region,,13.9,,,4,Africa/Ndjamena,FALSE,1148276698
+Berré,Berre,,7.9500,16.5667,Chad,TD,TCD,Logone Oriental,Logone Oriental,TD-LR,region,,34.2,,,4,Africa/Ndjamena,FALSE,1148477193

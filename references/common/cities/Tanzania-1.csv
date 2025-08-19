@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Dar es Salaam,Dar es Salaam,Dār es Salām,-6.8161,39.2803,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,admin,8285.1,7962000,4364541,1,Africa/Dar_es_Salaam,FALSE,1834843853
+Mwanza,Mwanza,Muansa|Muanza|Mwamza|Mwansa,-2.5167,32.9000,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,admin,13121.2,1104521,706453,1,Africa/Dar_es_Salaam,FALSE,1834011288
+Ubungo,Ubungo,,-6.7889,39.2056,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,4034.6,1086912,1086912,1,Africa/Dar_es_Salaam,FALSE,1834358621
+Mbeya,Mbeya,,-8.9000,33.4500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,admin,2145.0,541603,541603,2,Africa/Dar_es_Salaam,FALSE,1834396594
+Arusha,Arusha,Aruscha,-3.3667,36.6833,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,admin,261.9,416442,416442,2,Africa/Dar_es_Salaam,FALSE,1834484937
+Uvinza,Uvinza,Uwinsa|Rutschugiposten|Kimalapamba|Urvinsa,-5.1069,30.3839,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,38.5,387442,387442,2,Africa/Dar_es_Salaam,FALSE,1834561245
+Geita,Geita,,-2.8714,32.2294,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,admin,703.0,318006,318006,2,Africa/Dar_es_Salaam,FALSE,1834469543
+Sumbawanga,Sumbawanga,Zumbayanga|Zumbawanga,-7.9667,31.6167,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,admin,3062.8,303986,147483,2,Africa/Dar_es_Salaam,FALSE,1834684278
+Kibaha,Kibaha,,-6.7667,38.9167,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,admin,976.5,265360,23050,2,Africa/Dar_es_Salaam,FALSE,1834065400
+Bariadi,Bariadi,Bariati,-2.7919,33.9894,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,admin,2648.4,260927,260927,2,Africa/Dar_es_Salaam,FALSE,1834546025
+Kahama,Kahama,,-3.8375,32.6000,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,6011.5,242208,242208,2,Africa/Dar_es_Salaam,FALSE,1834043034
+Kasulu,Kasulu,Kasulo|Kassulo,-4.5800,30.1000,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,266.8,238321,234452,2,Africa/Dar_es_Salaam,FALSE,1834918111
+Tabora,Tabora,,-5.0167,32.8000,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,admin,151.6,221466,127880,2,Africa/Dar_es_Salaam,FALSE,1834712235
+Zanzibar,Zanzibar,Unguja|Zanzibar City,-6.1650,39.1990,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,admin,14221.2,219007,219007,2,Africa/Dar_es_Salaam,FALSE,1834823848
+Morogoro,Morogoro,Murogoro|Mrogoro,-6.8242,37.6633,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,admin,575.0,207000,207000,2,Africa/Dar_es_Salaam,FALSE,1834185429
+Ifakara,Ifakara,,-8.1000,36.6833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,187.1,205843,205843,2,Africa/Dar_es_Salaam,FALSE,1834456222
+Mpanda,Mpanda,,-6.3500,31.0667,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,admin,641.8,204338,204338,2,Africa/Dar_es_Salaam,FALSE,1834127573
+Iringa,Iringa,,-7.7700,35.6900,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,admin,2275.5,202490,202490,2,Africa/Dar_es_Salaam,FALSE,1834453478
+Singida,Singida,,-4.8167,34.7500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,admin,2641.9,165492,29258,2,Africa/Dar_es_Salaam,FALSE,1834418526
+Bukoba,Bukoba,,-1.3333,31.8167,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,admin,9729.4,144938,144938,2,Africa/Dar_es_Salaam,FALSE,1834433264
+Moshi,Moshi,Moschi,-3.3349,37.3404,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,admin,2453.2,144739,144739,2,Africa/Dar_es_Salaam,FALSE,1834217168
+Kigoma,Kigoma,,-4.8833,29.6333,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,admin,2507.7,135234,135234,2,Africa/Dar_es_Salaam,FALSE,1834583327
+Tarime,Tarime,,-1.3500,34.3833,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,3058.9,133043,133043,2,Africa/Dar_es_Salaam,FALSE,1834684619
+Nzega,Nzega,,-4.2169,33.1864,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,2196.0,125193,125193,2,Africa/Dar_es_Salaam,FALSE,1834034762
+Handeni,Handeni,,-5.4242,38.0194,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,2751.6,108968,108968,2,Africa/Dar_es_Salaam,FALSE,1834479617
+Shinyanga,Shinyanga,Schinjanga,-3.6619,33.4231,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,admin,3459.9,107362,107362,2,Africa/Dar_es_Salaam,FALSE,1834972707
+Musoma,Musoma,Musome|Mazama|Muzoma|Misoma,-1.5000,33.8000,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,admin,2482.6,103497,103497,2,Africa/Dar_es_Salaam,FALSE,1834100025
+Tanga,Tanga,Longa,-5.0742,39.0992,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,admin,192.9,103399,103399,2,Africa/Dar_es_Salaam,FALSE,1834004568
+Songea,Songea,Ssongea,-10.6833,35.6500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,admin,3656.7,99961,99961,2,Africa/Dar_es_Salaam,FALSE,1834461509
+Mtwara,Mtwara,Mikindani,-10.2736,40.1828,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,admin,2257.9,92602,92602,2,Africa/Dar_es_Salaam,FALSE,1834044142
+Tukuyu,Tukuyu,New Langenberg|Neu-Langenburg|Ntukuju|Neu-Langenberg,-9.2500,33.6500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,1123.9,50000,50000,3,Africa/Dar_es_Salaam,FALSE,1834960117
+Chake Chake,Chake Chake,Chaki Chaki,-5.2395,39.7700,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,admin,4724.9,49959,49959,2,Africa/Dar_es_Salaam,FALSE,1834409018
+Tunduru,Tunduru,Tunduru-ja-Mwischo|Tunduru ya Mvisho|Tunduru ya Mwisho,-11.0667,37.3500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,163.5,48000,48000,3,Africa/Dar_es_Salaam,FALSE,1834030694
+Dodoma,Dodoma,Idodoma,-6.1731,35.7419,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,primary,17.8,45807,45807,1,Africa/Dar_es_Salaam,FALSE,1834288497
+Mbulu,Mbulu,Mburu|Burru|Umbulu|Iraku,-3.8500,35.5500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,372.3,45384,45384,3,Africa/Dar_es_Salaam,FALSE,1834497748
+Korogwe,Korogwe,Nkologwe,-5.1558,38.4503,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,273.0,44000,44000,3,Africa/Dar_es_Salaam,FALSE,1834605335
+Kilosa,Kilosa,Kilossa,-6.8300,36.9875,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,1057.9,43418,43418,3,Africa/Dar_es_Salaam,FALSE,1834242035
+Lindi,Lindi,,-9.9969,39.7144,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,admin,5298.3,41549,41549,2,Africa/Dar_es_Salaam,FALSE,1834550750
+Njombe,Njombe,Njobe,-9.3333,34.7667,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,admin,1250.9,40607,40607,2,Africa/Dar_es_Salaam,FALSE,1834328362
+Tunduma,Tunduma,,-9.3000,32.7667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,1401.5,36556,36556,3,Africa/Dar_es_Salaam,FALSE,1834094894
+Masasi,Masasi,Massassi,-10.7296,38.7999,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,517.7,36032,36032,3,Africa/Dar_es_Salaam,FALSE,1834414126
+Mugumu,Mugumu,,-1.8333,34.6667,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,123.9,36000,36000,3,Africa/Dar_es_Salaam,FALSE,1834097845
+Bagamoyo,Bagamoyo,Bagamojo,-6.4444,38.9028,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,103.3,35000,35000,3,Africa/Dar_es_Salaam,FALSE,1834546518
+Magu,Magu,,-2.5833,33.4333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,1062.8,35000,35000,3,Africa/Dar_es_Salaam,FALSE,1834840353
+Mlimba,Mlimba,,-8.7786,35.8111,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,86.8,34970,34970,3,Africa/Dar_es_Salaam,FALSE,1834564958
+Misungwi,Misungwi,Isungwi|Missungwi,-2.8500,33.0833,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,326.6,34612,34612,3,Africa/Dar_es_Salaam,FALSE,1834354110
+Same,Same,Zame|Ssame,-4.0667,37.7833,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,181.9,34322,34322,3,Africa/Dar_es_Salaam,FALSE,1834888088
+Lushoto,Lushoto,Wilhelmstal,-4.7928,38.2911,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,392.9,34000,34000,3,Africa/Dar_es_Salaam,FALSE,1834431227
+Geiro,Geiro,Gairo,-6.1428,36.8694,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,214.9,33209,33209,3,Africa/Dar_es_Salaam,FALSE,1834543579
+Ngudu,Ngudu,,-2.9667,33.3333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,229.7,31123,31123,3,Africa/Dar_es_Salaam,FALSE,1834250706
+Babati,Babati,,-4.2167,35.7500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,admin,773.2,30975,30975,2,Africa/Dar_es_Salaam,FALSE,1834081851
+Kibiti,Kibiti,,-7.7296,38.9500,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,127.2,30163,30163,3,Africa/Dar_es_Salaam,FALSE,1834522080
+Mpwapwa,Mpwapwa,Mpapua|Mpapwa,-6.3500,36.4833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,184.6,30000,30000,3,Africa/Dar_es_Salaam,FALSE,1834235223
+Masanwa,Masanwa,,-3.1833,33.7833,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,79.6,28000,28000,3,Africa/Dar_es_Salaam,FALSE,1834929930
+Chato,Chato,Shato,-2.6378,31.7669,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,3759.8,27776,27776,2,Africa/Dar_es_Salaam,FALSE,1834766071
+Sikonge,Sikonge,,-5.6333,32.7667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,40.6,27113,27113,3,Africa/Dar_es_Salaam,FALSE,1834313836
+Wete,Wete,Weti,-5.0567,39.7281,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,admin,4774.8,26450,26450,2,Africa/Dar_es_Salaam,FALSE,1834217491
+Manyoni,Manyoni,Manjoni,-5.7500,34.8333,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,209.1,25505,25505,3,Africa/Dar_es_Salaam,FALSE,1834963293
+Kabanga,Kabanga,,-2.9022,30.4986,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,111.4,24979,24979,3,Africa/Dar_es_Salaam,FALSE,1834808900
+Kakonko,Kakonko,,-3.2796,30.9600,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,86.3,24688,24688,3,Africa/Dar_es_Salaam,FALSE,1834778373
+Biharamulo,Biharamulo,Biaramulo|Usuwi,-2.6333,31.3167,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,691.5,24573,24573,3,Africa/Dar_es_Salaam,FALSE,1834491817
+Itigi,Itigi,,-5.7000,34.4833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,480.6,24000,24000,3,Africa/Dar_es_Salaam,FALSE,1834524806
+Kilindoni,Kilindoni,,-7.9167,39.6500,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,485.4,23426,23426,3,Africa/Dar_es_Salaam,FALSE,1834982666
+Mazinde,Mazinde,,-4.8073,38.2118,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,92.7,20534,20534,3,Africa/Dar_es_Salaam,FALSE,1834830165
+Mikumi,Mikumi,,-7.4072,36.9722,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,16.4,20000,20000,3,Africa/Dar_es_Salaam,FALSE,1834405632
+Muheza,Muheza,Mubeza,-5.1739,38.7875,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,2328.0,20000,20000,2,Africa/Dar_es_Salaam,FALSE,1834499547
+Sirari,Sirari,,-1.2244,34.4383,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,244.1,17564,17564,3,Africa/Dar_es_Salaam,FALSE,1834994899
+Rubeho,Rubeho,,-6.2578,36.8653,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,173.9,17020,17020,3,Africa/Dar_es_Salaam,FALSE,1834075405
+Ngara,Ngara,,-2.5122,30.6558,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,943.4,16890,16890,3,Africa/Dar_es_Salaam,FALSE,1834067520
+Karema,Karema,,-6.8205,30.4389,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,130.4,16385,16385,3,Africa/Dar_es_Salaam,FALSE,1834711465
+Nyahanga,Nyahanga,,-2.3829,33.5500,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,408.8,16092,16092,3,Africa/Dar_es_Salaam,FALSE,1834609339
+Bububu,Bububu,,-6.1000,39.2167,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,3457.5,15666,15666,2,Africa/Dar_es_Salaam,FALSE,1834932235
+Butiama,Butiama,Buliama,-1.7667,33.9667,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,184.5,15383,15383,3,Africa/Dar_es_Salaam,FALSE,1834201635
+Msata,Msata,,-6.3362,38.3850,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,18.1,13740,13740,3,Africa/Dar_es_Salaam,FALSE,1834058417
+Kashasha,Kashasha,,-1.7578,31.6158,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,464.2,12508,12508,3,Africa/Dar_es_Salaam,FALSE,1834270082
+Ngerengere,Ngerengere,,-6.7500,38.1167,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,14.3,11780,11780,3,Africa/Dar_es_Salaam,FALSE,1834593902
+Ihumwa,Ihumwa,Humwa,-6.1667,35.8833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,124.3,11490,11490,3,Africa/Dar_es_Salaam,FALSE,1834975730
+Ngorongoro,Ngorongoro,,-3.2496,35.5200,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,15.0,10836,10836,3,Africa/Dar_es_Salaam,FALSE,1834381549
+Keza,Keza,,-2.7540,30.6820,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,54.8,10810,10810,3,Africa/Dar_es_Salaam,FALSE,1834729432
+Mwaya,Mwaya,Mvaya|Muaja,-9.4917,34.0333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,257.7,10304,10304,3,Africa/Dar_es_Salaam,FALSE,1834213928
+Msoga,Msoga,,-6.5667,38.3000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,72.1,10144,10144,3,Africa/Dar_es_Salaam,FALSE,1834863543
+Mbamba Bay,Mbamba Bay,Mbampa|Mbamba,-11.2833,34.7717,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,137.2,8997,8997,3,Africa/Blantyre,FALSE,1834067294
+Kibaya,Kibaya,,-5.3014,36.5825,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,598.4,8759,8759,3,Africa/Dar_es_Salaam,FALSE,1834442033
+Rudewa,Rudewa,,-10.1008,34.6836,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,40.2,8747,8747,4,Africa/Dar_es_Salaam,FALSE,1834986304
+Nansio,Nansio,,-2.1078,33.0864,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,690.4,8644,8644,3,Africa/Dar_es_Salaam,FALSE,1834001196
+Suji,Suji,,-4.3650,37.8958,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,35.2,8072,8072,4,Africa/Dar_es_Salaam,FALSE,1834085185
+Oldeani,Oldeani,,-3.3500,35.5500,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,118.9,8000,8000,4,Africa/Dar_es_Salaam,FALSE,1834474820
+Msaranga,Msaranga,,-3.3450,37.3076,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,1367.7,7641,7641,3,Africa/Dar_es_Salaam,FALSE,1834479548
+Usoke,Usoke,,-5.0833,32.3167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,118.6,6704,6704,3,Africa/Dar_es_Salaam,FALSE,1834947053
+Kimamba,Kimamba,,-6.7897,37.1383,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,812.8,6679,6679,3,Africa/Dar_es_Salaam,FALSE,1834816425
+Kyaka,Kyaka,,-1.2536,31.4200,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,163.7,6000,6000,4,Africa/Dar_es_Salaam,FALSE,1834663470
+Kilomeni,Kilomeni,Kilonchi,-3.7667,37.6500,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,174.9,4467,4467,4,Africa/Dar_es_Salaam,FALSE,1834799525
+Madanga,Madanga,,-5.3594,39.0177,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,136.6,3606,3606,4,Africa/Dar_es_Salaam,FALSE,1834332976
+Litembo,Litembo,,-10.9667,34.8500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,305.4,3325,3325,3,Africa/Dar_es_Salaam,FALSE,1834457702
+Mkokotoni,Mkokotoni,,-5.8800,39.2731,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,minor,625.5,2572,2572,3,Africa/Dar_es_Salaam,FALSE,1834206004
+Kindimba,Kindimba,,-10.9500,34.9333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,170.3,2440,2440,4,Africa/Dar_es_Salaam,FALSE,1834095615
+Ndanda,Ndanda,,-10.5000,39.0167,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,237.3,2024,2024,3,Africa/Dar_es_Salaam,FALSE,1834789644
+Kipili,Kipili,,-7.4329,30.6000,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,65.6,1533,1533,4,Africa/Dar_es_Salaam,FALSE,1834589411
+Yasini,Yasini,Jasin|Jasini,-4.6600,39.1885,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,64.6,300,300,4,Africa/Dar_es_Salaam,FALSE,1834891665
+Kanyato,Kanyato,,-4.4565,30.2614,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,103.2,232,232,4,Africa/Dar_es_Salaam,FALSE,1834158031
+Nyanhonge,Nyanhonge,Nyanhanga|Nyahonge,-3.1833,33.1667,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,112.1,,,4,Africa/Dar_es_Salaam,FALSE,1834409879
+Msongas,Msongas,Msonga,-7.3500,32.7500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,1.2,,,5,Africa/Dar_es_Salaam,FALSE,1834355335
+Mgambo,Mgambo,,-5.5667,38.5000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,127.7,,,4,Africa/Dar_es_Salaam,FALSE,1834179322
+Mohamed Goha,Mohamed Goha,,-8.8167,36.8000,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,1.7,,,5,Africa/Dar_es_Salaam,FALSE,1834395817
+Tura,Tura,,-5.5167,33.8333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,14.8,,,4,Africa/Dar_es_Salaam,FALSE,1834862711
+Kikokoni,Kikokoni,,-5.4167,39.7167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,868.4,,,3,Africa/Dar_es_Salaam,FALSE,1834736642
+Paiama,Paiama,,-5.9333,39.2500,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,2620.6,,,2,Africa/Dar_es_Salaam,FALSE,1834049861
+Lufubu,Lufubu,Luvubu,-6.4430,30.1072,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,50.7,,,4,Africa/Dar_es_Salaam,FALSE,1834116900
+Mzurikaja,Mzurikaja,,-6.4333,39.5500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,637.5,,,3,Africa/Dar_es_Salaam,FALSE,1834559892
+Fimbo,Fimbo,,-8.5000,36.7000,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,7.8,,,5,Africa/Dar_es_Salaam,FALSE,1834482610
+Itonga,Itonga,,-2.2500,33.8667,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,269.1,,,3,Africa/Dar_es_Salaam,FALSE,1834220258
+Idale,Idale,,-7.2722,36.2434,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,10.3,,,4,Africa/Dar_es_Salaam,FALSE,1834872623
+Nyakato,Nyakato,,-2.8197,31.7550,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,159.5,,,4,Africa/Dar_es_Salaam,FALSE,1834866375
+Kihangara,Kihangara,Magu Kahangara,-2.5833,33.3500,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,179.1,,,4,Africa/Dar_es_Salaam,FALSE,1834583530
+Mbao,Mbao,,-10.5333,35.7333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,62.3,,,4,Africa/Dar_es_Salaam,FALSE,1834551695
+Kijibwe Chui,Kijibwe Chui,Kijibwa Chui,-6.3000,39.5333,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,127.5,,,4,Africa/Dar_es_Salaam,FALSE,1834802525
+Msaga,Msaga,,-7.0076,37.5096,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,94.9,,,4,Africa/Dar_es_Salaam,FALSE,1834163602
+Zombe,Zombe,,-7.8058,38.2705,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,1.8,,,5,Africa/Dar_es_Salaam,FALSE,1834734366
+Segoma,Segoma,,-4.9833,38.7500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,58.2,,,4,Africa/Dar_es_Salaam,FALSE,1834316866
+Msimbe,Msimbe,,-6.0000,35.5333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,70.7,,,4,Africa/Dar_es_Salaam,FALSE,1834582208
+Mkongo,Mkongo,,-10.7500,36.0000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,22.6,,,4,Africa/Dar_es_Salaam,FALSE,1834560952
+Mkoe,Mkoe,,-9.5333,39.6333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,22.8,,,4,Africa/Dar_es_Salaam,FALSE,1834475516
+Nyundo,Nyundo,,-4.8000,38.8000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,123.4,,,4,Africa/Dar_es_Salaam,FALSE,1834433904
+Mwamashimba,Mwamashimba,,-3.2333,33.1500,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,112.1,,,4,Africa/Dar_es_Salaam,FALSE,1834190607
+Kiomboni,Kiomboni,Kiombani,-7.7803,39.3830,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,222.0,,,3,Africa/Dar_es_Salaam,FALSE,1834316302
+Mahondolo,Mahondolo,Matondolo,-5.4833,38.0500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,216.0,,,3,Africa/Dar_es_Salaam,FALSE,1834762863
+Pande,Pande,,-5.0500,38.9333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,86.5,,,4,Africa/Dar_es_Salaam,FALSE,1834634209
+Pande,Pande,,-5.8167,38.6000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,29.7,,,4,Africa/Dar_es_Salaam,TRUE,1834191954
+Ilima,Ilima,,-9.4333,33.6833,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,135.2,,,4,Africa/Dar_es_Salaam,FALSE,1834427620
+Pande,Pande,,-8.3000,32.3167,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,65.8,,,4,Africa/Dar_es_Salaam,FALSE,1834373233
+Ulimakafu,Ulimakafu,,-4.8500,33.1833,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,76.5,,,4,Africa/Dar_es_Salaam,FALSE,1834685738
+Mkuzi,Mkuzi,Mkozi,-5.2500,38.8333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,225.5,,,3,Africa/Dar_es_Salaam,FALSE,1834428044
+Lugoda,Lugoda,,-8.7000,35.8167,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,17.1,,,4,Africa/Dar_es_Salaam,FALSE,1834709544
+Gongo,Gongo,,-6.2833,38.5667,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,53.1,,,4,Africa/Dar_es_Salaam,FALSE,1834029268
+Njawanga,Njawanga,,-10.7000,37.1667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,14.5,,,4,Africa/Dar_es_Salaam,FALSE,1834280115
+Kikungeni,Kikungeni,,-5.1167,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,FALSE,1834045080
+Mkole,Mkole,,-7.3667,31.0500,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,32.5,,,4,Africa/Dar_es_Salaam,FALSE,1834590688
+Maelu,Maelu,,-4.2333,34.6667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,45.4,,,4,Africa/Dar_es_Salaam,FALSE,1834841025
+Misha,Misha,,-4.8667,32.7667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,55.7,,,4,Africa/Dar_es_Salaam,FALSE,1834115205
+Chupwe,Chupwe,,-4.9833,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,419.3,,,3,Africa/Dar_es_Salaam,FALSE,1834059203
+Kapapa,Kapapa,,-6.7916,31.3689,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.2,,,5,Africa/Dar_es_Salaam,FALSE,1834908179
+Vikongoro,Vikongoro,,-6.9833,39.1000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,1307.1,,,3,Africa/Dar_es_Salaam,FALSE,1834664637
+Jendeli,Jendeli,,-5.0333,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,414.6,,,3,Africa/Dar_es_Salaam,FALSE,1834178871
+Nyanjani,Nyanjani,Myanjani,-5.9167,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,366.4,,,3,Africa/Dar_es_Salaam,FALSE,1834411257
+Mangubu,Mangubu,,-5.1167,38.7000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,224.1,,,3,Africa/Dar_es_Salaam,FALSE,1834869343
+Mafisa,Mafisa,,-5.4667,37.4333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,71.8,,,4,Africa/Dar_es_Salaam,FALSE,1834273322
+Ifinga,Ifinga,,-9.5000,35.5000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,0.9,,,5,Africa/Dar_es_Salaam,FALSE,1834208577
+Owero,Owero,,-8.6167,33.8667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,2.9,,,5,Africa/Dar_es_Salaam,FALSE,1834119384
+Titu,Titu,,-7.3948,38.7084,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,7.0,,,5,Africa/Dar_es_Salaam,FALSE,1834275743
+Burieri,Burieri,,-1.1000,34.0500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,197.6,,,4,Africa/Dar_es_Salaam,FALSE,1834655093
+Chamamba,Chamamba,Chimamba,-7.4000,35.5000,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,21.7,,,4,Africa/Dar_es_Salaam,FALSE,1834491941
+Naiwanga,Naiwanga,Naiwangaa,-8.9430,39.0129,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,8.4,,,5,Africa/Dar_es_Salaam,FALSE,1834791790
+Kinoga,Kinoga,,-8.5833,35.3000,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,116.2,,,4,Africa/Dar_es_Salaam,FALSE,1834409242
+Luguru ya Mbuga,Luguru ya Mbuga,,-3.3000,34.3167,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,85.1,,,4,Africa/Dar_es_Salaam,FALSE,1834994775
+Mtembe,Mtembe,,-9.8333,34.5833,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,55.7,,,4,Africa/Dar_es_Salaam,FALSE,1834993301
+Nkutano,Nkutano,,-8.3500,33.1500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,52.1,,,4,Africa/Dar_es_Salaam,FALSE,1834078441
+Kihuma,Kihuma,,-9.2333,37.9500,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,0.2,,,5,Africa/Dar_es_Salaam,FALSE,1834825896
+Chogowale,Chogowale,,-6.0667,37.3667,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,59.9,,,4,Africa/Dar_es_Salaam,FALSE,1834799925
+Ukwama,Ukwama,,-7.1880,37.7115,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,76.1,,,4,Africa/Dar_es_Salaam,FALSE,1834956387
+Bangala,Bangala,,-8.3500,32.8500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,15.4,,,4,Africa/Dar_es_Salaam,FALSE,1834797395
+Galukilo,Galukilo,,-6.4808,31.3893,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.2,,,5,Africa/Dar_es_Salaam,FALSE,1834773229
+Pembera,Pembera,,-8.6833,32.3833,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,62.1,,,4,Africa/Dar_es_Salaam,FALSE,1834762643
+Kurwaki,Kurwaki,,-1.7000,33.6667,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,235.7,,,3,Africa/Dar_es_Salaam,FALSE,1834334076
+Likuna,Likuna,,-10.9000,39.3500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,234.0,,,3,Africa/Dar_es_Salaam,FALSE,1834654776
+Karehe,Karehe,,-1.6353,31.1589,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,142.8,,,4,Africa/Dar_es_Salaam,FALSE,1834055350
+Kijuuni,Kijuuni,,-6.4167,39.5500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,607.9,,,3,Africa/Dar_es_Salaam,FALSE,1834972591
+Kijuuni,Kijuuni,,-6.3000,39.2833,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,129.8,,,4,Africa/Dar_es_Salaam,FALSE,1834873558
+Tondwa,Tondwa,,-7.8601,39.7505,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,60.0,,,4,Africa/Dar_es_Salaam,FALSE,1834910854
+Lukomo,Lukomo,,-4.5167,34.7000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,135.1,,,4,Africa/Dar_es_Salaam,FALSE,1834648924
+Kisingani,Kisingani,Kizingani,-4.9833,39.1333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,102.5,,,4,Africa/Dar_es_Salaam,FALSE,1834466267
+Bwiti,Bwiti,,-5.1333,38.7167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,194.9,,,4,Africa/Dar_es_Salaam,FALSE,1834555622
+Bwiti,Bwiti,,-4.7833,38.8167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,40.1,,,4,Africa/Dar_es_Salaam,TRUE,1834741207
+Chasasa,Chasasa,,-5.0500,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,1671.6,,,3,Africa/Dar_es_Salaam,FALSE,1834044328
+Mbauni,Mbauni,,-4.9667,39.6667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,154.9,,,4,Africa/Dar_es_Salaam,FALSE,1834365042
+Ulaya,Ulaya,,-4.3833,33.4167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,100.9,,,4,Africa/Dar_es_Salaam,FALSE,1834806471
+Sakalilo,Sakalilo,,-8.2000,31.9667,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,166.8,,,4,Africa/Dar_es_Salaam,FALSE,1834626346
+Kwedivunda,Kwedivunda,,-5.1833,38.1333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,20.1,,,4,Africa/Dar_es_Salaam,FALSE,1834068297
+Mahambika,Mahambika,,-10.1333,39.6333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,129.4,,,4,Africa/Dar_es_Salaam,FALSE,1834168750
+Rugasha,Rugasha,Rushasha,-1.1086,30.6736,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,104.8,,,4,Africa/Dar_es_Salaam,FALSE,1834396621
+Nyali,Nyali,Nyale|Nyala,-5.0833,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,287.2,,,3,Africa/Dar_es_Salaam,FALSE,1834444488
+Uleni,Uleni,,-5.2833,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,266.1,,,3,Africa/Dar_es_Salaam,FALSE,1834009381
+Chalatila,Chalatila,,-7.8333,31.3167,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,43.3,,,4,Africa/Dar_es_Salaam,FALSE,1834770562
+Sawika,Sawika,,-8.5667,33.5833,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,22.5,,,4,Africa/Dar_es_Salaam,FALSE,1834344429
+Langoni,Langoni,,-5.4667,38.9000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,22.8,,,4,Africa/Dar_es_Salaam,FALSE,1834813548
+Kisakasaka Bondeni,Kisakasaka Bondeni,Kisakasaka,-6.2333,39.2833,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,874.4,,,3,Africa/Dar_es_Salaam,FALSE,1834870733
+Wangingombe,Wangingombe,,-8.8500,34.6333,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,70.8,,,4,Africa/Dar_es_Salaam,FALSE,1834469816
+Kiziramuyaga,Kiziramuyaga,Kiziramiaga,-2.1731,31.6656,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,164.9,,,4,Africa/Dar_es_Salaam,FALSE,1834398067
+Mwanyanya,Mwanyanya,,-6.1000,39.2333,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,5027.6,,,2,Africa/Dar_es_Salaam,FALSE,1834882847
+Gale,Gale,,-5.1167,38.7000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,224.1,,,3,Africa/Dar_es_Salaam,FALSE,1834040866
+Magoe,Magoe,,-6.7167,39.0667,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,1859.1,,,3,Africa/Dar_es_Salaam,FALSE,1834145784
+Kyamboni,Kyamboni,,-5.0000,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,310.8,,,3,Africa/Dar_es_Salaam,FALSE,1834541788
+Mati,Mati,,-5.6500,35.9167,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,26.9,,,4,Africa/Dar_es_Salaam,FALSE,1834902911
+Kitomanga,Kitomanga,,-9.6833,39.5500,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,35.0,,,4,Africa/Dar_es_Salaam,FALSE,1834649461
+Soit Ayai,Soit Ayai,,-2.4332,35.3634,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,9.0,,,5,Africa/Dar_es_Salaam,FALSE,1834312978
+Kinwichiro,Kinwichiro,,-9.6167,38.1000,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,0.1,,,5,Africa/Dar_es_Salaam,FALSE,1834509802
+Mdudu Mdogo,Mdudu Mdogo,Mdudu,-6.0500,39.4000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,59.9,,,4,Africa/Dar_es_Salaam,FALSE,1834550336
+Kilulu,Kilulu,Kilula,-2.8833,34.0167,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,241.5,,,3,Africa/Dar_es_Salaam,FALSE,1834003439
+Msimkulu,Msimkulu,,-5.2833,38.3167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,45.6,,,4,Africa/Dar_es_Salaam,FALSE,1834451144
+Buhalahala,Buhalahala,,-2.8816,32.3281,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,703.0,,,3,Africa/Dar_es_Salaam,FALSE,1834848359
+Kioga,Kioga,,-3.3500,36.6833,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,3538.0,,,2,Africa/Dar_es_Salaam,FALSE,1834471589
+Kalebezo,Kalebezo,Karebezo,-2.5167,32.3333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,224.7,,,3,Africa/Dar_es_Salaam,FALSE,1834005714
+Masmono,Masmono,,-1.9459,33.5897,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,52.8,,,4,Africa/Dar_es_Salaam,FALSE,1834354661
+Kangagani,Kangagani,,-5.1667,39.8333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,264.5,,,3,Africa/Dar_es_Salaam,FALSE,1834406951
+Ngezi,Ngezi,,-5.4000,39.7667,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,254.6,,,3,Africa/Dar_es_Salaam,FALSE,1834733850
+Katoke,Katoke,Karoke,-1.6622,31.6989,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,244.0,,,3,Africa/Dar_es_Salaam,FALSE,1834511454
+Lugari,Lugari,,-10.8667,34.8667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,195.3,,,4,Africa/Dar_es_Salaam,FALSE,1834246257
+Ngerere,Ngerere,Mgerere,-3.0167,32.5667,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,156.9,,,4,Africa/Dar_es_Salaam,FALSE,1834136880
+Kwakibike,Kwakibike,,-8.5000,35.7333,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,25.3,,,4,Africa/Dar_es_Salaam,FALSE,1834342090
+Kisiju,Kisiju,,-7.3980,39.3381,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,53.4,,,4,Africa/Dar_es_Salaam,FALSE,1834005410
+Dundani,Dundani,,-7.9567,39.6239,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,78.6,,,4,Africa/Dar_es_Salaam,FALSE,1834048301
+Maswa,Maswa,,-2.6833,33.9833,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,197.8,,,4,Africa/Dar_es_Salaam,FALSE,1834920006
+Nyangombe,Nyangombe,,-2.5500,32.7333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,237.2,,,3,Africa/Dar_es_Salaam,FALSE,1834667954
+Mawande,Mawande,,-7.5000,35.4833,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,29.8,,,4,Africa/Dar_es_Salaam,FALSE,1834548187
+Nyangombe,Nyangombe,,-1.8500,33.0667,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,510.4,,,3,Africa/Dar_es_Salaam,FALSE,1834764618
+Nyangombe,Nyangombe,,-1.9000,33.4667,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,212.6,,,3,Africa/Dar_es_Salaam,TRUE,1834462779
+Kiropa,Kiropa,,-10.8333,34.6500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,41.3,,,4,Africa/Blantyre,FALSE,1834508920
+Migombani,Migombani,,-5.9833,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,748.2,,,3,Africa/Dar_es_Salaam,FALSE,1834779498
+Pozo,Pozo,,-5.8667,38.4833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,29.7,,,4,Africa/Dar_es_Salaam,FALSE,1834056480
+Mabama,Mabama,,-5.1333,32.5333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,54.5,,,4,Africa/Dar_es_Salaam,FALSE,1834461544
+Kibonji,Kibonji,,-7.9062,37.9989,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,1.8,,,5,Africa/Dar_es_Salaam,FALSE,1834769540
+Korogombe,Korogombe,,-6.6833,38.6000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,49.9,,,4,Africa/Dar_es_Salaam,FALSE,1834564809
+Kakoma,Kakoma,,-5.7833,32.4333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,17.4,,,4,Africa/Dar_es_Salaam,FALSE,1834875205
+Bukindo,Bukindo,,-2.5000,32.0000,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,210.9,,,3,Africa/Dar_es_Salaam,FALSE,1834659407
+Kakoma,Kakoma,,-7.4167,31.0500,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,32.5,,,4,Africa/Dar_es_Salaam,FALSE,1834152887
+Ngata,Ngata,,-4.9000,35.0667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,15.7,,,4,Africa/Dar_es_Salaam,FALSE,1834543837
+Lipateka,Lipateka,,-10.5667,36.0333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,50.4,,,4,Africa/Dar_es_Salaam,FALSE,1834060026
+Nyanghomango,Nyanghomango,,-3.0000,32.8167,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,156.5,,,4,Africa/Dar_es_Salaam,FALSE,1834113307
+Kiponda,Kiponda,,-4.8500,39.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,210.4,,,3,Africa/Dar_es_Salaam,FALSE,1834625818
+Seremai,Seremai,,-3.5000,35.6167,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,111.3,,,4,Africa/Dar_es_Salaam,FALSE,1834772803
+Ilula,Ilula,,-3.5667,33.9500,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,50.5,,,4,Africa/Dar_es_Salaam,FALSE,1834254867
+Igalamia,Igalamia,,-3.7667,33.1833,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,105.2,,,4,Africa/Dar_es_Salaam,FALSE,1834178431
+Kilabela,Kilabela,,-3.5500,33.2833,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,105.9,,,4,Africa/Dar_es_Salaam,FALSE,1834232869
+Jifunge,Jifunge,,-5.1667,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,296.7,,,3,Africa/Dar_es_Salaam,FALSE,1834283452
+Barawa,Barawa,,-5.2167,39.7667,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,634.0,,,3,Africa/Dar_es_Salaam,FALSE,1834419451
+Mmuhare,Mmuhare,,-1.5000,33.7333,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,331.6,,,3,Africa/Dar_es_Salaam,FALSE,1834102354
+Hamago,Hamago,,-5.0000,38.4333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,343.7,,,3,Africa/Dar_es_Salaam,FALSE,1834056170
+Selem Mbuyuni,Selem Mbuyuni,,-6.0500,39.2333,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1234.1,,,3,Africa/Dar_es_Salaam,FALSE,1834114901
+Koromije,Koromije,Kolomije|Korimije,-2.7000,33.1667,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,201.1,,,3,Africa/Dar_es_Salaam,FALSE,1834159961
+Susi Janda,Susi Janda,,-4.6667,33.9167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,35.9,,,4,Africa/Dar_es_Salaam,FALSE,1834021777
+Pigogoo,Pigogoo,,-5.1167,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,157.1,,,4,Africa/Dar_es_Salaam,FALSE,1834720792
+Kyerwa,Kyerwa,,-1.3689,30.7717,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,205.9,,,3,Africa/Dar_es_Salaam,FALSE,1834831072
+Mwandiga,Mwandiga,Miwandica|Mandyga,-4.8300,29.6581,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,1083.1,,,3,Africa/Dar_es_Salaam,FALSE,1834640301
+Bukindo,Bukindo,Nansore,-2.0333,33.1000,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,580.6,,,3,Africa/Dar_es_Salaam,FALSE,1834200800
+Namuhi,Namuhi,,-10.3167,39.8500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,84.7,,,4,Africa/Dar_es_Salaam,FALSE,1834674888
+Panga,Panga,,-5.7500,38.2667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,41.9,,,4,Africa/Dar_es_Salaam,FALSE,1834645831
+Daura kwa Maweta,Daura kwa Maweta,,-5.4667,38.4667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,178.4,,,4,Africa/Dar_es_Salaam,FALSE,1834127233
+Tabora,Tabora,,-6.9167,32.5333,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,1.1,,,5,Africa/Dar_es_Salaam,FALSE,1834063568
+Kihagara,Kihagara,,-11.0167,34.6333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,165.0,,,4,Africa/Dar_es_Salaam,FALSE,1834872849
+Kibuteni,Kibuteni,Kebuteni,-6.4333,39.4833,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,52.8,,,4,Africa/Dar_es_Salaam,FALSE,1834492700
+Buseresere,Buseresere,,-3.0236,31.8747,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,188.7,,,4,Africa/Dar_es_Salaam,FALSE,1834245111
+Mbwiro,Mbwiro,,-8.6000,31.2667,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,31.6,,,4,Africa/Dar_es_Salaam,FALSE,1834955119
+Namuhura,Namuhura,,-2.0333,33.4333,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,262.4,,,3,Africa/Dar_es_Salaam,FALSE,1834715267
+Engassumet,Engassumet,Ngasumet,-4.4500,37.2333,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,8.0,,,5,Africa/Dar_es_Salaam,FALSE,1834964066
+Ntungulu,Ntungulu,,-3.9023,32.9702,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,171.4,,,4,Africa/Dar_es_Salaam,FALSE,1834926892
+Karumo,Karumo,Mkobe,-2.5000,32.8167,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,305.1,,,3,Africa/Dar_es_Salaam,FALSE,1834348892
+Msongozi,Msongozi,,-7.0607,37.3328,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,23.6,,,4,Africa/Dar_es_Salaam,FALSE,1834155896
+Makanda,Makanda,,-5.7500,35.3000,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,30.7,,,4,Africa/Dar_es_Salaam,FALSE,1834811475
+Katunda,Katunda,,-4.1667,33.4500,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,78.0,,,4,Africa/Dar_es_Salaam,FALSE,1834663129
+Katunda,Katunda,Katundu,-5.2833,32.5167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,54.5,,,4,Africa/Dar_es_Salaam,TRUE,1834001300
+Mikaranga,Mikaranga,,-9.6000,39.5167,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,27.8,,,4,Africa/Dar_es_Salaam,FALSE,1834289500
+Kalangali,Kalangali,,-7.9833,33.3000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,17.0,,,4,Africa/Dar_es_Salaam,FALSE,1834894540
+Mtika,Mtika,,-11.2167,37.5667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,8.3,,,5,Africa/Dar_es_Salaam,FALSE,1834437388
+Gongoni,Gongoni,,-4.9500,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,736.9,,,3,Africa/Dar_es_Salaam,FALSE,1834614535
+Gongoni,Gongoni,,-5.1667,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,701.6,,,3,Africa/Dar_es_Salaam,TRUE,1834197216
+Hemagoda,Hemagoda,,-5.0167,38.3833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,348.4,,,3,Africa/Dar_es_Salaam,FALSE,1834338609
+Kurumunhi,Kurumunhi,,-4.1667,33.3500,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,84.3,,,4,Africa/Dar_es_Salaam,FALSE,1834283323
+Ziwani,Ziwani,,-5.1167,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,531.0,,,3,Africa/Dar_es_Salaam,FALSE,1834431797
+Ziwani,Ziwani,,-5.9667,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,664.6,,,3,Africa/Dar_es_Salaam,FALSE,1834895438
+Igayaza,Igayaza,,-1.1303,31.3942,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,55.9,,,4,Africa/Dar_es_Salaam,FALSE,1834642712
+Fundi Mbanga,Fundi Mbanga,,-10.8167,37.1000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,14.5,,,4,Africa/Dar_es_Salaam,FALSE,1834627621
+Nyakaswa,Nyakaswa,Nyakasu,-2.8103,31.9342,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,306.1,,,3,Africa/Dar_es_Salaam,FALSE,1834245397
+Itaranganya,Itaranganya,,-3.4167,32.4167,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,83.9,,,4,Africa/Dar_es_Salaam,FALSE,1834836693
+Kasa,Kasa,,-6.2563,29.9220,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,12.3,,,4,Africa/Dar_es_Salaam,FALSE,1834530808
+Butu,Butu,,-9.0000,36.0833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,90.6,,,4,Africa/Dar_es_Salaam,FALSE,1834596222
+Kwambi,Kwambi,,-11.3500,34.9000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,79.0,,,4,Africa/Dar_es_Salaam,FALSE,1834941496
+Mahuta,Mahuta,,-10.8667,39.4500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,240.5,,,3,Africa/Dar_es_Salaam,FALSE,1834076444
+Namro,Namro,,-3.2667,37.4000,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,624.5,,,3,Africa/Dar_es_Salaam,FALSE,1834380048
+Ikorongo,Ikorongo,Ikorungo,-1.5833,34.4167,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,69.2,,,4,Africa/Dar_es_Salaam,FALSE,1834760118
+Mgambo Kinyasini,Mgambo Kinyasini,,-5.9667,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,664.6,,,3,Africa/Dar_es_Salaam,FALSE,1834411882
+Matetewa,Matetewa,,-5.1667,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,296.7,,,3,Africa/Dar_es_Salaam,FALSE,1834654966
+Digobuke,Digobuke,,-6.1167,37.3833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,60.2,,,4,Africa/Dar_es_Salaam,FALSE,1834503440
+Pambani,Pambani,,-2.9833,33.1000,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,185.3,,,4,Africa/Dar_es_Salaam,FALSE,1834875985
+Luganzo,Luganzo,,-5.2169,31.3758,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,50.3,,,4,Africa/Dar_es_Salaam,FALSE,1834485395
+Mtemei,Mtemei,,-4.8833,38.4667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,409.0,,,3,Africa/Dar_es_Salaam,FALSE,1834967316
+Kingomba,Kingomba,,-5.8333,37.5667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,45.4,,,4,Africa/Dar_es_Salaam,FALSE,1834025289
+Mishamo,Mishamo,,-5.6833,30.6833,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,10.4,,,4,Africa/Dar_es_Salaam,FALSE,1834523366
+Kigonero,Kigonero,,-5.1350,30.2164,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,59.3,,,4,Africa/Dar_es_Salaam,FALSE,1834834477
+Nangano,Nangano,,-10.0833,38.4333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,7.2,,,5,Africa/Dar_es_Salaam,FALSE,1834512930
+Kisese,Kisese,,-6.3010,29.7753,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,12.3,,,4,Africa/Dar_es_Salaam,FALSE,1834793963
+Namahoka,Namahoka,,-11.1833,36.0333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,5.4,,,5,Africa/Dar_es_Salaam,FALSE,1834799689
+Kibuyuni,Kibuyuni,,-5.8833,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1428.2,,,3,Africa/Dar_es_Salaam,FALSE,1834430635
+Nachingwea,Nachingwea,Nachingwa,-10.3714,38.7622,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,287.0,,,3,Africa/Dar_es_Salaam,FALSE,1834090241
+Namanima,Namanima,,-10.6333,36.2000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,4.9,,,5,Africa/Dar_es_Salaam,FALSE,1834439475
+Mpirani,Mpirani,,-4.3000,38.0333,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,78.9,,,4,Africa/Dar_es_Salaam,FALSE,1834852616
+Ulambo,Ulambo,,-8.9833,35.9000,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,35.6,,,4,Africa/Dar_es_Salaam,FALSE,1834350281
+Zimba,Zimba,Nzimba,-7.8667,31.8167,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,101.4,,,4,Africa/Dar_es_Salaam,FALSE,1834095435
+Shangani,Shangani,,-5.8667,39.2667,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,2018.8,,,2,Africa/Dar_es_Salaam,FALSE,1834321579
+Kikwate,Kikwate,,-6.2500,38.5833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,39.3,,,4,Africa/Dar_es_Salaam,FALSE,1834210812
+Kungumoga,Kungumoga,,-5.1833,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,296.7,,,3,Africa/Dar_es_Salaam,FALSE,1834654747
+Itengeni,Itengeni,Tengeni,-5.4167,38.6833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,57.4,,,4,Africa/Dar_es_Salaam,FALSE,1834751292
+Lutale,Lutale,,-4.9097,29.6442,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,5735.6,,,2,Africa/Dar_es_Salaam,FALSE,1834593259
+Kipungira,Kipungira,,-7.8358,38.5148,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,9.3,,,5,Africa/Dar_es_Salaam,FALSE,1834937984
+Chigunga,Chigunga,,-2.8156,31.9283,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,306.1,,,3,Africa/Dar_es_Salaam,FALSE,1834766826
+Kibamba,Kibamba,,-7.0703,39.4157,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,70.0,,,4,Africa/Dar_es_Salaam,FALSE,1834984804
+Hakaro,Hakaro,,-5.0333,38.4000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,347.8,,,3,Africa/Dar_es_Salaam,FALSE,1834228631
+Kyangale,Kyangale,,-6.1167,39.3167,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,216.7,,,3,Africa/Dar_es_Salaam,FALSE,1834957056
+Donge Kiungani,Donge Kiungani,Kiungani,-5.9333,39.2667,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,442.7,,,3,Africa/Dar_es_Salaam,FALSE,1834087690
+Buhinga,Buhinga,,-4.6072,30.0106,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,114.6,,,4,Africa/Dar_es_Salaam,FALSE,1834443109
+Lihigo,Lihigo,Lihiga,-11.0167,35.5167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,3.2,,,5,Africa/Dar_es_Salaam,FALSE,1834942225
+Kwemkole,Kwemkole,,-4.6500,38.4667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,112.5,,,4,Africa/Dar_es_Salaam,FALSE,1834243362
+Kitambuuni,Kitambuuni,,-5.1000,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,157.1,,,4,Africa/Dar_es_Salaam,FALSE,1834234219
+Mifuni,Mifuni,Mifuuni,-5.2167,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,544.9,,,3,Africa/Dar_es_Salaam,FALSE,1834037226
+Kitutia,Kitutia,,-6.2500,39.2667,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,294.5,,,3,Africa/Dar_es_Salaam,FALSE,1834094523
+Ahakachwamba,Ahakachwamba,,-1.8164,30.9519,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,46.5,,,4,Africa/Dar_es_Salaam,FALSE,1834789226
+Mkomazi,Mkomazi,Mkomasi,-4.6333,38.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,32.0,,,4,Africa/Dar_es_Salaam,FALSE,1834788911
+Misoswe,Misoswe,Misowe,-5.0500,38.7667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,89.2,,,4,Africa/Dar_es_Salaam,FALSE,1834217867
+Sire,Sire,,-5.7167,31.8333,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,9.7,,,5,Africa/Dar_es_Salaam,FALSE,1834896566
+Dindi,Dindi,,-6.3667,39.4667,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,82.1,,,4,Africa/Dar_es_Salaam,FALSE,1834516647
+Itera,Itera,,-1.5119,30.9419,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,248.3,,,3,Africa/Dar_es_Salaam,FALSE,1834709579
+Igunga,Igunga,,-8.2667,35.7167,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,30.5,,,4,Africa/Dar_es_Salaam,FALSE,1834950397
+Kitete,Kitete,,-8.2500,33.7333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,2.9,,,5,Africa/Dar_es_Salaam,FALSE,1834610445
+Isawa,Isawa,Isowa,-6.6333,34.1500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,1.1,,,5,Africa/Dar_es_Salaam,FALSE,1834213221
+Magazini,Magazini,,-11.6167,36.6000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,3.0,,,5,Africa/Dar_es_Salaam,FALSE,1834680049
+Mdonya,Mdonya,,-7.7500,34.8000,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,1.3,,,5,Africa/Dar_es_Salaam,FALSE,1834984488
+Ilewiro,Ilewiro,,-6.2000,34.6500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,32.0,,,4,Africa/Dar_es_Salaam,FALSE,1834991677
+Msilwa,Msilwa,,-7.1833,35.6500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,18.5,,,4,Africa/Dar_es_Salaam,FALSE,1834427593
+Rutunguru,Rutunguru,Rutungura|Katunguru,-1.2256,30.6717,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,78.1,,,4,Africa/Dar_es_Salaam,FALSE,1834926056
+Jafarini,Jafarini,,-5.4167,39.7333,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,868.4,,,3,Africa/Dar_es_Salaam,FALSE,1834787551
+Kasanzo,Kasanzo,,-7.5667,31.3833,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,25.6,,,4,Africa/Dar_es_Salaam,FALSE,1834784623
+Tumuli,Tumuli,,-4.5500,34.5500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,135.1,,,4,Africa/Dar_es_Salaam,FALSE,1834132189
+Namatunu,Namatunu,,-10.7833,38.9000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,82.9,,,4,Africa/Dar_es_Salaam,FALSE,1834505660
+Mgogoni,Mgogoni,,-5.0000,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,393.6,,,3,Africa/Dar_es_Salaam,FALSE,1834628734
+Mgogoni,Mgogoni,,-5.1000,39.7000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,287.2,,,3,Africa/Dar_es_Salaam,TRUE,1834890018
+Mgogoni,Mgogoni,,-5.1500,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,177.8,,,4,Africa/Dar_es_Salaam,TRUE,1834668606
+Membi,Membi,,-5.6333,32.6500,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,34.6,,,4,Africa/Dar_es_Salaam,FALSE,1834868091
+Nyakaliro,Nyakaliro,Nyakalilo,-2.4500,32.4333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,373.4,,,3,Africa/Dar_es_Salaam,FALSE,1834452634
+Nyanatakara,Nyanatakara,Nyantakara,-3.1172,31.3853,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,57.0,,,4,Africa/Dar_es_Salaam,FALSE,1834061518
+Ikanotwa,Ikanotwa,,-8.5833,34.3833,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,4.8,,,5,Africa/Dar_es_Salaam,FALSE,1834772617
+Jungu,Jungu,,-5.3833,37.6833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,62.2,,,4,Africa/Dar_es_Salaam,FALSE,1834846243
+Mtombozi,Mtombozi,,-7.0995,37.8104,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,83.5,,,4,Africa/Dar_es_Salaam,FALSE,1834141852
+Uruwira,Uruwira,,-6.4501,31.3599,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.2,,,5,Africa/Dar_es_Salaam,FALSE,1834727666
+Berabera,Berabera,,-4.5333,35.6667,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,120.9,,,4,Africa/Dar_es_Salaam,FALSE,1834824111
+Bwanga-Bwina,Bwanga-Bwina,,-2.6167,31.8000,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,457.1,,,3,Africa/Dar_es_Salaam,FALSE,1834621625
+Kikeo,Kikeo,,-7.1855,37.5433,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,49.5,,,4,Africa/Dar_es_Salaam,FALSE,1834169670
+Mukue,Mukue,,-6.8833,36.3167,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,47.8,,,4,Africa/Dar_es_Salaam,FALSE,1834318882
+Myuanga,Myuanga,,-6.4566,31.3784,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.2,,,5,Africa/Dar_es_Salaam,FALSE,1834044232
+Rugarama,Rugarama,,-2.8242,30.4500,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,111.4,,,4,Africa/Dar_es_Salaam,FALSE,1834320004
+Mpeta,Mpeta,,-10.8833,38.9833,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,90.7,,,4,Africa/Dar_es_Salaam,FALSE,1834264143
+Chifule,Chifule,Kifuli,-1.8167,33.0167,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,764.1,,,3,Africa/Dar_es_Salaam,FALSE,1834889393
+Ruanda,Ruanda,,-8.9833,33.0667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,207.5,,,3,Africa/Dar_es_Salaam,FALSE,1834849416
+Ruanda,Ruanda,,-11.0000,38.0667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,12.8,,,4,Africa/Dar_es_Salaam,FALSE,1834781097
+Ruanda,Ruanda,,-5.8667,38.1000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,19.3,,,4,Africa/Dar_es_Salaam,FALSE,1834693341
+Mbogo,Mbogo,Mbogos,-7.4333,33.4333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,3.0,,,5,Africa/Dar_es_Salaam,FALSE,1834287511
+Kakessio,Kakessio,Kakesyo,-3.3333,35.0333,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,6.3,,,5,Africa/Dar_es_Salaam,FALSE,1834957779
+Sunga,Sunga,,-4.5333,38.2333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,295.7,,,3,Africa/Dar_es_Salaam,FALSE,1834847193
+Kijosi,Kijosi,,-10.9333,34.7167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,60.0,,,4,Africa/Dar_es_Salaam,FALSE,1834008411
+Lupata,Lupata,,-9.3000,33.8500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,129.0,,,4,Africa/Dar_es_Salaam,FALSE,1834863127
+Mwele,Mwele,,-4.8333,38.8167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,212.5,,,3,Africa/Dar_es_Salaam,FALSE,1834117041
+Nangwala,Nangwala,,-10.9167,39.3000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,393.9,,,3,Africa/Dar_es_Salaam,FALSE,1834217566
+Combeni,Combeni,,-5.4000,39.7333,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,361.6,,,3,Africa/Dar_es_Salaam,FALSE,1834148256
+Mlai,Mlai,,-4.9167,38.4500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,379.6,,,3,Africa/Dar_es_Salaam,FALSE,1834982937
+Ukando,Ukando,,-5.1500,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,177.8,,,4,Africa/Dar_es_Salaam,FALSE,1834222114
+Ihale,Ihale,Ihalo,-2.6000,33.5167,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,127.9,,,4,Africa/Dar_es_Salaam,FALSE,1834568304
+Ipaya,Ipaya,,-10.7667,35.6167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,43.6,,,4,Africa/Dar_es_Salaam,FALSE,1834863553
+Mguli,Mguli,,-5.4333,39.7167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,868.4,,,3,Africa/Dar_es_Salaam,FALSE,1834429943
+Mishepo,Mishepo,Mushepo|Mshepo,-3.6833,33.2167,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,119.9,,,4,Africa/Dar_es_Salaam,FALSE,1834838172
+Shindoni,Shindoni,,-5.8833,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1428.2,,,3,Africa/Dar_es_Salaam,FALSE,1834600646
+Chikulwe,Chikulwe,,-8.1500,32.4667,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,0.0,,,5,Africa/Dar_es_Salaam,FALSE,1834979414
+Pwaga,Pwaga,,-6.6980,36.6000,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,48.9,,,4,Africa/Dar_es_Salaam,FALSE,1834065146
+Kayenzi,Kayenzi,,-2.3833,33.0833,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,296.2,,,3,Africa/Dar_es_Salaam,FALSE,1834486182
+Kikoboga,Kikoboga,,-7.3405,37.1691,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,16.4,,,4,Africa/Dar_es_Salaam,FALSE,1834620072
+Maungani,Maungani,,-6.2333,39.2500,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,793.3,,,3,Africa/Dar_es_Salaam,FALSE,1834099252
+Towatowa,Towatowa,,-10.7333,35.4000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,41.0,,,4,Africa/Dar_es_Salaam,FALSE,1834495679
+Kwemashai,Kwemashai,,-4.8000,38.3333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,430.9,,,3,Africa/Dar_es_Salaam,FALSE,1834797118
+Kisauni,Kisauni,,-6.2167,39.2333,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,2704.0,,,2,Africa/Dar_es_Salaam,FALSE,1834284158
+Tamota,Tamota,,-5.0667,38.3833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,242.2,,,3,Africa/Dar_es_Salaam,FALSE,1834220873
+Tamota,Tamota,,-5.5833,37.5500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,66.1,,,4,Africa/Dar_es_Salaam,TRUE,1834135033
+Kitwea,Kitwea,,-5.3500,39.8000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,294.9,,,3,Africa/Dar_es_Salaam,FALSE,1834083435
+Bi Moja,Bi Moja,,-6.1000,39.3500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.0,,,4,Africa/Dar_es_Salaam,FALSE,1834202629
+Kumubuga,Kumubuga,Keza,-2.7953,30.7258,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,54.8,,,4,Africa/Dar_es_Salaam,FALSE,1834729239
+Zira,Zira,,-8.6833,33.2333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,41.0,,,4,Africa/Dar_es_Salaam,FALSE,1834014862
+Kasanda,Kasanda,,-3.3833,30.8667,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,79.6,,,4,Africa/Dar_es_Salaam,FALSE,1834335934
+Kasanda,Kasanda,,-3.7875,30.6606,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,3.3,,,5,Africa/Dar_es_Salaam,TRUE,1834018779
+Sonjo,Sonjo,,-1.2730,33.8840,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,291.7,,,3,Africa/Dar_es_Salaam,FALSE,1834083052
+Peramiho,Peramiho,,-10.6500,35.4500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,235.5,,,3,Africa/Dar_es_Salaam,FALSE,1834443161
+Sonjo,Sonjo,Sanje,-7.7920,36.9152,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,125.9,,,4,Africa/Dar_es_Salaam,FALSE,1834901546
+Hangula,Hangula,,-7.0297,37.6301,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,129.1,,,4,Africa/Dar_es_Salaam,FALSE,1834721342
+Chavuna,Chavuna,,-5.4000,32.2000,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,20.1,,,4,Africa/Dar_es_Salaam,FALSE,1834460782
+Masukulu,Masukulu,,-9.4000,33.7500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,133.1,,,4,Africa/Dar_es_Salaam,FALSE,1834869309
+Runere,Runere,,-3.1000,33.2667,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,101.5,,,4,Africa/Dar_es_Salaam,FALSE,1834634902
+Singino,Singino,,-8.7872,39.4029,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,51.7,,,4,Africa/Dar_es_Salaam,FALSE,1834727483
+Likonga,Likonga,,-9.8167,39.7333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,15.9,,,4,Africa/Dar_es_Salaam,FALSE,1834883269
+Chomachankola,Chomachankola,,-4.0333,33.3500,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,109.8,,,4,Africa/Dar_es_Salaam,FALSE,1834433319
+Nyanhwale,Nyanhwale,,-3.0500,32.6000,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,165.8,,,4,Africa/Dar_es_Salaam,FALSE,1834212778
+Babaiyo,Babaiyo,Babayu|Babayo,-5.6333,35.7000,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,42.8,,,4,Africa/Dar_es_Salaam,FALSE,1834497290
+Gagaganga,Gagaganga,,-8.7833,35.8333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,86.8,,,4,Africa/Dar_es_Salaam,FALSE,1834353321
+Ihoanza,Ihoanza,Ihowanza,-8.5667,34.7500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,40.2,,,4,Africa/Dar_es_Salaam,FALSE,1834336080
+Tungamaa,Tungamaa,,-5.0667,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,364.4,,,3,Africa/Dar_es_Salaam,FALSE,1834746808
+Isonga,Isonga,,-6.4460,30.1445,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,50.7,,,4,Africa/Dar_es_Salaam,FALSE,1834009220
+Fuoni Kilimani,Fuoni Kilimani,,-6.1833,39.2333,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,18988.3,,,2,Africa/Dar_es_Salaam,FALSE,1834593974
+Nkese,Nkese,,-4.8500,38.3000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,394.4,,,3,Africa/Dar_es_Salaam,FALSE,1834257370
+Katande,Katande,,-8.4000,31.5667,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,78.3,,,4,Africa/Dar_es_Salaam,FALSE,1834667466
+Kilimni,Kilimni,,-5.2667,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,591.3,,,3,Africa/Dar_es_Salaam,FALSE,1834115371
+Kilimni,Kilimni,,-5.3667,39.6833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,186.6,,,4,Africa/Dar_es_Salaam,TRUE,1834189437
+Lekuruki,Lekuruki,,-3.2500,36.9667,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,253.1,,,3,Africa/Dar_es_Salaam,FALSE,1834023462
+Ochuna,Ochuna,,-1.4000,34.1333,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,120.5,,,4,Africa/Dar_es_Salaam,FALSE,1834358547
+Mbogwe,Mbogwe,,-3.3667,32.2667,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,116.8,,,4,Africa/Dar_es_Salaam,FALSE,1834966628
+Makojo,Makojo,,-1.8841,33.3822,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,376.7,,,3,Africa/Dar_es_Salaam,FALSE,1834226761
+Chasasa,Chasasa,,-10.4167,34.8000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,13.1,,,4,Africa/Dar_es_Salaam,FALSE,1834465139
+Kanyani,Kanyani,,-4.6564,30.1208,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,150.8,,,4,Africa/Dar_es_Salaam,FALSE,1834190837
+Kitumbo,Kitumbo,,-6.4500,39.5167,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.5,,,4,Africa/Dar_es_Salaam,FALSE,1834032293
+Igongo,Igongo,,-6.2333,35.1833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,65.3,,,4,Africa/Dar_es_Salaam,FALSE,1834225460
+Jambaji,Jambaji,,-5.0833,39.7000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,287.2,,,3,Africa/Dar_es_Salaam,FALSE,1834233504
+Ngeme,Ngeme,,-3.7000,33.9000,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,64.7,,,4,Africa/Dar_es_Salaam,FALSE,1834629752
+Limbani,Limbani,,-5.0667,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,3446.7,,,2,Africa/Dar_es_Salaam,FALSE,1834675876
+Makuluge,Makuluge,Makuluga,-7.7333,34.9500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,1.3,,,5,Africa/Dar_es_Salaam,FALSE,1834445529
+Ndembe,Ndembe,,-10.3500,34.9500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,13.0,,,4,Africa/Dar_es_Salaam,FALSE,1834297656
+Mwakidila,Mwakidila,,-5.1167,39.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,629.7,,,3,Africa/Dar_es_Salaam,FALSE,1834727194
+Churuku,Churuku,,-5.0167,36.1000,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,87.9,,,4,Africa/Dar_es_Salaam,FALSE,1834648496
+Riroda,Riroda,,-4.3000,35.6500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,209.4,,,3,Africa/Dar_es_Salaam,FALSE,1834253239
+Idifu,Idifu,,-6.4333,35.9833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,73.0,,,4,Africa/Dar_es_Salaam,FALSE,1834219708
+Nahama,Nahama,,-10.6000,39.1333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,42.6,,,4,Africa/Dar_es_Salaam,FALSE,1834592311
+Kului,Kului,,-7.0776,38.7558,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,19.2,,,4,Africa/Dar_es_Salaam,FALSE,1834567596
+Imalinyi,Imalinyi,,-9.1833,34.6333,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,51.5,,,4,Africa/Dar_es_Salaam,FALSE,1834378868
+Chibwi,Chibwi,,-6.3000,36.1500,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,103.9,,,4,Africa/Dar_es_Salaam,FALSE,1834599838
+Kibajanga,Kibajanga,,-6.1667,39.3667,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,198.0,,,4,Africa/Dar_es_Salaam,FALSE,1834929491
+Kiangani,Kiangani,,-6.0667,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1405.0,,,3,Africa/Dar_es_Salaam,FALSE,1834708693
+Ugwana,Ugwana,,-4.8333,33.7667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,34.0,,,4,Africa/Dar_es_Salaam,FALSE,1834592178
+Sawida,Sawida,,-2.8667,33.7000,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,181.8,,,4,Africa/Dar_es_Salaam,FALSE,1834179224
+Marendele,Marendele,,-7.1362,37.7650,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,102.7,,,4,Africa/Dar_es_Salaam,FALSE,1834233935
+Fukayosi,Fukayosi,Fukuyosi,-6.4000,38.6667,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,23.4,,,4,Africa/Dar_es_Salaam,FALSE,1834803645
+Kilulu,Kilulu,,-5.2500,39.7333,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834584229
+Kikaru,Kikaru,,-1.7167,33.6833,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,242.9,,,3,Africa/Dar_es_Salaam,FALSE,1834923021
+Urunda,Urunda,,-8.6500,34.3000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,83.6,,,4,Africa/Dar_es_Salaam,FALSE,1834976707
+Lubumba,Lubumba,,-3.9833,31.1333,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,3.3,,,5,Africa/Dar_es_Salaam,FALSE,1834137725
+Mindu Tulieni,Mindu Tulieni,,-6.4333,38.3333,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,56.8,,,4,Africa/Dar_es_Salaam,FALSE,1834523229
+Putire,Putire,,-10.6667,35.2667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,41.1,,,4,Africa/Dar_es_Salaam,FALSE,1834675088
+Nanyindwa,Nanyindwa,Nangindwa,-10.6333,38.7000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,67.9,,,4,Africa/Dar_es_Salaam,FALSE,1834236591
+Manani,Manani,,-8.1667,36.9500,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,2.7,,,5,Africa/Dar_es_Salaam,FALSE,1834423003
+Tongoani,Tongoani,,-5.0167,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,609.8,,,3,Africa/Dar_es_Salaam,FALSE,1834048348
+Irondo,Irondo,Iranda|Ipera,-7.1330,36.5057,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,36.4,,,4,Africa/Dar_es_Salaam,FALSE,1834282696
+Njinjo,Njinjo,,-8.8000,38.9000,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,21.2,,,4,Africa/Dar_es_Salaam,FALSE,1834785882
+Mao,Mao,,-8.1333,31.4333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,51.3,,,4,Africa/Dar_es_Salaam,FALSE,1834570908
+Halembe,Halembe,,-5.6833,29.9000,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,32.0,,,4,Africa/Dar_es_Salaam,FALSE,1834699523
+Busumi,Busumi,,-1.7000,33.5833,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,401.9,,,3,Africa/Dar_es_Salaam,FALSE,1834736148
+Nyarabanda,Nyarabanda,,-4.5667,29.7500,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,242.2,,,3,Africa/Dar_es_Salaam,FALSE,1834947999
+Tongwe,Tongwe,,-5.1167,38.7167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,192.5,,,4,Africa/Dar_es_Salaam,FALSE,1834839479
+Tongwe,Tongwe,,-5.5333,38.6500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,29.3,,,4,Africa/Dar_es_Salaam,TRUE,1834070381
+Sitani,Sitani,,-5.1333,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,481.0,,,3,Africa/Dar_es_Salaam,FALSE,1834223805
+Kirando,Kirando,,-7.4167,30.6000,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,65.6,,,4,Africa/Dar_es_Salaam,FALSE,1834483550
+Mbekenyera,Mbekenyera,,-10.0000,38.9833,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,108.1,,,4,Africa/Dar_es_Salaam,FALSE,1834827704
+Mpombasi,Mpombasi,,-8.0333,37.8167,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,1.5,,,5,Africa/Dar_es_Salaam,FALSE,1834571941
+Miguwa,Miguwa,,-4.2000,33.3000,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,72.4,,,4,Africa/Dar_es_Salaam,FALSE,1834245400
+Donya,Donya,,-4.2000,35.3500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,221.0,,,3,Africa/Dar_es_Salaam,FALSE,1834580445
+Mjengeni,Mjengeni,Mjengani,-4.9667,38.9833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,36.0,,,4,Africa/Dar_es_Salaam,FALSE,1834596637
+Chamgassa,Chamgassa,,-2.3000,33.7833,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,256.3,,,3,Africa/Dar_es_Salaam,FALSE,1834453629
+Kinyangiri,Kinyangiri,,-4.4500,34.6167,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,66.3,,,4,Africa/Dar_es_Salaam,FALSE,1834918211
+Kikongo,Kikongo,,-6.8000,38.7167,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,403.5,,,3,Africa/Dar_es_Salaam,FALSE,1834654510
+Nanjenga,Nanjenga,,-10.4667,39.3833,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,74.1,,,4,Africa/Dar_es_Salaam,FALSE,1834111612
+Tatwe,Tatwe,,-1.2000,34.2500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,143.6,,,4,Africa/Dar_es_Salaam,FALSE,1834546982
+Buitigu,Buitigu,Utigu,-4.3167,33.1667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,71.8,,,4,Africa/Dar_es_Salaam,FALSE,1834223094
+Nahupa,Nahupa,,-10.8667,38.5667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,82.9,,,4,Africa/Dar_es_Salaam,FALSE,1834209647
+Marambo,Marambo,,-10.2167,38.7500,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,83.5,,,4,Africa/Dar_es_Salaam,FALSE,1834914623
+Chihanga,Chihanga,,-5.9167,35.8333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,79.6,,,4,Africa/Dar_es_Salaam,FALSE,1834619958
+Marambo,Marambo,,-10.6833,38.8333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,113.7,,,4,Africa/Dar_es_Salaam,FALSE,1834953680
+Mnyambe,Mnyambe,,-10.6000,39.1500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,42.6,,,4,Africa/Dar_es_Salaam,FALSE,1834416443
+Kitumbi,Kitumbi,,-5.8333,37.6667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,45.4,,,4,Africa/Dar_es_Salaam,FALSE,1834719948
+Uzi,Uzi,,-6.3333,39.4000,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,334.0,,,3,Africa/Dar_es_Salaam,FALSE,1834913360
+Jiwe la Simba,Jiwe la Simba,Jiwe-la-Singa,-6.0000,34.0833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,60.5,,,4,Africa/Dar_es_Salaam,FALSE,1834500823
+Bisariye,Bisariye,Bisarive,-1.8500,34.0000,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,134.5,,,4,Africa/Dar_es_Salaam,FALSE,1834203113
+Katimbu,Katimbu,,-6.2863,29.7648,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,12.3,,,4,Africa/Dar_es_Salaam,FALSE,1834248438
+Matuuni,Matuuni,,-5.1000,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,157.1,,,4,Africa/Dar_es_Salaam,FALSE,1834700246
+Ndumbwe,Ndumbwe,,-10.7000,39.5333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,97.1,,,4,Africa/Dar_es_Salaam,FALSE,1834618629
+Ndumbwe,Ndumbwe,,-10.2333,39.9667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,86.9,,,4,Africa/Dar_es_Salaam,TRUE,1834555503
+Mwamagigisi,Mwamagigisi,,-2.3833,33.7500,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,172.7,,,4,Africa/Dar_es_Salaam,FALSE,1834190525
+Mkwajuni,Mkwajuni,,-5.3667,39.6833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,186.6,,,4,Africa/Dar_es_Salaam,FALSE,1834323408
+Panja,Panja,,-4.9500,35.0333,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,40.2,,,4,Africa/Dar_es_Salaam,FALSE,1834335836
+Kakoma,Kakoma,,-1.9000,31.4333,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,102.3,,,4,Africa/Dar_es_Salaam,FALSE,1834966776
+Lusahunga,Lusahunga,Lusahanga,-2.9097,31.2036,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,71.7,,,4,Africa/Dar_es_Salaam,FALSE,1834457017
+Igamba,Igamba,,-4.8333,31.5667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,34.8,,,4,Africa/Dar_es_Salaam,FALSE,1834237024
+Mgombasi,Mgombasi,,-10.2167,36.0667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,7.0,,,5,Africa/Dar_es_Salaam,FALSE,1834748293
+Nasulo,Nasulo,Masulo,-4.1500,37.8167,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,42.9,,,4,Africa/Dar_es_Salaam,FALSE,1834846479
+Kipampa,Kipampa,,-7.4667,33.7500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,3.0,,,5,Africa/Dar_es_Salaam,FALSE,1834612590
+Lukula,Lukula,,-11.3000,38.4500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,15.0,,,4,Africa/Dar_es_Salaam,FALSE,1834964539
+Nyanga,Nyanga,,-4.1897,30.1053,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,143.6,,,4,Africa/Dar_es_Salaam,FALSE,1834591113
+Nasabo,Nasabo,,-2.7833,33.9000,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,199.8,,,4,Africa/Dar_es_Salaam,FALSE,1834017163
+Kibanduni,Kibanduni,,-4.7833,39.0667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,25.2,,,4,Africa/Dar_es_Salaam,FALSE,1834089665
+Loya,Loya,,-4.9667,33.9167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,26.5,,,4,Africa/Dar_es_Salaam,FALSE,1834062114
+Mangaka,Mangaka,,-10.9333,38.4000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,113.2,,,4,Africa/Dar_es_Salaam,FALSE,1834548639
+Nkwera,Nkwera,,-1.4214,30.8450,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,206.0,,,3,Africa/Dar_es_Salaam,FALSE,1834406568
+Dima,Dima,,-4.9333,38.9000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,35.4,,,4,Africa/Dar_es_Salaam,FALSE,1834748530
+Handa,Handa,,-4.9333,35.3333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,18.4,,,4,Africa/Dar_es_Salaam,FALSE,1834297621
+Majoka,Majoka,,-5.1833,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,296.7,,,3,Africa/Dar_es_Salaam,FALSE,1834301624
+Finga,Finga,,-5.0000,39.7000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,152.7,,,4,Africa/Dar_es_Salaam,FALSE,1834646053
+Izinga,Izinga,Nsinga|Isinga,-8.0333,30.9000,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,26.5,,,4,Africa/Dar_es_Salaam,FALSE,1834061001
+Minazi Mikinda,Minazi Mikinda,,-6.2667,39.2500,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,535.5,,,3,Africa/Dar_es_Salaam,FALSE,1834414017
+Jamia,Jamia,,-5.4167,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,832.1,,,3,Africa/Dar_es_Salaam,FALSE,1834374766
+Kisimani Mafia,Kisimani Mafia,,-7.9457,39.5963,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,78.6,,,4,Africa/Dar_es_Salaam,FALSE,1834491459
+Kivomoni,Kivomoni,,-5.4000,39.6667,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,400.0,,,3,Africa/Dar_es_Salaam,FALSE,1834824379
+Boma la Ngombe,Boma la Ngombe,Boma ya Ngombe,-3.3333,37.1500,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,754.5,,,3,Africa/Dar_es_Salaam,FALSE,1834592659
+Kiungani,Kiungani,,-6.4500,39.5167,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.5,,,4,Africa/Dar_es_Salaam,FALSE,1834401860
+Luguruka,Luguruka,,-9.9833,36.6167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,2.0,,,5,Africa/Dar_es_Salaam,FALSE,1834336388
+Kiungani,Kiungani,,-6.3167,39.2833,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,279.9,,,3,Africa/Dar_es_Salaam,FALSE,1834675243
+Kigomasha,Kigomasha,,-5.2667,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,266.1,,,3,Africa/Dar_es_Salaam,FALSE,1834993087
+Tingatinga,Tingatinga,Tinga Tinga,-2.9833,36.9667,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,21.4,,,4,Africa/Dar_es_Salaam,FALSE,1834114163
+Mashewa,Mashewa,,-5.1500,38.6667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,106.8,,,4,Africa/Dar_es_Salaam,FALSE,1834885077
+Bangwe,Bangwe,,-2.3667,32.1667,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,291.8,,,3,Africa/Dar_es_Salaam,FALSE,1834666664
+Mutanga,Mutanga,,-8.1333,35.8167,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,47.6,,,4,Africa/Dar_es_Salaam,FALSE,1834213813
+Mandera,Mandera,,-5.0500,38.5333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,128.4,,,4,Africa/Dar_es_Salaam,FALSE,1834381917
+Mandera,Mandera,,-5.5000,38.1833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,83.5,,,4,Africa/Dar_es_Salaam,TRUE,1834563438
+Mandera,Mandera,Mandela,-5.1500,38.3667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,49.6,,,4,Africa/Dar_es_Salaam,TRUE,1834424381
+Mandera,Mandera,,-5.5667,37.9667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,32.1,,,4,Africa/Dar_es_Salaam,TRUE,1834273468
+Masoko,Masoko,Bujesi,-9.3333,33.7500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,207.7,,,3,Africa/Dar_es_Salaam,FALSE,1834257356
+Enaboishu,Enaboishu,,-3.3500,36.7000,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,2794.2,,,2,Africa/Dar_es_Salaam,FALSE,1834853499
+Mtamba,Mtamba,,-7.0795,37.7781,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,165.5,,,4,Africa/Dar_es_Salaam,FALSE,1834743553
+Mtamba,Mtamba,,-7.0551,38.9054,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,40.5,,,4,Africa/Dar_es_Salaam,FALSE,1834941717
+Wino,Wino,,-9.7833,35.3000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,18.6,,,4,Africa/Dar_es_Salaam,FALSE,1834525788
+Kunduchi,Kunduchi,Konduchi,-6.6667,39.2167,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,4069.3,,,2,Africa/Dar_es_Salaam,FALSE,1834463605
+Basodesh,Basodesh,,-4.3000,35.1333,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,74.7,,,4,Africa/Dar_es_Salaam,FALSE,1834897815
+Ipinda,Ipinda,Ipande,-9.4833,33.9000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,455.3,,,3,Africa/Dar_es_Salaam,FALSE,1834655506
+Kyamuraire,Kyamuraire,Kyamuizide,-1.4000,31.4000,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,149.2,,,4,Africa/Dar_es_Salaam,FALSE,1834560883
+Ngambu,Ngambu,,-4.9500,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,736.9,,,3,Africa/Dar_es_Salaam,FALSE,1834145288
+Paramba,Paramba,,-5.1167,38.8167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,229.6,,,3,Africa/Dar_es_Salaam,FALSE,1834775050
+Igala Rutale,Igala Rutale,,-2.0500,32.9500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,594.2,,,3,Africa/Dar_es_Salaam,FALSE,1834531475
+Seya,Seya,,-2.9500,33.7500,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,191.7,,,4,Africa/Dar_es_Salaam,FALSE,1834232360
+Luyangweni,Luyangweni,,-10.7000,35.3333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,41.1,,,4,Africa/Dar_es_Salaam,FALSE,1834257093
+Vikole,Vikole,,-6.6000,38.6000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,49.9,,,4,Africa/Dar_es_Salaam,FALSE,1834415390
+Mjimwema,Mjimwema,,-6.8500,39.3667,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,1874.2,,,3,Africa/Dar_es_Salaam,FALSE,1834821761
+Kuruego,Kuruego,,-2.0378,32.9747,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,573.6,,,3,Africa/Dar_es_Salaam,FALSE,1834468860
+Mitondoni,Mitondoni,,-5.1333,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,157.1,,,4,Africa/Dar_es_Salaam,FALSE,1834841399
+Phagali,Phagali,Pajari,-6.1000,39.3500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.0,,,4,Africa/Dar_es_Salaam,FALSE,1834294343
+Bulangamilwa,Bulangamilwa,,-4.1333,33.3667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,109.7,,,4,Africa/Dar_es_Salaam,FALSE,1834238916
+Kitobo,Kitobo,,-1.2167,31.6333,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,213.5,,,3,Africa/Dar_es_Salaam,FALSE,1834626405
+Lugaga,Lugaga,,-5.4167,38.2000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,83.5,,,4,Africa/Dar_es_Salaam,FALSE,1834546790
+Mbwamaji,Mbwamaji,Mboamaji,-6.8667,39.4167,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,299.0,,,3,Africa/Dar_es_Salaam,FALSE,1834959142
+Magali,Magali,,-4.8333,38.2500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,139.1,,,4,Africa/Dar_es_Salaam,FALSE,1834158586
+Nyamwage,Nyamwage,Namuage,-8.1333,39.0000,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,9.6,,,5,Africa/Dar_es_Salaam,FALSE,1834295525
+Mambsasa,Mambsasa,,-5.3667,39.6833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,186.6,,,4,Africa/Dar_es_Salaam,FALSE,1834076009
+Taandani,Taandani,,-5.2667,39.7000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834821901
+Gitala,Gitala,,-4.5381,30.6992,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,3.3,,,5,Africa/Dar_es_Salaam,FALSE,1834512980
+Irambo,Irambo,,-8.9500,33.6667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,112.5,,,4,Africa/Dar_es_Salaam,FALSE,1834083717
+Ngalita,Ngalita,,-2.4333,34.0167,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,82.9,,,4,Africa/Dar_es_Salaam,FALSE,1834171570
+Nahukanhuka,Nahukanhuka,Nahukahuka,-10.4000,39.5167,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,36.7,,,4,Africa/Dar_es_Salaam,FALSE,1834123191
+Magogoni,Magogoni,,-5.1667,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,296.7,,,3,Africa/Dar_es_Salaam,FALSE,1834523806
+Mgeta,Mgeta,,-7.0356,37.5653,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,172.0,,,4,Africa/Dar_es_Salaam,FALSE,1834953260
+Mgeta,Mgeta,,-8.3167,36.1333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,92.8,,,4,Africa/Dar_es_Salaam,TRUE,1834586345
+Nganda,Nganda,,-4.7000,31.8167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,49.1,,,4,Africa/Dar_es_Salaam,FALSE,1834226802
+Saja,Saja,,-8.6833,34.7667,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,43.4,,,4,Africa/Dar_es_Salaam,FALSE,1834482593
+Mwakubiringa,Mwakubiringa,,-3.0167,34.1500,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,143.8,,,4,Africa/Dar_es_Salaam,FALSE,1834283185
+Kangara,Kangara,,-2.6458,31.3214,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,691.5,,,3,Africa/Dar_es_Salaam,FALSE,1834266854
+Bwiru,Bwiru,,-2.0333,32.8500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,474.7,,,3,Africa/Dar_es_Salaam,FALSE,1834317454
+Kiziwamaji,Kiziwamaji,,-5.1833,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,455.9,,,3,Africa/Dar_es_Salaam,FALSE,1834709561
+Shengejuu,Shengejuu,,-5.0167,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,639.9,,,3,Africa/Dar_es_Salaam,FALSE,1834292664
+Mabibe,Mabibe,Mabibo,-6.8000,39.2167,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,13129.8,,,2,Africa/Dar_es_Salaam,FALSE,1834588751
+Kwahaga,Kwahaga,,-5.4000,38.1000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,86.3,,,4,Africa/Dar_es_Salaam,FALSE,1834129318
+Mkomero,Mkomero,,-4.3333,33.9167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,169.8,,,4,Africa/Dar_es_Salaam,FALSE,1834331533
+Mihembe,Mihembe,,-6.3833,35.5000,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,43.9,,,4,Africa/Dar_es_Salaam,FALSE,1834104436
+Kidumba,Kidumba,,-8.8765,39.2460,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,5.8,,,5,Africa/Dar_es_Salaam,FALSE,1834260669
+Machazo,Machazo,,-4.9000,29.7500,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,221.5,,,3,Africa/Dar_es_Salaam,FALSE,1834327585
+Shenejuu,Shenejuu,,-5.1333,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,607.6,,,3,Africa/Dar_es_Salaam,FALSE,1834269161
+Itara,Itara,,-1.1667,31.4333,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,171.4,,,4,Africa/Dar_es_Salaam,FALSE,1834441358
+Arusha Chini,Arusha Chini,,-3.5833,37.3333,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,90.5,,,4,Africa/Dar_es_Salaam,FALSE,1834589921
+Ngulu,Ngulu,,-3.7833,37.7333,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,38.7,,,4,Africa/Dar_es_Salaam,FALSE,1834193461
+Kilumbwa,Kilumbwa,,-7.3667,36.1500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,14.9,,,4,Africa/Dar_es_Salaam,FALSE,1834996812
+Kiperani,Kiperani,,-4.9500,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,736.9,,,3,Africa/Dar_es_Salaam,FALSE,1834109875
+Makonde,Makonde,Makondo,-9.9833,34.5000,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,46.1,,,4,Africa/Dar_es_Salaam,FALSE,1834081875
+Malangali,Malangali,,-8.5667,34.8500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,46.6,,,4,Africa/Dar_es_Salaam,FALSE,1834382516
+Oldinka Legeru,Oldinka Legeru,,-2.6382,36.5614,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,16.6,,,4,Africa/Dar_es_Salaam,FALSE,1834241631
+Bungu,Bungu,,-7.2000,37.7833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,201.9,,,3,Africa/Dar_es_Salaam,FALSE,1834393673
+Mbuzini,Mbuzini,,-5.2000,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,732.5,,,3,Africa/Dar_es_Salaam,FALSE,1834748621
+Mwamashele,Mwamashele,,-3.7333,33.8333,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,58.9,,,4,Africa/Dar_es_Salaam,FALSE,1834745706
+Uzinga,Uzinga,Uzinza,-2.5167,32.7167,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,396.3,,,3,Africa/Dar_es_Salaam,FALSE,1834109101
+Uwondwe,Uwondwe,Wondwe,-5.0833,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,287.2,,,3,Africa/Dar_es_Salaam,FALSE,1834552929
+Ufinga,Ufinga,,-5.0833,38.7167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,224.1,,,3,Africa/Dar_es_Salaam,FALSE,1834067337
+Chamolutse,Chamolutse,,-7.0662,36.3315,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,44.8,,,4,Africa/Dar_es_Salaam,FALSE,1834513829
+Mlasi,Mlasi,,-10.7667,38.7500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,176.7,,,4,Africa/Dar_es_Salaam,FALSE,1834639613
+Utuya,Utuya,,-8.4167,34.1667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,2.9,,,5,Africa/Dar_es_Salaam,FALSE,1834452167
+Mkujaa,Mkujaa,,-5.9167,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,761.0,,,3,Africa/Dar_es_Salaam,FALSE,1834015539
+Mvumoni,Mvumoni,,-5.2667,39.8167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,298.8,,,3,Africa/Dar_es_Salaam,FALSE,1834095570
+Kizimbani,Kizimbani,,-9.0627,39.3182,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,8.8,,,5,Africa/Dar_es_Salaam,FALSE,1834978656
+Kabuga,Kabuga,,-4.1081,30.4667,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,24.7,,,4,Africa/Dar_es_Salaam,FALSE,1834001469
+Kabuga,Kabuga,,-4.7953,30.9364,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,3.3,,,5,Africa/Dar_es_Salaam,TRUE,1834899601
+Kizimbani,Kizimbani,Kisimbani,-6.0833,39.2667,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,541.9,,,3,Africa/Dar_es_Salaam,FALSE,1834487951
+Nyambitilwa,Nyambitilwa,,-2.0000,33.9167,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,170.5,,,4,Africa/Dar_es_Salaam,FALSE,1834850031
+Nkaya,Nkaya,,-10.5500,34.5833,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,64.1,,,4,Africa/Dar_es_Salaam,FALSE,1834379368
+Masekaroda,Masekaroda,Masagaloda|Masakaloda,-4.3667,35.5500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,133.4,,,4,Africa/Dar_es_Salaam,FALSE,1834047400
+Mkomani,Mkomani,,-5.4167,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,832.1,,,3,Africa/Dar_es_Salaam,FALSE,1834314261
+Muwali,Muwali,,-5.9667,34.5167,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,13.7,,,4,Africa/Dar_es_Salaam,FALSE,1834858623
+Sonji,Sonji,,-8.2667,31.7333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,93.7,,,4,Africa/Dar_es_Salaam,FALSE,1834636796
+Kingalamila,Kingalamila,,-7.2325,37.6553,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,41.8,,,4,Africa/Dar_es_Salaam,FALSE,1834663933
+Kakuni,Kakuni,,-7.1167,31.2000,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,87.1,,,4,Africa/Dar_es_Salaam,FALSE,1834126135
+Kakuni,Kakuni,,-5.2500,32.3333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,20.9,,,4,Africa/Dar_es_Salaam,FALSE,1834621563
+Mitengi,Mitengi,,-10.0000,39.6500,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,83.6,,,4,Africa/Dar_es_Salaam,FALSE,1834783140
+Kyela,Kyela,,-9.5833,33.8500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,2277.9,,,2,Africa/Dar_es_Salaam,FALSE,1834882355
+Chamkoroma,Chamkoroma,Chamkolomo,-6.3333,36.6667,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,104.8,,,4,Africa/Dar_es_Salaam,FALSE,1834231684
+Ulomba,Ulomba,Ulonba,-8.6833,34.2000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,10.1,,,4,Africa/Dar_es_Salaam,FALSE,1834640911
+Mahenge,Mahenge,Mahange,-8.6833,36.7167,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,68.9,,,3,Africa/Dar_es_Salaam,FALSE,1834071500
+Kipula,Kipula,,-6.5833,34.8667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,5.7,,,5,Africa/Dar_es_Salaam,FALSE,1834766456
+Nanyumbu,Nanyumbu,,-11.1333,38.5000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,21.4,,,4,Africa/Dar_es_Salaam,FALSE,1834744408
+Kovkovu,Kovkovu,,-5.4000,38.9167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,34.4,,,4,Africa/Dar_es_Salaam,FALSE,1834002710
+Chiulu,Chiulu,,-11.3333,34.8500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,146.9,,,4,Africa/Dar_es_Salaam,FALSE,1834761563
+Mwanangwa,Mwanangwa,,-2.8333,33.1333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,326.6,,,3,Africa/Dar_es_Salaam,FALSE,1834023890
+Ihale,Ihale,,-2.4333,32.9333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,641.8,,,3,Africa/Dar_es_Salaam,FALSE,1834942512
+Mlembule,Mlembule,,-5.8333,37.8667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,37.3,,,4,Africa/Dar_es_Salaam,FALSE,1834841445
+Nyakiziba,Nyakiziba,,-2.4003,30.7528,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,149.9,,,4,Africa/Dar_es_Salaam,FALSE,1834798622
+Maganga,Maganga,,-8.2000,35.6500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,30.5,,,4,Africa/Dar_es_Salaam,FALSE,1834335906
+Pamkoti,Pamkoti,,-4.9000,39.0333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,14.5,,,4,Africa/Dar_es_Salaam,FALSE,1834202377
+Maganga,Maganga,,-6.5500,35.3667,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,18.0,,,4,Africa/Dar_es_Salaam,FALSE,1834712456
+Nyakatolyo,Nyakatolyo,,-2.2017,31.2781,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,15.9,,,4,Africa/Dar_es_Salaam,FALSE,1834933447
+Tunguli,Tunguli,,-5.9167,37.3167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,72.3,,,4,Africa/Dar_es_Salaam,FALSE,1834210644
+Imagi,Imagi,,-7.5949,36.1292,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,56.1,,,4,Africa/Dar_es_Salaam,FALSE,1834463786
+Mtoni,Mtoni,,-6.8667,39.2667,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,35793.4,,,2,Africa/Dar_es_Salaam,FALSE,1834711479
+Nyarugamba,Nyarugamba,,-1.8667,31.1333,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,37.4,,,4,Africa/Dar_es_Salaam,FALSE,1834616688
+Takasangwa,Takasangwa,,-7.8333,31.8333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,101.4,,,4,Africa/Dar_es_Salaam,FALSE,1834481732
+Nyakatuba,Nyakatuba,,-2.1064,33.4259,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,234.6,,,3,Africa/Dar_es_Salaam,FALSE,1834336862
+Nghaya,Nghaya,Ngihiyia|Nhaya,-2.6500,33.5500,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,127.9,,,4,Africa/Dar_es_Salaam,FALSE,1834207963
+Manyara,Manyara,,-3.6000,35.9333,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,43.7,,,4,Africa/Dar_es_Salaam,FALSE,1834019908
+Mpatora,Mpatora,,-8.9500,38.5667,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,2.0,,,5,Africa/Dar_es_Salaam,FALSE,1834833308
+Chole Samvula,Chole Samvula,Chole,-7.3430,38.6720,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,9.9,,,5,Africa/Dar_es_Salaam,FALSE,1834835413
+Mfenesini Mdogo,Mfenesini Mdogo,,-6.0500,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,788.8,,,3,Africa/Dar_es_Salaam,FALSE,1834364787
+Mgeukeni,Mgeukeni,,-6.0333,39.3333,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,169.2,,,4,Africa/Dar_es_Salaam,FALSE,1834445726
+Mutala,Mutala,,-2.7000,30.9833,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,20.8,,,4,Africa/Dar_es_Salaam,FALSE,1834983851
+Ilulu,Ilulu,,-9.4833,33.2167,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,182.2,,,4,Africa/Dar_es_Salaam,FALSE,1834025733
+Kambi ya Nzige,Kambi ya Nzige,,-3.3800,35.4678,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,58.4,,,4,Africa/Dar_es_Salaam,FALSE,1834800482
+Buyungu,Buyungu,,-3.2833,31.0000,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,86.3,,,4,Africa/Dar_es_Salaam,FALSE,1834738092
+Masasa,Masasa,Kweasasa,-4.9500,38.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,14.1,,,4,Africa/Dar_es_Salaam,FALSE,1834264850
+Ngulabi,Ngulabi,,-6.4333,35.7833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,111.7,,,4,Africa/Dar_es_Salaam,FALSE,1834602471
+Mkuku,Mkuku,,-6.0333,39.3167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,169.1,,,4,Africa/Dar_es_Salaam,FALSE,1834896333
+Azala,Azala,,-6.1167,39.2833,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,541.8,,,3,Africa/Dar_es_Salaam,FALSE,1834081818
+Luika,Luika,Luka,-8.3500,32.9333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,15.4,,,4,Africa/Dar_es_Salaam,FALSE,1834993375
+Kazunzu,Kazunzu,,-2.3333,32.3333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,252.6,,,3,Africa/Dar_es_Salaam,FALSE,1834881854
+Bulunde,Bulunde,,-4.3000,32.9667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,99.7,,,4,Africa/Dar_es_Salaam,FALSE,1834218506
+Kwakoa,Kwakoa,,-3.7667,37.7167,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,38.7,,,4,Africa/Dar_es_Salaam,FALSE,1834968542
+Wawi,Wawi,,-5.2500,39.8000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,716.0,,,3,Africa/Dar_es_Salaam,FALSE,1834009159
+Birise,Birise,,-5.4167,35.1833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,18.7,,,4,Africa/Dar_es_Salaam,FALSE,1834879333
+Ngagu,Ngagu,,-5.1833,39.6500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,327.7,,,3,Africa/Dar_es_Salaam,FALSE,1834389741
+Ushirombo,Ushirombo,,-3.4708,31.9000,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,97.1,,,3,Africa/Dar_es_Salaam,FALSE,1834569441
+Engare Nairobi,Engare Nairobi,,-3.0500,37.0000,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,24.3,,,4,Africa/Dar_es_Salaam,FALSE,1834268338
+Chimala,Chimala,,-8.8500,34.0167,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,321.9,,,3,Africa/Dar_es_Salaam,FALSE,1834250490
+Matekwe,Matekwe,,-10.6333,38.1167,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,6.9,,,5,Africa/Dar_es_Salaam,FALSE,1834782306
+Ikasi,Ikasi,Ikassi,-6.2667,35.2000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,61.7,,,4,Africa/Dar_es_Salaam,FALSE,1834105836
+Kivingo,Kivingo,,-4.4167,38.4500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,6.6,,,5,Africa/Dar_es_Salaam,FALSE,1834917757
+Hakachindo,Hakachindo,,-2.6833,32.4833,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,118.1,,,4,Africa/Dar_es_Salaam,FALSE,1834935253
+Bungulwa,Bungulwa,,-3.2833,32.8333,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,141.9,,,4,Africa/Dar_es_Salaam,FALSE,1834487114
+Ikolo,Ikolo,,-9.6500,33.9000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,387.0,,,3,Africa/Dar_es_Salaam,FALSE,1834801714
+Masama,Masama,,-3.2333,37.1833,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,396.7,,,3,Africa/Dar_es_Salaam,FALSE,1834030191
+Ngalui,Ngalui,,-5.0167,38.3500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,348.4,,,3,Africa/Dar_es_Salaam,FALSE,1834181501
+Bukondo,Bukondo,,-2.1167,33.0333,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,690.4,,,3,Africa/Dar_es_Salaam,FALSE,1834004643
+Kidabu,Kidabu,,-2.8833,33.5167,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,139.2,,,4,Africa/Dar_es_Salaam,FALSE,1834336698
+Piki,Piki,,-5.1167,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,157.1,,,4,Africa/Dar_es_Salaam,FALSE,1834240196
+Baoni,Baoni,,-5.1167,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,FALSE,1834769339
+Kinyasini,Kinyasini,,-4.9667,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,357.7,,,3,Africa/Dar_es_Salaam,FALSE,1834177340
+Kinyasini,Kinyasini,,-5.1167,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,132.1,,,4,Africa/Dar_es_Salaam,TRUE,1834178975
+Kinyasini,Kinyasini,,-5.7333,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1573.2,,,3,Africa/Dar_es_Salaam,FALSE,1834533255
+Kinyasini,Kinyasini,,-5.9667,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,664.6,,,3,Africa/Dar_es_Salaam,TRUE,1834872871
+Itimbia,Itimbia,,-3.3667,32.1667,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,122.4,,,4,Africa/Dar_es_Salaam,FALSE,1834023136
+Kinduni,Kinduni,,-5.9833,39.2667,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,367.8,,,3,Africa/Dar_es_Salaam,FALSE,1834589114
+Vungwa,Vungwa,,-8.3167,33.5000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,27.7,,,4,Africa/Dar_es_Salaam,FALSE,1834158959
+Ngombi,Ngombi,,-8.8333,36.8000,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,1.7,,,5,Africa/Dar_es_Salaam,FALSE,1834257392
+Lusonje,Lusonje,,-10.7833,39.1000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,109.1,,,4,Africa/Dar_es_Salaam,FALSE,1834032155
+Kinyamsindo,Kinyamsindo,,-5.1667,35.2167,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,23.2,,,4,Africa/Dar_es_Salaam,FALSE,1834194220
+Mpipiti,Mpipiti,,-5.1500,34.5833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,42.0,,,4,Africa/Dar_es_Salaam,FALSE,1834188763
+Kilole,Kilole,,-4.6000,38.3333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,406.5,,,3,Africa/Dar_es_Salaam,FALSE,1834638254
+Kilole,Kilole,,-5.1333,38.7167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,194.9,,,4,Africa/Dar_es_Salaam,TRUE,1834932831
+Kilole,Kilole,,-4.9500,39.0667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,64.2,,,4,Africa/Dar_es_Salaam,TRUE,1834578012
+Mrora,Mrora,,-7.8830,39.8248,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,98.3,,,4,Africa/Dar_es_Salaam,FALSE,1834611271
+Kwaba,Kwaba,,-7.0000,38.2833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,14.3,,,4,Africa/Dar_es_Salaam,FALSE,1834713605
+Kibigija,Kibigija,,-6.3000,39.5333,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,127.5,,,4,Africa/Dar_es_Salaam,FALSE,1834326108
+Nyanza,Nyanza,,-3.0414,31.1661,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,68.0,,,4,Africa/Dar_es_Salaam,FALSE,1834215802
+Mtangani,Mtangani,,-5.3667,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,252.9,,,3,Africa/Dar_es_Salaam,FALSE,1834007767
+Kidau,Kidau,Kidoo,-10.7333,38.6667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,134.8,,,4,Africa/Dar_es_Salaam,FALSE,1834592019
+Mahando,Mahando,,-3.2333,32.8333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,143.8,,,4,Africa/Dar_es_Salaam,FALSE,1834965469
+Daudi,Daudi,,-3.7667,35.5500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,209.5,,,3,Africa/Dar_es_Salaam,FALSE,1834050462
+Lutimba,Lutimba,,-10.4333,35.1333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,14.0,,,4,Africa/Dar_es_Salaam,FALSE,1834126189
+Nyaka Kangaga,Nyaka Kangaga,,-4.1558,30.4894,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,24.7,,,4,Africa/Dar_es_Salaam,FALSE,1834590694
+Mabondeni,Mabondeni,,-5.7500,34.6667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,24.5,,,4,Africa/Dar_es_Salaam,FALSE,1834567189
+Chapaka,Chapaka,,-5.1000,39.7000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,287.2,,,3,Africa/Dar_es_Salaam,FALSE,1834612938
+Mitengwi,Mitengwi,,-6.5667,38.6500,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,49.9,,,4,Africa/Dar_es_Salaam,FALSE,1834461338
+Ihembe II,Ihembe II,,-1.7064,31.1558,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,105.4,,,4,Africa/Dar_es_Salaam,FALSE,1834719548
+Mshashani,Mshashani,,-4.9500,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,1099.0,,,3,Africa/Dar_es_Salaam,FALSE,1834988027
+Karundo,Karundo,,-4.3797,29.9014,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,257.1,,,3,Africa/Dar_es_Salaam,FALSE,1834863792
+Mzasa,Mzasa,,-7.1811,38.7899,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,58.1,,,4,Africa/Dar_es_Salaam,FALSE,1834680124
+Bet-el-Mali,Bet-el-Mali,,-6.0667,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1405.0,,,3,Africa/Dar_es_Salaam,FALSE,1834333197
+Misufini,Misufini,,-5.9000,39.2667,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,203.9,,,3,Africa/Dar_es_Salaam,FALSE,1834894852
+Michenzani,Michenzani,,-5.0667,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,204.7,,,3,Africa/Dar_es_Salaam,FALSE,1834597122
+Chihunungu,Chihunungu,,-5.8667,36.2833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,32.2,,,4,Africa/Dar_es_Salaam,FALSE,1834772738
+Njirii,Njirii,,-5.6500,34.7000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,24.5,,,4,Africa/Dar_es_Salaam,FALSE,1834141061
+Ubada,Ubada,,-5.1167,33.4000,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,27.0,,,4,Africa/Dar_es_Salaam,FALSE,1834116037
+Mkoma,Mkoma,,-10.8000,39.2500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,94.9,,,4,Africa/Dar_es_Salaam,FALSE,1834659397
+Mkoma,Mkoma,,-10.4500,39.2500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,60.7,,,4,Africa/Dar_es_Salaam,TRUE,1834496310
+Mkoma,Mkoma,,-8.5833,33.0500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,182.7,,,4,Africa/Dar_es_Salaam,FALSE,1834965528
+Huzi,Huzi,,-6.7000,35.3667,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,18.0,,,4,Africa/Dar_es_Salaam,FALSE,1834047044
+Ngoulanga,Ngoulanga,Ngoularga|Ngoheranga,-9.0333,36.0167,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,24.6,,,4,Africa/Dar_es_Salaam,FALSE,1834292057
+Kigeruka,Kigeruka,,-2.5833,31.0000,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,20.8,,,4,Africa/Dar_es_Salaam,FALSE,1834920350
+Chamganga,Chamganga,,-7.0337,36.3499,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,44.8,,,4,Africa/Dar_es_Salaam,FALSE,1834681381
+Mwiwi,Mwiwi,,-9.9000,39.6167,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,27.0,,,4,Africa/Dar_es_Salaam,FALSE,1834929290
+Uvinje,Uvinje,,-5.1167,39.6333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,131.5,,,4,Africa/Dar_es_Salaam,FALSE,1834295369
+Molongo,Molongo,,-5.0900,31.0903,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,27.8,,,4,Africa/Dar_es_Salaam,FALSE,1834699117
+Msalalo,Msalalo,,-5.9333,34.3500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,6.5,,,5,Africa/Dar_es_Salaam,FALSE,1834712609
+Tarawanda,Tarawanda,Larawanda,-6.4833,38.4667,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,32.8,,,4,Africa/Dar_es_Salaam,FALSE,1834932696
+Kolumbiri,Kolumbiri,,-5.3167,36.0833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,51.3,,,4,Africa/Dar_es_Salaam,FALSE,1834858336
+Mbelekese,Mbelekese,,-4.6333,34.3667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,47.6,,,4,Africa/Dar_es_Salaam,FALSE,1834062476
+Banda Baya,Banda Baya,,-6.3667,39.4667,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,82.1,,,4,Africa/Dar_es_Salaam,FALSE,1834666592
+Lumesule,Lumesule,,-10.9167,38.0333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,23.5,,,4,Africa/Dar_es_Salaam,FALSE,1834903747
+Mihungu,Mihungu,,-9.2167,38.0000,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,0.2,,,5,Africa/Dar_es_Salaam,FALSE,1834155723
+Makuyuni,Makuyuni,,-3.5500,36.1000,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,38.4,,,4,Africa/Dar_es_Salaam,FALSE,1834560649
+Liwuka,Liwuka,,-9.7833,36.6500,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,2.0,,,5,Africa/Dar_es_Salaam,FALSE,1834744023
+Sazima,Sazima,,-7.1165,37.5253,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,49.5,,,4,Africa/Dar_es_Salaam,FALSE,1834784977
+Salims,Salims,Jumbe-Salim’s,-10.5833,36.5000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,4.9,,,5,Africa/Dar_es_Salaam,FALSE,1834811480
+Mfumo,Mfumo,,-4.9833,30.9833,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,80.2,,,4,Africa/Dar_es_Salaam,FALSE,1834050380
+Chilonwa,Chilonwa,,-6.0333,36.1333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,81.6,,,4,Africa/Dar_es_Salaam,FALSE,1834863119
+Msalabani,Msalabani,,-5.2500,39.7333,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834800624
+Ndedo,Ndedo,,-4.8333,36.7500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,3.0,,,5,Africa/Dar_es_Salaam,FALSE,1834316709
+Kibindu,Kibindu,,-5.9333,37.8833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,19.3,,,4,Africa/Dar_es_Salaam,FALSE,1834926517
+Mtimbwani,Mtimbwani,Mtumbwani,-4.9667,39.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,88.9,,,4,Africa/Dar_es_Salaam,FALSE,1834637957
+Ndala,Ndala,,-4.7667,33.2667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,109.1,,,4,Africa/Dar_es_Salaam,FALSE,1834303018
+Kaerue,Kaerue,,-4.9333,38.9333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,36.0,,,4,Africa/Dar_es_Salaam,FALSE,1834141752
+Muzi,Muzi,Muze,-8.4333,31.1500,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,93.3,,,4,Africa/Dar_es_Salaam,FALSE,1834408400
+Msangamkuu,Msangamkuu,Sangamkuu,-10.2167,40.2333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,173.1,,,4,Africa/Dar_es_Salaam,FALSE,1834843066
+Guta,Guta,,-2.0833,33.7167,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,81.1,,,4,Africa/Dar_es_Salaam,FALSE,1834134982
+Silongwe,Silongwe,,-5.7500,31.1500,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,6.7,,,5,Africa/Dar_es_Salaam,FALSE,1834812341
+Kiwangwa,Kiwangwa,,-6.3667,38.5833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,53.1,,,4,Africa/Dar_es_Salaam,FALSE,1834747265
+Buramba,Buramba,Buramba Nyakasayenge,-2.0667,33.0500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,472.0,,,3,Africa/Dar_es_Salaam,FALSE,1834818502
+Jojo,Jojo,,-5.3000,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,410.1,,,3,Africa/Dar_es_Salaam,FALSE,1834475572
+Kasungamile,Kasungamile,,-2.5833,32.7333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,185.8,,,4,Africa/Dar_es_Salaam,FALSE,1834870778
+Chakano,Chakano,,-8.7167,36.2667,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,63.0,,,4,Africa/Dar_es_Salaam,FALSE,1834658456
+Iomu,Iomu,Jomu,-3.8667,33.2000,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,99.8,,,4,Africa/Dar_es_Salaam,FALSE,1834608602
+Mafwemiro,Mafwemiro,,-6.9333,36.5833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,47.1,,,4,Africa/Dar_es_Salaam,FALSE,1834474972
+Nambunga,Nambunga,Namkunga,-10.8667,39.2667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,164.0,,,4,Africa/Dar_es_Salaam,FALSE,1834671429
+Idetemia,Idetemia,,-2.7000,32.9833,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,385.9,,,3,Africa/Dar_es_Salaam,FALSE,1834288529
+Itimba,Itimba,,-2.7500,31.5000,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,198.0,,,4,Africa/Dar_es_Salaam,FALSE,1834690847
+Matari,Matari,,-5.1500,34.8500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,48.4,,,4,Africa/Dar_es_Salaam,FALSE,1834549983
+Mjananza,Mjananza,,-5.2500,39.7833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,2429.2,,,2,Africa/Dar_es_Salaam,FALSE,1834553466
+Mjananza,Mjananza,,-5.4667,39.6500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,116.9,,,4,Africa/Dar_es_Salaam,TRUE,1834441202
+Mfumbwe,Mfumbwe,Umfumowe,-6.8833,37.8167,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,107.0,,,4,Africa/Dar_es_Salaam,FALSE,1834128152
+Makundu,Makundu,,-5.0667,39.6500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,131.5,,,4,Africa/Dar_es_Salaam,FALSE,1834943676
+Ntumbi,Ntumbi,,-6.3833,35.1000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,5.7,,,5,Africa/Dar_es_Salaam,FALSE,1834049523
+Nanyati,Nanyati,,-10.3500,40.0833,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,55.8,,,4,Africa/Dar_es_Salaam,FALSE,1834141430
+Mwamisheau,Mwamisheau,Mwamishenu|Mwamisheni,-2.9000,33.9333,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,230.9,,,3,Africa/Dar_es_Salaam,FALSE,1834454378
+Liwale,Liwale,Lilwale,-7.1167,37.5333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,49.5,,,4,Africa/Dar_es_Salaam,FALSE,1834632259
+Msimbi,Msimbi,,-7.8000,35.2500,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,1.3,,,5,Africa/Dar_es_Salaam,FALSE,1834369227
+Lipuyu,Lipuyu,,-10.1667,38.4000,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,27.7,,,4,Africa/Dar_es_Salaam,FALSE,1834655634
+Lyele,Lyele,Liele,-7.3833,31.2833,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,25.6,,,4,Africa/Dar_es_Salaam,FALSE,1834629173
+Dumbani,Dumbani,,-4.7495,39.1675,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,64.6,,,4,Africa/Dar_es_Salaam,FALSE,1834365092
+Vikindu,Vikindu,,-7.0067,39.2985,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,310.7,,,3,Africa/Dar_es_Salaam,FALSE,1834497124
+Bondeni,Bondeni,,-5.9167,39.2500,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,773.6,,,3,Africa/Dar_es_Salaam,FALSE,1834047542
+Lukigura,Lukigura,,-6.1000,37.9167,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,19.3,,,4,Africa/Dar_es_Salaam,FALSE,1834136439
+Kitumba,Kitumba,,-6.1167,39.3000,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,583.2,,,3,Africa/Dar_es_Salaam,FALSE,1834409369
+Kitumba,Kitumba,,-6.3000,39.4333,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,74.3,,,4,Africa/Dar_es_Salaam,TRUE,1834683262
+Utengule,Utengule,Utenguli,-8.9500,35.8333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,36.2,,,4,Africa/Dar_es_Salaam,FALSE,1834576728
+Dimbuni,Dimbuni,Diambina,-6.3167,39.5500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,139.4,,,4,Africa/Dar_es_Salaam,FALSE,1834433637
+Utengule,Utengule,Utenguli,-8.9000,33.3333,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,530.3,,,3,Africa/Dar_es_Salaam,FALSE,1834489564
+Utengule,Utengule,,-8.6833,33.8667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,82.6,,,4,Africa/Dar_es_Salaam,TRUE,1834693682
+Ramla,Ramla,,-6.4500,39.5333,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.5,,,4,Africa/Dar_es_Salaam,FALSE,1834850269
+Zange,Zange,,-4.0333,37.8000,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,15.2,,,4,Africa/Dar_es_Salaam,FALSE,1834751863
+Fela,Fela,,-2.6500,33.0333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,178.9,,,4,Africa/Dar_es_Salaam,FALSE,1834342129
+Mbugui,Mbugui,,-4.6333,38.4333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,333.7,,,3,Africa/Dar_es_Salaam,FALSE,1834790286
+Bwereu,Bwereu,,-5.8167,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,379.9,,,3,Africa/Dar_es_Salaam,FALSE,1834411349
+Manoleo,Manoleo,,-4.9833,32.9667,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,60.6,,,4,Africa/Dar_es_Salaam,FALSE,1834859093
+Msangeni,Msangeni,,-5.4000,38.5500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,60.8,,,4,Africa/Dar_es_Salaam,FALSE,1834680370
+Msangeni,Msangeni,,-5.0833,38.2000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,49.6,,,4,Africa/Dar_es_Salaam,TRUE,1834569469
+Finga,Finga,Kilambwa,-7.5167,31.4333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,105.2,,,4,Africa/Dar_es_Salaam,FALSE,1834352671
+Gomba,Gomba,,-5.0333,38.2833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,49.6,,,4,Africa/Dar_es_Salaam,FALSE,1834634994
+Nyakakoni,Nyakakoni,,-1.2719,30.6106,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,116.3,,,4,Africa/Dar_es_Salaam,FALSE,1834671295
+Paje,Paje,Padye,-6.2665,39.5338,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,110.1,,,3,Africa/Dar_es_Salaam,FALSE,1834757288
+Kumburu,Kumburu,Mkumburu,-5.2167,38.8833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,71.2,,,4,Africa/Dar_es_Salaam,FALSE,1834617543
+Uita,Uita,,-2.5500,33.0500,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,456.7,,,3,Africa/Dar_es_Salaam,FALSE,1834695718
+Kikungwi,Kikungwi,,-6.2833,39.3500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,129.7,,,4,Africa/Dar_es_Salaam,FALSE,1834167964
+Matambare,Matambare,,-9.8167,38.9667,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,15.7,,,4,Africa/Dar_es_Salaam,FALSE,1834681064
+Buturi,Buturi,,-1.4167,34.0167,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,113.9,,,4,Africa/Dar_es_Salaam,FALSE,1834157010
+Ngaiti,Ngaiti,,-5.9667,35.1667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,73.4,,,4,Africa/Dar_es_Salaam,FALSE,1834259447
+Koani Ndogo,Koani Ndogo,,-6.1333,39.2833,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,506.7,,,3,Africa/Dar_es_Salaam,FALSE,1834740146
+Mwantine,Mwantine,Mwantini,-3.6667,33.2167,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,119.9,,,4,Africa/Dar_es_Salaam,FALSE,1834570168
+Kwamume,Kwamume,,-5.7000,37.8667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,19.7,,,4,Africa/Dar_es_Salaam,FALSE,1834513027
+Lowa,Lowa,,-3.9000,32.4500,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,105.2,,,4,Africa/Dar_es_Salaam,FALSE,1834011039
+Katali,Katali,Katazi,-8.5333,31.7500,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,44.4,,,4,Africa/Dar_es_Salaam,FALSE,1834278903
+Karago,Karago,,-4.2533,30.3853,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,252.8,,,3,Africa/Dar_es_Salaam,FALSE,1834573184
+Karago,Karago,,-5.2667,29.8000,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,54.3,,,4,Africa/Dar_es_Salaam,TRUE,1834896327
+Nghwanya,Nghwanya,,-3.4000,34.0667,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,76.2,,,4,Africa/Dar_es_Salaam,FALSE,1834202463
+Igumira,Igumira,,-6.8167,33.2833,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,1.6,,,5,Africa/Dar_es_Salaam,FALSE,1834868229
+Mbagilwa,Mbagilwa,,-6.3667,36.7833,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,87.3,,,4,Africa/Dar_es_Salaam,FALSE,1834092311
+Buigiri,Buigiri,,-6.1333,36.0333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,117.3,,,4,Africa/Dar_es_Salaam,FALSE,1834435734
+Mchito,Mchito,,-5.8167,35.6500,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,46.8,,,4,Africa/Dar_es_Salaam,FALSE,1834814462
+Mbuyuni,Mbuyuni,,-5.1833,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,455.9,,,3,Africa/Dar_es_Salaam,FALSE,1834601530
+Nyanchenche,Nyanchenche,,-2.8267,32.6413,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,130.6,,,4,Africa/Dar_es_Salaam,FALSE,1834072660
+Bogoni,Bogoni,,-4.9500,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,696.3,,,3,Africa/Dar_es_Salaam,FALSE,1834332815
+Unangaruwe,Unangaruwe,,-10.1333,37.9333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,3.7,,,5,Africa/Dar_es_Salaam,FALSE,1834655028
+Ibindi,Ibindi,,-6.5268,31.0807,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,28.3,,,4,Africa/Dar_es_Salaam,FALSE,1834052944
+Kapanga,Kapanga,,-6.3011,30.5865,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,16.5,,,4,Africa/Dar_es_Salaam,FALSE,1834442743
+Kalukadjo,Kalukadjo,,-4.3542,29.9622,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,160.2,,,4,Africa/Dar_es_Salaam,FALSE,1834644476
+Olturoto,Olturoto,,-3.3333,36.6833,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,910.8,,,3,Africa/Dar_es_Salaam,FALSE,1834142077
+Masurumunyi,Masurumunyi,,-2.5365,35.5956,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,7.5,,,5,Africa/Dar_es_Salaam,FALSE,1834724436
+Nakaronji,Nakaronji,Nakalonji,-10.3000,38.1667,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,3.6,,,5,Africa/Dar_es_Salaam,FALSE,1834793498
+Mweneza,Mweneza,,-5.1167,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,750.2,,,3,Africa/Dar_es_Salaam,FALSE,1834423628
+Mwembe Maepe,Mwembe Maepe,,-6.1500,39.2000,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,5876.2,,,2,Africa/Dar_es_Salaam,FALSE,1834058923
+Bumbwini,Bumbwini,,-5.9667,39.2000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1133.1,,,3,Africa/Dar_es_Salaam,FALSE,1834438191
+Mondo,Mondo,,-2.8333,33.2333,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,155.2,,,4,Africa/Dar_es_Salaam,FALSE,1834189573
+Mtipwili,Mtipwili,,-11.3333,34.8667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,79.0,,,4,Africa/Dar_es_Salaam,FALSE,1834220957
+Sali,Sali,,-8.9667,36.6833,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,23.8,,,4,Africa/Dar_es_Salaam,FALSE,1834032105
+Irabiro,Irabiro,,-3.4833,30.6000,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,172.2,,,4,Africa/Dar_es_Salaam,FALSE,1834659793
+Saza,Saza,,-8.7167,31.8333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,68.4,,,4,Africa/Dar_es_Salaam,FALSE,1834469831
+Nganda,Nganda,,-4.3911,29.8208,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,501.5,,,3,Africa/Dar_es_Salaam,FALSE,1834183554
+Patungu,Patungu,,-5.1167,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,FALSE,1834081630
+Legele,Legele,,-7.8167,32.3667,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,2.0,,,5,Africa/Dar_es_Salaam,FALSE,1834018112
+Ngoma,Ngoma,,-2.1853,30.9764,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,47.0,,,4,Africa/Dar_es_Salaam,FALSE,1834738051
+Mlange,Mlange,,-8.3833,36.1667,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,92.8,,,4,Africa/Dar_es_Salaam,FALSE,1834978748
+Kifung’we,Kifung'we,,-5.4167,39.6667,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,472.7,,,3,Africa/Dar_es_Salaam,FALSE,1834653655
+Kapula,Kapula,,-6.0564,30.2708,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.0,,,5,Africa/Dar_es_Salaam,FALSE,1834988113
+Mwamampaji,Mwamampaji,,-6.2333,39.3667,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,47.8,,,4,Africa/Dar_es_Salaam,FALSE,1834996240
+Ibanda,Ibanda,,-2.8000,32.4833,Tanzania,TZ,TZA,Geita,Geita,TZ-27,region,,204.9,,,3,Africa/Dar_es_Salaam,FALSE,1834403364
+Kinazini,Kinazini,,-5.4167,39.7167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,868.4,,,3,Africa/Dar_es_Salaam,FALSE,1834299529
+Ibanda,Ibanda,,-4.5000,32.7167,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,43.2,,,4,Africa/Dar_es_Salaam,FALSE,1834304408
+Kadarege,Kadarege,,-7.7000,36.4000,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,2.5,,,5,Africa/Dar_es_Salaam,FALSE,1834252837
+Ngapa,Ngapa,,-10.0167,39.5833,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,88.6,,,4,Africa/Dar_es_Salaam,FALSE,1834334698
+Matomondo,Matomondo,,-6.0167,37.6333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,65.5,,,4,Africa/Dar_es_Salaam,FALSE,1834102580
+Ngegemu,Ngegemu,,-3.2333,33.6000,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,89.8,,,4,Africa/Dar_es_Salaam,FALSE,1834636575
+Igoye,Igoye,,-8.9000,33.7000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,80.3,,,4,Africa/Dar_es_Salaam,FALSE,1834614506
+Mafisi,Mafisi,Mafizi,-6.9833,38.5833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,7.7,,,5,Africa/Dar_es_Salaam,FALSE,1834760621
+Ngulu,Ngulu,,-4.8167,38.3333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,418.0,,,3,Africa/Dar_es_Salaam,FALSE,1834100038
+Mbaleni,Mbaleni,,-5.9667,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834556424
+Hombuzi,Hombuzi,,-4.8333,38.2667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,418.2,,,3,Africa/Dar_es_Salaam,FALSE,1834812022
+Kwabaya,Kwabaya,,-5.4333,38.0667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,140.1,,,4,Africa/Dar_es_Salaam,FALSE,1834098278
+Lyagoro,Lyagoro,,-1.2667,34.2000,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,134.1,,,4,Africa/Dar_es_Salaam,FALSE,1834624296
+Malutaute,Malutaute,,-4.5333,38.2167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,369.5,,,3,Africa/Dar_es_Salaam,FALSE,1834949148
+Mkote,Mkote,,-5.0167,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,251.4,,,3,Africa/Dar_es_Salaam,FALSE,1834692444
+Ferefere,Ferefere,,-4.2333,37.8333,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,42.9,,,4,Africa/Dar_es_Salaam,FALSE,1834398648
+Lihogoha,Lihogoha,,-7.3908,36.1616,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,14.9,,,4,Africa/Dar_es_Salaam,FALSE,1834884689
+Mugombazi,Mugombazi,,-5.8333,30.2333,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,4.0,,,5,Africa/Dar_es_Salaam,FALSE,1834664152
+Nyangandu,Nyangandu,Niangandu,-7.9775,37.8006,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,1.4,,,5,Africa/Dar_es_Salaam,FALSE,1834541509
+Mwasekilago,Mwasekilago,Sekilago,-4.9000,38.2500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,261.2,,,3,Africa/Dar_es_Salaam,FALSE,1834071714
+Kidevu,Kidevu,,-7.1688,36.4909,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,36.4,,,4,Africa/Dar_es_Salaam,FALSE,1834945142
+Ukoroso,Ukoroso,Ukorogo,-3.9000,32.7500,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,391.0,,,3,Africa/Dar_es_Salaam,FALSE,1834422090
+Mwarongo,Mwarongo,,-5.2167,39.0833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,97.5,,,4,Africa/Dar_es_Salaam,FALSE,1834777418
+Mwalika,Mwalika,Mwelika,-2.9500,33.5667,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,123.8,,,4,Africa/Dar_es_Salaam,FALSE,1834494527
+Mulanda,Mulanda,,-3.0500,31.3167,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,57.0,,,4,Africa/Dar_es_Salaam,FALSE,1834998389
+Sanjaranda,Sanjaranda,Sanjalanda,-5.6333,34.5167,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,26.5,,,4,Africa/Dar_es_Salaam,FALSE,1834701675
+Mti Meupe,Mti Meupe,,-6.0667,39.2333,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1297.8,,,3,Africa/Dar_es_Salaam,FALSE,1834930077
+Pogwa,Pogwa,,-4.9833,39.7500,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,419.3,,,3,Africa/Dar_es_Salaam,FALSE,1834731691
+Bugogo,Bugogo,,-3.7833,33.2833,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,129.9,,,4,Africa/Dar_es_Salaam,FALSE,1834001001
+Rubungo,Rubungo,,-1.8500,31.6494,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,954.5,,,3,Africa/Dar_es_Salaam,FALSE,1834731762
+Mgori,Mgori,,-4.8333,34.9833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,59.2,,,4,Africa/Dar_es_Salaam,FALSE,1834454353
+Kwabigo,Kwabigo,,-5.9167,38.6167,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,29.7,,,4,Africa/Dar_es_Salaam,FALSE,1834464621
+Namagondo,Namagondo,,-2.0833,33.0500,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,472.0,,,3,Africa/Dar_es_Salaam,FALSE,1834509237
+Kiamboni,Kiamboni,,-6.0667,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1405.0,,,3,Africa/Dar_es_Salaam,FALSE,1834605138
+Kiamboni,Kiamboni,,-5.9333,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,764.1,,,3,Africa/Dar_es_Salaam,TRUE,1834838695
+Msumbisi,Msumbisi,,-6.8833,37.8500,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,114.9,,,4,Africa/Dar_es_Salaam,FALSE,1834864798
+Shia,Shia,,-3.3000,37.4167,Tanzania,TZ,TZA,Kilimanjaro,Kilimanjaro,TZ-09,region,,738.8,,,3,Africa/Dar_es_Salaam,FALSE,1834108077
+Penya,Penya,,-5.0667,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,204.7,,,3,Africa/Dar_es_Salaam,FALSE,1834664613
+Kasadi,Kasadi,Kazadi|Kazodi|Kasodi,-3.1000,32.9500,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,158.9,,,4,Africa/Dar_es_Salaam,FALSE,1834416281
+Matitima,Matitima,,-9.9333,37.8833,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,15.5,,,4,Africa/Dar_es_Salaam,FALSE,1834990459
+Epanko,Epanko,,-8.7167,36.6667,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,374.7,,,3,Africa/Dar_es_Salaam,FALSE,1834501290
+Tanangozi,Tanangozi,,-7.9167,35.5833,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,68.4,,,4,Africa/Dar_es_Salaam,FALSE,1834176403
+Mshindo,Mshindo,,-10.5333,35.7667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,62.3,,,4,Africa/Dar_es_Salaam,FALSE,1834100299
+Nambanje,Nambanje,Nambanye,-8.7500,38.5833,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,0.1,,,5,Africa/Dar_es_Salaam,FALSE,1834602002
+Kiriluni,Kiriluni,,-5.3833,39.7167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,181.1,,,4,Africa/Dar_es_Salaam,FALSE,1834643644
+Kinambeu,Kinambeu,,-4.3500,34.3500,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,95.0,,,4,Africa/Dar_es_Salaam,FALSE,1834387778
+Nyalala,Nyalala,,-7.2068,37.7711,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,201.9,,,3,Africa/Dar_es_Salaam,FALSE,1834480744
+Funzi,Funzi,,-4.9667,39.7333,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,205.9,,,3,Africa/Dar_es_Salaam,FALSE,1834409603
+Funzi,Funzi,,-5.1333,39.6667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,TRUE,1834666944
+Mdimne,Mdimne,,-5.0167,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,467.9,,,3,Africa/Dar_es_Salaam,FALSE,1834284879
+Gumbiro,Gumbiro,,-10.2667,35.6500,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,6.1,,,5,Africa/Dar_es_Salaam,FALSE,1834376556
+Ipogoro,Ipogoro,Ipogoi|Mapogoro,-8.3167,34.7000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,31.2,,,4,Africa/Dar_es_Salaam,FALSE,1834368177
+Ipogoro,Ipogoro,Iporgoro,-8.5000,33.4833,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,27.7,,,4,Africa/Dar_es_Salaam,TRUE,1834652233
+Jamvini,Jamvini,,-5.2167,39.8167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,437.5,,,3,Africa/Dar_es_Salaam,FALSE,1834291574
+Choya,Choya,,-9.3000,38.4000,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,0.1,,,5,Africa/Dar_es_Salaam,FALSE,1834016939
+Jangwani,Jangwani,,-5.9167,39.2333,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,331.5,,,3,Africa/Dar_es_Salaam,FALSE,1834886319
+Sabagusi,Sabagusi,Sebagusi,-5.2833,30.3667,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,10.4,,,4,Africa/Dar_es_Salaam,FALSE,1834204150
+Zuze,Zuze,,-6.1333,39.3333,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,216.7,,,3,Africa/Dar_es_Salaam,FALSE,1834264529
+Chitowe,Chitowe,,-11.0500,38.5333,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,21.4,,,4,Africa/Dar_es_Salaam,FALSE,1834948041
+Sukura,Sukura,,-7.8768,39.6942,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,485.4,,,3,Africa/Dar_es_Salaam,FALSE,1834336399
+Mambosasa,Mambosasa,,-5.0333,39.7667,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,348.3,,,3,Africa/Dar_es_Salaam,FALSE,1834389370
+Kajitengi,Kajitengi,,-5.1333,39.7000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,FALSE,1834742312
+Bopwe,Bopwe,,-5.0500,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,505.9,,,3,Africa/Dar_es_Salaam,FALSE,1834760046
+Mipoponi,Mipoponi,,-6.0833,39.2500,Tanzania,TZ,TZA,Zanzibar Urban/West,Zanzibar Urban/West,TZ-15,region,,834.0,,,3,Africa/Dar_es_Salaam,FALSE,1834000012
+Mipoponi,Mipoponi,,-5.3500,39.6667,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,244.1,,,3,Africa/Dar_es_Salaam,FALSE,1834405624
+Busisi,Busisi,,-2.7333,32.8667,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,178.3,,,4,Africa/Dar_es_Salaam,FALSE,1834571621
+Samvya,Samvya,Samuya,-8.4833,31.7333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,44.1,,,4,Africa/Dar_es_Salaam,FALSE,1834445741
+Msa Nani,Msa Nani,,-5.8833,39.2667,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,885.0,,,3,Africa/Dar_es_Salaam,FALSE,1834975254
+Chidya,Chidya,,-10.6167,39.0667,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,42.6,,,4,Africa/Dar_es_Salaam,FALSE,1834393171
+Ndono,Ndono,Ndona,-5.1167,32.4333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,52.4,,,4,Africa/Dar_es_Salaam,FALSE,1834976359
+Kidichi,Kidichi,,-5.1333,39.7167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,113.1,,,4,Africa/Dar_es_Salaam,FALSE,1834166474
+Chonga,Chonga,Chonge,-5.3000,39.7500,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,240.8,,,3,Africa/Dar_es_Salaam,FALSE,1834052114
+Shamiani,Shamiani,,-5.1833,39.8167,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,455.9,,,3,Africa/Dar_es_Salaam,FALSE,1834434166
+Msalani,Msalani,,-5.1333,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,607.6,,,3,Africa/Dar_es_Salaam,FALSE,1834260558
+Msalani,Msalani,,-6.0333,39.2167,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,1026.6,,,3,Africa/Dar_es_Salaam,FALSE,1834402148
+Makadiogo,Makadiogo,,-4.7307,39.1289,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,54.7,,,4,Africa/Dar_es_Salaam,FALSE,1834135752
+Mufindi,Mufindi,,-8.5944,35.2889,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,114.8,,,4,Africa/Dar_es_Salaam,FALSE,1834330948
+Kitengwa,Kitengwa,,-2.8500,31.2833,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,69.4,,,4,Africa/Dar_es_Salaam,FALSE,1834191988
+Sanga,Sanga,,-9.1667,32.5167,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,62.1,,,4,Africa/Dar_es_Salaam,FALSE,1834358595
+Rutamba,Rutamba,,-10.0500,39.4500,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,65.3,,,4,Africa/Dar_es_Salaam,FALSE,1834283280
+Chibechwa Nguta,Chibechwa Nguta,Chibwecha Nguta,-6.3667,36.5500,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,100.1,,,4,Africa/Dar_es_Salaam,FALSE,1834619097
+Endasak,Endasak,,-4.4167,35.5167,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,348.8,,,3,Africa/Dar_es_Salaam,FALSE,1834476715
+Nsalawu,Nsalawu,,-9.1000,32.5500,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,28.6,,,4,Africa/Dar_es_Salaam,FALSE,1834547354
+Ifwambo,Ifwambo,,-7.1209,36.0936,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,16.0,,,4,Africa/Dar_es_Salaam,FALSE,1834624311
+Kangani,Kangani,,-5.4167,39.7000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,535.4,,,3,Africa/Dar_es_Salaam,FALSE,1834030490
+Urugu,Urugu,,-4.6500,34.2000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,32.6,,,4,Africa/Dar_es_Salaam,FALSE,1834993115
+Landanai,Landanai,Lendanai|Landenai,-4.0833,37.1500,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,8.4,,,5,Africa/Dar_es_Salaam,FALSE,1834690437
+Chemani,Chemani,,-5.9167,39.3000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,761.0,,,3,Africa/Dar_es_Salaam,FALSE,1834897116
+Sagara,Sagara,Sagala,-6.2500,36.5333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,105.3,,,4,Africa/Dar_es_Salaam,FALSE,1834304595
+Thangu,Thangu,,-8.7000,33.3000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,41.0,,,4,Africa/Dar_es_Salaam,FALSE,1834839526
+Chanika,Chanika,,-5.4167,38.0167,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,3112.6,,,2,Africa/Dar_es_Salaam,FALSE,1834947103
+Kamanza,Kamanza,,-2.5925,30.9078,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,20.8,,,4,Africa/Dar_es_Salaam,FALSE,1834887634
+Ifema,Ifema,,-8.9167,35.9500,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,29.9,,,4,Africa/Dar_es_Salaam,FALSE,1834472628
+Pitautumwe,Pitautumwe,,-5.3667,39.6833,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,186.6,,,4,Africa/Dar_es_Salaam,FALSE,1834635352
+Mpapura,Mpapura,,-10.2667,39.9500,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,71.2,,,4,Africa/Dar_es_Salaam,FALSE,1834700234
+Hemah,Hemah,,-2.3000,35.8333,Tanzania,TZ,TZA,Arusha,Arusha,TZ-01,region,,8.1,,,5,Africa/Dar_es_Salaam,FALSE,1834173651
+Chamzumbe,Chamzumbe,,-7.2333,31.0333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,23.4,,,4,Africa/Dar_es_Salaam,FALSE,1834021342
+Mgwewu,Mgwewu,Mgwevu,-7.2333,39.4167,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,21.3,,,4,Africa/Dar_es_Salaam,FALSE,1834968079
+Mivono,Mivono,,-5.8000,32.8500,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,6.5,,,5,Africa/Dar_es_Salaam,FALSE,1834178066
+Visiga,Visiga,,-6.7333,38.7833,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834029983
+Utendo,Utendo,,-7.9681,39.7346,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,77.9,,,4,Africa/Dar_es_Salaam,FALSE,1834347401
+Mahaha,Mahaha,,-4.9167,34.4833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,69.7,,,4,Africa/Dar_es_Salaam,FALSE,1834850819
+Kilondo,Kilondo,,-9.7667,34.3500,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,16.1,,,4,Africa/Dar_es_Salaam,FALSE,1834209291
+Chunyu,Chunyu,,-6.3000,36.3333,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,41.2,,,4,Africa/Dar_es_Salaam,FALSE,1834711249
+Mnyusi,Mnyusi,,-5.2167,38.5833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,212.5,,,3,Africa/Dar_es_Salaam,FALSE,1834012072
+Chipelele,Chipelele,,-11.5333,37.4167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,5.7,,,5,Africa/Dar_es_Salaam,FALSE,1834170082
+Mfunza,Mfunza,,-7.1118,39.4230,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,69.5,,,4,Africa/Dar_es_Salaam,FALSE,1834308229
+Nangoi,Nangoi,,-8.2333,32.4167,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,68.0,,,4,Africa/Dar_es_Salaam,FALSE,1834284394
+Mizanza,Mizanza,,-3.7890,34.0680,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,61.3,,,4,Africa/Dar_es_Salaam,FALSE,1834823611
+Kimanga,Kimanga,,-2.9147,31.2050,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,71.7,,,4,Africa/Dar_es_Salaam,FALSE,1834595365
+Kisorya,Kisorya,,-2.1105,33.2146,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,842.7,,,3,Africa/Dar_es_Salaam,FALSE,1834750058
+Makufwa,Makufwa,,-8.9333,35.5000,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,2.8,,,5,Africa/Dar_es_Salaam,FALSE,1834201070
+Mtekofi,Mtekofi,,-5.1667,39.8000,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,701.6,,,3,Africa/Dar_es_Salaam,FALSE,1834137933
+Rushwa,Rushwa,,-1.7867,31.4956,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,196.5,,,4,Africa/Dar_es_Salaam,FALSE,1834230345
+Mwali,Mwali,,-7.5018,36.5343,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,14.2,,,4,Africa/Dar_es_Salaam,FALSE,1834104350
+Old Kiomboi,Old Kiomboi,,-4.2667,34.3667,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,95.0,,,4,Africa/Dar_es_Salaam,FALSE,1834044044
+Manamancha,Manamancha,,-5.2167,39.8000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,657.6,,,3,Africa/Dar_es_Salaam,FALSE,1834561407
+Mugana,Mugana,,-1.2083,31.6978,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,175.9,,,4,Africa/Dar_es_Salaam,FALSE,1834427761
+Msia,Msia,,-9.0833,32.6167,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,94.4,,,4,Africa/Dar_es_Salaam,FALSE,1834130246
+Nondwa,Nondwa,,-9.4000,39.4333,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,8.8,,,5,Africa/Dar_es_Salaam,FALSE,1834356849
+Kabulela,Kabulela,,-5.2283,30.3775,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,10.4,,,4,Africa/Dar_es_Salaam,FALSE,1834124939
+Masaba,Masaba,,-6.1972,30.0698,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,12.3,,,4,Africa/Dar_es_Salaam,FALSE,1834435642
+Ibugo,Ibugo,,-2.6661,30.4694,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,307.4,,,3,Africa/Dar_es_Salaam,FALSE,1834069091
+Mbuzi,Mbuzi,,-4.8500,38.3500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,396.5,,,3,Africa/Dar_es_Salaam,FALSE,1834771633
+Lulangulu,Lulangulu,,-5.6333,30.7833,Tanzania,TZ,TZA,Katavi,Katavi,TZ-28,region,,10.4,,,4,Africa/Dar_es_Salaam,FALSE,1834926339
+Kisada,Kisada,,-7.5833,36.6667,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,13.1,,,4,Africa/Dar_es_Salaam,FALSE,1834966789
+Humbi,Humbi,,-6.3167,36.8333,Tanzania,TZ,TZA,Morogoro,Morogoro,TZ-16,region,,87.3,,,4,Africa/Dar_es_Salaam,FALSE,1834886740
+Mzambiazi,Mzambiazi,,-5.1167,38.4000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,242.2,,,3,Africa/Dar_es_Salaam,FALSE,1834690086
+Kyense,Kyense,,-4.3667,33.2333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,43.4,,,4,Africa/Dar_es_Salaam,FALSE,1834914543
+Kisarawe,Kisarawe,Kiserawe,-6.9076,39.0730,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,53.2,,,4,Africa/Dar_es_Salaam,FALSE,1834617787
+Mapogoro,Mapogoro,,-7.8000,35.0667,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,1.3,,,5,Africa/Dar_es_Salaam,FALSE,1834244379
+Rutumbo,Rutumbo,,-9.8333,36.9667,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,2.0,,,5,Africa/Dar_es_Salaam,FALSE,1834144452
+Mwanadasi,Mwanadasi,,-8.8167,33.5167,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,18.8,,,4,Africa/Dar_es_Salaam,FALSE,1834782438
+Gwata,Gwata,,-7.1226,38.4707,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,9.4,,,5,Africa/Dar_es_Salaam,FALSE,1834178610
+Nar,Nar,,-4.1667,35.3833,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,221.0,,,3,Africa/Dar_es_Salaam,FALSE,1834379594
+Kawambwe,Kawambwe,,-8.5167,31.9000,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,47.6,,,4,Africa/Dar_es_Salaam,FALSE,1834992553
+Yaeda,Yaeda,Yaida,-3.9726,35.1706,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,12.7,,,4,Africa/Dar_es_Salaam,FALSE,1834895142
+Nangurukuru,Nangurukuru,,-8.7994,39.3480,Tanzania,TZ,TZA,Lindi,Lindi,TZ-12,region,,51.7,,,4,Africa/Dar_es_Salaam,FALSE,1834146910
+Jaje,Jaje,,-5.1167,39.0667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,487.2,,,3,Africa/Dar_es_Salaam,FALSE,1834029119
+Rungwa,Rungwa,,-5.2167,29.8500,Tanzania,TZ,TZA,Kigoma,Kigoma,TZ-08,region,,99.3,,,4,Africa/Dar_es_Salaam,FALSE,1834542515
+Mahauhau,Mahauhau,,-11.0167,37.5333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,30.8,,,4,Africa/Dar_es_Salaam,FALSE,1834051008
+Kibumbiro,Kibumbiro,,-1.2667,31.4167,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,163.6,,,4,Africa/Dar_es_Salaam,FALSE,1834830542
+Makuyuni,Makuyuni,,-5.0167,38.3333,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,265.8,,,3,Africa/Dar_es_Salaam,FALSE,1834515536
+Makuyuni,Makuyuni,,-4.7333,38.1000,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,32.0,,,4,Africa/Dar_es_Salaam,TRUE,1834316381
+Tondoni,Tondoni,,-5.2500,39.7167,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834063702
+Nambingi,Nambingi,,-10.9333,34.7000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,60.0,,,4,Africa/Dar_es_Salaam,FALSE,1834258547
+Michiga,Michiga,,-10.9833,38.1833,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,43.2,,,4,Africa/Dar_es_Salaam,FALSE,1834185811
+Mungalo,Mungalo,,-6.3667,34.1000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,1.1,,,5,Africa/Dar_es_Salaam,FALSE,1834850728
+Butungo,Butungo,,-2.7167,31.3000,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,59.8,,,4,Africa/Dar_es_Salaam,FALSE,1834904720
+Njianne,Njianne,,-7.3036,39.2245,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,53.4,,,4,Africa/Dar_es_Salaam,FALSE,1834713384
+Tundaua,Tundaua,,-5.2500,39.7000,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,201.6,,,3,Africa/Dar_es_Salaam,FALSE,1834231236
+Itawa,Itawa,,-8.6000,32.3000,Tanzania,TZ,TZA,Mbeya,Mbeya,TZ-14,region,,55.2,,,4,Africa/Dar_es_Salaam,FALSE,1834442923
+Mikenge,Mikenge,,-6.9167,39.4833,Tanzania,TZ,TZA,Dar es Salaam,Dar es Salaam,TZ-02,region,,299.0,,,3,Africa/Dar_es_Salaam,FALSE,1834829357
+Dunguie,Dunguie,,-6.0167,39.2000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,752.1,,,3,Africa/Dar_es_Salaam,FALSE,1834787099
+Mu Rukurazo,Mu Rukurazo,,-2.4517,30.7131,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,149.9,,,4,Africa/Dar_es_Salaam,FALSE,1834518232
+Kuruti,Kuruti,,-7.2391,39.4242,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,21.3,,,4,Africa/Dar_es_Salaam,FALSE,1834211269
+Uzima,Uzima,,-3.3833,32.3667,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,83.9,,,4,Africa/Dar_es_Salaam,FALSE,1834696772
+Ngombe Likeza,Ngombe Likeza,,-11.4500,34.9333,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,69.8,,,4,Africa/Blantyre,FALSE,1834966304
+Muhaga,Muhaga,,-7.1386,38.8409,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,19.0,,,4,Africa/Dar_es_Salaam,FALSE,1834177036
+Nkwenda,Nkwenda,,-1.4864,30.8889,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,384.6,,,3,Africa/Dar_es_Salaam,FALSE,1834056430
+Mrali,Mrali,Mnali,-7.7296,39.8786,Tanzania,TZ,TZA,Coast,Coast,TZ-19,region,,88.1,,,4,Africa/Dar_es_Salaam,FALSE,1834835933
+Malenga Malkali,Malenga Malkali,,-7.3064,36.0043,Tanzania,TZ,TZA,Iringa,Iringa,TZ-04,region,,12.5,,,4,Africa/Dar_es_Salaam,FALSE,1834297238
+Kiswani,Kiswani,Kisiwani,-4.9833,38.7667,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,58.2,,,4,Africa/Dar_es_Salaam,FALSE,1834961773
+Ipole,Ipole,,-5.7833,32.7333,Tanzania,TZ,TZA,Tabora,Tabora,TZ-24,region,,17.4,,,4,Africa/Dar_es_Salaam,FALSE,1834645914
+Ulemo,Ulemo,,-4.4000,34.4000,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,73.9,,,4,Africa/Dar_es_Salaam,FALSE,1834185464
+Kumba Urembo,Kumba Urembo,Kumba Uremba,-6.0000,39.3833,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,206.5,,,3,Africa/Dar_es_Salaam,FALSE,1834626289
+Nandwahi,Nandwahi,Nandwaki,-10.6167,39.4000,Tanzania,TZ,TZA,Mtwara,Mtwara,TZ-17,region,,100.7,,,4,Africa/Dar_es_Salaam,FALSE,1834668372
+Kiziwani,Kiziwani,,-6.0167,39.2000,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,,752.1,,,3,Africa/Dar_es_Salaam,FALSE,1834818367
+Mombo,Mombo,,-4.8833,38.2833,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,261.2,,,3,Africa/Dar_es_Salaam,FALSE,1834334025
+Mpapa,Mpapa,,-6.1000,39.3500,Tanzania,TZ,TZA,Zanzibar Central/South,Zanzibar Central/South,TZ-11,region,,84.0,,,4,Africa/Dar_es_Salaam,FALSE,1834086204
+Nyanungu,Nyanungu,,-1.4000,34.7333,Tanzania,TZ,TZA,Mara,Mara,TZ-13,region,,373.4,,,3,Africa/Dar_es_Salaam,FALSE,1834435901
+Pando,Pando,Pande,-8.3500,32.2833,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,65.8,,,4,Africa/Dar_es_Salaam,FALSE,1834213835
+Utungwa,Utungwa,,-9.2667,34.7000,Tanzania,TZ,TZA,Njombe,Njombe,TZ-29,region,,78.4,,,4,Africa/Dar_es_Salaam,FALSE,1834249038
+Ulumi,Ulumi,,-8.7333,31.7333,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,68.4,,,4,Africa/Dar_es_Salaam,FALSE,1834827529
+Mahonda,Mahonda,,-5.9897,39.2519,Tanzania,TZ,TZA,Zanzibar North,Zanzibar North,TZ-07,region,admin,983.8,,,2,Africa/Dar_es_Salaam,FALSE,1834907448
+Kagesi,Kagesi,,-5.3167,36.6000,Tanzania,TZ,TZA,Manyara,Manyara,TZ-26,region,,549.2,,,3,Africa/Dar_es_Salaam,FALSE,1834914654
+Mindo,Mindo,,-10.2833,36.1167,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,7.0,,,5,Africa/Dar_es_Salaam,FALSE,1834414223
+Mindo,Mindo,,-5.1500,34.8833,Tanzania,TZ,TZA,Singida,Singida,TZ-23,region,,48.4,,,4,Africa/Dar_es_Salaam,FALSE,1834880867
+Mtukula,Mtukula,,-11.1333,36.1000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,5.4,,,5,Africa/Dar_es_Salaam,FALSE,1834977309
+Kivumoni,Kivumoni,,-5.3667,39.7333,Tanzania,TZ,TZA,Pemba South,Pemba South,TZ-10,region,,178.3,,,4,Africa/Dar_es_Salaam,FALSE,1834482139
+Weani,Weani,,-5.0667,39.7833,Tanzania,TZ,TZA,Pemba North,Pemba North,TZ-06,region,,448.0,,,3,Africa/Dar_es_Salaam,FALSE,1834736969
+Nyakaliba,Nyakaliba,,-2.9833,31.1667,Tanzania,TZ,TZA,Kagera,Kagera,TZ-05,region,,71.7,,,4,Africa/Dar_es_Salaam,FALSE,1834363249
+Kapenta,Kapenta,,-8.2667,32.0667,Tanzania,TZ,TZA,Rukwa,Rukwa,TZ-20,region,,166.8,,,4,Africa/Dar_es_Salaam,FALSE,1834654612
+Misasi,Misasi,,-3.0000,33.0833,Tanzania,TZ,TZA,Mwanza,Mwanza,TZ-18,region,,185.3,,,4,Africa/Dar_es_Salaam,FALSE,1834073661
+Old Shinyanga,Old Shinyanga,,-3.5500,33.4000,Tanzania,TZ,TZA,Shinyanga,Shinyanga,TZ-22,region,,186.1,,,4,Africa/Dar_es_Salaam,FALSE,1834589849
+Kihanga,Kihanga,,-10.7667,34.6667,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,41.3,,,4,Africa/Blantyre,FALSE,1834725210
+Kwamanga,Kwamanga,,-5.8667,37.8500,Tanzania,TZ,TZA,Tanga,Tanga,TZ-25,region,,37.3,,,4,Africa/Dar_es_Salaam,FALSE,1834168277
+Chandama,Chandama,,-5.1500,36.1667,Tanzania,TZ,TZA,Dodoma,Dodoma,TZ-03,region,,96.3,,,4,Africa/Dar_es_Salaam,FALSE,1834606764
+Luchesi,Luchesi,,-11.3000,36.2000,Tanzania,TZ,TZA,Ruvuma,Ruvuma,TZ-21,region,,5.4,,,5,Africa/Dar_es_Salaam,FALSE,1834602690
+Mukula,Mukula,Mkula,-2.3000,33.8833,Tanzania,TZ,TZA,Simiyu,Simiyu,TZ-30,region,,135.7,,,4,Africa/Dar_es_Salaam,FALSE,1834000773

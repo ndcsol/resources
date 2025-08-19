@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Tả Trung Hồ,Ta Trung Ho,Ta Tchuong Hồ|Tả Chung Hồ,22.2033,103.9671,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,82.2,,,4,Asia/Bangkok,FALSE,1704472220
+Làng Ngo,Lang Ngo,,21.5500,105.9500,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,579.6,,,3,Asia/Bangkok,FALSE,1704756761
+Ao Lươn,Ao Luon,,20.2204,105.7123,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,323.2,,,3,Asia/Bangkok,FALSE,1704740675
+Com Mao,Com Mao,Na Ouai|Na Quai,22.7333,104.1833,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,95.6,,,4,Asia/Bangkok,FALSE,1704507877
+Ấp Ô Ma,Ap O Ma,,9.4167,106.1167,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,472.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704183888
+Buôn Ro Nach,Buon Ro Nach,,12.1352,108.1312,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704039368
+Đại Chí,Dai Chi,,13.9500,109.0167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,210.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704540807
+Chung Ngãi,Chung Ngai,,21.3443,105.0455,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,FALSE,1704120343
+Thôn Hòa Đức,Thon Hoa Duc,,9.9361,105.1422,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,595.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704915958
+Làng Hố,Lang Ho,,20.4667,105.4167,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,233.6,,,3,Asia/Bangkok,FALSE,1704854296
+Ngai La Teou,Ngai La Teou,Ngai La Teoa,22.6667,104.5667,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704412272
+Làng Chò,Lang Cho,,22.0000,104.5500,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704946203
+Thụ Điền,Thu Dien,,20.3833,106.5167,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,927.2,,,3,Asia/Bangkok,FALSE,1704613630
+Làng Lành,Lang Lanh,,22.0833,104.2667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,57.9,,,4,Asia/Bangkok,FALSE,1704641906
+Bái Đa,Bai Da,,19.7167,105.5500,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,141.2,,,4,Asia/Bangkok,FALSE,1704590532
+Ấp Vĩnh Phú,Ap Vinh Phu,,12.1167,109.1000,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,179.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704909684
+Làng Lanh,Lang Lanh,Làng Lânh,21.9582,104.9535,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704845298
+Ngòi Còng,Ngoi Cong,,21.9255,104.5998,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704838697
+Ninh Mã,Ninh Ma,,12.8026,109.3492,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,260.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704481344
+Mỹ Quan Trang,My Quan Trang,,20.0500,105.9667,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,873.7,,,3,Asia/Bangkok,FALSE,1704511340
+Suối Lơ,Suoi Lo,,11.8608,108.9815,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,26.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704561323
+Na Toun,Na Toun,,22.0667,105.7333,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,65.4,,,4,Asia/Bangkok,FALSE,1704007450
+Nà Luông,Na Luong,,23.0936,105.2964,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704952005
+Nà Luông,Na Luong,Na Long,22.2500,104.7333,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,87.3,,,4,Asia/Bangkok,TRUE,1704886480
+Đồng Mỏ,Dong Mo,,21.6570,106.5783,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,minor,109.1,,,3,Asia/Bangkok,FALSE,1704844683
+Đồng Mô,Dong Mo,Dong Ma,21.5500,107.0167,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,23.0,,,4,Asia/Bangkok,TRUE,1704971254
+Yout,Yout,,11.6833,108.4333,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,187.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704954292
+Dong Mo,Dong Mo,,22.1167,105.2667,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,99.9,,,4,Asia/Bangkok,FALSE,1704044208
+Cầu Khoai,Cau Khoai,,21.4976,106.1211,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,316.7,,,3,Asia/Bangkok,FALSE,1704021715
+Pú Nhung Họ,Pu Nhung Ho,,21.7081,103.2185,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,84.7,,,4,Asia/Bangkok,FALSE,1704614096
+Tam Dang,Tam Dang,Xom Tam Đăng,18.7000,105.3333,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704671551
+Cốc Chia,Coc Chia,,22.6000,106.5167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,92.5,,,4,Asia/Bangkok,FALSE,1704335384
+Cốc Chia,Coc Chia,,22.7667,105.9667,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,66.0,,,4,Asia/Bangkok,TRUE,1704169832
+Cốc Chia,Coc Chia,,22.8167,105.9167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,66.0,,,4,Asia/Bangkok,TRUE,1704564565
+Cồc Chia,Coc Chia,,22.7333,106.6333,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,TRUE,1704181502
+San Di,San Di,San Gì,22.5537,103.3961,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,154.6,,,4,Asia/Bangkok,FALSE,1704317118
+Trỉnh Đồn,Trinh Don,,20.3167,105.8167,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,670.9,,,3,Asia/Bangkok,FALSE,1704209922
+Ấp Tà Mum,Ap Ta Mum,,9.7764,105.2658,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,362.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704367843
+Quân Khê,Quan Khe,Quau Kh,21.5868,104.9155,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,151.2,,,4,Asia/Bangkok,FALSE,1704209202
+Làng Đuông,Lang Duong,,19.7987,105.1675,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,73.1,,,4,Asia/Bangkok,FALSE,1704724297
+Làng Dương,Lang Duong,,19.3333,105.4167,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,196.0,,,4,Asia/Bangkok,FALSE,1704183636
+Khau Luoc,Khau Luoc,,22.5000,105.5167,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704456691
+Càn Lộc,Can Loc,,21.5833,104.7833,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704416689
+Phu Heui,Phu Heui,Phú Heui|Phú Hôi,15.9564,107.9819,Vietnam,VN,VNM,Đà Nẵng,Da Nang,VN-DN,municipality,,207.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704790983
+Ấp Khánh Lơi,Ap Khanh Loi,,10.6500,105.2167,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,767.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704726716
+Thủy Liên Nam Giáp,Thuy Lien Nam Giap,,17.1167,106.9500,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,133.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704893000
+Tam Bình,Tam Binh,,10.0481,106.0002,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,minor,537.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704760225
+Tedrong Hongen,Tedrong Hongen,,14.9833,107.7667,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,36.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704348903
+Cầu Vẽ,Cau Ve,Cao Ve,21.7592,106.0858,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,82.2,,,4,Asia/Bangkok,FALSE,1704102522
+Giáo Đức,Giao Duc,Ấp An Trí,10.3167,105.9000,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,738.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704000279
+Srok Cay Son,Srok Cay Son,,11.6167,106.4500,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704660733
+Khắc Niệm Hạ,Khac Niem Ha,,21.1333,106.0667,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,1262.8,,,3,Asia/Bangkok,FALSE,1704000377
+Yên Lập,Yen Lap,,21.3752,105.4065,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,563.1,,,3,Asia/Bangkok,FALSE,1704518683
+Phúc Lễ,Phuc Le,,21.7500,105.0500,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704353263
+Đội Sáu,Doi Sau,Đội 6,14.1077,107.8497,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,94.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704698063
+Đội Sáu,Doi Sau,Đội 6,12.9354,108.8005,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,57.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704567903
+Làng Brang,Lang Brang,,13.8432,108.6212,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,39.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704637532
+Xã Mách,Xa Mach,,11.3333,106.8000,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,343.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704516856
+Đại Điền,Dai Dien,,20.7743,106.5603,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,1285.9,,,3,Asia/Bangkok,FALSE,1704140490
+Xã Tram Da Mi,Xa Tram Da Mi,Xom Tram Da Mi|Tram Da Mi,11.1667,107.7833,Vietnam,VN,VNM,Bình Thuận,Binh Thuan,VN-40,province,,95.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704222035
+Đồng Khoát,Dong Khoat,,21.3416,106.1516,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704647744
+Huệ Ngoại,Hue Ngoai,,20.7000,106.6000,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,901.5,,,3,Asia/Bangkok,FALSE,1704456421
+Piêng Yao,Pieng Yao,Pieng Yao,20.3468,104.8394,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,43.1,,,4,Asia/Bangkok,FALSE,1704559127
+Đại Diền,Dai Dien,,21.0833,105.6167,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1918.8,,,3,Asia/Bangkok,FALSE,1704407374
+Na Ka,Na Ka,,22.7333,104.1667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,95.6,,,4,Asia/Bangkok,FALSE,1704848971
+Nà Ka,Na Ka,,21.9735,104.9662,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704848976
+Bản Cho Công,Ban Cho Cong,Cho Công,21.1558,103.8181,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704185242
+Pho Ka Tiouk,Pho Ka Tiouk,Plei Katiouk|Katiouk,11.5833,108.6667,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,103.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704075933
+Thôn Hòa,Thon Hoa,,21.2895,105.1268,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,FALSE,1704606652
+Chiêm Hóa,Chiem Hoa,,20.4833,105.6167,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,216.8,,,3,Asia/Bangkok,FALSE,1704285740
+Bâ Đông,Ba Dong,,13.5000,109.0833,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,61.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704159476
+Bu Ya,Bu Ya,,12.0333,107.4333,Vietnam,VN,VNM,Đắk Nông,Dak Nong,VN-72,province,,61.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704789244
+An Phước,An Phuoc,,10.5838,106.8837,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,193.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704011755
+Vạn Lộc Tây,Van Loc Tay,,14.9333,108.8167,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,616.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704378236
+Vin Ka Roi,Vin Ka Roi,,17.3667,106.2167,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,91.7,,,4,Asia/Bangkok,FALSE,1704368200
+Khê Tang,Khe Tang,,20.9167,105.7833,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1643.0,,,3,Asia/Bangkok,FALSE,1704749790
+Ra Đê,Ra De,,16.1107,107.6317,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,36.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704488111
+Thạnh Mỹ,Thanh My,,11.7617,108.4947,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,minor,187.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704939438
+Ấp Phương Lạc,Ap Phuong Lac,Phương Lạc,11.0667,108.1167,Vietnam,VN,VNM,Bình Thuận,Binh Thuan,VN-40,province,,140.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704286589
+Trà Bang,Tra Bang,Ấp Trà Bang|Xom Ta Ban|Ta Ban,9.3719,105.7234,Vietnam,VN,VNM,Bạc Liêu,Bac Lieu,VN-55,province,,459.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704855760
+Teurlang To,Teurlang To,Teurlang Tho,11.9333,108.1500,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704771498
+Kon Kleang,Kon Kleang,,14.9167,108.1667,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,21.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704385445
+Plei Lao,Plei Lao,,13.5500,108.0833,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,166.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704353885
+Núi Độ,Nui Do,,21.6201,105.4211,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,237.0,,,3,Asia/Bangkok,FALSE,1704290044
+Xóm Mỹ Thanh,Xom My Thanh,My Thanh,11.1333,106.6167,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,734.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704064554
+Xước Du,Xuoc Du,,16.4344,107.5319,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,881.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704705592
+Ấp F Một,Ap F Mot,Ấp F1,10.2029,105.3269,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,491.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704206518
+Hà Dài,Ha Dai,,11.6508,108.6869,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,103.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704182384
+Hạc Lâm,Hac Lam,,21.2667,105.9333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1074.7,,,3,Asia/Bangkok,FALSE,1704954464
+Xóm Mâ Phào,Xom Ma Phao,,20.9333,105.6500,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1597.8,,,3,Asia/Bangkok,FALSE,1704189554
+Ấp Thủ Cửu,Ap Thu Cuu,,10.1333,106.4167,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,561.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704233138
+Bản Nhạn Nhinh,Ban Nhan Nhinh,,19.5008,104.5768,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,26.0,,,4,Asia/Bangkok,FALSE,1704456398
+Lập Liên,Lap Lien,,20.2333,105.7667,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,323.2,,,3,Asia/Bangkok,FALSE,1704854849
+Chế Cu Nha,Che Cu Nha,,21.8139,104.1465,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704924500
+Nà Dụ,Na Du,,22.4767,105.7749,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,61.6,,,4,Asia/Bangkok,FALSE,1704628933
+Bảo Tru,Bao Tru,Ban Tru,21.3667,105.5833,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,793.9,,,3,Asia/Bangkok,FALSE,1704806704
+Phú Ninh,Phu Ninh,,10.1225,105.9234,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,537.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704608904
+Đồng Bèp,Dong Bep,,19.7000,105.5667,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,141.2,,,4,Asia/Bangkok,FALSE,1704019196
+Loung En,Loung En,,23.1500,105.0833,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704518440
+Bản Vi Phái,Ban Vi Phai,Vi Phai,22.5372,103.8567,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704374666
+Lạc Hào,Lac Hao,,21.7785,104.8407,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704423173
+Ngãi Thuận,Ngai Thuan,,10.4169,106.3452,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,1086.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704158832
+Pin Lou,Pin Lou,,21.9833,102.8500,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,28.4,,,4,Asia/Bangkok,FALSE,1704178910
+Ấp Tân Xuân,Ap Tan Xuan,Tan Xuan,10.0833,105.6500,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,1317.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704968237
+Phum Krang Don,Phum Krang Don,,10.4000,105.0167,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,232.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704970514
+Thôn Điềm,Thon Diem,,16.0085,107.9100,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,29.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704524817
+Đồng Đát,Dong Dat,,21.5000,104.8333,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,131.3,,,4,Asia/Bangkok,FALSE,1704297204
+Giáp Đông,Giap Dong,Phường Giáp Đông|Dông Giáp,16.7229,107.4076,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,98.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704973923
+Kinh Tông Can,Kinh Tong Can,,9.9611,106.4236,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,339.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704373801
+Trai Đồng Nông,Trai Dong Nong,,19.1500,105.5000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,915.9,,,3,Asia/Bangkok,FALSE,1704539223
+Hưng Yên,Hung Yen,Ấp Hưng Yên,11.6332,106.7300,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,259.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704434770
+Lái Thiêu,Lai Thieu,,10.9051,106.6995,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,minor,10122.4,,,2,Asia/Ho_Chi_Minh,FALSE,1704149609
+San Cap,San Cap,,22.3833,104.1500,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,152.4,,,4,Asia/Bangkok,FALSE,1704313728
+Quang Húc,Quang Huc,,21.1907,105.4413,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,836.6,,,3,Asia/Bangkok,FALSE,1704966688
+Bản Cang,Ban Cang,,22.5372,103.3600,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,154.6,,,4,Asia/Bangkok,FALSE,1704835280
+Bản Pá Tong,Ban Pa Tong,,21.0435,104.0626,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704780180
+Bản Cang,Ban Cang,,21.3333,104.0667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704810303
+Bản Càng,Ban Cang,,21.4667,103.6833,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,TRUE,1704601674
+Bản Cang,Ban Cang,,21.5054,103.9202,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,TRUE,1704399497
+Bản Cang,Ban Cang,Ban Gang,21.2667,104.6667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,TRUE,1704615931
+Bản Cang,Ban Cang,,21.0667,104.5333,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,TRUE,1704802914
+Bản Cang,Ban Cang,,21.0167,104.3500,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,99.1,,,4,Asia/Bangkok,TRUE,1704000720
+Bản Cang,Ban Cang,,21.0215,103.7916,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,TRUE,1704561641
+Bản Cang,Ban Cang,,20.9761,103.9275,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,TRUE,1704634533
+Bản Cang,Ban Cang,,21.5433,104.0071,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,79.8,,,4,Asia/Bangkok,TRUE,1704414925
+Bản Cang,Ban Cang,,21.5567,103.6831,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704774432
+An Bình,An Binh,,10.7833,105.3500,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,698.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704625449
+An Bình,An Binh,,10.1894,105.8424,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,672.8,,,3,Asia/Ho_Chi_Minh,TRUE,1704277705
+An Bình,An Binh,,10.4012,105.5025,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,1072.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704161414
+Đắc Trung,Dac Trung,,21.7774,106.3011,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704446986
+Làng Cỏ,Lang Co,,20.7667,105.5167,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,213.6,,,3,Asia/Bangkok,FALSE,1704000948
+Làng Cô,Lang Co,,20.6333,105.4500,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,213.6,,,3,Asia/Bangkok,TRUE,1704409487
+Cẩm Bào,Cam Bao,Lang Béo,21.3000,105.9333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1074.7,,,3,Asia/Bangkok,FALSE,1704781536
+Mỹ Lưu,My Luu,,15.5500,108.1167,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,79.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704361368
+Lộc Thượng,Loc Thuong,,13.8667,109.2167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,669.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704405763
+Yên Sào,Yen Sao,Yên São|São,21.5211,104.8976,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,FALSE,1704419483
+Dã Độ,Da Do,Do Do,18.1667,106.1833,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,161.8,,,4,Asia/Bangkok,FALSE,1704736291
+Xóm Mia,Xom Mia,,21.4276,106.2345,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,820.0,,,3,Asia/Bangkok,FALSE,1704303747
+Pơlei Koyong Kuan Khon,Polei Koyong Kuan Khon,Polei Koyong Khuan Khon|Pele Keyong Kouan Khon,14.6833,107.6000,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,70.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704372839
+Ma Loung Ka,Ma Loung Ka,Ma Lung Kha,23.3333,105.2667,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,171.2,,,4,Asia/Bangkok,FALSE,1704754402
+Nam Vịnh,Nam Vinh,,18.2627,105.9711,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,224.5,,,3,Asia/Bangkok,FALSE,1704716345
+Ấp Tân Phước,Ap Tan Phuoc,,9.4053,105.2056,Vietnam,VN,VNM,Cà Mau,Ca Mau,VN-59,province,,227.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704916427
+Ban Tieng,Ban Tieng,,13.2833,108.6000,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,60.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704940150
+Bản Phinh Đóng,Ban Phinh Dong,,21.9743,104.0826,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,57.9,,,4,Asia/Bangkok,FALSE,1704374417
+Thong Tau,Thong Tau,,22.8833,105.9333,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,66.0,,,4,Asia/Bangkok,FALSE,1704342858
+Thôn Cua,Thon Cua,,21.7833,105.0000,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704381312
+Bản Cha Kouan,Ban Cha Kouan,Ban Cha Kouen,21.5500,103.2333,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,118.2,,,4,Asia/Bangkok,FALSE,1704369254
+Bản Phiêng Phau,Ban Phieng Phau,,22.7943,105.4775,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,63.2,,,4,Asia/Bangkok,FALSE,1704603443
+Nà Toàn,Na Toan,,22.2236,106.0920,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,47.5,,,4,Asia/Bangkok,FALSE,1704453616
+Đồng Rôm,Dong Rom,,22.4182,104.9340,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704353003
+Làng Lá,Lang La,,22.1896,105.2564,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,99.9,,,4,Asia/Bangkok,FALSE,1704394061
+La Khê Thôn,La Khe Thon,,18.0833,105.8000,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,75.6,,,4,Asia/Bangkok,FALSE,1704748283
+An Thạch,An Thach,,14.0500,108.7167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,428.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704936726
+An Thạch,An Thach,,13.3680,109.2444,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,230.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704788207
+Bến La Hoa,Ben La Hoa,,11.1000,107.2833,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,294.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704100782
+Pháp Cổ,Phap Co,,21.0167,106.5833,Vietnam,VN,VNM,Hải Dương,Hai Duong,VN-61,province,,1018.9,,,3,Asia/Bangkok,FALSE,1704063538
+Bản Cuốn,Ban Cuon,Bản Kuân,22.5262,105.4827,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704800988
+Pieo Bong,Pieo Bong,,22.5333,104.2667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,80.8,,,4,Asia/Bangkok,FALSE,1704719249
+Bản Song,Ban Song,,21.9500,103.7667,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,139.0,,,4,Asia/Bangkok,FALSE,1704112322
+Pho Long,Pho Long,,18.6667,105.4000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704795447
+Bản Song,Ban Song,,21.5015,103.6827,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,FALSE,1704421220
+Bản Song,Ban Song,,21.0000,103.8000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,TRUE,1704205088
+Phinh Manh,Phinh Manh,,22.0799,102.9759,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704220085
+Yên Hòa,Yen Hoa,,21.8367,104.7162,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704720168
+Xóm Bà Tam,Xom Ba Tam,,9.4008,105.6047,Vietnam,VN,VNM,Bạc Liêu,Bac Lieu,VN-55,province,,459.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704317377
+Quang Thọ,Quang Tho,,10.3833,106.5000,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,818.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704126012
+Mà Mạ,Ma Ma,,22.5965,105.0696,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,79.6,,,4,Asia/Bangkok,FALSE,1704598615
+Bản Pục,Ban Puc,,21.4833,103.8833,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,FALSE,1704073398
+Bản Púc,Ban Puc,Ban Pua,21.6333,103.9833,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,79.8,,,4,Asia/Bangkok,TRUE,1704736970
+Kouei Toung,Kouei Toung,,21.8167,103.7000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,92.7,,,4,Asia/Bangkok,FALSE,1704673601
+Hữu Luật Thương,Huu Luat Thuong,Hun Luat Thuong,18.9500,105.3667,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,FALSE,1704164714
+Lâm Du,Lam Du,Lam Do,21.0167,105.8833,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,5621.4,,,2,Asia/Bangkok,FALSE,1704111449
+Cha La,Cha La,,19.5559,104.6425,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,26.0,,,4,Asia/Bangkok,FALSE,1704935090
+Trung Hà,Trung Ha,,21.1833,105.6167,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,1313.4,,,3,Asia/Bangkok,FALSE,1704741847
+Sơn Đình,Son Dinh,,21.3333,106.3167,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,343.9,,,3,Asia/Bangkok,FALSE,1704659826
+Long Châu,Long Chau,Hoa Quan Chau,15.8500,108.2833,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,434.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704452343
+Phù Trì,Phu Tri,Phu Ti,21.7333,106.1667,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,82.2,,,4,Asia/Bangkok,FALSE,1704829962
+Bản Buôm,Ban Buom,,21.4358,104.0033,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,79.8,,,4,Asia/Bangkok,FALSE,1704390683
+Kim Trang,Kim Trang,Kim Chàng,21.3432,106.1418,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704259580
+Buôn Treun,Buon Treun,Buon Treun Bon Tron,12.1333,108.3167,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704488202
+Năng Dơng,Nang Dong,,12.4540,108.5675,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,84.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704372310
+Trác Bút,Trac But,,20.6500,105.9833,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,910.2,,,3,Asia/Bangkok,FALSE,1704731170
+Xóm Dứa,Xom Dua,,11.2500,106.3667,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,336.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704080405
+Nam Phong,Nam Phong,,18.4017,105.7107,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,422.7,,,3,Asia/Bangkok,FALSE,1704170710
+Buôn Pi Kô,Buon Pi Ko,Pi Kó|Bon Pi Ko|Bon Phi Ko|Ban Peco|Ban Phi Ko,12.1723,108.1259,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704709334
+Xuân Thình,Xuan Thinh,,18.6500,105.6500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,698.6,,,3,Asia/Bangkok,FALSE,1704781471
+Xuân Thịnh,Xuan Thinh,,19.7369,105.4163,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,88.7,,,4,Asia/Bangkok,FALSE,1704424493
+Thiên Tồn,Thien Ton,,20.2990,105.9520,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,minor,654.5,,,3,Asia/Bangkok,FALSE,1704331870
+Xóm Ngô,Xom Ngo,Xom Nga,20.3833,105.1500,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,43.1,,,4,Asia/Bangkok,FALSE,1704957675
+Thôn Hôi Xương,Thon Hoi Xuong,Hoi Xuong,12.2167,109.0667,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,434.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704543792
+Điền Trạch,Dien Trach,Điền Thạch,19.9167,105.4333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,696.7,,,3,Asia/Bangkok,FALSE,1704501936
+Xóm Ngã Tư,Xom Nga Tu,,10.1833,105.4833,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,554.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704268494
+Khả Đo,Kha Do,,21.2637,105.7123,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,710.4,,,3,Asia/Bangkok,FALSE,1704347088
+Xieng Tran,Xieng Tran,Xom Tran|Trianon Hono|Tianon Hono,11.5500,108.5333,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,221.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704666187
+Xuân Ưng,Xuan Ung,,21.3866,105.1141,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704846852
+Buôn Tang,Buon Tang,,13.2666,108.2795,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,109.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704886588
+Sau Cha Tuâng,Sau Cha Tuang,,22.4145,103.5127,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,117.6,,,4,Asia/Bangkok,FALSE,1704610032
+Làng Đuc,Lang Duc,,20.7833,105.4500,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,213.6,,,3,Asia/Bangkok,FALSE,1704399166
+Bản Huôi Lau,Ban Huoi Lau,Ban Houei Leu|Ban Houei Lau,19.5000,104.3500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,33.7,,,4,Asia/Bangkok,FALSE,1704716050
+Bản Khuôn Chu,Ban Khuon Chu,,22.0317,106.6302,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,91.6,,,4,Asia/Bangkok,FALSE,1704124390
+Kim Tiến,Kim Tien,,22.5190,103.9363,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,320.4,,,3,Asia/Bangkok,FALSE,1704895542
+Chu Tin Van,Chu Tin Van,Qhu Tin Van,21.7333,104.2333,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704038174
+Pà Lừa,Pa Lua,,15.6692,107.6555,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,12.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704130796
+Lạc Thành,Lac Thanh,,20.2000,105.8500,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,323.2,,,3,Asia/Bangkok,FALSE,1704883857
+Bản Lót,Ban Lot,,21.1854,104.0432,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704591636
+Bản Lot,Ban Lot,,21.4500,103.9167,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,TRUE,1704147300
+Lạc Thanh,Lac Thanh,,21.0167,106.7667,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,518.8,,,3,Asia/Bangkok,FALSE,1704037745
+Bản Lôt,Ban Lot,,22.4833,104.1000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,152.4,,,4,Asia/Bangkok,FALSE,1704413192
+Hòn Chông,Hon Chong,Hong-chong,10.1667,104.6167,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704175094
+Bản Ven,Ban Ven,,22.2500,106.6000,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,59.4,,,4,Asia/Bangkok,FALSE,1704002118
+Phú Trạch,Phu Trach,,15.5667,108.4333,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,345.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704293351
+Phú Trach,Phu Trach,,15.7833,108.2833,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,332.3,,,3,Asia/Ho_Chi_Minh,TRUE,1704498508
+Bản Ven,Ban Ven,,22.5333,104.6833,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,87.3,,,4,Asia/Bangkok,FALSE,1704411497
+Bản Vền,Ban Ven,Bản Vien,22.5708,103.8567,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704046642
+Thượng Chat,Thuong Chat,,20.8167,106.6500,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,3650.7,,,2,Asia/Bangkok,FALSE,1704788990
+Lũng Pán,Lung Pan,,22.6167,106.6167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704613904
+Loun Ga,Loun Ga,,22.3500,105.6167,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,56.1,,,4,Asia/Bangkok,FALSE,1704020762
+Phụ Ngọc,Phu Ngoc,,13.9000,109.0333,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,760.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704345639
+Phú Nhuận,Phu Nhuan,,10.2000,106.3667,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,1454.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704391706
+Vĩnh Lợi,Vinh Loi,,10.2622,105.4585,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,1019.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704789952
+Xã Hao Duoc,Xa Hao Duoc,,11.4500,106.0333,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,121.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704318675
+Bản Tân Bình,Ban Tan Binh,,22.3039,103.6183,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,117.6,,,4,Asia/Bangkok,FALSE,1704965269
+Phu Nhuân,Phu Nhuan,Phu Nhnan,21.3472,106.7317,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,208.8,,,3,Asia/Bangkok,FALSE,1704996869
+Giồng Lức,Giong Luc,Lức|Xom Giong Luc,9.8289,106.3526,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,464.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704435322
+Thuy Uoc,Thuy Uoc,,21.6000,105.7667,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,773.2,,,3,Asia/Bangkok,FALSE,1704628331
+Xóm Yên Sơn,Xom Yen Son,,18.8667,105.5000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,508.6,,,3,Asia/Bangkok,FALSE,1704171322
+Cẩu Giát,Cau Giat,,21.4799,105.4494,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,624.8,,,3,Asia/Bangkok,FALSE,1704241958
+Slein Hao Lan,Slein Hao Lan,Slein Hap Lan,21.5333,107.9333,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,222.8,,,3,Asia/Bangkok,FALSE,1704874107
+Vinh Huê,Vinh Hue,Vinh Hoa,12.7000,109.2167,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,260.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704227324
+Bản Tống Chảo,Ban Tong Chao,Tồng Chảo,22.8253,105.3859,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,63.2,,,4,Asia/Bangkok,FALSE,1704371807
+Na Hui,Na Hui,,22.3000,103.6333,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,117.6,,,4,Asia/Bangkok,FALSE,1704326009
+Liên Châu,Lien Chau,,18.8289,105.2567,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704425104
+Liên Châu,Lien Chau,,18.4026,105.5975,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,106.1,,,4,Asia/Bangkok,FALSE,1704040705
+Diệu Viên,Dieu Vien,,13.2333,109.1333,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,346.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704158348
+Bản Tổng Chào,Ban Tong Chao,,22.0177,106.6391,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,91.6,,,4,Asia/Bangkok,FALSE,1704002936
+Ấp Giữa,Ap Giua,,10.4000,106.2000,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,1086.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704904950
+An Cúc,An Cuc,,20.5833,106.5167,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,882.8,,,3,Asia/Bangkok,FALSE,1704265351
+Đại Lã,Dai La,,21.0333,106.3167,Vietnam,VN,VNM,Hải Dương,Hai Duong,VN-61,province,,896.7,,,3,Asia/Bangkok,FALSE,1704786345
+Đông Yên,Dong Yen,Dong Yer,9.9333,105.0667,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,359.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704944463
+Đông Yên,Dong Yen,,9.7778,105.1247,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,359.4,,,3,Asia/Ho_Chi_Minh,TRUE,1704412106
+Đông Yên,Dong Yen,,9.6979,105.1491,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,179.7,,,4,Asia/Ho_Chi_Minh,TRUE,1704715555
+Bối Khê,Boi Khe,,20.7167,105.8667,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1393.0,,,3,Asia/Bangkok,FALSE,1704000543
+Nhà Hương,Nha Huong,,18.4485,105.7959,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,422.7,,,3,Asia/Bangkok,FALSE,1704457498
+Thanh Thần,Thanh Than,,20.8833,105.7500,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1643.0,,,3,Asia/Bangkok,FALSE,1704501931
+Hải Nam,Hai Nam,,18.7659,105.7419,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,2229.1,,,2,Asia/Bangkok,FALSE,1704559121
+Nhược Thạch,Nhuoc Thach,,18.2833,105.9667,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,224.5,,,3,Asia/Bangkok,FALSE,1704194401
+Thạnh Phú Hai,Thanh Phu Hai,Thạnh Phú 2,10.1530,105.4889,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,554.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704600540
+Na Duong,Na Duong,,21.6833,105.8500,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,247.3,,,3,Asia/Bangkok,FALSE,1704601302
+Na Dương,Na Duong,,21.8333,106.0333,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,82.2,,,4,Asia/Bangkok,TRUE,1704249912
+Xóm Thái,Xom Thai,,12.7990,108.6226,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704591463
+Nà Pin,Na Pin,,22.1175,105.6321,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,56.1,,,4,Asia/Bangkok,FALSE,1704587080
+Làng Ngằm,Lang Ngam,,22.8833,105.9500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,66.0,,,4,Asia/Bangkok,FALSE,1704630744
+Quang Han,Quang Han,,22.0167,102.7667,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,28.4,,,4,Asia/Bangkok,FALSE,1704817822
+Vĩnh Lộc,Vinh Loc,,21.1333,105.6000,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1918.8,,,3,Asia/Bangkok,FALSE,1704508067
+Châu Thành,Chau Thanh,Trung An,10.3667,106.3500,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,4192.0,,,2,Asia/Ho_Chi_Minh,FALSE,1704124392
+Thung Đang,Thung Dang,Thung Dong,19.9167,105.6000,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,1019.3,,,3,Asia/Bangkok,FALSE,1704587249
+Xóm Gôc,Xom Goc,Xom Coc,21.3667,105.3333,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,791.5,,,3,Asia/Bangkok,FALSE,1704839692
+Phú Thứ,Phu Thu,,21.6022,105.2374,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,167.5,,,4,Asia/Bangkok,FALSE,1704423450
+Ấp Bến Chò,Ap Ben Cho,,11.2000,106.2000,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,583.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704676307
+Ấp Bến Chơ,Ap Ben Cho,Ben Cho|Xom Ben Cho,11.1833,106.3833,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,498.4,,,3,Asia/Ho_Chi_Minh,TRUE,1704073452
+Hồng Sơn,Hong Son,,21.3521,105.2736,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,570.6,,,3,Asia/Bangkok,FALSE,1704167834
+Tây Tựu,Tay Tuu,,21.0833,105.7333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,6565.2,,,2,Asia/Bangkok,FALSE,1704731581
+Lũng Tung,Lung Tung,,22.8500,106.3500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,98.2,,,4,Asia/Bangkok,FALSE,1704179354
+Lũng Tủng,Lung Tung,,22.7333,106.6000,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,TRUE,1704742672
+Bản Cá,Ban Ca,,21.3500,103.9000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,354.1,,,3,Asia/Bangkok,FALSE,1704603502
+Bản Ca,Ban Ca,,21.2833,104.7500,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,TRUE,1704176415
+Bản Ca,Ban Ca,,21.5480,103.6937,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704599875
+Bản Ca,Ban Ca,,21.6308,103.6728,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704480883
+Nam Hải,Nam Hai,,18.4277,105.9567,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,366.8,,,3,Asia/Bangkok,FALSE,1704586211
+Đại Lan,Dai Lan,Lang Bẻm,21.3333,106.4000,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,343.9,,,3,Asia/Bangkok,FALSE,1704086590
+Bản Ca,Ban Ca,,22.3667,106.4000,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,51.5,,,4,Asia/Bangkok,FALSE,1704316997
+Điển Mỹ,Dien My,,10.3764,106.4328,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,818.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704466534
+Phước Trường,Phuoc Truong,,16.0816,108.2444,Vietnam,VN,VNM,Đà Nẵng,Da Nang,VN-DN,municipality,,3013.3,,,2,Asia/Ho_Chi_Minh,FALSE,1704000534
+Xoài Xiêm,Xoai Xiem,Ấp Xoài Xiêm,9.6986,106.2591,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,512.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704838920
+Bản Pou Cu,Ban Pou Cu,Ban Pou Kou,19.2667,104.9500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,37.3,,,4,Asia/Bangkok,FALSE,1704422132
+Trung Xuân,Trung Xuan,,18.9853,105.5210,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,FALSE,1704706607
+Làng Giữa,Lang Giua,,21.8444,106.2618,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704012629
+Trung Xuân,Trung Xuan,,18.3548,105.8685,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,1144.3,,,3,Asia/Bangkok,FALSE,1704803275
+Thuy Tram,Thuy Tram,,21.4672,105.0530,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704931895
+Kiên Lao,Kien Lao,,21.7333,104.7500,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704770906
+Buôn Back,Buon Back,,12.9333,108.8000,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,57.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704691956
+Đông Hà,Dong Ha,,20.9667,106.3000,Vietnam,VN,VNM,Hải Dương,Hai Duong,VN-61,province,,896.7,,,3,Asia/Bangkok,FALSE,1704449091
+Đông Hạ,Dong Ha,,20.2903,106.2803,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,1213.8,,,3,Asia/Bangkok,FALSE,1704608301
+Tòng Lâm,Tong Lam,,15.5667,108.2833,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,156.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704609977
+Tân Yên,Tan Yen,,19.2520,105.5146,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,516.3,,,3,Asia/Bangkok,FALSE,1704390803
+Tân Yên,Tan Yen,,18.9518,105.3822,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,TRUE,1704370832
+Nam Cường,Nam Cuong,,21.1833,105.6833,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1832.2,,,3,Asia/Bangkok,FALSE,1704690262
+Nông Trường Phú Sơn,Nong Truong Phu Son,,21.1953,105.1596,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,90.7,,,4,Asia/Bangkok,FALSE,1704281680
+Xóm Đụm,Xom Dum,,20.2000,105.6333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,238.1,,,3,Asia/Bangkok,FALSE,1704518634
+Đội Mười Bốn,Doi Muoi Bon,Đội 14,19.4836,105.5195,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,141.2,,,4,Asia/Bangkok,FALSE,1704216530
+Nam Tsin Poula,Nam Tsin Poula,,22.7833,104.5333,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704406744
+Đội Mười Bốn,Doi Muoi Bon,Đội 14,18.9557,105.2630,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,540.0,,,3,Asia/Bangkok,FALSE,1704018315
+Bản Bum,Ban Bum,,22.3719,102.8438,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704878598
+Bản Suối Lẹt,Ban Suoi Let,,21.1177,104.5693,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,FALSE,1704023859
+Bản Bum,Ban Bum,Ban Boum,21.8000,106.1167,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704889175
+Yên Bài,Yen Bai,,21.2167,105.6500,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,1018.8,,,3,Asia/Bangkok,FALSE,1704000770
+Phô Tây,Pho Tay,,15.1167,108.7667,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,3425.8,,,2,Asia/Ho_Chi_Minh,FALSE,1704393234
+Sộc Soac,Soc Soac,,22.7167,106.7500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704979568
+Bản Suối Cong,Ban Suoi Cong,,20.8333,104.8333,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,93.1,,,4,Asia/Bangkok,FALSE,1704261700
+Lộc Nguyên,Loc Nguyen,,18.4833,105.8500,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,670.0,,,3,Asia/Bangkok,FALSE,1704277101
+Xóm Phước Lâm,Xom Phuoc Lam,Ha Do Ap,16.6000,107.5500,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,665.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704051712
+Ấp Nước Vàng,Ap Nuoc Vang,,11.2833,106.8000,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,343.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704407636
+Bản Suối Cuoc,Ban Suoi Cuoc,Ban Suoi Cuac,21.0667,104.5000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,65.2,,,4,Asia/Bangkok,FALSE,1704442756
+Đương Mại,Duong Mai,,21.1667,106.2667,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,785.5,,,3,Asia/Bangkok,FALSE,1704209207
+Hoang La Chay,Hoang La Chay,,22.7167,104.5833,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704581791
+Bản Lọng Mặn,Ban Long Man,,21.2105,103.9892,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704070342
+Da Si,Da Si,,11.3667,107.7000,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,81.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704855111
+Chu Mẫu,Chu Mau,,21.1655,106.0968,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,858.8,,,3,Asia/Bangkok,FALSE,1704165955
+Rú Rồng,Ru Rong,,18.4722,105.8096,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,422.7,,,3,Asia/Bangkok,FALSE,1704269338
+Ấp Thới Hiệp,Ap Thoi Hiep,Thới Hiệp,9.4911,106.0344,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,419.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704505053
+Bao Mài,Bao Mai,,19.5358,105.3979,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,88.7,,,4,Asia/Bangkok,FALSE,1704568021
+Tây Thành,Tay Thanh,,15.8333,108.3500,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,436.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704441685
+Tây Thanh,Tay Thanh,,18.2152,106.1020,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,224.5,,,3,Asia/Bangkok,FALSE,1704598295
+Nội Hòa,Noi Hoa,,21.8789,106.3542,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704395264
+Tân Sơn Nhì,Tan Son Nhi,Tan San Nhi,10.8167,106.6167,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,19455.2,,,2,Asia/Ho_Chi_Minh,FALSE,1704619080
+Lộc Thuận,Loc Thuan,,11.0167,106.3000,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,551.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704225637
+Ngọc Mỹ,Ngoc My,,19.0105,105.2815,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,540.0,,,3,Asia/Bangkok,FALSE,1704983789
+Bản Mít,Ban Mit,,16.9002,106.7160,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,143.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704909817
+Phum Cần Chai Krom,Phum Can Chai Krom,,10.4833,105.0500,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,359.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704931271
+Cao Phương,Cao Phuong,,20.3582,106.1065,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,816.8,,,3,Asia/Bangkok,FALSE,1704215270
+Ấp Hai,Ap Hai,,16.0333,108.2167,Vietnam,VN,VNM,Đà Nẵng,Da Nang,VN-DN,municipality,,12974.3,,,2,Asia/Ho_Chi_Minh,FALSE,1704368301
+Xóm Giàu,Xom Giau,Làng Giầu,21.5147,105.2917,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,286.4,,,3,Asia/Bangkok,FALSE,1704977104
+Xóm Giâu,Xom Giau,,21.3825,105.0110,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,TRUE,1704509618
+Suối Bang,Suoi Bang,,21.0000,104.8000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,93.1,,,4,Asia/Bangkok,FALSE,1704991841
+Đồng Làng,Dong Lang,,21.3484,106.1216,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704392050
+Đồng Làng,Dong Lang,Xom Dong Lang|Dong Long,21.2667,106.9333,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,83.1,,,4,Asia/Bangkok,TRUE,1704627077
+Bồ Túc,Bo Tuc,Uyên Bình,11.6333,106.2667,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704613626
+Kon Ban,Kon Ban,,14.4746,108.0351,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,103.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704536727
+Làng Yên Ap,Lang Yen Ap,Lang Yen Ao|Lang Yen An,18.6667,105.7500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,4687.2,,,2,Asia/Bangkok,FALSE,1704489752
+Bản Cô Co,Ban Co Co,,21.6000,104.0667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,79.8,,,4,Asia/Bangkok,FALSE,1704241877
+Sì Phây,Si Phay,Si Phay,22.6606,103.3335,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,154.6,,,4,Asia/Bangkok,FALSE,1704921752
+Ấp Thanh Long,Ap Thanh Long,,10.4333,106.1000,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,759.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704840155
+Ấp Thanh Long,Ap Thanh Long,,10.5333,105.9667,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,738.6,,,3,Asia/Ho_Chi_Minh,TRUE,1704587453
+Ấp Cỏ Sà,Ap Co Sa,,11.1833,106.1667,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,583.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704659885
+Giòng Ông Hổ,Giong Ong Ho,,10.2167,106.5500,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,368.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704170307
+Thôn Nghĩa Hi,Thon Nghia Hi,,16.8000,107.0167,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,137.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704884372
+Bản Fa Dinh,Ban Fa Dinh,,21.5667,103.5167,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,84.7,,,4,Asia/Bangkok,FALSE,1704045990
+Hà Bôi,Ha Boi,,14.9167,108.7000,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,72.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704533763
+Xóm Lý Trung,Xom Ly Trung,,10.4500,106.8000,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,193.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704262932
+Ấp Vĩnh Hưng,Ap Vinh Hung,,9.6167,106.1333,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,492.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704063646
+Đồng Lâu,Dong Lau,,20.8500,106.5833,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,1700.7,,,3,Asia/Bangkok,FALSE,1704580225
+Thôn Cầu,Thon Cau,,18.9356,105.5580,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,915.9,,,3,Asia/Bangkok,FALSE,1704160424
+Giap Dộc,Giap Doc,,22.2667,103.2333,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,71.7,,,4,Asia/Bangkok,FALSE,1704061051
+Xuân Điền,Xuan Dien,,18.6244,105.4131,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704264968
+Lộc Tân,Loc Tan,,12.9866,108.3454,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,235.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704204974
+Đồng Thành,Dong Thanh,,11.6605,106.2271,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704052170
+Đông Thạnh,Dong Thanh,,12.9833,109.3000,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,468.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704000536
+Plei Xun,Plei Xun,,14.0833,108.2333,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,122.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704282518
+My Giang,My Giang,,18.4560,105.8570,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,670.0,,,3,Asia/Bangkok,FALSE,1704934007
+Ấp Mương Khai,Ap Muong Khai,,10.4333,104.5333,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,53.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704059904
+Xóm Kinh Tổng Bồi,Xom Kinh Tong Boi,,9.9833,105.2667,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,379.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704911746
+Nam Tin,Nam Tin,,22.8000,104.6500,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,114.0,,,4,Asia/Bangkok,FALSE,1704116743
+Bảo Châu,Bao Chau,,20.6305,106.0634,Vietnam,VN,VNM,Hưng Yên,Hung Yen,VN-66,province,,912.6,,,3,Asia/Bangkok,FALSE,1704032192
+Trai Côn Lều,Trai Con Leu,,18.8667,105.6500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,508.6,,,3,Asia/Bangkok,FALSE,1704697305
+Mỹ Đúc,My Duc,,21.0167,105.8333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,49482.3,,,2,Asia/Bangkok,FALSE,1704969275
+Mỹ Đức,My Duc,,20.7167,105.7667,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1224.6,,,3,Asia/Bangkok,TRUE,1704183948
+Cỏ Tiết,Co Tiet,Co Tien,20.6167,106.3667,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,1113.4,,,3,Asia/Bangkok,FALSE,1704653684
+Pò Tấu,Po Tau,Bu Tau|Bồ Tấu,21.5253,107.0719,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,23.0,,,4,Asia/Bangkok,FALSE,1704411241
+Bo Loung,Bo Loung,,22.1167,105.4667,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,58.3,,,4,Asia/Bangkok,FALSE,1704361244
+Pò Tâu,Po Tau,,22.8167,106.6167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,106.5,,,4,Asia/Bangkok,FALSE,1704000323
+Plei Gao Gêng,Plei Gao Geng,,13.8833,107.9167,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,1091.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704077708
+Khê Chuôi,Khe Chuoi,,21.1333,106.7000,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,518.8,,,3,Asia/Bangkok,FALSE,1704088567
+Nghia Lai,Nghia Lai,,21.1333,105.8500,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,2418.7,,,2,Asia/Bangkok,FALSE,1704598695
+Xóm Chùa,Xom Chua,,21.2094,105.4164,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,836.6,,,3,Asia/Bangkok,FALSE,1704874460
+Khuổi Đăm,Khuoi Dam,,22.7500,106.2667,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,99.7,,,4,Asia/Bangkok,FALSE,1704858744
+Khuổi Dam,Khuoi Dam,,22.6167,106.3000,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,99.7,,,4,Asia/Bangkok,TRUE,1704987250
+Xóm Cá Lóc,Xom Ca Loc,,9.6167,105.6167,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,334.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704336483
+Phú Lợi,Phu Loi,An Le,15.8167,108.0333,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,271.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704571302
+Phú Lợi,Phu Loi,,19.3889,105.5437,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,196.0,,,4,Asia/Bangkok,FALSE,1704842775
+Phu Loi,Phu Loi,Muong Le,20.5667,104.9333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,43.1,,,4,Asia/Bangkok,FALSE,1704662039
+Bản Ít Lốc,Ban It Loc,,21.0308,103.8235,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,FALSE,1704757818
+Điên Trang,Dien Trang,,15.0667,108.8167,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,796.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704031921
+Phe Phon,Phe Phon,,22.7450,105.2759,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,68.3,,,4,Asia/Bangkok,FALSE,1704004144
+Hải Sơn Một,Hai Son Mot,Hải Sơn 1,21.0358,103.7637,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,FALSE,1704493063
+Long An,Long An,,10.4000,106.3333,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,1086.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704034246
+Long An,Long An,,10.4658,105.4683,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,1072.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704463442
+Long An,Long An,,10.6015,105.1341,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,581.2,,,3,Asia/Ho_Chi_Minh,TRUE,1704531736
+Long An,Long An,,10.4242,106.4276,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,716.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704721184
+Xóm Cao Mên,Xom Cao Men,,10.3000,104.9833,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,181.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704944481
+Lũng Bắc,Lung Bac,,20.8333,106.7333,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,2071.7,,,2,Asia/Bangkok,FALSE,1704221107
+Gia Quat Thuong,Gia Quat Thuong,Xom Thuong|Gia Quât,21.0500,105.8667,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,5621.4,,,2,Asia/Bangkok,FALSE,1704426394
+Coun Chang,Coun Chang,,22.3333,106.5333,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,59.4,,,4,Asia/Bangkok,FALSE,1704822577
+Háng Con Rùa,Hang Con Rua,,21.7605,104.1642,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704718008
+Làng Hien,Lang Hien,,21.2667,107.2667,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,35.7,,,4,Asia/Bangkok,FALSE,1704145691
+Phước Thạnh,Phuoc Thanh,,13.0167,109.2167,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,450.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704192691
+Nghĩa Đô,Nghia Do,,21.0500,105.8000,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,15971.1,,,2,Asia/Bangkok,FALSE,1704537605
+La Đàng,La Dang,,21.3644,106.0897,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704319571
+Xóm Giu Chong,Xom Giu Chong,,20.9000,105.4167,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,179.8,,,4,Asia/Bangkok,FALSE,1704000354
+Phước Thành,Phuoc Thanh,,10.7167,106.8167,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,584.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704237841
+Bản Kha,Ban Kha,,22.7833,106.6833,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704463484
+Bản Khá,Ban Kha,,21.0084,103.4724,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,32.9,,,4,Asia/Bangkok,FALSE,1704571306
+Bán Khá,Ban Kha,,22.3585,105.3448,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704388351
+Bản Khá,Ban Kha,Bản Kha,21.9508,103.7948,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,139.0,,,4,Asia/Bangkok,FALSE,1704555345
+Khê Đốn,Khe Don,,21.1995,107.0733,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,64.3,,,4,Asia/Bangkok,FALSE,1704603037
+Lam Điên,Lam Dien,,20.9000,105.7333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1624.5,,,3,Asia/Bangkok,FALSE,1704455535
+Làng Xẽ,Lang Xe,,21.5333,106.8167,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,208.8,,,3,Asia/Bangkok,FALSE,1704604949
+Xóm Xi,Xom Xi,,21.3021,105.1691,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704442135
+Bằc Nhung,Bac Nhung,,22.0333,105.1500,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,99.9,,,4,Asia/Bangkok,FALSE,1704994133
+An Sơn C,An Son C,,13.9500,108.6167,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,102.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704199951
+Gia Chế,Gia Che,,21.6667,104.6667,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.7,,,4,Asia/Bangkok,FALSE,1704168913
+Cóc Hạt,Coc Hat,,22.4485,105.9855,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,45.9,,,4,Asia/Bangkok,FALSE,1704851945
+Thôn Hạ Hai,Thon Ha Hai,Thôn Hạ 2,22.3667,104.6730,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,87.3,,,4,Asia/Bangkok,FALSE,1704680254
+Hang Hớt,Hang Hot,,11.8964,108.3158,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,168.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704934640
+Bản Ta Pheng,Ban Ta Pheng,,21.3667,103.2833,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,61.1,,,4,Asia/Bangkok,FALSE,1704376702
+Độc Lập,Doc Lap,,13.1246,108.8467,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,63.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704523079
+Kơ Nia,Ko Nia,,13.4667,108.4441,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,76.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704291918
+Bản Co Mi,Ban Co Mi,,21.2833,103.4167,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,61.1,,,4,Asia/Bangkok,FALSE,1704587876
+Đông Ấp,Dong Ap,,15.5500,108.2500,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,156.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704118968
+Tứ Tân,Tu Tan,,19.1150,105.7109,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,591.4,,,3,Asia/Bangkok,FALSE,1704010779
+Lực Lông,Luc Long,,21.2569,105.1440,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,FALSE,1704577169
+Tú Tân,Tu Tan,Tu Chanh,15.7000,108.1333,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,69.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704705927
+Ấp Phú Lợi,Ap Phu Loi,,10.2333,106.3500,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,1757.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704096599
+Bản Mường Chiên,Ban Muong Chien,,21.8444,103.5580,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,FALSE,1704449296
+Trà Thung,Tra Thung,,14.3220,109.0843,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,326.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704779278
+Yên Lãng,Yen Lang,,21.9064,106.3188,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704788544
+Gốc Mít,Goc Mit,,21.9345,104.5338,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704355427
+Trinh Tường,Trinh Tuong,,22.3833,104.8500,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704000729
+Trinh Tuong,Trinh Tuong,Trinh Thuong,22.6667,103.7500,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704770062
+Tú Trà,Tu Tra,,15.6833,108.3667,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,449.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704934863
+Đồng Cốc,Dong Coc,Đồng Côc,21.0772,105.2632,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,111.7,,,4,Asia/Bangkok,FALSE,1704505383
+San Xa,San Xa,,21.8000,105.9000,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,82.2,,,4,Asia/Bangkok,FALSE,1704607996
+Coc Pou,Coc Pou,,22.7167,104.5500,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704852630
+Nội Lãng,Noi Lang,,20.3167,106.5000,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,927.2,,,3,Asia/Bangkok,FALSE,1704645337
+Lạc Sơn,Lac Son,,14.2500,109.0167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,326.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704486402
+Nà Trung,Na Trung,,21.7786,106.5385,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,102.5,,,4,Asia/Bangkok,FALSE,1704014966
+Trung Thứ,Trung Thu,Chung Thứ,20.4768,105.8942,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,717.2,,,3,Asia/Bangkok,FALSE,1704624079
+Bến Thôn,Ben Thon,,20.4167,106.1000,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,917.6,,,3,Asia/Bangkok,FALSE,1704007070
+Bản Nà Phày,Ban Na Phay,,22.3667,102.8500,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704027933
+Bản Nà Phẩy,Ban Na Phay,,22.5993,105.4897,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704832826
+Chòm Hơi,Chom Hoi,,20.1667,105.4333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,235.1,,,3,Asia/Bangkok,FALSE,1704970189
+Yên Châu,Yen Chau,,20.6167,106.0833,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,912.6,,,3,Asia/Bangkok,FALSE,1704083832
+Thanh Sơn,Thanh Son,,21.6500,105.4371,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,237.0,,,3,Asia/Bangkok,FALSE,1704298963
+Thanh Sơn,Thanh Son,Thonh Son,21.8460,105.0910,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,142.0,,,4,Asia/Bangkok,TRUE,1704949599
+Bản Pắc Lý,Ban Pac Ly,Bắc Lý,22.0833,103.8500,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,97.7,,,4,Asia/Bangkok,FALSE,1704853515
+Yên Châu,Yen Chau,,21.4167,105.9333,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,579.6,,,3,Asia/Bangkok,FALSE,1704244682
+Tức Tranh,Tuc Tranh,Luc Tranh,21.7167,105.7500,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,305.6,,,3,Asia/Bangkok,FALSE,1704220438
+Mụ U,Mu U,,18.0167,106.1833,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,161.8,,,4,Asia/Bangkok,FALSE,1704883735
+Ấp Phú Mỹ Hạ,Ap Phu My Ha,,10.2500,106.6833,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,365.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704233691
+Lợi Bác,Loi Bac,Loi Bae,21.6667,106.9833,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,81.7,,,4,Asia/Bangkok,FALSE,1704129700
+Lạc Hòa,Lac Hoa,Cung Hoa,12.5939,109.1287,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,238.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704776813
+B Kr’Chia,B Kr'Chia,,11.5379,107.5654,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,100.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704521801
+Quang Hạ,Quang Ha,,22.5696,104.5812,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704613026
+Tân Lạc,Tan Lac,,20.4167,106.5833,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,927.2,,,3,Asia/Bangkok,FALSE,1704887902
+Phù Đức,Phu Duc,Phuc Duc,21.3743,105.3846,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,294.7,,,3,Asia/Bangkok,FALSE,1704580069
+Tân Trà,Tan Tra,,9.3539,105.8864,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,397.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704349948
+Hào Khê,Hao Khe,,21.3567,105.1239,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704437990
+Xóm Vam Cai Ban,Xom Vam Cai Ban,,9.7333,105.2167,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,362.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704933936
+Bắc Vằn,Bac Van,,21.3816,107.0273,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,23.0,,,4,Asia/Bangkok,FALSE,1704086701
+Lạc Hà,Lac Ha,,11.0594,107.6669,Vietnam,VN,VNM,Bình Thuận,Binh Thuan,VN-40,province,,95.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704736746
+Tranh Sở,Tranh So,,11.5989,106.6874,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,251.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704196668
+Bac Van,Bac Van,,22.4833,103.9000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704165827
+Khe Mùn,Khe Mun,,21.4843,107.1535,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,23.0,,,4,Asia/Bangkok,FALSE,1704651594
+Phước Thịnh,Phuoc Thinh,,12.7523,108.2719,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,400.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704457602
+Plei Yan,Plei Yan,,14.0500,107.9167,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,45.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704280317
+Lãng Xuyên,Lang Xuyen,,20.4833,106.2667,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,1169.0,,,3,Asia/Bangkok,FALSE,1704941537
+Vi Cap,Vi Cap,,22.6833,103.7667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,66.6,,,4,Asia/Bangkok,FALSE,1704021546
+Long Phú,Long Phu,,10.2842,106.4633,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,368.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704656637
+Long Phú,Long Phu,Hương Long Phú|Bàng Long,9.6102,106.1188,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,minor,492.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704694629
+Yên Lão Giáp,Yen Lao Giap,,21.1667,105.6333,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,1832.2,,,3,Asia/Bangkok,FALSE,1704147832
+Sài Thi,Sai Thi,Sài Th,20.7765,105.9928,Vietnam,VN,VNM,Hưng Yên,Hung Yen,VN-66,province,,1525.7,,,3,Asia/Bangkok,FALSE,1704110177
+Mạnh Khê,Manh Khe,,18.7618,105.6663,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,508.6,,,3,Asia/Bangkok,FALSE,1704362423
+Đọng Cu,Dong Cu,,21.4833,103.8000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,FALSE,1704552702
+Xóm Phú Hòa,Xom Phu Hoa,,10.4833,106.0667,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,759.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704124322
+Thọ Lâm,Tho Lam,,11.2667,107.5167,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,259.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704947589
+Cốc Mi,Coc Mi,,22.3667,104.2000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,152.4,,,4,Asia/Bangkok,FALSE,1704160463
+Nga Hai,Nga Hai,,21.2927,105.1703,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704575117
+Ngã Hai,Nga Hai,Ngai Hai,21.3351,105.0521,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,TRUE,1704023246
+Ngã Hai,Nga Hai,Nga Hai,21.2829,104.8456,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,53.5,,,4,Asia/Bangkok,TRUE,1704826864
+Thọ Lâm,Tho Lam,,12.9667,109.3833,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,468.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704360494
+Bản Ta Liễu,Ban Ta Lieu,,21.0105,104.1342,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,102.0,,,4,Asia/Bangkok,FALSE,1704283782
+Lấc Tinh,Lac Tinh,,21.5144,105.3585,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,563.1,,,3,Asia/Bangkok,FALSE,1704100562
+Ấp Sóc Dịch,Ap Soc Dich,,9.5000,106.1000,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,421.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704736621
+Phụng Nguyên,Phung Nguyen,,13.1000,109.2500,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,1586.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704558384
+Gow Tow,Gow Tow,,21.0167,107.8333,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,110.7,,,4,Asia/Bangkok,FALSE,1704871617
+Pa Nat,Pa Nat,,22.3500,105.7833,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,77.5,,,4,Asia/Bangkok,FALSE,1704883226
+Bản Vẽ,Ban Ve,,22.5325,104.4785,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704716243
+Bản Huổi Phô,Ban Huoi Pho,,21.0748,103.3090,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,32.9,,,4,Asia/Bangkok,FALSE,1704975578
+Bản Vè,Ban Ve,,22.0205,103.8356,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,139.0,,,4,Asia/Bangkok,FALSE,1704492458
+Bản Ve,Ban Ve,,21.5833,104.5000,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,725.3,,,3,Asia/Bangkok,FALSE,1704537755
+Thôn Sơn,Thon Son,,21.1328,106.0738,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,1262.8,,,3,Asia/Bangkok,FALSE,1704684790
+Xuân Trà,Xuan Tra,,15.9897,108.2531,Vietnam,VN,VNM,Đà Nẵng,Da Nang,VN-DN,municipality,,2275.9,,,2,Asia/Ho_Chi_Minh,FALSE,1704350702
+Buôn M’Trong,Buon M'Trong,,12.7514,108.7193,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704743611
+Buôn M’trong,Buon M'trong,,12.5333,108.7667,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.8,,,4,Asia/Ho_Chi_Minh,TRUE,1704045387
+Bac Ba,Bac Ba,,22.1167,104.7667,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,142.7,,,4,Asia/Bangkok,FALSE,1704024442
+Khê Lanh,Khe Lanh,,21.4833,107.4000,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,66.7,,,4,Asia/Bangkok,FALSE,1704136689
+Ban Hayo,Ban Hayo,,12.3333,108.3667,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704511594
+Bản Chu,Ban Chu,,21.7500,107.0000,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,81.7,,,4,Asia/Bangkok,FALSE,1704747637
+Bản Chu,Ban Chu,,22.2008,106.3224,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,49.6,,,4,Asia/Bangkok,TRUE,1704837448
+An Hòa,An Hoa,,10.9344,106.6653,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,10056.1,,,2,Asia/Ho_Chi_Minh,FALSE,1704222349
+An Hòa,An Hoa,,11.0909,106.6613,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,734.7,,,3,Asia/Ho_Chi_Minh,TRUE,1704723178
+An Hóa,An Hoa,,10.2667,106.4333,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,749.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704980322
+An Hòa,An Hoa,,10.2322,106.1897,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,737.1,,,3,Asia/Ho_Chi_Minh,TRUE,1704059191
+An Hòa,An Hoa,,10.0942,106.5448,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,563.8,,,3,Asia/Ho_Chi_Minh,TRUE,1704494487
+An Hòa,An Hoa,,9.8539,105.9746,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,550.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704416191
+An Hòa,An Hoa,Ấp An Hòa,9.5156,106.0056,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,419.4,,,3,Asia/Ho_Chi_Minh,TRUE,1704013929
+Hoành Dông,Hoanh Dong,Giao Thuy,20.2833,106.4500,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,923.8,,,3,Asia/Bangkok,FALSE,1704667363
+Bản Chụ,Ban Chu,Nam Chua,22.0167,104.1500,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,57.9,,,4,Asia/Bangkok,FALSE,1704210682
+Bản Chu,Ban Chu,,22.5500,106.5333,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,92.5,,,4,Asia/Bangkok,FALSE,1704262206
+Bán Chủ,Ban Chu,,22.3527,105.4306,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704734941
+Bản Lũng Dầm,Ban Lung Dam,Lũng Dâm,22.9025,105.2513,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704582572
+Thuân Lý,Thuan Ly,,17.4500,106.6000,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,623.6,,,3,Asia/Bangkok,FALSE,1704828576
+Tu Vương,Tu Vuong,,20.9667,104.3833,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,99.1,,,4,Asia/Bangkok,FALSE,1704064618
+San Thàng,San Thang,Tam Duong|Sah Tan|San Tan,22.3931,103.5059,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,692.4,,,3,Asia/Bangkok,FALSE,1704687695
+Tè Suối Ngài,Te Suoi Ngai,,22.3564,103.6171,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,117.6,,,4,Asia/Bangkok,FALSE,1704291949
+Long Lợi,Long Loi,,10.3925,106.2648,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,1086.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704323727
+Bãi Trại,Bai Trai,,21.4531,106.0578,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,788.9,,,3,Asia/Bangkok,FALSE,1704000026
+Bích Nam,Bich Nam,Bich Tram,15.9333,108.1833,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,981.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704105604
+Krola Dong,Krola Dong,Bon Krola Dong,11.9333,107.8167,Vietnam,VN,VNM,Đắk Nông,Dak Nong,VN-72,province,,41.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704780690
+Phú Thượng,Phu Thuong,,18.1830,106.2692,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,161.8,,,4,Asia/Bangkok,FALSE,1704252715
+An Mâ,An Ma,,20.9333,104.8167,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,93.1,,,4,Asia/Bangkok,FALSE,1704815235
+Pho Ra,Pho Ra,,21.7000,105.7333,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,305.6,,,3,Asia/Bangkok,FALSE,1704857400
+Lang Cô Tuy,Lang Co Tuy,,11.7167,109.1167,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,140.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704076928
+Bản Xi Nế,Ban Xi Ne,,22.5327,102.5056,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704306066
+Xóm Si,Xom Si,,21.2308,106.1569,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,792.2,,,3,Asia/Bangkok,FALSE,1704457693
+Bản Tưng Ngoạng,Ban Tung Ngoang,,21.7233,103.6975,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,FALSE,1704761461
+Ấp Cà Nhung,Ap Ca Nhung,Ca Nhung,9.7833,105.2667,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,362.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704917956
+Xóm Tôt,Xom Tot,,20.4667,105.4500,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,233.6,,,3,Asia/Bangkok,FALSE,1704030398
+Ấp Bình Tiên,Ap Binh Tien,,10.1833,106.5167,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,561.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704416546
+Kon Jôt,Kon Jot,Kon Djot,14.2967,108.2684,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,134.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704768672
+Bản Chiếu,Ban Chieu,Bản Nuoc Chiêu|Ban Nudo Chieu,21.3370,104.6903,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,FALSE,1704244867
+Lâm Trạch,Lam Trach,,17.5833,106.4333,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,91.7,,,4,Asia/Bangkok,FALSE,1704465785
+Nà Mèo,Na Meo,,20.6713,105.0430,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,101.5,,,4,Asia/Bangkok,FALSE,1704356652
+Làng Châm,Lang Cham,,22.3907,104.8013,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704323003
+Ngọc Lĩnh,Ngoc Linh,,21.3432,106.0707,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704880039
+Phiêng Mồ,Phieng Mo,Pieng Mo|Pien Mo,22.2880,105.8394,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,59.1,,,4,Asia/Bangkok,FALSE,1704533831
+Làng Cao,Lang Cao,,21.9167,104.5000,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704651729
+Làng Cao,Lang Cao,,22.4167,104.5500,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,87.3,,,4,Asia/Bangkok,FALSE,1704979789
+Làng Cao,Lang Cao,,22.4000,104.5333,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,87.3,,,4,Asia/Bangkok,TRUE,1704139935
+Làng Cao,Lang Cao,,22.4667,104.4333,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,96.3,,,4,Asia/Bangkok,FALSE,1704881636
+Xóm An Lộc,Xom An Loc,An Loc,10.8000,106.9667,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,689.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704885575
+Làng Péaié,Lang Peaie,,16.5333,106.7333,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,67.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704546492
+A Mé,A Me,Ban A Me|Á Mé,22.3336,102.5676,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704770662
+Phước Nhuận,Phuoc Nhuan,,13.3333,109.0833,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,61.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704243141
+Plei Pôé,Plei Poe,,13.4333,108.0833,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,166.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704707309
+Khu Phố Chín,Khu Pho Chin,Khu Phố 9,10.9633,106.6529,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,5653.8,,,2,Asia/Ho_Chi_Minh,FALSE,1704383695
+Cha Gối,Cha Goi,,14.3872,108.8130,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,115.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704284492
+Bên Sư,Ben Su,,20.5167,106.3500,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,1158.5,,,3,Asia/Bangkok,FALSE,1704722682
+Làng Xuân,Lang Xuan,,21.8994,104.9796,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704953019
+Nối Dài,Noi Dai,,12.0000,106.8000,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,185.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704076818
+Thị Trấn Đất Đỏ,Thi Tran Dat Do,Xã Phước Thọ|Phuoc Tho,10.4909,107.2701,Vietnam,VN,VNM,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,VN-43,province,minor,484.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704930115
+De Che Gang,De Che Gang,,13.9158,108.6317,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,102.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704921846
+Thôn Mánh,Thon Manh,,21.4892,105.1539,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,274.5,,,3,Asia/Bangkok,FALSE,1704438110
+Trang Các,Trang Cac,Trang Oae,18.7000,105.4167,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704669870
+Sơn Cường,Son Cuong,,12.3986,108.0892,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704678721
+Bản Hồ Séo Chải,Ban Ho Seo Chai,,22.7359,104.4824,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704097622
+Plei Mlou,Plei Mlou,Plei M’Lon,13.7833,107.5000,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,116.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704087555
+Thôn Suối Lá,Thon Suoi La,,11.8167,108.8833,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,26.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704658184
+Tà Lú,Ta Lu,Thôn Tà Lu Hạ|Talou,11.8365,108.9131,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,26.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704884830
+Lạc Thổ,Lac Tho,,22.7000,105.5167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,63.2,,,4,Asia/Bangkok,FALSE,1704431671
+Ấp Tân Thuộc,Ap Tan Thuoc,Xom Tan Thuoc,9.2167,105.2333,Vietnam,VN,VNM,Cà Mau,Ca Mau,VN-59,province,,882.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704995790
+Đinh Cũ,Dinh Cu,Xóm Đinh Cũ|Dinh Cu,8.7036,105.1189,Vietnam,VN,VNM,Cà Mau,Ca Mau,VN-59,province,,129.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704235521
+Mỹ Hoa,My Hoa,,9.4185,105.5664,Vietnam,VN,VNM,Bạc Liêu,Bac Lieu,VN-55,province,,332.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704463488
+Trà Co Một,Tra Co Mot,Trà Co 1,11.8269,108.8303,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,26.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704975439
+Đình Cũ,Dinh Cu,,21.4272,106.1783,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,424.7,,,3,Asia/Bangkok,FALSE,1704374495
+Tà Thiết,Ta Thiet,Ấp Ta Thiêt Krom|Ta Thiem Krom|Khum Tathletkrom|Khum Tathiet Krom,11.7525,106.4968,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,175.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704552798
+Mỹ Hòa,My Hoa,,10.2529,106.3259,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,895.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704419419
+Mỹ Hòa,My Hoa,,10.1389,106.5768,Vietnam,VN,VNM,Bến Tre,Ben Tre,VN-50,province,,563.8,,,3,Asia/Ho_Chi_Minh,TRUE,1704031660
+Mỹ Hòa,My Hoa,,9.5073,105.6141,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,363.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704143503
+Hòa Tân,Hoa Tan,,10.4107,105.3372,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,507.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704188908
+Hòa Tân,Hoa Tan,,10.2592,105.3213,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,423.8,,,3,Asia/Ho_Chi_Minh,TRUE,1704191532
+Hòa Tân,Hoa Tan,,10.3015,105.2958,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,403.0,,,3,Asia/Ho_Chi_Minh,TRUE,1704332474
+Ấp Đông Phước,Ap Dong Phuoc,Âp Long Phước|Đông Phước,9.6389,106.5072,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,271.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704283969
+An Xuân,An Xuan,,22.1922,104.7766,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704194221
+Bản Đơng Mang,Ban Dong Mang,,12.1350,108.6023,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,18.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704527470
+Sin Tchang,Sin Tchang,,22.6833,104.2500,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,139.0,,,4,Asia/Bangkok,FALSE,1704039799
+Bản Huổi Thướn Hơ Mông,Ban Huoi Thuon Ho Mong,,21.1193,103.8996,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704025514
+Thôn Tân Thủy,Thon Tan Thuy,,12.4167,109.1500,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,238.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704216934
+Xóm Khuyên,Xom Khuyen,,21.3000,105.1333,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,99.7,,,4,Asia/Bangkok,FALSE,1704872623
+Hòa Đức,Hoa Duc,,9.4755,105.8696,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,419.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704986867
+Bản Quan,Ban Quan,Bản Ouan,22.0000,103.8333,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,139.0,,,4,Asia/Bangkok,FALSE,1704852309
+Bản Quan,Ban Quan,,22.8167,106.6000,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,106.5,,,4,Asia/Bangkok,FALSE,1704502898
+Bản Quản,Ban Quan,,22.7333,106.4167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,106.4,,,4,Asia/Bangkok,TRUE,1704581549
+Bản Quan,Ban Quan,,21.6167,103.6667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,FALSE,1704443452
+Bản Quan,Ban Quan,Bản Ouan,21.2167,104.3000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,65.2,,,4,Asia/Bangkok,TRUE,1704803656
+Bản Quan,Ban Quan,,21.6667,104.2667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,45.0,,,4,Asia/Bangkok,TRUE,1704627170
+Trong Đô,Trong Do,,22.4500,104.2333,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,80.8,,,4,Asia/Bangkok,FALSE,1704751657
+Xuân Lạn Nam,Xuan Lan Nam,Xuan Lan,21.5000,107.9833,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,222.8,,,3,Asia/Bangkok,FALSE,1704353499
+Bản Mong,Ban Mong,,19.9297,105.1606,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,73.1,,,4,Asia/Bangkok,FALSE,1704613275
+Bản Mông,Ban Mong,Ban Mang,19.4333,105.2667,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,125.9,,,4,Asia/Bangkok,FALSE,1704287742
+Bản Mống,Ban Mong,,19.3333,105.1500,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,125.9,,,4,Asia/Bangkok,TRUE,1704405822
+Thôn Bình Thái,Thon Binh Thai,Binh Thai,16.0167,108.2000,Vietnam,VN,VNM,Đà Nẵng,Da Nang,VN-DN,municipality,,4489.7,,,2,Asia/Ho_Chi_Minh,FALSE,1704937376
+Tan Giang,Tan Giang,,13.8967,109.2167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,669.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704657387
+Bình Minh,Binh Minh,,21.3155,106.1316,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,992.2,,,3,Asia/Bangkok,FALSE,1704345391
+Làng Bệt,Lang Bet,,19.3833,105.4333,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,196.0,,,4,Asia/Bangkok,FALSE,1704274776
+Trừng Xá,Trung Xa,,21.0243,106.2395,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,1005.3,,,3,Asia/Bangkok,FALSE,1704620060
+Ben Ho,Ben Ho,,22.0833,103.7500,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,97.7,,,4,Asia/Bangkok,FALSE,1704924957
+Bonn Am,Bonn Am,,20.8667,104.7667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,93.1,,,4,Asia/Bangkok,FALSE,1704137144
+Khâm Đin,Kham Din,,22.6667,106.6500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704292974
+Bu Mốn,Bu Mon,,21.8000,103.8833,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,139.0,,,4,Asia/Bangkok,FALSE,1704959873
+Ninh Dân,Ninh Dan,,21.4667,105.1667,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,274.5,,,3,Asia/Bangkok,FALSE,1704215132
+Tali Teurlou,Tali Teurlou,Tali Teu Tou,11.4500,108.1500,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,115.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704000615
+Cộng Phú,Cong Phu,,19.4500,105.7833,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,468.2,,,3,Asia/Bangkok,FALSE,1704854595
+Bản Un,Ban Un,,21.2106,104.0702,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704840205
+Bản Ún,Ban Un,,21.5694,103.7021,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704733382
+Ấp Bảo Chánh,Ap Bao Chanh,Bao Chanh,10.9667,107.3167,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,395.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704352692
+Bắc Danh,Bac Danh,,22.2904,105.3422,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,44.0,,,4,Asia/Bangkok,FALSE,1704988159
+Làng Niệng,Lang Nieng,,20.5137,105.6347,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,176.7,,,4,Asia/Bangkok,FALSE,1704414196
+Bình Sơn,Binh Son,,22.4709,105.0524,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704319966
+Xóm Tửa,Xom Tua,,17.9667,106.2333,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,161.8,,,4,Asia/Bangkok,FALSE,1704457222
+Thanh Hòa,Thanh Hoa,,10.4706,106.9755,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,193.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704131324
+Sơn Tùng,Son Tung,,16.5624,107.4548,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,98.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704167329
+Ngọc Trúc,Ngoc Truc,Ngọe Trúc,20.6667,105.9000,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,1296.2,,,3,Asia/Bangkok,FALSE,1704343772
+Ấp Đồng Thới,Ap Dong Thoi,,10.4000,106.5667,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,696.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704889536
+Xóm Chủ Ấp Lang,Xom Chu Ap Lang,,10.2833,105.0000,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,181.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704781730
+Hanh Thòn,Hanh Thon,,19.6667,105.7000,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,629.3,,,3,Asia/Bangkok,FALSE,1704491295
+Bản Tròng Sua,Ban Trong Sua,,21.7481,104.1616,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704312312
+Chợ Cái Tư,Cho Cai Tu,,9.7333,105.4000,Vietnam,VN,VNM,Hậu Giang,Hau Giang,VN-73,province,,529.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704019953
+Vực Bùn,Vuc Bun,,21.3667,106.5833,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,208.8,,,3,Asia/Bangkok,FALSE,1704669274
+Binh Nguyên,Binh Nguyen,Bing Nguyen,18.4667,105.8667,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,670.0,,,3,Asia/Bangkok,FALSE,1704431919
+Phúc Giang,Phuc Giang,,18.4467,105.7099,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,422.7,,,3,Asia/Bangkok,FALSE,1704037181
+Nà Ten,Na Ten,Bản Na Tền,21.4333,103.9167,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,FALSE,1704056600
+Bản Bãi Bằng,Ban Bai Bang,,22.6911,104.3910,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704572408
+Buôn Ea Po,Buon Ea Po,,12.7000,107.8833,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,186.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704236084
+Đôn Giáo,Don Giao,,21.8000,104.7167,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,91.6,,,4,Asia/Bangkok,FALSE,1704895772
+Ban Chuk,Ban Chuk,,13.2167,108.3500,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,109.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704714078
+Thôn Gia Bô,Thon Gia Bo,Gia Bô,11.8333,108.7333,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,103.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704134569
+Công Kéo,Cong Keo,,22.8833,106.3667,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,93.6,,,4,Asia/Shanghai,FALSE,1704425961
+Bán Lai,Ban Lai,,22.2729,105.2469,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,99.9,,,4,Asia/Bangkok,FALSE,1704224092
+Bản Deng,Ban Deng,,22.2291,106.6190,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,59.4,,,4,Asia/Bangkok,FALSE,1704598113
+Làng Krông,Lang Krong,,13.4944,107.7465,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,77.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704288281
+Buôn Cung Klang,Buon Cung Klang,Ban Cung Klang,12.2500,108.5500,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,18.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704654976
+Tân Lập,Tan Lap,,21.2996,106.0835,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,992.2,,,3,Asia/Bangkok,FALSE,1704939210
+Làng Hít,Lang Hit,,21.7333,105.8667,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,247.3,,,3,Asia/Bangkok,FALSE,1704549633
+Lộc Điên,Loc Dien,,18.5833,105.6833,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,584.6,,,3,Asia/Bangkok,FALSE,1704697136
+Buôn M’lia,Buon M'lia,Ban Ma Lia,12.5500,108.7833,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704669752
+Tân Lập,Tan Lap,,11.9303,106.7193,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,185.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704136673
+Lý Hòa,Ly Hoa,,17.6500,106.5167,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,154.7,,,4,Asia/Bangkok,FALSE,1704692332
+Thọ Trâng,Tho Trang,,19.1500,105.6167,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,591.4,,,3,Asia/Bangkok,FALSE,1704558281
+Tho Tràng,Tho Trang,,19.2667,105.3833,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,514.0,,,3,Asia/Bangkok,TRUE,1704996403
+Buôn Thing,Buon Thing,Buon Ting,12.8833,108.8833,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,57.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704683031
+Làng Mườmg,Lang Muomg,,22.1919,105.0376,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,131.6,,,4,Asia/Bangkok,FALSE,1704446283
+Xóm Bà Giãi,Xom Ba Giai,,10.6500,106.2667,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,316.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704499041
+Hợp Duân,Hop Duan,,18.3519,105.5551,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,46.7,,,4,Asia/Bangkok,FALSE,1704422584
+Cói Khê,Coi Khe,,19.9833,105.9333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,873.7,,,3,Asia/Bangkok,FALSE,1704701915
+Pa Hiem,Pa Hiem,,22.1667,105.8500,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,290.2,,,3,Asia/Bangkok,FALSE,1704893001
+Tiên Quán,Tien Quan,,20.7500,106.0667,Vietnam,VN,VNM,Hưng Yên,Hung Yen,VN-66,province,,1135.3,,,3,Asia/Bangkok,FALSE,1704978480
+Tả Ván Chư,Ta Van Chu,Ta Wan Tchai,22.6046,104.2731,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,80.8,,,4,Asia/Bangkok,FALSE,1704834417
+Phước Kiều,Phuoc Kieu,,17.8833,106.4500,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,357.0,,,3,Asia/Bangkok,FALSE,1704749228
+Nhi Liêu,Nhi Lieu,,22.6667,106.6333,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704101859
+Phú Qưới,Phu Quoi,,10.6647,105.2673,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,767.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704999984
+Thuận Thái,Thuan Thai,,13.9333,109.1167,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,760.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704678313
+Phú Qưới,Phu Quoi,,10.2926,106.6057,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,696.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704115477
+Sùng Vành,Sung Vanh,,22.4742,103.8830,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704000241
+Bằng Khê,Bang Khe,,20.5167,105.9333,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,2337.9,,,2,Asia/Bangkok,FALSE,1704854750
+Yên Tâm,Yen Tam,,19.2833,105.5000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,516.3,,,3,Asia/Bangkok,FALSE,1704289748
+Yên Tam,Yen Tam,,19.9167,105.2667,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,73.1,,,4,Asia/Bangkok,FALSE,1704953742
+Ấp Long Khê,Ap Long Khe,,11.0833,108.1833,Vietnam,VN,VNM,Bình Thuận,Binh Thuan,VN-40,province,,140.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704982912
+Tổng Phong,Tong Phong,,22.4232,105.7658,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,77.5,,,4,Asia/Bangkok,FALSE,1704195702
+Làng Nàn,Lang Nan,,21.8667,104.9167,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704791021
+Thức Hóa,Thuc Hoa,,20.2333,106.3667,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,923.8,,,3,Asia/Bangkok,FALSE,1704887534
+Làng Nan,Lang Nan,,22.0333,104.3000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,57.9,,,4,Asia/Bangkok,FALSE,1704711527
+Kà Tum,Ka Tum,Cà Tum|Katum,11.6667,106.2167,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704116511
+Bản Suối Duon,Ban Suoi Duon,Ban Suoi Dunh,21.0000,104.9833,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,FALSE,1704195634
+Làng Nỷ,Lang Ny,,21.6167,106.2667,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,144.8,,,4,Asia/Bangkok,FALSE,1704148862
+Bù Đốp,Bu Dop,Buôn Bu Dăp|Bon Bu Dap|Bu Dap,11.9304,107.5376,Vietnam,VN,VNM,Đắk Nông,Dak Nong,VN-72,province,,141.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704991573
+Bản Na Pinn,Ban Na Pinn,,21.4833,103.2167,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,118.2,,,4,Asia/Bangkok,FALSE,1704557973
+Làng P’Yang,Lang P'Yang,,13.7598,108.5200,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,39.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704869430
+Xóm Láng,Xom Lang,,10.5667,105.1500,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,581.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704070362
+Lũng Còn,Lung Con,,21.8616,106.4395,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,102.5,,,4,Asia/Bangkok,FALSE,1704859815
+Kon Sơ Lăng,Kon So Lang,Kon Xolal|Kon Xolai,14.2620,108.0957,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,94.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704276371
+Ấp Mỹ Trinh,Ap My Trinh,,10.4167,106.0000,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,738.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704349163
+Xóm Làng,Xom Lang,,10.1833,106.0667,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,658.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704557604
+Lung Hoàng,Lung Hoang,,21.4037,105.5524,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,793.9,,,3,Asia/Bangkok,FALSE,1704330186
+Bản Ha Fa Cap,Ban Ha Fa Cap,,19.3000,105.0833,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,125.9,,,4,Asia/Bangkok,FALSE,1704298553
+Hoàng Kỳ,Hoang Ky,,19.1108,105.2211,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,181.5,,,4,Asia/Bangkok,FALSE,1704727574
+Cao Lao Phường,Cao Lao Phuong,,17.7667,106.3833,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,357.0,,,3,Asia/Bangkok,FALSE,1704354369
+Gia Lộc,Gia Loc,,21.1270,105.8833,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,2418.7,,,2,Asia/Bangkok,FALSE,1704072143
+Khao Me,Khao Me,,23.0886,104.8947,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,98.1,,,4,Asia/Bangkok,FALSE,1704311241
+Thông Kịt,Thong Kit,Tung Kit|Tung Ki,22.0972,106.5894,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,91.6,,,4,Asia/Bangkok,FALSE,1704808484
+Huong Tuong,Huong Tuong,,21.1167,106.8333,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,518.8,,,3,Asia/Bangkok,FALSE,1704435247
+Phú Đức,Phu Duc,,10.7062,105.2823,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,767.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704119067
+Yen Khuong,Yen Khuong,,20.1500,105.0500,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,75.5,,,4,Asia/Bangkok,FALSE,1704778565
+Xéo Sì Hồ,Xeo Si Ho,Chay Hi Ho,21.8465,103.9909,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704911327
+Ấp Thạnh Tr,Ap Thanh Tr,Tri Luong,9.9989,105.2403,Vietnam,VN,VNM,Kiến Giang,Kien Giang,VN-47,province,,379.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704906197
+Y Ky,Y Ky,,21.4091,105.3520,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,294.7,,,3,Asia/Bangkok,FALSE,1704413385
+Buôn Dih Lung,Buon Dih Lung,Buon Di Luong|Ban Di Luong,12.2500,108.1000,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704118227
+Đồng Niên,Dong Nien,,21.2867,106.0821,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,992.2,,,3,Asia/Bangkok,FALSE,1704359786
+Vĩnh Thuận Đông,Vinh Thuan Dong,Vinh Thuanh Dong,9.7211,105.4564,Vietnam,VN,VNM,Hậu Giang,Hau Giang,VN-73,province,,495.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704993555
+Na Hiên,Na Hien,,22.7019,104.9892,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,195.1,,,4,Asia/Bangkok,FALSE,1704920631
+Khe Nà,Khe Na,Bản Kia Na,19.0416,104.7320,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,37.3,,,4,Asia/Bangkok,FALSE,1704499231
+Mét Dưới,Met Duoi,,20.2217,105.7429,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,323.2,,,3,Asia/Bangkok,FALSE,1704842130
+Bản Pình Hồ,Ban Pinh Ho,Ping Ho,22.1582,103.6814,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,97.7,,,4,Asia/Bangkok,FALSE,1704754781
+Chải Mán,Chai Man,,22.2667,103.9000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,82.2,,,4,Asia/Bangkok,FALSE,1704698950
+Làng Dò,Lang Do,,21.4333,105.1667,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,274.5,,,3,Asia/Bangkok,FALSE,1704670060
+Tân Phú,Tan Phu,,9.0580,105.2036,Vietnam,VN,VNM,Cà Mau,Ca Mau,VN-59,province,,241.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704799513
+Nam Hài,Nam Hai,,20.8833,105.6000,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1597.8,,,3,Asia/Bangkok,FALSE,1704785883
+Xóm Dâu,Xom Dau,,10.5833,106.6000,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,913.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704233358
+Xóm Dầu,Xom Dau,,10.5167,106.4667,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,667.9,,,3,Asia/Ho_Chi_Minh,TRUE,1704218891
+Tân Phú,Tan Phu,Ấp Tân Phú,9.6128,105.6019,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,358.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704188021
+Tân Phú,Tan Phu,,21.4504,106.2495,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,507.5,,,3,Asia/Bangkok,FALSE,1704746403
+Cu Xá Đa Nhim,Cu Xa Da Nhim,,11.8333,108.7000,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,103.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704000052
+Cây Thọ,Cay Tho,,21.7587,104.9354,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704714283
+Lương Thượng,Luong Thuong,,22.2667,106.0833,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,47.5,,,4,Asia/Bangkok,FALSE,1704765944
+Ngài An,Ngai An,Phu Ngai,14.1167,109.1667,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,285.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704693481
+Khánh Mỹ,Khanh My,,18.8527,105.2550,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,191.2,,,4,Asia/Bangkok,FALSE,1704839824
+Khánh Mỹ,Khanh My,,15.6167,108.4167,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,380.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704324451
+Dak Rơsa,Dak Rosa,Dak Resia,14.7333,107.8500,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,102.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704793728
+Khánh Mỹ,Khanh My,,15.2333,108.7167,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,590.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704535541
+Lý Chải,Ly Chai,,22.6735,103.3597,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,154.6,,,4,Asia/Bangkok,FALSE,1704292901
+Hương Hào Địch,Huong Hao Dich,,11.4833,106.2500,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704988659
+Ấp Vĩnh Tây,Ap Vinh Tay,,9.7247,105.5364,Vietnam,VN,VNM,Hậu Giang,Hau Giang,VN-73,province,,377.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704243506
+Quôc Tầu,Quoc Tau,,22.7333,106.5667,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,56.5,,,4,Asia/Bangkok,FALSE,1704926128
+Bản Suối Banne,Ban Suoi Banne,,21.0500,104.6667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,FALSE,1704087763
+A Roàng Hai,A Roang Hai,A Roàng 2,16.1125,107.3970,Vietnam,VN,VNM,Thừa Thiên-Huế,Thua Thien-Hue,VN-26,province,,36.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704986265
+Làng Nàng,Lang Nang,,20.8167,105.2333,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,FALSE,1704469377
+Bản Búa Bon,Ban Bua Bon,,21.0346,103.8081,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,FALSE,1704935455
+Thái Bình,Thai Binh,,21.1015,106.1778,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,901.2,,,3,Asia/Bangkok,FALSE,1704414704
+Tứ Thôn,Tu Thon,,20.3333,106.1167,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,816.8,,,3,Asia/Bangkok,FALSE,1704000210
+Ấp Tân Phú Hạ,Ap Tan Phu Ha,,10.4833,105.5167,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,1072.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704976349
+Bản Tom,Ban Tom,,19.5667,104.4000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,33.7,,,4,Asia/Bangkok,FALSE,1704821186
+Bu Đôn,Bu Don,,11.6667,107.2333,Vietnam,VN,VNM,Bình Phước,Binh Phuoc,VN-58,province,,126.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704658031
+Ấp Long Xuân,Ap Long Xuan,,10.5000,107.1333,Vietnam,VN,VNM,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,VN-43,province,,1365.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704756960
+Mao Sao Ping,Mao Sao Ping,,22.7000,104.7667,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,114.0,,,4,Asia/Bangkok,FALSE,1704391638
+Loung Yên,Loung Yen,Loung Yan,22.4167,105.2000,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,99.9,,,4,Asia/Bangkok,FALSE,1704493735
+Làng Diên,Lang Dien,,20.4500,105.3500,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,233.6,,,3,Asia/Bangkok,FALSE,1704941656
+Xóm Gò Me,Xom Go Me,,10.3500,106.7333,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,576.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704342609
+Long Khánh,Long Khanh,Van Khanh,14.5216,108.9050,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,36.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704565800
+Tu Da,Tu Da,,11.3833,108.1333,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,115.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704862409
+Thị trấn Mạo Khê,Thi tran Mao Khe,Mạo Khê,21.0586,106.5926,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,459.8,,,3,Asia/Bangkok,FALSE,1704758027
+Sa Tán,Sa Tan,,21.4044,106.1452,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704972208
+Ấp Sông Trà,Ap Song Tra,,10.7833,106.4333,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,557.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704150998
+Kang Tong,Kang Tong,,22.7333,105.1667,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,68.3,,,4,Asia/Bangkok,FALSE,1704290575
+Sô Ma Hang,So Ma Hang,Ban Sô Mahang|Buon So Mahang,13.4657,108.3874,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,191.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704986365
+Bô Tao,Bo Tao,,20.9167,104.9667,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,FALSE,1704430964
+Hạ Hiệp,Ha Hiep,,21.0500,105.6167,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1699.6,,,3,Asia/Bangkok,FALSE,1704380227
+Nam Kim,Nam Kim,,21.2333,107.3167,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,35.7,,,4,Asia/Bangkok,FALSE,1704842551
+Ấp Kinh Cùng,Ap Kinh Cung,,10.6333,105.9000,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,198.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704241011
+Làng Ria,Lang Ria,,21.1167,105.1667,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,90.7,,,4,Asia/Bangkok,FALSE,1704645339
+Đội Hai,Doi Hai,Đội 2,17.4377,106.4520,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,91.7,,,4,Asia/Bangkok,FALSE,1704945264
+Làng Lan,Lang Lan,,22.7167,106.0000,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,66.0,,,4,Asia/Bangkok,FALSE,1704736786
+Làng Lạn,Lang Lan,,22.0500,104.6167,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,142.7,,,4,Asia/Bangkok,FALSE,1704780427
+Ấp Bình Thới,Ap Binh Thoi,,10.4833,106.5667,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,716.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704263014
+Ấp Bình Thới,Ap Binh Thoi,,10.3000,106.1500,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,759.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704473685
+Hoàng Cân,Hoang Can,,18.6333,105.6333,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,698.6,,,3,Asia/Bangkok,FALSE,1704873115
+Tin Tốc B,Tin Toc B,,21.0923,103.2092,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,61.1,,,4,Asia/Bangkok,FALSE,1704986831
+Bản Nà Khâu,Ban Na Khau,Nà Khâu,22.6137,105.4308,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,66.6,,,4,Asia/Bangkok,FALSE,1704221137
+Pơlei Kơtang,Polei Kotang,Pele Ketan|Polei Ko Tan,14.3000,107.6500,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,45.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704383188
+Ap Một Trăm Không Bảy,Ap Mot Tram Khong Bay,Ap 107,11.1662,107.3072,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,294.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704063055
+Bản Bung,Ban Bung,,21.5167,103.3333,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,118.2,,,4,Asia/Bangkok,FALSE,1704519651
+La Sơn,La Son,La Sou,20.1833,105.5833,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,236.9,,,3,Asia/Bangkok,FALSE,1704755220
+Ham Toc,Ham Toc,Nam Toc,22.1667,105.7333,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,59.1,,,4,Asia/Bangkok,FALSE,1704692927
+Qui Hậu,Qui Hau,Qui Han|Quy Hau,13.0833,109.2667,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,450.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704340162
+Qui Hậu,Qui Hau,,13.0167,109.1000,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,207.6,,,3,Asia/Ho_Chi_Minh,TRUE,1704195710
+Bản Nông Xang,Ban Nong Xang,,21.2167,104.1667,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704710378
+Bình Thới,Binh Thoi,Ấp Bình Thới,10.3948,105.4231,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,2797.7,,,2,Asia/Ho_Chi_Minh,FALSE,1704443156
+Bình Thới,Binh Thoi,Ấp Bình Thớ|Ap Binh Thoi,10.4957,105.1751,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,581.2,,,3,Asia/Ho_Chi_Minh,TRUE,1704836326
+Phúc Nguyên,Phuc Nguyen,,18.9717,105.5757,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,915.9,,,3,Asia/Bangkok,FALSE,1704767500
+Hát Lót,Hat Lot,Thị Trấn Hát Lót,21.1973,104.1060,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,minor,119.5,,,3,Asia/Bangkok,FALSE,1704759368
+Bản Vài,Ban Vai,Bản Và|Bản Va,22.4507,105.8862,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,47.3,,,4,Asia/Bangkok,FALSE,1704694920
+Ban Ea Pal,Ban Ea Pal,,12.7667,108.5500,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,166.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704270523
+Xóm Dong,Xom Dong,,10.3534,106.3024,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,1086.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704191954
+Mường Min,Muong Min,Muong Minh,20.2667,104.7833,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,37.1,,,4,Asia/Bangkok,FALSE,1704319737
+Hiệu Vũ,Hieu Vu,,20.6500,106.1833,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,1193.1,,,3,Asia/Bangkok,FALSE,1704334527
+Tiểu Khu Hai Mươi Mốt,Tieu Khu Hai Muoi Mot,Tiểu Khu 21,21.1911,104.1124,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704570130
+Xóm Cánh,Xom Canh,,21.4000,105.0841,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,FALSE,1704000388
+Đi Oang,Di Oang,,12.7000,108.7833,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704932636
+Làng Suối Tit,Lang Suoi Tit,,20.8000,105.1333,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,FALSE,1704337161
+Đại Bối,Dai Boi,,19.8500,105.7167,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,1012.0,,,3,Asia/Bangkok,FALSE,1704187613
+Xóm Canh,Xom Canh,Xóm Ganh,20.7167,105.9833,Vietnam,VN,VNM,Hưng Yên,Hung Yen,VN-66,province,,1135.3,,,3,Asia/Bangkok,FALSE,1704701313
+Đông Kênh,Dong Kenh,,21.4550,106.2291,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,398.2,,,3,Asia/Bangkok,FALSE,1704412650
+Nà Pha,Na Pha,,22.0967,105.4909,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,56.1,,,4,Asia/Bangkok,FALSE,1704901598
+Lục Liểu,Luc Lieu,Lục Liễu,21.3927,106.1680,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,810.7,,,3,Asia/Bangkok,FALSE,1704728745
+Tân Biên,Tan Bien,,9.4255,105.6078,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,328.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704084562
+Yên Thành Một,Yen Thanh Mot,Yên Thành 1,12.3602,108.1487,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,58.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704725405
+Phương Lâm,Phuong Lam,Xã Phương Lâm,11.2871,107.4868,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,260.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704194054
+Đồng Và,Dong Va,,21.3500,107.4000,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,84.5,,,4,Asia/Bangkok,FALSE,1704311813
+Dồng Trì,Dong Tri,,20.9500,105.8833,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,9951.8,,,2,Asia/Bangkok,FALSE,1704911801
+Nam Thản,Nam Than,Nam Tâo,22.5333,106.3500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,46.2,,,4,Asia/Bangkok,FALSE,1704703694
+Cồ Kính,Co Kinh,,18.4333,105.8333,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,486.3,,,3,Asia/Bangkok,FALSE,1704346247
+Gò Kho,Go Kho,Go Da|Dinh Dien Go Da,10.9000,105.4500,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,311.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704165646
+Ấp Mỹ Lợi,Ap My Loi,,10.4833,105.5167,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,1072.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704920513
+Ấp Mỹ Lợi,Ap My Loi,,10.4833,105.6167,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,1840.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704876823
+Ấp Mỹ Lợi,Ap My Loi,,10.3333,105.8167,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,697.4,,,3,Asia/Ho_Chi_Minh,TRUE,1704272621
+Ấp Mỹ Lợi,Ap My Loi,,10.3333,105.7833,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,449.4,,,3,Asia/Ho_Chi_Minh,TRUE,1704877086
+Ấp Mỹ Lợi,Ap My Loi,,10.4167,106.1500,Vietnam,VN,VNM,Tiền Giang,Tien Giang,VN-46,province,,759.9,,,3,Asia/Ho_Chi_Minh,FALSE,1704781251
+Kon Gull,Kon Gull,,14.4650,107.9889,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,103.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704002285
+Sơ Rớ,So Ro,,13.5879,108.8323,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,39.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704134727
+Buôn Mrưm,Buon Mrum,,12.9333,108.3167,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,235.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704343275
+Vĩnh Linh,Vinh Linh,,21.2782,106.2069,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,3330.5,,,2,Asia/Bangkok,FALSE,1704980865
+Quận Chín,Quan Chin,Quận 9,10.8397,106.7709,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,minor,4319.4,,,2,Asia/Ho_Chi_Minh,FALSE,1704478583
+San Sả Hồ,San Sa Ho,,22.3000,103.8000,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,82.2,,,4,Asia/Bangkok,FALSE,1704714035
+Sán Sả Hồ,San Sa Ho,,22.5237,104.3177,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,80.8,,,4,Asia/Bangkok,TRUE,1704777904
+Tia Đình,Tia Dinh,,21.1265,103.3545,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,61.1,,,4,Asia/Bangkok,FALSE,1704602876
+San Sa Hô,San Sa Ho,,22.3500,103.7333,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,117.6,,,4,Asia/Bangkok,FALSE,1704159176
+Yên Đa,Yen Da,,20.2167,105.6167,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,238.1,,,3,Asia/Bangkok,FALSE,1704692625
+Bản Ít Lót,Ban It Lot,,21.0414,103.8673,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,FALSE,1704504721
+Đồng Tre,Dong Tre,,10.4152,106.4687,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,716.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704626968
+Bản Nà Cộng,Ban Na Cong,,22.0256,106.6350,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,91.6,,,4,Asia/Bangkok,FALSE,1704829718
+Thới Hòa A,Thoi Hoa A,,10.1312,105.6227,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,1317.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704671963
+Thới Hòa A,Thoi Hoa A,,10.0716,105.5578,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,558.6,,,3,Asia/Ho_Chi_Minh,TRUE,1704205323
+Thới Hòa A,Thoi Hoa A,,10.0937,105.4327,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,554.2,,,3,Asia/Ho_Chi_Minh,TRUE,1704859806
+Xã An Hòa,Xa An Hoa,Srok Batou,11.5000,106.5000,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,259.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704463121
+Lân Goay,Lan Goay,,21.8902,106.3432,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,97.9,,,4,Asia/Bangkok,FALSE,1704214975
+Cao Phong,Cao Phong,,21.5744,106.0095,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,247.3,,,3,Asia/Bangkok,FALSE,1704371571
+A La,A La,,16.3868,106.9960,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,34.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704942218
+Ấp Nhơn Lộc,Ap Nhon Loc,,9.9956,105.6822,Vietnam,VN,VNM,Cần Thơ,Can Tho,VN-CT,municipality,,997.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704414379
+Minh Khánh,Minh Khanh,An Phu,15.1500,108.6667,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,590.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704081263
+Trống Pả,Trong Pa,,22.9838,105.2003,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704030133
+Tiểu Khu Mười Lăm,Tieu Khu Muoi Lam,Tiểu Khu 15,21.2147,104.1011,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704693744
+Làng Nung,Lang Nung,,22.8333,106.1833,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,75.0,,,4,Asia/Bangkok,FALSE,1704106444
+Pia Phong,Pia Phong,,22.6333,105.7833,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,48.5,,,4,Asia/Bangkok,FALSE,1704211411
+Nà Giu,Na Giu,Na Ciu,22.6333,106.4167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,106.4,,,4,Asia/Bangkok,FALSE,1704148469
+Cốc Diển,Coc Dien,,22.4884,105.8535,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,77.5,,,4,Asia/Bangkok,FALSE,1704898236
+Xóm Úc Càn Trên,Xom Uc Can Tren,Úc Càn Trên|Vc Can Tren,19.2167,105.7333,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,591.4,,,3,Asia/Bangkok,FALSE,1704976143
+Thôn Khoa,Thon Khoa,,20.4920,104.9640,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,43.1,,,4,Asia/Bangkok,FALSE,1704334533
+Bản Sôp Thou,Ban Sop Thou,,19.2500,104.3000,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,26.0,,,4,Asia/Bangkok,FALSE,1704179110
+Nà Phai,Na Phai,Na Pey,22.4106,105.7811,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,77.5,,,4,Asia/Bangkok,FALSE,1704772134
+Nà Phải,Na Phai,,22.2775,105.8716,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,59.1,,,4,Asia/Bangkok,TRUE,1704694572
+Trung Lương,Trung Luong,,21.1062,106.6460,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,459.8,,,3,Asia/Bangkok,FALSE,1704095138
+Sốc Hum Cha,Soc Hum Cha,,10.4833,104.9000,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,232.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704764265
+Xã Tân Lập,Xa Tan Lap,Tan Lap,10.9167,107.1833,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,866.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704399248
+Xóm Chò,Xom Cho,Chò|Xóm Chòi,9.9342,106.2783,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,492.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704910410
+Xóm Chợ,Xom Cho,,21.2845,106.2198,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,3330.5,,,2,Asia/Bangkok,FALSE,1704781995
+Phum Ô Mékông,Phum O Mekong,,11.0000,105.7000,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,143.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704419334
+Xóm Chợ,Xom Cho,,10.9500,106.7500,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,11109.9,,,2,Asia/Ho_Chi_Minh,FALSE,1704000647
+Ấp Kim Thạch,Ap Kim Thach,,11.9667,108.4167,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,631.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704339428
+Thượng Lac,Thuong Lac,Thương Lao,20.8333,105.7333,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1597.8,,,3,Asia/Bangkok,FALSE,1704371566
+Na Khuay,Na Khuay,,22.9667,105.5500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,55.1,,,4,Asia/Bangkok,FALSE,1704589756
+Làng Gênh,Lang Genh,,21.9333,104.8667,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704319563
+Thâm Tiếng,Tham Tieng,,23.0666,105.2006,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704770687
+Tê Lúa,Te Lua,,21.2482,103.0557,Vietnam,VN,VNM,Điện Biên,Dien Bien,VN-71,province,,85.7,,,4,Asia/Bangkok,FALSE,1704501817
+Lương Trung,Luong Trung,,19.7500,105.9000,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,3277.8,,,2,Asia/Bangkok,FALSE,1704863535
+Sin Quen Hô,Sin Quen Ho,,22.6167,103.8167,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,73.7,,,4,Asia/Bangkok,FALSE,1704465731
+Bản Nậm Xỏm,Ban Nam Xom,,22.6287,104.4291,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.5,,,4,Asia/Bangkok,FALSE,1704663463
+Đội Mười Chín - Tám,Doi Muoi Chin - Tam,Đội 19-8,12.7307,108.1929,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,374.0,,,3,Asia/Ho_Chi_Minh,FALSE,1704454300
+Na Vinh,Na Vinh,,22.9833,105.7000,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,55.1,,,4,Asia/Bangkok,FALSE,1704065248
+Đông Thiếu,Dong Thieu,,21.6118,104.8670,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704977335
+Bản Có,Ban Co,,21.3333,103.9000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,354.1,,,3,Asia/Bangkok,FALSE,1704349830
+Bản Co,Ban Co,,21.3833,103.9000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,354.1,,,3,Asia/Bangkok,TRUE,1704518717
+Bản Cọ,Ban Co,Bản Co,21.1913,103.9697,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,TRUE,1704298710
+Bản Co,Ban Co,,21.4333,103.7500,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.0,,,4,Asia/Bangkok,TRUE,1704397004
+Bản Co,Ban Co,,21.6667,103.7000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704377170
+Bản Cọ,Ban Co,,21.5716,103.7305,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704988976
+Bản Có,Ban Co,,21.5942,103.6789,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,69.3,,,4,Asia/Bangkok,TRUE,1704779033
+Bản Cò,Ban Co,,21.2333,104.3000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,65.2,,,4,Asia/Bangkok,TRUE,1704674670
+Bản Cọ,Ban Co,,21.6023,104.7352,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704305852
+Bản Nà Kẻ,Ban Na Ke,,22.1187,106.6264,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,91.6,,,4,Asia/Bangkok,FALSE,1704738149
+Sa Yu Tiai,Sa Yu Tiai,,22.6667,104.5500,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704311628
+Shei Griao,Shei Griao,,16.4142,106.7403,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,23.1,,,4,Asia/Ho_Chi_Minh,FALSE,1704796602
+Bản Co,Ban Co,Po Sinh,22.2833,106.6500,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,59.4,,,4,Asia/Bangkok,FALSE,1704546206
+Bản Có,Ban Co,,21.5951,107.1940,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,23.0,,,4,Asia/Bangkok,TRUE,1704368253
+Thuần Pháp,Thuan Phap,,21.4667,105.9167,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,579.6,,,3,Asia/Bangkok,FALSE,1704566813
+An Long,An Long,,10.2845,105.9425,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,885.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704654055
+Bản Lè Rằng,Ban Le Rang,,22.6667,102.5167,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,26.4,,,4,Asia/Bangkok,FALSE,1704608059
+An Long,An Long,,10.7167,105.3833,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,239.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704980953
+Chợ Đồn,Cho Don,Dho Don,22.1833,105.6500,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,56.1,,,4,Asia/Bangkok,FALSE,1704674989
+Đắc Nhơn,Dac Nhon,Thôn Đắc Nhơn|Xom Mai Nang,11.6158,108.9255,Vietnam,VN,VNM,Ninh Thuận,Ninh Thuan,VN-36,province,,115.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704359012
+Bu Đang,Bu Dang,,12.1000,107.4167,Vietnam,VN,VNM,Đắk Nông,Dak Nong,VN-72,province,,76.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704018042
+Lùng Tráng,Lung Trang,,22.6825,104.4927,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704536740
+Lung Trang,Lung Trang,,22.6863,105.0858,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,79.6,,,4,Asia/Bangkok,TRUE,1704279579
+Kim Nai,Kim Nai,,17.3000,106.6500,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,80.4,,,4,Asia/Bangkok,FALSE,1704000497
+Phú Giang,Phu Giang,Gio Phu Giang,15.1833,108.8167,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,590.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704084489
+Bồng Lai,Bong Lai,,17.5885,106.3636,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,91.7,,,4,Asia/Bangkok,FALSE,1704847427
+Pha Binh,Pha Binh,,20.9000,104.3167,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,99.1,,,4,Asia/Bangkok,FALSE,1704768528
+Thị Trấn Yên Minh,Thi Tran Yen Minh,Yên Minh,23.1175,105.1425,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,minor,119.2,,,3,Asia/Bangkok,FALSE,1704000103
+Kép,Kep,,21.3997,106.2667,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,820.0,,,3,Asia/Bangkok,FALSE,1704172073
+An Liễu,An Lieu,,21.4088,106.0520,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,789.3,,,3,Asia/Bangkok,FALSE,1704819335
+Quảng Cư,Quang Cu,,20.2000,105.8333,Vietnam,VN,VNM,Ninh Bình,Ninh Binh,VN-18,province,,323.2,,,3,Asia/Bangkok,FALSE,1704462168
+Ấp Bảy Thưa,Ap Bay Thua,,10.8000,105.4000,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,698.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704115841
+Bào Thôn,Bao Thon,,20.0833,105.6333,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,513.0,,,3,Asia/Bangkok,FALSE,1704554417
+Mẫu Ba,Mau Ba,,21.8046,105.0524,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,185.7,,,4,Asia/Bangkok,FALSE,1704662591
+Plei Hưng Đông,Plei Hung Dong,,13.8833,108.5667,Vietnam,VN,VNM,Gia Lai,Gia Lai,VN-30,province,,39.7,,,4,Asia/Ho_Chi_Minh,FALSE,1704709632
+Mường Hum,Muong Hum,Huong Hum,22.5333,103.7167,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704291318
+Nam Pa,Nam Pa,,22.9500,105.4667,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,63.2,,,4,Asia/Bangkok,FALSE,1704000100
+Nam Pa,Nam Pa,,22.7667,105.8500,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,48.5,,,4,Asia/Bangkok,TRUE,1704056193
+Pia Ly,Pia Ly,,22.9000,105.7167,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,55.1,,,4,Asia/Bangkok,FALSE,1704465723
+Nam Pa,Nam Pa,,22.0667,103.8000,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,97.7,,,4,Asia/Bangkok,FALSE,1704440954
+Rọc Ruộng,Roc Ruong,,21.4391,106.7989,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,83.1,,,4,Asia/Bangkok,FALSE,1704994284
+Quang Tiên,Quang Tien,,21.5512,105.0140,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,151.2,,,4,Asia/Bangkok,FALSE,1704420188
+Bình Ngô,Binh Ngo,,21.0495,106.1057,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,1370.9,,,3,Asia/Bangkok,FALSE,1704765682
+Nà Hà,Na Ha,,21.8877,106.4916,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,102.5,,,4,Asia/Bangkok,FALSE,1704088054
+Tiên Sơn,Tien Son,,20.9257,103.9365,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,94.8,,,4,Asia/Bangkok,FALSE,1704218123
+Long Thuận,Long Thuan,,10.4519,105.4315,Vietnam,VN,VNM,An Giang,An Giang,VN-44,province,,1072.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704964296
+Xóm Ấp Chanh,Xom Ap Chanh,,11.0500,106.7333,Vietnam,VN,VNM,Bình Dương,Binh Duong,VN-57,province,,748.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704967518
+Giai Lạc,Giai Lac,Gia Lac,21.2000,105.7667,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1624.3,,,3,Asia/Bangkok,FALSE,1704594458
+Đồng Chai,Dong Chai,,21.0167,105.4667,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,1444.2,,,3,Asia/Bangkok,FALSE,1704000272
+Coc Rao,Coc Rao,Goc Rao,21.9833,106.3667,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,49.6,,,4,Asia/Bangkok,FALSE,1704093386
+Sa Vi Xom,Sa Vi Xom,,21.4833,108.0500,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,222.8,,,3,Asia/Bangkok,FALSE,1704355233
+Muang Chù,Muang Chu,Muahg Chu,20.6500,105.2333,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,156.5,,,4,Asia/Bangkok,FALSE,1704846168
+Long Thuận,Long Thuan,,10.2212,105.9969,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,885.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704276292
+Thế Rương,The Ruong,Thế Phương,21.7000,104.8667,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,1781.5,,,3,Asia/Bangkok,FALSE,1704313554
+Láng Me,Lang Me,,10.8417,107.4015,Vietnam,VN,VNM,Đồng Nai,Dong Nai,VN-39,province,,372.8,,,3,Asia/Ho_Chi_Minh,FALSE,1704116656
+Ô Kha,O Kha,,12.0500,108.9833,Vietnam,VN,VNM,Khánh Hòa,Khanh Hoa,VN-34,province,,69.8,,,4,Asia/Ho_Chi_Minh,FALSE,1704254303
+Cẩm Đái,Cam Dai,Cẩm Đài,21.1526,105.3598,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,836.6,,,3,Asia/Bangkok,FALSE,1704581402
+Kouei La,Kouei La,,22.6500,105.2833,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,68.3,,,4,Asia/Bangkok,FALSE,1704412096
+Xóm Núi,Xom Nui,,21.3156,106.1761,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,2662.6,,,2,Asia/Bangkok,FALSE,1704211554
+Xóm Núi,Xom Nui,,21.2621,106.0743,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,992.2,,,3,Asia/Bangkok,TRUE,1704279346
+Xóm Núi,Xom Nui,,21.2901,106.2382,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,820.0,,,3,Asia/Bangkok,TRUE,1704227453
+Xóm Đình,Xom Dinh,,21.1076,105.3156,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,315.6,,,3,Asia/Bangkok,FALSE,1704514940
+Xóm Đình,Xom Dinh,,21.4333,105.0500,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,267.7,,,3,Asia/Bangkok,TRUE,1704090327
+Xóm Đinh,Xom Dinh,,21.5673,105.1805,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,167.5,,,4,Asia/Bangkok,TRUE,1704710137
+Xóm Đinh,Xom Dinh,,20.9833,105.2833,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,90.7,,,4,Asia/Bangkok,TRUE,1704000267
+Xóm Dinh,Xom Dinh,,21.2000,105.1500,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,89.9,,,4,Asia/Bangkok,TRUE,1704745719
+Xóm Dinh,Xom Dinh,Đồng Đình,21.2780,105.0812,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,TRUE,1704825012
+Xóm Đình,Xom Dinh,,21.3415,105.0651,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,88.8,,,4,Asia/Bangkok,TRUE,1704894421
+Phú Ninh Phố,Phu Ninh Pho,,21.0167,106.0833,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,1370.9,,,3,Asia/Bangkok,FALSE,1704416292
+Khoang Chù Tsao,Khoang Chu Tsao,,22.5167,103.2167,Vietnam,VN,VNM,Lai Châu,Lai Chau,VN-01,province,,71.7,,,4,Asia/Bangkok,FALSE,1704025142
+Thọ Xuân,Tho Xuan,,19.0500,105.6167,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,915.9,,,3,Asia/Bangkok,FALSE,1704392357
+Thọ Xuân,Tho Xuan,,18.9737,105.4783,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,TRUE,1704096689
+Thọ Xuân,Tho Xuan,Quan Phu,19.9313,105.5218,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,minor,696.7,,,3,Asia/Bangkok,FALSE,1704014717
+Xuân Long,Xuan Long,,18.9067,105.4371,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,FALSE,1704543442
+Tuy Lạc,Tuy Lac,,20.9333,106.7167,Vietnam,VN,VNM,Hải Phòng,Hai Phong,VN-HP,municipality,,1367.4,,,3,Asia/Bangkok,FALSE,1704612443
+Tho Xuân,Tho Xuan,,16.8500,107.0333,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,137.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704685867
+Tham Bua,Tham Bua,,10.8833,105.5500,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,311.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704450890
+Phước Lợi B,Phuoc Loi B,,10.2031,105.9545,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,885.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704052574
+Xóm Năm,Xom Nam,Xóm 5,21.1674,106.0776,Vietnam,VN,VNM,Bắc Ninh,Bac Ninh,VN-56,province,,6961.4,,,2,Asia/Bangkok,FALSE,1704580939
+Lạc Giao,Lac Giao,,17.7500,106.3000,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,356.4,,,3,Asia/Bangkok,FALSE,1704180045
+Tao Che,Tao Che,Teo She,22.6333,103.6667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,68.8,,,4,Asia/Bangkok,FALSE,1704129763
+Hương Quế,Huong Que,,15.7833,108.3167,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,332.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704627248
+Co Quân,Co Quan,,22.6500,106.3833,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,106.4,,,4,Asia/Bangkok,FALSE,1704004110
+Sao Thông,Sao Thong,,21.8833,106.4833,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,102.5,,,4,Asia/Bangkok,FALSE,1704148586
+Cốc Phá,Coc Pha,,22.6636,104.3131,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,139.0,,,4,Asia/Bangkok,FALSE,1704673348
+Bản Nà Un Trong,Ban Na Un Trong,,21.0191,104.0054,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,107.5,,,4,Asia/Bangkok,FALSE,1704357712
+Nà Zùn,Na Zun,,21.0759,104.5114,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,65.2,,,4,Asia/Bangkok,FALSE,1704317086
+Phú Khương,Phu Khuong,,11.2833,106.1333,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,1849.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704951059
+Kim Thành,Kim Thanh,,12.5425,108.1746,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,418.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704298593
+Đào Xuyên,Dao Xuyen,,20.9901,105.9317,Vietnam,VN,VNM,Hà Nội,Ha Noi,VN-HN,municipality,,2724.6,,,2,Asia/Bangkok,FALSE,1704984176
+Xóm Phú Hữu,Xom Phu Huu,Phu Huu,9.6667,106.0667,Vietnam,VN,VNM,Sóc Trăng,Soc Trang,VN-52,province,,492.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704819653
+Bô Hô Sứ,Bo Ho Su,Ho Ho Su,16.9000,106.8167,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,143.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704678408
+Suối Rút,Suoi Rut,Suyut|Suvui|Soui Rut|Sui Yut|Pho Cho,20.7667,105.0833,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,FALSE,1704734135
+Đông Thư,Dong Thu,,20.3488,106.2484,Vietnam,VN,VNM,Nam Định,Nam Dinh,VN-67,province,,1151.8,,,3,Asia/Bangkok,FALSE,1704404923
+Pia Kim Hi,Pia Kim Hi,,22.2667,106.0333,Vietnam,VN,VNM,Bắc Kạn,Bac Kan,VN-53,province,,47.5,,,4,Asia/Bangkok,FALSE,1704885137
+Hang Đá,Hang Da,,11.5571,106.3268,Vietnam,VN,VNM,Tây Ninh,Tay Ninh,VN-37,province,,144.9,,,4,Asia/Ho_Chi_Minh,FALSE,1704163394
+Đôn Đu,Don Du,,21.7167,105.7167,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,305.6,,,3,Asia/Bangkok,FALSE,1704399147
+Bản Quôi,Ban Quoi,,21.1833,104.1000,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,119.5,,,4,Asia/Bangkok,FALSE,1704000645
+Ấp Bốn,Ap Bon,Ấp 4,10.5295,105.6994,Vietnam,VN,VNM,Đồng Tháp,Dong Thap,VN-45,province,,449.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704747632
+Vĩnh Lợi,Vinh Loi,,18.3090,105.9584,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,229.1,,,3,Asia/Bangkok,FALSE,1704721498
+Ấp Bốn,Ap Bon,Ấp 4,10.7119,107.3953,Vietnam,VN,VNM,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,VN-43,province,,269.3,,,3,Asia/Ho_Chi_Minh,FALSE,1704464087
+Ấp Bốn,Ap Bon,Ấp 4,10.6045,107.4943,Vietnam,VN,VNM,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,VN-43,province,,269.3,,,3,Asia/Ho_Chi_Minh,TRUE,1704778840
+Ấp Bốn,Ap Bon,Ấp 4,10.6304,107.3710,Vietnam,VN,VNM,Bà Rịa-Vũng Tàu,Ba Ria-Vung Tau,VN-43,province,,269.3,,,3,Asia/Ho_Chi_Minh,TRUE,1704577198
+Ấp Bốn,Ap Bon,Ấp 4,10.4211,106.4715,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,716.7,,,3,Asia/Ho_Chi_Minh,FALSE,1704364756
+Ấp Bốn,Ap Bon,Ấp 4,10.6717,106.4224,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,569.9,,,3,Asia/Ho_Chi_Minh,TRUE,1704054662
+Ấp Bốn,Ap Bon,Ấp 4,10.6191,106.3499,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,330.2,,,3,Asia/Ho_Chi_Minh,TRUE,1704481736
+Ấp Bốn,Ap Bon,Ấp 4,10.7192,105.9849,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,152.7,,,4,Asia/Ho_Chi_Minh,TRUE,1704360120
+Ấp Bốn,Ap Bon,Ấp 4,10.9668,106.2137,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,152.0,,,4,Asia/Ho_Chi_Minh,TRUE,1704262740
+Ấp Bốn,Ap Bon,Ấp 4,10.9475,106.2666,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,152.0,,,4,Asia/Ho_Chi_Minh,TRUE,1704194929
+Ấp Bốn,Ap Bon,Ấp 4,10.9315,106.1629,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,152.0,,,4,Asia/Ho_Chi_Minh,TRUE,1704264158
+Ấp Bốn,Ap Bon,Ấp 4,10.8663,106.3075,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,152.0,,,4,Asia/Ho_Chi_Minh,TRUE,1704096675
+Ấp Bốn,Ap Bon,Ấp 4,10.9053,105.5916,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,105.7,,,4,Asia/Ho_Chi_Minh,TRUE,1704274837
+Ấp Bốn,Ap Bon,Ấp 4,10.6712,105.7772,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,105.7,,,4,Asia/Ho_Chi_Minh,TRUE,1704860781
+Cóc Soọc,Coc Sooc,,22.6937,104.4790,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,121.3,,,4,Asia/Bangkok,FALSE,1704588537
+Ban Ay Rieng,Ban Ay Rieng,Buon A Rieng,13.2333,108.1667,Vietnam,VN,VNM,Đắk Lắk,Dak Lak,VN-33,province,,109.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704238191
+Ấp Bốn,Ap Bon,Ấp 4,10.1291,105.9974,Vietnam,VN,VNM,Vĩnh Long,Vinh Long,VN-49,province,,537.5,,,3,Asia/Ho_Chi_Minh,FALSE,1704478094
+Xóm Gò,Xom Go,,13.2103,109.1900,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,346.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704139654
+Làng Thap,Lang Thap,,22.2000,104.3667,Vietnam,VN,VNM,Lào Cai,Lao Cai,VN-02,province,,96.3,,,4,Asia/Bangkok,FALSE,1704384340
+Tsu Kan,Tsu Kan,,21.3167,104.6167,Vietnam,VN,VNM,Sơn La,Son La,VN-05,province,,110.5,,,4,Asia/Bangkok,FALSE,1704071883
+Gia Be,Gia Be,,11.0167,106.4667,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,1161.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704857273
+Xóm Vó,Xom Vo,,20.5542,105.5228,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,233.6,,,3,Asia/Bangkok,FALSE,1704569582
+Cô Lai,Co Lai,,22.4833,104.9667,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,118.1,,,4,Asia/Bangkok,FALSE,1704876906
+Hà Xá,Ha Xa,,20.8500,106.1500,Vietnam,VN,VNM,Hải Dương,Hai Duong,VN-61,province,,1015.9,,,3,Asia/Bangkok,FALSE,1704603961
+Tân Lâm,Tan Lam,,20.5171,105.8701,Vietnam,VN,VNM,Hà Nam,Ha Nam,VN-63,province,,669.6,,,3,Asia/Bangkok,FALSE,1704863247
+Hưng Nghĩa,Hung Nghia,,14.8739,108.8863,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,395.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704218174
+Hùng Nghĩa,Hung Nghia,,19.0791,105.6462,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,915.9,,,3,Asia/Bangkok,FALSE,1704209817
+Hưng Nghĩa,Hung Nghia,,19.3770,105.5198,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,196.0,,,4,Asia/Bangkok,TRUE,1704794244
+An Định Cầu,An Dinh Cau,Định Cầu,9.9153,106.1442,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,521.6,,,3,Asia/Ho_Chi_Minh,FALSE,1704748026
+Chí Trung,Chi Trung,Chỉ Trung|Qui Thung,19.3514,105.7362,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,468.2,,,3,Asia/Bangkok,FALSE,1704187228
+Chỉ Trung,Chi Trung,,20.4167,106.5500,Vietnam,VN,VNM,Thái Bình,Thai Binh,VN-20,province,,927.2,,,3,Asia/Bangkok,FALSE,1704942347
+Na Puon,Na Puon,,21.9667,106.3167,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,49.6,,,4,Asia/Bangkok,FALSE,1704070920
+Ban Lal,Ban Lal,Ban Lai|Ban La,13.0167,108.8833,Vietnam,VN,VNM,Phú Yên,Phu Yen,VN-32,province,,63.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704000097
+Chí Trung,Chi Trung,,14.7500,109.0167,Vietnam,VN,VNM,Quảng Ngãi,Quang Ngai,VN-29,province,,395.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704191254
+Xóm Sau,Xom Sau,,21.2856,106.2248,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,3330.5,,,2,Asia/Bangkok,FALSE,1704899191
+Làng Cầu,Lang Cau,Làng Cau,21.8832,105.1395,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,142.0,,,4,Asia/Bangkok,FALSE,1704094221
+Ấp Sơn Thọ,Ap Son Tho,,9.7333,106.4000,Vietnam,VN,VNM,Trà Vinh,Tra Vinh,VN-51,province,,503.1,,,3,Asia/Ho_Chi_Minh,FALSE,1704000057
+Mỹ Trung,My Trung,Xóm My Trung,10.7347,106.6039,Vietnam,VN,VNM,Hồ Chí Minh,Ho Chi Minh,VN-SG,municipality,,16112.4,,,2,Asia/Ho_Chi_Minh,FALSE,1704639315
+Đức Quân,Duc Quan,,21.6771,105.0663,Vietnam,VN,VNM,Phú Thọ,Phu Tho,VN-68,province,,167.5,,,4,Asia/Bangkok,FALSE,1704957366
+Xóm Dươi,Xom Duoi,,17.1000,106.9500,Vietnam,VN,VNM,Quảng Trị,Quang Tri,VN-25,province,,143.2,,,4,Asia/Ho_Chi_Minh,FALSE,1704844958
+Xóm Dưới,Xom Duoi,,17.8833,106.4333,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,357.0,,,3,Asia/Bangkok,FALSE,1704090352
+Xóm Dươi,Xom Duoi,,19.7500,105.3500,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,73.1,,,4,Asia/Bangkok,FALSE,1704680125
+Man Son,Man Son,,22.0000,105.6667,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,183.0,,,4,Asia/Bangkok,FALSE,1704000322
+Kim Tính,Kim Tinh,,18.2635,106.0057,Vietnam,VN,VNM,Hà Tĩnh,Ha Tinh,VN-23,province,,224.5,,,3,Asia/Bangkok,FALSE,1704581740
+Vân Sơn,Van Son,,21.2652,106.0453,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,992.2,,,3,Asia/Bangkok,FALSE,1704706726
+Vân Sơn,Van Son,,21.3355,106.0357,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,893.3,,,3,Asia/Bangkok,TRUE,1704000214
+Văn Sơn,Van Son,,21.2498,106.2251,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,785.5,,,3,Asia/Bangkok,TRUE,1704333438
+Vân Sơn,Van Son,,21.3167,106.3333,Vietnam,VN,VNM,Bắc Giang,Bac Giang,VN-54,province,,343.9,,,3,Asia/Bangkok,TRUE,1704103185
+Dang Son,Dang Son,,11.3167,108.0833,Vietnam,VN,VNM,Lâm Đồng,Lam Dong,VN-35,province,,115.0,,,4,Asia/Ho_Chi_Minh,FALSE,1704003129
+Giáp Tam,Giap Tam,,17.6167,106.3667,Vietnam,VN,VNM,Quảng Bình,Quang Binh,VN-24,province,,91.7,,,4,Asia/Bangkok,FALSE,1704105083
+Bắc Phong,Bac Phong,,18.9360,105.4268,Vietnam,VN,VNM,Nghệ An,Nghe An,VN-22,province,,480.5,,,3,Asia/Bangkok,FALSE,1704321720
+Nà Cháo,Na Chao,,22.9013,106.0116,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,75.0,,,4,Asia/Bangkok,FALSE,1704807305
+Đồng Xồm,Dong Xom,Đông Xoum,21.9982,105.2074,Vietnam,VN,VNM,Tuyên Quang,Tuyen Quang,VN-07,province,,142.0,,,4,Asia/Bangkok,FALSE,1704867274
+Na Chao,Na Chao,,21.9833,106.1667,Vietnam,VN,VNM,Lạng Sơn,Lang Son,VN-09,province,,49.6,,,4,Asia/Bangkok,FALSE,1704701147
+Vận Thắng,Van Thang,,21.3775,105.4446,Vietnam,VN,VNM,Vĩnh Phúc,Vinh Phuc,VN-70,province,,595.7,,,3,Asia/Bangkok,FALSE,1704629029
+Vat,Vat,Pi Yu|Pi Ya,15.9333,107.7333,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,29.4,,,4,Asia/Ho_Chi_Minh,FALSE,1704883203
+Ngòi Gạo,Ngoi Gao,,21.7333,104.8333,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,127.6,,,4,Asia/Bangkok,FALSE,1704771816
+Xu Pau,Xu Pau,,21.0333,107.0000,Vietnam,VN,VNM,Quảng Ninh,Quang Ninh,VN-13,province,,64.3,,,4,Asia/Bangkok,FALSE,1704838030
+Thượng Nhân,Thuong Nhan,,21.4000,105.8167,Vietnam,VN,VNM,Thái Nguyên,Thai Nguyen,VN-69,province,,584.1,,,3,Asia/Bangkok,FALSE,1704320771
+Ấp Rừng Dầu,Ap Rung Dau,,10.9333,106.3667,Vietnam,VN,VNM,Long An,Long An,VN-41,province,,557.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704461478
+Sóm Đoa,Som Doa,Sam Dao,21.6333,104.9000,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,135.2,,,4,Asia/Bangkok,FALSE,1704602236
+Háng Chua Xay,Hang Chua Xay,,21.8239,104.1551,Vietnam,VN,VNM,Yên Bái,Yen Bai,VN-06,province,,45.0,,,4,Asia/Bangkok,FALSE,1704740038
+Xã Gò,Xa Go,,13.6167,109.0500,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,31.3,,,4,Asia/Ho_Chi_Minh,FALSE,1704950720
+Xương Lý,Xuong Ly,,13.8833,109.3000,Vietnam,VN,VNM,Bình Định,Binh Dinh,VN-31,province,,1467.2,,,3,Asia/Ho_Chi_Minh,FALSE,1704540386
+Hà Quảng,Ha Quang,Hà Quảng,15.9464,108.2922,Vietnam,VN,VNM,Quảng Nam,Quang Nam,VN-27,province,,981.4,,,3,Asia/Ho_Chi_Minh,FALSE,1704479809
+Mương Mung,Muong Mung,,20.6833,105.4167,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,213.6,,,3,Asia/Bangkok,FALSE,1704032363
+Bản Phí Gò,Ban Phi Go,,22.9547,105.3658,Vietnam,VN,VNM,Cao Bằng,Cao Bang,VN-04,province,,96.4,,,4,Asia/Bangkok,FALSE,1704601013
+Ngòi Triền,Ngoi Trien,,22.3333,104.7833,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,96.6,,,4,Asia/Bangkok,FALSE,1704750967
+Đông Hậu,Dong Hau,,20.1000,105.7833,Vietnam,VN,VNM,Thanh Hóa,Thanh Hoa,VN-21,province,,321.3,,,3,Asia/Bangkok,FALSE,1704125079
+Làng Hai,Lang Hai,,20.7333,105.1500,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,156.5,,,4,Asia/Bangkok,FALSE,1704776390
+Làng Hai,Lang Hai,,20.8500,105.2333,Vietnam,VN,VNM,Hòa Bình,Hoa Binh,VN-14,province,,72.5,,,4,Asia/Bangkok,TRUE,1704516687
+Dak Đê,Dak De,,14.5174,107.7344,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,70.6,,,4,Asia/Ho_Chi_Minh,FALSE,1704126537
+Pan Ca,Pan Ca,,22.9833,105.2333,Vietnam,VN,VNM,Hà Giang,Ha Giang,VN-03,province,,119.2,,,4,Asia/Bangkok,FALSE,1704625751
+Dak Vên,Dak Ven,Dak Vene,15.1333,107.7667,Vietnam,VN,VNM,Kon Tum,Kon Tum,VN-28,province,,36.5,,,4,Asia/Ho_Chi_Minh,FALSE,1704000025

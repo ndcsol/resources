@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Damascus,Damascus,Dimashq|Dimishq|Dimashk al-Shām|Dimashk|Al-Shām|Esh Shām|Dammeseq|Damasco|Damas|Cham|Damaskus|Dimeshki esh Sham,33.5131,36.2919,Syria,SY,SYR,Dimashq,Dimashq,SY-DI,governorate,primary,23838.1,2584771,2584771,1,Asia/Damascus,FALSE,1760685964
+Aleppo,Aleppo,Khalepion|Haleb|Alep|Berea|Aleppe|Beroea|Madīnat Ḩalab|Ḩalab,36.2000,37.1600,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,admin,10545.6,2003671,2003671,1,Asia/Damascus,FALSE,1760366651
+Homs,Homs,Emesa|Hums|Houmousse|Ḩimş,34.7308,36.7094,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,admin,1842.5,775404,775404,2,Asia/Damascus,FALSE,1760013934
+Latakia,Latakia,Lattaquié|El Lādhiqīya|Ladhiqiye|El Lādhaqiyé|Lattakia|Latakieh|Laodikeia|Laodicea|Ladikiya|Ladikis|Laodicée|Al-Laziqiyah|Laodicea ad Mare|Al Lādhiqīyah,35.5167,35.7833,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,admin,12224.1,700000,700000,2,Asia/Damascus,FALSE,1760555544
+Ḩamāh,Hamah,Epiphaneia|Hamath|Epiphania|Hama,35.1333,36.7500,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,admin,775.7,696863,696863,2,Asia/Damascus,FALSE,1760197502
+Ar Raqqah,Ar Raqqah,Nicephorium|Raqqa|Al-Rakka|Rakka|Raqqah,35.9500,39.0100,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,admin,152.8,299824,299824,2,Asia/Damascus,FALSE,1760035911
+Dayr az Zawr,Dayr az Zawr,Deïr ez Zor|Azaura|Dayr az Zūr|Deir Zzor|Deir ez Zoar|Dayr al-Zor,35.3333,40.1500,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,admin,96.1,271800,271800,2,Asia/Damascus,FALSE,1760792603
+Al Ḩasakah,Al Hasakah,Hasakeh|El Haseke|Ḩasskih|Hassetche|Ḩasijih|Al-Hasakeh,36.5117,40.7422,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,admin,149.2,188160,188160,2,Asia/Damascus,FALSE,1760476337
+Al Qāmishlī,Al Qamishli,Kamechlie|Al-Kamishly|Qāmishlīyah|Qamichlîyé|Qamichlīyah|Qāmeshli|Kamishli|El Qamishliye|Kamichlieh,37.0500,41.2200,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,536.6,184231,184231,2,Asia/Damascus,FALSE,1760560461
+Idlib,Idlib,Idleb,35.9333,36.6333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,admin,750.1,165000,165000,2,Asia/Damascus,FALSE,1760305230
+Dar‘ā,Dar`a,Deraâ|Adraa|Der‘ā,32.6189,36.1021,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,admin,672.7,146481,146481,2,Asia/Damascus,FALSE,1760427038
+Qabr as Sitt,Qabr as Sitt,Qabr es Sett|Qabr es Sitt|Sayyidah Zaynab|As Sayyidah Zaynab,33.4472,36.3361,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,136427,136427,2,Asia/Damascus,FALSE,1760060975
+Dūmā,Duma,Douma,33.5711,36.4011,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,1441.6,123494,123494,2,Asia/Damascus,FALSE,1760821818
+Jaramānā,Jaramana,Jurmānā|Jaramānah|Jéramâna|Djaramānā,33.4833,36.3500,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,19220.7,114363,114363,2,Asia/Damascus,FALSE,1760709370
+As Salamīyah,As Salamiyah,Sélémîyé|Selemié|Salamiyeh|Salamias|Selemīya|Salamīyah,35.0118,37.0525,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,193.0,110683,110683,2,Asia/Damascus,FALSE,1760391067
+As Safīrah,As Safirah,Sfiré|Sfīra|Al-Safira|Şafīr|Safira|Safīrah,36.0778,37.3733,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,326.3,106460,106460,2,Asia/Damascus,FALSE,1760134354
+Al Ḩajar al Aswad,Al Hajar al Aswad,Ḩajar al Aswad|Al Hajar al Aswad|Hajar al Aswad,33.4640,36.3044,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,26220.4,101827,101827,2,Asia/Damascus,FALSE,1760587307
+Ma‘arrat an Nu‘mān,Ma`arrat an Nu`man,Ma‘arret en Nu‘mān|Maarret enn Naamâne|Maaret el Noman|Maret en Na‘man|Ma‘arat an Na‘mān|Mo’aret-Nu’man,35.6386,36.6717,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,546.7,90000,90000,3,Asia/Damascus,FALSE,1760482977
+Ţarţūs,Tartus,Tartoûs|Tartouss|Antaradus,34.8833,35.8833,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,admin,1098.1,89457,89457,2,Asia/Damascus,FALSE,1760695473
+Dārayyā,Darayya,Dārayā|Dâraiya|Deraya|Dāreiya|Dārayyah|Daraye|Daraya,33.4500,36.2500,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,4057.7,84044,84044,2,Asia/Damascus,FALSE,1760409750
+Ath Thawrah,Ath Thawrah,Al-Tabbaqah|Al Tabaqah|Ţabaqah|Aţ Ţabaqah|Aţ Ţabqah|Madīnat ath Thawrah|Tabqa|Medinat Al Thawra|Revolution City|At Tabqah|Al-Thawra|Thawrah,35.8367,38.5481,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,minor,2350.3,84000,84000,2,Asia/Damascus,FALSE,1760605225
+Manbij,Manbij,Manbi|Manbej|Minbej|Menbidj|Mennbidj|Membidj|Hierapolis|Menbij|Memdidge|Membij,36.5275,37.9553,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,260.1,78255,78255,3,Asia/Damascus,FALSE,1760355581
+Jablah,Jablah,Jableh|Jableh|Jeble|Jebelli|Djéblé|Jebeleh|Jebele,35.3500,35.9167,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,1324.2,75505,75505,3,Asia/Damascus,FALSE,1760685267
+Al Qurayyā,Al Qurayya,El Qoûrîyé|Al Qurayyah|El Qraïyé|Al Qūrayyah|Al Qūrīyah,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,154.0,70680,70680,3,Asia/Damascus,FALSE,1760541645
+As Suwaydā’,As Suwayda',Sweida|Soueïda|Suwaydah|Es Suweidīya|As Suwaydah|Dionysia|Al-Sweida|Es Suweida,32.7125,36.5667,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,admin,310.9,64730,64730,2,Asia/Damascus,FALSE,1760680757
+Nawá,Nawa,Naoua,32.8889,36.0431,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,537.5,63676,63676,3,Asia/Damascus,FALSE,1760963983
+At Tall,At Tall,Tall|Ett Tell|Al-Tal|Tell|Tal,33.6000,36.3000,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,633.5,63554,63554,3,Asia/Damascus,FALSE,1760718626
+Ar Rastan,Ar Rastan,Al-Rastan|Rastâne|Rastan|Er Rastan|Arethus|Arethousa|El Rastane,34.9167,36.7333,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,758.9,61176,61176,3,Asia/Damascus,FALSE,1760205423
+Khān Shaykhūn,Khan Shaykhun,Khâne Chaïkhoun|Khān Sheikhūn|Khan-Sheikhoun|Khâne Cheïkhoûn|Khan Cheykoun,35.4389,36.6511,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,371.2,55843,55843,3,Asia/Damascus,FALSE,1760049407
+An Nabk,An Nabk,Nabak|Nebek|Al-Nabek|En Nebk|Nebk|Nébeck|Nabek|Kalamom|Nabaq,34.0167,36.7167,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,154.9,52502,52502,3,Asia/Damascus,FALSE,1760474665
+Ālbū Kamāl,Albu Kamal,Abou Kemal|Al-bu-Kamal|Abu Kemāl|Abū Kamāl|Hindané,34.4536,40.9367,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,35.9,52020,52020,3,Asia/Damascus,FALSE,1760836213
+Tadmur,Tadmur,Tedmor|Tadmor|Palmyre|Palmyra,34.5600,38.2672,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,4.7,51323,51323,3,Asia/Damascus,FALSE,1760484707
+Babīlā,Babila,Babila|Bāb Bīlā,33.4728,36.3344,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,7456.4,50880,50880,2,Asia/Damascus,FALSE,1760722268
+Al Mayādīn,Al Mayadin,Meyedine|Meyādīn|Mayādīn|Al-Mayadeen|Meyadine|Audattha|Mayadine,35.0183,40.4533,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,88.9,48922,48922,3,Asia/Damascus,FALSE,1760808069
+Ash Shaykh Badr,Ash Shaykh Badr,Sheikh-Bader|Cheïkh Beder|Al-Sheikh-Bader|Ech Cheikh Badr|Shaykh Badr|Ech Cheïkh Bader|Cheïkh Bader,34.9833,36.0833,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,329.6,47982,47982,3,Asia/Damascus,FALSE,1760412368
+‘Āmūdā,`Amuda,Amouda|Aâmoûda|Amude|‘Āmūdah,37.1042,40.9300,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,79.9,47580,47580,3,Asia/Damascus,FALSE,1760247135
+Yabrūd,Yabrud,Yabroûd|Jebrud|Jebru|Gebru,33.9667,36.6667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,205.4,47136,47136,3,Asia/Damascus,FALSE,1760885103
+Al Quşayr,Al Qusayr,Qusir|Quşayr|Kousseir|El Qoussair|Kuseir|Qoussaïr|Koussaie|Kouseir|Al-Kuseir|El Quseir,34.5119,36.5764,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,284.4,46772,46772,3,Asia/Damascus,FALSE,1760157542
+Ḩarastā,Harasta,Ḩarastā al Başal|Ḩiristā|Harasta el Bassal|Harasta|Arasta Bassal|Harastah al Başal,33.5667,36.3667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,5728.9,45974,45974,2,Asia/Damascus,FALSE,1760273732
+Tallbīsah,Tallbisah,Tall Bissah|Tall Bīsih|Tell Bīse|Tel Bisi|Telbise|Tell Bîsse|Talbīsah|Tell Bîssé|Talbiseh,34.8333,36.7333,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,555.6,45853,45853,3,Asia/Damascus,FALSE,1760319800
+‘Ayn al ‘Arab,`Ayn al `Arab,‘Arab Bīnār|Ein-al-Arab|Arab Peunar|‘Arab Būnār|Aarab Peunâr|Aïn el Aarab|Kubanî|Kūbānī|Kubani|Kubanê|Kobane|Kobanî|Kobanê,36.8910,38.3536,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,159.7,44821,44821,3,Asia/Damascus,FALSE,1760764004
+Zamalkā,Zamalka,,33.5253,36.3528,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,17090.8,44661,44661,2,Asia/Damascus,FALSE,1760999732
+Jisr ash Shughūr,Jisr ash Shughur,Jisr-esh-Shughour|Jisr ech Chorhour|Djisr el Choghour|Jisr ash Shāghūr|Jisr Al-Shughour|Jisr esh Shughūr|Jisr esh Shaur,35.8126,36.3176,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,515.4,44322,44322,3,Asia/Damascus,FALSE,1760389710
+Al Kiswah,Al Kiswah,Kiswah|Kissoue|Kiswe|Kisswa|Kisoué|Kisweh,33.3500,36.2333,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,354.0,43456,43456,3,Asia/Damascus,FALSE,1760910325
+Bāniyās,Baniyas,Bâniâs|Bulunyās,35.1822,35.9403,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,757.2,43151,43151,3,Asia/Damascus,FALSE,1760780974
+Tādif,Tadif,Teft|Tâdef|Tâder,36.3481,37.5308,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,198.2,41786,41786,3,Asia/Damascus,FALSE,1760362095
+Jayrūd,Jayrud,Jairud|Djerud|Djéroud|Jaïroud|Jerūd,33.8067,36.7403,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,137.8,39903,39903,3,Asia/Damascus,FALSE,1760101368
+Sarāqib,Saraqib,Sarâqeb|Seraikin|Sarakeb|Seraqib|Serāqab|Saraquib|Serakab,35.8636,36.8006,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,348.5,39901,39901,3,Asia/Damascus,FALSE,1760810482
+Al Mālikīyah,Al Malikiyah,Malikiyeh|Deïrîk|Derik|Darik|Dayrīk|Kīr Zérik|Guir Zérik|Kīr Dhayrīk|Malkieh|Dêrik|Dêrîk,37.1667,42.1333,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,131.1,39000,39000,3,Asia/Damascus,FALSE,1760784945
+Al Ghizlānīyah,Al Ghizlaniyah,Rhozlanyé|Gozlanié|El Ghuzlānīye|Al Ghuzlānīyah|Ghizlānīyah|Rhozlaniye|Ghazlaniye|Ghuzlānīyah,33.3986,36.4531,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,156.5,38473,38473,3,Asia/Damascus,FALSE,1760034578
+Hajīn,Hajin,Abou Hardâne|Hajîne|Bou Hardane|Abū Ḩardān|Abū Ḩardūb,34.6894,40.8308,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,90.8,37935,37935,3,Asia/Damascus,FALSE,1760926776
+Al Qaryatayn,Al Qaryatayn,Kuryatein|Karyatein|El Qaryatein|Nezala|Kariatein|Qaryatayn|Kuriatein|Qariateïne|Kariateine,34.2283,37.2406,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,6.5,37820,37820,3,Asia/Damascus,FALSE,1760172806
+Ma‘arratmişrīn,Ma`arratmisrin,Maarret Misrine|Ma‘arrat Misriyn|Maarret el Mesrine|Maarrat al Masrin|Maarat Missrin|Ma‘arrat Mişrīn,36.0000,36.6667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,367.5,37490,37490,3,Asia/Damascus,FALSE,1760812215
+Maşyāf,Masyaf,Misiaf|Omranié|Imranie|Masyāb|Maşşīyaf|‘Omrānīye|Massiâf|Masyad|‘Umraniya|Massyaf,35.0653,36.3422,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,240.7,37109,37109,3,Asia/Damascus,FALSE,1760933504
+‘Afrīn,`Afrin,Afrine|‘Ifrīn|Aafrîne,36.5083,36.8692,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,9.5,36562,36562,3,Asia/Damascus,TRUE,1760410858
+Tallkalakh,Tallkalakh,Tell Kalakh|Talkalakh|Telkalakh|Tall Kalakh,34.6683,36.2597,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,432.9,35445,35445,3,Asia/Damascus,FALSE,1760254463
+Dayr Ḩāfir,Dayr Hafir,Deir Hâfir|Deir Hâfero|Deïr Hâfer,36.1569,37.7078,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,470.5,35409,35409,3,Asia/Damascus,FALSE,1760046071
+Şalkhad,Salkhad,Salkas|Salkhade|Salka|Şalākhad|Salâkhed,32.4917,36.7111,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,76.7,35000,35000,3,Asia/Damascus,FALSE,1760200029
+Tall Salḩab,Tall Salhab,Tell Salhab|Tallsalḩab,35.2609,36.3822,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,276.2,35000,35000,3,Asia/Damascus,FALSE,1760127036
+Qadsayyā,Qadsayya,Koudsaya|Edsaya|Adsâya|Qudsīyā|Qadisiyā|Qudsayyā|Qadsīyā,33.5333,36.2167,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,1779.8,33571,33571,3,Asia/Damascus,FALSE,1760188872
+Ţafas,Tafas,Tafass,32.7356,36.0669,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,693.1,32236,32236,3,Asia/Damascus,FALSE,1760012771
+Şāfītā,Safita,Borj Sâfîta|Khokhu|Burj Şāfītā|Satita,34.8167,36.1167,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,661.5,32213,32213,3,Asia/Damascus,FALSE,1760592493
+Jāsim,Jasim,Qāsim|Jâssem|Jasem|Jacem,32.9667,36.0667,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,515.0,31683,31683,3,Asia/Damascus,FALSE,1760676905
+I‘zāz,I`zaz,Aazâz|A‘zāz,36.5866,37.0463,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,402.5,31534,31534,3,Asia/Damascus,FALSE,1760669569
+Inkhil,Inkhil,Enn Nakhl|Inkhel|Ennkhel,33.0000,36.1167,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,31258,31258,3,Asia/Damascus,FALSE,1760570627
+Ar Ruḩaybah,Ar Ruhaybah,Ruhaibeh|Rouhaïbe|Ruḩaybah,33.7436,36.7012,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,71.1,30450,30450,3,Asia/Damascus,FALSE,1760100307
+Kafr Nubl,Kafr Nubl,Kafer Nebal|Kufer Nabel|Kafr Nubul|Kafr Nabl,35.6139,36.5611,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,368.7,30000,30000,3,Asia/Damascus,FALSE,1760535722
+Ra’s al ‘Ayn,Ra's al `Ayn,Râss el Aïn|Rass-el-Ein|Râs el Aïn,36.8503,40.0706,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,36.7,29347,29347,3,Asia/Damascus,FALSE,1760030804
+Şūrān,Suran,Soûrâne|Souran|Soran|Şawrān,35.2897,36.7433,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,279.0,29100,29100,3,Asia/Damascus,FALSE,1760512352
+Yaldā,Yalda,,33.4628,36.3217,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,28384,28384,2,Asia/Damascus,FALSE,1760171113
+Tall Rif‘at,Tall Rif`at,Tell Rifat|Tell Refaat|Tell Rifaâte|Tell Arfad,36.4733,37.0972,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,326.2,27086,27086,3,Asia/Damascus,FALSE,1760489101
+Al Quţayfah,Al Qutayfah,Quţayfah|Kouteifé|Quteifeh|Quteife|El Qtaïfé|Kutayfa|Quteifa|Kuteife|Qtaïfé|Al-Kutaifeh,33.7389,36.6000,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,273.9,26671,26671,3,Asia/Damascus,FALSE,1760671268
+Az Zabadānī,Az Zabadani,Zebedani|Zabadani|Zebdāni|Zabdānī|Zibdānī,33.7250,36.0972,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,387.5,26285,26285,3,Asia/Damascus,FALSE,1760989247
+Aş Şanamayn,As Sanamayn,Sanmayn|Sanameïne|Sanamein|Es Sannamain|Es Sanamein|Aeré|Şanamayn,33.0711,36.1842,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,353.0,26268,26268,3,Asia/Damascus,FALSE,1760865788
+Siqbā,Siqba,Sakba|Saqbah|Saqbā|Saqba,33.5197,36.3844,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7693.2,25654,25654,2,Asia/Damascus,FALSE,1760248579
+Şaydnāyā,Saydnaya,Said Nâya|Seyd Naya|Seidnaya|Sednaya,33.6967,36.3739,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,225.9,25194,25194,3,Asia/Damascus,FALSE,1760302528
+Tall Shihāb,Tall Shihab,Tell esh Shehāb|Tall ash Shihāb|Tel es Shebab|Tell Chéhâb,32.6886,35.9889,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,587.4,25000,25000,3,Asia/Damascus,FALSE,1760255410
+Ţayyibat al Imām,Tayyibat al Imam,Ţaybat al Imām ‘Alī|Ţaybat al Imām|Tibbat al Imām|Taïbet el Imâm|Tibet Iman,35.2661,36.7114,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,24105,24105,3,Asia/Damascus,FALSE,1760649932
+Subaykhān,Subaykhan,Soubeïkhâne|Sabikhan|Şubaykhān,34.8464,40.5939,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,154.0,23867,23867,3,Asia/Damascus,FALSE,1760638226
+Salqīn,Salqin,Selkin|Silkin|Salkîne|Salqîne,36.1333,36.4500,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,546.8,23700,23700,3,Asia/Damascus,FALSE,1760573067
+Qaţanā,Qatana,Qaţanah|Katana,33.4333,36.0833,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,534.2,22831,22831,3,Asia/Damascus,FALSE,1760346496
+Kafr Baţnā,Kafr Batna,Kefer Batna|Kafer Batna|Kafar Batna,33.5000,36.3667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,7679.8,22535,22535,2,Asia/Damascus,FALSE,1760528656
+Ḩārim,Harim,Harem,36.2000,36.5167,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,420.5,21934,21934,3,Asia/Damascus,FALSE,1760216782
+Binnish,Binnish,Binnich|Binnesh,35.9500,36.7000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,523.5,21848,21848,3,Asia/Damascus,FALSE,1760335847
+Nubl,Nubl,Noubbel|Noubbol,36.3756,36.9942,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,452.9,21039,21039,3,Asia/Damascus,FALSE,1760030884
+‘Adrā,`Adra,‘Adhrah|Adra|Aadra|‘Adrah,33.6000,36.5150,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1441.6,20559,20559,3,Asia/Damascus,FALSE,1760640037
+Kafr Lāhā,Kafr Laha,Kafer Lâha|Kufer Laha|Kafr Lāḩah|Kefrlehe,34.8831,36.5000,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.7,20041,20041,3,Asia/Damascus,FALSE,1760660605
+Buşrá ash Shām,Busra ash Sham,Bostra|Busra Sham|Bosra Eski Sham|Bosra ech Châm|Buşrah ash Shām|Busra|Bosra|Buşrá,32.5167,36.4833,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,157.4,19683,19683,3,Asia/Damascus,FALSE,1760158105
+Izra,Izra,Izra‘a|Zorava|Lorava|Ezraa|Ezra|Ezrra|Zoraia,32.8454,36.2499,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,247.8,19158,19158,3,Asia/Damascus,FALSE,1760987853
+Zākīyah,Zakiyah,Zakieh|Zakyé|Zakîyé,33.3344,36.1567,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,18553,18553,3,Asia/Damascus,FALSE,1760898961
+Tall ‘Aran,Tall `Aran,Tell Arane|Tell Aarane Salhiye|Tell Aarane|Tal‘aran,36.1231,37.3369,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,326.3,17767,17767,3,Asia/Damascus,FALSE,1760332493
+Muḩradah,Muhradah,Maḩarde|Muhardeh|Maḩardih|Maḩardah|Al Karmah,35.2500,36.5833,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,515.3,17578,17578,3,Asia/Damascus,FALSE,1760500956
+Al ‘Ashārah,Al `Asharah,Al Ashārah|Qasr el ‘Ashara|Sharra|Acharat|Charra|Tirya|El Achâra|El Aachâra,34.9203,40.5594,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,154.0,17537,17537,3,Asia/Damascus,FALSE,1760227736
+Manīn,Manin,Minīn|Mnîne|Menin,33.6422,36.2978,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,17521,17521,3,Asia/Damascus,FALSE,1760640796
+As Suqaylibīyah,As Suqaylibiyah,Skeilbieh|Al-Skeilbyeh|Sqalbiyé|Saglabiye|Skalebié|Şuqaylabīyah|Şaqlabīyah|Şuqaylibīyah|Saqlabīyah|Suqaylibīyah,35.3697,36.3800,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,319.5,17313,17313,3,Asia/Damascus,FALSE,1760164203
+Al Ḩārah,Al Harah,El Hārra|Harra|Hara|Al Ḩarrā|Al Ḩārrah,33.0500,36.0000,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,17172,17172,3,Asia/Damascus,FALSE,1760419453
+Kafr Zaytā,Kafr Zayta,Az Zaytīyah|Kafr Zaytah|Kafr Zīta|Kafer Zita|Kafer ez Zaïta|Kafer Zaïta,35.3736,36.6017,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,387.6,17052,17052,3,Asia/Damascus,FALSE,1760801679
+Māri‘,Mari`,Mare’‘|Maareh|Mraa|Mâréaa|Ma‘rātah|Mar‘ā|Daftardār|Defterdar,36.4828,37.1964,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,315.4,16904,16904,3,Asia/Damascus,FALSE,1760793833
+Shahbā,Shahba,Shahbā’|Shaba|Chahba|Philippopolis|Shahaba|Philppopolis|Phillipopolis|Shahbah,32.8542,36.6292,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,175.1,16745,16745,3,Asia/Damascus,FALSE,1760158993
+Al Laţāminah,Al Lataminah,Laţāminah|Al Laţţāminah|El Latâmné,35.3208,36.6225,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,387.6,16267,16267,3,Asia/Damascus,FALSE,1760263860
+Khirbat Ghazālah,Khirbat Ghazalah,Rhazâle|Khirbat al Ghazālah|Khirbet el Ghazāle|Ghazale|Kheurbet Rhazâlé,32.7333,36.2000,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,487.9,16240,16240,3,Asia/Damascus,FALSE,1760127200
+As Sukhnah,As Sukhnah,Sukhnah|Soukhné|Es Sukhne,34.8868,38.8721,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,2.3,16173,16173,3,Asia/Damascus,FALSE,1760585431
+Tasīl,Tasil,Tsîl,32.8353,35.9714,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,474.2,15985,15985,3,Asia/Damascus,FALSE,1760040877
+Ash Shaddādah,Ash Shaddadah,Shadādī|Chaddâde|Tall Shadādī|Tell Shedādi|Ath Tharādī|Chaddâdi|Jisr ash Shadādï,36.0561,40.7303,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,44.9,15806,15806,3,Asia/Damascus,FALSE,1760828558
+Al Mu‘abbadah,Al Mu`abbadah,Girkê Legê,37.0164,41.9544,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,131.1,15759,15759,3,Asia/Damascus,FALSE,1760650060
+Bayt Saḩam,Bayt Saham,Beït Saham,33.4733,36.3372,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,15667,15667,2,Asia/Damascus,FALSE,1760362241
+Maskanah,Maskanah,Meskéné|Meshseneh|Meskeneh|Maskanih|Bālis,35.9632,38.0356,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,239.3,15477,15477,3,Asia/Damascus,FALSE,1760994714
+Kuljibrīn,Kuljibrin,Kūl Jibrīn|Gueul Jébraïne|Cueul Jébraïne|Gul Djebreïne|Jibrîne|Jibrīn,36.5361,37.1175,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,402.5,15000,15000,3,Asia/Damascus,FALSE,1760857046
+Sarmadā,Sarmada,Sarmadah|Sermaba,36.1833,36.7167,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,15000,15000,3,Asia/Damascus,FALSE,1760828582
+Tall Abyaḑ,Tall Abyad,Tell Abiad|Tal-Abyad|Tell Abyad,36.6975,38.9567,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,minor,134.8,14825,14825,3,Asia/Damascus,FALSE,1760694879
+Sarmīn,Sarmin,Sermīn|Sarmîne,35.9033,36.7258,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,486.7,14530,14530,3,Asia/Damascus,FALSE,1760931266
+Mūrak,Murak,Moûrek,35.3753,36.6872,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,14307,14307,3,Asia/Damascus,FALSE,1760107905
+Al Mu‘aḑḑamīyah,Al Mu`addamiyah,Mu‘aḑamīyah|Mu‘az̧z̧amīyah|Mouaddamîyé|Mu‘aḑamīyat ash Shaykh|Mu‘aḑḑamīyah|Mu‘aḑḑamīyat ash Shaykh|Mu‘aḑḑamīyat al Qalamūn,33.7421,36.6435,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,273.9,14228,14228,3,Asia/Damascus,FALSE,1760021523
+Şaḩnāyā,Sahnaya,Sahnaiya,33.4242,36.2244,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,1691.3,13993,13993,3,Asia/Damascus,FALSE,1760192285
+Kanākir,Kanakir,Qanaker|Kenâker,33.2672,36.0969,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,13950,13950,3,Asia/Damascus,FALSE,1760897591
+Jindayris,Jindayris,Dīndaris|Jandarīs|Jindaras|Djinndéress|Djenndéress|Genderesse|Jendéress|Jandayris|Jundayris,36.3947,36.6889,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,157.2,13661,13661,3,Asia/Damascus,FALSE,1760063267
+Dārat ‘Izzah,Darat `Izzah,Dār Ta‘izzah|Dart Azzé|Dār Ta‘izah|Dār el ‘Izze|Dār al ‘Izzah|Dar Taâzze|Dar Ja’zeh,36.2828,36.8519,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,259.7,13525,13525,3,Asia/Damascus,FALSE,1760338572
+Kafr Nabūdah,Kafr Nabudah,Kafer Nboûdé|Kafr Nboûdé,35.4317,36.4928,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,13513,13513,3,Asia/Damascus,FALSE,1760648464
+Buşrá al Ḩarīr,Busra al Harir,Bosor|Búşrah al Ḩarīrī|Busra el Harīri|Busr el Hariri|Başr al Ḩarīr|Bosra el Harîri|Buşrá al Ḩarīrī,32.8425,36.3400,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,247.8,13315,13315,3,Asia/Damascus,FALSE,1760065014
+Ad Duraykīsh,Ad Duraykish,Dureikīsh|Bermana|Dere Kish|Dreikich|Draïkich|Draykīkh|Duraykīsh|Draïkîch,34.8969,36.1346,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,455.8,13244,13244,3,Asia/Damascus,FALSE,1760515031
+Shīn,Shin,Chîne,34.7833,36.4333,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,330.6,13020,13020,3,Asia/Damascus,FALSE,1760607600
+Qal‘at al Maḑīq,Qal`at al Madiq,Qal‘at el Mudiq|Qal‘at al Muḑīq|Kalat el Mudik|Kal’at al Madik|Kalaat Moudik|Qalaat el Moudiq|Qal‘at el Madhiq,35.4100,36.3900,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,434.3,12925,12925,3,Asia/Damascus,FALSE,1760079003
+Al Muzayrīb,Al Muzayrib,Mzérib|Mezerib|Bouta|Muzeirīb|Mzaïrîb|Muzayrīb,32.7109,36.0266,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,693.1,12640,12640,3,Asia/Damascus,FALSE,1760935578
+Qārah,Qarah,Karra|Kara|Qārā,34.1542,36.7442,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,85.7,12508,12508,3,Asia/Damascus,TRUE,1760019863
+Mi‘rabah,Mi`rabah,Maaraba|Ma‘rabā,32.5458,36.4283,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,157.4,12359,12359,3,Asia/Damascus,FALSE,1760390281
+Ḩawsh al Baḩdalīyah,Hawsh al Bahdaliyah,Haouch Bahdalié|Bahdaliyé|Baḩdalīyah|Al Baḩdalīyah,33.4292,36.3611,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,12330,12330,2,Asia/Damascus,FALSE,1760272131
+Kafr Rūmā,Kafr Ruma,Kafr Rūmah|Kafer Roûma|Kafr Rūmā,35.6342,36.6322,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,12276,12276,3,Asia/Damascus,FALSE,1760413960
+Kafr Buhum,Kafr Buhum,Al Ghassānīyah|Kafr Behūm|Kifrabhūm|Kafr Behoum|Kafr Abuhum|Kafer Bouhoum|Al Ghānīyah|Kafar Bihem,35.0611,36.6972,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,12194,12194,3,Asia/Damascus,FALSE,1760856800
+Tall Dhahab,Tall Dhahab,Tell Zahab,34.8581,36.4517,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.7,12055,12055,3,Asia/Damascus,FALSE,1760071536
+‘Anadān,`Anadan,Aanadâne|Anadane|‘Anadār,36.2936,37.0444,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,443.5,11918,11918,3,Asia/Damascus,FALSE,1760993442
+Ghabāghib,Ghabaghib,Rhabârheb,33.1839,36.2264,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,209.7,11802,11802,3,Asia/Damascus,FALSE,1760507267
+Jarābulus,Jarabulus,Jarablus|Djérâbloûs|Carablus|Jarablos|Jerablus|Djarablous|Jirāblus,36.8175,38.0111,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,212.3,11570,11570,3,Asia/Damascus,FALSE,1760404681
+Şaydā,Sayda,Saïda|Sa‘īdah,32.6283,36.2261,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,672.7,11215,11215,3,Asia/Damascus,FALSE,1760191723
+Mahīn,Mahin,Mehīn|Mihîne|Mhine|Méhine|Mahire,34.2425,37.0589,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,41.8,11064,11064,3,Asia/Damascus,FALSE,1760830221
+Dayr ‘Aţīyah,Dayr `Atiyah,Deir Atieh|Deïr Aatiyé|Deir ‘Atīye,34.0833,36.7667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,85.7,10984,10984,3,Asia/Damascus,FALSE,1760656122
+Aş Şabbūrah,As Sabburah,Şabbūrah|Saboura|Sabbūra|Sabboûrao|Sabboûra,33.5151,36.1259,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,10969,10969,3,Asia/Damascus,FALSE,1760388490
+Khaţţāb,Khattab,Khattâb,35.1975,36.6672,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,588.9,10830,10830,3,Asia/Damascus,FALSE,1760480651
+Jarjanāz,Jarjanaz,,35.6175,36.7772,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,10756,10756,3,Asia/Damascus,FALSE,1760182310
+Bāghūz Fawqānī,Baghuz Fawqani,Barhouz|Bârhoûz Chémâli|Bāghūz Shimālī|Bāghūz ash Shamālī|Bârhouz Chimâli|Al Bāghūz Fawqānī,34.4586,40.9506,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,295.4,10689,10689,3,Asia/Damascus,FALSE,1760767113
+Al Atārib,Al Atarib,Athārib|Térib|El Atâreb|Atārib|Tarib,36.1389,36.8300,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,380.0,10657,10657,3,Asia/Damascus,FALSE,1760645780
+‘Utaybah,`Utaybah,Aateïbé|El Ateibe|Al ‘Utaybah,33.4861,36.6011,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,10548,10548,3,Asia/Damascus,FALSE,1760277356
+Al Karak,Al Karak,El Karak,32.6872,36.3508,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,301.5,10510,10510,3,Asia/Damascus,FALSE,1760662901
+Al Musayfirah,Al Musayfirah,Mousseifré|El Museifire|Moussaïfre|Moussaïfrat|Museifre|Musayrifah,32.6322,36.3386,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,301.5,10466,10466,3,Asia/Damascus,FALSE,1760039988
+Turmānīn,Turmanin,Termanîne,36.2333,36.8167,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,10394,10394,3,Asia/Damascus,FALSE,1760551418
+Bārah,Barah,Bara|El Bāra|Bâre|Al Bārah,35.6830,36.5330,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,10353,10353,3,Asia/Damascus,FALSE,1760852702
+Armanāz,Armanaz,,36.0833,36.5000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,296.6,10296,10296,3,Asia/Damascus,FALSE,1760438666
+Ma‘rabā,Ma`raba,Maaraba|Ma‘arabah,33.5775,36.2969,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,10290,10290,3,Asia/Damascus,FALSE,1760521732
+Miḩqan,Mihqan,Maḩqān|Maḩkān|Mahqâne|Mahgane|Maadane,34.9744,40.4856,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,88.9,10086,10086,3,Asia/Damascus,FALSE,1760022929
+Kafr Takhārīm,Kafr Takharim,Kafar Takharim|Kafer Tkherim|Kafer Takhârim|Kafr Taḩārīm|Kafer Tahârim|Kafer Harut,36.1164,36.5147,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,238.6,10084,10084,3,Asia/Damascus,FALSE,1760371396
+Al Hāmah,Al Hamah,,33.5581,36.2222,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1779.8,10045,10045,3,Asia/Damascus,FALSE,1760765828
+An Nayrab,An Nayrab,An Nayrib|Naïrab|Nirab|Neirab Haleb|Neirab|Nayrab,36.1756,37.2278,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,5005.5,10018,10018,2,Asia/Damascus,FALSE,1760678777
+Maḩajjah,Mahajjah,Mahajje|Mahaje|Mouhajjé|Mohadjé,32.9558,36.2214,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,247.8,9982,9982,3,Asia/Damascus,FALSE,1760190111
+Ghāriyah al Gharbīyah,Ghariyah al Gharbiyah,Ghārīyat al Gharbīyah|Rhâriet el Rharbîyé|Rhâriet er Rharbîyé|Ghariyah al Gharbīyah,32.6828,36.2233,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,487.9,9784,9784,3,Asia/Damascus,FALSE,1760612847
+Ghabrah,Ghabrah,Al Ghabrah|Rhabra|Er Rhabra|Ghabrā|El Ghabra|El Rhabra,34.5378,40.9125,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,35.9,9748,9748,3,Asia/Damascus,FALSE,1760187998
+Ḩās,Has,Hassef|Hass,35.6169,36.5953,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,368.7,9595,9595,3,Asia/Damascus,FALSE,1760767618
+Mūḩ Ḩasan,Muh Hasan,Muḩaşşan|Mūḩasan|Muḩassan|Mouhassane,35.2394,40.3244,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,37.5,9501,9501,3,Asia/Damascus,FALSE,1760986966
+Jisrayn,Jisrayn,Jisserine|Jisreïne|Jisreen,33.5064,36.3858,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7679.7,9442,9442,2,Asia/Damascus,FALSE,1760312917
+Maḑāyā,Madaya,Medaya,33.6878,36.1008,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,242.5,9371,9371,3,Asia/Damascus,FALSE,1760921670
+Abū Khashab,Abu Khashab,,35.9358,40.0367,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,26.0,9046,9046,3,Asia/Damascus,FALSE,1760868010
+Dhībān,Dhiban,Dībān|Dabyan|Dîbâne,35.0025,40.5117,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,76.2,9000,9000,3,Asia/Damascus,FALSE,1760211597
+Al Yādūdah,Al Yadudah,Yadouda|Yadoudé|Yādūdah,32.6653,36.0611,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,693.1,8967,8967,3,Asia/Damascus,FALSE,1760881970
+Kafr Sajnah,Kafr Sajnah,Kafr Sajnih|Kafr Sabḩah|Kafer Sejmé|Kafr Sijnah|Kafer Sejné,35.5261,36.5886,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,334.7,8935,8935,3,Asia/Damascus,FALSE,1760926229
+Al Buwayḑah,Al Buwaydah,Buwayḑah|Boueïda|Buwayḑā|El Baweida|Bouaïda,33.4264,36.3208,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,8832,8832,2,Asia/Damascus,FALSE,1760211674
+Ḩīsh,Hish,Ḩaysh|Hîch|Hīsh,35.5464,36.6431,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,334.7,8817,8817,3,Asia/Damascus,FALSE,1760171241
+Al Qardāḩah,Al Qardahah,Kurdaha|Qardāḩah|Qerdâha|Kirdatcha|Qardāha|Al-Kurdaha|Kerdaha|Kirdaha|Qardāḩah,35.4572,36.0597,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,355.6,8671,8671,3,Asia/Damascus,FALSE,1760811337
+Abū Ḩardūb,Abu Hardub,Abou Hardoûb,34.8450,40.6431,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,76.2,8657,8657,3,Asia/Damascus,FALSE,1760872653
+Ad Darbāsīyah,Ad Darbasiyah,Dirbassiyeh|Derbassiye|Derbisīye|Darbāsīyah,37.0728,40.6519,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,117.4,8551,8551,3,Asia/Damascus,FALSE,1760503745
+Taftanāz,Taftanaz,Teftenaz|Teftanâz,35.9969,36.7867,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,364.5,8540,8540,3,Asia/Damascus,FALSE,1760676375
+Ra’s al Ma‘arrah,Ra's al Ma`arrah,Ma‘arret el Bāshkurdi|Maarret el Bâch|Ma‘arrat al Bāshkurdī|Ma‘arrat Bāsh|Ma‘arrat al Bāsh,34.0008,36.5628,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,205.4,8520,8520,3,Asia/Damascus,FALSE,1760784421
+Aqrab,Aqrab,‘Akākīr|Aakâkîr,34.9364,36.4569,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,8422,8422,3,Asia/Damascus,FALSE,1760225167
+Ma‘şarān,Ma`saran,Maassarâne|Mi‘şarān,35.7083,36.8050,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,8334,8334,3,Asia/Damascus,FALSE,1760377458
+Qanawāt,Qanawat,Kanaouat|Al Qanawāt|El Qunawāt|El Qanawāt|El Kanawat|Qanaouâte,32.7556,36.6167,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,8324,8324,3,Asia/Damascus,FALSE,1760533058
+Shaţḩah,Shathah,Chat’ ha ett Tahta|Shaţḩah at Taḩtā|Shaţḩah at Taḩtā’|Shaţḩat at Taḩtā,35.5030,36.2440,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,195.6,8076,8076,3,Asia/Damascus,FALSE,1760275124
+Shaqqā,Shaqqa,Shaqqah|Chaqqa|Shakka|Chakka,32.8972,36.6972,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,31.6,8000,8000,3,Asia/Damascus,FALSE,1760642313
+Sulūk,Suluk,Sloug|Sloûq|Sulūq|Salūq,36.5992,39.1286,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,minor,21.0,7825,7825,3,Asia/Damascus,FALSE,1760874321
+Tayr Ma‘lah,Tayr Ma`lah,Taïr Maalé|Teïr Maaleh|Ţayr Ma‘lī|Ţayr Ma‘lih|Ţayr Ma‘lah,34.8022,36.7069,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,7728,7728,3,Asia/Damascus,FALSE,1760484352
+Rankūs,Rankus,Rannkoûs,33.7569,36.3892,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,94.1,7717,7717,3,Asia/Damascus,FALSE,1760371674
+Jibāb,Jibab,Al Jibāb|Jabāb|Djébab|Jebab,33.1100,36.2653,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,209.7,7699,7699,3,Asia/Damascus,FALSE,1760617459
+Al Kasrah,Al Kasrah,Al Kasrā|Al Kasrah,35.5661,39.9170,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,26.0,7659,7659,3,Asia/Damascus,FALSE,1760497279
+Al Mazra‘ah,Al Mazra`ah,Séjine|Séjéne|Sejen|As Sajīn|Sajīn|Sijine|Es Sijn|Es Sijine|Sijnah|Sijn|As Sijn,32.7828,36.4833,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,119.8,7547,7547,3,Asia/Damascus,FALSE,1760015250
+Umm Walad,Umm Walad,Oumm Oualed|Oumm Oualad|Umm Weled,32.6578,36.4319,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,301.5,7547,7547,3,Asia/Damascus,FALSE,1760725534
+Sirghāyā,Sirghaya,Sirgaya|Serghaya|Serrhâya,33.8000,36.1500,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,137.2,7501,7501,3,Asia/Damascus,FALSE,1760677335
+Kansafrah,Kansafrah,Kannsafra|Kanşafrah,35.6597,36.4847,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,7496,7496,3,Asia/Damascus,FALSE,1760872233
+Ma‘arr Shūrīn,Ma`arr Shurin,Maar Chourîne,35.6667,36.7244,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,7487,7487,3,Asia/Damascus,FALSE,1760467401
+Al Kafr,Al Kafr,Kafr|Kāfir|Kafer|El Kafr|El Kafer,32.6333,36.6417,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,7458,7458,3,Asia/Damascus,FALSE,1760157537
+Kharāb al Ward,Kharab al Ward,,33.3983,36.3694,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7030.9,7293,7293,2,Asia/Damascus,FALSE,1760380108
+Tall Tamr,Tall Tamr,Tell Tâmer|Tall Tāmir,36.6606,40.3714,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,67.8,7285,7285,3,Asia/Damascus,FALSE,1760529728
+Killī,Killi,Kelli|Kilalī,36.1103,36.6939,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,7157,7157,3,Asia/Damascus,FALSE,1760840634
+Şabbūrah,Sabburah,Sabura|Sabboûra|Şabūrah,35.1564,37.2096,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,68.3,7141,7141,3,Asia/Damascus,FALSE,1760132834
+Ma‘arr Dibsah,Ma`arr Dibsah,Ma‘arrat Dibsah|Mu‘r Dibsah|Mu‘ardabah|Maar Debsé|Maar Dibsé|Ma‘ar Dibsah|Mu‘r Dibsih|Maar Dibsi,35.7789,36.7697,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,7074,7074,3,Asia/Damascus,FALSE,1760592479
+Khushām,Khusham,,35.2986,40.2933,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,minor,422.0,7021,7021,3,Asia/Damascus,FALSE,1760450434
+Zabdīn,Zabdin,Zibdine|Zebdîne,33.4831,36.4017,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1257.4,7003,7003,3,Asia/Damascus,FALSE,1760543976
+Kafr ‘Āyā,Kafr `Aya,Kafer Aaya,34.6847,36.6906,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,6918,6918,3,Asia/Damascus,FALSE,1760529090
+‘Aqrabā,`Aqraba,Akraba|Aaqraba,33.3722,36.3794,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,6799,6799,2,Asia/Damascus,FALSE,1760311451
+Al Qurayyā,Al Qurayya,El Kreye|Al Qrayyah|El Qraïyé|El Kraïyé|Al Qurayyah,32.5425,36.5969,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,110.6,6789,6789,3,Asia/Damascus,FALSE,1760570681
+Ma‘rūs,Ma`rus,Maardess|Maardes|Ma‘arrdis|Mu‘ardis,35.2546,36.7554,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,6750,6750,3,Asia/Damascus,FALSE,1760470462
+‘Ayn ‘Īsá,`Ayn `Isa,Aïn Aïssa,36.3853,38.8594,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,minor,50.8,6730,6730,3,Asia/Damascus,FALSE,1760078370
+Al Jawādīyah,Al Jawadiyah,Jabal Āghā|Jīl Āghā|Çil Axa|Chil Agha,36.9872,41.8203,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,156.0,6630,6630,3,Asia/Damascus,FALSE,1760997555
+Maḩrūsah,Mahrusah,,35.1617,36.4051,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,359.5,6579,6579,3,Asia/Damascus,FALSE,1760000334
+Saḩam al Jawlān,Saham al Jawlan,Sahm ej Joulâne|Sahem el Jaulān|Sahem ej Jaulan|Sahm al Jawlān,32.7811,35.9347,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,384.7,6572,6572,3,Asia/Damascus,FALSE,1760474331
+Ash Shajarah,Ash Shajarah,Shajarah|Chajara,32.7717,35.8831,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,384.7,6567,6567,3,Asia/Damascus,FALSE,1760107425
+Ḩalbūn,Halbun,Halboûn|Helbon,33.6667,36.2500,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,6521,6521,3,Asia/Damascus,FALSE,1760784659
+Fayrūzah,Fayruzah,Fayrūz|Faïrouzé|Feiruze,34.7022,36.7589,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,6456,6456,3,Asia/Damascus,FALSE,1760412535
+Sqūbīn,Squbin,Sqoûbîne|Skoubine|Asqūbīn|Squbin|Saqūbīn,35.5594,35.8306,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,6379,6379,2,Asia/Damascus,FALSE,1760502975
+Afis,Afis,Afess,35.9058,36.8075,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,6338,6338,3,Asia/Damascus,FALSE,1760478029
+Judaydat al Khāşş,Judaydat al Khass,Judaydat al Khāş|Jdaïdet el Khâs,33.3997,36.5497,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,298.0,6298,6298,3,Asia/Damascus,FALSE,1760059121
+Al Masţūmah,Al Mastumah,Mastoûmé,35.8744,36.6311,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,750.1,6243,6243,3,Asia/Damascus,FALSE,1760563522
+Dayr Salmān,Dayr Salman,Deïr Solman|Deïr Salmâne,33.4819,36.5011,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,6227,6227,3,Asia/Damascus,FALSE,1760576570
+Mukharram al Fawqānī,Mukharram al Fawqani,Mukharram Fawqānī|Muharrem|Muḩarram|Moukharrem el Fouqani|Moukharram Faouqani|Al-Mukharram Fokani|Mukharram Fokani,34.8167,37.0833,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,86.0,6202,6202,3,Asia/Damascus,FALSE,1760348777
+Qasţūn al Gharbī,Qastun al Gharbi,Qasţūn|Qastoun el Rharbi|Qastoûn,35.6847,36.3911,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,271.9,6187,6187,3,Asia/Damascus,FALSE,1760956268
+Dablān,Dablan,Dabyān|Deblane|Dablâne|Dablānah|Diblâne,34.8550,40.5686,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,154.0,6149,6149,3,Asia/Damascus,FALSE,1760760133
+Darūshah,Darushah,Ḩawsh Drūshah|Haouch Droûcha|Droûcha|Ḩawsh Darūshah,33.3828,36.1383,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,6091,6091,3,Asia/Damascus,FALSE,1760069196
+Al Ya‘rubīyah,Al Ya`rubiyah,Tell Kotchek|Tall Kūjik|Tall Kūchak|Tall Kūchik aş Şaghīr|Tall Kūjik Şaghīr|Al Ya‘rūbīyah|Tell Kūshik|Tel Koçek|Tel Kochek,36.8117,42.0664,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,57.8,6066,6066,3,Asia/Damascus,FALSE,1760047942
+Balyūn,Balyun,Bélioûn,35.7000,36.5000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,6030,6030,3,Asia/Damascus,FALSE,1760513116
+Qaţţīnah,Qattinah,Qattîné|Qatini|Kattiné,34.6475,36.6278,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,6018,6018,3,Asia/Damascus,FALSE,1760069162
+Shayzar,Shayzar,Shajar Qaşr|Séjar|Qal‘at Sayjar|Cheïzar|Chajar|Qal‘at es Seijar|Larissa,35.2678,36.5667,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,515.3,5953,5953,3,Asia/Damascus,FALSE,1760282657
+Misrābā,Misraba,Mesraba|Misrâba|Al Misrābā,33.5506,36.4053,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,5278.6,5942,5942,2,Asia/Damascus,FALSE,1760169982
+Dayr al Fardīs,Dayr al Fardis,Deïr el Fardîs|Dier el Fardiss|Deïr el Fardiss|Deïr el Ferdīs|Deïr el Fardisse|Deïr el Fardîss,34.9761,36.6106,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,5890,5890,3,Asia/Damascus,FALSE,1760421182
+Iḩsim,Ihsim,Aḩsim,35.7200,36.5608,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,478.2,5870,5870,3,Asia/Damascus,FALSE,1760917811
+‘Assāl al Ward,`Assal al Ward,‘Asāl el Ward|‘Asal al Ward|Aassâl el Ouard|Assal el Ward|Assal el Ouard|‘Isāl al Ward,33.8658,36.4133,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,59.2,5812,5812,3,Asia/Damascus,FALSE,1760181042
+Tall Şufūk,Tall Sufuk,Tell Sfoug|Tell Sfouq|Tall Şafūq,36.0542,41.2050,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,15.1,5781,5781,3,Asia/Damascus,FALSE,1760937381
+Naşīb,Nasib,Nassîb,32.5553,36.1844,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,672.7,5780,5780,3,Asia/Damascus,FALSE,1760446174
+Zardanā,Zardana,Zerdena|Zardanah|Zerdane|Zardanna|Mashhad,36.0461,36.7544,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.4,5769,5769,3,Asia/Damascus,FALSE,1760592801
+‘Urmān,`Urman,‘Ormān|Armān|Ormâne|‘Armān,32.5111,36.7617,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,76.7,5735,5735,4,Asia/Damascus,FALSE,1760625314
+Zaydal,Zaydal,Zaïdal|Zeidan|Zidali,34.7139,36.7833,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,5710,5710,3,Asia/Damascus,FALSE,1760045581
+Burj Islām,Burj Islam,Borj Islâm|Burj Islam,35.6833,35.8000,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,298.2,5652,5652,3,Asia/Damascus,FALSE,1760959412
+‘Aqībah,`Aqibah,Aaqîba|Aakiba|Akiba,36.4386,36.9672,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,230.7,5600,5600,3,Asia/Damascus,FALSE,1760378632
+Ma‘arr Shaḩūr,Ma`arr Shahur,Ma‘r Shahūr|Maar Chahour|Maar Chahoûr|Ma‘arr Shuḩūr,35.2067,36.8489,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,5595,5595,3,Asia/Damascus,FALSE,1760518407
+Al Quţaylibīyah,Al Qutaylibiyah,Qtaïlbîyé|Quţaylibīyah,35.2889,36.0153,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,407.9,5566,5566,3,Asia/Damascus,FALSE,1760000008
+Ba‘rīn,Ba`rin,Baarîne,34.9414,36.4128,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,5559,5559,3,Asia/Damascus,FALSE,1760293960
+Al Qadmūs,Al Qadmus,Qadmūs|Qadmoûs|Qadmouss|El Qadmūs|Kadmous,35.1014,36.1611,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,219.1,5551,5551,3,Asia/Damascus,FALSE,1760390250
+Ra’s al Khashūfah,Ra's al Khashufah,Al Kashfah|Kashfah|Kachfé|Kachfe,34.8261,36.0589,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,564.2,5499,5499,3,Asia/Damascus,FALSE,1760447832
+Kirsānā,Kirsana,Karsana,35.6181,35.8272,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,5499,5499,2,Asia/Damascus,FALSE,1760636029
+Al Mulayḩah al Gharbīyah,Al Mulayhah al Gharbiyah,Mlaïha er Rharbîyé|Mulayḩah al Gharbīyah,32.7515,36.3447,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,479.5,5454,5454,3,Asia/Damascus,FALSE,1760444535
+Ḩisyā’,Hisya',Ḩisyah|Hassié|Hasiya|Ḩasyah|Hassyé|Hisya|Ḩisīyah|Ḩisyā,34.4108,36.7586,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,29.2,5435,5435,3,Asia/Damascus,FALSE,1760229953
+Dayr al Bukht,Dayr al Bukht,Deïr el Boukht|Dayr al Bakht,33.1469,36.1903,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,209.7,5381,5381,3,Asia/Damascus,FALSE,1760631359
+Ghajar Amīr,Ghajar Amir,El Ghajar|Gajar el Amir|Rhajar el Amîr|Rhajar Amir|Rhajar Amîr|Ghajar al Amīr|Gharnāţah,34.8958,36.6844,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,758.9,5366,5366,3,Asia/Damascus,FALSE,1760846067
+Rablah,Rablah,Rablih|Rableh|Rablé|Rabla|Rible|Riblah|Khirbah,34.4519,36.5567,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,5328,5328,3,Asia/Damascus,FALSE,1760959453
+Akhtarīn,Akhtarin,Aktérine|Akhterin|Akhtareïne,36.5108,37.3358,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,174.5,5305,5305,3,Asia/Damascus,FALSE,1760342077
+Darkūsh,Darkush,Derkush|Deir Kush|Darkoûch|Derkouk|Derkouch,35.9925,36.3931,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,291.3,5295,5295,3,Asia/Damascus,FALSE,1760373964
+Jabā,Jaba,Jabah,33.1617,35.9256,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,514.9,5281,5281,3,Asia/Damascus,FALSE,1760811307
+Tall Ḩamīs,Tall Hamis,Tell Hamîs,36.7586,41.3989,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,70.5,5161,5161,3,Asia/Damascus,FALSE,1760672229
+Rasm al Ḩarmal,Rasm al Harmal,Rasm al Ḩarmal al Imām|Rasm el Hermel|Rasm el Harme|Rasm al Hirmil,36.2228,37.6844,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,224.8,5105,5105,3,Asia/Damascus,FALSE,1760628919
+Al Furqlus,Al Furqlus,Farqalūs|Fourgloss|Fourqloss|Forqloss|Forkloss|Furqlus,34.6000,37.0833,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,28.7,5096,5096,3,Asia/Damascus,FALSE,1760709049
+Mazra‘at Bayt Jinn,Mazra`at Bayt Jinn,Mazraat Beït Jinn|Mazra‘at Bay Jînn|Mazraat Beït Jînn|Mazraat Beïn Jînn,33.3333,35.9167,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,182.9,5073,5073,3,Asia/Damascus,FALSE,1760919376
+Shaykh al Ḩadīd,Shaykh al Hadid,Sheikh el Hadīd|Cheïkh el Hadîd,36.5011,36.5978,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,226.0,5063,5063,3,Asia/Damascus,FALSE,1760741826
+Abū Ţalţal,Abu Taltal,Abou Taltal,36.3358,37.5228,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,5000,5000,3,Asia/Damascus,FALSE,1760311014
+Muḩambal,Muhambal,Mhannbel|Muḩanbal,35.7839,36.4694,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,332.2,4970,4970,3,Asia/Damascus,FALSE,1760569597
+Ţallaf,Tallaf,Tellef,34.9108,36.5611,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,4934,4934,3,Asia/Damascus,FALSE,1760109218
+Burj al Qaşab,Burj al Qasab,Borj el Qassab|Qanntara|Qanţarah|Burj Elqasab,35.6047,35.7922,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,4902,4902,2,Asia/Damascus,FALSE,1760425606
+Qarfā,Qarfa,Qarfa|Karfa|Qarfah,32.8153,36.2014,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,477.0,4885,4885,3,Asia/Damascus,FALSE,1760924805
+Al Qabw,Al Qabw,Khirbat al Qabw|Kheurbet el Qabou,34.8439,36.4531,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,387.5,4870,4870,3,Asia/Damascus,FALSE,1760066953
+Ḩaḑar,Hadar,Hadar,33.2794,35.8303,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,69.5,4819,4819,3,Asia/Damascus,FALSE,1760849216
+Khirbat al Ḩamām,Khirbat al Hamam,Kheurbet el Hamâm,34.7003,36.4817,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,4817,4817,3,Asia/Damascus,FALSE,1760680758
+Dayr Muqrin,Dayr Muqrin,Dayr Muqarran,33.6161,36.1569,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,316.7,4803,4803,3,Asia/Damascus,FALSE,1760869525
+Ḩatītat at Turkumān,Hatitat at Turkuman,Ḩutaytat at Turkumān|Hatité at Turkumān|Hattité ett Tourkmâne|Hatité et Turkmane|Hadisset ett Tourkmane,33.4367,36.4253,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1257.4,4800,4800,3,Asia/Damascus,FALSE,1760313507
+Khirbat al Ma‘azzah,Khirbat al Ma`azzah,Khirbat al Ma‘zah|Khirbat Ma‘zzah|Kheurbet el Maazé,34.7997,36.0044,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,550.3,4798,4798,3,Asia/Damascus,FALSE,1760230676
+Siyānū,Siyanu,Siâno,35.3653,36.0028,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1324.2,4784,4784,3,Asia/Damascus,FALSE,1760401098
+Māyir,Mayir,Mayyīr|Mâyer,36.3864,37.0253,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,452.9,4772,4772,3,Asia/Damascus,FALSE,1760034866
+Al Khālidīyah,Al Khalidiyah,Khālidīyah|Khâldiyé|Khâidiyé|Khâldîye|Khaldyé,35.0761,36.7344,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,4740,4740,3,Asia/Damascus,FALSE,1760393114
+Al Bahlūlīyah,Al Bahluliyah,El Bahlūlīye|Behlulia|Baḩlūlīyah|Bahloulié|Bahloûlîyé|Bahlawaniyeh,35.6339,35.9561,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,255.7,4665,4665,3,Asia/Damascus,FALSE,1760295162
+Ya‘fūr,Ya`fur,Vaafour|Yafour|Yaafoūr,33.5333,36.0667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,4638,4638,3,Asia/Damascus,FALSE,1760695625
+Tha‘lah,Tha`lah,Ath Tha‘lah|Taalé|Ta‘lah|Ti‘lah,32.7117,36.4492,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,4569,4569,3,Asia/Damascus,FALSE,1760530240
+Ad Dālīyah,Ad Daliyah,Ad Dāliyah|Ad Dālī|Ed Dâli|Dâli|Delibi,35.2347,36.1433,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,198.6,4540,4540,3,Asia/Damascus,FALSE,1760322438
+Dayr Shumayl at Taḩtānī,Dayr Shumayl at Tahtani,Deïr Chmaïl Tahtâni|Deïr Chmaïl|Deir-y- Chemil|Deir Shemīl|Dar Shemail|Hamidiya|Dayr Shumayyil at Taḩtānī|Dayr Shumayyil|Dayr Shamīl,35.2106,36.3431,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,359.5,4537,4537,3,Asia/Damascus,FALSE,1760224538
+Al Ghassānīyah,Al Ghassaniyah,Kafer Aabdé|Kafr Abdi|Kafr ‘Abdah|Kafer Aabdi|Kafr ‘Abduh,34.5981,36.5514,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,4509,4509,3,Asia/Damascus,FALSE,1760815330
+‘Aqrabā,`Aqraba,‘Aqrabah|Akraba|Aaqraba,33.1097,36.0078,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,209.7,4413,4413,3,Asia/Damascus,FALSE,1760727958
+Kafrayā,Kafraya,Ka‘riyyā|Kafr Ḩāyā|Kafr Hâyé|Kafer Hâyé|Kafrîya,35.9897,36.6775,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,393.7,4404,4404,3,Asia/Damascus,FALSE,1760580521
+Arwād,Arwad,Rawāḑ|Rouâd,34.8561,35.8583,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,22015.0,4403,4403,2,Asia/Damascus,FALSE,1760886737
+Al Başşah,Al Bassah,Al Başşā|Başşah|El Bassa|Basa,35.4994,35.8481,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1653.4,4369,4369,3,Asia/Damascus,FALSE,1760032782
+Dayr ‘Alī,Dayr `Ali,Deïr ‘Ali|Deïr Aali,33.2836,36.3025,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,4368,4368,3,Asia/Damascus,FALSE,1760612121
+Jarjīsah,Jarjisah,Jarjîssé|Jariisse,34.9436,36.6933,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,4352,4352,3,Asia/Damascus,FALSE,1760392737
+Dayr Khabīyah,Dayr Khabiyah,Deïr Khabyé|Deir Khabîyé|Deir Ghābiye|Dayr Ghābiyah|Dar Khabīyah|Dâr Khabîyé,33.3669,36.1600,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,4350,4350,3,Asia/Damascus,FALSE,1760683581
+Al Marāshidah,Al Marashidah,,34.5036,40.9297,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,295.4,4346,4346,3,Asia/Damascus,FALSE,1760809320
+Jallayn,Jallayn,Jelline|Jalline|Jallīn,32.7544,35.9897,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,693.1,4337,4337,3,Asia/Damascus,FALSE,1760198267
+Al ‘Aqrabīyah,Al `Aqrabiyah,Aqrabiyé|Aaqrabîyé|Aaqrebiyé|‘Aqrabīyah|Al Buwayḑah al Gharbīyah,34.5381,36.4733,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,4326,4326,3,Asia/Damascus,FALSE,1760684709
+Al Ḩaffah,Al Haffah,Al-Hiffeh|Al-Haffeh|Haffe|Al Jaffah|Ḩaffah,35.5986,36.0350,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,276.9,4298,4298,3,Asia/Damascus,FALSE,1760164587
+Ḩafsarjah,Hafsarjah,Ḩafsirjih|Hafserjé|Kefseria|Kafserja|Hafserja|Ḩafirjah,36.0178,36.5286,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,313.0,4287,4287,3,Asia/Damascus,FALSE,1760496887
+Jawbar,Jawbar,Dār al Wakārah,34.6908,36.6731,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,4242,4242,3,Asia/Damascus,FALSE,1760415531
+Kafr Lātah,Kafr Latah,Kafr Lata|Tall Lātah|Tell Lâta|Kafer Lâta|Tall Lātā,35.7947,36.6275,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,4231,4231,3,Asia/Damascus,FALSE,1760109787
+‘Awaj,`Awaj,Aouaj|A‘waj|Aaouaj,34.9111,36.4080,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,549.7,4222,4222,3,Asia/Damascus,FALSE,1760497435
+Dayr Qānūn,Dayr Qanun,Deïr Kanun|Deïr Kanoun|Deïr Qânoûn|Deïr Qānūn,33.6050,36.1356,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,316.7,4213,4213,3,Asia/Damascus,FALSE,1760362995
+Ḩumaymah Kabīr,Humaymah Kabir,Hmaïme Kébîré|Hmaïme Kbiré|Hmaïmé el Kébîré|Ḩumaymah al Kabīrah,36.1708,37.6481,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,472.1,4190,4190,3,Asia/Damascus,FALSE,1760191859
+Barrī ash Sharqī,Barri ash Sharqi,Barri ech Charqi|Barri Charqi,34.9806,37.2021,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,82.5,4172,4172,3,Asia/Damascus,FALSE,1760335010
+Kufayr az Zayt,Kufayr az Zayt,Kafr az Zayt|Kfaïr ez Zaïte|Kefr ez Zeit|Kafr ez Zeit,33.6117,36.1397,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,316.7,4170,4170,3,Asia/Damascus,FALSE,1760246841
+Bdāmā,Bdama,Barāmā|Bdāmah|Bdâma|Badāmā,35.8125,36.1936,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,243.6,4162,4162,3,Asia/Damascus,FALSE,1760867714
+Qanjarah,Qanjarah,Qannjra|Kanjra|Kanjarah|Qanjara|Al Qanjarah,35.5825,35.8158,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,4142,4142,2,Asia/Damascus,FALSE,1760746377
+‘Arān,`Aran,Arane|Aarâne,36.2984,37.5455,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,4135,4135,3,Asia/Damascus,FALSE,1760911068
+‘Ayn Shiqāq,`Ayn Shiqaq,‘Ayn ash Shiqāq|’Ain el Shegag|Aïn ech Chéqâq,35.3947,36.0308,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,352.3,4125,4125,3,Asia/Damascus,FALSE,1760984068
+Duwayr ash Shaykh Sa‘d,Duwayr ash Shaykh Sa`d,Douaïr ech Cheïkh Saad,34.9278,35.9306,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,4117,4117,3,Asia/Damascus,FALSE,1760859691
+Aţ Ţayyibah al Gharbīyah,At Tayyibah al Gharbiyah,Ţayyibah Gharbīyah|Ţayyibah al Gharbīyah|Taïbe er Rharbîyé|Taïbe Rharbîyé|Taïbé el Rharbîyé|Ţayyibat Sayyid Khālid,34.8756,36.4661,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,528.5,4086,4086,3,Asia/Damascus,FALSE,1760687263
+Talfītā,Talfita,Talfītah|Telfîta,33.6981,36.3211,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,4082,4082,3,Asia/Damascus,FALSE,1760024873
+Fidyū,Fidyu,Fidio|Fīdyū|Fedyo,35.5175,35.8931,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,533.6,4065,4065,3,Asia/Damascus,FALSE,1760843547
+As Sawdā,As Sawda,As Sawdā’|As Sawdah|Sawdah|Sauda|Es Soda|Saouda|Sawdā’,34.9822,35.9436,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,381.2,4064,4064,3,Asia/Damascus,FALSE,1760670740
+Ghawr al Gharbīyah,Ghawr al Gharbiyah,Gour|Rhoûr el Rharbîyé,34.8458,36.5464,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.7,4016,4016,3,Asia/Damascus,FALSE,1760493104
+Mushayrifat as Sāmūk,Mushayrifat as Samuk,Mchaīrfet es Sâmouk|Mehaïrfet es Sâmoûk|As Salmūk|Mcherfet es Samok|Mushayrifat Samūk|Mushayrifit Sāmūk|Msheirfet Elsamuk,35.6033,35.8583,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,4000,4000,2,Asia/Damascus,FALSE,1760953113
+Tibnā al Bayāḑ,Tibna al Bayad,Tibni|Tibné|Tibnah,32.9925,36.2169,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,4000,4000,3,Asia/Damascus,FALSE,1760413318
+Rājū,Raju,Radjun|Radjou,36.6756,36.6639,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,118.2,4000,4000,3,Asia/Damascus,FALSE,1760589217
+Jibrīn,Jibrin,Jïbrîne|Jibrine,35.1667,36.7889,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,3991,3991,3,Asia/Damascus,FALSE,1760643348
+Jalamah,Jalamah,Jalamé,35.3219,36.4881,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,580.4,3970,3970,3,Asia/Damascus,FALSE,1760212246
+‘Arīshah,`Arishah,Al ‘Arīshah,36.2475,40.7619,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,29.6,3957,3957,3,Asia/Damascus,FALSE,1760846855
+Shaykh Idrīs,Shaykh Idris,Cheïkhldrîs|Sheikh Idris|Cheïkh Idrîss|Cheïkh Idrîs|Ash Shaykh Idrīs,35.7669,36.8617,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,3881,3881,3,Asia/Damascus,FALSE,1760030885
+Jinān,Jinan,Jnān|Jnâne,35.0828,36.8408,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,3860,3860,3,Asia/Damascus,FALSE,1760219247
+Sarjah,Sarjah,Charjé|Sarjé,35.5814,36.9256,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,3845,3845,3,Asia/Damascus,TRUE,1760996254
+‘Aqārib aş Şāfī,`Aqarib as Safi,Aqareb es Sâfi|‘Aqārib|Aaqârib es Sâfi|Aaqâreb es Sâfi,35.1041,37.2105,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,68.3,3830,3830,3,Asia/Damascus,FALSE,1760120769
+Kafr Yābūs,Kafr Yabus,Kfair Yâbouss|Kfaïr Yâboûs|Kefv Yabus|Kafr Yabūs|Kafr Yabous|Kafer Yabous|Kefr Yabous|Kufeirībūs|Kufayr Yābūs,33.6897,35.9975,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,260.7,3801,3801,3,Asia/Damascus,FALSE,1760158018
+Haranbūsh,Haranbush,Harbanouche|Harannbouch,36.0753,36.6364,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,3785,3785,3,Asia/Damascus,FALSE,1760632288
+Jub‘adīn,Jub`adin,Gubb ‘Adin|Jabaadîne|Jab‘ādīn|Jub‘ādīn,33.8264,36.5092,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,89.2,3778,3778,3,Asia/Damascus,FALSE,1760088191
+Al Mū‘ah,Al Mu`ah,Al Mū‘ā|El Moûaâ|Moua,35.0267,36.5756,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,3776,3776,3,Asia/Damascus,FALSE,1760994955
+Yaḩmūr,Yahmur,Yahmoûr,34.8197,35.9689,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,550.3,3772,3772,3,Asia/Damascus,FALSE,1760343475
+‘Azmārīn,`Azmarin,Azmarīn|Ezmerin|Azmarîne,36.0558,36.4008,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.8,3720,3720,3,Asia/Damascus,FALSE,1760981139
+Ma‘arrīn al Jabal,Ma`arrin al Jabal,Maarrîne ej Jebel,35.0486,36.7633,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,3710,3710,3,Asia/Damascus,FALSE,1760404321
+Ḩumaymīm,Humaymim,Hammani|Hmaïmîm|Hamémine|Hmeimne,35.4019,35.9314,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1324.2,3701,3701,3,Asia/Damascus,FALSE,1760415812
+Sūq Wādī Baradá,Suq Wadi Barada,Soûq Ouâdi Barad|Suk Wadi Barada|Souq Ouâdi Barada,33.6242,36.1056,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,387.5,3678,3678,3,Asia/Damascus,FALSE,1760919987
+Brummānat al Mashāyikh,Brummanat al Mashayikh,Broummânet el Machâyekh|Birmāthat al Mashāyikh|Brummānat al Mashā’ikh,35.0176,36.1695,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,278.8,3666,3666,3,Asia/Damascus,FALSE,1760419399
+Kafr Dibbīn,Kafr Dibbin,Kafr Dibbîne|Kafer Dibbîne,35.9208,36.3583,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,244.8,3660,3660,3,Asia/Damascus,FALSE,1760397774
+Khiyārat Dannūn,Khiyarat Dannun,Khiâret Dnoûn|Khiara Dnoûn|Khiaret Denoun|Khiarat Dnoûn,33.3253,36.2433,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,3645,3645,3,Asia/Damascus,FALSE,1760446286
+Kafr ‘Amīm,Kafr `Amim,Kafr ‘Amm|Kafer Aammim|Kafer Aamîm|Kafr Ḩamīm,35.8153,36.8703,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,3645,3645,3,Asia/Damascus,FALSE,1760760357
+Basāmis,Basamis,Bassâmess|Bassāmis|Bassâmes|Bsāmis,35.7372,36.5000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,3638,3638,3,Asia/Damascus,FALSE,1760884319
+Qulaydīn,Qulaydin,Qleïdîne|Kleidin,35.6133,36.3856,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,271.9,3636,3636,3,Asia/Damascus,FALSE,1760987898
+Al Bāriqīyah,Al Bariqiyah,Barqīyah|Barqîyé|Bāriqīyah,34.8275,36.2239,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,255.7,3627,3627,3,Asia/Damascus,FALSE,1760789576
+Sahwat al Khiḑr,Sahwat al Khidr,Sahwat al Khuḑr|Sahouet el Khodor|Sahwat al Khudūr,32.6022,36.7075,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,3625,3625,3,Asia/Damascus,FALSE,1760235525
+Ma‘arr Shamārīn,Ma`arr Shamarin,Maar Chmârine,35.6122,36.7258,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,3625,3625,3,Asia/Damascus,FALSE,1760843191
+Ţurumbah,Turumbah,Troumbé|Turunbah,35.8606,36.7686,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,3623,3623,3,Asia/Damascus,FALSE,1760926571
+Kafr Dayyān,Kafr Dayyan,,36.1728,36.6650,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,3580,3580,3,Asia/Damascus,FALSE,1760685143
+‘Arab al Mulk,`Arab al Mulk,Aarab el Moulk|‘Arab el Melk|Aarab el Moulk Badou|Aarab el Moulk Babou|Paltos|Aarab el Motilk|‘Arab al Malik|‘Arab al Mulk Jarkas|Arab Elmalik Jerkes,35.2672,35.9256,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1324.2,3580,3580,3,Asia/Damascus,FALSE,1760847002
+Ḩarbinafsah,Harbinafsah,Ḩarbinafsih|Ḩarb Nafsah|Kharibnafih|Kharbnefih|Harb Nefsi|Harb Nafsou|Ḩarb Nafsih|Harb Nafsé|Harbnessi|Ḩurr Binafsah|Ḩurbinafsuh|Ḩarbnafsah,34.9372,36.6217,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,255.4,3574,3574,3,Asia/Damascus,FALSE,1760017277
+Tall aţ Ţūkān,Tall at Tukan,Tell Touqône|Tell Touqâne|Tell Tokan|Tall Ţūqān,35.8225,36.9531,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,181.2,3531,3531,3,Asia/Damascus,FALSE,1760209064
+Al Qāsimīyah,Al Qasimiyah,Qâsmîyé,33.5083,36.5128,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,3518,3518,3,Asia/Damascus,FALSE,1760434219
+Şadad,Sadad,,34.3128,36.9258,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,15.8,3503,3503,3,Asia/Damascus,FALSE,1760169756
+Jubbātā al Khashab,Jubbata al Khashab,Joubbâta el Khechab|Joubbâta el Khachab,33.2256,35.8317,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,25.9,3493,3493,3,Asia/Damascus,FALSE,1760044287
+Şulayb at Turkumān,Sulayb at Turkuman,Şalīb Turkumān|Şulayyib Turkumān|Slayeb|Slaïyeb Tourkmâne|Şulayb Turkumān|Salib Elturkman,35.6878,35.8142,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,298.2,3466,3466,3,Asia/Damascus,FALSE,1760966387
+Al Karīmah,Al Karimah,Kartū|Karīmah|Karto,34.6678,36.0747,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,463.4,3461,3461,3,Asia/Damascus,FALSE,1760064541
+Ḩafīr al Fawqā,Hafir al Fawqa,Al Ḩafīr|El Hafīr|Hafir el Faouqâ|Al Ḩafīr al Fawqānī|Hafeyer|Hâfir el Faouqâni|Ḩafīr al Fawqah|Hafira el Fouqa,33.7133,36.4778,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,225.9,3441,3441,3,Asia/Damascus,FALSE,1760069773
+Al Ḩawl,Al Hawl,Al Ḩūl|Al Hāl|El Hool|El Hôl|El Haul,36.3914,41.1514,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,minor,17.2,3409,3409,3,Asia/Damascus,FALSE,1760206742
+Ḩarbul,Harbul,Bir Heurbeul|Herbol,36.4325,37.1650,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,315.4,3403,3403,3,Asia/Damascus,FALSE,1760233055
+Khabab,Khabab,Khbab|Hebab,33.0142,36.2772,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,3379,3379,3,Asia/Damascus,FALSE,1760765165
+Ash Shaykh Sa‘d,Ash Shaykh Sa`d,Sheikh Sa‘d|Sheikh Saad|Cheïkh Saad|Shaykh Sa‘d,32.8358,36.0350,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,537.5,3373,3373,3,Asia/Damascus,FALSE,1760617206
+Baytīmā,Baytima,Beïtîma,33.3667,36.0000,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,3366,3366,3,Asia/Damascus,FALSE,1760507982
+Dābiq,Dabiq,Dābik,36.5372,37.2681,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,3364,3364,3,Asia/Damascus,FALSE,1760380614
+Al ‘Annāzah,Al `Annazah,‘Annāzih|‘Anzah|‘Aunāz|‘Anz|An Nazi|Aannâzé|‘Annāzah,35.1961,36.0656,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,243.4,3357,3357,3,Asia/Damascus,FALSE,1760806095
+Taqsīs,Taqsis,Taqsîss|Zawr az Ziyārah|Tasīs,35.0158,36.8619,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,3343,3343,3,Asia/Damascus,FALSE,1760959385
+Jubb Ramlah,Jubb Ramlah,Joub Ramle|Joubb Ramlé,35.2092,36.4303,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,359.5,3329,3329,3,Asia/Damascus,FALSE,1760016241
+Al Ḩawāsh,Al Hawash,El Houâch|Ḩawāsh|Al Hawās,35.5511,36.3781,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,3306,3306,3,Asia/Damascus,FALSE,1760944540
+Ash Shabaţlīyah,Ash Shabatliyah,Chabatlié|Chabatlîyé|Shabtaliyeh,35.6858,35.8275,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,298.2,3306,3306,3,Asia/Damascus,FALSE,1760603341
+Dayr al ‘Adas,Dayr al `Adas,Derr el Aadass|Deïr el Aadass|Dayr al ‘Ads,33.1606,36.1244,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,209.7,3273,3273,3,Asia/Damascus,FALSE,1760719918
+Ghasūlah,Ghasulah,Al Ghasūlah|El Rhassoûlé|Rhassoulé,33.5764,36.4475,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,156.5,3272,3272,3,Asia/Damascus,FALSE,1760436805
+Ma‘arr Shamshah,Ma`arr Shamshah,Maar Chamcha,35.6353,36.7106,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,3268,3268,3,Asia/Damascus,FALSE,1760092852
+Qal‘at Jandal,Qal`at Jandal,Qal‘at Ḩaydar|Qalaat Janndal|Kalaat Jendal|Qalaat Jenndal|Qal‘at Haidar,33.4227,35.9615,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,3251,3251,3,Asia/Damascus,FALSE,1760939564
+Salwah,Salwah,Salwá|Saloui|Saloué,36.3086,36.7564,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,3244,3244,3,Asia/Damascus,FALSE,1760291627
+Kafr Nān,Kafr Nan,Kafr Nâne|Kafer Nâne,34.8864,36.6481,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,758.9,3231,3231,3,Asia/Damascus,FALSE,1760610056
+Dayr Mākir,Dayr Makir,Deïr Mâker,33.2333,36.0333,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,3228,3228,3,Asia/Damascus,FALSE,1760553443
+Başrah,Basrah,Bissīn|Bissîne|Bayşīn,35.0025,36.5036,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,3224,3224,3,Asia/Damascus,FALSE,1760386301
+Kafr Yaḩmūl,Kafr Yahmul,Kafer Yahmoûl,36.0594,36.6967,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,3179,3179,3,Asia/Damascus,FALSE,1760473152
+Ma‘arrzāf,Ma`arrzaf,Maarzâf|Ma‘azzūfah|Ma‘arr Zāf,35.2053,36.5561,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,515.3,3175,3175,3,Asia/Damascus,FALSE,1760148228
+Kafr Baţţīkh,Kafr Battikh,Kafer Battîkh,35.7819,36.7236,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,3166,3166,3,Asia/Damascus,FALSE,1760087515
+Sinjiwān,Sinjiwan,Sanjawān|Sinjwan,35.5464,35.8242,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,3163,3163,2,Asia/Damascus,FALSE,1760861643
+Arnah,Arnah,Aarné,33.3669,35.8789,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,533.4,3146,3146,3,Asia/Damascus,FALSE,1760272679
+Faylūn,Faylun,Faïloûn|Qaylūn,35.8806,36.6122,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,750.1,3136,3136,3,Asia/Damascus,FALSE,1760026119
+Ḩuwayjat as Sallah,Huwayjat as Sallah,Houaïjet es Seïl,35.4344,36.3553,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,3134,3134,3,Asia/Damascus,FALSE,1760383405
+Zurzūr,Zurzur,Zarzoûr|Zarzūr,35.9544,36.3400,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,291.3,3126,3126,3,Asia/Damascus,FALSE,1760161332
+Mayda‘ā,Mayda`a,Mayda‘ah|Mayda‘|Meïdaâ,33.5619,36.5211,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1441.6,3108,3108,3,Asia/Damascus,FALSE,1760903675
+Naḩlayyā,Nahlayya,Naḩlāyā|Naḩlayā,35.8464,36.6003,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,3105,3105,3,Asia/Damascus,FALSE,1760143045
+Blūdān,Bludan,Bloudene|Bloudáne|Bloûdân|Bleudan,33.7333,36.1333,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,387.5,3101,3101,3,Asia/Damascus,FALSE,1760689407
+Samj,Samj,Semej|Samaj|Simj|Samaj ed Deïr,32.4761,36.5211,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,157.4,3098,3098,3,Asia/Damascus,FALSE,1760979459
+Ma‘arrat Şaydnāyā,Ma`arrat Saydnaya,Maara|Maarret Saidnâya|Ma‘arrah|Maarra,33.6692,36.3797,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,225.9,3084,3084,3,Asia/Damascus,FALSE,1760450906
+Al Hinādī,Al Hinadi,Hennâdi|Ḩanādī|Al Hannādī|Hanadi|Hinādī,35.5128,35.8739,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,533.6,3076,3076,3,Asia/Damascus,FALSE,1760414415
+Khirbat Ghāzī,Khirbat Ghazi,Kheurbet Rhâzi|Kheurbet el Ghazi,34.6731,36.5186,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.0,3056,3056,3,Asia/Damascus,FALSE,1760844976
+Jūzīf,Juzif,Joûzef|Jūzif,35.7183,36.4742,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,3029,3029,3,Asia/Damascus,FALSE,1760352275
+Al Bayţarīyah,Al Baytariyah,El Bîtarîyé|Al Bitārīyah,33.3144,36.5422,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,156.5,3026,3026,3,Asia/Damascus,FALSE,1760580339
+Bayt Sābir,Bayt Sabir,Beït Sâber,33.3272,36.0000,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,3021,3021,3,Asia/Damascus,FALSE,1760642692
+Baksā,Baksa,Baksa,35.5708,35.8214,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,3001,3001,2,Asia/Damascus,FALSE,1760264980
+Başīr,Basir,Bassîr,33.0609,36.2335,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,3000,3000,3,Asia/Damascus,FALSE,1760655806
+Najrān,Najran,Najrâne,32.8461,36.4467,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,119.8,2995,2995,3,Asia/Damascus,FALSE,1760252831
+Dayr Māmā,Dayr Mama,Deïr Mâma,35.1403,36.3306,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,2985,2985,3,Asia/Damascus,FALSE,1760597329
+Ash Shāmīyah,Ash Shamiyah,Châmîyé|Chamié|Shāmīyah|Shamiyeh,35.6369,35.8078,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,3530.5,2982,2982,2,Asia/Damascus,FALSE,1760707089
+Kafr Ḩawar,Kafr Hawar,Kafr Haour|Kafer Haour|Kafer Haouar|Kefr Hawar,33.3500,35.9667,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,218.0,2957,2957,3,Asia/Damascus,FALSE,1760534925
+Al Mab‘ūjah,Al Mab`ujah,El Mabaoudjé|El Mabaoudjé|Mabhūjah|Mabaoujé|Mab‘ūjah,35.1307,37.2752,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,68.3,2929,2929,3,Asia/Damascus,FALSE,1760952068
+Zaytā,Zayta,Zaïti|Zītī|Zaytā al Gharbīyah|Zaïta el Rharbiye|Seta,34.5094,36.4850,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,2922,2922,3,Asia/Damascus,FALSE,1760973714
+Mardīkh,Mardikh,,35.8111,36.7906,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,239.0,2918,2918,3,Asia/Damascus,FALSE,1760050964
+Bilālīyah,Bilaliyah,Blâliyé|Blalyé|Al Bilālīyah,33.4958,36.4983,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,2914,2914,3,Asia/Damascus,FALSE,1760691172
+Ḩanjūr,Hanjur,Hannjoûr,35.1833,36.4667,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,359.5,2904,2904,3,Asia/Damascus,FALSE,1760678978
+Kafr Kamrah,Kafr Kamrah,Kafer Kamra|Kefer Kamra,34.8987,36.3995,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,2895,2895,3,Asia/Damascus,FALSE,1760379634
+Dabsanqūl,Dabsanqul,Basnaqūl|Bassannqoûl|Basanqūl,35.8058,36.4972,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,332.2,2883,2883,3,Asia/Damascus,FALSE,1760309976
+Ābil,Abil,Abel|Abeul|Abil,34.6372,36.6761,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,2873,2873,3,Asia/Damascus,FALSE,1760403323
+Kafrah,Kafrah,Kafra,36.5667,37.1628,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,273.5,2859,2859,3,Asia/Damascus,FALSE,1760177708
+Umm al ‘Amad,Umm al `Amad,Oumm el Aamad|Oum el Aamad,34.8139,37.0072,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,86.0,2851,2851,3,Asia/Damascus,FALSE,1760881612
+Bayt Jinn,Bayt Jinn,Beit Jenn|Beït Jinn|Beit Jann,33.3106,35.9189,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,184.4,2846,2846,3,Asia/Damascus,FALSE,1760490998
+Buwayḑah,Buwaydah,Buwayḑat as Suwayqāt|Bouaïdet Souaïqâte|Bouaïda,34.8000,36.0556,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,661.5,2835,2835,3,Asia/Damascus,FALSE,1760045040
+Al Jubbah,Al Jubbah,Joubbé|Jubbah,33.9064,36.4847,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,59.2,2829,2829,3,Asia/Damascus,FALSE,1760425140
+‘Abr Bayt Sayf,`Abr Bayt Sayf,Aâber Beït Sîf,35.3792,36.3164,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,319.5,2819,2819,3,Asia/Damascus,FALSE,1760116820
+Basīmah,Basimah,Bassimé,33.6047,36.1947,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1705.3,2812,2812,3,Asia/Damascus,FALSE,1760924820
+Bawwābīyah,Bawwabiyah,Buwaybīyah|L’bouabié|Doueîbiyé|Bouaïbîyé,36.0167,36.8833,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,255.9,2790,2790,3,Asia/Damascus,FALSE,1760558190
+Khān Ţūmān,Khan Tuman,Hani Touman|Khâne Toumâne,36.1175,37.0508,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,5005.5,2781,2781,2,Asia/Damascus,FALSE,1760141145
+‘Aynab,`Aynab,‘Atab|‘Aynāb|Aïnâb|Ainnab,35.4264,36.2387,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,319.5,2774,2774,3,Asia/Damascus,FALSE,1760500916
+Ma‘lūlā,Ma`lula,Ma‘lūlah|Maaloûla|Ma’alula,33.8442,36.5467,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,89.2,2762,2762,3,Asia/Damascus,FALSE,1760897253
+‘Uqayribāt,`Uqayribat,Aaqerbâte|Uzeribat|‘Oqeiribāt|‘Iqarbāt|Aquerbate|‘Aqrabāt,35.0431,37.4657,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,11.3,2745,2745,3,Asia/Damascus,FALSE,1760237945
+Khirbat Tīn Nūr,Khirbat Tin Nur,Khirbat at Tīn|Khirbet et Tīn|Kheurbet Tine Naour|Kheurbet Tîne Naduar|Kheurbet ett Tîne|Khan|Kheurbet et Tiné|Kharabat et Tin,34.7006,36.5572,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,291.2,2726,2726,3,Asia/Damascus,FALSE,1760759070
+Tasnīn,Tasnin,Tesnîne,34.8694,36.6581,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,756.6,2713,2713,3,Asia/Damascus,FALSE,1760395982
+Ma‘arr Zaytah,Ma`arr Zaytah,Maar Zaïta|Maar Ziata|Ma‘arrzaytah,35.5547,36.5758,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,2707,2707,3,Asia/Damascus,FALSE,1760453867
+Al Jarnīyah,Al Jarniyah,Jarnīyah|Jernîye|Jarniyé,36.1596,38.2370,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,minor,38.7,2686,2686,3,Asia/Damascus,FALSE,1760468495
+An Nayrab,An Nayrab,Nayrab|Nu‘ayrab|Neïtak|Naïrab,35.8697,36.7203,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,750.1,2675,2675,3,Asia/Damascus,FALSE,1760228867
+Bsaqlā,Bsaqla,Basqalā|Bsaqlah|Bsaqla|Bisaqlā,35.6000,36.5833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,368.7,2673,2673,3,Asia/Damascus,FALSE,1760054270
+Kafr Tūn,Kafr Tun,Kafr aţ Ţūr|Kafr aţ Ţūn|Kafr at Tūn|Kefretûn|Kafr et Toûn|Kafer ett Toûn,35.1975,36.6672,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,670.8,2655,2655,3,Asia/Damascus,FALSE,1760590287
+Umm Jalāl,Umm Jalal,Oum Jlâl|Oumm Jlâl,35.5028,36.7856,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,2641,2641,3,Asia/Damascus,FALSE,1760352368
+Kafrā‘,Kafra`,Kafer Râa|Kafr Rā‘|Kifrā‘|Kafr Râa,35.2175,36.8058,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,2621,2621,3,Asia/Damascus,FALSE,1760499570
+Bīrayn,Birayn,Bīrīn|Birein|Bîrîne,35.0094,36.6694,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,2597,2597,3,Asia/Damascus,FALSE,1760836316
+Sharān,Sharan,Charannli|Sharānlī|Sharanlī|Chéranli,36.6231,36.9364,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,68.3,2596,2596,3,Asia/Damascus,FALSE,1760141871
+Shaykh Najjār,Shaykh Najjar,Cheïkh Najjâr|Cheïkh Nadjar|Ash Shaykh Najjār,36.2728,37.2564,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,5005.5,2588,2588,2,Asia/Damascus,FALSE,1760087062
+Shinshār,Shinshar,Shanshar|Chinnchâr|Chenchar|Shanshār,34.6000,36.7333,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,2588,2588,3,Asia/Damascus,FALSE,1760237128
+Sinjār,Sinjar,Senjār|Sendjar|Sinnjâr,35.5867,37.0275,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,85.3,2583,2583,3,Asia/Damascus,FALSE,1760364405
+Al Mushannaf,Al Mushannaf,Mushannaf|El Mushennef|El Mouchannaf|Mouchannaf|Mashnaf,32.7428,36.7744,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,minor,13.1,2581,2581,3,Asia/Damascus,FALSE,1760255495
+Khunayfis,Khunayfis,Khuneifīs|Khunefis|Khnaïfess|Hnéfis|Khounefiss,34.9511,36.9981,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,2570,2570,3,Asia/Damascus,FALSE,1760804085
+Tiyās,Tiyas,Tiâs,34.5511,37.6986,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,6.5,2564,2564,3,Asia/Damascus,FALSE,1760274222
+Al Marāḩ,Al Marah,Kaldun|Qaldūn|Qaldūn al Marāḩ,33.8753,36.6864,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,154.9,2561,2561,3,Asia/Damascus,FALSE,1760780893
+Al Maland,Al Maland,Mélannd|Miland,35.9236,36.2753,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,244.8,2551,2551,3,Asia/Damascus,FALSE,1760391599
+Ḩadīdah,Hadidah,Hadîdé,34.6736,36.3967,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,341.3,2544,2544,3,Asia/Damascus,FALSE,1760224276
+Ḩarf al Musaytirah,Harf al Musaytirah,Harf el Msaïtra,35.3906,36.1325,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,165.5,2540,2540,3,Asia/Damascus,FALSE,1760246982
+Al Ḩurrīyah,Al Hurriyah,,35.5000,36.3553,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,2525,2525,3,Asia/Damascus,FALSE,1760000304
+Al Mazra‘ah,Al Mazra`ah,Al Ḩawsh,34.7275,36.6564,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,299.3,2519,2519,3,Asia/Damascus,FALSE,1760354852
+Ḩarastā al Qanţarah,Harasta al Qantarah,Ḩiristā al Qanţarah|Harasta el Qanntara|Harasta el Kantara,33.4901,36.4506,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,2513,2513,3,Asia/Damascus,FALSE,1760324235
+Furaykah,Furaykah,Fraykih|Fraïké|Farkah,35.5750,36.2703,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,195.6,2497,2497,3,Asia/Damascus,FALSE,1760127999
+Imtān,Imtan,Mothana|Imtâne|Mutḩānah|Al Mutayn|Aymtān|Imthān,32.4167,36.8167,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,76.7,2495,2495,3,Asia/Damascus,FALSE,1760312051
+‘Adwān,`Adwan,Adaouâne|Aadaouâne|Aadouâne,32.8217,35.9950,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,530.6,2487,2487,3,Asia/Damascus,FALSE,1760428930
+‘Arjūn,`Arjun,Arjoune|Aarjoûn,34.5578,36.5364,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,2465,2465,3,Asia/Damascus,FALSE,1760781534
+Ḩawsh Naşrī,Hawsh Nasri,Haouch Nassri|Haouch Nasri|Haouch Nasr,33.5578,36.4731,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1441.6,2459,2459,3,Asia/Damascus,FALSE,1760921324
+Mashtá al Ḩulw,Mashta al Hulw,Machta Hélou|Machta Heilou,34.8764,36.2569,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,minor,323.3,2458,2458,3,Asia/Damascus,FALSE,1760015209
+Hurayrah,Hurayrah,Hureiré|Houreïré|Houraïré,33.6658,36.1181,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,242.5,2455,2455,3,Asia/Damascus,FALSE,1760301483
+Abū Makkī,Abu Makki,Abou Makké|Abū Makkah,35.6108,36.8219,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,2455,2455,3,Asia/Damascus,FALSE,1760491302
+Ḩawsh al Fārah,Hawsh al Farah,Ḩawsh al Fa’rah|Haouch el Fâra,33.5653,36.4839,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1441.6,2451,2451,3,Asia/Damascus,FALSE,1760195143
+Matnīn,Matnin,Mitnîne|Metnîne,35.1111,36.6008,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,2446,2446,3,Asia/Damascus,FALSE,1760355952
+Umm ar Rīsh,Umm ar Rish,Barîcha|Bārīshā,35.8950,36.3975,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,493.1,2425,2425,3,Asia/Damascus,FALSE,1760972403
+Rasm al Azbad,Rasm al Azbad,Rasm el Abed|Rasm el Aabd|Rasm el Azbd|Rasm al ‘Abd,36.1381,37.5978,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,192.2,2416,2416,3,Asia/Damascus,FALSE,1760374177
+Al Mulayḩah ash Sharqīyah,Al Mulayhah ash Sharqiyah,Mlaïha ech Charqîyé|Mulayḩah ash Sharqīyah,32.7580,36.3661,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,479.5,2408,2408,3,Asia/Damascus,FALSE,1760334354
+Khanāşir,Khanasir,Khamassir|Qunāsira|Khanâsser,35.7833,37.4972,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,minor,17.2,2397,2397,3,Asia/Damascus,FALSE,1760697439
+Ḩuwayz,Huwayz,Houaïz|Ḩuwayḑ|Huwet|Huweid|Houeiz|Houaïz el Faouqâni|Huwāth|Al Ḩuwayz,35.5000,36.3553,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,2395,2395,3,Asia/Damascus,FALSE,1760825365
+Al Majdal,Al Majdal,Mejdel|El Majdel,35.1969,36.5892,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,515.3,2393,2393,3,Asia/Damascus,FALSE,1760233866
+Tall Sulţān,Tall Sultan,Tell Soultâne,35.8228,36.9536,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,181.2,2389,2389,3,Asia/Damascus,FALSE,1760236821
+Kafr Nāsij,Kafr Nasij,Kafer Nâssej|Kefr Nasij,33.1514,36.0392,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,218.3,2381,2381,3,Asia/Damascus,FALSE,1760915229
+Ḩārat al Khaţīb,Harat al Khatib,Hâret el Khatîb|Nubl al Khaţīb,35.5475,36.2594,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,195.6,2381,2381,4,Asia/Damascus,FALSE,1760184927
+Mashqītā,Mashqita,Mechqita|Mashqītah|Mashkītā|Machqita|Machkita|Mashqita,35.6631,35.9103,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,298.2,2376,2376,3,Asia/Damascus,FALSE,1760710541
+Barlahīn,Barlahin,Berlheïne|Berléhîne|Barhalīn,36.2538,37.4007,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,2367,2367,3,Asia/Damascus,FALSE,1760444558
+Ḩarfā,Harfa,Harfa|Ḩarfah,33.2667,35.9125,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,182.9,2362,2362,3,Asia/Damascus,FALSE,1760875918
+Al Būdī,Al Budi,El Budi|El Boûdi|Toueïchraa|Aţ Ţuwayshirah|Tu-Ishrā,35.3958,36.0872,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,352.4,2359,2359,3,Asia/Damascus,FALSE,1760082588
+‘Ayn ash Sharqīyah,`Ayn ash Sharqiyah,‘Ain esh Sharqīye|Ain ech Charuiyé|Aïn ech Charqîyé,35.3319,36.0986,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,343.9,2359,2359,3,Asia/Damascus,FALSE,1760896901
+Qarqūr,Qarqur,Qarquor|Qarqoûr|Qarqor,35.7436,36.3186,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,271.9,2356,2356,3,Asia/Damascus,FALSE,1760741046
+Mūtabīn,Mutabin,Mutbīn|Moutbîne|Mūtbīn,33.1433,36.2464,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,209.7,2351,2351,3,Asia/Damascus,FALSE,1760168686
+Kaftayn,Kaftayn,Kafteïne|Kifteïne|Kefteïne,36.0961,36.6797,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,2346,2346,3,Asia/Damascus,FALSE,1760789545
+Rabāḩ,Rabah,Rabah,34.8167,36.3833,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,387.5,2341,2341,3,Asia/Damascus,FALSE,1760461499
+Sitt Markhū,Sitt Markhu,Sitt Marko|Sitt Markho|Sit Markho|Sittmarkhū|Stamarkho,35.5861,35.8508,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,2341,2341,2,Asia/Damascus,FALSE,1760525291
+Jūbās,Jubas,Joubâs|Jūbāsh,35.8358,36.7597,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,2340,2340,3,Asia/Damascus,FALSE,1760296093
+Na‘rah,Na`rah,Naara,34.7189,36.2106,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,2337,2337,3,Asia/Damascus,FALSE,1760884483
+Zighrīn,Zighrin,Zighnîne|El Haouye|Zirhrîne|El Haouîye,35.0947,37.0125,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,2327,2327,4,Asia/Damascus,FALSE,1760110211
+‘Ayn ash Shams,`Ayn ash Shams,Aïn ech Chams,34.9320,36.2756,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,2327,2327,3,Asia/Damascus,FALSE,1760590856
+‘Abbās,`Abbas,Al ‘Abbās,34.6872,40.8033,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,75.0,2314,2314,3,Asia/Damascus,FALSE,1760638238
+Rab‘ū,Rab`u,Rabaou,35.0758,36.3981,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,2288,2288,3,Asia/Damascus,FALSE,1760068135
+Mara‘yān,Mara`yan,Maayâne|Ma‘yān|Mur‘abān,35.7394,36.5619,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,2274,2274,3,Asia/Damascus,FALSE,1760582875
+Bqa‘sim,Bqa`sim,Bqaassem|Baq‘am|Baqa‘sim,33.4050,35.9375,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,2268,2268,3,Asia/Damascus,FALSE,1760795081
+Khalkhalah,Khalkhalah,Kholkholé|Khalhale,33.0669,36.5319,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,32.4,2268,2268,4,Asia/Damascus,FALSE,1760016100
+Ar Rafīd,Ar Rafid,Rafid,32.9550,35.9014,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,514.9,2263,2263,3,Asia/Damascus,FALSE,1760998973
+Qīlah,Qilah,Qîlé|Kîla,36.2964,36.7253,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,270.4,2262,2262,3,Asia/Damascus,FALSE,1760880301
+Jubb al Jarrāḩ,Jubb al Jarrah,Joubb ej Jarrâh|Djoubb ej Jarrah,34.8167,37.3167,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,minor,11.6,2255,2255,3,Asia/Damascus,FALSE,1760889641
+Aţmah,Atmah,Atmih|Atmé|Atma|Āţimah|Aţimah,36.3111,36.6864,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,2255,2255,3,Asia/Damascus,FALSE,1760281912
+Kilmākhū,Kilmakhu,Kilmâkho|Kelmâkho,35.4611,35.9892,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,355.6,2252,2252,3,Asia/Damascus,FALSE,1760920024
+Al Judaydah,Al Judaydah,Al Jayyid|Ej Jeïyed|Jeyed|Ej Jid|Ej Jdaïdé|Gid,35.5536,36.3114,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,431.0,2242,2242,3,Asia/Damascus,FALSE,1760272381
+Kafr Fū,Kafr Fu,Kafer Fou,34.7156,36.0842,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,466.8,2213,2213,3,Asia/Damascus,FALSE,1760248930
+Dunaybah,Dunaybah,Dneïbe|Dnaïbé,34.9336,37.0017,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,2208,2208,3,Asia/Damascus,FALSE,1760013862
+Marmarītā,Marmarita,Marmarita,34.7833,36.2500,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,363.6,2206,2206,3,Asia/Damascus,FALSE,1760351550
+Bayt ash Shaykh Yūnus,Bayt ash Shaykh Yunus,Beït ech Cheïkh Yoûnés|Beït ech Cheïkh Yoûnes,34.7978,36.0828,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,661.5,2199,2199,3,Asia/Damascus,FALSE,1760569262
+Kīssīn,Kissin,Kissine,34.8694,36.6581,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,758.9,2189,2189,3,Asia/Damascus,FALSE,1760203059
+Ma’arr Balīyah,Ma'arr Baliyah,Ma‘arr Ballīt|Ma‘arr Ballīţ|Maar Ballite,35.8075,36.6625,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,2178,2178,3,Asia/Damascus,FALSE,1760534856
+Al Jarbā,Al Jarba,Jarba|Al Jarbā’|Jarbā,33.5175,36.5300,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,2172,2172,3,Asia/Damascus,FALSE,1760325326
+Sukkarah,Sukkarah,Soukkara,34.7067,36.8531,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,2155,2155,3,Asia/Damascus,FALSE,1760972751
+Kafr Şafrah,Kafr Safrah,Kafer Safra|Kafr Şafrā’,36.4269,36.6619,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,157.2,2150,2150,3,Asia/Damascus,FALSE,1760108426
+Kafr Kalbīn,Kafr Kalbin,Kafer Kalbîne|Kafr Kalbayn,36.5561,37.0889,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,402.5,2146,2146,3,Asia/Damascus,FALSE,1760741951
+Zūq,Zuq,Zoûq|Zūk|Al Mitrās,34.7775,36.1856,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,412.5,2138,2138,3,Asia/Damascus,FALSE,1760236167
+Salmá,Salma,Selma|Salmah,35.6900,36.1367,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,189.7,2131,2131,3,Asia/Damascus,FALSE,1760805594
+Salīm,Salim,Selîm|Slîm,32.7928,36.5783,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,2129,2129,3,Asia/Damascus,FALSE,1760743665
+Shīr Bayt Şūrū,Shir Bayt Suru,Ech Chir|Chîr|Shir|Ash Shīr,35.5267,35.8558,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,533.6,2129,2129,3,Asia/Damascus,FALSE,1760455776
+Tūmīn,Tumin,Toûmîne|Toumîne,34.9433,36.6933,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,2129,2129,3,Asia/Damascus,FALSE,1760908903
+Kafr Rām,Kafr Ram,Kfarrām|Kfarrâm|Kafarrām,34.8658,36.3744,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,418.7,2115,2115,3,Asia/Damascus,FALSE,1760605306
+Jankamrah,Jankamrah,Jennkamra,34.7967,36.2611,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,363.6,2110,2110,3,Asia/Damascus,FALSE,1760696485
+Khuwayn al Kabīr,Khuwayn al Kabir,Khouaine el Kébîr|Khouaïne el Kébîr,35.4761,36.8367,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,2094,2094,3,Asia/Damascus,FALSE,1760606268
+Sirmānīyah,Sirmaniyah,Sirmânîyé|As Sirmānīyah,35.7231,36.2772,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,271.9,2087,2087,3,Asia/Damascus,FALSE,1760140559
+Tall Qarţal,Tall Qartal,Tell Qartal|Tall Kartal,35.0103,36.7811,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,2079,2079,3,Asia/Damascus,FALSE,1760526391
+Blaqsah,Blaqsah,Blqsah|Bilaqbah|Blaqsé|Blaqsih,34.7408,36.4947,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,2078,2078,3,Asia/Damascus,FALSE,1760670448
+Ash Shanyah,Ash Shanyah,Shanyah|Shanyah|Chénié,34.8581,36.4517,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,387.5,2058,2058,3,Asia/Damascus,FALSE,1760509166
+Qūrqīnā,Qurqina,Qūrqānyā|Kourkania|Qarqania|Qūrqanyā,36.1386,36.6125,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,minor,153.2,2050,2050,3,Asia/Damascus,FALSE,1760689410
+Darbul,Darbul,Derbol,33.3553,35.9125,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,182.9,2049,2049,3,Asia/Damascus,FALSE,1760639850
+Zimrīn,Zimrin,Zimrîne,33.0614,36.0761,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,2048,2048,3,Asia/Damascus,FALSE,1760940094
+Al Fitāyā,Al Fitaya,Liftāyā|Leftaya,34.6564,36.4625,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,2047,2047,3,Asia/Damascus,FALSE,1760965656
+Marj al Ḩawr,Marj al Hawr,Maar Deftîne|Ma‘arr Daftīn,35.1392,36.7003,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,2046,2046,3,Asia/Damascus,FALSE,1760722673
+‘Annāz,`Annaz,Aanaz|‘Anaz,34.7425,36.3161,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,501.7,2038,2038,3,Asia/Damascus,FALSE,1760725371
+Kafr Kīlā,Kafr Kila,,36.1431,36.5728,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,183.1,2037,2037,3,Asia/Damascus,FALSE,1760000283
+Karād ad Dāsinīyah,Karad ad Dasiniyah,Akrād Dayāsnih|Akrād Dayāsinah|Karād Dayāsinah|Kerad Dasnié|Akrâd Dayâsné|Akrād Dāsinīyah,34.8358,36.6208,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.7,2028,2028,3,Asia/Damascus,FALSE,1760071117
+Ayyūbīyah,Ayyubiyah,Ayou|Ayū,35.0327,36.7346,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,1980,1980,3,Asia/Damascus,FALSE,1760639879
+‘Ayn Ḩawr,`Ayn Hawr,‘Ayn al Ḩawr|Aïn el Haour,33.7714,36.1359,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,137.2,1974,1974,3,Asia/Damascus,FALSE,1760337189
+Shaykh Ḩadīd,Shaykh Hadid,Cheīkh Hadîd|Ash Shaykh Ḩadīd,35.3536,36.4833,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,580.4,1958,1958,3,Asia/Damascus,FALSE,1760904853
+Qaraḩtā,Qarahta,Qrahta|Karahta,33.5764,36.4475,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,156.5,1951,1951,3,Asia/Damascus,FALSE,1760726873
+Zayzūn,Zayzun,,35.7269,36.3569,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,271.9,1944,1944,3,Asia/Damascus,FALSE,1760000297
+Zayzūn,Zayzun,Zeïzun|Zeïzoun|Zalzum,32.7208,35.9433,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,672.7,1933,1933,3,Asia/Damascus,FALSE,1760768944
+Zammār,Zammar,Zam‘ar,35.8928,36.9831,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,255.9,1919,1919,3,Asia/Damascus,FALSE,1760153239
+Shalakh,Shalakh,Chalakh|Chillakh|Chélakh|Shalalakh,36.0186,36.7939,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,364.5,1917,1917,3,Asia/Damascus,FALSE,1760547717
+Jamlah,Jamlah,Ej Jamlîyé|Ej Jamlé|Al Jamlah,32.8061,35.8508,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,242.5,1916,1916,3,Asia/Damascus,FALSE,1760073822
+Umm az Zaytūn,Umm az Zaytun,Oum ez Zaïtoûn,32.9058,36.6056,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,175.1,1913,1913,3,Asia/Damascus,FALSE,1760513738
+Al Laqbah,Al Laqbah,El Laqbé|El Laobé,35.1628,36.3239,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1908,1908,3,Asia/Damascus,FALSE,1760082593
+Mirdāsh,Mirdash,Merdâch,35.4500,36.2500,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,195.6,1899,1899,3,Asia/Damascus,FALSE,1760478691
+Damīnah ash Sharqīyah,Daminah ash Sharqiyah,Damīnat ash Sharqīyah|Dmînet ech Charqîyé|Dmainé ech Charquie,34.5772,36.6778,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,1893,1893,3,Asia/Damascus,FALSE,1760733139
+Dayr al Gharbī,Dayr al Gharbi,Deïr el Rharbi,35.5911,36.6858,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,1892,1892,3,Asia/Damascus,FALSE,1760815669
+Marj Sulţān,Marj Sultan,Marj as Sulţān|Merg Sultan|Nerj Sultan|Merdj-es-Soltan|Marj es Soultanne|Marj es Soultâne|Marj es Soltan|Marg es Sultane,33.4933,36.4703,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,1860,1860,3,Asia/Damascus,FALSE,1760903914
+Şlinfah,Slinfah,Ḑalnafah|Slennfé|Silenfih|Şalinfah,35.6003,36.1786,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,189.7,1847,1847,3,Asia/Damascus,FALSE,1760467836
+Maqarrat al Ikhwān,Maqarrat al Ikhwan,Ma‘arrat al Ikhwān|El Ma‘arra|Maaret Ikhouane|Al Ma‘arrah|Maara|Maarret el Ikhouâne|Ma‘ārrat al Akhwān,36.0642,36.6717,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,1831,1831,3,Asia/Damascus,FALSE,1760297702
+Ma‘arrīn,Ma`arrin,Maarrîne,35.1569,36.4447,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,359.5,1830,1830,3,Asia/Damascus,FALSE,1760982896
+Jadrāyā,Jadraya,Jédrâyé,35.7333,36.4333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,332.2,1820,1820,3,Asia/Damascus,TRUE,1760070204
+Bayt Kammūnī,Bayt Kammuni,Bayt Kammūnah|Beït Kammoûné,34.8603,35.9333,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,1803,1803,3,Asia/Damascus,FALSE,1760453584
+Ḩawārīn,Hawarin,Haoûârîne|Haouarin|Hauwārīn|Hawarini,34.2667,37.0667,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,41.8,1802,1802,3,Asia/Damascus,FALSE,1760873438
+Al Ḩumayrah,Al Humayrah,Al Ḩumayrī|Ḩumayrī|Hmaïri|Hmiré,34.9742,36.5031,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,1797,1797,3,Asia/Damascus,FALSE,1760097553
+Al Ḩamrā’,Al Hamra',Al Ḩamrah|El Hamra|Qichlet el Hamra|Hamra|Qaraqol,35.3156,37.0872,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,52.1,1783,1783,3,Asia/Damascus,FALSE,1760322235
+Mashūn,Mashun,Balchoûn|Machoûn|Ḩashshūn|Balshūn,35.7333,36.5333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,1775,1775,3,Asia/Damascus,FALSE,1760406217
+Rām Ḩamdān,Ram Hamdan,Râm Hamdâne,36.0256,36.7139,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,367.5,1774,1774,3,Asia/Damascus,FALSE,1760534525
+Al Kawm,Al Kawm,El Koûm|El Kôm|El Kaum,35.1833,38.8667,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,2.3,1771,1771,3,Asia/Damascus,FALSE,1760153765
+Ad Durayj,Ad Durayj,Dreij|Ed Draij|Draij|Durayj,33.6216,36.2605,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,1769,1769,3,Asia/Damascus,FALSE,1760609126
+Mas‘ūdīyah,Mas`udiyah,Massaoûdîye|El Massaoudiyé|Msaïyed|Musayyid,34.8597,37.3050,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,11.6,1755,1755,3,Asia/Damascus,FALSE,1760888471
+Dayr Sunbul,Dayr Sunbul,Deïr Sounbol,35.6992,36.6058,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,1751,1751,3,Asia/Damascus,FALSE,1760324767
+Ḩaymar,Haymar,Heymer|Heïmer,36.7631,37.9294,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,212.3,1749,1749,3,Asia/Damascus,FALSE,1760003524
+Al Ḩumayrah,Al Humayrah,Houmeïra|Ḩumayrī|Ḩumayrā|Hmaïri|Ḩumayrah,34.1717,36.8469,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,85.7,1740,1740,3,Asia/Damascus,FALSE,1760311475
+Kafr ‘Urūq,Kafr `Uruq,Kafer Aarrouk|Kafer Arouk|Kafer Aaroûq,36.1206,36.6558,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,154.8,1739,1739,3,Asia/Damascus,FALSE,1760788395
+Lūbbayn,Lubbayn,Loubbaïne|Lubbā‘īn|Lubbayn,32.9192,36.3953,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,83.8,1730,1730,3,Asia/Damascus,FALSE,1760773034
+Duwayr Ţāhā,Duwayr Taha,Rudar Taha|Duwayr Ţāḩā’|Duwayr Ţāhah|Duwayriţah|Douaïr Tâha,34.9708,35.9167,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,381.2,1714,1714,3,Asia/Damascus,FALSE,1760390293
+Al Bīyah,Al Biyah,El Bîyé|El By,34.9842,36.6892,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,1703,1703,3,Asia/Damascus,FALSE,1760003620
+Kanīsat Nakhlah,Kanisat Nakhlah,Knîsset Nakhlé|Kunaysat Nakhlah,35.8222,36.3772,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,515.4,1675,1675,3,Asia/Damascus,FALSE,1760067593
+Bīrat al Jurd,Birat al Jurd,Biret ej Jourd,34.9633,36.2717,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,243.0,1670,1670,3,Asia/Damascus,FALSE,1760613220
+Ḩayyālīn,Hayyalin,Haïyâlîne,35.1319,36.2853,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1665,1665,3,Asia/Damascus,TRUE,1760584626
+Al Qanāqīyah,Al Qanaqiyah,Qanāqīyah|Qanâqîyé,34.8347,36.4908,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,387.5,1647,1647,3,Asia/Damascus,FALSE,1760695978
+Shahranāz,Shahranaz,Chahranâz,35.5158,36.4033,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,434.3,1646,1646,3,Asia/Damascus,FALSE,1760406765
+Khirbat al Jawz,Khirbat al Jawz,Kheurbet ej Jaouz,35.9047,36.1919,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,243.6,1644,1644,3,Asia/Damascus,FALSE,1760095133
+‘Ayn al Bayḑā,`Ayn al Bayda,Aïn el Beida|‘Ayn al Bayḑā’|Ein El-Bayda|‘Ayn al Bayḑah,35.6539,35.8731,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,298.2,1629,1629,3,Asia/Damascus,FALSE,1760008421
+Dayr Fūl,Dayr Ful,Dayr Fūr|Deïr Four,34.9242,36.8422,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,555.6,1614,1614,3,Asia/Damascus,FALSE,1760625401
+Tall Ḩawsh,Tall Hawsh,Tell Haouch,34.7300,36.1942,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,1609,1609,3,Asia/Damascus,FALSE,1760057698
+Bustān al Bāshā,Bustan al Basha,Boustâne el Bâcha|Boustâne Bâcha,35.4167,35.9333,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1324.2,1603,1603,3,Asia/Damascus,FALSE,1760265940
+Rasm an Nāfāl,Rasm an Nafal,Rasm an Nafl|Rasmen Nefaul|Rasm enn Nafl,35.8839,37.5822,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,17.2,1601,1601,3,Asia/Damascus,FALSE,1760893831
+Rasm Tall ‘Adā,Rasm Tall `Ada,Tell Aada|Tall Aada,35.0992,37.0928,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,1597,1597,3,Asia/Damascus,FALSE,1760253533
+Findārah,Findarah,Finndâra|Finndâro|Al Findārah,35.0233,36.3308,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1594,1594,3,Asia/Damascus,FALSE,1760279822
+Kafr al ‘Awāmīd,Kafr al `Awamid,Kefr el Aouamid|Kafer el Auouâmîd,33.6192,36.1167,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,382.0,1588,1588,3,Asia/Damascus,FALSE,1760799663
+Ţayr Jamlah,Tayr Jamlah,Taïr Jemlé,35.1022,36.3653,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1584,1584,3,Asia/Damascus,FALSE,1760767659
+Burj al Maksūr,Burj al Maksur,Borj el Maksoûr,34.6950,36.1744,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,1579,1579,3,Asia/Damascus,FALSE,1760820079
+Al Mashrafah,Al Mashrafah,Mashrafah|Mécherfé,34.9811,36.3281,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,1555,1555,3,Asia/Damascus,FALSE,1760126881
+Dabbūsīyah,Dabbusiyah,Ad Dabbūsīyah|Dabboussiye,34.6481,36.1189,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,113.6,1532,1532,3,Asia/Damascus,FALSE,1760966419
+Ḩarrān,Harran,Harrâne,32.8867,36.3836,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,83.8,1523,1523,4,Asia/Damascus,FALSE,1760104536
+Majwī,Majwi,Al Majwī|Mijoui,34.9833,36.3333,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,341.1,1517,1517,3,Asia/Damascus,FALSE,1760778457
+Al Kunaysah,Al Kunaysah,Kunaysah|Knaïssé|Kunayyisah,34.7608,36.4950,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,1504,1504,3,Asia/Damascus,FALSE,1760562611
+Karrātīn,Karratin,Tell Krâtîne|Karrâtîne|Tall Karrāthīn|Tall Karrātīn,35.9381,36.8458,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,1502,1502,3,Asia/Damascus,FALSE,1760111253
+Kassab,Kassab,Kiseb|Kessab|Qasab|Keseb|Kesab,35.9250,35.9886,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,26.0,1500,1500,3,Asia/Damascus,FALSE,1760755722
+Mismīyah,Mismiyah,Mesmiye|El Mesmiyé|Al Mismīyah,33.1292,36.3939,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,minor,28.2,1498,1498,3,Asia/Damascus,FALSE,1760043904
+Dardaghān,Dardaghan,Daghdaghān|Darhdarhâne,34.6739,36.8694,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,63.2,1497,1497,3,Asia/Damascus,FALSE,1760986668
+Al Mughayr,Al Mughayr,Al Muqayr|Maghā’ir|Mrhaïr|Marhaïr,35.4083,36.4875,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,557.3,1491,1491,3,Asia/Damascus,FALSE,1760604143
+Qabr Fiḑḑah,Qabr Fiddah,,35.4736,36.3183,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,414.1,1490,1490,3,Asia/Damascus,FALSE,1760000239
+Al Ḩarākī,Al Haraki,Ḩarākī|Hrâki,35.6500,36.8500,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,1467,1467,3,Asia/Damascus,FALSE,1760457251
+Kafr Shalāyā,Kafr Shalaya,Kafr Chalaya|Kafer Chalâya,35.7667,36.5333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1459,1459,3,Asia/Damascus,FALSE,1760500575
+Khandaq al Gharbī,Khandaq al Gharbi,Khanndeq er Rharbi|Khanndeq el Rhabiyé|Khandaq|El Khanndaq|Al Khandaq|Khanndeq el Rharbi,35.4128,36.3072,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,319.5,1456,1456,3,Asia/Damascus,FALSE,1760790260
+Ash Sha‘īrāt,Ash Sha`irat,Chaïrâte|Shayrāt,34.4928,36.9464,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,63.2,1443,1443,3,Asia/Damascus,FALSE,1760024033
+Burj ‘Arab,Burj `Arab,Borj Aarab,34.7158,36.2556,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,1434,1434,3,Asia/Damascus,FALSE,1760343658
+Kafr Nāşiḩ,Kafr Nasih,Kafr Nasseh|Kafer Nâsseh,36.4278,37.1139,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,326.2,1433,1433,3,Asia/Damascus,TRUE,1760002889
+Majdalayyā,Majdalayya,Majdalaïya|Majdalīyah|Majdalīyā|Majdaliyā,35.8333,36.6833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1429,1429,3,Asia/Damascus,FALSE,1760536962
+Ḩantūtīn,Hantutin,Hanntoûtine,35.6833,36.6500,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,1420,1420,3,Asia/Damascus,FALSE,1760282720
+Bzābūr,Bzabur,Bezābūr|Bzâbour|Bezabour|Bizābūr,35.7753,36.6161,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1389,1389,3,Asia/Damascus,FALSE,1760012176
+Arnabah,Arnabah,Arnabih|Arnabé|Annabé,35.7017,36.4639,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,1376,1376,3,Asia/Damascus,FALSE,1760082858
+Kafr ‘Aqīd,Kafr `Aqid,Kafr Aaqid|Kafer Aaqîd,35.0606,36.4419,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1373,1373,3,Asia/Damascus,FALSE,1760347811
+Rasm ‘Ubayd,Rasm `Ubayd,Rasm al ‘Abd|Rasm Aabd|Bouaïtiyé|Buwaytīyah,35.7089,37.1003,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,181.2,1372,1372,3,Asia/Damascus,FALSE,1760777834
+Kafr Bissīn,Kafr Bissin,Kafer Bessine,35.5588,36.6842,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,334.7,1370,1370,3,Asia/Damascus,FALSE,1760926627
+Ash Sharaqlīyah,Ash Sharaqliyah,Charaklié|Charaqlîyé|Sharaqlīyah,34.8358,36.5108,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,407.4,1347,1347,3,Asia/Damascus,FALSE,1760530459
+Balmīs,Balmis,,35.8833,36.3667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,515.4,1346,1346,3,Asia/Damascus,FALSE,1760705321
+‘Arqāyā,`Arqaya,Aarqâya,34.8136,36.4781,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.2,1307,1307,3,Asia/Damascus,FALSE,1760252142
+Ḩamāmīyāt,Hamamiyat,Al Ḩamāmīyāt|Hamâmiyâte,35.3833,36.5333,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,387.6,1305,1305,3,Asia/Damascus,FALSE,1760160420
+Bayt Nāţir,Bayt Natir,Beït Nâter|Beït Nater,34.9169,36.3506,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,1304,1304,3,Asia/Damascus,FALSE,1760054758
+Maydān Ikbis,Maydan Ikbis,Meidan Ekbes|Meïdane Ekbes|Mīdān Ikbis|Meïdâne Ekbez,36.8200,36.6772,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,111.8,1302,1302,3,Asia/Damascus,FALSE,1760186577
+Abū Dālī,Abu Dali,Abou Dali,34.6847,36.8914,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,1300,1300,3,Asia/Damascus,FALSE,1760009659
+Qalb Lawzah,Qalb Lawzah,Qalb Lozé|Kalblozé|Qalbū Lawzah|Qalb Lawzī|Qalb Laouzé|Qalablawzah,36.1692,36.5806,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,1290,1290,3,Asia/Damascus,FALSE,1760600419
+Rām al ‘Anz,Ram al `Anz,Râm el Aanz|Râm el Aannz|Ram el Anz,34.7286,36.5211,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,1272,1272,3,Asia/Damascus,FALSE,1760758675
+Firkayā,Firkaya,Farkīyā|Firkaïya|Faylūn,35.7250,36.5986,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,1264,1264,3,Asia/Damascus,FALSE,1760016308
+Shaykh Barakah,Shaykh Barakah,Cheïkh Baraké|Ash Shaykh Barakah,35.5597,36.9797,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,1256,1256,3,Asia/Damascus,FALSE,1760608080
+Tall Khaznah,Tall Khaznah,Tell Kazne|Tall al Khaznah|Tell el Khazné,34.8822,37.0014,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,1252,1252,3,Asia/Damascus,FALSE,1760707615
+Kafr ‘Ayn,Kafr `Ayn,Kafer Aïn,35.4450,36.5667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,371.2,1234,1234,3,Asia/Damascus,FALSE,1760486092
+Tall Khinzīr,Tall Khinzir,Tell Khanzîr Fîrké|Tell Khannzîr|Tall Khinzīr Firkah|Tall Khanzīr Firkih,35.4331,36.9817,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,1231,1231,3,Asia/Damascus,FALSE,1760216313
+Tall Jadīd,Tall Jadid,Tell Jadid|Tall al Jadīd|Tel Jedid|Tel Djedid|Tell Jdîd,34.9272,37.2472,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,82.5,1230,1230,3,Asia/Damascus,FALSE,1760892038
+Ghuzaylah,Ghuzaylah,Rhzaïlé|Ghzeïlé,34.7197,36.4886,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,1229,1229,3,Asia/Damascus,FALSE,1760071699
+Barād,Barad,Brâte|Braat,36.3856,36.8992,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,230.7,1229,1229,3,Asia/Damascus,FALSE,1760081642
+Burj ‘Abd Allāh,Burj `Abd Allah,Bourj Habedaba|Borj Abdalo|Borj Aabdallo|Burj ‘Abd Allū,36.4108,36.8622,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,230.7,1224,1224,3,Asia/Damascus,FALSE,1760457127
+Khātūnīyah,Khatuniyah,Khatunia|Khātūrīyah|Khatunie|Khâtoûnîyé|Khatounie,36.4228,41.2200,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,17.2,1218,1218,4,Asia/Damascus,FALSE,1760719404
+‘Ayn Ḩalāqīm,`Ayn Halaqim,Aïn HalâqÎm,34.9401,36.3238,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,minor,342.0,1216,1216,3,Asia/Damascus,FALSE,1760411593
+Qāţimah,Qatimah,Katma|Katra|Qaţmah,36.5833,36.9500,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,68.3,1215,1215,3,Asia/Damascus,FALSE,1760947144
+Jidrīn,Jidrin,Jidrîne,34.9511,36.5822,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,1215,1215,3,Asia/Damascus,FALSE,1760308389
+Umm Jibāb,Umm Jibab,Oum Jbâb,34.7747,37.0800,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,86.0,1209,1209,3,Asia/Damascus,FALSE,1760844702
+Bayt ar Rafī‘ah,Bayt ar Rafi`ah,Beït al Rafi’ah|Beït er Rafîaa|Baydar Rafī‘,34.8569,36.3119,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,361.3,1206,1206,3,Asia/Damascus,FALSE,1760539486
+Ghāniyah,Ghaniyah,Rhâni|Ghānī,35.7639,36.2939,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,515.4,1205,1205,3,Asia/Damascus,FALSE,1760568132
+Dalbīyā,Dalbiya,Dalbīyah|Delbîya,36.1333,36.4000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.8,1204,1204,3,Asia/Damascus,FALSE,1760825059
+Naḩlah,Nahlah,Nuḩaylah|Nahli|Nahlé,35.7814,36.5906,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1189,1189,3,Asia/Damascus,FALSE,1760868882
+Kawkab,Kawkab,,33.3808,36.1819,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,509.1,1188,1188,3,Asia/Damascus,FALSE,1760237054
+Ar Ruffah,Ar Ruffah,Rūfā|Rouffa|Raffé|Ruffah,35.5464,36.8001,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,1188,1188,3,Asia/Damascus,FALSE,1760778962
+Al Bayḑah,Al Baydah,Al Bayḑā’|El Beïda,35.0381,36.3372,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1173,1173,3,Asia/Damascus,FALSE,1760436364
+Abū Ḩanāyā,Abu Hanaya,Abou Hanayé|Abou Hanâya,35.0719,37.3261,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,82.5,1157,1157,3,Asia/Damascus,FALSE,1760020494
+Barshīn,Barshin,Barchine|Barchîne,34.8839,36.3458,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,1155,1155,3,Asia/Damascus,FALSE,1760819829
+Ma‘rūnah,Ma`runah,Ma‘rūnih|Maaroûné,33.6344,36.3956,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,633.5,1153,1153,3,Asia/Damascus,FALSE,1760625810
+Kafr Ḩūm,Kafr Hum,Kafr Hūm|Kafer Hoûn|Kafer Hoûm,36.1969,36.4781,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,420.5,1143,1143,3,Asia/Damascus,FALSE,1760232992
+Bārīshā,Barisha,Barîcha,36.1661,36.6361,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,1143,1143,3,Asia/Damascus,FALSE,1760646222
+Rīmah,Rimah,Rîmé|Rimé,33.4181,35.9003,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,1132,1132,3,Asia/Damascus,FALSE,1760619698
+Abū ‘Umar,Abu `Umar,Abou Omar,35.4644,36.8858,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,1129,1129,3,Asia/Damascus,FALSE,1760909132
+Maghārah,Magharah,Mrhâra|Mughārah,35.7343,36.5867,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,1122,1122,3,Asia/Damascus,FALSE,1760503423
+Mūqah,Muqah,Mouqa|Moûka,35.4988,36.6398,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,334.7,1118,1118,3,Asia/Damascus,FALSE,1760766308
+Khirbat al Faras,Khirbat al Faras,Kheurbet el Farass|Kh. el Farass,34.9510,36.0135,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,840.5,1113,1113,3,Asia/Damascus,FALSE,1760490276
+‘Ayn at Tīnah,`Ayn at Tinah,‘Ayn at Tīnah al Gharbīyah|Aïn ett Tîné Rharbîyé|Aïn ett Tîné,34.7019,36.2258,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,1092,1092,3,Asia/Damascus,FALSE,1760174746
+Abū Ţalḩah,Abu Talhah,Abou Talha,36.1039,36.4336,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.8,1087,1087,3,Asia/Damascus,FALSE,1760400133
+Qayrūn,Qayrun,Qaïroûn,35.1328,36.3422,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,1084,1084,3,Asia/Damascus,FALSE,1760337157
+Ghayţūn,Ghaytun,Rhaïtoûn|Ghétoune|Gueïtoun,36.4847,37.3050,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,1080,1080,3,Asia/Damascus,FALSE,1760630183
+Kafr Hind,Kafr Hind,Kafer Hinnd Faouqâni|Kafer Hend|Kafr Hind al Fawqānī,36.0833,36.4333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,519.2,1073,1073,3,Asia/Damascus,FALSE,1760466660
+Tall an Nabī Mandū,Tall an Nabi Mandu,Tell Enn Nabi Mennd|Tell en Nebi Mend|Qadech|Tell en Nabi Mennd|Tall an Nabī Mindū|Qādish,34.5525,36.5183,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,1068,1068,3,Asia/Damascus,FALSE,1760645189
+Khilfah,Khilfah,Khalfah|Khilfé,34.8839,37.1989,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,85.7,1068,1068,3,Asia/Damascus,FALSE,1760998428
+Qurá al Asad,Qura al Asad,Qura al Assad|Ḑāḩiyat al Asad,33.5500,36.1333,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,262.8,1067,1067,3,Asia/Damascus,FALSE,1760669183
+Anab,Anab,Anāb,35.7325,36.4428,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,333.7,1064,1064,3,Asia/Damascus,FALSE,1760787473
+Kafr Zībā,Kafr Ziba,Kafer Ziba,35.7947,36.5955,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1064,1064,3,Asia/Damascus,FALSE,1760452178
+Tall Sinān,Tall Sinan,Tell Sinān|Tall as Sinān|Tell es Snâne|Tel Senek,35.1258,37.1222,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,1061,1061,3,Asia/Damascus,FALSE,1760637371
+Kafr Qadaḩ,Kafr Qadah,Kafer Qadah,34.9667,36.5333,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,1049,1049,3,Asia/Damascus,FALSE,1760729003
+Ma‘arrzaf,Ma`arrzaf,Maar Zâf|Ma‘arr Zāf|Ma‘arzaf,35.7889,36.6522,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,1048,1048,3,Asia/Damascus,FALSE,1760942226
+Maryamayn,Maryamayn,Marymayn|Mariamine|Mariamaïne|Merimin,35.9836,37.1239,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,224.9,1045,1045,3,Asia/Damascus,TRUE,1760341235
+Dayr Qāq,Dayr Qaq,Derkaq|Deïr Qâq|Dayrqāq,36.3064,37.4442,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,1042,1042,3,Asia/Damascus,FALSE,1760847320
+Kawkab,Kawkab,Kaoukab|Kawkab al Hawā’,34.9728,36.0022,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,345.6,1039,1039,3,Asia/Damascus,FALSE,1760099620
+Al Khāmisīyah,Al Khamisiyah,,33.4711,36.5023,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,457.3,1024,1024,3,Asia/Damascus,FALSE,1760397653
+Z̧ahr Şafrah,Zahr Safrah,Ḑahr aş Şafrā’|Ḑahr Şafrah|Ḑahr Şafrā’|Dhahr Safra,35.0792,35.9272,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,419.9,1019,1019,3,Asia/Damascus,FALSE,1760403274
+As Sam‘alīl,As Sam`alil,Sam‘alīl|Samaalîl,34.8369,36.5683,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,538.7,1017,1017,3,Asia/Damascus,FALSE,1760928651
+Damīnah al Gharbīyah,Daminah al Gharbiyah,Damīnat al Gharbīyah|Dmînet el Rharbîyé|Dmaïné el Gharbié,34.6014,36.5936,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,1012,1012,3,Asia/Damascus,FALSE,1760143978
+Ḩājj Kūsā,Hajj Kusa,Hajji Koûssa|Ḩājjī Kūsā|Ḩājī Kūsah,36.5556,37.6389,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,66.5,1011,1011,3,Asia/Damascus,FALSE,1760682248
+Khirbat al Qaşr,Khirbat al Qasr,El Bouaïda|Al Buwayḑah|Kheurbet el Qasr,34.9853,36.5369,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,1007,1007,3,Asia/Damascus,FALSE,1760162953
+Ḩuwayr at Turkumān,Huwayr at Turkuman,Houaïr ett Toukmâne|Houaïr ett Tourkmâne,34.9278,36.3506,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,417.6,1003,1003,3,Asia/Damascus,FALSE,1760231080
+Jamrīn,Jamrin,Jamrine,32.5475,36.4953,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,157.4,1000,1000,3,Asia/Damascus,FALSE,1760119406
+Bārūzah,Baruzah,El Barouzé|Barouzé|Al Bārūzah,36.4817,37.3489,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,992,992,3,Asia/Damascus,FALSE,1760555623
+Jalmidūn,Jalmidun,Jalmīdūn|Lawīyah|Al Lawīyah|Laouié|Jalmîdoûn,35.1626,36.3899,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,348.3,991,991,3,Asia/Damascus,FALSE,1760024756
+Qişrāyā,Qisraya,Qisrâya,34.8864,36.4133,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,982,982,3,Asia/Damascus,FALSE,1760238932
+Ḩawā,Hawa,Rawḑat Hawā’|Raoudet Haoura|Raoudet Haoua|Huwa|Haoûa,35.5242,37.0411,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,960,960,3,Asia/Damascus,FALSE,1760172529
+Khafsīn,Khafsin,,35.3478,36.8556,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,960,960,3,Asia/Damascus,FALSE,1760000286
+Jawbat Burghāl,Jawbat Burghal,Jaoubet Bour’rhâl|Jaoubet Borrhâl|Jaoubet Bourrhat,35.4886,36.1767,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,120.4,959,959,3,Asia/Damascus,FALSE,1760084263
+Ţallah,Tallah,Tallah|Tallé|Ţalalah,35.0500,36.1833,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,278.8,947,947,3,Asia/Damascus,FALSE,1760170953
+‘Arshānī Fawqānī,`Arshani Fawqani,Aarchâni Faouqâni|‘Arshānī al Fawqānī|Archani,35.9525,36.5569,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,750.1,935,935,3,Asia/Damascus,FALSE,1760990988
+Ra’s al ‘Ayn,Ra's al `Ayn,Râs el Aïn,35.2952,37.0589,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,931,931,3,Asia/Damascus,FALSE,1760169400
+Zanqūfah,Zanqufah,Zannqoûfé,35.5994,36.0431,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,276.9,928,928,3,Asia/Damascus,FALSE,1760103736
+Ḩattān,Hattan,Hattâne|Hettane,36.1694,36.5953,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,928,928,3,Asia/Damascus,FALSE,1760445537
+Qarqaftī,Qarqafti,,35.0739,35.9492,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,405.7,927,927,3,Asia/Damascus,FALSE,1760317451
+Kafr Ḩāyā,Kafr Haya,Kafer Hâya,35.7564,36.5836,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,478.2,916,916,3,Asia/Damascus,FALSE,1760473095
+Ghurūr,Ghurur,Rhouroûr,36.5553,37.3803,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,915,915,3,Asia/Damascus,FALSE,1760877947
+Suray‘ā,Suray`a,Sraïaa,35.5708,37.0500,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,914,914,3,Asia/Damascus,FALSE,1760609623
+Umm al Qaşab,Umm al Qasab,Oum el Kassab|Oum el Qassâb|Oumm el Qassab|Umm al Qaşşāb,34.7531,36.6247,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,904,904,3,Asia/Damascus,FALSE,1760123445
+Armanāyyā,Armanayya,,35.5675,36.6258,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,334.7,904,904,3,Asia/Damascus,FALSE,1760000301
+Yart,Yart,Yartah|Yarté,35.4500,36.0000,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,329.0,902,902,3,Asia/Damascus,FALSE,1760772516
+Bāşūfān,Basufan,Bosoufane|Bâssoûfâne,36.3397,36.8750,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,230.7,901,901,3,Asia/Damascus,FALSE,1760377912
+Abū al Khassah,Abu al Khassah,Abou el Khous|Abū al Khūş|Abou el Khassé,35.8362,36.9022,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,899,899,3,Asia/Damascus,FALSE,1760731299
+Marj al Qaţā,Marj al Qata,Merdj el Kat|Marj el Qata,34.7578,36.5297,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,893,893,3,Asia/Damascus,FALSE,1760627838
+Tannūnah,Tannunah,Tannouna|Tannoûné,34.7547,36.5678,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,882,882,3,Asia/Damascus,FALSE,1760647858
+Ḩūţ,Hut,Houte,32.4897,36.6086,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,110.6,873,873,3,Asia/Damascus,FALSE,1760189224
+Ḩarmal,Harmal,Hermel,34.9058,36.3514,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,475.0,871,871,3,Asia/Damascus,FALSE,1760729741
+Khirbat Tīn Maḩmūd,Khirbat Tin Mahmud,Kheurbet Tîne Mahmoûd|Kheurbet et Tin Mahmoud,34.7739,36.5683,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,866,866,3,Asia/Damascus,FALSE,1760783645
+‘Arshūnah,`Arshunah,Archoun|Aarchoûné|‘Arshūnih,34.9646,37.2965,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,82.5,865,865,3,Asia/Damascus,FALSE,1760558151
+Rashjān,Rashjan,,35.4057,37.4305,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,860,860,3,Asia/Damascus,FALSE,1760708158
+Al Maḑba‘ah,Al Madba`ah,Maḑba‘ah|Madbaâ,35.2397,36.8711,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,857,857,3,Asia/Damascus,FALSE,1760493277
+Tall Kambrayrī,Tall Kambrayri,Tall Kabrīzī|Tall Kambatrī,35.3425,36.3134,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,319.5,850,850,3,Asia/Damascus,FALSE,1760424179
+Qaşr Abū Samrah,Qasr Abu Samrah,Qasr abou Samra|Qaşr Abū Samrā’,35.3544,36.9719,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,849,849,3,Asia/Damascus,FALSE,1760902008
+Sukayk,Sukayk,Soukaïk,35.4292,36.7705,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,848,848,3,Asia/Damascus,FALSE,1760420026
+Zawr Abū Zayd,Zawr Abu Zayd,Zor Abou Zaïd|Zour Abou Zeïd,35.2406,36.6597,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,363.0,838,838,3,Asia/Damascus,FALSE,1760515517
+Shaykh Hilāl,Shaykh Hilal,Ash Shaykh Hilāl|Cheïkh Hlâl,35.2494,37.5050,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,834,834,3,Asia/Damascus,FALSE,1760640604
+Abū Faraj,Abu Faraj,,35.3124,36.3602,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,276.2,834,834,3,Asia/Damascus,FALSE,1760000300
+Al Muzayri‘ah,Al Muzayri`ah,Mzaïraâ|Muzayri‘ah,35.5311,36.0711,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,212.8,834,834,3,Asia/Damascus,FALSE,1760237555
+Ḩayr Jāmūs Kabīr,Hayr Jamus Kabir,Jâber|Heirjamous Kebir|Haïr Jâmoûs Kébîr|Jābir|Ḩayr Jāmūs al Kabīr,36.1894,36.4206,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.8,833,833,3,Asia/Damascus,FALSE,1760962529
+Wajh al Ḩajar,Wajh al Hajar,Ouajh el Hajar|Ouij el Hajar,34.6433,36.4831,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,831,831,3,Asia/Damascus,FALSE,1760673113
+Tall Maraq,Tall Maraq,Tell Maraq,35.4333,36.8500,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,117.6,831,831,3,Asia/Damascus,FALSE,1760362024
+Şarārīfīyah,Sararifiyah,Şarārīf|Srarîf,35.7333,36.4000,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,343.6,819,819,3,Asia/Damascus,FALSE,1760714126
+Bmalkah,Bmalkah,Malkê|Bmalké|Bemleki|Mālikah|Bimalkah,34.9347,35.9728,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,817,817,3,Asia/Damascus,FALSE,1760230092
+Maksar al Jayḑān,Maksar al Jaydan,Maksar el Hissâne|Maksar al Ḩişān,34.8114,37.3061,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,11.6,811,811,3,Asia/Damascus,FALSE,1760667772
+Tall Shamrān Fawqānī,Tall Shamran Fawqani,Tell Chamrâne|Tall Shamrān|Tell Chamrâne Faouqâni|Tall Shamrān al Fawqānī,36.6392,40.3572,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,811,811,3,Asia/Damascus,FALSE,1760680084
+Shamsīn,Shamsin,Shemsin|Shamsayn|Chamsîne|Chamsīn,34.5414,36.7406,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,29.2,811,811,3,Asia/Damascus,FALSE,1760007457
+Tall Ţal‘ah,Tall Tal`ah,Tell Talaâ|Tall Shamrān,36.6203,40.3717,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,800,800,3,Asia/Damascus,FALSE,1760395653
+Buqrāqah,Buqraqah,Buqrāqā|Boqrâqa|Boqrâoa|Burkrākā,35.1022,36.3653,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,798,798,3,Asia/Damascus,FALSE,1760418577
+Mişyadah,Misyadah,Massidi|Massiâdé|Maşyadah,34.7008,36.1972,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,792,792,3,Asia/Damascus,FALSE,1760039854
+Ash Shawkatlīyah,Ash Shawkatliyah,Shawkatlīyah|Chaoukatliyé,33.2321,35.9717,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,775,775,3,Asia/Damascus,FALSE,1760514815
+Baydar Shamsū,Baydar Shamsu,,35.7667,36.4667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,332.2,768,768,3,Asia/Damascus,FALSE,1760000219
+Abū Qubays,Abu Qubays,Qal‘at Abū Qubays|Abū al Qubays|Kalaat Abu Kebeis|Abou Qbeïss|Abou Qbaïss|Qal‘at Abu Qubeis,35.2361,36.3144,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,276.2,758,758,3,Asia/Damascus,FALSE,1760867312
+Ḩadyah,Hadyah,Hâdié,34.8572,36.3317,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,445.6,754,754,3,Asia/Damascus,FALSE,1760173485
+Dūrīn,Durin,Doûrîne|Doûrine,33.2526,35.9683,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,750,750,3,Asia/Damascus,FALSE,1760525175
+Banīn,Banin,Bnîne|Bnīn,35.7116,36.6407,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,743,743,3,Asia/Damascus,FALSE,1760457639
+Ḩimrīt,Himrit,Himrite,33.1851,36.0070,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,227.3,737,737,3,Asia/Damascus,FALSE,1760400840
+Mar‘and,Mar`and,Maraând,35.7833,36.2167,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,243.6,734,734,3,Asia/Damascus,FALSE,1760531912
+Qabr Shāmīyah,Qabr Shamiyah,,36.5786,40.4472,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,734,734,3,Asia/Damascus,FALSE,1760000511
+Baksarīyah,Baksariyah,Baksariyé|Baksarīyyā|Baksariyā,35.8667,36.2167,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,243.6,732,732,3,Asia/Damascus,FALSE,1760453046
+Qal‘at Nimrah,Qal`at Nimrah,Qal‘at Namirah|Qalaat Nemra,34.7942,36.3136,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,363.6,724,724,3,Asia/Damascus,FALSE,1760778344
+Mā‘iş,Ma`is,Maas,33.2000,35.9833,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,514.9,719,719,3,Asia/Damascus,FALSE,1760394421
+Barīs,Baris,Bariss|Bārīs,35.7833,36.9508,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,181.2,714,714,3,Asia/Damascus,FALSE,1760006412
+Karrātīn aş Şaghīrah,Karratin as Saghirah,Karratine es Sérhiré,35.6561,36.9804,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,714,714,3,Asia/Damascus,FALSE,1760125935
+Burāq,Buraq,Bourâq|Bourak|Bouraa|Al Burak|Burrāq|Burak,33.1850,36.4797,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,28.2,712,712,3,Asia/Damascus,FALSE,1760612582
+Şufr,Sufr,Sufur|Soufor,34.7847,36.4753,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,400.4,712,712,3,Asia/Damascus,FALSE,1760683605
+Al Bārid,Al Barid,El Bâred,35.4339,36.3131,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,434.3,710,710,3,Asia/Damascus,FALSE,1760109463
+Akrād Ibrāhīm,Akrad Ibrahim,Ibrāhīm,34.9833,36.4667,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,255.4,698,698,3,Asia/Damascus,FALSE,1760889836
+Abū ‘Ajwah,Abu `Ajwah,,35.3692,37.2000,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,693,693,3,Asia/Damascus,FALSE,1760596785
+Butaysah,Butaysah,Taysah|Tbiseh|Btaysah,34.7836,36.5072,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,297.0,688,688,3,Asia/Damascus,FALSE,1760241565
+Tall adh Dhahab,Tall adh Dhahab,Tell Ez Zahab,35.2114,37.0197,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,660,660,3,Asia/Damascus,FALSE,1760446635
+Ash Shuwayhid,Ash Shuwayhid,Shawāhid|Chouahid,34.7378,36.2714,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,436.2,654,654,3,Asia/Damascus,FALSE,1760300488
+Kafrayn,Kafrayn,Kfarrīsh|Kfarrîch|Kafr Rīsh|Kafrīsh,34.7147,36.2228,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,654,654,3,Asia/Damascus,FALSE,1760758740
+Tall Naşrī,Tall Nasri,Nasri|Tall Nāşirī|Tell Nasseur|Tell Nasri,36.6397,40.3681,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,650,650,3,Asia/Damascus,FALSE,1760336991
+Sarḩā ash Shamālī,Sarha ash Shamali,Sarha,35.3667,37.4333,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,644,644,3,Asia/Damascus,FALSE,1760733462
+Rabdah,Rabdah,Rabdé,35.3858,37.0531,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,642,642,3,Asia/Damascus,FALSE,1760167692
+Ḩarzah,Harzah,Hezri|Hazra|Ḩazrah,36.2328,36.7906,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,631,631,3,Asia/Damascus,FALSE,1760859242
+‘Ayn al Qaḑīb,`Ayn al Qadib,’Aïn el Qadîb|Aïn Qadîb,35.0847,36.2583,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,223.2,630,630,3,Asia/Damascus,FALSE,1760074906
+Āq Burhān,Aq Burhan,Akhburane|Ak Bourhane|Aq Bour’hanê,36.4978,37.3853,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,627,627,3,Asia/Damascus,FALSE,1760367675
+Tall Abū Rubayş,Tall Abu Rubays,Abou Rbeis|Abou Roubeïss|Abou Roubeïs|Abū Rubayş,35.2078,36.5208,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,515.3,619,619,3,Asia/Damascus,FALSE,1760392585
+Jiblāyā,Jiblaya,Jiblâya,34.7853,36.3922,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,330.6,618,618,3,Asia/Damascus,FALSE,1760314960
+Al Mutawassiţah,Al Mutawassitah,Moutouasta|Mutawassiţah,35.5914,36.9814,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,616,616,3,Asia/Damascus,FALSE,1760509283
+Tall ‘Afar,Tall `Afar,Tall A‘far|Tell Léfar|Tell Aafar,35.1053,36.5083,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,525.0,610,610,3,Asia/Damascus,FALSE,1760031575
+Umm Miyāl,Umm Miyal,,35.3923,37.3991,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,605,605,3,Asia/Damascus,FALSE,1760098538
+‘Arfah,`Arfah,Aarfa|Al ‘Arfā’,35.3731,37.0322,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,590,590,3,Asia/Damascus,FALSE,1760327843
+Al Ḩafar,Al Hafar,Ḩafr|Hafar|Al Ḩafr|El Hafar,34.2522,36.9039,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,15.8,589,589,3,Asia/Damascus,FALSE,1760568004
+Mughr al Mīr,Mughr al Mir,Mourhr el Mîr|Mourhr el Mir|Maghar al Mīr,33.3081,35.9686,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,182.9,588,588,3,Asia/Damascus,FALSE,1760813928
+Baḩzīnah,Bahzinah,Bahzîna|Baḩzīnā,34.7500,36.2000,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,416.7,586,586,3,Asia/Damascus,FALSE,1760970998
+Qasţal Ma‘āf,Qastal Ma`af,Qasţal Ma‘f|Qasţal al Ma‘āf|Qastal Maaf,35.8247,35.9517,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,88.3,585,585,3,Asia/Damascus,FALSE,1760743694
+Kharabā,Kharaba,Kharābā|Kharabah,32.5872,36.4428,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,310.9,581,581,3,Asia/Damascus,FALSE,1760714261
+Tall Hurmuz,Tall Hurmuz,,36.5647,40.5564,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,575,575,3,Asia/Damascus,FALSE,1760000588
+Umm Ḩāratayn,Umm Haratayn,,33.0800,36.5239,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,32.4,574,574,4,Asia/Damascus,FALSE,1760791662
+Ka‘ībah,Ka`ibah,Kābiyah|Kāribah|Kaïbé|Khaïbé|Kā’ibah,36.5408,37.4164,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,572,572,3,Asia/Damascus,FALSE,1760490101
+‘Akūbar,`Akubar,Akobar|‘Aqawbar|Aakôbar,33.7424,36.4668,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,187.6,563,563,3,Asia/Damascus,FALSE,1760290798
+Qaşr al Mukharram,Qasr al Mukharram,Qasr el Mkharram,35.3283,36.9486,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,279.0,552,552,3,Asia/Damascus,FALSE,1760922181
+Al Marj,Al Marj,,36.3667,37.2667,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,326.2,547,547,3,Asia/Damascus,FALSE,1760627594
+Kharsā,Kharsa,Al Kharsā’|Kharsā’,32.9292,36.4928,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,83.8,547,547,4,Asia/Damascus,FALSE,1760561564
+Ḩallūz,Halluz,Halloûz,35.7833,36.2667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,515.4,547,547,3,Asia/Damascus,TRUE,1760768873
+Nabābil,Nababil,Benabel|Bnābil|Bnâbel|Nabâbil|Banābil,36.2003,36.5622,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,542,542,3,Asia/Damascus,FALSE,1760274423
+Ḩawsh as Sayyid ‘Alī,Hawsh as Sayyid `Ali,Haouch Saïd Aali,34.4603,36.4972,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,541,541,3,Asia/Damascus,FALSE,1760774778
+Dalalā,Dalala,Ed Dala|Ad Dala|Tell Halâoué|Dallā,35.4961,37.1789,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,535,535,3,Asia/Damascus,FALSE,1760202640
+Bsās,Bsas,Bisās al Qadīmah|Bsās al Jadīdah|Bsās al Qadīmah|Bisās|Bisās al Jadīdah,34.7303,36.3053,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,533,533,3,Asia/Damascus,FALSE,1760522539
+‘Abraytā,`Abrayta,Abreïta|Aabreïté|Abrita,36.1436,36.5233,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,238.6,528,528,3,Asia/Damascus,FALSE,1760794913
+Abū Ḩabbah,Abu Habbah,Kheurbet Abou Khabbi|Abou Habbé|Abū Ḩabbih,35.5311,36.7758,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,334.7,517,517,3,Asia/Damascus,FALSE,1760119584
+Sardīn,Sardin,Sardine,36.1455,36.5918,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,517,517,3,Asia/Damascus,FALSE,1760314019
+Kinnsibbā,Kinnsibba,Qānsībā|Kensiya|Kinsibā|Kinnsibbah|Kinsibbā|Kinnsibba,35.7439,36.1639,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,141.7,514,514,3,Asia/Damascus,FALSE,1760290662
+Kaymah,Kaymah,Al Kaymah|Kaïmé,34.8214,36.3164,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,442.2,508,508,3,Asia/Damascus,FALSE,1760684585
+Kahf al Ḩabash,Kahf al Habash,Kâf el Habach,34.9706,36.3219,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,508,508,3,Asia/Damascus,FALSE,1760274568
+Baamrah,Baamrah,B‘amrah|Baamra,34.9519,36.3494,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,508,508,3,Asia/Damascus,FALSE,1760424723
+Khirbat as Sawdah,Khirbat as Sawdah,Rām,34.7831,36.6231,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,507,507,3,Asia/Damascus,FALSE,1760962996
+Abū Khanādiq,Abu Khanadiq,Abū Khanādiq al Qiblī|Abou Khanâdeq Qibli|Abou Khanâdeq,35.2698,37.1995,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,68.3,507,507,3,Asia/Damascus,FALSE,1760610376
+Abū Sharjī,Abu Sharji,Abou Charji|Abou Charjé,35.5833,36.8833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,507,507,3,Asia/Damascus,FALSE,1760648516
+Akkūm,Akkum,Akkoûm|Akoum|Akam,34.5175,36.3678,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,506,506,3,Asia/Damascus,FALSE,1760334705
+Ma‘arrkabah,Ma`arrkabah,,35.3169,36.6681,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,369.5,494,494,3,Asia/Damascus,FALSE,1760000333
+Rasm al Aḩmar,Rasm al Ahmar,,35.1089,37.4214,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,11.3,493,493,3,Asia/Damascus,FALSE,1760938507
+Al Ashrafīyah,Al Ashrafiyah,Achrafîyé|Ashrafīyah,34.8204,36.7568,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,492,492,3,Asia/Damascus,FALSE,1760323927
+‘Aramah,`Aramah,‘Arāmū|Aaramo|Aramo,35.6265,36.1316,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,189.7,490,490,3,Asia/Damascus,FALSE,1760587291
+Harqal,Harqal,Haïrqal|Hayrqal,34.8092,36.5044,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,527.9,489,489,3,Asia/Damascus,FALSE,1760528816
+Taltītah,Taltitah,Teltîta,36.1120,36.5530,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,238.6,487,487,3,Asia/Damascus,FALSE,1760440249
+Shaqrā,Shaqra,Shakra|Chakra|Chaqra|Shaqrā’|Shaqrah,32.9069,36.2375,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,247.8,487,487,3,Asia/Damascus,FALSE,1760546529
+Abū Dardah,Abu Dardah,Abou Dardé,34.9839,36.8208,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,486,486,3,Asia/Damascus,FALSE,1760579139
+Al Kafrūn,Al Kafrun,,34.8622,36.2356,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,323.3,485,485,3,Asia/Damascus,FALSE,1760135961
+Tannūrīn,Tannurin,Tannoûriné|Tannoûrîyé|Tannourîne,34.7811,36.2269,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,363.6,484,484,3,Asia/Damascus,FALSE,1760204632
+Qubaybāt,Qubaybat,Kubaybāt|Qoubeïbâte|Koubeïbâte|Qabibat|Moudaoûara,35.2050,37.1597,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,68.3,483,483,3,Asia/Damascus,FALSE,1760482685
+Kanāyis,Kanayis,Al Kanā’is|Kanâyess,35.2139,36.3035,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,276.2,481,481,3,Asia/Damascus,FALSE,1760912409
+Ḩazzūr,Hazzur,Khirbat Ḩazzūr|Kheurbet Hazzoûr|Kheurbet Hazzour,34.9211,36.3186,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,479,479,3,Asia/Damascus,FALSE,1760789233
+‘Āshiq ‘Umar,`Ashiq `Umar,Aâcheq Omar,34.9533,36.3242,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,342.0,473,473,3,Asia/Damascus,FALSE,1760218534
+Ḩarrān,Harran,Harrâne|Hardâne|Ḩardān,35.5669,36.8031,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,456,456,3,Asia/Damascus,FALSE,1760587337
+Z̧ifr Kabīr,Zifr Kabir,Zafr Kébîr|Zifr al Kabīr,35.7017,36.9933,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,181.2,444,444,3,Asia/Damascus,FALSE,1760835327
+Tall Bālū‘ah,Tall Balu`ah,Tell Baloûaâ,36.5714,40.4711,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,443,443,3,Asia/Damascus,FALSE,1760433935
+Qubbat al Kurdī,Qubbat al Kurdi,Qoubbet el Kourdi,35.0101,36.9317,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,193.0,438,438,3,Asia/Damascus,FALSE,1760937945
+Ḩawār Killis,Hawar Killis,Ḩiwār Kalas,36.6586,37.2128,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,210.1,438,438,3,Asia/Damascus,FALSE,1760141119
+Kanfā,Kanfa,Kannfo|Kanfū,35.1894,36.3903,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,359.5,432,432,3,Asia/Damascus,FALSE,1760172872
+Buwayḑat ar Rayḩānīyah,Buwaydat ar Rayhaniyah,Boueïda er Rihaniyé|Bouaïdet Rouaïhîni|Buwayḑat Ruwayḩīnī|Buwayḑat Ruwayḩānah|Bouaïdet Rouaïhaniyé,34.8611,37.1436,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,86.0,419,419,3,Asia/Damascus,FALSE,1760866705
+Daghlah,Daghlah,Darhlé,34.8167,36.3000,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,363.6,410,410,3,Asia/Damascus,FALSE,1760844599
+Al Judaydah,Al Judaydah,Jdaïdé|Judaydah,35.9236,36.2753,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,244.8,407,407,3,Asia/Damascus,FALSE,1760473220
+Rasm al ‘Abd,Rasm al `Abd,Rasm el Aabd,34.9778,37.4244,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,11.3,404,404,3,Asia/Damascus,FALSE,1760283897
+Khirbat ‘Awwād,Khirbat `Awwad,Kheurbet ‘Auuad|Kheurbet Auwad|Kheurbet Aouâd|Khirbat Awād|Khān ‘Uwād,32.3233,36.7111,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,27.5,398,398,3,Asia/Damascus,FALSE,1760923310
+As Sab‘ Biyār,As Sab` Biyar,Sabaa Biâr|Sab‘ Biyār|Saobo Biâr|Saba Biar|Sab‘ Ābār|Sab‘ Biyār|As Sab‘ Ābār,33.7797,37.6836,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,minor,0.1,395,395,3,Asia/Damascus,FALSE,1760273684
+Naqīr,Naqir,,34.9962,36.2207,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,243.0,389,389,3,Asia/Damascus,FALSE,1760077188
+Al Fākhūrah,Al Fakhurah,Fâkhoura|Fākhūrah|Fakhaura,35.4953,36.0069,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,minor,357.4,389,389,3,Asia/Damascus,FALSE,1760824202
+Al Ghassānīyah,Al Ghassaniyah,,35.8150,36.2611,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,515.4,389,389,3,Asia/Damascus,FALSE,1760000229
+‘Aqrabāt,`Aqrabat,Akreïba|Aaqrabâte,36.2706,36.7083,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,417.8,388,388,3,Asia/Damascus,TRUE,1760125231
+Baqlīd,Baqlid,,35.8000,36.4667,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,332.2,387,387,3,Asia/Damascus,FALSE,1760000231
+Rubaytā,Rubayta,‘Abraytā|‘Abraytah|Rbaïta|Rabeïta|Rabaïta|Arbaïta|Aabreïta,36.1575,36.6422,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,153.2,383,383,3,Asia/Damascus,FALSE,1760291705
+Rasm al ‘Anz,Rasm al `Anz,,35.3961,37.2878,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,379,379,3,Asia/Damascus,FALSE,1760876269
+Jibāb Ḩamad,Jibab Hamad,Jbâb Hamâd,34.6567,37.2839,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,28.7,378,378,3,Asia/Damascus,FALSE,1760875129
+Malūlah,Malulah,,35.4883,37.2042,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,377,377,3,Asia/Damascus,FALSE,1760857801
+Muqlus,Muqlus,Moqloss,34.8303,36.3478,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,501.7,375,375,3,Asia/Damascus,FALSE,1760420646
+Juwaykhāt,Juwaykhat,Jouaïkhâte,34.8725,36.2969,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,330.6,375,375,3,Asia/Damascus,FALSE,1760158758
+Burayqah,Burayqah,El Bureike|Breika|El Breika|Brîqa|Al Buraykah,33.0431,35.8711,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,25.9,371,371,3,Asia/Damascus,FALSE,1760481075
+Judaydat Yābūs,Judaydat Yabus,Judaydah|Jdeidé|Yabus|Judayyat Yābūs|Jdaïdé Yaboûss|Jdaïdet Yaboûss|Jdaïdet Yâboûs|Jdaïdé Yaboûs,33.6667,36.0000,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,260.7,369,369,3,Asia/Damascus,FALSE,1760969218
+Rakhlah,Rakhlah,Rekhle|Rakhlé,33.5164,35.9728,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,534.2,368,368,3,Asia/Damascus,FALSE,1760175447
+Al Aşlikhah,Al Aslikhah,Asléha|El Asleha|Al Aşliḩah,32.6869,36.4797,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,310.9,364,364,3,Asia/Damascus,FALSE,1760609780
+Abū Mansaf,Abu Mansaf,Abou Mannsaf|Abū Mannsaf,35.2658,36.8722,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,364,364,3,Asia/Damascus,FALSE,1760533378
+Qaţrah,Qatrah,Qatra,35.6500,36.8833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,357,357,3,Asia/Damascus,FALSE,1760991585
+Tall Rummān,Tall Rumman,,36.5772,40.4794,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,354,354,3,Asia/Damascus,FALSE,1760000512
+Bi’r ‘Ajam,Bi'r `Ajam,Bīr ‘Ajam|Bîr Aajam|Bi’r al ‘Ajam,33.0532,35.8671,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,,25.9,353,353,3,Asia/Damascus,FALSE,1760513659
+Abū al Quşūr,Abu al Qusur,Abou Ksour|Abou Koussoûr|Abou el Koussoûr|Abū Al Quşūr|Abū al Kusūr,35.2983,37.2603,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,352,352,3,Asia/Damascus,FALSE,1760972410
+Ḩajar al Abyaḑ,Hajar al Abyad,Hajar el Abiad,34.6881,36.2400,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,351,351,3,Asia/Damascus,FALSE,1760718891
+Kafr Māris,Kafr Maris,Kafer Meris|Kafer Meri|Kafer Mâress,36.1167,36.5650,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,238.6,350,350,3,Asia/Damascus,FALSE,1760170825
+Al Marrānah,Al Marranah,Marrānah|Merrâné|Jurnāyā,34.8044,36.4617,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,494.7,340,340,3,Asia/Damascus,FALSE,1760851211
+Bīrat Armanāz,Birat Armanaz,Bîret Armanâz|Bîret Armenâz,36.0333,36.4833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,313.0,320,320,3,Asia/Damascus,FALSE,1760550874
+Umm Nīr,Umm Nir,,35.5333,36.4333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,369.2,315,315,3,Asia/Damascus,FALSE,1760000347
+Qūqfīnah,Quqfinah,Qoûqfiné|Qūqfīn|Qawqafīnah,35.6353,36.4267,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,368.7,312,312,3,Asia/Damascus,FALSE,1760620326
+Qumayrī,Qumayri,Qumayrah|Qmeïri|Qmiri,34.7219,36.2783,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,310,310,3,Asia/Damascus,FALSE,1760783013
+Tall Sakrah,Tall Sakrah,,36.5750,40.5311,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,307,307,3,Asia/Damascus,FALSE,1760000515
+Umm Zuḩaymik,Umm Zuhaymik,Oum Zhémak|Umm Zhémak,35.4536,37.2375,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,306,306,3,Asia/Damascus,FALSE,1760668611
+Abū Tīnah,Abu Tinah,,36.6039,40.3939,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,301,301,3,Asia/Damascus,FALSE,1760000499
+Abū Ḩubaylāt,Abu Hubaylat,Abou Hbeïlâte|Abū Hbaylāt,35.0324,37.3103,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,82.5,299,299,3,Asia/Damascus,FALSE,1760051096
+Murayj ad Durr,Murayj ad Durr,Mreïjé ed Dour|Mraïj ed Derr|Marj ad Durr,34.9461,36.7714,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,761.6,295,295,3,Asia/Damascus,FALSE,1760563046
+Mustarīḩah,Mustarihah,,35.7969,37.1261,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,167.7,294,294,3,Asia/Damascus,FALSE,1760906492
+Ḩalbakhū,Halbakhu,Ḩalbakkū|Halbakko,35.3342,36.1569,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,217.4,292,292,3,Asia/Damascus,FALSE,1760946407
+Abū Dālī,Abu Dali,Abou Dâli,35.0325,37.3957,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,11.3,288,288,3,Asia/Damascus,FALSE,1760906486
+Ḩillah,Hillah,Hellé,36.0947,36.5475,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,238.6,277,277,3,Asia/Damascus,FALSE,1760691396
+Bālis,Balis,Bâless,35.7900,36.4178,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,332.2,270,270,3,Asia/Damascus,FALSE,1760309068
+Qaşr al ‘Alī,Qasr al `Ali,Qasr el Aali|Qaşr al ‘Ālī,35.4017,37.0258,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,263,263,3,Asia/Damascus,FALSE,1760404038
+Abū Hamāmah,Abu Hamamah,Abou Hamâmi|Abou Hamam|Abū Ḩamām,34.9525,36.8742,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,741.9,255,255,3,Asia/Damascus,FALSE,1760895175
+Tall Bāz,Tall Baz,Tell Bâz,36.5769,40.4694,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,251,251,3,Asia/Damascus,FALSE,1760473527
+Zaytūnah,Zaytunah,Zaitoûné|Umm Zaytūnah,35.4594,36.5708,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,371.2,250,250,3,Asia/Damascus,FALSE,1760121002
+‘Ayn Dārah,`Ayn Darah,‘Ayndārah|Aïne Darah|Aïn Dâra|Aandâra,36.4639,36.8653,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,230.7,248,248,3,Asia/Damascus,FALSE,1760338903
+Kafr Khāshir,Kafr Khashir,Kafer Khâcher,36.5489,37.0650,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,402.5,246,246,3,Asia/Damascus,FALSE,1760303988
+Buqallī,Buqalli,Buqallalī|Bqallī|Abqallī,35.7683,36.6317,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,453.4,242,242,3,Asia/Damascus,FALSE,1760265751
+Faydā,Fayda,,35.4831,37.2156,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,240,240,3,Asia/Damascus,FALSE,1760360601
+Tall Massās,Tall Massas,Tell Mâssass|Tell Massâs,36.6086,40.3997,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,231,231,3,Asia/Damascus,FALSE,1760129282
+Tall ‘Arbūsh,Tall `Arbush,,36.5767,40.5519,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,229,229,3,Asia/Damascus,FALSE,1760000516
+Al Muqarmadah,Al Muqarmadah,Mqarmadé,35.0861,36.1917,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,219.1,213,213,3,Asia/Damascus,FALSE,1760786454
+Sān,San,Saâné,35.8333,36.7333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,348.5,199,199,3,Asia/Damascus,FALSE,1760398801
+Tall Maghās,Tall Maghas,Tell Marhâs|Tell Makhass,36.6156,40.3881,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,194,194,3,Asia/Damascus,FALSE,1760467474
+Tall Kawrān,Tall Kawran,Tall Qūrān|Tell Qoûrâne,36.5961,40.4083,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,183,183,3,Asia/Damascus,FALSE,1760168929
+Zawr Ba‘rīn,Zawr Ba`rin,Zor Baarîne,34.9500,36.3981,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,164,164,3,Asia/Damascus,FALSE,1760369417
+Tall Shāmīyah,Tall Shamiyah,,36.5744,40.5081,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,162,162,3,Asia/Damascus,FALSE,1760000514
+Tall Damshij,Tall Damshij,Tell Demchîj|Tall Damshīj,36.5908,40.4331,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,153,153,3,Asia/Damascus,FALSE,1760166933
+Al Qunayţirah,Al Qunaytirah,Qunayţirah|Qnayţra|Qhaitra|Quneitra|Qunayţurah|El Quneitra|El Qnaïtra|El Kuneitra|Kuneïtra|Qnaïtra,33.1256,35.8239,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,admin,25.9,153,153,2,Asia/Damascus,FALSE,1760132692
+Kafr Burjah,Kafr Burjah,Kafr Burayshah|Kafr Birīshah|Kafer Breïcha,36.6286,37.1475,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,273.5,126,126,3,Asia/Damascus,FALSE,1760446191
+Tall Birāk,Tall Birak,Tall Birāk Taḩtānī|Tell Brâk,36.6676,41.0586,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,62.5,124,124,3,Asia/Damascus,FALSE,1760178953
+Umm Mīl,Umm Mil,Oum Oumeïl|Umm Umayl,34.9960,37.3019,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,82.5,118,118,3,Asia/Damascus,FALSE,1760622160
+Bashkūn,Bashkun,,35.4500,37.0833,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,111,111,3,Asia/Damascus,FALSE,1760425537
+Jawbat al Kalakh,Jawbat al Kalakh,Jaoubet Kalakk|Jaoubet Kalakh|Jawbat Kalakh,35.1389,36.3621,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,103,103,3,Asia/Damascus,FALSE,1760604804
+Tammāzah,Tammazah,At Tammāzah|Ett Temmâzé|Et Temmâzé,35.2677,36.2520,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,276.2,101,101,3,Asia/Damascus,FALSE,1760903477
+Tall Makhāḑah,Tall Makhadah,,36.5675,40.5064,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,72,72,3,Asia/Damascus,FALSE,1760000513
+Kafr Mū,Kafr Mu,Kafer Mou|Kafer Mo,36.2000,36.5333,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,420.5,62,62,3,Asia/Damascus,FALSE,1760062409
+Maryamayn,Maryamayn,Mariamaïne,34.8850,36.4388,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,549.7,12,12,3,Asia/Damascus,FALSE,1760275950
+Kafr Shams,Kafr Shams,Kafer Chams|Kafr Chams,33.1167,36.1167,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,353.0,12,12,3,Asia/Damascus,FALSE,1760701461
+Jaqāllī Jūm,Jaqalli Jum,Jaqāllū al Jūm|Tchaqâlleu ej Joûm|Jaqā Lillū al Jūm,36.4528,36.7129,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,157.2,,,4,Asia/Damascus,FALSE,1760489541
+Baydar al Balāţ,Baydar al Balat,Baydar el Blath|Baïdar el Blâte,35.4301,36.1161,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,355.6,,,3,Asia/Damascus,FALSE,1760323286
+A‘qūlah,A`qulah,Aâqoûla|‘Aqūlah,36.9083,41.1444,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,536.6,,,3,Asia/Damascus,FALSE,1760938767
+Kitrīn,Kitrin,Kétrîne,35.9135,36.2573,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,244.7,,,3,Asia/Damascus,FALSE,1760639172
+Mu‘aysirah,Mu`aysirah,Maïsra|Maysarah,35.4302,36.1560,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,355.6,,,3,Asia/Damascus,FALSE,1760468288
+Ḩālūlā,Halula,Ḩalūlā|Hâloûla|Ḩalūlah,36.4276,38.1819,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,187.0,,,4,Asia/Damascus,FALSE,1760403800
+Ḩawsh Şahyā,Hawsh Sahya,Haouch Sâya|Haouch Sayeh|Ḩawsh Şāyā,33.4307,36.3460,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,7456.4,,,2,Asia/Damascus,FALSE,1760351096
+Bayt ash Shanbūr,Bayt ash Shanbur,Bait el Shanbour|Beït ech Chanboûr,35.4409,36.0166,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,355.6,,,3,Asia/Damascus,FALSE,1760837332
+Qaranful Taḩtānī,Qaranful Tahtani,Qronnfol Tahtâni|Qaranful at Taḩtānī|Qurunful Taḩtānī,36.6337,38.7368,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,129.6,,,4,Asia/Damascus,FALSE,1760328294
+Rajmān,Rajman,Rejmâne,36.4819,40.8110,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760857244
+Al Ghāzilī,Al Ghazili,Rhâzli|El Rhâzli,36.3076,39.0229,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,177.9,,,4,Asia/Damascus,FALSE,1760123229
+Qubayḩah,Qubayhah,,34.9870,36.8683,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,,,3,Asia/Damascus,FALSE,1760904947
+Arḑ al Mushayrifāt,Ard al Mushayrifat,,33.3911,36.2590,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,,,3,Asia/Damascus,FALSE,1760629335
+Al Ḩamīdīyah,Al Hamidiyah,Ḩamīdīyah|Hamdidié|Hamîdîyé,34.5783,36.5477,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,,,3,Asia/Damascus,FALSE,1760446324
+Al Ḩāmidīyah,Al Hamidiyah,,34.5264,36.4920,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,,,3,Asia/Damascus,TRUE,1760715672
+Al Ḩamīdīyah,Al Hamidiyah,,34.8079,36.9526,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,165.9,,,4,Asia/Damascus,TRUE,1760219327
+Al Ḩāmidīyah,Al Hamidiyah,Oum Jâmiaa|Ḩāmidīyah,34.6640,37.0160,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,47.0,,,4,Asia/Damascus,TRUE,1760450511
+Qarrāşah,Qarrasah,Qarrāşā,32.8312,36.4149,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,119.8,,,4,Asia/Damascus,FALSE,1760635381
+Al Ḩamīdīyah,Al Hamidiyah,Kas Tabâne|Ka’s Ţabān|Kās Ţabān,37.1150,41.8624,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,156.0,,,4,Asia/Damascus,FALSE,1760406329
+Bayt al Khaţīb,Bayt al Khatib,Beït el Khatîb,34.8920,35.9714,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,,,3,Asia/Damascus,FALSE,1760938604
+Bayt al Khaţīb,Bayt al Khatib,,34.8937,36.1787,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,455.8,,,3,Asia/Damascus,TRUE,1760531457
+Sharābātī,Sharabati,Charâbâti,36.7313,38.4482,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,159.7,,,4,Asia/Damascus,FALSE,1760468857
+Al Maqsam,Al Maqsam,Al Muqassam,34.5211,38.1529,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,4.7,,,5,Asia/Damascus,FALSE,1760372315
+Murayjib ash Shamālī,Murayjib ash Shamali,,35.5486,37.1584,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,,,4,Asia/Damascus,FALSE,1760555820
+‘Arab Wīrān,`Arab Wiran,Aarab Vîrâne|Arab Virane|‘Arab Wayrān,36.6776,36.9946,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,68.3,,,4,Asia/Damascus,FALSE,1760787515
+Kharāb Sulūk,Kharab Suluk,Kharāb Şulūq,36.7402,36.6526,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,118.2,,,4,Asia/Damascus,FALSE,1760187597
+Bayt Ḑāḩī,Bayt Dahi,Beït Dâhl|Beït Dâhi,35.1012,35.9653,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,757.2,,,3,Asia/Damascus,FALSE,1760426325
+Jadīdah,Jadidah,,36.8111,38.0768,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,232.9,,,3,Asia/Damascus,FALSE,1760800340
+Tall Muḩammad Diyāb,Tall Muhammad Diyab,Tell Mohammed Diâb,36.9256,41.5619,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,111.0,,,4,Asia/Damascus,FALSE,1760436725
+Rujm al Kharāf,Rujm al Kharaf,Rasm el Kharâf|Rasm al Khirāf,35.1909,37.3688,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,,,4,Asia/Damascus,FALSE,1760291240
+Bşarşar,Bsarsar,Bişarşar|Bsarsar,34.8208,36.2258,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,255.7,,,3,Asia/Damascus,FALSE,1760995300
+Ḩāmūsh Raslān,Hamush Raslan,Ḩāmūsh as Salāmah|Ḩāmūsh Salāmah|Hâmoûch Raslâne,34.9347,36.1627,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,455.0,,,3,Asia/Damascus,FALSE,1760956156
+Ransīyah,Ransiyah,Rannsîyé|Ar Ransīyah,34.6486,36.0383,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,463.4,,,3,Asia/Damascus,FALSE,1760857750
+Khirbat Daraklī,Khirbat Darakli,,36.6474,36.9609,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,68.3,,,4,Asia/Damascus,FALSE,1760000764
+Karī Sūd,Kari Sud,,36.9638,41.0620,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,79.9,,,4,Asia/Damascus,FALSE,1760199195
+Muhammad ash Shaqḩah,Muhammad ash Shaqhah,Muhammad ash Shuqḩah,35.6457,40.3848,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,26.0,,,4,Asia/Damascus,FALSE,1760501464
+Khirbat Nawfal,Khirbat Nawfal,,34.8115,36.8263,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1029.2,,,3,Asia/Damascus,FALSE,1760682264
+Qawshlī Taḩtānī,Qawshli Tahtani,Qawjalī Wasţānī|Qochela Ortê|Qawjalā Awrtī|Qūjalā Ūrtī|Qawjalā Ūrtī|Qucila Urtî|Rajabiya|Rajabīya|Rajabīyah|Qawjlī Wasţānī|Qodjli Ouastâni|Qochela Orte|Qoçela Ortê|Qoçela Orte|Qocila Urtî,36.7522,38.1790,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,232.9,,,3,Asia/Damascus,FALSE,1760032566
+Jarkīb,Jarkib,Sharkīb|Tcherkîb|Tsharkīb|Charkīb,37.0362,41.2947,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,536.6,,,3,Asia/Damascus,FALSE,1760460567
+Ash Shaykh ‘Alwān,Ash Shaykh `Alwan,Shaykh ‘Alwān|Cheïkh Aaloûane|Cheïkh Alouane,36.4306,37.4140,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,350.0,,,3,Asia/Damascus,FALSE,1760913085
+Kharāb Marqīyah,Kharab Marqiyah,Kharâb Marqiyé,35.0697,35.8925,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,419.9,,,3,Asia/Damascus,FALSE,1760321398
+Rumayl,Rumayl,Raml,35.2121,40.4907,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,68.2,,,4,Asia/Damascus,FALSE,1760251206
+Qubbat al Ḩājj Muḩammad Manşūr,Qubbat al Hajj Muhammad Mansur,,34.9391,35.8823,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,,,3,Asia/Damascus,FALSE,1760656328
+Umm ash Shawk,Umm ash Shawk,,36.3868,40.6312,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760000412
+Ḑab‘ah,Dab`ah,Dabaâ,36.6824,40.5689,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760280149
+Al Mālikīyah,Al Malikiyah,,33.3493,36.2381,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,354.0,,,3,Asia/Damascus,FALSE,1760577024
+Bashīyah,Bashiyah,Bachîyé,36.6716,40.9711,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,62.5,,,4,Asia/Damascus,FALSE,1760385339
+Mashrafat Abū Jabbār,Mashrafat Abu Jabbar,Mishrifat Abū Jabbār|Mecherfet abou Jabbâr|Mashrifat Abū Jabbār,36.2580,37.6475,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,,,4,Asia/Damascus,FALSE,1760073600
+Maḩmūdīyah,Mahmudiyah,Mahmoûdîyé,36.8183,40.7294,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,82.4,,,4,Asia/Damascus,FALSE,1760089289
+Bayt al ‘Adā,Bayt al `Ada,Beit el Ada,35.7582,36.0119,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,83.0,,,4,Asia/Damascus,FALSE,1760300534
+Kharābah,Kharabah,Khrâbe|Kharabeh|Arab el Kharabe|‘Arab al Kharābah|Al Kharābah,34.6575,35.9691,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,345.1,,,3,Asia/Damascus,FALSE,1760648917
+Brīsīn,Brisin,Brīşīn|Brîssîne,35.0039,36.1003,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,329.6,,,3,Asia/Damascus,FALSE,1760872845
+Tall an Na‘ām,Tall an Na`am,Tell Naam|Tell enn Naâm|Tall Na‘ām,36.0982,37.4601,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,326.3,,,3,Asia/Damascus,FALSE,1760645849
+Dhakīr,Dhakir,Dakīr|Dekīr|Dhukayr,33.0454,36.5498,Syria,SY,SYR,As Suwaydā’,As Suwayda',SY-SU,governorate,,32.4,,,4,Asia/Damascus,FALSE,1760164929
+Ḩarf Raḑwah,Harf Radwah,Herf Radwa|Raḑwah,35.4449,36.0098,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,355.6,,,3,Asia/Damascus,FALSE,1760128349
+Ar Ruḩaybah,Ar Ruhaybah,Reubaria|Reabaria|Rubarīyā|Rouearia|Rouberia|Roûbaria|Rubarya|Ṟubarya,37.1152,42.0571,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,131.1,,,4,Asia/Damascus,FALSE,1760431623
+Judaydah ‘Arbīn,Judaydah `Arbin,Aarbîd Jdaïdé|‘Arbīd al Judaydah,36.1842,37.5451,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,192.2,,,4,Asia/Damascus,FALSE,1760610240
+Al Khuraybah,Al Khuraybah,El Khraïbe,35.6826,36.9461,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,85.3,,,4,Asia/Damascus,FALSE,1760470579
+Tall ‘Uthmān,Tall `Uthman,,36.2471,38.2415,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,38.7,,,4,Asia/Damascus,FALSE,1760000706
+Tuwayrān,Tuwayran,Touaïrâne,36.5867,37.4535,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,66.5,,,4,Asia/Damascus,FALSE,1760009503
+Dawāqīr ar Rukaybī,Dawaqir ar Rukaybi,,32.7662,36.0451,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,693.1,,,3,Asia/Damascus,FALSE,1760000802
+Al Buţmah,Al Butmah,Boutma|Buţmah,34.7337,37.1191,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,86.0,,,4,Asia/Damascus,FALSE,1760326114
+Bayt Wāliyū,Bayt Waliyu,,35.7507,36.1112,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,141.7,,,4,Asia/Damascus,FALSE,1760000034
+‘Abd Kilīyah,`Abd Kiliyah,‘Abdiklīyah|Aabdéklîyé,36.4724,38.3627,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,56.1,,,4,Asia/Damascus,FALSE,1760598080
+Fallāḩ ar Rabū,Fallah ar Rabu,,36.3500,37.5917,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,198.2,,,4,Asia/Damascus,FALSE,1760837615
+Aţ Ţawīl,At Tawil,Rasm ett Taouîl|Rasm aţ Ţawīl,34.7763,37.3484,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,11.6,,,4,Asia/Damascus,FALSE,1760408921
+Juwar al Baqar,Juwar al Baqar,Jouâr el Baqar|Jawār al Baqar,35.3271,36.0084,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,343.9,,,3,Asia/Damascus,FALSE,1760836619
+Al Ghadfah,Al Ghadfah,Al ‘Adfah|Rhadfa,35.6742,36.7906,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,546.7,,,3,Asia/Damascus,FALSE,1760758368
+Al Ḩārah,Al Harah,,35.6359,35.9036,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,268.6,,,3,Asia/Damascus,FALSE,1760639549
+Kāf al Jā‘,Kaf al Ja`,Kâf ej Jâa,35.0852,36.2068,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,219.1,,,3,Asia/Damascus,FALSE,1760168824
+Tall Ḩasan,Tall Hasan,Tell Hassane,36.0606,37.8510,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,46.9,,,4,Asia/Damascus,FALSE,1760610394
+Waqāḩ,Waqah,Wiqāḩ|Waqah,36.4037,37.4317,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,350.0,,,3,Asia/Damascus,FALSE,1760647013
+Ashrafīyat al Wādī,Ashrafiyat al Wadi,Achrafié|Achrafiyet el Ouâdi,33.5867,36.1931,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1338.1,,,3,Asia/Damascus,FALSE,1760649027
+Samḩā,Samha,Kilānālī|As Samḩah|Kīlānlī,36.7058,36.7666,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,94.2,,,4,Asia/Damascus,FALSE,1760044603
+Wādī al Birkah,Wadi al Birkah,Ouâdi el Birké,35.2154,36.1112,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,243.4,,,3,Asia/Damascus,FALSE,1760756772
+Ţayyārah,Tayyarah,,33.8780,39.5169,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,4.7,,,5,Asia/Damascus,FALSE,1760906293
+Shu‘bah,Shu`bah,Chaaba,36.5864,38.8083,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,50.8,,,4,Asia/Damascus,FALSE,1760870066
+Talīkah,Talikah,,37.0601,40.9379,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,79.9,,,4,Asia/Damascus,FALSE,1760842050
+‘Ayn Ḩifād,`Ayn Hifad,‘Ayn Ḩifāḑ|Aïn Hfâd,34.8570,36.1043,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,661.5,,,3,Asia/Damascus,FALSE,1760871448
+Ḩājj Bilāl,Hajj Bilal,,36.5661,36.6323,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,226.0,,,3,Asia/Damascus,FALSE,1760948164
+Badrīyah,Badriyah,Bdarié,34.9062,35.9658,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,,,3,Asia/Damascus,FALSE,1760489921
+Khān Arnabah,Khan Arnabah,Khān Uraynibah|Khâne Erennbé|Khān ar Rinbah|Khān ar Raubah,33.1800,35.8900,Syria,SY,SYR,Al Qunayţirah,Al Qunaytirah,SY-QU,governorate,minor,441.0,,,3,Asia/Damascus,FALSE,1760697049
+Tall Sayyid ‘Alī,Tall Sayyid `Ali,Tell Saïyed Aali|Tall as Sayyid ‘Alī,36.6376,40.8155,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760751312
+Ma‘tī,Ma`ti,Maati,35.0443,35.9733,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,396.5,,,3,Asia/Damascus,FALSE,1760015584
+Abū Qanādīl,Abu Qanadil,,36.0545,39.9647,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,26.0,,,4,Asia/Damascus,FALSE,1760547801
+Al Khuwaytilah,Al Khuwaytilah,,36.6510,39.1329,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,21.0,,,4,Asia/Damascus,FALSE,1760000566
+Khirbat Bajārīyah,Khirbat Bajariyah,Kheurbet Badjârîyé|Khirbat Badjarîyé,36.9227,41.2663,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,536.6,,,3,Asia/Damascus,FALSE,1760176678
+Bīr ‘Abyān,Bir `Abyan,,35.0756,37.7932,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,11.6,,,4,Asia/Damascus,FALSE,1760383131
+Qal‘at al Jarrāş,Qal`at al Jarras,,35.3299,36.3038,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,318.7,,,3,Asia/Damascus,FALSE,1760000243
+Qabw Taḩtānī,Qabw Tahtani,,35.5490,35.8280,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,4486.2,,,2,Asia/Damascus,FALSE,1760605827
+Kasrat Muḩammad Āghā,Kasrat Muhammad Agha,Kasret Ahmed Arha,35.8736,39.0758,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,28.6,,,4,Asia/Damascus,FALSE,1760083245
+‘Ayn al Khaḑrā’,`Ayn al Khadra',,33.6062,36.1920,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1705.3,,,3,Asia/Damascus,FALSE,1760730899
+Ad Dālī,Ad Dali,,35.6673,35.9771,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,287.3,,,3,Asia/Damascus,FALSE,1760451167
+Arḑ al Juwar,Ard al Juwar,,35.2906,35.9942,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,407.9,,,3,Asia/Damascus,FALSE,1760338194
+Bārūḩah,Baruhah,Barouha,34.6956,36.2813,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,432.9,,,3,Asia/Damascus,FALSE,1760368289
+Tannūzah,Tannuzah,Dīk,36.6487,38.8568,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,129.6,,,4,Asia/Damascus,FALSE,1760803813
+Khunayzīr,Khunayzir,,33.3389,36.5713,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,156.5,,,4,Asia/Damascus,FALSE,1760436553
+Bayt Jabūr,Bayt Jabur,,34.8816,35.9813,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,,,3,Asia/Damascus,FALSE,1760863736
+Khunayzīr,Khunayzir,Khneīzir,36.6000,38.8000,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,50.8,,,3,Asia/Damascus,FALSE,1760401415
+Mazra‘at Su‘ād ‘Abbārah,Mazra`at Su`ad `Abbarah,,33.6207,36.5913,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,273.9,,,3,Asia/Damascus,FALSE,1760540320
+Māliḩah Kabīrah,Malihah Kabirah,El Mâlha|Mâlha|Al Māliḩah,35.6219,37.2087,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,63.9,,,4,Asia/Damascus,FALSE,1760996944
+Shimak Taḩtānī,Shimak Tahtani,,36.7539,38.1513,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,232.9,,,3,Asia/Damascus,FALSE,1760759251
+Umm al ‘Iz̧ām,Umm al `Izam,Oum ed Daâm|Oumm ed Daâm|Oumm el Azam,34.7097,36.5219,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,291.2,,,3,Asia/Damascus,FALSE,1760871568
+‘Aqr Zaytī,`Aqr Zayti,,34.9616,36.0075,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,381.2,,,3,Asia/Damascus,FALSE,1760254685
+Ad Dayr al Qiblī,Ad Dayr al Qibli,,32.8907,36.1846,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,247.8,,,3,Asia/Damascus,FALSE,1760000817
+Khirbat ar Ramādī,Khirbat ar Ramadi,,34.8676,36.7160,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,555.6,,,3,Asia/Damascus,FALSE,1760740897
+Khirbat ‘Ūqlā,Khirbat `Uqla,Khirbat ‘Uqlah|Kheurbet Aaqla|Khirbat ‘Aqlah|Kheurbet Aoqla,36.0784,38.0134,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,239.3,,,3,Asia/Damascus,FALSE,1760954652
+Ḩārat ash Shaykh Khalīl,Harat ash Shaykh Khalil,,35.6428,35.9383,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,255.7,,,3,Asia/Damascus,FALSE,1760617187
+Khirbat ‘Uqlā,Khirbat `Uqla,Kheurbet Aoqla|Khirbat ‘Uqlah,36.6938,40.5791,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760814153
+Khirbat Ibn Ḩawsh,Khirbat Ibn Hawsh,Ibn Hoche|Umm Ḩawsh,34.7647,36.1258,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,552.6,,,3,Asia/Damascus,FALSE,1760053449
+Bāţīsh,Batish,Bâtech|Bâtich,34.5169,36.4306,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,284.4,,,3,Asia/Damascus,FALSE,1760447458
+Ad Dardārah,Ad Dardarah,Derdâra|Ed Derdâra,35.2038,36.1132,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,243.4,,,3,Asia/Damascus,FALSE,1760883293
+‘Urayzah,`Urayzah,,36.5245,38.7669,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,50.8,,,4,Asia/Damascus,FALSE,1760162219
+Qarah Mānīyah,Qarah Maniyah,Qahramānīyah|Qarmīnīyah|Qaramânîyé|Qaramānīyah,37.0533,40.6144,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,95.0,,,4,Asia/Damascus,FALSE,1760101594
+Quşayr Dayr Ḩuwayt,Qusayr Dayr Huwayt,Qoussaïr Deïr|Quşayr Dayr|Quşayr ad Dayr,34.9885,36.4008,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,240.7,,,3,Asia/Damascus,FALSE,1760304684
+Ḩawsh Sharīd,Hawsh Sharid,,33.1211,36.4510,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,28.2,,,4,Asia/Damascus,FALSE,1760388611
+Dār al Kabīrah,Dar al Kabirah,Ad Dār al Kabīrah|Dâr el Kébiré,34.7863,36.6827,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1842.5,,,3,Asia/Damascus,FALSE,1760735106
+Qur‘ah Şaghīrah,Qur`ah Saghirah,Qoura Sghiré|Qurū‘ah Şaghīrah|Qouraâ Sérhîr|Qur‘ah Şaghrrah|Qouraâ Sérhîré|Qur‘ah aş Şaghīrah,36.4315,37.9829,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,232.5,,,3,Asia/Damascus,FALSE,1760914891
+Umm al ‘Uwayş,Umm al `Uways,,35.8487,40.8476,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,15.1,,,4,Asia/Damascus,FALSE,1760474245
+Mazra‘at al ‘Awn,Mazra`at al `Awn,,36.5351,37.6709,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,66.5,,,4,Asia/Damascus,FALSE,1760004316
+Karak Mawlá,Karak Mawla,Kīrak Mūlā|Guirk|Kīrk Mūlā|Guirek Moûla,36.6123,38.3967,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,56.1,,,4,Asia/Damascus,FALSE,1760552293
+An Najārisah,An Najarisah,,35.5826,40.4001,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,96.1,,,4,Asia/Damascus,FALSE,1760634177
+Bīr Ḩammūd al Yūsuf,Bir Hammud al Yusuf,Bi’r Ḩammūd al Yūsuf,35.9888,38.2756,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,38.7,,,4,Asia/Damascus,FALSE,1760482284
+Marj Khawkhā,Marj Khawkha,Marj Khawkhah|Marj Khaoukha,35.6941,36.1496,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,185.8,,,4,Asia/Damascus,FALSE,1760281227
+Arḑ ash Shaykh Jāmi‘,Ard ash Shaykh Jami`,,35.3588,35.9483,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,1324.2,,,3,Asia/Damascus,FALSE,1760083261
+Qarah Muşţafá,Qarah Mustafa,Qara Moustapha|Quara Mustafa,35.8168,35.8735,Syria,SY,SYR,Al Lādhiqīyah,Al Ladhiqiyah,SY-LA,governorate,,88.3,,,4,Asia/Damascus,FALSE,1760952757
+Abū Jarādah,Abu Jaradah,Abou Jerâdé,37.0958,40.7299,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,82.4,,,4,Asia/Damascus,FALSE,1760920907
+Abū Jarādah,Abu Jaradah,Abou Jérâdé,36.7631,39.9505,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,63.2,,,4,Asia/Damascus,TRUE,1760294513
+Abū Jarādah,Abu Jaradah,,36.1168,40.5813,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,44.9,,,4,Asia/Damascus,TRUE,1760269797
+Qabtīn,Qabtin,Qabtîne|Kabtine|Qubbatayn,36.0080,37.4829,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,326.3,,,3,Asia/Damascus,FALSE,1760329824
+Tall ‘Īs,Tall `Is,,36.5955,41.2863,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,70.5,,,4,Asia/Damascus,FALSE,1760000548
+Jamrāyā,Jamraya,,33.5600,36.2170,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,1779.8,,,3,Asia/Damascus,FALSE,1760860398
+Mallājah,Mallajah,Mellâjé|Malâja|Al Mallājah,35.5921,36.4947,Syria,SY,SYR,Idlib,Idlib,SY-ID,governorate,,368.7,,,3,Asia/Damascus,FALSE,1760324057
+Tall Abū Nājūr,Tall Abu Najur,Tell Abou Najoûr,36.7866,41.1910,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,62.5,,,4,Asia/Damascus,FALSE,1760328123
+Sarḩā al Qiblīyah,Sarha al Qibliyah,,35.3420,37.4255,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,10.7,,,4,Asia/Damascus,FALSE,1760063512
+Maskah Taḩtānī,Maskah Tahtani,Meski Tahtâni,36.4448,36.7001,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,157.2,,,4,Asia/Damascus,FALSE,1760000157
+Baydar al Kharābah,Baydar al Kharabah,,34.9287,35.9026,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,1098.1,,,3,Asia/Damascus,FALSE,1760786870
+Ḩawāyij Diyāb,Hawayij Diyab,Ḩawā’ij Dhi’āb,35.4775,40.0622,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,26.0,,,4,Asia/Damascus,FALSE,1760954947
+Qanāyah,Qanayah,,34.6428,36.6149,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,1254.8,,,3,Asia/Damascus,FALSE,1760682717
+Bānūkīyah,Banukiyah,Banoûkiye,37.1500,42.0000,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,131.1,,,4,Asia/Damascus,FALSE,1760519869
+Turkumān Bāriḩ,Turkuman Barih,Tourkmâne Bâreh|Turkmène Barett,36.5421,37.3248,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,174.5,,,4,Asia/Damascus,FALSE,1760940653
+Bayt ash Shaykh Salāmah,Bayt ash Shaykh Salamah,,34.8114,35.9552,Syria,SY,SYR,Ţarţūs,Tartus,SY-TA,governorate,,572.8,,,3,Asia/Damascus,FALSE,1760569732
+Tall ‘Awladān,Tall `Awladan,,36.7135,41.0831,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,62.5,,,4,Asia/Damascus,FALSE,1760440572
+Al ‘Imārah,Al `Imarah,,35.0000,36.8673,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,775.7,,,3,Asia/Damascus,FALSE,1760332233
+Al ‘Imārah,Al `Imarah,El Amâra|Al ‘Amārah,36.1018,37.1014,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,5005.5,,,2,Asia/Damascus,FALSE,1760835116
+As Saḩārī al Wusţá,As Sahari al Wusta,,32.7867,36.2079,Syria,SY,SYR,Dar‘ā,Dar'a,SY-DR,governorate,,477.0,,,3,Asia/Damascus,FALSE,1760999967
+Maghārat al Artīq,Magharat al Artiq,Maâret el Atiq|Ma‘arrat al ‘Atīq|Maâret el Artîq|Ma‘ārat al Artīq|Mughārat al Artīq|Ma‘ārrat al Artīq,36.2522,37.0540,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,443.5,,,3,Asia/Damascus,FALSE,1760906096
+Al Munţār,Al Muntar,El Mountar Chimtane|El Mountâr,35.3500,37.2667,Syria,SY,SYR,Ḩamāh,Hamah,SY-HM,governorate,,52.1,,,4,Asia/Damascus,FALSE,1760926046
+Al Munţār,Al Muntar,El Mantar|Al Manţar|Al Minţār,36.2876,37.3596,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,350.0,,,3,Asia/Damascus,FALSE,1760344601
+Al Munţār,Al Muntar,Mentar|Mountar|Munţār,35.9700,37.2577,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,63.9,,,4,Asia/Damascus,TRUE,1760150337
+At Tīnah,At Tinah,Tîné|Tiyne|Tîré|Tīnah,36.4434,38.8379,Syria,SY,SYR,Ar Raqqah,Ar Raqqah,SY-RA,governorate,,50.8,,,4,Asia/Damascus,FALSE,1760729668
+Al Wuḑayḩī,Al Wudayhi,El Ouârhi|Al Wāghī,34.9476,37.4021,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,11.6,,,4,Asia/Damascus,FALSE,1760300282
+Qālīḩ,Qalih,Qāliḩ,36.8593,40.9075,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,79.9,,,4,Asia/Damascus,FALSE,1760419171
+Arḑ ad Dalāshīyah,Ard ad Dalashiyah,,33.3943,36.4935,Syria,SY,SYR,Rīf Dimashq,Rif Dimashq,SY-RD,governorate,,156.5,,,4,Asia/Damascus,FALSE,1760785974
+‘Azzān,`Azzan,,36.0637,37.1588,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,5005.5,,,2,Asia/Damascus,FALSE,1760647945
+Bayt Jarbū‘ al ‘Azw,Bayt Jarbu` al `Azw,,34.4645,37.7899,Syria,SY,SYR,Ḩimş,Hims,SY-HI,governorate,,4.7,,,5,Asia/Damascus,FALSE,1760692714
+Shīḩā,Shiha,Chîha|Shīḩah,36.2711,37.9974,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,46.9,,,4,Asia/Damascus,FALSE,1760421064
+Shīḩā,Shiha,,35.9950,37.7249,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,46.9,,,4,Asia/Damascus,TRUE,1760800126
+Nūrak,Nurak,,36.6811,40.8858,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760000618
+Shīḩā,Shiha,Chîha|Shīḩah,36.6637,41.0293,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,62.5,,,4,Asia/Damascus,FALSE,1760535282
+Al Awāşī,Al Awasi,,36.5133,40.7153,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,149.2,,,4,Asia/Damascus,FALSE,1760078094
+Siftik al Ūlá,Siftik al Ula,Keur Biehk|Saft Tahtani|Seft Tehtanî|Siftik Jêr|Siftik Jêr|Siftik Zîr|Sîftik|Siftik Taḩtānī|Saft Taḩtānī|Guir Béchek|Kiyīr Bāshik|Karbajak|Kirbicek|Kīr Bishik|Kir Bijak,36.8997,38.2256,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,159.7,,,4,Asia/Damascus,FALSE,1760272809
+Tall al Mughr,Tall al Mughr,,36.4771,40.2450,Syria,SY,SYR,Al Ḩasakah,Al Hasakah,SY-HA,governorate,,67.8,,,4,Asia/Damascus,FALSE,1760000389
+Darnaj,Darnaj,Dernej,34.9184,40.5816,Syria,SY,SYR,Dayr az Zawr,Dayr az Zawr,SY-DY,governorate,,76.2,,,4,Asia/Damascus,FALSE,1760488192
+Al Qāḑī,Al Qadi,Al Qāşī,36.7227,37.6590,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,90.7,,,4,Asia/Damascus,FALSE,1760851683
+Al Qāḑī,Al Qadi,El Cādi,36.6218,37.4099,Syria,SY,SYR,Ḩalab,Halab,SY-HL,governorate,,66.5,,,4,Asia/Damascus,TRUE,1760181797

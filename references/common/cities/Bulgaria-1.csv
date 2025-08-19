@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Sofia,Sofia,Serdica|Sofija|Sredets|Ulpia-Serdica|Sofiya,42.7000,23.3300,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,primary,2811.9,1547779,1383435,1,Europe/Sofia,FALSE,1100762037
+Varna,Varna,Warna|Stalin|Odessus|Odessos,43.2167,27.9167,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,admin,2260.1,348594,348594,2,Europe/Sofia,FALSE,1100789115
+Plovdiv,Plovdiv,Vinipoppolis|Ulpia|Plovdin|Plodin|Philippopolis|Philippopoli|Philippopel|Julia|Sinople|Poulpoudeva|Filippopol|Pinople|Filiba|Flavia|Trimontium|Eumolpias|Ploudin|Filipopol,42.1500,24.7500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,admin,3401.6,346893,346893,2,Europe/Sofia,FALSE,1100436706
+Burgas,Burgas,Burgaz|Burghaz,42.5030,27.4702,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,admin,831.1,210813,210813,2,Europe/Sofia,FALSE,1100365645
+Ruse,Ruse,Ruščuk|Rusclink|Ruschuq|Ruschuk|Roustchouk|Roussé|Saray-Makhle|Rustschuk|Russe|Rushchuk|Rushtuk|Rusciuk,43.8231,25.9539,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,admin,364.6,143325,143325,2,Europe/Sofia,FALSE,1100854249
+Stara Zagora,Stara Zagora,Stara Sagora|Eski Zagra,42.4256,25.6344,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,admin,146.4,142746,136144,2,Europe/Sofia,FALSE,1100903924
+Pleven,Pleven,Plyeven|Plevna|Plewen,43.4078,24.6203,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,admin,145.7,119596,119596,2,Europe/Sofia,FALSE,1100973719
+Sliven,Sliven,Sliwen|Slivno|Islimje,42.6833,26.3333,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,admin,85.6,115241,89355,2,Europe/Sofia,FALSE,1100110215
+Pernik,Pernik,Dimitrovo,42.6000,23.0333,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,admin,168.5,97181,74066,2,Europe/Sofia,FALSE,1100616332
+Pazardzhik,Pazardzhik,Tatar Pazardžik|Tatar Pazardzhik|Tatar-Bazardzhik|Tatar Pazardjik|Pasardshik|Tatar Bazardžik|Pazardžik|Pazardjik,42.2000,24.3333,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,admin,161.1,90309,74950,2,Europe/Sofia,FALSE,1100273248
+Dobrich,Dobrich,Bazargic|Khadzhioglu Bazardzhik|Tolbukhin|Tolbuhin|Dobritsch|Hadži-Oghlu-Pazardžik|Khadzhioglu Pazardzhik|Dobrič|Dobritch,43.5667,27.8333,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,admin,168.7,89701,89701,2,Europe/Sofia,FALSE,1100364404
+Shumen,Shumen,Šumla|Schumen|Kolarovgrad|Shumla|Šumen|Choumèn,43.2833,26.9333,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,admin,123.0,85410,82193,2,Europe/Sofia,FALSE,1100000004
+Haskovo,Haskovo,Chasköi|Hasköy|Haskiöj|Chaskovo|Chaskowo|Khaskovo,41.9333,25.5667,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,admin,119.3,83682,71229,2,Europe/Sofia,FALSE,1100186247
+Veliko Tarnovo,Veliko Tarnovo,Trnova|Tirnovo|Ternovo|Tărnowo|Trnovo|Tărnovo|Tŭrnovo|Veliko Tŭrnovo,43.0778,25.6167,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,admin,84.9,76834,66797,2,Europe/Sofia,FALSE,1100134696
+Blagoevgrad,Blagoevgrad,Džuma|Djumaja|Gorna Džumaja|Gorna Dzhumaya|Gorna Djoumaia|Gorna Djumaya|Gorna Dshumaja|Dzhumaya|Džumaja,42.0119,23.0897,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,admin,108.7,74066,73422,2,Europe/Sofia,FALSE,1100214416
+Yambol,Yambol,Yampolis|Iambol|Jambol|Jamboli,42.4833,26.5000,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,admin,778.1,70588,70588,2,Europe/Sofia,FALSE,1100748067
+Kazanlak,Kazanlak,Kazanlăk|Kasanlăk|Kazanlik|Kazanlk|Kazanlek|Kazanlŭk,42.6167,25.4000,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,66169,48989,3,Europe/Sofia,FALSE,1100673552
+Asenovgrad,Asenovgrad,Stanimaka|Assenowgrad|Assenovgrad|Assenovgrade,42.0167,24.8667,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.0,65962,58986,3,Europe/Sofia,FALSE,1100200929
+Kyustendil,Kyustendil,Küstendil|Kjustendil|Kiousténdil|Köstendil|Keustendil,42.2833,22.6833,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,admin,52.1,60681,44515,2,Europe/Sofia,FALSE,1100543134
+Vratsa,Vratsa,Vratza|Vrattsa|Wraza|Vratca|Vraca,43.2000,23.5500,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,admin,82.5,60361,56852,2,Europe/Sofia,FALSE,1100261281
+Gabrovo,Gabrovo,Gabrowo|Gabrova,42.8667,25.3333,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,admin,224.4,54608,52477,2,Europe/Sofia,FALSE,1100696135
+Targovishte,Targovishte,Trgovishte|Tărgowischte|Eski Dzumaya|Eski Džumaja|Eski Dzhumaya|Eski Dschumaja|Tŭrgovište|Eski Džuma|Eski Djoumaïa|Tŭrgovishte,43.2500,26.5833,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,admin,78.3,53041,39998,2,Europe/Sofia,FALSE,1100987486
+Kardzhali,Kardzhali,Kŭrdzhalii|Kŭrdzhale|Kŭrdžali|Kudjaly|Krdjali|Kirdžali|Kircaali|Kyakyrdzhali|Kirdjalü|Kerjali|Kirdžalü|Kirjali|Kardshali|Exrdzhali|Kerdzhali|Kărdzhali|Kŭrdzhali,41.6500,25.3667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,admin,122.6,51841,51841,2,Europe/Sofia,FALSE,1100473094
+Vidin,Vidin,Vidine|Widin,44.0000,22.8667,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,admin,100.7,46269,45583,2,Europe/Sofia,FALSE,1100463536
+Razgrad,Razgrad,Rasgrad,43.5333,26.5167,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,admin,64.6,44894,32917,2,Europe/Sofia,FALSE,1100143131
+Svishtov,Svishtov,Swischtow|Svištov|Sveyestov|Novensis Moesia Civitas|Sistova|Sistov|Novae|Staklen|Svišlova|Steklen|Svisclov,43.6167,25.3500,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,minor,57.6,44359,23325,3,Europe/Sofia,FALSE,1100115119
+Silistra,Silistra,,44.1172,27.2606,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,admin,33.9,43265,33817,2,Europe/Sofia,FALSE,1100458181
+Dupnitsa,Dupnitsa,Stanke Dimitrov|Dupniza|Dupnica|Dupnitza|Doupnitza|Dubnica|Marek|Stanke Dimitrovo,42.2645,23.1164,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,42470,34339,3,Europe/Sofia,FALSE,1100440807
+Montana,Montana,Mikhailovgrad|Ferdinandovo|Ferdinand|Khristo Mikhaylov|Golyama Kutlovitsa|Velika Kutlovica|Kutlovica|Mikhaylovgrad,43.4075,23.2217,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,admin,68.8,40044,40044,2,Europe/Sofia,FALSE,1100946651
+Lovech,Lovech,Lovetch|Lovcha|Lovča|Loveč|Lowetsch,43.1347,24.7172,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,admin,44.4,37448,32832,2,Europe/Sofia,FALSE,1100374163
+Sandanski,Sandanski,Sweti Wratsch|Sveti Vrač|Xanne Sandanski|Sveti Vrach|Svéti-Vratch|Yane Sandanski,41.5667,23.2833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,38.9,36335,26919,3,Europe/Sofia,FALSE,1100580276
+Samokov,Samokov,Samakov|Samokow|Samovkov,42.3333,23.5500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,31.5,35384,26514,3,Europe/Sofia,FALSE,1100464208
+Dimitrovgrad,Dimitrovgrad,,42.0500,25.6000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,34990,34990,3,Europe/Sofia,FALSE,1100570821
+Smolyan,Smolyan,Smoljan|Pašmakli|Pashmakli|Smolian|Pashmaklă|Paschmaklii|Pasmakly,41.5833,24.7000,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,admin,39.3,34465,28268,2,Europe/Sofia,FALSE,1100429166
+Gorna Oryahovitsa,Gorna Oryahovitsa,Gorno Oryakhovitsa|Gorna-Oryekhovitsa|Gorna Orjechovica|Gorna Oriahovica|Gorna Orekhovitsa|Gorna Orehovitsa|Gorna-Orechowiza|Gorna Orehovica|Gorna Oréhovitza|Gorna Oryakhovitsa,43.1333,25.7000,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,133.8,30169,30169,3,Europe/Sofia,FALSE,1100589506
+Petrich,Petrich,Petritch|Petrič|Petritsch,41.3953,23.2069,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,73.4,29630,29630,3,Europe/Sofia,FALSE,1100407427
+Gotse Delchev,Gotse Delchev,Gotsi Delchev|Newrokop|Gotze Deltchev|Nevrekop|Nevrokop,41.5667,23.7333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,89.6,29585,20145,3,Europe/Sofia,FALSE,1100837214
+Troyan,Troyan,Trojan|Troïan,42.8833,24.7167,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,31.0,27687,20416,3,Europe/Sofia,FALSE,1100528745
+Aytos,Aytos,Ajtos|Aitos,42.7000,27.2500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,27326,22252,3,Europe/Sofia,FALSE,1100109481
+Rakovski,Rakovski,Kalŭchliy|Kaličlii|General Nikolaevo|General Niklaevo|General Nikolaewo|Kalŭchlii|Kaličh,42.3000,24.9667,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,160.2,25326,15694,3,Europe/Sofia,FALSE,1100163147
+Omurtag,Omurtag,Osman-Pazar|Osmanbazar|Omortag,43.1000,26.4170,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,24876,9139,3,Europe/Sofia,FALSE,1100244508
+Velingrad,Velingrad,,42.0167,24.0000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,45.3,24154,24154,3,Europe/Sofia,FALSE,1100145292
+Popovo,Popovo,Popkioy|Popkiöj,43.3500,26.2333,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,31.9,23819,15192,3,Europe/Sofia,FALSE,1100589134
+Byala Slatina,Byala Slatina,Bjela Slatina|Bela Slatina|Byela-Slatina|Biela Slatina,43.4667,23.9333,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,22716,11244,3,Europe/Sofia,FALSE,1100994011
+Isperih,Isperih,Kemallar|Isperich|Kemanlar|Isperikh,43.7167,26.8333,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,52.4,22556,8523,3,Europe/Sofia,FALSE,1100443393
+Karnobat,Karnobat,Poljanovgrad|Karnabat|Polyanovgrad,42.6333,26.9833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,29.7,22464,17712,3,Europe/Sofia,FALSE,1100484520
+Sevlievo,Sevlievo,Seljvi|Savlievo|Sewliewo|Sevelijevo|Sevlijevo|Selvi,43.0256,25.1133,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,22382,22382,3,Europe/Sofia,FALSE,1100820915
+Nova Zagora,Nova Zagora,Yeni Sagra|Eni Zagra|Nowa Sagora|Jeni Saghra|Ienizagra|Jeni Zagra|Yeni Zagra,42.4911,26.0144,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,41.4,22175,22175,3,Europe/Sofia,FALSE,1100577244
+Lom,Lom,Lom Palanka|Nikolaevo|Dzhembek Makhala|Nikolaewo|Kalen Potok|Aligina Makhala,43.8256,23.2375,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,78.7,21892,21892,3,Europe/Sofia,FALSE,1100440040
+Karlovo,Karlovo,Grad Karlove|Levskigrad|Karlowo,42.6436,24.8072,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,21865,21865,3,Europe/Sofia,FALSE,1100780442
+Mezdra,Mezdra,Mesdra|Mezhdra|Mizara,43.1500,23.7000,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,30.7,21726,9562,3,Europe/Sofia,FALSE,1100715931
+Panagyurishte,Panagyurishte,Panagyurishche|Panagjurište|Panagjurischte|Panagiuriste|Panaghiourichté|Otalkiöj|Panaghurichte|Panagjurišče,42.5000,24.1833,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,74.1,21430,16424,3,Europe/Sofia,FALSE,1100223841
+Teteven,Teteven,Tetewene|Tetevene,42.9167,24.2667,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,21374,9024,3,Europe/Sofia,FALSE,1100032419
+Botevgrad,Botevgrad,Orkhanie|Orhanie|Orchanie|Botewgrad|Orhanje,42.9083,23.7919,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,20602,20602,3,Europe/Sofia,FALSE,1100788799
+Peshtera,Peshtera,Peštera|Peschtera|Peščera|Pechtera|Momarsko|Peshchera,42.0333,24.3000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,220.3,19877,19877,3,Europe/Sofia,FALSE,1100868605
+Harmanli,Harmanli,Hermanli|Harmanly|Harmanlü|Kharmanliy|Kharmanlii|Charmanlii|Harmanlii|Kharmanli,41.9333,25.9000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,34.1,19684,19684,3,Europe/Sofia,FALSE,1100003361
+Berkovitsa,Berkovitsa,Berkowiza|Berkovitsay|Berkovica|Berkovitza,43.2333,23.1167,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,32.2,18822,12768,3,Europe/Sofia,FALSE,1100553391
+Lukovit,Lukovit,Lukowit|Gorni Lukovit|Loukovit,43.2000,24.1667,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,35.2,18788,9321,3,Europe/Sofia,FALSE,1100460209
+Svilengrad,Svilengrad,Swilengrad|Svilengrade|Svilen|Mustafa-Pasha|Mustafapaşa|Slivengrad,41.7667,26.2000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,30.0,18129,18129,3,Europe/Sofia,FALSE,1100757621
+Kavarna,Kavarna,Kawarna|Cavarna,43.4331,28.3383,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,25.8,15834,11335,3,Europe/Sofia,FALSE,1100727601
+Chirpan,Chirpan,Čirpan|Tschirpan|Tchirpan,42.1998,25.3244,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,39.5,14971,14971,3,Europe/Sofia,FALSE,1100767507
+Veliki Preslav,Veliki Preslav,Eski Stambolluk|Eski Stambid|Preslaw|Prieslav|Eski-Stambul|Prjeslav|Preslav,43.1667,26.8170,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,107.2,14960,8232,3,Europe/Sofia,FALSE,1100285364
+Sozopol,Sozopol,Sosopol|Sizopol|Sizebolu|Apollonia|Sozopolis,42.4167,27.7000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,minor,24.4,14789,4850,3,Europe/Sofia,FALSE,1100393207
+Pomorie,Pomorie,Anhialo|Anchijelo|Akhilu|Ankhelú|Pomorye|Ankhialo|Anhiolo|Anchilejo|Anchialos|Akhillo|Akhiolo|Ahiolo|Ankhiolo|Anchialo|Pomoriye,42.5683,27.6167,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,minor,63.5,14409,14409,3,Europe/Sofia,FALSE,1100639674
+Nesebar,Nesebar,Missevriya|Misivria|Messemwria|Messemvria|Mesemvriya|Mesemvrija|Mesembrija|Neseber|Mesemvria|Misevrin|Misivri|Nessebăr|Nesebr|Messemvrija|Mesambriya|Nesebŭr,42.6500,27.7333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,minor,53.6,14146,14146,3,Europe/Sofia,FALSE,1100835570
+Lyaskovets,Lyaskovets,Lyeskovets|Ljaskovec|Leskowez|Lěskovec|Ljeskovec|Lyaskovetz|Leskovets|Leskovètz,43.1000,25.7167,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,91.4,13735,7776,3,Europe/Sofia,FALSE,1100739412
+Ihtiman,Ihtiman,Ikhitman|Ichtiman|Ikhtiman,42.4333,23.8167,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,26.4,13617,13617,3,Europe/Sofia,FALSE,1100416856
+Novi Iskar,Novi Iskar,Novi Iskŭr,42.8000,23.3500,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,2.6,13514,13514,3,Europe/Sofia,FALSE,1100373780
+Parvomay,Parvomay,Hadži-Jeiles|Hadži-Eles|Pŭrvomai|Borissovgrade|Borissograd|Khadzhi Eiles|Hadži Ejles|Borisovgrad|Borisograd|Khadzhi-Eles|Borissowgrad|Pŭrvomay,42.1000,25.2167,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,0.2,13180,13180,3,Europe/Sofia,FALSE,1100284082
+Radomir,Radomir,,42.5500,22.9500,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,35.6,13135,13135,3,Europe/Sofia,FALSE,1100594345
+Novi Pazar,Novi Pazar,Novi-Paza|Jenibazar|Nowi Pasar|Eni Pazar|Eni Bazar,43.3500,27.2000,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,46.5,12710,12710,3,Europe/Sofia,FALSE,1100036020
+Balchik,Balchik,Baltchik|Balcic|Balchiq|Baltschik,43.4269,28.1617,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,33.1,12429,12429,3,Europe/Sofia,FALSE,1100579546
+Provadia,Provadia,Provadija|Provadidija|Prowadija|Pravodi|Provadiya,43.1833,27.4333,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,48.6,12419,12419,3,Europe/Sofia,FALSE,1100595849
+Razlog,Razlog,Raslug|Raslog|Mahomia|Mekhomiya|Pazlog|Mehomia,41.8833,23.4667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,55.8,12340,12340,3,Europe/Sofia,FALSE,1100974105
+Zlatograd,Zlatograd,Daridere|Dară-Dere|Slatograd|Zlatograde,41.3833,25.1000,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,105.7,12087,6880,3,Europe/Sofia,FALSE,1100099994
+Tryavna,Tryavna,Tryevna|Trjavna|Trewna|Trěvna|Trjavna,42.8669,25.5000,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,38.7,11978,8462,3,Europe/Sofia,FALSE,1100037989
+Kozloduy,Kozloduy,Kozludui|Kozloduj|Kozloudoui|Kozlodui|Koslodui,43.7833,23.7333,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,minor,113.4,11940,11940,3,Europe/Sofia,FALSE,1100662672
+Radnevo,Radnevo,Radne Machale|Radne Makhle|Radnewo|Radne-Makhala,42.3000,25.9333,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,36.8,11504,11504,3,Europe/Sofia,FALSE,1100743312
+Kostinbrod,Kostinbrod,,42.8167,23.2167,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,57.9,11411,11411,3,Europe/Sofia,FALSE,1100892739
+Bankya,Bankya,Bankia|Banki|Bankja,42.7000,23.1333,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,11358,11358,3,Europe/Sofia,FALSE,1100031419
+Stamboliyski,Stamboliyski,Stamoboliyski|Gara Krichim|Krichim|Novi Krichim,42.1333,24.5333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,792.6,11282,11282,3,Europe/Sofia,FALSE,1100303839
+Etropole,Etropole,Etropolje,42.8333,24.0000,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,86.6,10316,10316,3,Europe/Sofia,FALSE,1100554574
+Knezha,Knezha,Knyazha|Knizha|Kneža|Kneja|Knježa|Knesha,43.5000,24.0833,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,minor,41.1,10301,10301,3,Europe/Sofia,FALSE,1100486510
+Levski,Levski,Turski Karaagach|Lewski|Kara Agach,43.3667,25.1333,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,40.6,10046,10046,3,Europe/Sofia,FALSE,1100805179
+Pavlikeni,Pavlikeni,Pavlikene|Pavlikem|Pawlikeni,43.2428,25.3217,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,9986,9986,3,Europe/Sofia,FALSE,1100655871
+Elhovo,Elhovo,Elchowo|Elchovo|Kŭzŭl Indzhe|Kăsŭl-Agač|Kizilagač|Kazŭl-Agach|Kŭzŭl-Agach|Elkhovo,42.1667,26.5667,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,18.6,9506,9506,3,Europe/Sofia,FALSE,1100602957
+Momchilgrad,Momchilgrad,Momichilovgrad|Mastanlü|Măstanlă|Momchigrad|Momtchilgrad|Momčilgrad|Mastanli|Momtchilgrade|Momtschilgrad|Mŭstanli,41.5333,25.4167,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,42.6,9235,9235,3,Europe/Sofia,FALSE,1100063207
+Dospat,Dospat,Dospad,41.6500,24.1667,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,30.4,9116,2102,3,Europe/Sofia,FALSE,1100747470
+Tutrakan,Tutrakan,Tutrakhan|Turtukai|Turtucaia,44.0500,26.6167,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,minor,29.3,9006,9006,3,Europe/Sofia,FALSE,1100290695
+Devnya,Devnya,Devne|Dewnja,43.2167,27.5667,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,106.5,8905,8905,3,Europe/Sofia,FALSE,1100328780
+Rakitovo,Rakitovo,Rakitowo,41.9833,24.0833,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,58.9,8638,8638,3,Europe/Sofia,FALSE,1100370778
+Sredets,Sredets,Kara-Bunar|Sredetz|Sradets|Grudovo|Sryedets|Sredez|Srědec,42.3500,27.2000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,12.5,8624,8624,3,Europe/Sofia,FALSE,1100026609
+Sopot,Sopot,Vazovgrad,42.6500,24.7500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,236.3,8595,8595,3,Europe/Sofia,FALSE,1100878976
+Bansko,Bansko,Banysko|Banjsko|Banjska,41.8333,23.5000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,27.8,8191,8191,3,Europe/Sofia,FALSE,1100442389
+Septemvri,Septemvri,Saranyovo|Saran’ovo|Saranjevo|Saranëvo|Saran-Bey|Sarambey|Sarambei|Saraniowo,42.2167,24.1000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,76.6,8167,8167,3,Europe/Sofia,FALSE,1100764982
+Krichim,Krichim,Kroma|Križim|Krinchim|Kričima|Kritchim|Kričim|Kritschim,42.0500,24.4667,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,216.6,8129,8129,3,Europe/Sofia,FALSE,1100205448
+Byala,Byala,Bjela|Běla|Bjala|Byela|Biela,43.4500,25.7333,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,93.1,8087,8087,3,Europe/Sofia,FALSE,1100120036
+Aksakovo,Aksakovo,Aksakowo|Aksakov|Adzhemler|Adžemler,43.2500,27.8167,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,422.2,8004,8004,3,Europe/Sofia,FALSE,1100727470
+Simeonovgrad,Simeonovgrad,Semenli|Seimen|Maritsa|Sejmen|Seymen,42.0333,25.8333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,0.1,7682,7682,3,Europe/Sofia,FALSE,1100988549
+Svoge,Svoge,Svogja|Svoghé|Svogbe|Swoge|Svogje,42.9667,23.3500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,0.4,7634,7634,3,Europe/Sofia,FALSE,1100064054
+Beloslav,Beloslav,Gebedže|Byelevo|Beloslaw|Belewo|Belevo|Gebedzhe|Bjelevo|Belovo|Bielevo,43.1833,27.7000,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,minor,127.9,7620,7620,3,Europe/Sofia,FALSE,1100318349
+Dulovo,Dulovo,Dulowo|Inatra-Mahle|Akkadanlar|Acadanlar|Accadânlar|Ak-Kadŭnlar,43.8167,27.1500,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,7204,7204,3,Europe/Sofia,FALSE,1100313030
+Lyubimets,Lyubimets,Ljubimez|Ljubimetz|Ljubimec|Lioubimetz|Lyubimetz|Khebibchevo,41.8333,26.0833,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,28.9,7192,7192,3,Europe/Sofia,FALSE,1100823795
+Belene,Belene,Belina|Beleke|Byelene|Bjelene,43.6500,25.1167,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,minor,30.9,7144,7144,3,Europe/Sofia,FALSE,1100975983
+Elin Pelin,Elin Pelin,Vlavo Trichkov|Novoselci|Novosseltzi|Nowosselzi|Novoseltsi,42.6667,23.6000,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,50.6,7097,7097,3,Europe/Sofia,FALSE,1100619917
+Dryanovo,Dryanovo,Dryenovo|Drjenovo|Drjanovo|Drěnovo|Drenova|Drenowo,42.9833,25.4919,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,0.3,7069,7069,3,Europe/Sofia,FALSE,1100541319
+Slivnitsa,Slivnitsa,Slivnitza|Slivica|Sliwniza,42.8500,23.0333,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,minor,45.0,7063,7063,3,Europe/Sofia,FALSE,1100666506
+Dolni Chiflik,Dolni Chiflik,Dolni-Tschiflik|Dolni Chiftlik|Dolni Chifl|Dolèn Tchiflik|Georgi Traykov|Dolni Tchiftlik|Dolni-Chnflik|Dolen Chiflik|Dolni Čiflik,42.9833,27.7167,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,7026,7026,3,Europe/Sofia,FALSE,1100672695
+Kubrat,Kubrat,Balbunar,43.8000,26.5000,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,minor,32.5,6881,6881,3,Europe/Sofia,FALSE,1100746291
+Simitli,Simitli,Izvoritye|Simetlü|Simitly Gare|Simetli|Izworit|Simitle|Simeti|Simitlii,41.8833,23.1167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,25.2,6880,6880,3,Europe/Sofia,FALSE,1100000742
+Pirdop,Pirdop,,42.7000,24.1833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,42.1,6739,6739,3,Europe/Sofia,FALSE,1100198336
+Hisarya,Hisarya,Hissar|Hisar Kjuselere|Hisar|Khiskeseleri|Khisar-Kyuselere|Momina-banya|Chissar|Banya|Banja|Momina-Banja|Khisar|Husar|Khisar-Momina Banya|Khisarya,42.5025,24.7033,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,21.8,6642,6642,3,Europe/Sofia,FALSE,1100400271
+Madan,Madan,,41.5000,24.9500,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,74.7,6597,6597,3,Europe/Sofia,FALSE,1100253296
+Tervel,Tervel,Curtburnar|Kurt Bunar|Dshami Machala|Curt Bunar,43.7500,27.4000,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,28.3,6375,6375,3,Europe/Sofia,FALSE,1100435548
+General Toshevo,General Toshevo,Kasŭmk’oy|General Toševo|Mumdshikioi|Momuch-K’oy|Mamucichioi|Malovets|Kassălkioi|Kasamkioi|Ion Gheorghe Duca|Casim|Kasŭm,43.7000,28.0333,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,13.1,6283,6283,3,Europe/Sofia,FALSE,1100248357
+Straldzha,Straldzha,Straldža|Straldsha,42.6000,26.6833,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,22.8,6199,6199,3,Europe/Sofia,FALSE,1100976940
+Aydemir,Aydemir,Tatariza|Tataritsa|Tatarita|Knyaz Khesenski|Aidenur|Knez Hesenski,44.1000,27.1667,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,86.4,6177,6177,3,Europe/Sofia,FALSE,1100551457
+Tvarditsa,Tvarditsa,Twărdiza|Tvŭrdica|Tvrditsa|Tvrdica|Tverditsa|Tvardica|Tvarditza|Tvŭrditsa,42.7000,25.9000,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,27.2,6146,6146,3,Europe/Sofia,FALSE,1100703668
+Kuklen,Kuklen,Koklen,42.0330,24.7830,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,0.2,6133,6133,3,Europe/Sofia,FALSE,1100127749
+Devin,Devin,D’ovlen|Deveen|Devine|Djovlen|Dyevin|Děwin,41.7333,24.4000,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,45.1,6079,6079,3,Europe/Sofia,FALSE,1100395981
+Tsarevo,Tsarevo,Carevo|Zarewo|Michurin|Vasiliko|Tzarevo,42.1708,27.8511,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,18.6,6031,6031,3,Europe/Sofia,FALSE,1100848106
+Lozen,Lozen,,42.6000,23.4831,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,184.3,6014,6014,3,Europe/Sofia,FALSE,1100900730
+Kostenets,Kostenets,Kostenetz|Kostenez|Kostenec,42.3000,23.8667,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,36.8,5954,5954,3,Europe/Sofia,FALSE,1100076482
+Varshets,Varshets,Vrshets|Vrešec|Vershets|Vuršec|Vršec|Vărshets|Wărschez|Varshetz|Vŭrshets,43.1830,23.2830,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,70.1,5742,5742,3,Europe/Sofia,FALSE,1100932516
+Saedinenie,Saedinenie,Golyamo Konare|Goljemo Konare|Goljamo Konare|Golyemo-Konare|Golemo Konare|Goljemo Konari|Sŭedinenie,42.2667,24.5500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,56.1,5621,5621,3,Europe/Sofia,FALSE,1100306460
+Kameno,Kameno,Kayalŭ|Kajalü|Kajali|Kayalii|Kayliy|Kaiali|Kayaliy|Kajalii,42.5667,27.3000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,32.0,5487,5487,3,Europe/Sofia,FALSE,1100253032
+Krumovgrad,Krumovgrad,Kossukovak|Kosikavak|Koshu-Kavak|Košu-Kavak|Kossukavak|Kroumovgrade|Krumowgrad,41.4667,25.6500,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,minor,19.8,5316,5316,3,Europe/Sofia,FALSE,1100516476
+Kotel,Kotel,Kazan,42.8867,26.4494,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,23.1,5304,5304,3,Europe/Sofia,FALSE,1100910228
+Bistritsa,Bistritsa,Bistriza,42.5861,23.3600,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,5237,5237,3,Europe/Sofia,FALSE,1100954443
+Bozhurishte,Bozhurishte,Boshurischte|Bojurishe,42.7625,23.1997,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,53.0,5225,5225,3,Europe/Sofia,FALSE,1100578677
+Strazhitsa,Strazhitsa,Stražica|Strashiza|Strajitsa|Strajitza|Kadikioy|Kada K’oy,43.2333,25.9667,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,25.3,5199,5199,3,Europe/Sofia,FALSE,1100500516
+Yakoruda,Yakoruda,Jokoruda|Johurut|Yokoruda|Jakoruda,42.0167,23.6833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,30.3,5161,5161,3,Europe/Sofia,FALSE,1100407647
+Bobov Dol,Bobov Dol,Bobow Dol|Bobor-Dol|Bobovdol|Bobov-Dol Mina,42.3667,23.0167,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,minor,36.3,5107,5107,3,Europe/Sofia,FALSE,1100718546
+Suvorovo,Suvorovo,Nowgradez|Kozludzha|Kozludža|Novgradets,43.3333,27.6000,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,86.9,5049,5049,3,Europe/Sofia,FALSE,1100221510
+Perushtitsa,Perushtitsa,Perushchitsa|Perishchitsa|Peruštica|Peruschtiza,42.0500,24.5500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,82.5,5018,5018,3,Europe/Sofia,FALSE,1100745982
+Elena,Elena,Jelena,42.9333,25.8833,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,12.9,4916,4916,3,Europe/Sofia,FALSE,1100928563
+Topolovgrad,Topolovgrad,Topolowgrad|Kavakly|Kavaklii|Kavakli|Topolovgrade,42.0833,26.3333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,15.2,4913,4913,3,Europe/Sofia,FALSE,1100686772
+Draginovo,Draginovo,Korava|Korovo|Korova|Korowa,42.0663,24.0127,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,45.3,4869,4869,4,Europe/Sofia,FALSE,1100025823
+Chepelare,Chepelare,Chepelari|Čepelare|Tschepelare,41.7258,24.6844,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,17.3,4838,4838,3,Europe/Sofia,FALSE,1100862358
+Oryahovo,Oryahovo,Orekhovo|Orehovo|Orechowo|Rakhovo|Rahova|Rachowo|Orjekhovo|Orechovo|Orejekhovo|Rakovo|Ruhovo|Orjechovo|Oryakhovo|Oryekhovo|Orjahovo,43.7342,23.9611,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,minor,31.1,4779,4779,3,Europe/Sofia,FALSE,1100565108
+Belogradchik,Belogradchik,Byelogradchik|Belogradtgchik|Bjelogradčik|Bělogradčik|Bélogradtchik,43.6167,22.6833,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,13.7,4723,4723,3,Europe/Sofia,FALSE,1100340297
+Dolna Banya,Dolna Banya,Dolna Banja|Dolna Bania|Banja,42.2833,23.7667,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,57.0,4687,4687,3,Europe/Sofia,FALSE,1100997572
+Dalgopol,Dalgopol,Novo-Selo|Delgopol|Dŭlgopol,43.0500,27.3500,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,36.1,4593,4593,3,Europe/Sofia,FALSE,1100134650
+Gradets,Gradets,Gradetz|Gradez|Gradec,42.7833,26.5333,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,23.1,4576,4576,3,Europe/Sofia,FALSE,1100199592
+Vetovo,Vetovo,Vetova|Vyetovo|Vjetevo|Wetowo,43.7000,26.2667,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,52.3,4540,4540,3,Europe/Sofia,FALSE,1100750747
+Ardino,Ardino,Khadzhi K’oy|Eğridere|Irideré,41.5833,25.1333,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,31.3,4512,4512,3,Europe/Sofia,FALSE,1100759594
+Kazichene,Kazichene,Gradska Chast|Kazichane|Kasitschane,42.6667,23.4667,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,4503,4503,3,Europe/Sofia,FALSE,1100195699
+Zlatitsa,Zlatitsa,Zlatica|Slatiza|Zlatitza|Zlatiza,42.7167,24.1333,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,32.9,4503,4503,3,Europe/Sofia,FALSE,1100696383
+Rozino,Rozino,Rakhmanlare|Rahmanlare|Rahmanclare|Rachmanlü|Rachmanlar|Boži-Dir|Boži-Dar|Bozhidar|Boshi-Dar|Rahmanli|Rackmanlü,42.7126,24.5467,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,4469,4469,4,Europe/Sofia,FALSE,1100142716
+Dolni Dabnik,Dolni Dabnik,Diubnik|Dolni-Dubnjak|Dolni-Debnik|Dolni Döbnik|Dolni Dăbnik|Dolni Dibnik|Dolni Dŭbnik,43.4000,24.4333,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,4400,4400,3,Europe/Sofia,FALSE,1100505742
+Ignatievo,Ignatievo,Ruslar|Ignatiewo,43.2500,27.7667,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.5,4358,4358,3,Europe/Sofia,FALSE,1100028024
+Trastenik,Trastenik,Trăstenik|Marashki Trŭstenik|Maraska Trstenik|Trŭstenik,43.5167,24.4667,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,4357,4357,3,Europe/Sofia,FALSE,1100475976
+Kostandovo,Kostandovo,Kostandowo,42.0000,24.0167,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,86.9,4336,4336,3,Europe/Sofia,FALSE,1100682377
+Bukovlak,Bukovlak,Bukow-Lăk|Bukovlŭk,43.4453,24.6133,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,4335,4335,3,Europe/Sofia,FALSE,1100996868
+Polski Trambesh,Polski Trambesh,Polski Trambech|Trembesh|Polski-Trembesh|Polski-Trămbesch|Polski Trembeš|Polsk Trŭmbesh|Polski Trŭmbesh,43.3833,25.6500,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,27.5,4293,4293,3,Europe/Sofia,FALSE,1100303384
+Pravets,Pravets,Prawez|Pravetz|Pravec,42.8944,23.9156,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,0.1,4241,4241,3,Europe/Sofia,FALSE,1100122334
+Koynare,Koynare,Kojnare|Koinare,43.3572,24.1444,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,4231,4231,3,Europe/Sofia,FALSE,1100717693
+Godech,Godech,Godetsch|Godetch|Glotnitsa|Trap|Yovkina|Negolova|Staro Selo|Molak|Stoykina|Godeč,43.0167,23.0500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,minor,12.2,4110,4110,3,Europe/Sofia,FALSE,1100369105
+Slavyanovo,Slavyanovo,Trŭstenik|Trstenik|Turski Trŭstenik|Slawjanowo|Slavjanovo|Trăstenik|Turska Trestenik|Slavianovo,43.4667,24.8667,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,4105,4105,3,Europe/Sofia,FALSE,1100418059
+Strelcha,Strelcha,Stryelcha|Streltscha|Strelča|Strjelča,42.5000,24.3167,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,21.4,4069,4069,3,Europe/Sofia,FALSE,1100015101
+Trud,Trud,Klimentina|Klementinovo|Klementina|Klimentinowo|Klimentinovo|Chirpilie|Chirpili,42.2319,24.7281,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,101.0,4067,4067,3,Europe/Sofia,FALSE,1100801028
+Kalipetrovo,Kalipetrovo,Stanchevo|Petrovo|Calipetrova,44.0861,27.2505,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,86.4,4043,4043,3,Europe/Sofia,FALSE,1100369691
+Shivachevo,Shivachevo,Terzi Obaz|Golemo-Shivachevo|Golemo Schiwatschewo|Iztochno-Shivachevo|Golyemo-Shivachevo|Shivatchevo|Terzobas|Golyamo Shivachero|Iztočno Šivačevo,42.6833,26.0333,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,27.2,4015,4015,3,Europe/Sofia,FALSE,1100183907
+Bratsigovo,Bratsigovo,Bracigovo|Bratzigovo|Brazigowo,42.0167,24.3667,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,37.5,3955,3955,3,Europe/Sofia,FALSE,1100577798
+Sapareva Banya,Sapareva Banya,Gorna-Banya|Gorna Banja|Gorna-Bania,42.2833,23.2667,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,49.5,3950,3950,3,Europe/Sofia,FALSE,1100735693
+Smyadovo,Smyadovo,Smjedovo|Smedowo|Smedovo|Smyedovo,43.0667,27.0167,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,12.8,3936,3936,3,Europe/Sofia,FALSE,1100583096
+Malo Konare,Malo Konare,Doganovo-Konare|Konare|Kuru K’oy,42.2000,24.4330,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,3856,3856,3,Europe/Sofia,FALSE,1100494766
+Varbitsa,Varbitsa,Vrbica|Vărbitsa|Virbica|Wărbiza|Vrbitsa|Vŭrbitsa,42.9950,26.6731,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,50.6,3837,3837,3,Europe/Sofia,FALSE,1100917473
+Breznik,Breznik,Bresnik|Brjeznik|Berznik|Bryeznik,42.7333,22.8833,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,15.2,3835,3835,3,Europe/Sofia,FALSE,1100555344
+Belozem,Belozem,Bjelozem|Byelozem|Gŭren|Giren|Belosem,42.1965,25.0460,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.4,3818,3818,4,Europe/Sofia,FALSE,1100252022
+Dve Mogili,Dve Mogili,Damogila|Dbb Mogili|Dwe Mogili,43.6000,25.8667,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,minor,26.4,3811,3811,3,Europe/Sofia,FALSE,1100699713
+Nedelino,Nedelino,Uzun-Dere|Nedelio|Uzendere|Nedyelino,41.4500,25.0833,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,0.9,3799,3799,3,Europe/Sofia,FALSE,1100204064
+Marten,Marten,Martin|Marlen,43.9167,26.0833,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,3650,3650,3,Europe/Sofia,FALSE,1100706207
+Dzhebel,Dzhebel,Shekh-Dzhumaya|Djebel|Sheykh-Dzhumaya,41.5000,25.3000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,minor,41.1,3647,3647,3,Europe/Sofia,FALSE,1100504854
+Debelets,Debelets,Debeletz|Débéblètz|Debelez|Debelet|Debelec|Deblec,43.0436,25.6208,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,3637,3637,3,Europe/Sofia,FALSE,1100844499
+Tsalapitsa,Tsalapitsa,Tsalanitsa|Tsalalitsa|Zalapiza|Calapica,42.1800,24.5683,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,3632,3632,4,Europe/Sofia,FALSE,1100570565
+Vladaya,Vladaya,Wladaja|Rayko Daskalovo|Vladaja,42.6333,23.2000,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,150.2,3621,3621,3,Europe/Sofia,FALSE,1100589363
+Parvenets,Parvenets,Dermendere|Ferdinandowo|Ferdinandovo|Pŭrvenets,42.0744,24.6631,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,3584,3584,3,Europe/Sofia,FALSE,1100098634
+Belovo,Belovo,Gara Byelovo|Gara Bel’oro|Beljovo,42.2167,24.0000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,20.3,3567,3567,3,Europe/Sofia,FALSE,1100306870
+Nikopol,Nikopol,Nikopoli|Nikopil|Nicopol,43.7000,24.9000,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,minor,21.3,3530,3530,3,Europe/Sofia,FALSE,1100682274
+Sarnitsa,Sarnitsa,S’rnitsa|Sarniza|Shabanli|Sŭrnitsa,41.7333,24.0333,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,45.3,3511,3511,3,Europe/Sofia,FALSE,1100119924
+Sveti Vlas,Sveti Vlas,Monastŭrkioy|Sweti Wlas|Manastŭrkioy|Vlas,42.7167,27.7667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,97.1,3508,3508,3,Europe/Sofia,FALSE,1100949108
+Rudozem,Rudozem,Rudosem|Palas|Roodozem|Chervenkovgrad|Palaz,41.4833,24.8500,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,94.5,3466,3466,3,Europe/Sofia,FALSE,1100176117
+Breznitsa,Breznitsa,Bryeznitsa|Bresniza|Breznica,41.6667,23.6667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,42.0,3440,3440,3,Europe/Sofia,FALSE,1100735619
+Kresna,Kresna,Bahnhof Pirin|Gara Pirin,41.7333,23.1500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,14.4,3426,3426,3,Europe/Sofia,FALSE,1100878683
+Letnitsa,Letnitsa,Lyetnitsa|Letniza|Letnitza|Lětnica|Lietnica,43.3117,25.0733,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,14.6,3409,3409,3,Europe/Sofia,FALSE,1100237493
+Primorsko,Primorsko,Kjuprija|Kyupriya,42.2667,27.7667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,minor,16.3,3401,3401,3,Europe/Sofia,FALSE,1100076363
+Glodzhevo,Glodzhevo,Tloždovo|Gloždovo|Glodzhovo|Glodževo|Glozhdovo|Glodžovo|Glodshowo,43.7356,26.3903,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,21.9,3364,3364,3,Europe/Sofia,FALSE,1100786881
+Topolchane,Topolchane,Topoltschane|Kavlaklii|Kavlakliy,42.6511,26.4275,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,3354,3354,3,Europe/Sofia,FALSE,1100611307
+Slivo Pole,Slivo Pole,Sliwiza|Slivitsa|Kaya Makhle|Kashikler|Sliwo Pole,43.9500,26.2000,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,minor,39.6,3323,3323,3,Europe/Sofia,FALSE,1100642117
+Brestovitsa,Brestovitsa,Bryestovitsa|Brestowiza|Brestovitza|Brestovica|Briestovica,42.0667,24.5833,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,60.9,3318,3318,3,Europe/Sofia,FALSE,1100988626
+Tsar Kaloyan,Tsar Kaloyan,Tsar Kaloyanovo|Zar Kalojan|Turlak|Car Kalojan|Tzar Kaloyan|Khlebarovo|Torlak|Torlaki,43.6167,26.2500,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,20.8,3302,3302,3,Europe/Sofia,FALSE,1100603315
+Iskar,Iskar,Makhlata|Makhalata|Mahlata|Machlüta|Machalata|Pelovo|Machlata|Mahalata|Iskŭr,43.4500,24.2667,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,28.6,3291,3291,3,Europe/Sofia,FALSE,1100256068
+Aleko Konstantinovo,Aleko Konstantinovo,Aleko-Konstatinowo|Aladzhilar|Aleko Konstantinov|Adzhilare|Stariya Izvor|Starija-Iswor|Kochagovo|Staria Izvor,42.1452,24.2890,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,3265,3265,3,Europe/Sofia,FALSE,1100186964
+Maglizh,Maglizh,Mögliš|Moglič|Măglizh|Măglish|Meglizh|Meglish|Mglij|Mŭglish|Magliš|Mŭgliž|Magliž|Mŭglizh,42.6000,25.5500,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,26.5,3259,3259,3,Europe/Sofia,FALSE,1100919786
+Sungurlare,Sungurlare,Sungurlari|Sungulari|Sungurlar|Sungulare,42.7667,26.7833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,15.7,3250,3250,3,Europe/Sofia,FALSE,1100924145
+Selanovtsi,Selanovtsi,Seljanovci|Selanovtsŭ|Selanovce|Sélanovtzi|Selanowzi|Selanovci,43.6722,23.9912,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,31.1,3227,3227,4,Europe/Sofia,FALSE,1100910517
+Dolna Mitropolia,Dolna Mitropolia,Dolna Netropol Mitropoliya|Dolna Metropolja|Dolna Mitropolija|Dolna Mitropoliya,43.4667,24.5333,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,3218,3218,3,Europe/Sofia,FALSE,1100819890
+Stryama,Stryama,Strema|Ine-Beki|Ine Bekchi|Inebegchii|Stryema,42.2607,24.8819,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.4,3215,3215,4,Europe/Sofia,FALSE,1100374227
+Vrachesh,Vrachesh,Wratschesch|Vračeš,42.8926,23.7536,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,3201,3201,4,Europe/Sofia,FALSE,1100242089
+Gulyantsi,Gulyantsi,Golenci|Gulyanitsa|Guljanci|Galyantsi|Guleanci|Guljanzi,43.6333,24.7000,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,minor,45.4,3179,3179,3,Europe/Sofia,FALSE,1100186050
+Nikolaevo,Nikolaevo,Nikolajevo|Nikolaewo|Eshekchii|Eshekii,42.6333,25.8000,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,44.0,3147,3147,3,Europe/Sofia,FALSE,1100331362
+Parvomay,Parvomay,Pŭrvomay,41.4167,23.1333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.5,3144,3144,3,Europe/Sofia,FALSE,1100766030
+Valchedram,Valchedram,Vlchedrma|Vlčedrma|Vlčdrma|Vălchedărma|Valtchidarma|Vŭlčedŭrma|Waltschedrăma|Valtchedram|Vlčedrama|Vŭlchedrŭm|Vŭlchedŭrma|Vlčidrama,43.7000,23.4500,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,20.1,3144,3144,3,Europe/Sofia,FALSE,1100672582
+Ivaylovgrad,Ivaylovgrad,Orta-Kyoy|Orta-K’oy|Ortaköi|Orta-Kiöj|Orta-Kioï|Iwailowgrad|Ivajlovgrad|Ortoköj|Iwajlowgrad|Ivailovgrad|Ivatlovgrade|Orta-Keui,41.5333,26.1333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,7.5,3132,3132,3,Europe/Sofia,FALSE,1100352139
+Rogosh,Rogosh,Rogosch,42.1818,24.8646,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,3126,3126,3,Europe/Sofia,FALSE,1100426340
+Yablanovo,Yablanovo,Jablanowo|Alvanlar,42.9858,26.5410,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,19.6,3121,3121,4,Europe/Sofia,FALSE,1100270413
+Shabla,Shabla,Şabla,43.5333,28.5333,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,14.4,3115,3115,3,Europe/Sofia,FALSE,1100724713
+Dragoman,Dragoman,,42.9167,22.9333,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,minor,0.1,3093,3093,3,Europe/Sofia,FALSE,1100176115
+Banya,Banya,Küdža-Köi|Banja Čepino|Banja|Bania|Lŭdzhakioy,42.5500,24.8333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,3083,3083,3,Europe/Sofia,FALSE,1100828414
+Kran,Kran,Khasŭt|Krön|Gaskioy|Kren|Khassŭt|Krăn|Krŭn,42.6669,25.3831,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,3074,3074,3,Europe/Sofia,FALSE,1100531318
+Valchidol,Valchidol,Waltschi Dol|Kurt Dere|Vŭlchidol,43.4000,27.5500,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,25.0,3060,3060,3,Europe/Sofia,FALSE,1100091612
+Topoli,Topoli,Topolite|Indzhe K’oy,43.2183,27.8214,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,186.8,3046,3046,3,Europe/Sofia,FALSE,1100560700
+Pancharevo,Pancharevo,Pantscharewo,42.5708,23.4397,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,3042,3042,3,Europe/Sofia,FALSE,1100848767
+Kamenar,Kamenar,Nadvzhda|Nadezhda|Nadeshda|Golyama Franga|Golyema Franga,43.2480,27.9080,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,1510.7,3040,3040,3,Europe/Sofia,FALSE,1100254696
+Yoakim-Gruevo,Yoakim-Gruevo,Karatairú|Ioakim-Gruewo|Ioakim Gruevo|Kara Tair|Yakim Gruevo,42.1193,24.5718,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,3027,3027,4,Europe/Sofia,FALSE,1100664678
+Ivaylo,Ivaylo,Kula Kasaplii|Kula|Kasapliy|Iwailo,42.2167,24.3333,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,3014,3014,3,Europe/Sofia,FALSE,1100544096
+Gurkovo,Gurkovo,Gurkowo|Khainito|Khainboaz|Kolupchii|Khainkioy|General Gurkovo|Dŭmovtsŭ Razvalina|Dimowzi|Dimovtsi|Dimo Makhle,42.6572,25.7961,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,51.6,3011,3011,3,Europe/Sofia,FALSE,1100668761
+Belitsa,Belitsa,Blitsa|Belitza|Belitso|Byelitsa|Beliza|Bjelica|Bělica,41.9500,23.5667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,41.3,3010,3010,3,Europe/Sofia,FALSE,1100462785
+Krivodol,Krivodol,Kriwodol|Krivdol|Krivodolska Makhala,43.3667,23.4833,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,22.5,2986,2986,3,Europe/Sofia,FALSE,1100297606
+Trudovets,Trudovets,Lŭzhane|Lăzhene|Lažani|Lăshene|Lŭzhene|Ližene|Lezhene,42.9145,23.8374,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,2956,2956,4,Europe/Sofia,FALSE,1100300982
+Yagodovo,Yagodovo,Katunsko Konare|Katunski-Konare|Bogoridovo,42.1104,24.8501,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,2954,2954,4,Europe/Sofia,FALSE,1100077778
+Sotirya,Sotirya,Sotirja|Chotre,42.6922,26.4042,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,2942,2942,3,Europe/Sofia,FALSE,1100363725
+Zavet,Zavet,Zavut|Zavjet|Zavot|Sawet|Zavyet,43.7591,26.6751,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,minor,34.5,2939,2939,3,Europe/Sofia,FALSE,1100695816
+Ruen,Ruen,Ulanliy|Ulanli|Ulanlii,42.8000,27.2833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,2911,2911,3,Europe/Sofia,FALSE,1100352201
+Kableshkovo,Kableshkovo,Dautly|Dautlii|Dautli|Davutli|Dautliy|Kableschkowo,42.6500,27.5667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,2894,2894,3,Europe/Sofia,FALSE,1100150941
+Vetren,Vetren,Vjetren|Eni K’oy|Wetren|Vyetren|Khisardzhik,42.2667,24.0500,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,2888,2888,3,Europe/Sofia,FALSE,1100683873
+Ribnovo,Ribnovo,Ribnowo,41.7167,23.7667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2873,2873,3,Europe/Sofia,FALSE,1100648464
+Benkovski,Benkovski,Kirlik|Kiril,41.3833,25.2667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,2865,2865,3,Europe/Sofia,FALSE,1100101148
+Manole,Manole,,42.1899,24.9367,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,89.6,2857,2857,4,Europe/Sofia,FALSE,1100744862
+Banya,Banya,Banja|Bania,41.8811,23.5244,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2850,2850,3,Europe/Sofia,FALSE,1100088068
+Yagoda,Yagoda,Gorno Panicherovo|Gorni-Panicharevo|Gorno Chanakchiy|Chanakchii|Gorno Panitscherowo|Gorno Panicherevo,42.5419,25.5691,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,26.5,2843,2843,4,Europe/Sofia,FALSE,1100500473
+Branipole,Branipole,Akhlan’ovo|Akhlan,42.0816,24.7570,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,2809,2809,4,Europe/Sofia,FALSE,1100293958
+Markovo,Markovo,Markowo,42.0703,24.7051,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,127.5,2789,2789,4,Europe/Sofia,FALSE,1100908211
+Butan,Butan,Boutan|Makhmudiya|Radoykovo|Radoikowo,43.6500,23.7500,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,30.6,2787,2787,4,Europe/Sofia,FALSE,1100661335
+Staro Oryahovo,Staro Oryahovo,Staro Orehovo|Stara Orjahovo|Staro-Orekhovo|Staro-Oriehoivo|Eski Dervish Yuvan|Staro-Oryekhovo|Staro Orechowo|Staro Oryakhovo,42.9896,27.7998,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,2783,2783,4,Europe/Sofia,FALSE,1100681177
+Kochan,Kochan,Kotschan,41.5870,24.0279,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2770,2770,3,Europe/Sofia,FALSE,1100239152
+Dyankovo,Dyankovo,Kalowo|Kalovo|Dvankovo,43.6216,26.5977,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,2758,2758,4,Europe/Sofia,FALSE,1100415086
+Bolyartsi,Bolyartsi,Kara Reiz|Boljarzi|Kara-reizovo|Boljrci,42.0688,24.9575,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,73.5,2748,2748,4,Europe/Sofia,FALSE,1100134611
+Mizia,Mizia,Buk’ovtsi|Bukiowzi|Bukyuvtsy|Miziya,43.6833,23.8500,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,minor,26.0,2728,2728,3,Europe/Sofia,FALSE,1100367167
+Krumovo,Krumovo,Krumowo|Pasha-Makhle|Pasha Makhala|Pasha Makhla,42.0833,24.8167,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,0.1,2726,2726,3,Europe/Sofia,FALSE,1100753727
+Batak,Batak,,41.9500,24.2167,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,minor,9.4,2722,2722,3,Europe/Sofia,FALSE,1100712939
+Archar,Archar,Arčar|Akčr|Artchar|Akchar|Arcen|Artschar|Akčar,43.8167,22.9167,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,,13.5,2722,2722,3,Europe/Sofia,FALSE,1100430942
+Dolna Oryahovitsa,Dolna Oryahovitsa,Dolna Oréhovitza|Dolna Orehovitsa|Dolna Orechovica|Dolna Orekhovitsa|Dolna-Oryekhovitsa|Dolna Orjechovica|Dolna Orehovica|Dolna-Orechowiza|Dolna Oriahovica|Dolna Oryakhovitsa,43.1564,25.7392,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,133.8,2696,2696,3,Europe/Sofia,FALSE,1100813242
+Dorkovo,Dorkovo,Dorkowo,42.0500,24.1333,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,33.9,2692,2692,3,Europe/Sofia,FALSE,1100687769
+Kula,Kula,Adlye|Koula|Adlijo,43.8889,22.5222,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,14.0,2675,2675,3,Europe/Sofia,FALSE,1100809489
+Yasenovets,Yasenovets,Duštubak|Duštabak|Dushtubak|Jassenowez,43.5758,26.6196,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,2671,2671,4,Europe/Sofia,FALSE,1100553466
+Roman,Roman,,43.1500,23.9167,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,15.3,2668,2668,3,Europe/Sofia,FALSE,1100040937
+Zlataritsa,Zlataritsa,Zlataritza|Slatariza|Zlatarica,43.0492,25.8950,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,13.3,2665,2665,3,Europe/Sofia,FALSE,1100234224
+Ugarchin,Ugarchin,Ugürčin|Ugrchin|Ugarčin|Ugrčin|Ugirkin|Ugărchin|Ugărtschin|Ugŭrchin,43.1000,24.4167,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,9.0,2663,2663,3,Europe/Sofia,FALSE,1100790142
+Voluyak,Voluyak,Wolujak|Volujak,42.7727,23.2429,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,2659,2659,3,Europe/Sofia,FALSE,1100209477
+German,German,,42.6167,23.4167,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,2649,2649,3,Europe/Sofia,FALSE,1100472751
+Buhovo,Buhovo,Buchowo|Bukhovo,42.7667,23.5667,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,2644,2644,3,Europe/Sofia,FALSE,1100313448
+Kalofer,Kalofer,Kaloter,42.6122,24.9731,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,2642,2642,3,Europe/Sofia,FALSE,1100894296
+Kalekovets,Kalekovets,Kalekowez,42.2330,24.8170,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,152.0,2641,2641,3,Europe/Sofia,FALSE,1100506265
+Pavel Banya,Pavel Banya,Pawel|Banya|Pavel|Lŭdzha K’oy|Lŭdzha Ali,42.6000,25.2000,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,2639,2639,3,Europe/Sofia,FALSE,1100010511
+Yablanitsa,Yablanitsa,Ablanitsa|Iablanica|Jablonica|Jablaniza|Jablanica,43.0333,24.1167,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,27.1,2624,2624,3,Europe/Sofia,FALSE,1100327591
+Ravda,Ravda,Rawda|Rhavtha|Ravdas,42.6500,27.6833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.6,2615,2615,3,Europe/Sofia,FALSE,1100005521
+Nikolovo,Nikolovo,Lipnik|Gargale|Gagalya|Gagalja|Gagalea,43.8573,26.0929,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,2615,2615,3,Europe/Sofia,FALSE,1100849514
+Novi Han,Novi Han,Nowi-Chan|Novi-Han|Jeni-Han|Novichan|Novi Khan,42.6057,23.5926,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,50.6,2613,2613,4,Europe/Sofia,FALSE,1100749183
+Glozhene,Glozhene,Gložene|Glojéne|Gloshene|Gložen,43.6916,23.8120,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,50.3,2612,2612,3,Europe/Sofia,FALSE,1100900937
+Kovachevo,Kovachevo,Kovacnevo|Kovačevo|Demirdzhiler|Kowatschewo,42.2046,24.1981,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,196.0,2612,2612,4,Europe/Sofia,FALSE,1100863729
+Smirnenski,Smirnenski,Beyolan|Bey-Alan|Bei Alan|Smirienski|Kneajevo Poleana|Knyazheva Polyana|Bej Alan|Knjaževa-Poljana|Smirenski|Knjashewa-Poljana,43.7669,26.2984,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,21.9,2603,2603,4,Europe/Sofia,FALSE,1100411217
+Byala Cherkva,Byala Cherkva,Gorni Turcheta|Byela Cherkva|Byela-Cherkova|Byala Cherkova|Bjela-Čerkova|Béla-Tchekva|Bela Cherkva|Bela-Čerkova|Bjela-Cerkva|Běla Čerkva|Bela Tscherkwa,43.2000,25.3000,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,2599,2599,3,Europe/Sofia,FALSE,1100440877
+Novo Selo,Novo Selo,Vzemen Orman|Eni K’oy|Nowosselo,42.1050,24.4830,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,293.4,2578,2578,3,Europe/Sofia,FALSE,1100137338
+Dobrinishte,Dobrinishte,Dobroništa|Dobriništa|Dobrinischta|Dobriinshta|Dobrinishta|Sarantsi|Dobrinishcha,41.8211,23.5622,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,27.8,2549,2549,3,Europe/Sofia,FALSE,1100988727
+Todor-Ikonomovo,Todor-Ikonomovo,Malamuzlü|Makhmuzlii|Makhmuzli|Mahmuzli|Makhmuzlŭ|Mahimizh|Todor Ikonomov|Todor Ikonomow,43.6372,27.1568,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.3,2549,2549,4,Europe/Sofia,FALSE,1100427084
+Kurtovo Konare,Kurtovo Konare,Kurtowo-Konare|Kurtove Konare,42.0930,24.4998,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,293.4,2543,2543,3,Europe/Sofia,FALSE,1100874159
+Brestovene,Brestovene,Karaagach|Karaach|Karaač|Brestowene|Bryestovene|Bryastovene,43.7592,26.5992,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,34.5,2540,2540,4,Europe/Sofia,FALSE,1100691084
+Kaloyanovo,Kaloyanovo,Seldžikovo|Seldzhikovo|Kalojanovo|Kalojanowo,42.3500,24.7333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,33.7,2531,2531,3,Europe/Sofia,FALSE,1100172208
+Skutare,Skutare,,42.1833,24.8333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,2524,2524,3,Europe/Sofia,FALSE,1100489434
+Koprinka,Koprinka,Sŭltŭkovo|Saltŭkovo,42.6323,25.3309,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,2516,2516,4,Europe/Sofia,FALSE,1100567895
+Ablanitsa,Ablanitsa,Ablaniza,41.5378,23.9347,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,74.6,2511,2511,3,Europe/Sofia,FALSE,1100385770
+Sadovo,Sadovo,Cheshnegir|Sadowo|Sadova|Cheshnigŭrovo,42.1330,24.9330,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,161.1,2494,2494,3,Europe/Sofia,FALSE,1100678447
+Hadzhidimovo,Hadzhidimovo,Zhostovo|Dolno-Singartiya|Dolna-Singartiya|Shostowo|Khadzhidimovo,41.5217,23.8689,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,13.7,2494,2494,3,Europe/Sofia,FALSE,1100565182
+Opaka,Opaka,,43.4500,26.1667,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,39.3,2486,2486,3,Europe/Sofia,FALSE,1100190373
+Yasen,Yasen,Plŭzi Gŭz|Plazi-Gŭz|Jassen|Plŭzi-Găz|Jasen|Plazi-Gaz,43.4267,24.5222,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,2479,2479,4,Europe/Sofia,FALSE,1100148696
+Topolovo,Topolovo,Takhtalii|Topolowo,41.9023,25.0053,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.0,2475,2475,4,Europe/Sofia,FALSE,1100351859
+Grozdyovo,Grozdyovo,K’opryu-K’oy|Rakovec|Gozd’ovo|Kyupryu-Kyoy|Kyupryu-K’oy|Rakowez|Kjoprju Kjoj|Rakovets|Kiopriu Kioi|Kyupri-Kioi|Keprakiöj|Grozd’ovo,43.0285,27.5404,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,2474,2474,4,Europe/Sofia,FALSE,1100519729
+Tran,Tran,Trŭn|Tren|Trăn|Trin|Trn,42.8333,22.6500,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,minor,6.3,2459,2459,3,Europe/Sofia,FALSE,1100399937
+Galata,Galata,,43.0167,24.2833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,2441,2441,3,Europe/Sofia,FALSE,1100916472
+Apriltsi,Apriltsi,Apriltzi,42.8333,24.9167,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,11.8,2441,2441,3,Europe/Sofia,FALSE,1100961853
+Chepintsi,Chepintsi,Tschepinzi,42.7578,23.4256,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,2437,2437,3,Europe/Sofia,FALSE,1100403485
+Parvomaytsi,Parvomaytsi,Pŭrvomaytsi,43.1530,25.6521,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,80.9,2419,2419,3,Europe/Sofia,FALSE,1100929354
+Draganovo,Draganovo,Draganowo|Dragnovo,43.2209,25.7467,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,133.8,2405,2405,3,Europe/Sofia,FALSE,1100403727
+Debren,Debren,,41.5817,23.8228,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2399,2399,3,Europe/Sofia,FALSE,1100592200
+Rila,Rila,Riloselo|Rila Selo,42.1333,23.1333,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,7.2,2397,2397,3,Europe/Sofia,FALSE,1100548042
+Ustina,Ustina,,42.0407,24.5210,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,2374,2374,4,Europe/Sofia,FALSE,1100332040
+Ognyanovo,Ognyanovo,Saladinovo|Mariza|Maritsa,42.1333,24.4000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,121.4,2368,2368,3,Europe/Sofia,FALSE,1100011156
+Valkosel,Valkosel,Walkossel|Vŭlkosel,41.5333,23.9833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,79.6,2350,2350,3,Europe/Sofia,FALSE,1100294523
+Borino,Borino,Kara-Bulak|Boriio,41.6836,24.2927,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,minor,15.4,2338,2338,3,Europe/Sofia,FALSE,1100278757
+Shtraklevo,Shtraklevo,Kadikioy|Shtreklevo|Šriklevo|Schtrăkliowo|Shtriklevo|Shchrlovo|Shtrŭkl’ovo|Sriklovo|Shtrŭklevo,43.7170,26.0500,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,26.9,2333,2333,3,Europe/Sofia,FALSE,1100406997
+Rakovski,Rakovski,Rakowski|Kasŭm Kuyudzhuk|Kosŭm Kuydzhuk,43.6000,26.4667,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,2332,2332,3,Europe/Sofia,FALSE,1100031335
+Kilifarevo,Kilifarevo,Kilifarewo,42.9833,25.6333,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,2323,2323,3,Europe/Sofia,FALSE,1100315292
+Katunitsa,Katunitsa,Katounitza|Katonitsa|Katuniza|Katunica,42.1016,24.8689,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,2295,2295,4,Europe/Sofia,FALSE,1100944718
+Obrochishte,Obrochishte,Teke|Teche|Obrečište,43.4000,28.0500,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,33.1,2294,2294,3,Europe/Sofia,FALSE,1100329570
+Zhelyu Voyvoda,Zhelyu Voyvoda,Mikhaylovo|Cherkishliy|Cherkeshlii|Mihalilovo|Shelju Woiwoda|Mihailovo|Mikhailovo,42.5941,26.4827,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,2288,2288,4,Europe/Sofia,FALSE,1100941273
+Enina,Enina,Yenina|Jenina,42.6675,25.4091,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,2276,2276,4,Europe/Sofia,FALSE,1100658434
+Tsonevo,Tsonevo,Sandŭkchii|Sandŭkchi|Saidekchŭ|Rakla|Sandakči|Sandakchi,43.0304,27.4387,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,36.1,2254,2254,3,Europe/Sofia,FALSE,1100868165
+Glavinitsa,Glavinitsa,Glawiniza|Beshikŭrovo|Bašikerovo|Bashikyarovo|Bashikŭrovo|Bashi-Kărovo|Bashikarevo|Bašikirovo,42.1574,24.3088,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,219.9,2243,2243,3,Europe/Sofia,FALSE,1100518304
+Dermantsi,Dermantsi,Dŭrmantsi|Drmanci|Dermanzi|Dermantzi|Dermanci,43.1500,24.2833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,35.2,2240,2240,3,Europe/Sofia,FALSE,1100906236
+Chernomorets,Chernomorets,Sweti Nikola|Sveti Nikola|Agios Nikolo|Sveti Nicola|Nikola,42.4500,27.6500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,24.4,2211,2211,3,Europe/Sofia,FALSE,1100378568
+Svetovrachane,Svetovrachane,Swetowratschene|Svyetovrachane,42.7819,23.3838,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,2205,2205,3,Europe/Sofia,FALSE,1100654961
+Bregovo,Bregovo,Bryegovo|Bryagovo|Bregowo|Brjegovo,44.1500,22.6500,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,54.9,2180,2180,3,Europe/Sofia,FALSE,1100536180
+Yasenkovo,Yasenkovo,Chukurkyuy|Chukur-K’oy|Jessenkowo|Jasenkovo|Ašikovo|Čukarkiöj|Yasenovo,43.5476,26.8363,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,29.6,2164,2164,4,Europe/Sofia,FALSE,1100506891
+Aheloy,Aheloy,Chimovo|Razvalina Chimus|Chimos|Tschimowo|Chemose|Razvalina Chimcho|Akheloy,42.6489,27.6481,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,2162,2162,3,Europe/Sofia,FALSE,1100732044
+Bratanitsa,Bratanitsa,Brataniza|Bratanintsi|Kyusse-Muratovo|Bratanci|K’ose-Muratovo,42.1660,24.2201,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,2159,2159,4,Europe/Sofia,FALSE,1100667197
+Sadovets,Sadovets,Sadowez|Sadovec|Mutkurovo|Sadovetz,43.3073,24.3510,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,2140,2140,4,Europe/Sofia,FALSE,1100071745
+Krushare,Krushare,Krušare|Artaklarŭ|Artaklari|Kruschare,42.5500,26.3667,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,2140,2140,3,Europe/Sofia,FALSE,1100018455
+Chorbadzhiysko,Chorbadzhiysko,Chorbadzhilar|Chorbajüsko|Tschorbadshijsko,41.4000,25.4000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,2116,2116,3,Europe/Sofia,FALSE,1100380100
+Isperihovo,Isperihovo,Isperichowo|Aydinevo|Adŭnkioy|Aydinovo|Ajdinovo|Aidinevo|Isperikhovo,42.0849,24.4291,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,37.5,2115,2115,4,Europe/Sofia,FALSE,1100342399
+Borovan,Borovan,Borowan,43.4333,23.7500,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,10.0,2111,2111,3,Europe/Sofia,FALSE,1100965686
+Gradina,Gradina,Zarsko Selo|Tzarsko Sélo|Chakŭrdzhii|Chakerdzhiy|Chikardzhii|Tsarsko Selo|Carsko Selo,42.1472,25.2080,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,46.7,2106,2106,3,Europe/Sofia,FALSE,1100911014
+Byala,Byala,Byela|Bjela|Bjala|Běla|Ak Dere|Biela,42.8833,27.8833,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,minor,19.9,2100,2100,3,Europe/Sofia,FALSE,1100314073
+Loznitsa,Loznitsa,Losniza|Kobadŭn|Lozitsa|Kubadin|Kobadin,43.3667,26.6000,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,19.1,2098,2098,3,Europe/Sofia,FALSE,1100691534
+Startsevo,Startsevo,Elekhche|Starzewo,41.4167,25.0667,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,58.4,2094,2094,3,Europe/Sofia,FALSE,1100670022
+Obzor,Obzor,Güzuken|Güsiken|Obsor|Giozeken|G’ozeken|Kozjak-Grad|Gyuzuken|Gyuzekioy|Gjozeken|Kozyak-Grad,42.8167,27.8833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,56.9,2094,2094,3,Europe/Sofia,FALSE,1100118070
+Nova Mahala,Nova Mahala,Nowa Machala|Nova Makhala,41.9347,24.2686,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,9.4,2092,2092,4,Europe/Sofia,FALSE,1100329173
+Belashtitsa,Belashtitsa,Bielaštica|Bielasica|Byelashtitsa|Belaschtiza,42.0695,24.7482,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,2092,2092,4,Europe/Sofia,FALSE,1100912377
+Krushovitsa,Krushovitsa,Krušovica|Kruschowiza|Krouchovitza|Krushevitsa,43.3491,24.4150,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,2086,2086,4,Europe/Sofia,FALSE,1100818223
+Krupnik,Krupnik,,41.8500,23.1167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2085,2085,3,Europe/Sofia,FALSE,1100356234
+Batanovtsi,Batanovtsi,Batanowzi|Batanovitsi|Batanovtzi|Batanovci|Temelkovo,42.6000,22.9500,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,168.5,2084,2084,3,Europe/Sofia,FALSE,1100206141
+Semchinovo,Semchinovo,Semtschinowo,42.1782,24.0972,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,2070,2070,4,Europe/Sofia,FALSE,1100859553
+Kraishte,Kraishte,Krayshte,41.8994,23.5922,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,25.1,2068,2068,3,Europe/Sofia,FALSE,1100841811
+Iskra,Iskra,Zvezdel|Aydogdu|Aidogdu|Profesor Miletić|Miletich|Bazirgyan|Bazărghian|Dragalina|Papukchilar|Papuccilar|Chekhlari|Čechlari|Chehlari,43.9976,26.9646,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,18.3,2051,2051,4,Europe/Sofia,FALSE,1100534381
+Musomishta,Musomishta,Mussomischta|Musomišta,41.5500,23.7500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,2040,2040,3,Europe/Sofia,FALSE,1100283715
+Tsaratsovo,Tsaratsovo,Zarazowo|Tsaratsavo,42.2000,24.6833,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,2038,2038,3,Europe/Sofia,FALSE,1100057551
+Koprivshtitsa,Koprivshtitsa,Kopriwschtiza|Koprivštica|Koprivshchitsa|Koprivščica|Koprivčica|Koprivichtitza|Avrat Alan,42.6333,24.3500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,14.4,2032,2032,3,Europe/Sofia,FALSE,1100998386
+Pordim,Pordim,Pordime|Porodim,43.3833,24.8500,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.7,2020,2020,3,Europe/Sofia,FALSE,1100016847
+Sborishte,Sborishte,Sborište|Dzhumalii|Dzhumaliy|Sborischte,42.6820,25.9737,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,27.2,2016,2016,4,Europe/Sofia,FALSE,1100313824
+Tetovo,Tetovo,Tetevo|Tetewo,43.8172,26.2888,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,32.5,2002,2002,4,Europe/Sofia,FALSE,1100008726
+Voyvodinovo,Voyvodinovo,Vojvodinovo|Voivodinovo|Woiwodinowo,42.2000,24.8000,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,2000,2000,3,Europe/Sofia,FALSE,1100035524
+Kaolinovo,Kaolinovo,Shumnu-Bokhchilar|Shumnu-Bokhchalar|Bozhidar|Boshidar|Beyuk Bakchilar,43.6167,27.1167,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.3,1996,1996,3,Europe/Sofia,FALSE,1100248519
+Borovo,Borovo,Gorna-Monastir|Gorna-Manastiriza|Gorni-Manastirica|Gorna Manastiritsa,43.5000,25.8000,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,minor,53.5,1992,1992,3,Europe/Sofia,FALSE,1100022795
+Malko Tarnovo,Malko Tarnovo,Malkotirnova|Malko Tarnowo|Tirnovo|Malko-Tirnovo|Malko-Trnovo|Malko-Tărnov|Malko Tŭrnovo,41.9833,27.5333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,14.4,1981,1981,3,Europe/Sofia,FALSE,1100119740
+Varvara,Varvara,Varvar|Warwara,42.1616,24.1243,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,1974,1974,4,Europe/Sofia,FALSE,1100122357
+Chalakovi,Chalakovi,Tschalăkowi|Duvandzha|Dogandzha|Chalŭkovi,42.1613,25.0118,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.4,1965,1965,4,Europe/Sofia,FALSE,1100368181
+Buzovgrad,Buzovgrad,Busowgrad|Armaganovo,42.5819,25.3713,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1956,1956,4,Europe/Sofia,FALSE,1100875492
+Dabnitsa,Dabnitsa,Dăbnitsa|Debnitsa|Dăbniza|Dŭbnitsa,41.5667,23.8333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,17.4,1948,1948,3,Europe/Sofia,FALSE,1100354243
+Valnari,Valnari,Vŭlchari|Wălnari|Sofular|Vŭlnare|Vŭlnari,43.5994,27.2172,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,21.8,1945,1945,4,Europe/Sofia,FALSE,1100447682
+Dalgo Pole,Dalgo Pole,Uzun Kŭrovo|Dălgo-Pole|Uzun Karovo|Dŭlgo Pole,42.3189,24.7673,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,33.7,1939,1939,4,Europe/Sofia,FALSE,1100567767
+Balgarovo,Balgarovo,Urum Jenikiöj|Urum-Eni-Kyoy|Blgarovo|Urum-Eni-K’oy|Bolgarovo|Urum-Jenikeui|Urum Jeni Köi|Urum-Eni-Kjoj|Urum Eni Kioi|Bălgarowo|Urum-Enikioy|Bŭlgarovo,42.6167,27.3000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,430.4,1921,1921,3,Europe/Sofia,FALSE,1100131482
+Petarch,Petarch,Petrich|Petărtsch|Petŭrch,42.8333,23.1333,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,57.9,1914,1914,3,Europe/Sofia,FALSE,1100136780
+Chernogorovo,Chernogorovo,Černogorovo|Tschernogorowo,42.2720,24.4011,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1913,1913,3,Europe/Sofia,FALSE,1100885193
+Orlyak,Orlyak,Trupcilar|Trubchular|Makenzen|Feldmarschall Mackensen,43.6361,27.3819,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,28.0,1910,1910,3,Europe/Sofia,FALSE,1100339061
+Mramor,Mramor,Mramoren,42.7863,23.2727,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,132.6,1905,1905,4,Europe/Sofia,FALSE,1100635524
+Harlets,Harlets,Horlec|Khărlets|Riles|Chărlez|Khŭrlets,43.7099,23.8282,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,64.2,1903,1903,4,Europe/Sofia,FALSE,1100000017
+Garmen,Garmen,Gărmen|Gŭrmen,41.6000,23.8167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1898,1898,3,Europe/Sofia,FALSE,1100760110
+Chepintsi,Chepintsi,Tschepinzi|Čankar-Dere|Changŭr-Dere|Čangirkiöj,41.4357,24.8646,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,50.8,1897,1897,4,Europe/Sofia,FALSE,1100844274
+Aleksandrovo,Aleksandrovo,Okchular|Petrovo|Aleksandrowo|Alexandrovo|Okchilar,42.5977,25.0951,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,1894,1894,4,Europe/Sofia,FALSE,1100130656
+Obnova,Obnova,Obnowa|Binaya|Radinenets,43.4346,24.9884,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,40.6,1884,1884,4,Europe/Sofia,FALSE,1100829636
+Satovcha,Satovcha,Satowtscha|Satovča|Satovdža,41.6167,23.9833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,1868,1868,3,Europe/Sofia,FALSE,1100120904
+Brestnik,Brestnik,Kara Agach,42.0534,24.7668,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,1862,1862,4,Europe/Sofia,FALSE,1100614702
+Kokalyane,Kokalyane,Kokaljane|Kokolyane,42.5786,23.4150,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,118.9,1854,1854,3,Europe/Sofia,FALSE,1100150775
+Slashten,Slashten,Slašten|Slaschten,41.5000,24.0167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1852,1852,3,Europe/Sofia,FALSE,1100216174
+Oreshak,Oreshak,Oréchak|Oryeshak|Oreschak,42.8821,24.7705,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,79.6,1847,1847,3,Europe/Sofia,FALSE,1100024133
+Laki,Laki,Lŭki,41.8333,24.8333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,10.6,1842,1842,3,Europe/Sofia,FALSE,1100643656
+Kocherinovo,Kocherinovo,Kocheripovo|Kocherinobo|Kočerinovo|Kočarinovo|Kotscherinowo|Kotcherinovo,42.0833,23.0667,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,26.0,1841,1841,3,Europe/Sofia,FALSE,1100429037
+Kolarovo,Kolarovo,Kolarewo|Kolarevo,41.3667,23.1000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1841,1841,3,Europe/Sofia,FALSE,1100019771
+Dragichevo,Dragichevo,Dragitschewo|Dragitchevo|Dragičevo,42.6043,23.1391,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,105.1,1837,1837,3,Europe/Sofia,FALSE,1100408830
+Suhindol,Suhindol,Suchindol|Souhyndol|Sukhindol,43.1833,25.1833,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,13.3,1835,1835,3,Europe/Sofia,FALSE,1100632362
+Sheynovo,Sheynovo,Seinovo|Sheinovo|Scheinowo,42.6859,25.3154,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,46.9,1834,1834,4,Europe/Sofia,FALSE,1100221559
+Gorni Dabnik,Gorni Dabnik,Gorni-Döbnik|Gorni Dibnik|Gorni-Dăbnik|Dubnik|Gorni-Dubnjak|Gorni-Debnik|Diubnik|Gorni Dŭbnik,43.3798,24.3527,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,1825,1825,4,Europe/Sofia,FALSE,1100959864
+Debelt,Debelt,Yakezliy|Jakezlü|Akezlii|Jakezlii|Yakezlii|Yakezli|Jakezli,42.4000,27.2667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,36.9,1818,1818,3,Europe/Sofia,FALSE,1100430586
+Ostrovo,Ostrovo,Golyama Ada|Ostrowo|Adakiöj|Goljama-Ada|Adakioy|Golema-Ada|Golyema-Ada,43.6881,26.6074,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,1809,1809,3,Europe/Sofia,FALSE,1100113391
+Mokrishte,Mokrishte,Yamurchovo|Mokrischte,42.1892,24.3325,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1802,1802,3,Europe/Sofia,FALSE,1100582436
+Yahinovo,Yahinovo,Jachinowo|Yakhinovo,42.2833,23.1500,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1798,1798,3,Europe/Sofia,FALSE,1100517962
+Banya,Banya,Banjata|Banja|Bania|Banyata,42.6062,25.9905,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,41.3,1798,1798,4,Europe/Sofia,FALSE,1100166321
+Hrishteni,Hrishteni,Chrischeni|Khrishteni,42.4572,25.7060,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,1795,1795,4,Europe/Sofia,FALSE,1100219687
+Lyulyakovo,Lyulyakovo,Keremitlik|Ljuljakowo|Kirimitlik|Keremetlik,42.8667,27.0833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,35.5,1793,1793,3,Europe/Sofia,FALSE,1100415534
+Ezerche,Ezerche,Esertsche|Eserne|Eserche|Jezerče|Jezerveco|Ezerče|Eserce|Eseretz|Ezerets,43.5500,26.3167,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,28.7,1790,1790,3,Europe/Sofia,FALSE,1100639182
+Kostievo,Kostievo,Kostiewo,42.1790,24.6235,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,75.5,1789,1789,3,Europe/Sofia,FALSE,1100697293
+Litakovo,Litakovo,Ljutakovo|Litakowo|Litakobo|Liutakovo|Lütakovo,42.9507,23.6762,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,1782,1782,4,Europe/Sofia,FALSE,1100297981
+Kraynitsi,Kraynitsi,Krainitsi|Kraintsi|Krainizi,42.3167,23.2000,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1777,1777,3,Europe/Sofia,FALSE,1100747048
+Aleksandrovo,Aleksandrovo,Kara Khasan|Aleksandrowo|Alexandrovo,43.2500,24.9500,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,44.4,1774,1774,3,Europe/Sofia,FALSE,1100493320
+Sinitovo,Sinitovo,Sinitowo,42.1500,24.3667,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1768,1768,3,Europe/Sofia,FALSE,1100569977
+Ezerovo,Ezerovo,Eserow|Malki Aladŭn|Mal Aladen|Malŭk Aladŭn|Mal-Aladăn,43.2000,27.7667,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,189.3,1760,1760,3,Europe/Sofia,FALSE,1100613872
+Pravda,Pravda,Prawda|Dogrular,43.8743,26.9992,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1759,1759,4,Europe/Sofia,FALSE,1100350226
+Hristo-Danovo,Hristo-Danovo,Tekija|Christo Danowo|Tekiya|Khristo-Danovo,42.7244,24.6019,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1751,1751,4,Europe/Sofia,FALSE,1100625471
+Resen,Resen,Réssén,43.2000,25.5500,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,1751,1751,3,Europe/Sofia,FALSE,1100117131
+Gradezhnitsa,Gradezhnitsa,Gradeshnitsa|Gradeshniza,43.0167,24.2333,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,1748,1748,3,Europe/Sofia,FALSE,1100706897
+Dolni Lukovit,Dolni Lukovit,Lukovit|Dolni-Lukowit,43.5133,24.2151,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,28.6,1746,1746,4,Europe/Sofia,FALSE,1100744002
+Radanovo,Radanovo,Radonowo,43.3399,25.6366,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,27.5,1739,1739,4,Europe/Sofia,FALSE,1100309122
+Golesh,Golesh,Chiose Aid|Golesch|K’ose Aydŭn,43.9537,27.6133,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,10.1,1729,1729,4,Europe/Sofia,FALSE,1100460326
+Graf Ignatievo,Graf Ignatievo,Cholluk|Graf Ignatiew|Graf Ignatiev,42.2833,24.7500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,1728,1728,3,Europe/Sofia,FALSE,1100690378
+Belovets,Belovets,Syrtolan Khas|Sărt-Alan-Khas|Belowez|Belevec|Sirt-Alan Has|Byelovets|Byalovets|Sjart Alan|Sŭrt-Alan-Khas|Sŭrtolan Kalŭch|Sŭrt Alan Kŭlŭch|Belitschiza|Belichitsa,43.8147,26.3808,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,32.5,1727,1727,4,Europe/Sofia,FALSE,1100220757
+Zvanichevo,Zvanichevo,Čangorlie|Changŭrlii|Changarlii|Swănitschewo|Zvnichevo|Cangurli|Changarliy|Zvŭnichevo,42.1904,24.2507,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1726,1726,4,Europe/Sofia,FALSE,1100528540
+Seliminovo,Seliminovo,Seliminowo|Karasarlŭ|Kara Sarlii,42.6469,26.1542,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1722,1722,3,Europe/Sofia,FALSE,1100347034
+Uzundzhovo,Uzundzhovo,Uzundža-Ova|Uzundjovo|Usundshowo|Uzunjovo|Uzundžovo|Uzundžola Ova,41.9667,25.6500,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,119.3,1720,1720,3,Europe/Sofia,FALSE,1100007042
+Pletena,Pletena,,41.6333,23.9667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,1708,1708,3,Europe/Sofia,FALSE,1100403876
+Podayva,Podayva,Podavva|Podaiwa|Podaiva|Podaiv,43.6730,26.9197,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,52.4,1705,1705,4,Europe/Sofia,FALSE,1100830327
+Nova Cherna,Nova Cherna,Tyurk Smil|Turski Smil|Turksmil|Turesmil|Turcşmil,44.0000,26.5000,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,29.3,1704,1704,3,Europe/Sofia,FALSE,1100683348
+Malorad,Malorad,Malorat,43.4889,23.6875,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,30.9,1702,1702,4,Europe/Sofia,FALSE,1100550842
+Vakarel,Vakarel,Vakar Khanove|Wakarel,42.5500,23.7167,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,26.4,1702,1702,3,Europe/Sofia,FALSE,1100539423
+Brest,Brest,Brjest|Brjast|Bryest|Bryast,43.6417,24.5937,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,23.9,1702,1702,4,Europe/Sofia,FALSE,1100481569
+Gigen,Gigen,Ghighèn,43.7000,24.4833,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.9,1700,1700,3,Europe/Sofia,FALSE,1100046480
+Lehchevo,Lehchevo,Lehčeva|Lechčevo|Lechtschewo|Lekchevo|Lehčevo|Lekhchevo,43.5333,23.5333,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,25.1,1691,1691,3,Europe/Sofia,FALSE,1100234689
+Opanets,Opanets,Opanez|Opantez,43.4475,24.5745,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,1675,1675,4,Europe/Sofia,FALSE,1100236649
+Busmantsi,Busmantsi,Bussmanzi,42.6833,23.4333,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,131.3,1669,1669,3,Europe/Sofia,FALSE,1100859570
+Popitsa,Popitsa,Popiza,43.4271,23.9559,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,1668,1668,4,Europe/Sofia,FALSE,1100496148
+Gorna Mitropolia,Gorna Mitropolia,Mitropoliya Gorna Netropol’|Gorna Mitropolija|Gorna Metropolja|Gorna-Mitropolia|Gorna Mitropoliya,43.4618,24.4611,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,1668,1668,4,Europe/Sofia,FALSE,1100186009
+Lazhnitsa,Lazhnitsa,Lăshniza|Lŭzhnitsa,41.6167,23.6833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1667,1667,3,Europe/Sofia,FALSE,1100389381
+Glavinitsa,Glavinitsa,Glawinica|Asvatchioi|Astvatchioi|Asfatchioi|Asvatk’oy,43.9167,26.8333,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,20.9,1654,1654,3,Europe/Sofia,FALSE,1100054535
+Lyuben Karavelovo,Lyuben Karavelovo,Sară-G’ol|Sară-Giol|Saraghiol|Ljuben Karawelow|Lyuben Karavelov,43.3500,27.7833,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.5,1650,1650,3,Europe/Sofia,FALSE,1100066780
+Kamen,Kamen,Teodosievo|Čair-Köi|Čair|Teodossiewo|Chair|Teodossievo,43.3127,25.9270,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,48.2,1649,1649,4,Europe/Sofia,FALSE,1100997614
+Iskrets,Iskrets,Isskrez|Iskrec|Iskretz,42.9833,23.2500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,22.7,1649,1649,3,Europe/Sofia,FALSE,1100612665
+Lesnovo,Lesnovo,Lessnowo|Ormanlia|Lyesnovo|Ormanliya,42.6333,23.6333,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,50.6,1648,1648,3,Europe/Sofia,FALSE,1100728351
+Zimnitsa,Zimnitsa,Kŭshlakioi|Simen|Simniza|Kišla-Köi|Kŭshla-K’oy|Zimnica|Kshla-Koi,42.5822,26.6025,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,16.9,1646,1646,3,Europe/Sofia,FALSE,1100954842
+Byal Izvor,Byal Izvor,Bel Izvor|Ak-Bunar|Bel Iswor|Byel-Izvor,41.5461,25.0738,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,82.5,1645,1645,3,Europe/Sofia,FALSE,1100476338
+Kornitsa,Kornitsa,Korniza|Kornica|Kamenitsa,41.6333,23.6833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,1644,1644,3,Europe/Sofia,FALSE,1100528853
+Merichleri,Merichleri,Meritchleri|Merieteri|Meritchléri|Meritschleri|Meričleri,42.1333,25.5000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,1642,1642,3,Europe/Sofia,FALSE,1100484871
+Asenovtsi,Asenovtsi,Osma Kalugerovo|Osma Kalugerowo,43.3264,25.0980,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,33.4,1642,1642,4,Europe/Sofia,FALSE,1100834441
+Polikrayshte,Polikrayshte,Polikraište|Polikraišce|Polikraichté|Polikraischte|Polikraishte,43.1830,25.6170,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,66.7,1639,1639,3,Europe/Sofia,FALSE,1100379097
+Divotino,Divotino,Diwotino,42.6553,23.0494,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,64.8,1636,1636,3,Europe/Sofia,FALSE,1100399814
+Sashevo,Sashevo,Pepko-Karavelovo|Odolar|Odaite|Petko Karavelovo|Odaitye,43.2991,25.6424,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,46.7,1634,1634,4,Europe/Sofia,FALSE,1100826221
+Smilyan,Smilyan,Ismilan|Smiljan,41.5064,24.7289,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,39.3,1633,1633,3,Europe/Sofia,FALSE,1100485273
+Brezovo,Brezovo,Bryezovo|Brjesovo|Abraslare|Abrashlare|Bresowo,42.3500,25.0833,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,14.5,1631,1631,3,Europe/Sofia,FALSE,1100337479
+Okorsh,Okorsh,Okorš|Musular,43.7479,27.0189,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1614,1614,4,Europe/Sofia,FALSE,1100780881
+Brenitsa,Brenitsa,Breniza|Brenica|Brjenica|Brénitza,43.4167,24.1333,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,41.1,1614,1614,3,Europe/Sofia,FALSE,1100771678
+Pchelnik,Pchelnik,Kuvanlük|Kuvanlek|Ptschelnik|Kovanlŭk|Kovanlik|Pchelarovo|Chelnik,43.0130,27.6693,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,1612,1612,4,Europe/Sofia,FALSE,1100331036
+Ravnets,Ravnets,Kaba-Sakal|Kabalŭ|Kara-Sakal|Rawnez|Radnets,42.5169,27.2500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,430.4,1610,1610,3,Europe/Sofia,FALSE,1100869078
+Dolni Tsibar,Dolni Tsibar,Dolni Zibar|Dolni-Cibr|Cibar Palanka|Džibrica|Dolni Cibŭr|Cibar|Dolni Tsibŭr,43.8167,23.5167,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,20.1,1608,1608,3,Europe/Sofia,FALSE,1100600238
+Kliment,Kliment,Sveti Kliment|Embie Skender|Sweti Kliment|Dzhanlŭ Makhala,43.6249,27.0058,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,32.6,1602,1602,4,Europe/Sofia,FALSE,1100034116
+Zgorigrad,Zgorigrad,Sgori-Grad,43.1801,23.5169,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,1601,1601,4,Europe/Sofia,FALSE,1100079257
+Sevar,Sevar,Dzheferler|Džaferler|Džafeler|Sewar|Sever|Dzhaferler,43.8333,26.5900,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,32.5,1600,1600,4,Europe/Sofia,FALSE,1100743528
+Kermen,Kermen,Kermon|Kermenlü|Kermenliy|Kermenlii|Keremenli|Kermenli,42.5040,26.2560,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1593,1593,3,Europe/Sofia,FALSE,1100308401
+Korten,Korten,,42.5459,26.0001,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,41.4,1593,1593,4,Europe/Sofia,FALSE,1100672937
+Skravena,Skravena,Skrvena|Skrevena|Skrŭvena|Skrăwena,42.9420,23.7717,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,1592,1592,4,Europe/Sofia,FALSE,1100410157
+Popintsi,Popintsi,Popinzi|Popintsŭ|Popinci|Popincü|Popintzi,42.4170,24.2830,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,33.0,1587,1587,3,Europe/Sofia,FALSE,1100306302
+Kukorevo,Kukorevo,Koukourevo|Kukorewo,42.4477,26.5331,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,518.7,1587,1587,3,Europe/Sofia,FALSE,1100588019
+Medkovets,Medkovets,Medkovetz|Metkowez|Metkovec|Medkovec|Metkovets,43.6333,23.1833,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,14.9,1585,1585,3,Europe/Sofia,FALSE,1100429732
+Gabarevo,Gabarevo,Gabarewo|Gabrovo|Gabarova,42.6327,25.1604,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,1584,1584,4,Europe/Sofia,FALSE,1100215851
+Samoranovo,Samoranovo,Samoranowo,42.2500,23.1667,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1580,1580,3,Europe/Sofia,FALSE,1100802160
+Boyantsi,Boyantsi,Karŭlii|Bojanzi|Katŭrliy|Katurlii,42.0407,24.9481,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,73.5,1580,1580,4,Europe/Sofia,FALSE,1100238443
+Glogovo,Glogovo,,42.9667,24.2333,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,1579,1579,3,Europe/Sofia,FALSE,1100607571
+Stroevo,Stroevo,Stroewo,42.2360,24.6882,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,1577,1577,4,Europe/Sofia,FALSE,1100361926
+Chiprovtsi,Chiprovtsi,Tschiporowzi|Chiporovtsŭ|Chiporovtsi,43.3833,22.8833,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,12.1,1571,1571,3,Europe/Sofia,FALSE,1100446291
+Dobrovnitsa,Dobrovnitsa,Karezliy|Dobrowniza|Karezlii,42.2102,24.3797,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1569,1569,4,Europe/Sofia,FALSE,1100466576
+Medovets,Medovets,Sarŭ Kovanlŭk|Medowez,43.0055,27.1327,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,36.1,1567,1567,3,Europe/Sofia,FALSE,1100301739
+Golyamo Vranovo,Golyamo Vranovo,Golyemo-Vrenovo|Büj-Vranovo|Golemo Wranowo|Golyemo-Vranovo|Goliamo Vranovo,43.9626,26.3389,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,39.6,1566,1566,4,Europe/Sofia,FALSE,1100274358
+Kavrakirovo,Kavrakirovo,Orman,41.4333,23.1667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.2,1561,1561,3,Europe/Sofia,FALSE,1100088485
+Petarnitsa,Petarnitsa,Petărniza|Petărnitsa|Petarnica|Peternica|Petarnitza|Petŭrnitsa,43.3256,24.4739,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,1558,1558,4,Europe/Sofia,FALSE,1100559496
+Branichevo,Branichevo,Šarvi|Sharvii|Branitschewo|Branichsvo|Sharvi|Sharvy,43.6832,27.0909,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.3,1557,1557,4,Europe/Sofia,FALSE,1100719755
+Galiche,Galiche,Galiče|Galitsche|Galitché|Galiči,43.5602,23.8640,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,1553,1553,4,Europe/Sofia,FALSE,1100755528
+Karnalovo,Karnalovo,Kŭrnalovo|Kŭonalovo|Krnalovo|Kărnalowo,41.4667,23.2167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1546,1546,3,Europe/Sofia,FALSE,1100047095
+Samuil,Samuil,Ashiklar,43.5167,26.7500,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,24.9,1545,1545,3,Europe/Sofia,FALSE,1100095059
+Ognyanovo,Ognyanovo,Ognyenovo|Ognenowo|Fotovishche|Ognenovo|Fotovišta|Fotovishta,41.6167,23.8000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1544,1544,3,Europe/Sofia,FALSE,1100874776
+Stozher,Stozher,Stbšer|Balagea|Baladsha|Ballŭdzha|Baladzha,43.4500,27.8167,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,1540,1540,3,Europe/Sofia,FALSE,1100262467
+Ovoshtnik,Ovoshtnik,Esekli|Emishleri|Owoschtnik|Esekpi,42.5774,25.4466,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1536,1536,4,Europe/Sofia,FALSE,1100628836
+Tsenovo,Tsenovo,Zenowo|Tenovo|Chaushovo|Chaushevo|Čaušovo|Cauševo|Čenevo|Cauškiöj,43.5333,25.6500,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,minor,18.5,1530,1530,3,Europe/Sofia,FALSE,1100930683
+Zheleznitsa,Zheleznitsa,Shelesniza|Zhelyeznitsa,42.5333,23.3667,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,1526,1526,3,Europe/Sofia,FALSE,1100763829
+Radomirtsi,Radomirtsi,Radomirzi|Radomirči|Radomirtzi,43.2482,24.2006,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,53.8,1523,1523,4,Europe/Sofia,FALSE,1100496997
+Hadzhidimitrovo,Hadzhidimitrovo,Sekerechevo|Chadshi-Dimitrowo|Khadzhidimitrovo,42.6735,25.3507,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1522,1522,4,Europe/Sofia,FALSE,1100155458
+Zarnevo,Zarnevo,Zrnevo|Kili Kada|Kilikadi|Kilicadi|Zŭrnevo,43.6300,27.3080,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,28.3,1521,1521,3,Europe/Sofia,FALSE,1100728227
+Varbovka,Varbovka,Vrbovka|Verbovka|Wărbowka|Vŭrbovka,43.2351,25.2006,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.5,1516,1516,4,Europe/Sofia,FALSE,1100229703
+Dolno Osenovo,Dolno Osenovo,Dolno Ossenowo|Osenovo|Osyenovo|Osenowo,41.9500,23.2500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,1512,1512,3,Europe/Sofia,FALSE,1100729846
+Kitanchevo,Kitanchevo,Kŭdŭrkioy|Kadŭr|Kadirkiöj|Kadir|Kitenčevo|Kŭdŭr|Kădăr|Kitantschewo,43.7312,26.8945,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,52.4,1509,1509,4,Europe/Sofia,FALSE,1100681810
+Barutin,Barutin,,41.6000,24.1833,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,27.4,1506,1506,3,Europe/Sofia,FALSE,1100809178
+Dzhulyunitsa,Dzhulyunitsa,Dzulünica|Džuljunica|Džuliuntca|Dshuljuniza,43.1374,25.9017,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,42.3,1504,1504,3,Europe/Sofia,FALSE,1100488468
+Ivanski,Ivanski,Zlokuchene|Kyupryu-K’oy|Köprüköi|Keprik’oy|Keprikiöj|Slokutschen|Zlokučen|K’opryu K’oy|Keuprikeui|Zlokuchen,43.1431,27.0311,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,123.0,1499,1499,4,Europe/Sofia,FALSE,1100529048
+Slokoshtitsa,Slokoshtitsa,Slokoshtnitsa|Slokoschtiza|Slokoshchitsa,42.2667,22.7072,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,52.1,1494,1494,3,Europe/Sofia,FALSE,1100113373
+Bachevo,Bachevo,Batschewo,41.9167,23.4500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,22.5,1493,1493,3,Europe/Sofia,FALSE,1100809429
+Negovan,Negovan,Negowan,42.7667,23.4167,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,159.6,1489,1489,3,Europe/Sofia,FALSE,1100774501
+Zverino,Zverino,Swerino|Zvyerino|Zuerino,43.0779,23.5631,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,30.7,1488,1488,4,Europe/Sofia,FALSE,1100349508
+Orizare,Orizare,Razvalini Pandŭklŭ|Razvalini Landŭklŭ|Lyeskovo|Leskowo|Leskovo|Fŭndŭkliy|Fŭndŭklii|Orizari|Orisare|Barakliya|Barakli|Baraklü|Baraklii|Barakliy,42.7500,27.6167,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.6,1487,1487,3,Europe/Sofia,FALSE,1100660739
+Stavertsi,Stavertsi,Staverci|Stawerzi|Stavretsi|Stavertsŭ|Stavertzi,43.5722,24.2782,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,28.6,1482,1482,4,Europe/Sofia,FALSE,1100318683
+Yunatsite,Yunatsite,Yunatsitye|Khadzhilii|Adzhiliy|Junazite,42.2420,24.2720,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1480,1480,4,Europe/Sofia,FALSE,1100009664
+Antonovo,Antonovo,Yaylakioi|Poljana|Polyane|Polyana|Poljane|Yayla-K’oy,43.1500,26.1667,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,11.3,1480,1480,3,Europe/Sofia,FALSE,1100091776
+Anton,Anton,Lŭzhene|Lŭdzhene|Lăshene|Lezhene,42.7500,24.2833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,17.6,1479,1479,3,Europe/Sofia,FALSE,1100093596
+Polsko Kosovo,Polsko Kosovo,Polsko-Kossowo|Kosovo Polsko,43.4222,25.6581,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,31.9,1478,1478,4,Europe/Sofia,FALSE,1100021502
+Trivoditsi,Trivoditsi,Tekirya|Tekira|Triwodiza|Trivoditsa,42.1358,24.4661,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,293.4,1478,1478,3,Europe/Sofia,FALSE,1100747722
+Chelopech,Chelopech,Čelopeč|Tschelopetsch,42.7000,24.0833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,38.2,1475,1475,3,Europe/Sofia,FALSE,1100000002
+Krepost,Krepost,Golyamo Yurendzhik|Golyem Irindzhik|Kryepost’|Golyemo Yurendzhik,42.0167,25.6000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,1475,1475,3,Europe/Sofia,FALSE,1100084409
+Chernolik,Chernolik,Kara Esek’oy|Kara Ese K’oi|Caraesichioi|Černolik,43.8831,27.0848,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1473,1473,4,Europe/Sofia,FALSE,1100132976
+Sveta Petka,Sveta Petka,Petko|Lyutovo|Kolibi Sveta Petka,42.0380,23.8745,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,45.3,1471,1471,4,Europe/Sofia,FALSE,1100452102
+Vetren Dol,Vetren Dol,Wetren Dol|Vyetren Dol|Elmedere|Elli-Dere,42.1571,24.1534,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,1467,1467,4,Europe/Sofia,FALSE,1100657001
+Chintulovo,Chintulovo,Tschintulowo|Kasŭmovo,42.6455,26.2368,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1461,1461,4,Europe/Sofia,FALSE,1100003855
+Studena,Studena,Stoudéna,42.5439,23.1209,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,23.3,1461,1461,3,Europe/Sofia,FALSE,1100651148
+Yakimovo,Yakimovo,Progorelets|Voynitsi|Kotenovtsi,43.6500,23.3667,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,14.5,1455,1455,3,Europe/Sofia,FALSE,1100259643
+Bistritsa,Bistritsa,Bistrica|Bistriza,42.2333,23.1667,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1453,1453,3,Europe/Sofia,FALSE,1100988501
+Plachkovtsi,Plachkovtsi,Platchkovtzi|Plachkovtsŭ|Piackovci|Plačkovci|Platschkowzi,42.8167,25.4667,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,38.7,1452,1452,3,Europe/Sofia,FALSE,1100497533
+Toros,Toros,Lazar-Stanevo|Pazarezhik,43.1000,24.2833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,35.2,1449,1449,3,Europe/Sofia,FALSE,1100372348
+Grivitsa,Grivitsa,Griwiza|Grivica,43.4167,24.7000,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,1449,1449,3,Europe/Sofia,FALSE,1100536430
+Kesarevo,Kesarevo,Kesarovo|Kessarewo|Kessarévo,43.1526,25.9681,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,56.1,1447,1447,4,Europe/Sofia,FALSE,1100348910
+Goren Chiflik,Goren Chiflik,Gorni Tschiflik|Gorni Chiflik|Gorni Čiflik|Gorni-Chnflik,43.0111,27.6304,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,1445,1445,4,Europe/Sofia,FALSE,1100984575
+Zhitnitsa,Zhitnitsa,Shitniza|Khambarlii,42.3667,24.7000,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,33.7,1444,1444,3,Europe/Sofia,FALSE,1100646016
+Milkovitsa,Milkovitsa,Gradeschti|Gaureni|Gaurene|Gavren|Gawren,43.6333,24.7500,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,23.9,1441,1441,4,Europe/Sofia,FALSE,1100685222
+Dabene,Dabene,Salŭkioy|Dŭbeni|Dăbene|Dŭbene,42.5980,24.7659,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1441,1441,4,Europe/Sofia,FALSE,1100704989
+Tarnak,Tarnak,Tărnak|Trnak|Ternak|Tŭrnak,43.4473,24.0219,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,1435,1435,4,Europe/Sofia,FALSE,1100545585
+Muldava,Muldava,Muldawa,41.9873,24.9413,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.0,1431,1431,4,Europe/Sofia,FALSE,1100037120
+Rosen,Rosen,Mehmečkiöj|Mehmeč Kioi|Mekhmech-kyoy|Mekhmech-k’oy|Mekmech-K’oy|Rossen,42.3833,27.5667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,37.1,1426,1426,3,Europe/Sofia,FALSE,1100848433
+Dushevo,Dushevo,Dushva|Duschowo|Dušovo|Dushovo,42.9667,25.0333,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,1425,1425,3,Europe/Sofia,FALSE,1100569156
+Dabravino,Dabravino,Chalŭmakhle|Chalkh-Makhle|Chala Makhle|Dăbravino|Dăbrawino|Dŭbravino,43.0500,27.6000,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,1424,1424,3,Europe/Sofia,FALSE,1100487195
+Boychinovtsi,Boychinovtsi,Boichinovtsi|Bojtschinowzi,43.4667,23.3333,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,25.1,1418,1418,3,Europe/Sofia,FALSE,1100984255
+Dragor,Dragor,Melikadŭnovo,42.2276,24.3032,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1417,1417,4,Europe/Sofia,FALSE,1100228652
+Poroyno,Poroyno,Kara Yamurlar|Caraiamurlar|Porovno|Karasmirler|Poroino,43.8430,27.1206,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1417,1417,4,Europe/Sofia,FALSE,1100369645
+Byala Reka,Byala Reka,Stara Bela Reka|Byela-Ayeka|Bela-Reka|Ak Dere|Stara Byela Ryeka|Biala Reka|Bjala-Reka|Stara Byala Reka,43.0000,26.7669,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,21.5,1415,1415,3,Europe/Sofia,FALSE,1100003356
+Mirovyane,Mirovyane,Morovyane|Mirowjane,42.7833,23.3000,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,1414,1414,3,Europe/Sofia,FALSE,1100241507
+Ryahovtsite,Ryahovtsite,Ryekhovtsitye|Rechowzite|Rehovcite|Rekhovtsite|Ryakhovtsite,43.0222,25.0083,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,1410,1410,3,Europe/Sofia,FALSE,1100105937
+Samovodene,Samovodene,Samovodeni|Samovedeni|Samovdeni|Samovoda|Samowodeni|Samovodena,43.1569,25.3000,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,0.0,1408,1408,3,Europe/Sofia,FALSE,1100643090
+Pamukchii,Pamukchii,Pamuktschii|Pamukchiya|Pamukči|Pamukchin,43.3975,27.2177,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,49.3,1408,1408,4,Europe/Sofia,FALSE,1100300606
+Saraya,Saraya,Saraja|Kodzha K’oy,42.2500,24.3167,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1405,1405,3,Europe/Sofia,FALSE,1100266303
+Mirkovo,Mirkovo,Mirkowo,42.7000,23.9833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,10.4,1404,1404,3,Europe/Sofia,FALSE,1100157112
+Tenevo,Tenevo,Pandaklü|Pandaklii|Pandakli|Terwel|Pŭndŭklii|Fŭndŭklii|Tervel|Pandăkliy|Pandŭklii,42.3505,26.5304,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,1404,1404,4,Europe/Sofia,FALSE,1100588051
+Stratsin,Stratsin,Strazin|Akhlii|Akhli|Akhliy,42.7667,27.4667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,1403,1403,3,Europe/Sofia,FALSE,1100594539
+Kardam,Kardam,Khaydar|Hajdar|Hajar|Haidar|Khaydarkioy,43.3760,26.2827,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,31.9,1402,1402,3,Europe/Sofia,FALSE,1100296619
+Planinitsa,Planinitsa,Planiniza|Chepel’dzhe|Chepeldzha,42.8833,27.1500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1402,1402,3,Europe/Sofia,FALSE,1100369525
+Govedare,Govedare,Sŭgŭrdzhik|Govedari|Gowedare,42.1500,24.4976,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,94.5,1399,1399,4,Europe/Sofia,FALSE,1100592258
+Cherna Gora,Cherna Gora,Kara Orman|Tscherna-Gora,42.2164,25.2262,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,14.9,1397,1397,4,Europe/Sofia,FALSE,1100880883
+Bezmer,Bezmer,Awdula|Avdula|Avdulla,43.7667,27.4167,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,28.3,1393,1393,3,Europe/Sofia,FALSE,1100883252
+Bozveliysko,Bozveliysko,Kadzhk’oy|Bosweliisko|Kada K’oy,43.0998,27.4722,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,48.6,1389,1389,4,Europe/Sofia,FALSE,1100287541
+Gorno Sakhrane,Gorno Sakhrane,Gorno Sachrane,42.6447,25.2162,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,1387,1387,4,Europe/Sofia,FALSE,1100017775
+Obretenik,Obretenik,Obryetenik|Obrenik,43.5801,25.8098,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,22.0,1386,1386,4,Europe/Sofia,FALSE,1100316563
+Alfatar,Alfatar,General Lazarovo|General Lazarow,43.9500,27.2833,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,minor,10.8,1385,1385,3,Europe/Sofia,FALSE,1100563228
+Vasil Levski,Vasil Levski,Wassil Lewski|Mitirzovo|Mitirizovo|Vassil Levski|Levski,42.6208,24.9006,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1374,1374,4,Europe/Sofia,FALSE,1100327157
+Orizovo,Orizovo,Orisowo|Cheltikchiy|Cheltikchii,42.2101,25.1654,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,14.9,1371,1371,4,Europe/Sofia,FALSE,1100982110
+Krivina,Krivina,Kriwina,42.6831,23.4669,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,132.0,1368,1368,3,Europe/Sofia,FALSE,1100049634
+Krushovitsa,Krushovitsa,Krushevitsa|Kruševica|Krušovica|Kruschowiza,43.6261,23.8420,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,26.0,1367,1367,4,Europe/Sofia,FALSE,1100394938
+Bogomilovo,Bogomilovo,Teke|Bogomilowo,42.3877,25.5602,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,1361,1361,4,Europe/Sofia,FALSE,1100130959
+Sklave,Sklave,Sklawe,41.5167,23.3167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.2,1360,1360,3,Europe/Sofia,FALSE,1100484346
+Kamburovo,Kamburovo,Khasan Fakŭ|Khasanfaki|Khasan-Fakă|Palatitsa|Hosanfaki|Hasan-Fukö|Palatiza,43.1092,26.3370,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,1353,1353,4,Europe/Sofia,FALSE,1100995787
+Sredishte,Sredishte,Knyazhevo|Bei Bunar|Knjažewo|Bey Bunar,43.9013,27.4861,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,15.1,1350,1350,4,Europe/Sofia,FALSE,1100918534
+Senovo,Senovo,Senevo|Syenovo|Senowo,43.6661,26.3628,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,29.6,1350,1350,3,Europe/Sofia,FALSE,1100608682
+Dalboki,Dalboki,Dolboka|Delboki|Dălboki|Dlboki|Dŭlboki,42.4786,25.7711,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,1346,1346,4,Europe/Sofia,FALSE,1100134325
+Karamantsi,Karamantsi,Karamanzi|Karamanitsa|Ulu-Dere-Karamanli|Olu-Dere-Karamanlar,41.8333,25.3333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,27.4,1346,1346,3,Europe/Sofia,FALSE,1100382730
+Karageorgievo,Karageorgievo,Malko Chenge|Bultschino|Chengel|Bulchino,42.7333,27.1833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,1344,1344,3,Europe/Sofia,FALSE,1100728435
+Zemen,Zemen,Byelovo|Semen|Bjelovo|Belovo,42.4669,22.7500,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,9.6,1340,1340,3,Europe/Sofia,FALSE,1100947472
+Yarebitsa,Yarebitsa,Jarebica|Chiller|Ciler,43.8427,27.0081,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1339,1339,4,Europe/Sofia,FALSE,1100161063
+Oresh,Oresh,Oryesh|Orješ|Oreše|Oresch|Oreš,43.5773,25.2436,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,57.6,1338,1338,4,Europe/Sofia,FALSE,1100611359
+Maysko,Maysko,Tuzlu Alan|Slalan|Zlalan,42.9281,26.1449,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,12.9,1338,1338,4,Europe/Sofia,FALSE,1100033623
+Prosenik,Prosenik,Prossenik|Burundžuk|Burundzhik|Burundzhuk,42.8000,27.4500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1335,1335,3,Europe/Sofia,FALSE,1100044639
+Gorna Malina,Gorna Malina,,42.6833,23.7000,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,19.8,1329,1329,3,Europe/Sofia,FALSE,1100931067
+Kamen,Kamen,Demir Dzhilii|Demirdzheli,42.6025,26.4147,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1325,1325,4,Europe/Sofia,FALSE,1100982477
+Bezhanovo,Bezhanovo,Bježanovo|Bezhanevo|Bejanovo|Bežanovo|Beshanowo|Byezhanovo,43.2333,24.4000,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,35.2,1320,1320,3,Europe/Sofia,FALSE,1100711261
+Tserovo,Tserovo,Zerowo,43.0306,23.3500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,22.7,1320,1320,3,Europe/Sofia,FALSE,1100090747
+Lilyache,Lilyache,Liljatsche,43.3215,23.5220,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,1319,1319,4,Europe/Sofia,FALSE,1100040672
+Vinogradets,Vinogradets,Winogradez|Kara-Musal|Vinogradec,42.2833,24.1333,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,1315,1315,3,Europe/Sofia,FALSE,1100685545
+Tankovo,Tankovo,Tănkowo|Indzhe-K’oi|Indzhe-Kioi|Indzhekioy|Indzhe K’oy|Tŭnkovo,42.6944,27.6500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.6,1312,1312,3,Europe/Sofia,FALSE,1100993989
+Maglen,Maglen,Măglen|Chi-Makhle|Chi-Maal|Mŭrlen|Čimal|Chima|Mŭglen,42.7333,27.3667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,1311,1311,3,Europe/Sofia,FALSE,1100602291
+Zlatitrap,Zlatitrap,Zlaten Trap|Slati Trap,42.1141,24.6375,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,1309,1309,4,Europe/Sofia,FALSE,1100940839
+Tazha,Tazha,Golyamo Selo|Golemo Selo|Golyemo Selo|Kunchevo|Tŭzha,42.6499,25.0840,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,1306,1306,4,Europe/Sofia,FALSE,1100054830
+Balgarski Izvor,Balgarski Izvor,Turski-Izvor|Bălgarski Iswor|Bŭlgarski Izvor,43.0333,24.2833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,1303,1303,3,Europe/Sofia,FALSE,1100538982
+Tsarev Brod,Tsarev Brod,Endže|Endzhe|Zarew-Brod,43.3333,27.0167,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,123.0,1301,1301,3,Europe/Sofia,FALSE,1100521931
+Tranak,Tranak,Trănak|Tekenlik|Tikenlik|Trŭnak,42.9500,27.2167,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1298,1298,3,Europe/Sofia,FALSE,1100553108
+Troyanovo,Troyanovo,Trojanowo|Kelsh-K’oy|Keleškiöj|Keleshkioy|Trojanovo|Troianovo|Kelesh-K’oy|Keleš-Köi|Keleškeui,42.5540,27.1460,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,32.0,1293,1293,3,Europe/Sofia,FALSE,1100276304
+Drenovets,Drenovets,Tscherljowo|Chorl’ovo|Chorlevo|Dryanovets|Drenowez|Drjenovec|Dryenovets,43.6930,22.9800,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,14.5,1290,1290,3,Europe/Sofia,FALSE,1100364468
+Lilyak,Lilyak,Chikendin|Chekendin|Liljak|Liliak|Cekindin|Čikendin,43.2296,26.4790,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,78.3,1289,1289,4,Europe/Sofia,FALSE,1100937381
+Razhitsa,Razhitsa,Chavdarlŭk|Rashiza|Rŭzhitsa,42.7833,27.4000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,55.2,1287,1287,3,Europe/Sofia,FALSE,1100653141
+Krushari,Krushari,Krušari|Armutlia|Armutlii|Armutli|Armuchi|Armutlu,43.8167,27.7500,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,10.1,1286,1286,3,Europe/Sofia,FALSE,1100937965
+Chernevo,Chernevo,Sratsimir|Kara Khyusein|Srazimir,43.2935,27.6028,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,39.4,1286,1286,4,Europe/Sofia,FALSE,1100968645
+Vladimirovo,Vladimirovo,Lyuta|Liouta|Liuta|Lüta|Ljuta,43.5333,23.3833,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,25.1,1283,1283,3,Europe/Sofia,FALSE,1100171646
+Morozovo,Morozovo,Gorno Tscherkowischte|Gorno Cherkovishte|Simitleri|Gorno Čerkovište|Gorni-Čerkovište,42.5749,25.3152,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1277,1277,4,Europe/Sofia,FALSE,1100888572
+Nedan,Nedan,,43.3033,25.2666,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,1276,1276,4,Europe/Sofia,FALSE,1100112621
+Shipka,Shipka,Šipka|Schipka,42.7000,25.3833,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1275,1275,3,Europe/Sofia,FALSE,1100222172
+Glava,Glava,Glawa,43.3985,24.1980,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,1273,1273,4,Europe/Sofia,FALSE,1100012893
+Vokil,Vokil,Wokil|Sungurlar,43.7748,27.0633,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1271,1271,4,Europe/Sofia,FALSE,1100213720
+Basarbovo,Basarbovo,Besarabovo|Bassarbowo,43.7742,25.9508,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,47.8,1267,1267,3,Europe/Sofia,FALSE,1100858860
+Ryahovo,Ryahovo,Rakhova|Rahovo|Rjehovo|Rjahovo|Rehovo|Rechowo|Orjechovo|Rěchevo|Ryekhovo|Rekhovo|Ryakhovo,43.9890,26.2440,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,39.6,1266,1266,3,Europe/Sofia,FALSE,1100372924
+Karabunar,Karabunar,Karabounar,42.2669,24.1669,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,49.7,1266,1266,3,Europe/Sofia,FALSE,1100981243
+Tulovo,Tulovo,Tulowo|Tuluts|Toulovo,42.5740,25.5499,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,71.9,1265,1265,4,Europe/Sofia,FALSE,1100845002
+Bazan,Bazan,Bŭzin|Băsăn|Bŭzŭn,43.7333,26.1167,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,21.9,1265,1265,4,Europe/Sofia,FALSE,1100821567
+Dzherman,Dzherman,,42.2167,23.0833,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1262,1262,3,Europe/Sofia,FALSE,1100551683
+Blaskovo,Blaskovo,Hasanbejli|Asŭlbeyli|Asŭl-Beilii|Asăl-Beylii|Blăskowo|Asŭl-Beylii|Asel-Veili|Asil Beili|Blŭskovo,43.1216,27.3290,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,48.6,1261,1261,4,Europe/Sofia,FALSE,1100283166
+Kosharitsa,Kosharitsa,Kyshladere|Koschariza|Kŭshla Dere|Kăshla-Dere,42.7500,27.7000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.6,1260,1260,3,Europe/Sofia,FALSE,1100678504
+Barzia,Barzia,Klisura|Burziy|Bŭrziya|Klissoura,43.1983,23.1611,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,32.2,1259,1259,3,Europe/Sofia,FALSE,1100734452
+Konstantinovo,Konstantinovo,Derekioy|Dere K’oy|Konstantinowo,43.1630,27.7790,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,127.9,1255,1255,3,Europe/Sofia,FALSE,1100236186
+Benkovski,Benkovski,Merzyan|Mŭrzyan|Benkowski|Gara Benkovski|Gara Benkovski|Mrezyan,42.2082,24.6499,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,1255,1255,3,Europe/Sofia,FALSE,1100452773
+Yabalchevo,Yabalchevo,Jabăltschewo|Alma-Dere|Yabŭlchevo,42.7950,27.2540,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,1253,1253,3,Europe/Sofia,FALSE,1100129884
+Galabets,Galabets,Tatarkioy|Gălăbez|Tatar K’oy|Gŭlŭbets,42.7706,27.5286,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,1252,1252,3,Europe/Sofia,FALSE,1100916636
+Dinkata,Dinkata,,42.2892,24.2282,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,24.5,1251,1251,4,Europe/Sofia,FALSE,1100855328
+Chervena Voda,Chervena Voda,Tscherwenawoda|Červena Voda,43.8056,26.0989,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,1250,1250,3,Europe/Sofia,FALSE,1100006755
+Krepcha,Krepcha,Krepča|Krapits|Kreptscha,43.4836,26.1352,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,39.3,1250,1250,4,Europe/Sofia,FALSE,1100191268
+Damyanitsa,Damyanitsa,Damjaniza|Orman Chiflik,41.5167,23.2667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.2,1248,1248,3,Europe/Sofia,FALSE,1100469869
+Kirchevo,Kirchevo,Pomashka Leshnitsa|Pomaschka Leschniza|Razvalini Leshtnitsa,42.9833,24.3667,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,9.0,1246,1246,3,Europe/Sofia,FALSE,1100083209
+Obruchishte,Obruchishte,Obrutschischte|Obrukliy|Obruchishche|Obruklu|Obruklii|Obručište,42.1433,25.9324,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,33.1,1245,1245,4,Europe/Sofia,FALSE,1100250192
+Koprivlen,Koprivlen,Köprilova,41.5167,23.8000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,1239,1239,3,Europe/Sofia,FALSE,1100343227
+Dolno Dryanovo,Dolno Dryanovo,Dolno Drenowo,41.5880,23.8978,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1239,1239,3,Europe/Sofia,FALSE,1100226571
+Iskra,Iskra,Popovo|Karadzhilar|Popowo,41.9333,25.1333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,0.0,1238,1238,3,Europe/Sofia,FALSE,1100662778
+Gornik,Gornik,,43.2833,24.0333,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,1236,1236,4,Europe/Sofia,FALSE,1100115193
+Polenitsa,Polenitsa,Poleniza,41.5667,23.3000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1234,1234,3,Europe/Sofia,FALSE,1100092058
+Mineralni Bani,Mineralni Bani,Khaskovski Mineralni Bani|Khaskovski Bani|Mineralni Bani-Haskovo,41.9333,25.3500,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,27.4,1230,1230,3,Europe/Sofia,FALSE,1100064830
+Razhevo Konare,Razhevo Konare,Rŭževo Konare|Rjevo-Konare|Rezhevo-Konare|Răshewo Konare|Riževo-Konare|Rŭzhevo Konare,42.3374,24.8060,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,33.7,1229,1229,4,Europe/Sofia,FALSE,1100343968
+Golyamo Novo,Golyamo Novo,Byuyu Eni K’oy|Enikioy|Novo Golyemo|Nowo Golemo,43.3356,26.3713,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,59.1,1227,1227,3,Europe/Sofia,FALSE,1100074573
+Veselinovo,Veselinovo,Wesselinowo|Azapkioy|Azal K’oy|Vaselinovo,42.5329,26.5448,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,305.6,1227,1227,3,Europe/Sofia,FALSE,1100091480
+Bata,Bata,Bakadzhika|Batadžik|Batadzhik|Batachik|Bakazhek,42.7333,27.5000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,1227,1227,3,Europe/Sofia,FALSE,1100640332
+Starovo,Starovo,Kodzha-Yumer,41.4181,25.3150,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,1227,1227,3,Europe/Sofia,FALSE,1100472353
+Ravno Pole,Ravno Pole,Barievo|Robertovo|Robertowo,42.6664,23.5264,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,49.0,1226,1226,4,Europe/Sofia,FALSE,1100026239
+Belomortsi,Belomortsi,Belomorzi|Mechikchiler,43.1406,26.4309,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,1224,1224,4,Europe/Sofia,FALSE,1100959763
+Ruptsi,Ruptsi,Rubzi,43.2722,24.1454,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,1223,1223,4,Europe/Sofia,FALSE,1100421215
+Radilovo,Radilovo,Radilowo,42.0833,24.3000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,27.1,1223,1223,3,Europe/Sofia,FALSE,1100468934
+Hayredin,Hayredin,Hajredin|Khairedin|Khayredin|Eredin|Chairedin,43.6000,23.6667,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,minor,19.3,1221,1221,3,Europe/Sofia,FALSE,1100049104
+Gramada,Gramada,,43.8333,22.6667,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,9.1,1219,1219,3,Europe/Sofia,FALSE,1100184806
+Ahtopol,Ahtopol,Ahtapolu|Agathopolis|Achtopol|Akhtopol|Akhtebol|Achtepol,42.1000,27.9500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,42.5,1219,1219,3,Europe/Sofia,FALSE,1100557035
+Novachene,Novachene,Novatchéné|Novachane|Nowatschene|Novačene,42.9807,23.7330,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,62.5,1219,1219,4,Europe/Sofia,FALSE,1100893565
+Zetyovo,Zetyovo,Zetjovo|Setiowo|Inishte|Zetievo|Enishte|Zetaovo|Zet’ovo,42.1469,25.3661,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,39.5,1218,1218,4,Europe/Sofia,FALSE,1100905519
+Rudartsi,Rudartsi,,42.5809,23.1677,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,0.2,1218,1218,3,Europe/Sofia,FALSE,1100235781
+Eleshnitsa,Eleshnitsa,Eleschniza|Eleš|Jelešnica|Elashnitsa,41.8667,23.5833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,18.4,1217,1217,3,Europe/Sofia,FALSE,1100581564
+Ovcha Mogila,Ovcha Mogila,Owtscha-Mogila|Ovča-Mogila|Ovche-Mogila,43.4352,25.2568,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,57.6,1214,1214,4,Europe/Sofia,FALSE,1100815720
+Ostrov,Ostrov,Ostrovo|Ostrow,43.6755,24.1300,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,31.1,1214,1214,4,Europe/Sofia,FALSE,1100622651
+Dolni Bogrov,Dolni Bogrov,Dolni Bogrow,42.7000,23.5000,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,1213,1213,3,Europe/Sofia,FALSE,1100789773
+Aldomirovtsi,Aldomirovtsi,Aldomiro|Aldomirovci|Aldomirowzi,42.8500,22.9833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,45.0,1208,1208,3,Europe/Sofia,FALSE,1100584212
+Tsar Samuil,Tsar Samuil,Kjutjuklii|Zar Samuil|Kyutyuklii|Kyutyukli,43.9667,26.4000,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,29.3,1203,1203,3,Europe/Sofia,FALSE,1100106609
+Karapelit,Karapelit,Stejarul,43.6500,27.5667,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,1201,1201,3,Europe/Sofia,FALSE,1100711937
+Pet Mogili,Pet Mogili,Besh-Tepe|Beš-Tepé,43.5614,27.3468,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,21.8,1200,1200,4,Europe/Sofia,FALSE,1100166414
+Byaga,Byaga,Byega|Bjega|Bega,42.0667,24.3790,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,37.5,1200,1200,4,Europe/Sofia,FALSE,1100653165
+Malchika,Malchika,Lzhene|Lŭzhene|Lŭdzhene|Lăshene,43.4148,25.1086,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,38.5,1200,1200,4,Europe/Sofia,FALSE,1100937023
+Novo Selo,Novo Selo,Enikioy|Nowosselo,43.8022,26.1932,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,1199,1199,3,Europe/Sofia,FALSE,1100818155
+Zlatar,Zlatar,Slatar,43.1077,26.9588,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,23.2,1194,1194,4,Europe/Sofia,FALSE,1100662694
+Orehovitsa,Orehovitsa,Oryekhovitsa|Orjechovica|Orjahovica|Oréhovitza|Oryakhovitsa|Orechowiza|Orehovica|Orekhovitsa,43.5871,24.3843,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,1192,1192,4,Europe/Sofia,FALSE,1100925211
+Belogradets,Belogradets,Tjurk Arnautlar|Tjurk Arnaudar|Tiurk Arnautlar|Türk Arnautlar|Türk-Arnaut|Byelogradets|Bělogradec|Tyurk-Arnautlar|Belogradez,43.3510,27.3300,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.3,1192,1192,3,Europe/Sofia,FALSE,1100618752
+Timarevo,Timarevo,Timarovo|Timarowo|Kayadzhik Timar,43.3978,26.8868,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,19.5,1190,1190,4,Europe/Sofia,FALSE,1100967101
+Vlado Trichkov,Vlado Trichkov,,42.8667,23.3667,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,0.1,1188,1188,3,Europe/Sofia,FALSE,1100121074
+Staliyska Mahala,Staliyska Mahala,Staliyski Makhala|Staliska-Mahala|Staliska-Makhala|Staliyska Makhala|Staliiska-Machala|Vlashka Makhala|Wlaschka-Machala,43.7403,23.1683,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,41.7,1187,1187,3,Europe/Sofia,FALSE,1100571159
+Karavelovo,Karavelovo,Gorno Kiuselere|Karawelowo|Këseleri|Gorno-Kyuselere|Karayelovo,42.6262,24.6555,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1187,1187,4,Europe/Sofia,FALSE,1100264382
+Popovitsa,Popovitsa,Papazlii|Papasli|Popowiza|Popovica|Papazli|Papazliy|Papazlü|Papaklü,42.1364,25.0546,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,90.9,1185,1185,4,Europe/Sofia,FALSE,1100370546
+Sandrovo,Sandrovo,Taban|Sandrowo,43.9327,26.1149,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,1183,1183,3,Europe/Sofia,FALSE,1100380996
+Pristoe,Pristoe,Yusuf Khanlar,43.6506,27.0740,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.3,1182,1182,4,Europe/Sofia,FALSE,1100089933
+Sarnevo,Sarnevo,Ssarnewo|Karadzhalii|Sernevo|Karadzhaliy|Sărnevo|Srnevo|Kara Bunar|Sŭrnevo,42.3500,25.8333,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,36.8,1178,1178,4,Europe/Sofia,FALSE,1100271593
+Chakalarovo,Chakalarovo,Chaka Yarovo|Chakal K’oy|Chekalarovo|Tschakalarowo,41.2833,25.3000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,1175,1175,3,Europe/Sofia,FALSE,1100446643
+Zmeitsa,Zmeitsa,Alandzhievo|Smeiza,41.6333,24.2500,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,33.9,1174,1174,3,Europe/Sofia,FALSE,1100882944
+Chavdar,Chavdar,Kolanlari|Kolanlare|Radoslawowo|Radoslavo|Radoslavovo,42.6600,24.0558,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,21.3,1172,1172,3,Europe/Sofia,FALSE,1100694948
+Gabrovnitsa,Gabrovnitsa,Gabrowniza|Gabrovnitza|Gabrovnica,43.5330,23.2670,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,68.8,1170,1170,3,Europe/Sofia,FALSE,1100381761
+Sindel,Sindel,Gorno Sindele|Sindyel|Sendel,43.1167,27.6167,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,23.3,1170,1170,3,Europe/Sofia,FALSE,1100051058
+Yabalkovo,Yabalkovo,Yasilikova Istasyon|Yabălkovo|Iabalkovo|Jablkovo|Jabalkowo|Almalii|Yabelkovo|Javulkovo|Yablkovo|Alnali|Yabŭlkovo,42.0667,25.4500,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,1167,1167,3,Europe/Sofia,FALSE,1100370851
+Grashevo,Grashevo,Grashovski|Graschowo,41.9594,23.9235,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,45.3,1161,1161,4,Europe/Sofia,FALSE,1100263154
+Ruets,Ruets,Ruez|Ruet|Yuryukler|Razbojna|Yurukler,43.2149,26.6245,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,78.3,1161,1161,4,Europe/Sofia,FALSE,1100695795
+Marikostinovo,Marikostinovo,Mari Kostenowo|Marikostenovo,41.4333,23.3500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1158,1158,3,Europe/Sofia,FALSE,1100320524
+Osetenovo,Osetenovo,Ossetenowo|Doymushlari,42.6020,25.0320,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,39.9,1158,1158,4,Europe/Sofia,FALSE,1100621435
+Pirgovo,Pirgovo,Pirgowo|Pirgos|Pyrgos,43.7339,25.8583,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,22.0,1158,1158,4,Europe/Sofia,FALSE,1100976920
+Vaglen,Vaglen,Kyumyurlyuk|Wăglen|Kyumyurluk|Văglen|Vŭglen,43.3000,27.8500,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.5,1155,1155,3,Europe/Sofia,FALSE,1100764362
+Razhena,Razhena,Razhina|Răshina|Khamurzus|Rŭzhina|Rŭzhena,42.5341,25.4986,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1155,1155,4,Europe/Sofia,FALSE,1100735565
+Vardun,Vardun,Vardum|Wardun|Vŭrdun|Verdum,43.1339,26.5339,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,1152,1152,3,Europe/Sofia,FALSE,1100058880
+Sofronievo,Sofronievo,Sofroniewo|Srbenica|Sărbenitsa|Sŭrbenitsa|Sŭrbenetsa|Serbenica,43.6365,23.7867,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,26.0,1151,1151,4,Europe/Sofia,FALSE,1100665187
+Pasarel,Pasarel,Dolni Pasarel|Dolni-Passarel,42.5333,23.5000,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,22.0,1149,1149,4,Europe/Sofia,FALSE,1100874191
+Gorni Bogrov,Gorni Bogrov,Gorni-Bogrow,42.7167,23.5333,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,1147,1147,3,Europe/Sofia,FALSE,1100722044
+Boyadzhik,Boyadzhik,Bojadžik|Bojadshik|Boyadjik|Boyadžik,42.3944,26.3022,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,1147,1147,3,Europe/Sofia,FALSE,1100917615
+Marchaevo,Marchaevo,Mărtschaewo|Marchaevo|Mŭrchaevo,42.6000,23.1833,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,313.3,1144,1144,3,Europe/Sofia,FALSE,1100204114
+Yurukovo,Yurukovo,Jurukowa-Makhala,41.9667,23.6167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,1144,1144,3,Europe/Sofia,FALSE,1100490820
+Brestnitsa,Brestnitsa,Malka Brjastnica|Malka Brestniza|Malka Brestnitza|Malka Brestnitsa|Malka-Brestnica|Malka Bresnitsa|Malka-Bryestnitsa,43.0667,24.1833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,27.1,1142,1142,3,Europe/Sofia,FALSE,1100329178
+Svoboda,Svoboda,Swoboda|Svobot|Ali Pashinovo|Ali Pasha,42.2269,25.4218,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,39.5,1141,1141,4,Europe/Sofia,FALSE,1100393778
+Svetlen,Svetlen,Swetlen|Svyetlen|Ayazlar|Ajazlar|Aïazlar,43.3078,26.2731,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,31.9,1137,1137,4,Europe/Sofia,FALSE,1100000010
+Yana,Yana,Jana|Iana,42.7265,23.5555,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,86.9,1136,1136,4,Europe/Sofia,FALSE,1100539901
+Vladimirovtsi,Vladimirovtsi,Kebib|Khebib|Sarŭkhabib|Khabib|Sariebib|Sare Hebib|Wladimirowzi,43.6262,26.8648,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,24.9,1133,1133,4,Europe/Sofia,FALSE,1100664367
+Zidarovo,Zidarovo,Djulgerlii|Dulgeri|Dyulgere|Dyulgerlii|Dyulgerli|Diulgerli|Dyulgerliy,42.3333,27.4000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,24.4,1133,1133,3,Europe/Sofia,FALSE,1100075638
+Gradnitsa,Gradnitsa,Gradniza|Gradnitza|Gradnica,42.9580,24.9580,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,1133,1133,3,Europe/Sofia,FALSE,1100225377
+Dzhurovo,Dzhurovo,Djurovo-Mahalamiškovci|Dshurowo,42.9331,24.0500,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,29.2,1133,1133,3,Europe/Sofia,FALSE,1100780662
+Zaychar,Zaychar,Zaycher|Gŭodzhenler|Pedlzhenler|Saitschar|Gyudzhenler|Gyudzhenlar,42.7833,27.1667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.7,1132,1132,3,Europe/Sofia,FALSE,1100722125
+Kiten,Kiten,Bordovasca|Urdoviza|Chiflik Urdoviza|Ourdovisa|Avordovisa|Kiten Lozenets|Uerdiso,42.2347,27.7742,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,16.3,1131,1131,4,Europe/Sofia,FALSE,1100569042
+Banitsa,Banitsa,Baniza|Banica,43.3333,23.6833,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,1131,1131,3,Europe/Sofia,FALSE,1100784909
+Voyvodovo,Voyvodovo,Wojwodowo,41.8569,25.5458,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,119.3,1130,1130,3,Europe/Sofia,FALSE,1100303285
+Dabovo,Dabovo,Ykanlii|Yaykanlii|Labovo|Dăbovo|Debovo|Dăbowo|Dăbovv|Dŭbovo,42.6000,25.6500,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,26.5,1128,1128,4,Europe/Sofia,FALSE,1100737482
+Malevo,Malevo,Malewo|Teke-K’oy,41.8583,25.6306,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,119.3,1127,1127,3,Europe/Sofia,FALSE,1100695024
+Opalchensko,Opalchensko,Khadzhi Mekhmed Olar|Opelchensko|Opăltschensko|Opŭlchensko,41.6000,25.3667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,1126,1126,3,Europe/Sofia,FALSE,1100754405
+Semerdzhievo,Semerdzhievo,Semerdshiewo|Samardzhievo,43.7701,26.1703,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,1123,1123,3,Europe/Sofia,FALSE,1100276495
+Vasilovtsi,Vasilovtsi,Vlaška Mahalli|Wassilowzi|Vasilovci|Alexandrowo|Aleksandrovo|Bayraktar Makhala,43.7167,23.1333,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,31.4,1121,1121,3,Europe/Sofia,FALSE,1100209966
+Kliment,Kliment,Ovchilari|Sveti Kliment|Ovchelare|Sweti Kliment,42.5971,24.6868,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1120,1120,4,Europe/Sofia,FALSE,1100253189
+Resilovo,Resilovo,Ryesilovo|Ressilowo,42.2717,23.1906,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,35.6,1120,1120,4,Europe/Sofia,FALSE,1100529419
+Zvezditsa,Zvezditsa,Zvăzditsa|K’oklyudzha|Kokardzha|Kokludzha|Kyuklyudzha|Swesdiza,43.1560,27.8410,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,1510.7,1119,1119,3,Europe/Sofia,FALSE,1100748385
+Komuniga,Komuniga,Kush Aliler|Kushalar|Kuominga|Kumoniga,41.7980,25.2239,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,41.9,1117,1117,3,Europe/Sofia,FALSE,1100189185
+Dalbok Izvor,Dalbok Izvor,Dlbok-Izvor|Koz Bunar|Delbok-Izvor|Dălbok-Iswor|Dălbok-Izvor|Dŭlbok Izvor,42.0280,25.1114,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,46.7,1116,1116,4,Europe/Sofia,FALSE,1100557006
+Kozlovets,Kozlovets,Turska Sliva|Kozlovec|Kozlevets|Koslowez|Tursko Slivo,43.5087,25.3627,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,18.3,1114,1114,4,Europe/Sofia,FALSE,1100914613
+Konstantin,Konstantin,Akhmedlii,42.9479,26.0737,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,12.9,1114,1114,4,Europe/Sofia,FALSE,1100360055
+Marinka,Marinka,Karag’ozler|Chiflik Kara Gyuzler,42.4015,27.4821,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,430.4,1112,1112,3,Europe/Sofia,FALSE,1100595867
+Izgrev,Izgrev,Usta-Genko|Isgrew|Aidordu|Ay-Dogdu|Aj-Dogdu|Izgryev,43.5871,27.0019,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,29.6,1109,1109,4,Europe/Sofia,FALSE,1100614190
+Govedartsi,Govedartsi,Golyamo Selo|Gowedarzi|Govedar-Makhla|Govedarci|Govedarska Makhala,42.2628,23.4781,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,31.5,1106,1106,3,Europe/Sofia,FALSE,1100919489
+Balgarevo,Balgarevo,Gyaursuyutchyuk|Ghiaur Suiuciuc|Bugarevo|Gyavur Suyutchuk|Bŭlgarevo,43.4028,28.4119,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,25.8,1106,1106,3,Europe/Sofia,FALSE,1100666241
+Vedrare,Vedrare,Vidrare|Wedrare|Kufalare,42.5744,24.8786,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,1097,1097,4,Europe/Sofia,FALSE,1100910331
+Katina,Katina,Kătina|Kŭtina,42.8433,23.3194,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,53.2,1093,1093,4,Europe/Sofia,FALSE,1100871693
+Zavoy,Zavoy,Kulaklŭ|Kulaklii|Sawoi,42.5623,26.5272,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,1093,1093,4,Europe/Sofia,FALSE,1100023626
+Pokrayna,Pokrayna,Tsar Borisovo|Pokrayne|Pokraina|Kirim Beg|Zar Borissowo,44.0315,22.9074,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,,100.7,1093,1093,4,Europe/Sofia,FALSE,1100684113
+Trastenik,Trastenik,Trŭstenik|Tristenik|Trăstenik|Trstenik|Trestenik,43.6630,25.8580,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,22.0,1092,1092,3,Europe/Sofia,FALSE,1100005517
+Zlokuchene,Zlokuchene,Zlakuchene|Slokutschene,42.2168,24.1658,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,1089,1089,4,Europe/Sofia,FALSE,1100084880
+Gyulyovtsa,Gyulyovtsa,Rapitsa|Papiza|Kŭzŭllŭk|Kazanlŭ|Kazalŭk|Gyulyuvtsa|Gyulyuvitsa|Keleler|Giuliowza|Kedeler|K’oller|Gyuleler|Gyul’ovtsa|Gyul’ovitsa,42.7667,27.6000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,53.6,1086,1086,3,Europe/Sofia,FALSE,1100053716
+Gavrailovo,Gavrailovo,Gavrilovo|Gawrailowo|Dermen-Dere,42.6422,26.1803,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1084,1084,4,Europe/Sofia,FALSE,1100225701
+Zamfirovo,Zamfirovo,Gušanci|Guschanzi|Gushantsi,43.2958,23.2422,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,32.2,1084,1084,3,Europe/Sofia,FALSE,1100991758
+Gluhar,Gluhar,Sarlar|Gluchar|Glukhar,41.6000,25.4000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,1084,1084,3,Europe/Sofia,FALSE,1100322365
+Gorno Kraishte,Gorno Kraishte,Boyka|Khakhn’ovo,41.8994,23.5922,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,25.1,1082,1082,3,Europe/Sofia,FALSE,1100675396
+Zlati Voyvoda,Zlati Voyvoda,Džinovo|Dzhinovo|Djinovo|Dshinowo,42.5868,26.1931,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1082,1082,4,Europe/Sofia,FALSE,1100824674
+Bisertsi,Bisertsi,Nosredin|Nastradŭn|Nasradin|Biserci|Brenitsa|Bisserzi|Nastradăn,43.8853,26.5053,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,32.5,1081,1081,4,Europe/Sofia,FALSE,1100268454
+Boboshevo,Boboshevo,Boboševo|Boboschewo|Bobochevo,42.1500,23.0167,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,47.1,1081,1081,3,Europe/Sofia,FALSE,1100431584
+Bolyarovo,Bolyarovo,Pasha-Kyoy|Pasha-K’oy|Pašakiöj|Boljarowo|Pachakioi|Boljarovo|Pashakioy,42.1500,26.8167,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,5.3,1078,1078,3,Europe/Sofia,FALSE,1100557681
+Hadzhievo,Hadzhievo,Adzhievo|Chadshiewo|Hadžievo|Khadzheivo|Khadzhievo,42.1424,24.4555,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,259.9,1071,1071,3,Europe/Sofia,FALSE,1100847102
+Vaklinovo,Vaklinovo,Marulevo|Marulewo,41.6000,24.0667,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,78.9,1067,1067,3,Europe/Sofia,FALSE,1100689827
+Dimovo,Dimovo,Vlaykovo|Knyaz Aleksandrovo|Aleksandrovo|Knjas Alexandrowo|Osmanie|Bŭrzitsa,43.7500,22.7333,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,13.5,1067,1067,3,Europe/Sofia,FALSE,1100284122
+Pisarevo,Pisarevo,Pissarewo|Pisarovo,43.1558,25.7902,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,95.8,1066,1066,3,Europe/Sofia,FALSE,1100561157
+Karadzhalovo,Karadzhalovo,Karadzha-Khamiis|Karadžalovo|Karajalovo|Karadzhelar|Karadshalowo|Karadzhovo|Karadjovo,42.0944,25.3168,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,46.7,1065,1065,4,Europe/Sofia,FALSE,1100667495
+Varbitsa,Varbitsa,Vlashitsa|Wlaschiza|Vŭrbitsa,43.3062,25.7666,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,133.8,1064,1064,3,Europe/Sofia,FALSE,1100826122
+Kladnitsa,Kladnitsa,Kladniza,42.5680,23.1796,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,82.8,1062,1062,3,Europe/Sofia,FALSE,1100079585
+Gradets,Gradets,Gŭrtsi|Gradez|Gărtsya|Grči|Gradec,44.0292,22.7540,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,,100.7,1060,1060,4,Europe/Sofia,FALSE,1100566800
+Altimir,Altimir,Altemir|Altimirtsi,43.5330,23.7998,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,1060,1060,4,Europe/Sofia,FALSE,1100241766
+Byala,Byala,Byela|Bjula|Biela|Bjela|Bela,42.7297,26.1885,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,1058,1058,4,Europe/Sofia,FALSE,1100752035
+Dolen,Dolen,,41.4240,25.1340,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,56.8,1058,1058,3,Europe/Sofia,FALSE,1100867318
+Drumevo,Drumevo,Drumewo|Aptarazak,43.1405,27.1581,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,40.0,1058,1058,4,Europe/Sofia,FALSE,1100295746
+Katuntsi,Katuntsi,Katunzi,41.4500,23.4333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.2,1057,1057,3,Europe/Sofia,FALSE,1100049059
+Fotinovo,Fotinovo,Khatibolar|Habibolar|Fotinowo,41.3731,25.3417,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,1056,1056,3,Europe/Sofia,FALSE,1100233405
+Musachevo,Musachevo,Maslari,42.6824,23.5700,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,58.4,1056,1056,4,Europe/Sofia,FALSE,1100726294
+Kanchevo,Kanchevo,Gorno Gradishte|Gorno Gradischte|Ashiklii|Kunchovo|Gorno Gradište|Ishikliy|Kŭnchevo,42.5430,25.4529,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1054,1054,4,Europe/Sofia,FALSE,1100265403
+Ekzarh-Antimovo,Ekzarh-Antimovo,Ekzarch Antimovo|Ačlari|Achlari|Ačlart|Achlare|Exarch-Antimowo|Ačlare|Ekzarkh-Antimovo,42.5333,26.9833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,29.7,1054,1054,3,Europe/Sofia,FALSE,1100826070
+Tarnene,Tarnene,Tărnene|Tŭrnene,43.3855,24.5080,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,1054,1054,4,Europe/Sofia,FALSE,1100353905
+Karadzhovo,Karadzhovo,Karadshowo,42.0969,24.9045,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,73.5,1052,1052,4,Europe/Sofia,FALSE,1100404903
+Patalenitsa,Patalenitsa,Patelenica|Pataleniza|Patalenitza|Patalenica|Patelenitsa,42.1169,24.2000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,1047,1047,3,Europe/Sofia,FALSE,1100092055
+Gorski Izvor,Gorski Izvor,Gorski-Iswor|Kuru-Cheshme,42.0210,25.4220,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,1046,1046,3,Europe/Sofia,FALSE,1100073773
+Rusokastro,Rusokastro,Russokastro|Roussokastro|Rovso Kastro|Russukesse,42.4667,27.1833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,32.0,1045,1045,3,Europe/Sofia,FALSE,1100187854
+Petko Slaveykov,Petko Slaveykov,Petko Slayeykov|Petko Slaweikow|Akandzhilari|Petko Slaveykovo,43.0500,24.9667,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,1045,1045,3,Europe/Sofia,FALSE,1100823066
+Stefanovo,Stefanovo,Aj-Orman|Stefanowo|Ay Orman,43.4944,27.8569,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,1044,1044,3,Europe/Sofia,FALSE,1100724756
+Dobri Dyal,Dobri Dyal,Dobri-Dyel|Dobridel,43.1112,25.8330,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.9,1043,1043,3,Europe/Sofia,FALSE,1100323353
+Borovo,Borovo,Tscham Tschiflik|Cham Chiflik|Borowo,41.6000,23.7333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,100.8,1043,1043,3,Europe/Sofia,FALSE,1100721169
+Dobromir,Dobromir,Kŭsŭklar Kayryak Makhle|Kayrak-Makhlesk|Kayrak Makhlesi,42.9500,27.3000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1042,1042,3,Europe/Sofia,FALSE,1100725454
+Snyagovo,Snyagovo,Snyegovo|Snegowo|Snegovo|Resiler|Resiller,42.8470,27.2780,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1039,1039,3,Europe/Sofia,FALSE,1100200950
+Golyamo Gradishte,Golyamo Gradishte,Yurendzhek|Golemo-Gradischte|Yurendzhik,43.4556,26.0570,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,35.4,1039,1039,4,Europe/Sofia,FALSE,1100483347
+Zagoriche,Zagoriche,Zagoricho|Choban Nasuf|Sagoritshe,43.7002,27.0800,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.3,1038,1038,4,Europe/Sofia,FALSE,1100040048
+Rozovo,Rozovo,Orozovo|Rosowo,42.5657,25.4160,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,1038,1038,4,Europe/Sofia,FALSE,1100057180
+Voysil,Voysil,Woissil|Karnofolya|Karnafolya,42.2167,24.6333,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,57.0,1036,1036,3,Europe/Sofia,FALSE,1100520492
+Krastava,Krastava,Krŭstava,41.9599,23.8208,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,6.5,1034,1034,3,Europe/Sofia,FALSE,1100836471
+Tsarevets,Tsarevets,Tsarevits|Zarewez,43.5863,25.3644,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,57.6,1029,1029,4,Europe/Sofia,FALSE,1100750663
+Bradvari,Bradvari,Baltazhi Eni K’oy|Baltadshi-Enikioi|Bradvartsi|Baltagiul-Nou,43.9267,27.1248,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,86.4,1026,1026,4,Europe/Sofia,FALSE,1100781614
+Cherven Breg,Cherven Breg,Tscherweni Breg|Cherveni Bryeg|Červeni Brěg|Červen Breg|Tcherven Breg|Cherven-Bryeg|Cherveni Breg|Červen-Brjeg|Cherveni Bryag,42.3000,23.1667,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,120.2,1025,1025,3,Europe/Sofia,FALSE,1100344704
+Roza,Roza,Gyulyumyanovo|Gyulyumanovo|Gjulowo|Gjuljumjanovo|Giuliumjanovo|Gyulovo,42.3905,26.4107,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,1022,1022,4,Europe/Sofia,FALSE,1100795238
+Vresovo,Vresovo,Wressowo,42.8167,27.2000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,1022,1022,3,Europe/Sofia,FALSE,1100418737
+Partizani,Partizani,,43.0092,27.2510,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,36.1,1022,1022,4,Europe/Sofia,FALSE,1100864492
+Oborishte,Oborishte,Metschka|Mechka,42.5167,24.0667,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,14.8,1022,1022,3,Europe/Sofia,FALSE,1100866776
+Malko Vranovo,Malko Vranovo,Malko Wranowo,43.9307,26.3279,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,39.6,1021,1021,4,Europe/Sofia,FALSE,1100247353
+Gabare,Gabare,,43.3105,23.9152,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,29.6,1021,1021,4,Europe/Sofia,FALSE,1100957461
+Kadievo,Kadievo,Kadiewo,42.1314,24.6072,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,51.0,1021,1021,3,Europe/Sofia,FALSE,1100259745
+Rasovo,Rasovo,Rassowo|Pasovo,43.7000,23.2333,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,14.9,1020,1020,3,Europe/Sofia,FALSE,1100110222
+Podgoritsa,Podgoritsa,Akmekhmedkioy|Ak Mekhmedi|Podgoriza,43.3089,26.4712,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,78.3,1019,1019,4,Europe/Sofia,FALSE,1100682603
+Vinitsa,Vinitsa,Winiza|Badŭrliy|Badarlii,42.1353,25.1363,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,73.5,1018,1018,3,Europe/Sofia,FALSE,1100273467
+Novachene,Novachene,Novačene|Nowatschene|Novatchéné|Novaceni|Nova Novachene|Novachane,43.5499,24.9363,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,21.3,1016,1016,4,Europe/Sofia,FALSE,1100702600
+Izvorsko,Izvorsko,Dernent|Isworsko|Dervent,43.3000,27.7667,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.5,1016,1016,3,Europe/Sofia,FALSE,1100426782
+Elhovets,Elhovets,Elchowez|Yanuz Dere|Elkhovets,41.4443,24.7990,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,50.8,1014,1014,4,Europe/Sofia,FALSE,1100649336
+Mortagonovo,Mortagonovo,Mortagonowo|Akhmak|Akhmach|Murtaganovo,43.5210,26.6460,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,1013,1013,3,Europe/Sofia,FALSE,1100207958
+Profesor Ishirkovo,Profesor Ishirkovo,Cocina|Profsor Ishirkovo|Kochina|Profesor Jširkowo|Ishirkovo,43.9954,27.1627,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,86.4,1013,1013,4,Europe/Sofia,FALSE,1100501773
+Oven,Oven,Kara Koch|Karakatsch|Karacoci|Oveč|Ovech|Caracoci,43.8024,27.0711,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,1008,1008,4,Europe/Sofia,FALSE,1100225948
+Gara Lakatnik,Gara Lakatnik,,43.0833,23.3833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,22.7,1007,1007,3,Europe/Sofia,FALSE,1100143528
+Stefan Karadzha,Stefan Karadzha,Amatlar|Akhmatlar|Ahmatlar,43.9039,26.7285,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,20.9,1005,1005,4,Europe/Sofia,FALSE,1100042897
+Dobroslavtsi,Dobroslavtsi,Dobroslawzi,42.8214,23.2833,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,52.8,1004,1004,3,Europe/Sofia,FALSE,1100645328
+Bozhuritsa,Bozhuritsa,Kacumunica|Katsamunitsa|Bužarica|Kutsamunitsa|Boshuriza,43.5102,24.5968,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,1001,1001,4,Europe/Sofia,FALSE,1100935173
+Kalugerovo,Kalugerovo,Srebrino|Kalugerowo|Gelvere|Kalougherovo,42.4000,24.1167,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,24.5,998,998,3,Europe/Sofia,FALSE,1100184508
+Zhilentsi,Zhilentsi,Shilenzi|Žilinci|Zhilintsi|Žilenci,42.2667,22.6500,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,52.1,997,997,3,Europe/Sofia,FALSE,1100289073
+Voynyagovo,Voynyagovo,Woinjagowo|Baradakioy,42.5667,24.7500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,29.1,996,996,3,Europe/Sofia,FALSE,1100600031
+Brusartsi,Brusartsi,Brussarz,43.6667,23.0667,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,minor,19.7,992,992,3,Europe/Sofia,FALSE,1100546391
+Belasitsa,Belasitsa,Eleshnitsa|Eleschniza,41.3667,23.1333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,38.1,992,992,3,Europe/Sofia,FALSE,1100141317
+Cherniche,Cherniche,Makhala Tschernitsche,41.8500,23.1333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,25.2,992,992,3,Europe/Sofia,FALSE,1100741191
+Kriva Bara,Kriva Bara,Kriwa Bara,43.6833,23.0833,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,0.0,990,990,3,Europe/Sofia,FALSE,1100366316
+Novo Delchevo,Novo Delchevo,Gara Delchevo|Deltschewo,41.5000,23.2833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,3.7,989,989,3,Europe/Sofia,FALSE,1100068089
+Manolich,Manolich,Manolitsch,42.8667,26.8000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,15.7,985,985,3,Europe/Sofia,FALSE,1100745146
+Aprilovo,Aprilovo,Aprilowo|Segŭrlievo,42.6689,23.6842,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,19.8,984,984,3,Europe/Sofia,FALSE,1100246434
+Gorno Dryanovo,Gorno Dryanovo,Gorno-Drenowo,41.6500,23.8333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,982,982,3,Europe/Sofia,FALSE,1100784820
+Kovachitsa,Kovachitsa,Kowatschiza|Kovačica|Gorno Linevo,43.8006,23.3625,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,78.7,982,982,3,Europe/Sofia,FALSE,1100917383
+Septemvriytsi,Septemvriytsi,Gorna-Gnoiniza|Gorna Gnoynitsa|Gorna-Gnojnica|Gorna Gnoinitsa,43.6125,23.5117,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,20.1,981,981,3,Europe/Sofia,FALSE,1100457899
+Pobeda,Pobeda,Ghelengic|Gelindzhik|Gelendzhik|Dimitŭr-Ganevo|Ghelendic,43.5930,27.8980,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,978,978,3,Europe/Sofia,FALSE,1100450695
+Glozhene,Glozhene,Gložane|Glojene|Glozhane|Gloshene|Gložene,42.9833,24.1833,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,977,977,3,Europe/Sofia,FALSE,1100411984
+Lavino,Lavino,Lăwino|Arslan|Lŭvino,43.6931,26.8587,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,24.9,977,977,4,Europe/Sofia,FALSE,1100998952
+Stoyan Mihaylovski,Stoyan Mihaylovski,Stojan Michailowski|Kaykă|Kajkiöj|Kaykŭ|Kaiki|Stoyan Mikhaylovski,43.4116,27.1902,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,49.3,974,974,4,Europe/Sofia,FALSE,1100774169
+Bukovo,Bukovo,Bukowo,41.7167,23.7167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,58.6,973,973,3,Europe/Sofia,FALSE,1100650681
+Venelin,Venelin,Wenelin|Sareder|Sardyr|Sarădŭr|Sarŭdŭr,43.0491,27.6681,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,38.9,971,971,4,Europe/Sofia,FALSE,1100766006
+Bezmer,Bezmer,Vezmyer|Hamzoren|Hamozoren|Khamzoren|Besmer|Khamrozen|Bezner|Bezmyer,42.4833,26.4000,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,970,970,3,Europe/Sofia,FALSE,1100009617
+Vazovo,Vazovo,Wasowo|Eski Balabanlar,43.7667,26.8167,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,52.4,967,967,3,Europe/Sofia,FALSE,1100042990
+Chernogorovo,Chernogorovo,Tschernogorowo|Chervogorovo|Karaorman,42.0292,25.6514,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,966,966,3,Europe/Sofia,FALSE,1100571283
+Sekulovo,Sekulovo,Uzulchioi|Usul K’oy|Šekulowo,43.6993,27.1615,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,966,966,4,Europe/Sofia,FALSE,1100158031
+Tsrancha,Tsrancha,Tsrencha|Zrăntscha|Tsrŭncha,42.1116,24.2266,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,965,965,4,Europe/Sofia,FALSE,1100215905
+Raduil,Raduil,Radoil,42.2859,23.6886,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,31.5,965,965,4,Europe/Sofia,FALSE,1100936194
+Momchilovtsi,Momchilovtsi,Gorno-Dere-K’oy|Dere-Kjoj|Momtschilowzi,41.6589,24.7744,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,23.8,963,963,3,Europe/Sofia,FALSE,1100599658
+Balgarsko Slivovo,Balgarsko Slivovo,Bălgarsko Sliwowo|Bŭlgarsko Slivovo,43.5451,25.2998,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,24.0,963,963,4,Europe/Sofia,FALSE,1100717165
+Saedinenie,Saedinenie,Sŭedinenie,42.8750,27.0264,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,15.7,960,960,3,Europe/Sofia,FALSE,1100703111
+Enitsa,Enitsa,Eniza|Enica,43.3822,24.0655,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,28.7,959,959,4,Europe/Sofia,FALSE,1100875688
+Tihomir,Tihomir,Tischomir|Terzi Yuren|Tikhomir,41.3000,25.5000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,959,959,3,Europe/Sofia,FALSE,1100819289
+Karnare,Karnare,Kernare|Kirnare|Kŭrnare,42.7012,24.6319,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,955,955,4,Europe/Sofia,FALSE,1100114114
+Zafirovo,Zafirovo,Sarsŭnlar|Sarsânlar|General Zafirovo,43.9973,26.8216,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,20.9,954,954,4,Europe/Sofia,FALSE,1100510840
+Shumata,Shumata,Schumata|Shuma,42.9220,25.0730,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,953,953,3,Europe/Sofia,FALSE,1100806656
+Dobrich,Dobrich,Dobritsch|Dobrič,42.0170,25.5170,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,952,952,3,Europe/Sofia,FALSE,1100409301
+Madara,Madara,,43.2833,27.1000,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,24.8,951,951,3,Europe/Sofia,FALSE,1100740165
+Sestrimo,Sestrimo,,42.2140,23.9255,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,20.3,948,948,4,Europe/Sofia,FALSE,1100987695
+Bata,Bata,Batava|Böta|Bita|Beta|Bŭtava|Bŭta,42.4500,24.1833,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,19.8,946,946,3,Europe/Sofia,FALSE,1100297023
+Odarne,Odarne,Odrne|Oderne|Odărne|Odŭrne,43.3333,24.9333,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.7,943,943,4,Europe/Sofia,FALSE,1100532369
+Rupite,Rupite,Muletarovo|Muetarovo|Schirbanowo|Sirbanovo,41.4417,23.2411,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,942,942,3,Europe/Sofia,FALSE,1100316841
+Priseltsi,Priseltsi,Priselci|Memiš Safular|Prisselzi|Memish-Sofular|Preseltsi,43.1083,27.8289,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,23.3,941,941,3,Europe/Sofia,FALSE,1100519247
+Baniska,Baniska,Bansko|Banisko|Banica|Bannica,43.4578,25.9032,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,26.4,940,940,4,Europe/Sofia,FALSE,1100922881
+Tarnicheni,Tarnicheni,Ternitscheni|Ternicheni|Tŭrnichene|Tŭrnicheni,42.6183,25.1144,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,939,939,4,Europe/Sofia,FALSE,1100311981
+Ovchartsi,Ovchartsi,Owtscharzi,42.2756,23.2246,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,35.6,938,938,4,Europe/Sofia,FALSE,1100240615
+Zaraevo,Zaraevo,Zarevo|Karakhasankioi-Zarevo|Kara-Khasan|Karahasankj|Saraewo,43.4382,26.2608,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,31.9,936,936,4,Europe/Sofia,FALSE,1100565598
+Doyrentsi,Doyrentsi,Doirenzi|Doirèntzi|Doirentsi|Doirenci|Dojrenci,43.2333,24.8333,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,44.4,934,934,3,Europe/Sofia,FALSE,1100790529
+Bozhurovo,Bozhurovo,Nastradin|Aleksandr Malinov|Dzhami Nasradin|Nastradŭn|Malinovo,43.7040,27.7630,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,934,934,3,Europe/Sofia,FALSE,1100919268
+Gradishte,Gradishte,Gradište|Osma Gradishte|Gradischte,43.3240,25.2039,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,40.6,933,933,4,Europe/Sofia,FALSE,1100825124
+Bahovitsa,Bahovitsa,Bachowiza|Bahovica|Bakhovitsa,43.1878,24.6828,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,39.1,932,932,3,Europe/Sofia,FALSE,1100391477
+Yardzhilovtsi,Yardzhilovtsi,Yarzhilovtsi|Jardshilowzi,42.6328,22.9408,Bulgaria,BG,BGR,Pernik,Pernik,BG-14,province,,100.1,932,932,3,Europe/Sofia,FALSE,1100776785
+Dink,Dink,Dink Makhila|Dink Makhala,42.2687,24.8019,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,931,931,3,Europe/Sofia,FALSE,1100838426
+Klisura,Klisura,Klissoura|Derbend|Klissura,42.7000,24.4500,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,930,930,3,Europe/Sofia,FALSE,1100303064
+Mihnevo,Mihnevo,Mikhnovo|Michnewo|Mikhnevo,41.4500,23.2000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,928,928,3,Europe/Sofia,FALSE,1100456519
+Sokolovo,Sokolovo,Vultureshti|Duvanyuvasŭ|Duvan Yuvasa|Vultureşti|Sokolare|Duwan Juwassă,43.4667,28.1000,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,33.1,927,927,3,Europe/Sofia,FALSE,1100531719
+Menenkyovo,Menenkyovo,Menenkiovo|Menenkëvo|Menenkewo|Menenk’ovo,42.2285,24.0581,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,20.3,927,927,4,Europe/Sofia,FALSE,1100022596
+Radievo,Radievo,Kyustyukioy|Radiewo|Kyustyu K’oy,42.0833,25.6167,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,89.3,926,926,3,Europe/Sofia,FALSE,1100263017
+Krivo Pole,Krivo Pole,Irobas|Kriwo Pole,41.8333,25.7167,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,119.3,925,925,3,Europe/Sofia,FALSE,1100411581
+Kralevo,Kralevo,Karl K’oy|Karlikioy|Kralewo|Karl K’y,43.1885,26.7015,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,78.3,924,924,4,Europe/Sofia,FALSE,1100985378
+Skrat,Skrat,Skrăt|Skrŭt,41.3667,23.0000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,923,923,3,Europe/Sofia,FALSE,1100366787
+Mihaylovo,Mihaylovo,Dolna Gnoynitsa|Dolna-Gnojnica|Dolna Gnoenitza|Dolna-Gnoiniza|Mikhaylovo|Dimitrovo|Bossilegrad|Bosilegrad,43.5744,23.5989,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,19.3,922,922,3,Europe/Sofia,FALSE,1100216358
+Shiroko Pole,Shiroko Pole,Syurmenler|Schiroko Pole,41.6333,25.4667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,920,920,3,Europe/Sofia,FALSE,1100965293
+Zimnitsa,Zimnitsa,Kŭshlata|Simniza,42.5858,25.6825,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,26.5,920,920,4,Europe/Sofia,FALSE,1100751350
+Reselets,Reselets,Resselez|Reselec|Roselets,43.2425,24.0324,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,38.1,919,919,4,Europe/Sofia,FALSE,1100991174
+Paisievo,Paisievo,Dokcialar|Paisiewo|Dokchelar|Dokchular|Doccelar,43.7866,26.9511,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,919,919,4,Europe/Sofia,FALSE,1100741914
+Krastina,Krastina,Vrestina|Krăstina|Krystina|Krestina|Krŭstina,42.5833,27.2333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,32.0,917,917,3,Europe/Sofia,FALSE,1100090313
+Chomakovtsi,Chomakovtsi,Tschumakowzi|Čumakovci|Chumakovtsi,43.3304,24.0668,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,917,917,4,Europe/Sofia,FALSE,1100486021
+Cherganovo,Cherganovo,Charganovo|Tscherganowo,42.5849,25.4700,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,95.6,915,915,4,Europe/Sofia,FALSE,1100607468
+Lopushna,Lopushna,Lopušna|Lopuschna,43.0045,27.1863,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,36.1,912,912,4,Europe/Sofia,FALSE,1100335157
+Gradinarovo,Gradinarovo,K’opeklii|Kŭopeklii|Gradniarovo|Gradinarowo|Kepekli|Kyupekli,43.1426,27.2795,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,48.6,911,911,4,Europe/Sofia,FALSE,1100300629
+Pishtigovo,Pishtigovo,Pištigovo|Pischigovo|Chifchikŭz|Aygŭr K’oy|Pischtigowo,42.2507,24.4264,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,911,911,3,Europe/Sofia,FALSE,1100396198
+Ribaritsa,Ribaritsa,Ribarica|Ribartsi|Riberica,42.8460,24.3610,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,25.7,910,910,3,Europe/Sofia,FALSE,1100122422
+Bayachevo,Bayachevo,Bayachkioy|Boyandzhikioy|Bajatschewo,43.2295,26.6629,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,59.6,909,909,3,Europe/Sofia,FALSE,1100677952
+Ivanyane,Ivanyane,Iwanjane,42.7000,23.1833,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,908,908,3,Europe/Sofia,FALSE,1100384542
+Venets,Venets,Wenez|K’okyudzha|K’okledzha|Kokedzha|Kiokhudža|Vyenets|K’oklyudzha,43.5500,26.9333,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,29.6,908,908,3,Europe/Sofia,FALSE,1100374350
+Topolitsa,Topolitsa,Kavak-Makhle|Kavak Magale|Topoliza,42.7333,27.1167,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,908,908,3,Europe/Sofia,FALSE,1100403796
+Vetrino,Vetrino,Yasŭ-Tepe|Yase-Tepe|Vyetreno|Asya-Tepe|Yasă-Tepe|Vyetrino|Wetrino|Jasi Tepe,43.3167,27.4333,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,20.6,907,907,3,Europe/Sofia,FALSE,1100314933
+Rani List,Rani List,Ishiklar|Ranni-Ljst,41.6833,25.4000,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,905,905,3,Europe/Sofia,FALSE,1100477528
+Boil,Boil,Emirler,43.8000,26.9667,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,904,904,3,Europe/Sofia,FALSE,1100660649
+Bratya Kunchevi,Bratya Kunchevi,,42.5002,25.8524,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,904,904,4,Europe/Sofia,FALSE,1100982539
+Kalitinovo,Kalitinovo,Kalitinowo|Dzhoronliy|Dzhuranlii,42.4242,25.7379,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,903,903,4,Europe/Sofia,FALSE,1100384298
+Nikola-Kozlevo,Nikola-Kozlevo,Dživel|Dzhuvel|Dzhivel|Nikola Kozlovo|Nikola Koslewo,43.5667,27.2333,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,21.8,902,902,3,Europe/Sofia,FALSE,1100625228
+Ticha,Ticha,Chitaki|Chitak|Tiche|Titscha,42.9706,26.4386,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,23.1,902,902,4,Europe/Sofia,FALSE,1100456993
+Gradina,Gradina,Kirilowo|Kirilovo|Mŭd’ovene,43.3500,24.4667,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,899,899,3,Europe/Sofia,FALSE,1100997801
+Shishmantsi,Shishmantsi,Avtoevo|Šišmanci|Schischmanzi,42.2231,24.9976,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,95.4,899,899,4,Europe/Sofia,FALSE,1100475190
+Dragovishtitsa,Dragovishtitsa,Dragowischtiza,42.8479,23.2229,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,57.9,898,898,4,Europe/Sofia,FALSE,1100367403
+Vodno,Vodno,Syuyutchuk|Suiuciuc|Wodno,43.8575,27.1486,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,898,898,4,Europe/Sofia,FALSE,1100556151
+Most,Most,Kyupryulyu|K’opurlii|Kyupryuli|K’opryuli,41.7350,25.5211,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,897,897,3,Europe/Sofia,FALSE,1100136077
+Kabile,Kabile,Izvor|Iswor|Tavshan-Tepe,42.5333,26.4833,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,499.2,896,896,3,Europe/Sofia,FALSE,1100278734
+Veselina,Veselina,Karag’oz|Wesselina,43.4580,26.6888,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,19.1,893,893,4,Europe/Sofia,FALSE,1100171422
+Lovchantsi,Lovchantsi,Carasular|Lowcanici|Kara Sular,43.6500,27.6500,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,892,892,3,Europe/Sofia,FALSE,1100830075
+Staroseltsi,Staroseltsi,Starosselzi|Starosel’tsŭ|Staroselci,43.5371,24.2834,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,28.6,892,892,4,Europe/Sofia,FALSE,1100877600
+Kichevo,Kichevo,Džaferli|Kitschewo|Dzheferlii|Dzhaferlii|Dzhaferli|Dzheferli,43.2748,27.9655,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,49.5,892,892,3,Europe/Sofia,FALSE,1100752837
+Vransko,Vransko,Khadzhilar,41.4667,25.6667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,19.8,891,891,3,Europe/Sofia,FALSE,1100940680
+Veselets,Veselets,Sheremet K’oy|Sheremetkioy|Wesselez,43.8116,26.7327,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,34.5,891,891,4,Europe/Sofia,FALSE,1100340747
+Simeonovets,Simeonovets,Simeonowez|Saitovo,42.1717,24.1061,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,76.6,886,886,4,Europe/Sofia,FALSE,1100978768
+Varbina,Varbina,Verbina|Warbina|Soyudzhuk|Soyudzhik|Vŭrbina,41.5600,24.9703,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,74.7,885,885,4,Europe/Sofia,FALSE,1100811940
+Konyovo,Konyovo,Koniowo|Koniovo|Atloolu|Atlooglu|Konevo|Kon’ovo,42.5227,26.1638,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,41.4,885,885,4,Europe/Sofia,FALSE,1100097396
+Ustrem,Ustrem,Vakŭv|Vakăv|Vakuf|Oustrem,42.0167,26.4667,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,15.2,884,884,3,Europe/Sofia,FALSE,1100072618
+Ruyno,Ruyno,Rujno|Câzâlburum|Kazŭl Burun,43.8304,27.0150,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,883,883,4,Europe/Sofia,FALSE,1100134973
+Drangovo,Drangovo,Golyamo Ip Dere|Drangowo|Biyuk Ip Dere|Draganovo,41.3333,25.2500,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,880,880,3,Europe/Sofia,FALSE,1100813304
+Mramoren,Mramoren,,43.2981,23.6781,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,876,876,4,Europe/Sofia,FALSE,1100398038
+Spasovo,Spasovo,Syuleymanlŭk|Süleimanlăk|Spasova,43.7000,28.2833,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,minor,13.1,876,876,3,Europe/Sofia,FALSE,1100172755
+Mokren,Mokren,Kepekli|Avramov|Mokreni|Mokrum,42.7397,26.6320,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,23.1,875,875,4,Europe/Sofia,FALSE,1100572303
+Manastirishte,Manastirishte,Manastirischte|Manasterishte,43.5756,23.6466,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,19.3,875,875,4,Europe/Sofia,FALSE,1100382082
+Novo Panicharevo,Novo Panicharevo,Nowo-Panitsharewo|Novo Paničarevo|Novo-Panicherevo,42.2833,27.5500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,16.3,870,870,3,Europe/Sofia,FALSE,1100006332
+Poroy,Poroy,Kolaran|Poroi|Koparan,42.7500,27.5500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,63.5,869,869,3,Europe/Sofia,FALSE,1100128449
+Topchiysko,Topchiysko,Toptschiisko|Topchu Makhle|Topchu-Makhala|Topchu Magale|Topchu Mahala,42.8500,27.3333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,867,867,3,Europe/Sofia,FALSE,1100219031
+Hotantsa,Hotantsa,Otantsi|Chotanza|Khotanets|Khotantsa,43.8333,26.2333,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,364.6,866,866,3,Europe/Sofia,FALSE,1100821455
+Morava,Morava,Morawa|Khadzhi Musa,43.4519,25.2122,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,26.5,865,865,4,Europe/Sofia,FALSE,1100520047
+Starosel,Starosel,Starsel|Staro-Novo-Selo|Starossel|Novo-Selo,42.4878,24.5653,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,6.8,865,865,3,Europe/Sofia,FALSE,1100884522
+Vinarsko,Vinarsko,Buyukliy|Winarsko|Buyuklii,42.6000,27.2000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,32.0,864,864,3,Europe/Sofia,FALSE,1100044228
+Razboyna,Razboyna,Rasboina|Kharami Dere|Karami Dere|Harami-Dere,42.8000,27.3833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,61.6,863,863,3,Europe/Sofia,FALSE,1100708085
+Hvostyane,Hvostyane,Chwostjane|Fustanya|Khvostyane,41.5500,23.8500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,1.1,863,863,3,Europe/Sofia,FALSE,1100152089
+Zlatna Panega,Zlatna Panega,Panega,43.0833,24.1500,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,27.1,862,862,3,Europe/Sofia,FALSE,1100969098
+Dibich,Dibich,Kasaplar|Diebitsch,43.2284,27.0011,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,123.0,862,862,4,Europe/Sofia,FALSE,1100205671
+Karanovo,Karanovo,Karanowo|Azaplii|Azapliy|Kasaplŭ|Azapli,42.6500,27.2000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,64.2,861,861,3,Europe/Sofia,FALSE,1100664608
+Batak,Batak,,43.3499,25.3388,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,859,859,4,Europe/Sofia,FALSE,1100236587
+Pliska,Pliska,Pliskov|Ak Baba|Aboba|Pliskow,43.3870,27.1320,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,25.0,859,859,3,Europe/Sofia,FALSE,1100809943
+Ledenik,Ledenik,,43.0808,25.5468,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,859,859,3,Europe/Sofia,FALSE,1100967999
+Lozen,Lozen,Losen|Ishikashliy,42.1833,24.1833,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,75.9,859,859,3,Europe/Sofia,FALSE,1100952415
+Kapitanovtsi,Kapitanovtsi,Kapitanowzi|Kapitanovci,44.0339,22.8810,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,,100.7,857,857,4,Europe/Sofia,FALSE,1100469809
+Zheglartsi,Zheglartsi,Omurfakă|Omurfacă|Žeglarci|Umurfaki,43.6667,27.4000,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,28.3,856,856,3,Europe/Sofia,FALSE,1100097107
+Grohotno,Grohotno,Grakhotna|Grachotna|Grokhotno,41.6989,24.3784,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,19.1,856,856,3,Europe/Sofia,FALSE,1100416269
+Devene,Devene,Deveni|Dewene,43.4131,23.6140,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,855,855,4,Europe/Sofia,FALSE,1100820887
+Konarsko,Konarsko,Konarska-Makhala,42.0000,23.7167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.5,855,855,3,Europe/Sofia,FALSE,1100906417
+Benkovski,Benkovski,Khasŭmdere|Elchiscea|Ekistsche|Echiscea|Mariya Luiza|Maria Luiza|Ekische,43.6028,27.4792,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,65.0,854,854,3,Europe/Sofia,FALSE,1100020861
+Vardim,Vardim,Wardim|Vardin,43.6167,25.3500,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,57.6,853,853,3,Europe/Sofia,FALSE,1100959347
+Barkach,Barkach,Bărkatsch|Bŭrkach,43.2930,24.4409,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,32.6,853,853,4,Europe/Sofia,FALSE,1100756707
+Gara Bov,Gara Bov,,43.0210,23.3520,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,1.0,852,852,3,Europe/Sofia,FALSE,1100996880
+Trilistnik,Trilistnik,Trifil,42.2043,24.8733,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,77.6,852,852,3,Europe/Sofia,FALSE,1100220070
+Kaloyanovets,Kaloyanovets,Dzhambazito|Džambazito|Kalojanowez,42.3069,25.5769,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,852,852,4,Europe/Sofia,FALSE,1100907938
+Ovchepoltsi,Ovchepoltsi,Owtschepolzi|Ovcepolci|Ferezrdzhik|Ferezlie|Ferezlii,42.3333,24.4000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,28.0,851,851,3,Europe/Sofia,FALSE,1100998144
+Takach,Takach,Tăkatsch|Chulfalar|Chulkhanlar|Tŭkach,43.5913,27.0352,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,29.6,850,850,4,Europe/Sofia,FALSE,1100354233
+Riltsi,Riltsi,Khasarlŭk,41.9833,23.1333,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.2,850,850,3,Europe/Sofia,FALSE,1100841692
+Rogozen,Rogozen,Rogosèn,43.5183,23.6981,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,19.3,849,849,3,Europe/Sofia,FALSE,1100912916
+Gorno Ablanovo,Gorno Ablanovo,Dolno Ablanovo|Joli Ablanova|Gorno Albanovo|Gorno Ablanowo,43.6326,25.7323,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,22.0,846,846,4,Europe/Sofia,FALSE,1100508240
+Novo Selo,Novo Selo,Nowo-Selo,44.1618,22.7840,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,23.0,846,846,3,Europe/Sofia,FALSE,1100999579
+Batoshevo,Batoshevo,Batošovo|Batoshovo|Batoševo|Batochévo|Batoschowo,42.9000,25.0833,Bulgaria,BG,BGR,Gabrovo,Gabrovo,BG-07,province,,27.7,846,846,3,Europe/Sofia,FALSE,1100622554
+Karanovo,Karanovo,Kispitlii|Kislitliy|Karanowo,42.5142,25.9140,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,41.4,845,845,4,Europe/Sofia,FALSE,1100893583
+Zamfir,Zamfir,Zamfirovo|Dălgoschewzi|Dŭlgoshevtsi,43.7822,23.2453,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,78.7,845,845,3,Europe/Sofia,FALSE,1100352814
+Zhelyazkovets,Zhelyazkovets,Demirdzhiler|Sheleskowez|Zhelyezkovets,43.5132,26.6929,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,24.9,844,844,4,Europe/Sofia,FALSE,1100124123
+Slatina,Slatina,Razvalini Slatina,42.6833,24.5667,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,17.3,844,844,3,Europe/Sofia,FALSE,1100858786
+Velichkovo,Velichkovo,Zgarlii|Welitschkowo|Sgarliy|Zgarli,42.2511,24.2236,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,31.8,843,843,3,Europe/Sofia,FALSE,1100501052
+Gorski Izvor,Gorski Izvor,Kurudzha Dere|Gorski Iswor|Gorki Izvor,41.3500,25.1667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,37.7,842,842,3,Europe/Sofia,FALSE,1100618054
+Svidnya,Svidnya,,42.9500,23.2667,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,22.7,840,840,3,Europe/Sofia,FALSE,1100616834
+Bogdantsi,Bogdantsi,Uzimge-Orman|Usŭndshe Orman|Uzundzhe Orman,43.9756,26.7877,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,20.9,840,840,4,Europe/Sofia,FALSE,1100385442
+Brashten,Brashten,Brŭshen|Brăschljan|Brŭshlyan|Brŭshten,41.6000,24.1833,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,27.1,839,839,3,Europe/Sofia,FALSE,1100665615
+Donchevo,Donchevo,Knyaz Simeonovo|Gara Bogdanovo|Knjaz Simeon,43.5167,27.7667,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,100.7,839,839,3,Europe/Sofia,FALSE,1100098516
+Lomtsi,Lomtsi,Spakhlar|Spachlari|Lomci|Lomzi|Spahalar,43.4333,26.3500,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,31.9,837,837,4,Europe/Sofia,FALSE,1100646137
+Pashovi,Pashovi,Kolibi Pashovŭ|Pashtovi,42.0444,23.8280,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,45.3,837,837,4,Europe/Sofia,FALSE,1100316131
+Dobrolevo,Dobrolevo,Dobralevo,43.5000,23.7833,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,20.5,835,835,3,Europe/Sofia,FALSE,1100523304
+Krushovene,Krushovene,Krushevene|Kruschowene|Krušovene|Krouchovéné,43.6483,24.4011,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,25.2,834,834,4,Europe/Sofia,FALSE,1100523626
+Srednogortsi,Srednogortsi,Srednogorzi|Topuklu|Sryednogortsi,41.5319,24.9113,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,62.5,834,834,4,Europe/Sofia,FALSE,1100746649
+Tushovtsa,Tushovtsa,Tushovitsa|Tuschowza,43.0062,26.8056,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,19.6,832,832,4,Europe/Sofia,FALSE,1100272575
+Strashimirovo,Strashimirovo,Strašimirovo|Golyam Alad’n|Golyam Aladen|Straschimirowo,43.1950,27.7350,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,127.9,831,831,3,Europe/Sofia,FALSE,1100052443
+Lesidren,Lesidren,Lyesidren|Ljesidran|Lessi-Drèn|Lesi-Dryen|Lesi Dryan|Lesi Drjan,42.9667,24.4000,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,9.0,831,831,3,Europe/Sofia,FALSE,1100897226
+Novgrad,Novgrad,Nowgrad|Novi Grad,43.6056,25.5853,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,18.5,829,829,3,Europe/Sofia,FALSE,1100292869
+Gorno Draglishte,Gorno Draglishte,Gorno Draglishta|Gorno Draglischta,41.9500,23.5167,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,827,827,3,Europe/Sofia,FALSE,1100107053
+Shiroki Dol,Shiroki Dol,Schiroki Dol,42.3892,23.5218,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,31.5,827,827,4,Europe/Sofia,FALSE,1100842668
+Stamboliyski,Stamboliyski,Kirilowez|Kirilovets|Sinedzhik,41.9083,25.6333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,119.3,823,823,3,Europe/Sofia,FALSE,1100846261
+Asenovo,Asenovo,Kŭlŭchlari|Kilichlar|Asseniewo|Kaleshlyar|Asjeniovo,43.2803,26.0219,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,25.3,823,823,4,Europe/Sofia,FALSE,1100538355
+Tsarkvitsa,Tsarkvitsa,Klisedzhik|Čerkovište|Cherkovishte|Tscher Kovischte|Zărkwiza|Tsŭrkvitsa,43.4792,27.1809,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,49.3,823,823,4,Europe/Sofia,FALSE,1100992906
+Gruevo,Gruevo,Gruewo|Khayranlar,41.5667,25.4167,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,42.6,823,823,3,Europe/Sofia,FALSE,1100107118
+Zhitnitsa,Zhitnitsa,Testedzhii|Testedzhi|Shitniza|Testedži,43.1262,27.5245,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,48.6,821,821,4,Europe/Sofia,FALSE,1100943351
+Gyovren,Gyovren,Gjowren|G’ovren,41.6628,24.3761,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,19.1,820,820,3,Europe/Sofia,FALSE,1100686284
+Samuilovo,Samuilovo,Dimidovo|Samuilowo,41.3667,23.0833,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,820,820,3,Europe/Sofia,FALSE,1100544772
+Krushevo,Krushevo,Khalŭt K’oy|Kruschewo|Razvalini Khalatkioy,42.1393,25.2305,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,46.7,819,819,4,Europe/Sofia,FALSE,1100974383
+Yulievo,Yulievo,Dolni Sofilari|Dolni Mŭdretsi|Dolni Maderzi|Yuliev|Dolno Sofulare,42.5658,25.6067,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,26.5,818,818,4,Europe/Sofia,FALSE,1100019547
+Brestovets,Brestovets,Brěstovec|Bryestovets|Brestowez|Brjestovec|Bryastovets,43.3500,24.6000,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,145.7,818,818,4,Europe/Sofia,FALSE,1100924303
+Manolovo,Manolovo,Malko Selo|Borisovo|Borissowo,42.6256,25.0667,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,24.4,818,818,4,Europe/Sofia,FALSE,1100297497
+Sinya Voda,Sinya Voda,Sinja-Woda|Sinya Vooa|G’okche Su,43.4058,26.5680,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,19.1,817,817,4,Europe/Sofia,FALSE,1100738900
+Tserovo,Tserovo,Tsyerovo|Zerowo,42.3577,24.0527,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,24.5,815,815,4,Europe/Sofia,FALSE,1100522105
+Piperkov Chiflik,Piperkov Chiflik,,42.2742,22.7389,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,52.1,814,814,3,Europe/Sofia,FALSE,1100705855
+Banite,Banite,Ledzha|Lădsha|Lŭdzha,41.6167,25.0167,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,13.0,813,813,3,Europe/Sofia,FALSE,1100750997
+Momina Klisura,Momina Klisura,Momina Klissura|Kus Derbent,42.2276,23.9760,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,20.3,812,812,4,Europe/Sofia,FALSE,1100757285
+Milevo,Milevo,Satŭ Begovo|Nadeshdino|Satŭ Byegovo|Nadezhdino,42.1503,25.0944,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,91.5,812,812,4,Europe/Sofia,FALSE,1100111500
+Strumyani,Strumyani,,41.6333,23.2000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,14.0,811,811,3,Europe/Sofia,FALSE,1100009868
+Gergevets,Gergevets,Gergewez|Alla-Daglŭ|Aladaglii,42.5907,26.3443,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,810,810,4,Europe/Sofia,FALSE,1100147773
+Grozden,Grozden,Grosden|Sandzhiklare|Sandzhiklari,42.7167,26.7500,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,15.7,810,810,3,Europe/Sofia,FALSE,1100878551
+Tsarimir,Tsarimir,Zarimir|Dautlare,42.3250,24.6737,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,27.1,807,807,4,Europe/Sofia,FALSE,1100471843
+Gorno Prahovo,Gorno Prahovo,Toz Balya|Gorno Prachowo|Gorno Prakhovo,41.6456,25.1595,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,31.3,807,807,3,Europe/Sofia,FALSE,1100192465
+Dobroplodno,Dobroplodno,Eles-Fakă|Elekiöj|Eles-Fakŭ|Elesfak,43.3969,27.3695,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,20.6,806,806,4,Europe/Sofia,FALSE,1100808281
+Efreytor Bakalovo,Efreytor Bakalovo,Baraklar|Baraclar,43.8333,27.6000,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,36.8,805,805,3,Europe/Sofia,FALSE,1100137473
+Zagore,Zagore,Akhŭrito|Oborito,42.3507,25.6727,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,146.4,804,804,4,Europe/Sofia,FALSE,1100416280
+Bogdan,Bogdan,Derelii|Derelie,42.6424,24.6413,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,44.4,804,804,4,Europe/Sofia,FALSE,1100528584
+Ravna Gora,Ravna Gora,Rawna-Gora|Makhala Ravna Gora,42.3500,27.5333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,24.4,804,804,3,Europe/Sofia,FALSE,1100517277
+Sredkovets,Sredkovets,Saltŭklar|Sredkowez,43.6809,27.0369,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,40.8,803,803,4,Europe/Sofia,FALSE,1100844200
+Slavyantsi,Slavyantsi,Cherkesli|Ferdinandowo|Cherkeshlii|Ferdinandovo,42.7667,26.7333,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,15.7,799,799,3,Europe/Sofia,FALSE,1100296154
+Stremtsi,Stremtsi,Stryemtsi|Stremzi|Stremstsi|Gioklemzler|Geklemezler|Gjoklemezler|Goklemezler,41.7333,25.4167,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,798,798,3,Europe/Sofia,FALSE,1100312470
+Dabnik,Dabnik,Dăbnik|Osman K’oy|Osmankioy|Dŭbnik,42.6833,27.5000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,92.8,796,796,3,Europe/Sofia,FALSE,1100734815
+Yabalkovo,Yabalkovo,Yabŭlkovo,42.3167,22.7500,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,52.1,795,795,3,Europe/Sofia,FALSE,1100959481
+Ivanovo,Ivanovo,Iwanowo,43.7000,25.9833,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,minor,22.0,792,792,3,Europe/Sofia,FALSE,1100478963
+Slavyanovo,Slavyanovo,Karaagačkiöj|Karaagachkioy|Kara-Ach|Borissovo|Borrssowo|Borisovo,43.2670,26.1830,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,29.4,790,790,3,Europe/Sofia,FALSE,1100025010
+Krusheto,Krusheto,Krušeto|Armutlŭ|Armutlii,43.2417,25.6741,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,0.0,789,789,3,Europe/Sofia,FALSE,1100360011
+Kasak,Kasak,Kasŭka|Kăssak|Kŭsak,41.6333,24.2167,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,20.6,789,789,3,Europe/Sofia,FALSE,1100717890
+Polyatsite,Polyatsite,Bekchii|Bekchi|Poliazite,42.9840,27.1199,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,12.8,788,788,4,Europe/Sofia,FALSE,1100996294
+Dagonovo,Dagonovo,Dagonowa-Machala|Dagonova Makhala|Dagondva-Makhala,41.9500,23.6000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,49.8,787,787,3,Europe/Sofia,FALSE,1100646043
+Kardam,Kardam,Yasnets|Nedikujussu|Nebi Kuyusu|Nebikoyusu|Nebi-Cuiuş|Mircha Voda|Malki Kardam|Arman|Kharman|Arman Tasnec|Kharman Kuyusu,43.7500,28.1000,Bulgaria,BG,BGR,Dobrich,Dobrich,BG-08,province,,13.1,787,787,3,Europe/Sofia,FALSE,1100175483
+Rezbartsi,Rezbartsi,Resbarzi|Otman K’oy|Rezbari,41.6167,25.3667,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,787,787,3,Europe/Sofia,FALSE,1100590636
+Vrani Kon,Vrani Kon,Kara-Atlar|Karatlar|Wrani-Kon,43.0235,26.5574,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,786,786,4,Europe/Sofia,FALSE,1100025373
+Klikach,Klikach,Telyal-K’oy|Tellyal’kioy|Klikatsch|Tellyal-K’oy,42.7000,27.0667,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,29.7,786,786,3,Europe/Sofia,FALSE,1100187753
+Yasenovo,Yasenovo,Yasen|Himitli|Khimitlii|Imitliy|Blagodatewo|Chimitli|Khimitliy|Himitlii,42.6867,25.2534,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,90.9,785,785,4,Europe/Sofia,FALSE,1100839727
+Ludogortsi,Ludogortsi,Duran|Durach|Durač|Duratsch,43.6442,26.7665,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,52.4,785,785,4,Europe/Sofia,FALSE,1100363766
+Strazha,Strazha,Stratidzhe|Strasha|Stratidzha,43.1960,26.5615,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,78.3,784,784,4,Europe/Sofia,FALSE,1100361111
+Erma Reka,Erma Reka,Promishleno Selo Erma Reka|Irma Ryeka|Erma-Ryeka,41.4167,24.9667,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,58.4,784,784,3,Europe/Sofia,FALSE,1100521700
+Lyubcha,Lyubcha,Ljubtscha,41.6167,24.1000,Bulgaria,BG,BGR,Smolyan,Smolyan,BG-21,province,,39.0,782,782,3,Europe/Sofia,FALSE,1100068141
+Ruzhintsi,Ruzhintsi,Beloptichene|Ružinci|Ruzhentsi|Rujintsi|Rushinzi,43.6167,22.8167,Bulgaria,BG,BGR,Vidin,Vidin,BG-05,province,minor,14.3,781,781,3,Europe/Sofia,FALSE,1100397316
+Gabra,Gabra,Čukurovo|Chukurovo,42.5333,23.6167,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,40.6,781,781,3,Europe/Sofia,FALSE,1100639840
+Mihalich,Mihalich,Makhalŭch|Michalitsch|Mikhalich,43.4047,27.4598,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,25.0,781,781,4,Europe/Sofia,FALSE,1100525794
+Dolna Studena,Dolna Studena,,43.5265,25.6938,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,18.5,781,781,4,Europe/Sofia,FALSE,1100133888
+Debrashtitsa,Debrashtitsa,Deredzhik-K’oy|Debŭrshtitsa|Debrašica|Debrashchitsa|Debrŭshtitsa|Debrăschtiza|Debrištica,42.1064,24.2564,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,161.1,781,781,4,Europe/Sofia,FALSE,1100667356
+Blatets,Blatets,Blatez|Blatet|Esirliy|Isirlii|Esirlii,42.6331,26.5364,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,780,780,4,Europe/Sofia,FALSE,1100155193
+Yavornitsa,Yavornitsa,Jaworniza,41.3667,23.0500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,778,778,3,Europe/Sofia,FALSE,1100061072
+Konyavo,Konyavo,Konyovo|Konvovo|Konjevo|Konjavo|Koniawo|Konjovo|Kon’avo|Kon’ovo,42.3250,22.7833,Bulgaria,BG,BGR,Kyustendil,Kyustendil,BG-10,province,,52.1,776,776,3,Europe/Sofia,FALSE,1100475171
+Slanchevo,Slanchevo,Slantschewo|Gyun Yalas|Slŭnchevo,43.2500,27.7167,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,28.8,774,774,3,Europe/Sofia,FALSE,1100525677
+Gradishte,Gradishte,Gradischte,43.3268,26.8390,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,123.0,773,773,4,Europe/Sofia,FALSE,1100314567
+Tuhovishta,Tuhovishta,Tuchowischta|Tukhovishta,41.5000,24.0500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,772,772,3,Europe/Sofia,FALSE,1100418698
+Seslav,Seslav,Yuryukler|Yurukler|Seslaw|Jurjukler|Yuruyukler|Sesla,43.8647,26.3741,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,32.5,770,770,4,Europe/Sofia,FALSE,1100872293
+Glavan,Glavan,Glawan|Imuklar,42.0676,26.1075,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,33.1,769,769,4,Europe/Sofia,FALSE,1100819061
+Osenets,Osenets,Hyusenche|Osyenets|Ossenez|Ossénetz|Khyusenche|Osenec|Khyusekcha,43.5607,26.3968,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,769,769,4,Europe/Sofia,FALSE,1100547356
+Obitel,Obitel,Tekeler Kyabir|Tekeler,43.0681,26.5627,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,769,769,4,Europe/Sofia,FALSE,1100597104
+Borima,Borima,,42.9667,24.5667,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,31.0,769,769,3,Europe/Sofia,FALSE,1100592129
+Dragoevo,Dragoevo,Dragojevo|Dragoewo|Dragojkiöj,43.1212,26.8693,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.4,768,768,4,Europe/Sofia,FALSE,1100286924
+Stefan Karadzha,Stefan Karadzha,Stefan Karadsha|Karadzha-At|Karadžaat|Stefan Karadža|Karadža Ot|Stefan Karadja|Karadzha-Ot,43.4965,27.4110,Bulgaria,BG,BGR,Varna,Varna,BG-03,province,,25.0,767,767,4,Europe/Sofia,FALSE,1100735372
+Klyuch,Klyuch,Kljutsch|Klych|KljuoCe Klyuch,41.3622,23.0175,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,767,767,3,Europe/Sofia,FALSE,1100685641
+Kichenitsa,Kichenitsa,Kitscheniza|Killi Kujudžuk|Kili Kuydzhuk|Kičenica|Killi-Kuyudzhuk,43.6034,26.5080,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,64.6,766,766,4,Europe/Sofia,FALSE,1100878789
+Karaisen,Karaisen,Karaïssèn|Rayko Daskalovo,43.3799,25.3460,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,765,765,4,Europe/Sofia,FALSE,1100564630
+Bazovets,Bazovets,Bizovets|Băsowez|Bŭzovets|Buzovets,43.5049,25.8788,Bulgaria,BG,BGR,Ruse,Ruse,BG-18,province,,26.4,765,765,4,Europe/Sofia,FALSE,1100377353
+Ayrovo,Ayrovo,Ajrowo|Ram K’oy,41.6097,25.3664,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,764,764,3,Europe/Sofia,FALSE,1100012071
+Pisarovo,Pisarovo,Pisarevo|Peserovo|Peserevo|Pissarowo,43.4210,24.2759,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,28.6,764,764,4,Europe/Sofia,FALSE,1100891838
+Rumyantsevo,Rumyantsevo,Blŭsnichevo|Blesničevo|Blasnitchévo|Blasničevo|Blâsnitschewo|Blisničevo|Blăsnichevo|Blŭsničevo,43.1333,24.1500,Bulgaria,BG,BGR,Lovech,Lovech,BG-11,province,,27.1,763,763,3,Europe/Sofia,FALSE,1100563183
+Vodoley,Vodoley,Ibrichevo|Wodolei,43.2167,25.5167,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,762,762,3,Europe/Sofia,FALSE,1100136827
+Poibrene,Poibrene,,42.5000,24.0000,Bulgaria,BG,BGR,Pazardzhik,Pazardzhik,BG-13,province,,7.1,762,762,3,Europe/Sofia,FALSE,1100468874
+Stambolovo,Stambolovo,Stefan Stambolov|Stambolowo|Dolni Turcheta|Murat-Bey,43.2102,25.3684,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,35.8,762,762,4,Europe/Sofia,FALSE,1100143063
+Perperek,Perperek,Perpelek|Ashlar|Yashlar|Ashiklar,41.6833,25.5500,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,122.6,761,761,3,Europe/Sofia,FALSE,1100102157
+Belyakovets,Belyakovets,Byelyakovets|Beljakowez,43.1047,25.5874,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,84.9,761,761,4,Europe/Sofia,FALSE,1100159990
+Padesh,Padesh,Padeš|Padesch,41.9167,23.0000,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.0,760,760,3,Europe/Sofia,FALSE,1100758250
+Rebrovo,Rebrovo,Rebrowo,42.8833,23.3833,Bulgaria,BG,BGR,Sofia,Sofia,BG-23,province,,22.7,760,760,3,Europe/Sofia,FALSE,1100665384
+Komoshtitsa,Komoshtitsa,Komoštica|Komaščica|Komoschtiza,43.7169,23.3144,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,14.5,760,760,3,Europe/Sofia,FALSE,1100474663
+Boyan-Botevo,Boyan-Botevo,Durak K’oy|Bojan-Botewo,41.8333,25.3000,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,27.4,759,759,3,Europe/Sofia,FALSE,1100781288
+Madrets,Madrets,Mădrets|Madrec|Sofulare|Mödrec|Sofulari|Madretz|Mădrez|Mŭdrets,42.1330,26.0836,Bulgaria,BG,BGR,Stara Zagora,Stara Zagora,BG-24,province,,33.1,758,758,4,Europe/Sofia,FALSE,1100623143
+Daskotna,Daskotna,Dăskotna|Diskotja|Dskotna|Iskhodna|Ischodna|Diskotna|Diskotija|Dŭskotna,42.8833,27.2000,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,758,758,3,Europe/Sofia,FALSE,1100507985
+Pripek,Pripek,Gyuneli,41.4667,25.1833,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,41.1,757,757,3,Europe/Sofia,FALSE,1100917464
+Cherkovna,Cherkovna,Ciocovna|Čerkowno|Anastschik,43.8421,27.1787,Bulgaria,BG,BGR,Silistra,Silistra,BG-19,province,,42.5,757,757,4,Europe/Sofia,FALSE,1100255661
+Godeshevo,Godeshevo,Godeshovo|Godeschewo,41.4667,24.0500,Bulgaria,BG,BGR,Blagoevgrad,Blagoevgrad,BG-01,province,,0.1,756,756,3,Europe/Sofia,FALSE,1100517904
+Dobra Polyana,Dobra Polyana,Dobra Poliana|Bayryam Alan|Bayram Alan,42.8500,27.3167,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,47.6,755,755,3,Europe/Sofia,FALSE,1100295577
+Tserovishte,Tserovishte,Zerowischte|Sarsanli|Sarsŭplii,43.0500,26.5884,Bulgaria,BG,BGR,Targovishte,Targovishte,BG-25,province,,46.3,755,755,4,Europe/Sofia,FALSE,1100321496
+Tri Kladentsi,Tri Kladentsi,Tri Kladenzi,43.4436,23.5966,Bulgaria,BG,BGR,Vratsa,Vratsa,BG-06,province,,82.5,754,754,4,Europe/Sofia,FALSE,1100637404
+Vinograd,Vinograd,Vinngrad|Saydikioy|Seydi k’oy|Winograd,43.3330,25.8330,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,25.3,753,753,3,Europe/Sofia,FALSE,1100552542
+Dolno Tserovene,Dolno Tserovene,Dolno Zerowene|Tserovene|Dolno-Tsyerovene|Dolno Cerovene|Cerovene,43.5900,23.2453,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,14.5,751,751,3,Europe/Sofia,FALSE,1100047727
+Padina,Padina,Mukmulu,41.5144,25.0691,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,72.1,751,751,3,Europe/Sofia,FALSE,1100693216
+Panicheri,Panicheri,Panichere|Panitschere,42.4575,24.6200,Bulgaria,BG,BGR,Plovdiv,Plovdiv,BG-16,province,,21.8,751,751,4,Europe/Sofia,FALSE,1100735464
+Podgumer,Podgumer,,42.8050,23.4041,Bulgaria,BG,BGR,Sofia-Grad,Sofia-Grad,BG-22,province,,1064.3,751,751,3,Europe/Sofia,FALSE,1100222418
+Marchevo,Marchevo,Martchevo|Mărćevo|Malko Mărtschewo|Merchevo|Golemo Mărtschewo|Mŭrchevo,43.5133,23.3467,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,25.1,751,751,3,Europe/Sofia,FALSE,1100868192
+Zhalti Bryag,Zhalti Bryag,Shălti Breg|Sar Yurt|Zhŭlti Bryag,41.8000,25.6333,Bulgaria,BG,BGR,Haskovo,Haskovo,BG-26,province,,50.2,751,751,3,Europe/Sofia,FALSE,1100605367
+Smolyanovtsi,Smolyanovtsi,Smoljanowzi|Smoljanovci|Smolyanovci,43.5000,22.9833,Bulgaria,BG,BGR,Montana,Montana,BG-12,province,,68.8,750,750,3,Europe/Sofia,FALSE,1100499066
+Krushevets,Krushevets,Kruschewez|Kayryak-K’oy|Kayryak-Kyoi,42.2833,27.4833,Bulgaria,BG,BGR,Burgas,Burgas,BG-02,province,,24.4,748,748,3,Europe/Sofia,FALSE,1100148572
+Kozarevets,Kozarevets,Kosarewez|Kozarevie|Kozarevec|Kesarevec,43.1312,25.8235,Bulgaria,BG,BGR,Veliko Tarnovo,Veliko Tarnovo,BG-04,province,,69.4,747,747,3,Europe/Sofia,FALSE,1100929160
+Kaloyanovo,Kaloyanovo,Tutludzha|Kalojanowo|Kalayanovo,42.6565,26.4621,Bulgaria,BG,BGR,Sliven,Sliven,BG-20,province,,85.6,746,746,4,Europe/Sofia,FALSE,1100132146
+Botevo,Botevo,Chiomlekioy|Botiowo|Botiovo|Bot’ovo|Chomlek K’oy,42.5250,26.3606,Bulgaria,BG,BGR,Yambol,Yambol,BG-28,province,,17.1,745,745,3,Europe/Sofia,FALSE,1100628880
+Polkovnik Zhelyazovo,Polkovnik Zhelyazovo,Kara Demirler,41.4683,25.6750,Bulgaria,BG,BGR,Kardzhali,Kardzhali,BG-09,province,,19.8,745,745,3,Europe/Sofia,FALSE,1100134171
+Troitsa,Troitsa,Truzha|Troiza|Turudzha,43.2180,26.8703,Bulgaria,BG,BGR,Shumen,Shumen,BG-27,province,,36.4,745,745,4,Europe/Sofia,FALSE,1100431350
+Rakita,Rakita,,43.2700,24.2717,Bulgaria,BG,BGR,Pleven,Pleven,BG-15,province,,56.1,745,745,4,Europe/Sofia,FALSE,1100878839
+Svalenik,Svalenik,Swalenik|Selenik,43.5766,26.1396,Bulgaria,BG,BGR,Razgrad,Razgrad,BG-17,province,,20.8,743,743,4,Europe/Sofia,FALSE,1100195413

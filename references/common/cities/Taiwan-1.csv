@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Taichung,Taichung,T’ai-chung|Taizhong Shi|Taijhong Shih|T’ai-chung-shih|Taizhong,24.1439,120.6794,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,admin,1284.1,3033885,3033885,1,Asia/Taipei,FALSE,1158689622
+Kaohsiung,Kaohsiung,Gaoxiongshi|Kao-hsiung-shih|Kao-hsiung|Gaosyongshih|Gaoxiong,22.6150,120.2975,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,admin,926.2,2733964,2733964,1,Asia/Taipei,FALSE,1158331334
+Taipei,Taipei,Taipeh|Pan-ch’iao-chen|Pan-ch’iao|T’ai-pei|Taibei Shih|T’ai-pei-hsien|Pan-ch’iao-chieh|Pan Kiao|T’ai-pei Shih|Taibei Shi,25.0375,121.5625,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,primary,9577.5,2603150,2603150,1,Asia/Taipei,FALSE,1158881289
+Tainan,Tainan,T’ai-nan-shih|Tainanshih|Tainanshi|T’ai-nan,22.9833,120.1833,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,admin,855.4,1874686,1874686,1,Asia/Taipei,FALSE,1158061376
+Zhongli,Zhongli,Jhongli|Chung-li-chuang|Chung-li,24.9650,121.2168,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5904.6,1632616,1632616,1,Asia/Taipei,FALSE,1158025380
+Hsinchu,Hsinchu,Sinjhushih|Xinzhushi|Hsin-chu-shih|Hsin-chu-hsien|Hsin-chu|Xinzhu,24.8167,120.9833,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,admin,4801.4,499348,499348,2,Asia/Taipei,FALSE,1158276420
+Taoyuan District,Taoyuan District,Taoyuan|Taoyuan|Hsin-chu-hsien|Hsin-chu|T’ao-yüan|T’ao-yüan-chen|T’ao-yüan-hsien|T’ao-yüan-chieh|Taoyuan Qu,24.9913,121.3143,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,admin,1878.4,443273,443273,2,Asia/Taipei,FALSE,1158127875
+Keelung,Keelung,Jilongshih|Chi-lung|Chi-lung-shih|Jilongshi|Jilong,25.1333,121.7333,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,admin,2765.2,367107,367107,2,Asia/Taipei,FALSE,1158820647
+Chiayi,Chiayi,Chia-i-shih|Chia-i-hsien|Jiayi Shih|Chia-i|Jiayi Shi|Jiayi,23.4800,120.4497,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYI,city,admin,4199.0,251938,251938,2,Asia/Taipei,FALSE,1158867217
+Changhua,Changhua,Chang Hwa|Chang-hua Nan-pu|Chang-hua-hsien|Chang-hua-shih|Jhanghua|Chang-hua-south|Chang-hua North|Chang-hua Pei-pu|Chang-hua|Zhanghua,24.0667,120.5333,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,admin,3448.8,226518,226518,2,Asia/Taipei,FALSE,1158439005
+Zhubei,Zhubei,Hung-mao|Jhubei|Chu-pei,24.8333,121.0119,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,admin,4541.9,212695,212695,2,Asia/Taipei,FALSE,1158417233
+Pingzhen,Pingzhen,Pingjhen|P’ing-chen,24.9439,121.2161,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5912.4,201632,201632,2,Asia/Taipei,FALSE,1158047789
+Pingtung,Pingtung,P’ing-tung-chieh|P’ing-tung-hsien|P’ing-tung-shih|P’ing-tung|Pingdong,22.6761,120.4942,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,admin,2939.9,194123,194123,2,Asia/Taipei,FALSE,1158209038
+Yangmei,Yangmei,Yang-mei-chuang|Yang-mei,24.9167,121.1500,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,175000,175000,2,Asia/Taipei,FALSE,1158247880
+Bade,Bade,Pa-te-shih|Pa-k’uai-ts’o|Pa-k’uai-chuang|Pa-k’uai|Pa-te,24.9575,121.2989,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,7394.1,172065,172065,2,Asia/Taipei,FALSE,1158126203
+Yilan,Yilan,Ka-ma-lan|I-lan-shih|I-lan|I-lan-hsien,24.7500,121.7500,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,admin,2952.1,150000,150000,2,Asia/Taipei,FALSE,1158534780
+Yuanlin,Yuanlin,T’ai-chung-hsien|T’ai-chung|Yüan-lin,23.9611,120.5736,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,3066.0,122763,122763,2,Asia/Taipei,FALSE,1158630209
+Taitung,Taitung,T’ai-tung Shih|T’ai-tung-hsien|T’ai-tung-chen|T’ai-tung|Taidong,22.7583,121.1444,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,admin,992.1,108905,108905,2,Asia/Taipei,FALSE,1158804050
+Douliu,Douliu,Douliou|Yün-lin-hsien|Tou-liu-chieh|Yün-lin|Tou-liu,23.7075,120.5439,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,admin,1151.6,107924,107924,2,Asia/Taipei,FALSE,1158732750
+Toufen,Toufen,T’ou-fen-chuang|T’ou-fen-chen|T’ou-fen,24.6832,120.9072,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1971.0,106310,106310,2,Asia/Taipei,FALSE,1158996229
+Nantou,Nantou,Nan-t’ou-hsien|Nan-t’ou-chieh|Nan-t’ou-shih|Nantow|Nan-t’ou,23.9167,120.6833,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,admin,1407.2,101606,101606,2,Asia/Taipei,FALSE,1158112865
+Hualien,Hualien,Hua-lien-shih|Hua Lien Kang|Hua-lien-hsien|Hua-lien|Hua-lien-chiang|Hualianshi|Hualian,23.9722,121.6064,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,admin,3381.8,99458,99458,2,Asia/Taipei,FALSE,1158174293
+Caotun,Caotun,Ts’ao-t’un-chuang|Ts’ao-t’un,23.9830,120.7326,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,931.1,96838,96838,3,Asia/Taipei,FALSE,1158910060
+Zhudong,Zhudong,Chu-tung-chuang|Jhudong|Shu-ch’i-lin|Chu-tung,24.7366,121.0916,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,2212.2,96518,96518,2,Asia/Taipei,FALSE,1158713693
+Miaoli,Miaoli,Miao-li-chieh|Miao-li-shih|Miao-li-hsien|Miao-li,24.5700,120.8200,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,admin,2400.1,90963,90963,2,Asia/Taipei,FALSE,1158446494
+Zhunan,Zhunan,Chu-nan-chuang|Nan-chu|Jhunan|Chu-nan-ch’ü|Chu-nan,24.6833,120.8833,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2380.7,89420,89420,2,Asia/Taipei,FALSE,1158606269
+Hemei,Hemei,Ho-mei-chuang|Ho-mei,24.1167,120.5000,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2218.5,88740,88740,2,Asia/Taipei,FALSE,1158367413
+Lugang,Lugang,Lu-chiang|Lu-kang,24.0500,120.4333,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1189.7,85423,85423,3,Asia/Taipei,FALSE,1158025426
+Ji’an,Ji'an,Chi-an-ts’un|Chung-yüan|Chi-an,23.9500,121.5722,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,1269.4,82840,82840,3,Asia/Taipei,FALSE,1158376537
+Hukou,Hukou,Hsin-hu-k’ou|Hu-k’ou,24.9000,121.0500,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1395.7,81550,81550,3,Asia/Taipei,FALSE,1158167962
+Puli,Puli,P’u-li|P’u-li-chieh,23.9667,120.9667,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,476.5,77299,77299,3,Asia/Taipei,FALSE,1158109634
+Minxiong,Minxiong,Min-hsiung-chen|Minsiong|Ta-mao|Min-hsiung-chuang|Min-hsiung,23.5504,120.4457,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,827.2,70316,70316,3,Asia/Taipei,FALSE,1158122397
+Huwei,Huwei,Hu-wei,23.7200,120.4354,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1018.8,70300,70300,3,Asia/Taipei,FALSE,1158896051
+Luodong,Luodong,Lo-tung-chieh|Lo-tung,24.6767,121.7669,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,6363.8,70002,70002,2,Asia/Taipei,FALSE,1158251407
+Magong,Magong,P’eng-hu-hsien|P’eng-hu|Ma-kung,23.5667,119.5833,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,admin,1875.3,63745,63745,2,Asia/Taipei,FALSE,1158297836
+Xinfeng,Xinfeng,Hung-mao-ts’un|Sinfong|Hung-mao|Hsin-feng,24.9167,121.0000,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1274.2,58614,58614,3,Asia/Taipei,FALSE,1158988377
+Zhushan,Zhushan,Jhushan|Chu-shan-chuang|Chu-wei-tan|Lin-ch’i-pu|Chu-shan,23.6889,120.7289,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,221.8,54870,54870,3,Asia/Taipei,FALSE,1158343390
+Xihu,Xihu,Ch’i-hu-chuang|Ch’i-hu|Hsi-hu|Sihu,23.9594,120.4800,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1688.5,54033,54033,3,Asia/Taipei,FALSE,1158658057
+Chaozhou,Chaozhou,Chaojhou|Ch’ao-chou-chang|Ch’ao-chou,22.5500,120.5333,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,1268.7,53285,53285,3,Asia/Taipei,FALSE,1158670506
+Dongshan,Dongshan,Tung-kua-shan|Tung-shan-chuang|Tung-shan,24.6319,121.7539,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,666.6,53235,53235,3,Asia/Taipei,FALSE,1158216051
+Neibu,Neibu,Nei-pu,22.6500,120.5875,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,640.6,52528,52528,3,Asia/Taipei,FALSE,1158113958
+Wandan,Wandan,Wan-tan-chuang|Nan-nan-chuang|Wan-tan,22.5897,120.4851,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,858.3,49328,49328,3,Asia/Taipei,FALSE,1158350878
+Mailiao,Mailiao,Mai-liao,23.7500,120.2500,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,616.2,49298,49298,3,Asia/Taipei,FALSE,1158170590
+Erlin,Erlin,Erh-lin,23.9229,120.4091,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,520.2,48379,48379,3,Asia/Taipei,FALSE,1158369594
+Shuishang,Shuishang,Shui-shang-chuang|Shui-k’u-t’ou|Shueishang|Shui-Shan|Shui-shang,23.4319,120.4147,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,696.8,48164,48164,3,Asia/Taipei,FALSE,1158996361
+Donggang,Donggang,Tung-chiang-chieh|Tung-chiang|Tung-kong|Tung-kang,22.4667,120.4544,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,1583.3,45915,45915,3,Asia/Taipei,FALSE,1158526053
+Fuxing,Fuxing,Fu-nan|Fusing|Fu-hsing,24.0341,120.4235,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,907.8,45388,45388,3,Asia/Taipei,TRUE,1158324066
+Xiluo,Xiluo,Siluo|Hsi-lo-chieh|Hsi-lo,23.7827,120.4551,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,892.2,44610,44610,3,Asia/Taipei,FALSE,1158315546
+Huatan,Huatan,Hua-t’an|Ch’ieh-tung-chiao,24.0316,120.5579,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1229.0,44245,44245,3,Asia/Taipei,FALSE,1158596327
+Yuanli,Yuanli,Yüan-li-chuang|Yüan-li-chen|Fang-li|Yüang-li|Yüan-li,24.4168,120.6830,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,643.6,43923,43923,3,Asia/Taipei,FALSE,1158991714
+Dounan,Dounan,Tou-nan-chuang|Tou-nan,23.6833,120.4833,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,903.3,43360,43360,3,Asia/Taipei,FALSE,1158926049
+Zhongbu,Zhongbu,Jhongbu|Chung-pu,23.4082,120.5343,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,332.9,43275,43275,3,Asia/Taipei,FALSE,1158600763
+Jincheng,Jincheng,Chin-ch’eng|Chin-men-hsien|Kinmen|Quemoyhsien|Quemoy|Chin-men-hsien-ch’eng|Hou-p’u|Chin-men,24.4167,118.3167,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,admin,555.3,42675,42675,2,Asia/Taipei,FALSE,1158376441
+Shetou,Shetou,She-t’ou,23.9076,120.5992,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1154.8,41571,41571,3,Asia/Taipei,FALSE,1158243856
+Pozi,Pozi,Pozih|P’o-tzu-chen|P’u-tzu-chiao|P’o-tzu,23.4611,120.2420,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,820.9,41043,41043,3,Asia/Taipei,FALSE,1158227287
+Beigang,Beigang,Pei-chiang-chen|Pei-chiang|Pei-kang,23.5667,120.3000,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,999.7,40988,40988,3,Asia/Taipei,FALSE,1158593332
+Wujie,Wujie,Ting-wu-chieh|Wu-chieh-chuang|Wu-chieh-ts’un|Wu-chieh,24.7000,121.7833,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,1054.4,40984,40984,3,Asia/Taipei,TRUE,1158382320
+Dacun,Dacun,Ta-ts’un,23.9911,120.5394,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1314.5,40459,40459,3,Asia/Taipei,FALSE,1158383737
+Tianzhong,Tianzhong,Tianjhong|T’ien-chung-chuang|T’ien-chung,23.8595,120.5878,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1134.3,39701,39701,3,Asia/Taipei,FALSE,1158841017
+Taibao,Taibao,T’ai-pao-li|T’ai-pao|T’ai-pao-chuang|Ta-pao,23.4500,120.3333,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,admin,578.4,38696,38696,2,Asia/Taipei,FALSE,1158657404
+Xiushui,Xiushui,Hsiu-shui-ts’un|Sioushuei|An-tung-ts’un|Hsiu-shui,24.0356,120.5037,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1303.6,38248,38248,3,Asia/Taipei,FALSE,1158521382
+Shengang,Shengang,Shen-chiang|Hou-hu|Shui-wei|Shen-kang,24.1648,120.4886,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1731.3,38088,38088,3,Asia/Taipei,FALSE,1158213803
+Su’ao,Su'ao,Su-ao,24.5961,121.8511,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,422.4,37602,37602,3,Asia/Taipei,FALSE,1158318130
+Mingjian,Mingjian,Ming-chien,23.8510,120.6775,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,435.3,36127,36127,3,Asia/Taipei,FALSE,1158386968
+Yongjing,Yongjing,Yung-ching-chuang|Yung-ching-ts’un|Yung-ching,23.9223,120.5356,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1684.0,35365,35365,3,Asia/Taipei,FALSE,1158242366
+Jiaoxi,Jiaoxi,Chiao-ch’i-ts’un|Chiao-hsi|Chiao-ch’i|Jiaosi|Chiao-hsi-ts’un,24.8167,121.7667,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,344.4,34932,34932,3,Asia/Taipei,FALSE,1158494243
+Houlong,Houlong,Hou-lung-chuang|Hou-lung,24.6167,120.7833,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,453.2,34355,34355,3,Asia/Taipei,FALSE,1158090050
+Zhuqi,Zhuqi,Jhuci|Chu-ch’i,23.5065,120.6021,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,209.3,33906,33906,3,Asia/Taipei,FALSE,1158917918
+Buxin,Buxin,Busin|Pu-hsin-ts’un|P’o-hsin|Pu-hsin,23.9523,120.5349,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1610.3,33816,33816,3,Asia/Taipei,FALSE,1158336542
+Beidou,Beidou,Pei-tou-chieh|Pei-tou,23.8747,120.5248,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1752.1,33289,33289,3,Asia/Taipei,FALSE,1158581171
+Xinbu,Xinbu,Hsin-pu-hsiang|Sinbu|Hsin-pu-chuang|Pa-li-kuo|Hsin-pu,24.8478,121.0956,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,458.4,33002,33002,3,Asia/Taipei,FALSE,1158924907
+Xinyuan,Xinyuan,Hsien-kung-miao|Sinyuan|Hsien-chi-ts’un|Hsin-yüan,22.5149,120.4470,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,861.9,32754,32754,3,Asia/Taipei,FALSE,1158820437
+Waiyuanshan,Waiyuanshan,Yüan-shan|Wai-yüan-shan,24.7443,121.6684,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,286.8,32099,32099,3,Asia/Taipei,FALSE,1158844891
+Tongxiao,Tongxiao,T’un-hsiao|T’ung-hsiao|Tongsiao,24.4833,120.6833,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,294.8,31799,31799,3,Asia/Taipei,FALSE,1158427043
+Fangyuan,Fangyuan,Fang-wan|Sha-shan|Fang-yüan,23.9250,120.3158,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,372.0,31572,31572,3,Asia/Taipei,FALSE,1158966656
+Buyan,Buyan,Hsia-lu|Pu-yen-ts’un|Pu-yen,23.9961,120.4618,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,804.6,31380,31380,3,Asia/Taipei,FALSE,1158864822
+Gongguan,Gongguan,Kung-kuan,24.5053,120.8447,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,441.2,31327,31327,3,Asia/Taipei,TRUE,1158933960
+Xingang,Xingang,Hsin-nan-kang|Hsin-Kang-Hsiang|Hsin-chiang-hsiang|Hsin-chiang|Singang|Hsin-hsiang-chuang|Hsin-kang,23.5600,120.3500,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,462.4,30543,30543,3,Asia/Taipei,FALSE,1158285063
+Gukeng,Gukeng,Ku-k’eng,23.6500,120.5667,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,180.3,30105,30105,3,Asia/Taipei,FALSE,1158248475
+Dalin,Dalin,Ta-lin-chuang|Ta-p’u-lin|Ta-lin,23.5989,120.4700,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,467.8,29937,29937,3,Asia/Taipei,FALSE,1158347421
+Hengchun,Hengchun,Heng-ch’un,22.0000,120.7500,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,217.8,29790,29790,3,Asia/Taipei,FALSE,1158823887
+Pitou,Pitou,P’i-t’ou-ts’un|P’i-t’ou,23.8775,120.4706,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,685.7,29314,29314,3,Asia/Taipei,TRUE,1158054057
+Changzhi,Changzhi,Lun-shang-li|T’an-t’ou|Lun-shang|Changjhih|Ch’ang-chih,22.6833,120.5333,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,730.2,29210,29210,3,Asia/Taipei,FALSE,1158049266
+Xizhou,Xizhou,Sijhou|Hsi-chou,24.1156,120.5350,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,377.1,28597,28597,3,Asia/Taipei,TRUE,1158560698
+Toucheng,Toucheng,T’ou-wei-chuang|T’ou-wei|T’ou-ch’eng,24.8500,121.8167,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,280.8,28334,28334,3,Asia/Taipei,FALSE,1158073803
+Tuku,Tuku,T’u-k’u-chuang|T’u-k’u,23.6911,120.3620,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,564.5,27662,27662,3,Asia/Taipei,FALSE,1158715962
+Citong,Citong,Cihtong|Tz’u-t’ung-chuang|Tz’u-t’ung,23.7729,120.5277,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,540.0,27538,27538,3,Asia/Taipei,FALSE,1158010048
+Guanxi,Guanxi,Kuan-hsi-chuang|Kuan-hsi-chen|Guansi|Hsien-ts’ai-p’eng|Kuan-hsi,24.8000,121.1833,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,214.7,27051,27051,3,Asia/Taipei,FALSE,1158461658
+Tianwei,Tianwei,T’ien-wei-ts’un|Ting-t’ien-wei|T’ien-wei,23.9023,120.5214,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1086.0,26063,26063,3,Asia/Taipei,TRUE,1158880346
+Yuanchang,Yuanchang,Yüan-ch’ang,23.6420,120.3229,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,361.0,25840,25840,3,Asia/Taipei,FALSE,1158471732
+Ligang,Ligang,Li-chiang-chuang|Li-chiang|A-li-kang|Li-kang,22.8011,120.5070,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,371.9,25661,25661,3,Asia/Taipei,FALSE,1158548477
+Kouhu,Kouhu,K’ou-hu,23.5763,120.1725,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,318.2,25454,25454,3,Asia/Taipei,FALSE,1158470096
+Budai,Budai,Pu-tai-chen|Pu-tai-chiang|Pu-tai,23.3600,120.1700,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,409.3,25267,25267,3,Asia/Taipei,FALSE,1158993335
+Erlun,Erlun,Erh-lin|Erh-lun,23.7910,120.3954,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,419.7,25183,25183,3,Asia/Taipei,FALSE,1158955964
+Zhuangwei,Zhuangwei,Chuang-wu|Jhuangwei|Chuang-wu-ts’un|Chuang-wei,24.7702,121.8023,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,635.0,24433,24433,3,Asia/Taipei,FALSE,1158013111
+Yanbu,Yanbu,Yen-pu,22.7544,120.5724,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,375.5,24035,24035,3,Asia/Taipei,TRUE,1158818026
+Dongshi,Dongshi,Dongshih|Tung-shih,23.4748,120.1769,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,23327,23327,3,Asia/Taipei,FALSE,1158540364
+Shuilin,Shuilin,Shu-lin|Shueilin|Mu-lin|Shui-ts’an-lin|Shui-lin,23.5662,120.2340,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,316.9,23134,23134,3,Asia/Taipei,FALSE,1158354409
+Lunbei,Lunbei,Lun-pei,23.7789,120.3331,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,397.4,23051,23051,3,Asia/Taipei,FALSE,1158459635
+Gaoshu,Gaoshu,Kao-ssu-hsia|Ta-ch’e-lu|Kao-shu-ts’un|Kao-shu,22.8202,120.5979,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,253.5,22815,22815,3,Asia/Taipei,FALSE,1158803250
+Fangliao,Fangliao,Fang-liao,22.3656,120.5936,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,393.1,22802,22802,3,Asia/Taipei,FALSE,1158243044
+Fenyuan,Fenyuan,She-k’ou-ts’un|Fen-yüan-ts’un|She-k’ou|Fen-yüan,24.0154,120.6274,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,589.9,22417,22417,3,Asia/Taipei,FALSE,1158373673
+Yuli,Yuli,Yü-Li-Ch’en|Yü-li,23.3875,121.3764,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,88.4,22305,22305,3,Asia/Taipei,FALSE,1158695945
+Taixi,Taixi,Hai-k’ou|Taisi|T’ai-hsi,23.7000,120.2000,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,408.8,22077,22077,3,Asia/Taipei,FALSE,1158631451
+Jiuru,Jiuru,Jiouru|Chiu-k’uai-ts’o|Chiu-ch’ing-ts’un|Chiu-k’uai|Chiu-k’uai-chuang|Chiu-k’uai-ts’un|Chiu-ju,22.7333,120.4833,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,514.6,21612,21612,3,Asia/Taipei,FALSE,1158362617
+Sihu,Sihu,Sihhu|Ssu-hu,23.6411,120.2010,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,278.7,21458,21458,3,Asia/Taipei,FALSE,1158387036
+Sanxing,Sanxing,Sansing|Yüeh-mei|San-hsing,24.6739,121.6631,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,147.3,21239,21239,3,Asia/Taipei,FALSE,1158866259
+Xincheng,Xincheng,Sincheng|Hsin-ch’eng,24.0514,121.6083,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,690.6,20308,20308,3,Asia/Taipei,FALSE,1158118718
+Xionglin,Xionglin,Ch’iung-lin|Shiung-Lin|Syonglin|Hsiung-lin,24.7742,121.0964,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,493.3,20224,20224,3,Asia/Taipei,FALSE,1158057150
+Wanluan,Wanluan,Wan-man|Wan-luan,22.5727,120.5678,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,316.0,19278,19278,3,Asia/Taipei,FALSE,1158436916
+Dapi,Dapi,Pei-ho|Pei-ho-ts’un|Ta-p’i,23.6494,120.4254,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,404.0,18178,18178,3,Asia/Taipei,FALSE,1158141217
+Meishan,Meishan,Hsiao-mei|Mei-shan|Msi-shan,23.5607,120.6296,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,151.4,18164,18164,3,Asia/Taipei,FALSE,1158732853
+Jiadong,Jiadong,Tung-chia|Ch’ieh-tung-chiao|Chia-tung-chuang|Chia-tung,22.4305,120.5471,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,578.5,17934,17934,3,Asia/Taipei,FALSE,1158867196
+Guoxing,Guoxing,Guosing|Kuo-hsing,24.0550,120.8700,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,97.5,17168,17168,3,Asia/Taipei,FALSE,1158237846
+Shoufeng,Shoufeng,Shou|Shoufong|Li-yü-wei|Shou-ts’un|Shou-feng,23.8667,121.5167,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,78.5,17106,17106,3,Asia/Taipei,FALSE,1158349952
+Yizhu,Yizhu,I-chu-wei|Yijhu|I-chu,23.3565,120.2235,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,216.5,17104,17104,3,Asia/Taipei,FALSE,1158909827
+Xiulin,Xiulin,P’u-ssu-lin-she|Hsiu-Lin-Ts’un|K’uo-lo-she|P’u-ssu-lin|Sioulin|Hsiu-lin,24.2167,121.5333,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,9.201,17068,17068,3,Asia/Taipei,FALSE,1158906306
+Linnei,Linnei,Lin-Nai|Lin-nei,23.7591,120.6184,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,443.6,16856,16856,3,Asia/Taipei,FALSE,1158497555
+Beinan,Beinan,Pei-nan-ts’un|Pei-nan,22.7833,121.1167,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,40.7,16798,16798,3,Asia/Taipei,FALSE,1158487727
+Tongluo,Tongluo,T’ung-lo,24.4833,120.7833,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,212.3,16563,16563,3,Asia/Taipei,FALSE,1158194331
+Linbian,Linbian,Lin-pien,22.4333,120.5167,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,1030.7,16491,16491,3,Asia/Taipei,FALSE,1158632383
+Lugu,Lugu,Ch’iang-tzu-liao|Lu-ku,23.7500,120.7330,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,115.6,16413,16413,3,Asia/Taipei,FALSE,1158744613
+Xianxi,Xianxi,K’ou-ts’o|Hsien-shi-ts’un|Hsien-hsi-ts’un|Siansi|Yü-pu-ts’un|Yü-pu|Hsien-hsi,24.1334,120.4589,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,906.1,16310,16310,3,Asia/Taipei,FALSE,1158894536
+Shuili,Shuili,Shueili|Shui-li-k’eng|Shui-li,23.7989,120.8553,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,152.3,16297,16297,3,Asia/Taipei,FALSE,1158589365
+Zhutian,Zhutian,Tun-wu-t’an|Jhutian|Tun-wu|Chu-t’ien,22.5890,120.5303,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,545.9,15830,15830,3,Asia/Taipei,FALSE,1158857379
+Renai,Renai,Jen-ai,24.0462,121.1304,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,12.3,15670,15670,3,Asia/Taipei,FALSE,1158608821
+Zhuolan,Zhuolan,Cho-lan-chen|Chao-lan|Cho-lan-chuang|Jhuolan|Cho-lan,24.3222,120.8447,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,203.1,15505,15505,3,Asia/Taipei,FALSE,1158259553
+Dacheng,Dacheng,Ta-ch’eng-chuang|Ta-ch’eng,23.8483,120.3089,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,242.0,15425,15425,3,Asia/Taipei,FALSE,1158751898
+Kanding,Kanding,Ch’ien-ting-ts’un|K’an-ting-ts’un|T’an-ting|Ting-ts’un|K’an-ting,22.5194,120.5032,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,491.4,15234,15234,3,Asia/Taipei,TRUE,1158898818
+Sanyi,Sanyi,San-ch’a|San-ch’a-ho|San-i,24.4167,120.7667,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,217.3,14995,14995,3,Asia/Taipei,FALSE,1158612872
+Yuchi,Yuchi,Yuchih|Yü-ch’ih-hsiang|Yü-ch’ih,23.9000,120.9333,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,122.8,14863,14863,3,Asia/Taipei,FALSE,1158195284
+Lucao,Lucao,Lu-ts’ao-chuang|Lu-tzu-ts’ao|Lu-ts’ao,23.4133,120.3092,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,270.0,14579,14579,3,Asia/Taipei,FALSE,1158141608
+Baoshan,Baoshan,Pao-shan,24.7428,120.9991,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,221.6,14402,14402,3,Asia/Taipei,FALSE,1158298805
+Zhutang,Zhutang,Jhutang|Chu-t’ang,23.8528,120.4114,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,341.5,14343,14343,3,Asia/Taipei,FALSE,1158953082
+Ershui,Ershui,Ershuei|Erh-pa-shui|Erh-shui-chuang|Erh-shui,23.8167,120.6167,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,485.5,14080,14080,3,Asia/Taipei,FALSE,1158555502
+Zhongliao,Zhongliao,Jhongliao|Chung-liao-ts’un|Chung-liao-she-ch’ü|Hsiang-ch’in-liao|Chung-liao,23.9039,120.7819,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,93.7,13774,13774,3,Asia/Taipei,FALSE,1158905637
+Xikou,Xikou,Sikou|Hsi-k’ou-chuang|Ch’i-k’ou|Hsi-k’ou,23.5947,120.3948,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,413.9,13658,13658,3,Asia/Taipei,FALSE,1158767756
+Dongshicuo,Dongshicuo,Tung-shih|Dongshihcuo|Tung-shih-ts’o,23.7021,120.2556,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,283.4,13601,13601,3,Asia/Taipei,FALSE,1158664791
+Chenggong,Chenggong,Hsin-chiang|Hsin-kang|Ch’eng-kung-chen|Ch’eng-kung,23.1167,121.3500,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,91.6,13193,13193,3,Asia/Taipei,FALSE,1158560266
+Dahu,Dahu,Ma-ao|Ta-hu-chuang|Ta-hu,24.3978,120.8486,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,143.2,13035,13035,3,Asia/Taipei,TRUE,1158685093
+Hengshan,Hengshan,Heng-shan-chuang|Chiu-tsan-t’ou|Heng-shan,24.7100,121.1369,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,185.0,12208,12208,3,Asia/Taipei,FALSE,1158018380
+Baozhong,Baozhong,Baojhong|Pu-cniang-lun|Pu-chiang-lun|Pao-chung,23.6956,120.3117,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,326.6,12086,12086,3,Asia/Taipei,FALSE,1158849280
+Kuangfu,Kuangfu,T’ai-an|Kuang-fu,23.6351,121.4228,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,76.2,11975,11975,3,Asia/Taipei,FALSE,1158283390
+Zaoqiao,Zaoqiao,Zaociao|Yüan-feng-ts’un|Tsao-ch’iao-erh-pao|Tsao-ch’iao,24.6500,120.8667,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,242.5,11639,11639,3,Asia/Taipei,FALSE,1158591801
+Fanlu,Fanlu,Fan-lu,23.4494,120.6033,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,93.5,11029,11029,3,Asia/Taipei,FALSE,1158910013
+Ruisui,Ruisui,Jui-shui|Jui-sui-hsiang|Rueisuei|Jui-sui-ts’un|Jui-sui,23.4333,121.5000,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,80.7,10944,10944,3,Asia/Taipei,FALSE,1158003251
+Taimali,Taimali,T’ai-ma|Ta-ma-li|T’ai-ma-li,22.6167,121.0000,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,110.5,10723,10723,3,Asia/Taipei,FALSE,1158802426
+Linluo,Linluo,Lin-lo,22.6506,120.5271,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,661.4,10583,10583,3,Asia/Taipei,FALSE,1158226688
+Fenglin,Fenglin,Fonglin|Fenfg-lin|Feng-lin,23.7500,121.4333,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,87.6,10552,10552,3,Asia/Taipei,FALSE,1158018865
+Jiji,Jiji,Chi-chi,23.8300,120.7830,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,201.1,10056,10056,3,Asia/Taipei,FALSE,1158172698
+Nanzhou,Nanzhou,Hsi-chou|Nanjhou|Ch’i-chou|Nan-chou,22.4789,120.5156,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,522.2,9921,9921,3,Asia/Taipei,FALSE,1158433128
+Touwu,Touwu,T’ou-wu-ts’un|K’an-t’ou-wu|T’ou-wu,24.5833,120.8500,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,185.6,9835,9835,3,Asia/Taipei,FALSE,1158275134
+Fuli,Fuli,Kung-pu|Fu-li-ts’un|Fu-lin-ts’un|Fu-li-hsiang|Fu-li,23.1333,121.2833,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,54.9,9681,9681,4,Asia/Taipei,FALSE,1158634303
+Jinshui,Jinshui,Ch’in-shui|Jinshuei|Chin-shui,24.5761,121.3081,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,,18.1,9536,9536,3,Asia/Taipei,FALSE,1158329082
+Jianshi,Jianshi,Jianshih|Chien-shih,24.7053,121.2014,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,11.3,9532,9532,4,Asia/Taipei,FALSE,1158994660
+Xinpi,Xinpi,Sinpi|Hsin-p’i,22.4880,120.5814,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,161.5,9528,9528,3,Asia/Taipei,FALSE,1158537415
+Nanzhuang,Nanzhuang,Nanjhuang|Nan-chuang,24.5699,121.0157,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,54.7,9029,9029,3,Asia/Taipei,FALSE,1158569080
+Beibu,Beibu,Pei-pu-hsiang|Pei-pu-chuang|Pei-pu,24.6639,121.0681,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,170.4,8633,8633,3,Asia/Taipei,FALSE,1158656385
+Guanshan,Guanshan,Li-lung|Kuan-shan-chen|Kuan-shan,23.0181,121.1939,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,138.3,8160,8160,3,Asia/Taipei,FALSE,1158416239
+Checheng,Checheng,Ch’e-ch’eng-chuang|Ch’ai-ch’eng|Ch’e-ch’eng,22.0798,120.7457,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,161.0,8050,8050,4,Asia/Taipei,FALSE,1158201809
+Donghe,Donghe,Ta-ma|Ta-ma-wu-tu|Ta-ma-wu-k’u|Tung-ho-ts’un|Tung-ho,22.9667,121.2500,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,38.2,8022,8022,3,Asia/Taipei,FALSE,1158595193
+Chishang,Chishang,Ch’ih-shang-hsiang|Chihshang|Ta-pu|Ch’ih-shang,23.1167,121.2167,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,96.1,7978,7978,3,Asia/Taipei,FALSE,1158581330
+Sandimen,Sandimen,San-ti-hsiang|San-ti|San-ti-men,22.7167,120.6500,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,39.5,7748,7748,3,Asia/Taipei,FALSE,1158647399
+Laiyi,Laiyi,Lai-she|Lai-i-ts’un|Chia-la-a-fu-ssu|Lai-i,22.5333,120.6833,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,44.1,7410,7410,3,Asia/Taipei,FALSE,1158046133
+Nangan,Nangan,Nangan Xiang|Nan-kan,26.1500,119.9333,Taiwan,TW,TWN,Lienchiang,Lienchiang,TW-LIE,county,admin,693.8,7382,7382,2,Asia/Taipei,FALSE,1158327079
+Xiamanzhou,Xiamanzhou,Siamanjhou|Hsia-man-chou|Piao-ku-kung,22.0443,120.8468,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,51.3,7285,7285,4,Asia/Taipei,FALSE,1158105559
+Luye,Luye,Lu-yeh,22.9525,121.1628,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,80.8,7275,7275,3,Asia/Taipei,FALSE,1158715504
+Majia,Majia,Ma-chia|Liang-shan|Ma-chia-she,22.6667,120.6667,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,85.3,6739,6739,3,Asia/Taipei,FALSE,1158081258
+Changbin,Changbin,Chia-Cho-Wan|Chia-tsou-wan-wei|Chia-tsou-wan|Ch’ang-pin,23.3167,121.4500,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,43.4,6722,6722,3,Asia/Taipei,FALSE,1158166396
+Sanwan,Sanwan,San-wan,24.6320,120.9368,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,128.8,6700,6700,3,Asia/Taipei,FALSE,1158807007
+Xizhou,Xizhou,Sijhou|Ch’i-chou|Hsi-chou,24.5500,120.7500,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,153.3,6284,6284,3,Asia/Taipei,FALSE,1158971391
+Nan’ao,Nan'ao,Nan-ao,24.4667,121.8000,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,8.2,6110,6110,3,Asia/Taipei,FALSE,1158623499
+Zhuoxi,Zhuoxi,Cho-ch’i-ts’un|Pa-nei-t’a|Cho-ch’i|Cho-hsi-ts’un|Jhuosi|Cho-hsi,23.3333,121.2833,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,5.9,6043,6043,3,Asia/Taipei,FALSE,1158240220
+Datong,Datong,Le-shui|Ta-t’ung,24.6772,121.6090,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,9.2,6042,6042,3,Asia/Taipei,FALSE,1158863581
+Tai’an,Tai'an,Ch’ing-an|T’ai-an,24.4228,121.0507,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,9.2,5672,5672,4,Asia/Taipei,FALSE,1158763662
+Dawu,Dawu,Pa-lang-wei|Ta-wu,22.3667,120.9000,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,80.8,5577,5577,3,Asia/Taipei,FALSE,1158528660
+Wangan,Wangan,Tung-an-ts’un|Wang-an-she|Tung-hu-ts’un|Wang-an,23.3571,119.5003,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,101.5,5435,5435,3,Asia/Taipei,FALSE,1158322218
+Alishan,Alishan,Chao-p’ing|A-li-shan,23.3500,120.8000,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,12.6,5374,5374,4,Asia/Taipei,FALSE,1158615540
+Emei,Emei,O-mei-hsiang|Yüeh-mei|O-mei-chuang|O-mei,24.6789,121.0000,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,113.0,5312,5312,4,Asia/Taipei,FALSE,1158631216
+Fangshan,Fangshan,Fang-shan-ts’un|Peng-k’an-t’ou|Fang-shan-chuang|Fang-shan,22.2667,120.6500,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,295.5,5023,5023,3,Asia/Taipei,FALSE,1158224071
+Chunri,Chunri,Chunrih|Ch’un-jih-ts’un|Ch’un-jih,22.3710,120.6291,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,30.5,4879,4879,3,Asia/Taipei,FALSE,1158518163
+Shizitou,Shizitou,Shih-t’ou|Shihzihtou|Shih-tzu-t’ou,22.2018,120.7054,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,16.0,4808,4808,3,Asia/Taipei,FALSE,1158297843
+Mudan,Mudan,Mu-tan-she|Mu-tan-ts’un|Mu-tan,22.1592,120.8156,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,26.2,4765,4765,4,Asia/Taipei,FALSE,1158161687
+Dabu,Dabu,Ta-pu,23.2946,120.5937,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,26.0,4504,4504,4,Asia/Taipei,FALSE,1158941052
+Wufeng,Wufeng,Shih-pa-erh-she|Wufong|Shih-pa-erh|Wu-feng,24.5911,121.1481,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,19.7,4488,4488,3,Asia/Taipei,FALSE,1158062114
+Fengbin,Fengbin,Mao-kung|Fongbin|Feng-pin-ts’un|Feng-pin,23.5911,121.5038,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,26.5,4310,4310,3,Asia/Taipei,FALSE,1158866141
+Haiduan,Haiduan,Hai-tuan-ts’un|Hai-t’o-t’o-wan-she|Hai-tuan,23.1000,121.1833,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,4.8,4224,4224,3,Asia/Taipei,FALSE,1158822066
+Shitan,Shitan,Shihtan|Shih-t’an,24.5234,120.9234,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,52.4,4141,4141,3,Asia/Taipei,FALSE,1158687452
+Jinfeng,Jinfeng,Jinfong|Chin-feng,22.6000,120.9667,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,9.7,3711,3711,3,Asia/Taipei,FALSE,1158741700
+Taoyuan,Taoyuan,Yen-p’ing|T’ao-yüan-ts’un|T’ao-yüan,22.9000,120.9833,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,8.0,3668,3668,3,Asia/Taipei,FALSE,1158168974
+Daren,Daren,Ta-jen-hsiang|Ta-jen,22.3000,120.8833,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,11.2,3419,3419,3,Asia/Taipei,FALSE,1158130417
+Wutai,Wutai,Wu-t’ai-ts’un|Wu-t’ai-she|K’a-wu-ta-tan|Wu-t’ai,22.7500,120.7300,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,3.7,3273,3273,3,Asia/Taipei,FALSE,1158994385
+Xishi,Xishi,Sishih|Hsi-shih,24.0411,120.4374,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,872.0,2394,2394,3,Asia/Taipei,FALSE,1158691610
+Xiaolin,Xiaolin,Siaolin|Hsiao-lin,23.1625,120.6444,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,12.6,603,603,4,Asia/Taipei,FALSE,1158284217
+Xiangchuan,Xiangchuan,Siangchuan|Hsiang-chuan-hsi|Hsiang-chuang-ch’i|Hsiang-ch’uan,24.3219,120.9218,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,9.2,,,4,Asia/Taipei,FALSE,1158454824
+Wukuicuo,Wukuicuo,Wukueicuo|Wu-k’uai-ts’o|Wu-k’uai-ts’un|Wu-k’uai|Wu-k’uei-ts’o,23.7684,120.3252,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,377.9,,,3,Asia/Taipei,FALSE,1158476671
+Youchezi,Youchezi,Yu-ch’e-tzu|Youchezih,23.7445,120.5240,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,436.8,,,3,Asia/Taipei,FALSE,1158070227
+Liyuwei,Liyuwei,Li-yü-wei,23.7228,120.6564,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,181.6,,,4,Asia/Taipei,FALSE,1158907370
+Nanwokou,Nanwokou,Nan-wo-k’ou,24.5052,120.7515,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,138.7,,,4,Asia/Taipei,FALSE,1158293143
+Shimen,Shimen,Shihmen|Shih-men,24.8125,121.2486,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1970.1,,,3,Asia/Taipei,FALSE,1158546750
+Yuanzinei,Yuanzinei,Yuanzihnei|Yüan-tzu-nei,23.9925,120.4911,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1059.3,,,3,Asia/Taipei,FALSE,1158126543
+Alancheng,Alancheng,A-lan-ch’eng,24.7693,121.7289,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,1271.1,,,3,Asia/Taipei,FALSE,1158205673
+Shandong,Shandong,Shan-tung-li|Shan-tung,25.0177,121.1742,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2764.8,,,2,Asia/Taipei,FALSE,1158335312
+Bujianglin,Bujianglin,Pu-chiang-lin,24.3406,120.5911,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,616.6,,,3,Asia/Taipei,FALSE,1158078475
+Chishan,Chishan,Chihshan|Ch’ih-shan-lu|Ch’ih-shan-tzu|Ch’ih-shan,22.6805,120.3472,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1921.5,,,3,Asia/Taipei,FALSE,1158507787
+Dongshishe,Dongshishe,T’an-she|Tung-shih-t’ou|T’an-she-li|Dongshihshe|Tung-she|Tung-shih-she,24.1233,120.5205,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1185.3,,,3,Asia/Taipei,FALSE,1158991247
+Sharenkeng,Sharenkeng,Chung-jen-k’eng|Sha-jen-k’eng,24.4467,120.7019,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158603400
+Zhuzishan,Zhuzishan,Chu-shan-lu|Jhuzihshan|Chu-tzu-shan,23.9409,120.9575,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158332738
+Changduanshu,Changduanshu,Ting-ch’ang-tuan-shu|Ting-ch’ang-ts’un|Ch’ang-tuan-shu,23.3577,120.3315,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,313.1,,,3,Asia/Taipei,FALSE,1158956112
+Wushe,Wushe,Jen-ai-ts’un|Jen-ai|Wu-she,24.0225,121.1325,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,10.3,,,4,Asia/Taipei,FALSE,1158331429
+Rongcun,Rongcun,Pu-wei|Pu-wei-ts’un|Jung-ts’un,23.7518,120.5133,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,436.8,,,3,Asia/Taipei,FALSE,1158028033
+Yangliuzhuang,Yangliuzhuang,Shui-liu-chuang|Yanglioujhuang|Yang-liu-chuang,24.3758,120.6028,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,619.1,,,3,Asia/Taipei,FALSE,1158834734
+Fucheng,Fucheng,Fan-tzu-ch’eng|Fu-ch’eng,24.0221,120.8201,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158554845
+Dongtun,Dongtun,Ta-t’un|Tung-t’un-ts’un|Ta-t’un-tzu|Tung-t’un,23.7051,120.3876,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1011.0,,,3,Asia/Taipei,FALSE,1158230573
+Zhongguyuan,Zhongguyuan,Jhongguyuan|Chung-ku-yüan,23.9836,120.4832,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,820.0,,,3,Asia/Taipei,FALSE,1158230857
+Houzhuang,Houzhuang,Houjhuang|Hou-chuang-li|Hou-chuang,24.6993,120.8905,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2088.7,,,2,Asia/Taipei,FALSE,1158182187
+Xiawatong,Xiawatong,Siawatong|Hsia-she|Hsia-wa-t’ung,23.6577,119.5848,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,231.6,,,3,Asia/Taipei,FALSE,1158415429
+Huzinei,Huzinei,Huzihnei|Hu-tzu-nei,22.9819,120.3131,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,670.6,,,3,Asia/Taipei,FALSE,1158693450
+Huzinei,Huzinei,Huzihnei|Hu-tzu-nei,23.2321,120.3639,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,288.5,,,3,Asia/Taipei,TRUE,1158617329
+Wangcuo,Wangcuo,Wang-ts’o,22.9922,120.2917,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1350.5,,,3,Asia/Taipei,FALSE,1158486508
+Xiazhuang,Xiazhuang,Siajhuang|Hsia-chuang-lu|Hsia-chuang,22.4550,120.5236,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,513.4,,,3,Asia/Taipei,FALSE,1158867946
+Xiazhuang,Xiazhuang,Hsia-chuang-tzu|Siajhuang|Hsia-chuang,22.7236,120.5014,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,458.9,,,3,Asia/Taipei,TRUE,1158000112
+Ganziyuan,Ganziyuan,Ganzihyuan|Kan-tzu-yüan,23.8008,120.8674,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,108.3,,,4,Asia/Taipei,FALSE,1158846566
+Shangtongxiaowan,Shangtongxiaowan,Shangtongsiaowan|Shang-t’ung-wan|Shang-t’ung-hsiao-wan,24.5364,120.6955,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158273000
+Xiao’ao,Xiao'ao,Kang-ao|Chiang-ao|Siao’ao|Hsiao-ao,24.8892,121.8489,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,297.3,,,3,Asia/Taipei,FALSE,1158702026
+Yucuozhuang,Yucuozhuang,Yucuojhuang|Yü-ts’o-chuang,24.4017,120.7069,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158698474
+Liuchen,Liuchen,Liouchen|Liu-ch’en,23.1050,120.4481,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,161.1,,,4,Asia/Taipei,FALSE,1158040684
+Jiaobayuan,Jiaobayuan,Chiao-pa-yüan,23.0275,120.5550,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,80.9,,,4,Asia/Taipei,FALSE,1158440270
+Xizhen,Xizhen,Sijhen|Hsi-shih-chen|Hsi-shih-t’an|Hsi-chen,23.6205,120.3832,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,289.9,,,3,Asia/Taipei,FALSE,1158264474
+Shangduoliang,Shangduoliang,Ta-la-ta-lan|Ch’a-la-mi|Ta-huang-ta-lan|Shang-to-liang,22.5142,120.9550,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,78.0,,,4,Asia/Taipei,FALSE,1158044639
+Tanzi,Tanzi,T’an-tzu,21.9500,120.7833,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158329709
+Shanchuanliao,Shanchuanliao,Shan-ch’uan-liao,23.6652,120.2896,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,287.0,,,3,Asia/Taipei,FALSE,1158635256
+Xiantangping,Xiantangping,Siantangping|Hsien-t’ang-p’ing,24.2535,120.7923,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,587.5,,,3,Asia/Taipei,FALSE,1158911951
+Laokeng,Laokeng,Lao-k’eng,24.8911,121.1592,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,,,2,Asia/Taipei,FALSE,1158478294
+Shicao,Shicao,Shihcao|Nan-liao|Shih-ts’ao,23.1728,120.5197,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,57.5,,,4,Asia/Taipei,FALSE,1158156607
+Shicao,Shicao,Shihcao|Shih-ts’ao,22.9619,120.4119,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,35.9,,,4,Asia/Taipei,TRUE,1158521062
+Houjiaoliao,Houjiaoliao,Hou-chiao-liao,24.0740,120.8362,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158061969
+Amonenghan,Amonenghan,A-mo-neng-han|A-mo-nen-han,23.2934,121.3592,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,110.2,,,4,Asia/Taipei,FALSE,1158869488
+Huangshan,Huangshan,Huang-shan,25.1858,121.6147,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,332.2,,,3,Asia/Taipei,FALSE,1158960748
+Xingcuoliao,Xingcuoliao,Hsing-ts’o|Singcuoliao|Hsing-ts’o-ts’un|Hsing-ts’o-liao,23.4734,120.1525,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,,,3,Asia/Taipei,FALSE,1158574848
+Changrong,Changrong,Chu-tzu-chiao|Ch’ang-jung,23.1939,120.1567,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,370.8,,,3,Asia/Taipei,FALSE,1158245004
+Yinggeshibu,Yinggeshibu,Yinggeshihbu|Ying-ko-shih-pu,25.0896,121.6360,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,3388.0,,,2,Asia/Taipei,FALSE,1158290484
+Tandi,Tandi,T’an-ch’ien|T’an-ti,23.1689,120.2528,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,742.1,,,3,Asia/Taipei,FALSE,1158531454
+Tandi,Tandi,T’an-ti,23.3456,120.4347,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,204.3,,,3,Asia/Taipei,TRUE,1158367451
+Xizhi,Xizhi,Hsi-Tzu-Chen|Hsi-chih-chieh|Hsi-chih-chen|Sijhih|Hsi-Tzu|Hsi-chih,25.0662,121.6599,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,3388.0,,,2,Asia/Taipei,FALSE,1158561841
+Jiaobu,Jiaobu,Hsiung-chiao-k’eng|Ch’iung-chiao-k’eng|Chiao-pu,24.4047,120.7358,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,407.3,,,3,Asia/Taipei,FALSE,1158714238
+Zhuangdu,Zhuangdu,Jhuangdu|Chuang-tu,23.9502,120.5952,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2505.6,,,2,Asia/Taipei,FALSE,1158999429
+Fulianqiao,Fulianqiao,Fulianciao|Fu-lien-ch’iao,24.9903,121.1308,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,614.7,,,3,Asia/Taipei,FALSE,1158517491
+Dehuashe,Dehuashe,Hua-fan-she|Pu-chi|Hua-fan|Te-hua-ts’un|Te-hua-she,23.8481,120.9303,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158106649
+Changlai,Changlai,Ch’ang-lai,23.9060,120.7651,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158966536
+Liutengping,Liutengping,Lioutengping|Liu-t’eng-p’ing,23.6953,120.6903,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158112164
+Dingcuo,Dingcuo,Ting-ts’o,24.2647,120.6939,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,2056.0,,,2,Asia/Taipei,FALSE,1158969503
+Xintian,Xintian,Sintian|Hsin-t’ien,24.3025,120.7939,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158193710
+Zhenxing,Zhenxing,Cheng-Hsing-Tsun|Chen-hsing-ts’un|Jhensing|Hsi-kua-yüan|Chen-hsing,22.7234,120.6114,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,420.5,,,3,Asia/Taipei,FALSE,1158867488
+Wenlan,Wenlan,Wunlan|T’ung-wen-ts’un|Wen-lan-ts’un|T’ung-wen|Wen-lan,23.9482,121.5069,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,29.5,,,4,Asia/Taipei,FALSE,1158287906
+Pozishu,Pozishu,Pozihshu|P’o-tzu-shu-hsia|P’o-tzu-shu,24.4898,120.8254,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,442.6,,,3,Asia/Taipei,FALSE,1158007795
+Shuiguangtou,Shuiguangtou,Shueiguangtou|Shui-yüan-t’i|Shui-yüan-t’ou|Shui-kuang-t’ou,23.6558,121.4090,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,75.9,,,4,Asia/Taipei,FALSE,1158180920
+Yanwan,Yanwan,Yung-ho|Hsia-yen-wan|Yen-wan,22.8069,121.1255,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,1006.3,,,3,Asia/Taipei,FALSE,1158239607
+Bailunzi,Bailunzi,Bailunzih|Pai-lun-tzu,22.9639,120.2397,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,5433.3,,,2,Asia/Taipei,FALSE,1158090672
+Huangzhuang,Huangzhuang,Huangjhuang|Huang-chuang,22.6641,120.3947,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1833.3,,,3,Asia/Taipei,FALSE,1158125086
+Fuzhengcun,Fuzhengcun,Fu-cheng|Fu-chang-ts’un|Fu-cheng-ts’un,25.9667,119.9833,Taiwan,TW,TWN,Lienchiang,Lienchiang,TW-LIE,county,,228.7,,,3,Asia/Taipei,FALSE,1158703794
+Jianshan,Jianshan,Chien-shan,23.9872,120.9189,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158027907
+Wuhua,Wuhua,Wu-hua,24.7188,121.0068,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,222.1,,,3,Asia/Taipei,FALSE,1158495724
+Kending,Kending,K’en-ting,21.9453,120.8003,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158536703
+Honghuayuan,Honghuayuan,Hung-hua-yüan,23.2833,120.5863,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,9.2,,,5,Asia/Taipei,FALSE,1158924900
+Shangqiedong,Shangqiedong,Shang-chia-tung|Chia-min|Shang-ch’ien-tung|Shangciedong|Chia-min-ts’un|Shang-ch’ieh-tung,23.3867,120.3801,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,313.1,,,3,Asia/Taipei,FALSE,1158155273
+Shibi,Shibi,Shihbi|Shih-pi,24.5744,121.0433,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,58.6,,,4,Asia/Taipei,FALSE,1158604198
+Kezhuang,Kezhuang,Kejhuang|K’o-chuang,24.4364,120.6594,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,606.8,,,3,Asia/Taipei,FALSE,1158935280
+Beiwo,Beiwo,Pei-wo,24.8833,121.1050,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1969.9,,,3,Asia/Taipei,FALSE,1158716206
+Beiwo,Beiwo,Pei-wo,24.7039,121.1144,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,214.2,,,3,Asia/Taipei,TRUE,1158050329
+Baishabi,Baishabi,Pai-sha-pi,21.8986,120.8642,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158082937
+Baishacun,Baishacun,Pai-sha|Pai-sha-ts’un,26.2063,119.9696,Taiwan,TW,TWN,Lienchiang,Lienchiang,TW-LIE,county,,194.6,,,4,Asia/Taipei,FALSE,1158530598
+Shangtianxin,Shangtianxin,Shangtiansin|Shang-t’ien-hsin-tzu|Shang-t’ien-hsin,24.8709,121.2908,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1215.5,,,3,Asia/Taipei,FALSE,1158262618
+Jingbuqi,Jingbuqi,Jingbuci|Ching-pu-ch’i,23.5203,120.5708,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158040573
+Boluowen,Boluowen,Boluowun|Po-lo-wen,24.8917,121.0200,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1388.0,,,3,Asia/Taipei,FALSE,1158358459
+Wanqiu,Wanqiu,Wanciou|Wan-ch’iu,23.5275,120.5658,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158628522
+Pidou,Pidou,P’i-t’ou-ts’un|P’i-tou,23.8833,120.6051,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1044.1,,,3,Asia/Taipei,FALSE,1158904563
+Chetouding,Chetouding,Ch’e-t’ou-ting,23.6046,121.3881,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,75.9,,,4,Asia/Taipei,FALSE,1158294327
+Shishuikeng,Shishuikeng,Shihshueikeng|Shih-shui-k’eng,24.3088,120.8478,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,163.2,,,4,Asia/Taipei,FALSE,1158917106
+Shishuikeng,Shishuikeng,Shihshueikeng|Shih-shui-k’eng,24.5162,120.9200,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,37.5,,,4,Asia/Taipei,TRUE,1158202210
+Caonanwei,Caonanwei,Ts’ao-nan-wei,23.9467,120.9061,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158017580
+Wandouliu,Wandouliu,Wandouliou|Wan-tou-liu,24.0230,120.6987,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,700.9,,,3,Asia/Taipei,FALSE,1158926086
+Shanba,Shanba,Shan-pa,23.9922,120.5205,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1244.8,,,3,Asia/Taipei,FALSE,1158362441
+Shicuogou,Shicuogou,Shihcuogou|Shih-ts’o-kou,23.1446,121.2818,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,42.5,,,4,Asia/Taipei,FALSE,1158061003
+Shangdali,Shangdali,Hsien-chen-li|Shang-ta-li,24.7219,121.0422,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,222.1,,,3,Asia/Taipei,FALSE,1158476532
+Tianluoku,Tianluoku,T’ien-lo-k’u,22.9783,120.4978,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158416102
+Diliuqu,Diliuqu,Dilioucyu|Ti-liu-ch’ü,24.3897,121.3069,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,7.4,,,5,Asia/Taipei,FALSE,1158364958
+Gongbeidian,Gongbeidian,Kung-pei-tien,25.1000,121.6333,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,3388.0,,,2,Asia/Taipei,FALSE,1158279449
+Sanjiaolun,Sanjiaolun,San-chiao-lung|San-chiao-lun,23.9274,120.8968,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,417.3,,,3,Asia/Taipei,FALSE,1158163321
+Ganfeng,Ganfeng,Ganfong|Kan-feng,24.0287,120.8266,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158239626
+Yanshui,Yanshui,Yen-shui-chen|Yanshuei|Yüeh-chin|Yüeh-ching|Yen-shui-chieh|Yen-shui,23.3200,120.2672,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,440.9,,,3,Asia/Taipei,FALSE,1158261758
+Pianbu,Pianbu,P’ing-pu|P’ien-pu,22.1150,120.8675,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,33.3,,,4,Asia/Taipei,FALSE,1158837041
+Menqiantian,Menqiantian,Menciantian|Men-ch’ien-t’ien,24.3014,120.7097,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,992.1,,,3,Asia/Taipei,FALSE,1158227842
+Ergui,Ergui,Erguei|Erh-kuei,24.1324,120.8788,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,217.0,,,3,Asia/Taipei,FALSE,1158667940
+Xihe,Xihe,Hsi-chia|Sihe|Hsi-ho-ts’un|Hsi-ho,23.1964,120.1528,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,370.8,,,3,Asia/Taipei,FALSE,1158289107
+Tianxinzi,Tianxinzi,T’ien-hsin-tzu (4)|T’ien-hsin-tzu,25.1833,121.4500,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158858818
+Tianxinzi,Tianxinzi,Tiansinzih|T’ien-hsin-tzu,25.2206,121.6338,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,372.3,,,3,Asia/Taipei,TRUE,1158518592
+Shibalie,Shibalie,Shihbalie|An-tung-li|Shih-pa-lieh,24.6739,121.7821,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,4164.5,,,2,Asia/Taipei,FALSE,1158726654
+Hougouzi,Hougouzi,Hougouzih|Hou-kou-tzu,23.8117,120.7481,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,185.4,,,4,Asia/Taipei,FALSE,1158315731
+Sijiuyi,Sijiuyi,Ssu-lü-i|Ssu-chiu-i,24.7346,121.7529,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,2952.1,,,2,Asia/Taipei,FALSE,1158785577
+Zhanliao,Zhanliao,Jhanliao|Chan-liao,23.2314,120.1369,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,218.7,,,3,Asia/Taipei,FALSE,1158002902
+Kantouliao,Kantouliao,Yüan-t’ou|Yüan-t’ou-ts’un|K’an-t’ou-liao,23.2131,120.1664,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,370.8,,,3,Asia/Taipei,FALSE,1158879904
+Nanzihu,Nanzihu,Lan-tzu-hu|Nan-tzu-hu|Nanzihhu,22.6749,121.5079,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,100.8,,,4,Asia/Taipei,FALSE,1158368296
+Houbu,Houbu,Hou-pu,23.4427,120.1814,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,,,3,Asia/Taipei,FALSE,1158980395
+Beihua,Beihua,Pei-hua-yüan|Pei-hua,22.9656,120.3408,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,660.1,,,3,Asia/Taipei,FALSE,1158882229
+Yanzijian,Yanzijian,Yanzihjian|Yen-tzu-chien,23.4513,121.3856,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,110.3,,,4,Asia/Taipei,FALSE,1158348032
+Shuidiliao,Shuidiliao,Shueidiliao|Shui-ti-liao,23.5256,120.5786,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158454078
+Shuidiliao,Shuidiliao,Shueidiliao|Shui-ti-liao,23.2786,120.5398,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,17.0,,,4,Asia/Taipei,TRUE,1158227776
+Cizibu,Cizibu,Cihzihbu|Tz’u-tzu-pu,24.3694,120.6736,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1156.9,,,3,Asia/Taipei,FALSE,1158604942
+Gunshuiping,Gunshuiping,Gunshueiping|Nuan-feng-shih|Nuan-ch’ao-shih|Kun-shui-p’ing,22.7703,120.3467,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,540.2,,,3,Asia/Taipei,FALSE,1158408257
+Hushanliao,Hushanliao,Hu-shan-liao,23.7272,120.6225,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,271.2,,,3,Asia/Taipei,FALSE,1158250719
+Dadaocheng,Dadaocheng,Ta-tao-ch’eng,25.0155,121.1939,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3029.3,,,2,Asia/Taipei,FALSE,1158702492
+Dong’ao,Dong'ao,Tung-ao,24.5203,121.8319,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,45.3,,,4,Asia/Taipei,FALSE,1158526210
+Xinshengxiang,Xinshengxiang,Sinshengsiang|Hsin-sheng-hsiang,23.8553,120.5459,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,840.2,,,3,Asia/Taipei,FALSE,1158695093
+Rongshan,Rongshan,Hsin-yeh-she|Hsia-yeh|Jung-shan,22.8876,121.1600,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,4.6,,,4,Asia/Taipei,FALSE,1158087245
+Malinshe,Malinshe,Ma-lin-she,24.5913,120.9658,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,88.3,,,4,Asia/Taipei,FALSE,1158757884
+Qingbu,Qingbu,Cingbu|Ch’ing-pu-li|Ch’ing-pu,25.0068,121.2143,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,4353.6,,,2,Asia/Taipei,FALSE,1158665084
+Mazukeng,Mazukeng,Ma-tsu-k’eng,24.9427,121.4222,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,9114.6,,,2,Asia/Taipei,FALSE,1158560084
+Miaohou,Miaohou,Miao-hou,22.9988,120.2793,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,2249.0,,,2,Asia/Taipei,FALSE,1158781327
+Miaohou,Miaohou,Miao-hou,23.2006,120.2272,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,742.1,,,3,Asia/Taipei,TRUE,1158532399
+Chawo,Chawo,Ch’a-wo,24.4839,120.7308,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158144624
+Dingkeng,Dingkeng,Ting-k’eng,25.0331,121.8900,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,42.1,,,4,Asia/Taipei,FALSE,1158778753
+Shangkeng,Shangkeng,Shang-k’eng,24.2666,120.7787,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,748.1,,,3,Asia/Taipei,FALSE,1158143917
+Bantianliao,Bantianliao,Pan-t’ien-liao,23.4727,120.5943,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158669192
+Guishan,Guishan,Gueishan|Kuei-shan,24.5403,120.8170,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2322.6,,,2,Asia/Taipei,FALSE,1158973851
+Pixia,Pixia,Pisia|P’i-hsia-ts’un|P’i-hsia,23.9724,120.5294,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1251.5,,,3,Asia/Taipei,FALSE,1158665019
+Dalai,Dalai,Ta-lai,25.0237,121.8277,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,41.8,,,4,Asia/Taipei,FALSE,1158067935
+Wujialiu,Wujialiu,Wujialiou|Wu-chia-liu,24.3078,120.6922,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,992.1,,,3,Asia/Taipei,FALSE,1158575209
+Zhenping,Zhenping,Jhenping|Chen-p’ing,23.6327,120.3864,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,294.8,,,3,Asia/Taipei,FALSE,1158492296
+Tianzilin,Tianzilin,Tianzihlin|T’ien-tzu-lun|Tien-tzu-lin,23.6575,120.4163,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,299.1,,,3,Asia/Taipei,FALSE,1158498322
+Ruihe,Ruihe,Rueihe|Jui-ho,23.7704,120.5907,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,315.1,,,3,Asia/Taipei,FALSE,1158632532
+Paozilun,Paozilun,Paozihlun|P’ao-tzu-lun,24.9856,121.6049,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2094.5,,,2,Asia/Taipei,FALSE,1158251302
+Xiawaihu,Xiawaihu,Siawaihu|Shih-p’u-ts’o|Hsia-wai-hu,24.9164,120.9764,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1344.5,,,3,Asia/Taipei,FALSE,1158181618
+Zhongfu,Zhongfu,Jhongfu|Chung-fu,25.1208,121.3210,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158787984
+Zhongfu,Zhongfu,Jhongfu|Chung-fu-tzu|Chung-fu,25.1660,121.6780,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,280.8,,,3,Asia/Taipei,TRUE,1158884743
+Fulianyicun,Fulianyicun,Fu-lien-i-ts’un,25.0000,121.4500,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,31537.1,,,2,Asia/Taipei,FALSE,1158542130
+Shijianqiao,Shijianqiao,Shih-chien-ch’iao,24.1833,120.8833,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,7.4,,,5,Asia/Taipei,FALSE,1158080781
+Beishi,Beishi,Beishih|Pei-shih,23.0462,120.2912,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,4121.3,,,2,Asia/Taipei,FALSE,1158920817
+Beishi,Beishi,Beishih|Pei-shih,23.1836,120.5436,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,57.5,,,4,Asia/Taipei,TRUE,1158063379
+Guanluque,Guanluque,Guanlucyue|Kuan-lu-k’an|Kuan-lu-ch’üeh,24.9181,121.2539,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5913.6,,,2,Asia/Taipei,FALSE,1158424643
+Doudengkeng,Doudengkeng,Tou-teng-k’eng,22.8586,120.4569,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,438.9,,,3,Asia/Taipei,FALSE,1158069145
+Genben,Genben,Ken-pen,24.5544,121.1894,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,12.2,,,4,Asia/Taipei,FALSE,1158639870
+Zhangwu,Zhangwu,Jhangwu|Chang-wu,24.5460,120.7719,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,136.7,,,4,Asia/Taipei,FALSE,1158330352
+Shiyin,Shiyin,Shihyin|Shih-yin,23.8467,120.9173,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158875374
+Touqianlun,Touqianlun,Toucianlun|T’ou-ch’ien-lun,24.1874,120.5668,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,2091.3,,,2,Asia/Taipei,FALSE,1158933435
+Lunweiliao,Lunweiliao,Lun-wei-liao,24.9572,121.6474,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158316858
+Qigan,Qigan,Ch’i-yü|Cigan|Ch’i-kan,22.9503,120.2633,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1449.8,,,3,Asia/Taipei,FALSE,1158708877
+Gouzao,Gouzao,Kou-tsao-li|Kou-tsao,23.6136,120.2904,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,794.5,,,3,Asia/Taipei,FALSE,1158359961
+Kanqian,Kanqian,Kancian|K’an-ch’ien-li|K’an-ch’ien,23.4406,120.2359,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,715.5,,,3,Asia/Taipei,FALSE,1158772940
+Maliqi,Maliqi,Malici|Ma-li-ch’i,24.5998,120.9171,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,197.3,,,4,Asia/Taipei,FALSE,1158811487
+Menggu,Menggu,Meng-ku,24.0253,121.0817,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,10.3,,,4,Asia/Taipei,FALSE,1158269797
+Dabeiyuan,Dabeiyuan,Ta-mei-ts’un|Ta-pei-yüan|Ta-mei|Ta-hua,23.8019,120.4166,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,424.9,,,3,Asia/Taipei,FALSE,1158342983
+Sanbanqiao,Sanbanqiao,Sanbanciao|San-pan-ch’iao,24.8755,121.2880,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1215.5,,,3,Asia/Taipei,FALSE,1158623519
+Xiucaiwo,Xiucaiwo,Sioucaiwo|Hsiu-ts’ai-wo,24.8867,121.1383,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,,,2,Asia/Taipei,FALSE,1158968925
+Maiyucuo,Maiyucuo,Mai-hsü-ts’o|Mai-yü-ts’o,24.0194,120.4014,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,133.3,,,4,Asia/Taipei,FALSE,1158622590
+Kunshan,Kunshan,K’un-shan,22.8431,120.4394,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158458504
+Yisui,Yisui,Yisuei|I-sui,22.9324,120.6439,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,49.8,,,4,Asia/Taipei,FALSE,1158478042
+Lingjiao,Lingjiao,Ling-tzu-chiao|Ling-chiao,23.2978,120.4242,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,119.5,,,4,Asia/Taipei,FALSE,1158456757
+Xiaboshi,Xiaboshi,Siaboshih|Hsia-po-shih,23.7908,120.9143,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,67.2,,,4,Asia/Taipei,FALSE,1158370663
+Xiajiao,Xiajiao,Siajiao|Hsia-chiao,25.2530,121.5858,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158315323
+Wuchengkou,Wuchengkou,Wu-ch’eng-k’ou,23.8841,120.8907,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158132259
+Xiazhuangzi,Xiazhuangzi,Siajhuangzih|Hsia-chuang-tzu,24.6043,120.8178,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,421.4,,,3,Asia/Taipei,FALSE,1158991558
+Xiangsilin,Xiangsilin,Siangsihlin|Hsiang-ssu-lin,24.7116,120.8912,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2092.3,,,2,Asia/Taipei,FALSE,1158486991
+Zhongqi,Zhongqi,Jhongci|Chung-ch’i-li|Chung-ch’i,23.7577,120.6668,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158286100
+Nanshilin,Nanshilin,Nanshihlin|Nan-yüan|Nan-shih-lin,24.3967,120.6989,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158798350
+Tailuge,Tailuge,T’ai-lu-ko,24.1521,121.6239,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,5,Asia/Taipei,FALSE,1158722983
+Yuansongjiao,Yuansongjiao,Wu-sung-chiao|Niao-sung-chiao|Yüan-sung-chiao,23.3353,120.2742,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,251.2,,,3,Asia/Taipei,FALSE,1158223238
+Fuzhouzi,Fuzhouzi,Fujhouzih|Fu-chou-tzu,25.1104,121.4901,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,4680.6,,,2,Asia/Taipei,FALSE,1158172778
+Wangming,Wangming,Wang-ming,23.1058,120.4568,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,161.1,,,4,Asia/Taipei,FALSE,1158875387
+Sucuo,Sucuo,Su-ts’o,24.0181,120.4978,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1242.0,,,3,Asia/Taipei,FALSE,1158272750
+Dongkeng,Dongkeng,Tung-k’eng,24.4423,118.2329,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,,307.1,,,3,Asia/Taipei,FALSE,1158636482
+Dacaocuo,Dacaocuo,Ta-ts’ao-ts’o,24.9566,121.3179,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,7609.2,,,2,Asia/Taipei,FALSE,1158916212
+Dacaocuo,Dacaocuo,Ta-ts’ao-wu|Ta-ts’ao-ts’o,25.0291,121.1336,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,753.5,,,3,Asia/Taipei,TRUE,1158302624
+Sanxie,Sanxie,Sansie|San-hsieh,22.8650,120.4631,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,438.9,,,3,Asia/Taipei,FALSE,1158484945
+Zhonggang,Zhonggang,Jhonggang|Chung-kang,22.4888,120.3889,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,3100.3,,,2,Asia/Taipei,FALSE,1158857048
+Daicuo,Daicuo,Tai-ts’o,23.8666,120.4230,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,406.9,,,3,Asia/Taipei,FALSE,1158500194
+Jianxiali,Jianxiali,Jiansiali|Chien-hsia-li,24.6559,120.8835,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1972.3,,,3,Asia/Taipei,FALSE,1158855227
+Xiakanzi,Xiakanzi,Siakanzih|Hsia-k’an-tzu,22.9003,120.4450,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158320453
+Dingxiabu,Dingxiabu,Dingsiabu|Ting-hsia-pu,23.3063,120.6000,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,9.2,,,5,Asia/Taipei,FALSE,1158281390
+Zhaojing,Zhaojing,Jhaojing|Chao-ching,25.0455,121.1990,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1076.3,,,3,Asia/Taipei,FALSE,1158365215
+Xipengji,Xipengji,Sipengji|Hsi-p’eng-chi,24.9378,121.1661,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,,,2,Asia/Taipei,FALSE,1158567079
+Dakengkou,Dakengkou,Ta-k’eng-k’ou,24.3853,120.7019,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158698321
+Tongmen,Tongmen,T’ung-men-ts’un|T’ung-men,23.9640,121.4930,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,4,Asia/Taipei,FALSE,1158734837
+Waishuangxi,Waishuangxi,Waishuangsi|Wai-shuang-ch’i|Wai-shuang-hsi,25.1065,121.5567,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,5391.5,,,2,Asia/Taipei,FALSE,1158671614
+Huayuan,Huayuan,Niu-liao|Hua-yüan,23.0003,120.4911,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,117.5,,,4,Asia/Taipei,FALSE,1158088505
+Yiqiaozi,Yiqiaozi,Yiciaozih|I-ch’iao-tzu,23.5297,120.4269,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,878.3,,,3,Asia/Taipei,FALSE,1158262101
+Dadu,Dadu,Hsin-hsing|Ta-tu,24.7256,121.1344,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,600.2,,,3,Asia/Taipei,FALSE,1158579032
+Xinfa,Xinfa,Sinfa|Hsin-fa,24.7883,121.8081,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,427.1,,,3,Asia/Taipei,FALSE,1158371235
+Niaochao,Niaochao,T’ai-p’ing-ts’un|T’ai-p’ing|Niao-ch’ao,23.9383,120.5549,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2050.8,,,2,Asia/Taipei,FALSE,1158211887
+Xiaheshunlin,Xiaheshunlin,Siaheshunlin|Hsia-ho-shun-lin,22.6102,120.5521,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,724.8,,,3,Asia/Taipei,FALSE,1158784290
+Shibengshan,Shibengshan,Shihbengshan|Shih-peng-shan,25.2796,121.5663,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158545201
+Mianqiancuo,Mianqiancuo,Min-ching|Mianciancuo|Min-ning|Min-ching-ts’un|Mien-ch’ien-lun|Mien-ch’ien-ts’o,23.8755,120.4182,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,494.9,,,3,Asia/Taipei,FALSE,1158510952
+Ergangzi,Ergangzi,Erh-tzu-kang|San-tzu-chiang|San-tzu-kang|Erh-kang-tzu|San-tzu-chuang|Ergangzih|Erh-chiang-tzu,23.2640,120.1914,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,396.4,,,3,Asia/Taipei,FALSE,1158727008
+Pingding,Pingding,P’ing-ting,22.9520,121.1651,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,79.8,,,4,Asia/Taipei,FALSE,1158515536
+Xiaolidong,Xiaolidong,Siaolidong|Hsiao-li-tung,24.5208,120.7889,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1855.3,,,3,Asia/Taipei,FALSE,1158342138
+Quanzhouke,Quanzhouke,Cyuanjhouke|Ch’üan-chou-k’o,23.1764,120.5311,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,57.5,,,4,Asia/Taipei,FALSE,1158418439
+Xisanhu,Xisanhu,Sisanhu|Hsi-san-hu-p’ai|Hsi-san-hu,24.5580,120.7472,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,136.7,,,4,Asia/Taipei,FALSE,1158329692
+Mingshengxiang,Mingshengxiang,Mingshengsiang|Ming-sheng-hsiang,23.8757,120.9137,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158811703
+Xiaguilin,Xiaguilin,Siagueilin|Hsia-kuei-lin,23.0742,120.5464,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,31.4,,,4,Asia/Taipei,FALSE,1158902381
+Shangxiaolibu,Shangxiaolibu,Hsiao-li-pu|Chiao-li-pu|Hsing-lung-li|Shangsiaolibu|Hsing-lung|Hsiao-li-p’u|Shang-hsiao-li-pu,24.2825,120.8110,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158167663
+Touhu,Touhu,T’ou-hu,24.9183,121.1200,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,,,2,Asia/Taipei,FALSE,1158675131
+Zhuwei,Zhuwei,Jhuwei|Ta-chu-wei|Chu-wei,23.1341,120.3048,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,762.5,,,3,Asia/Taipei,FALSE,1158573846
+Zhuwei,Zhuwei,Chu-we|Jhuwei|Chu-wei,23.1325,120.4743,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,161.1,,,4,Asia/Taipei,TRUE,1158821824
+Zhuwei,Zhuwei,Jhuwei|Chu-wei,23.3222,120.4314,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,133.4,,,4,Asia/Taipei,TRUE,1158710094
+Zhuwei,Zhuwei,Jhuwei|Chu-wei,23.1656,120.4119,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,125.1,,,4,Asia/Taipei,TRUE,1158636962
+Xishihu,Xishihu,Sishihhu|Hsi-shih-hu,25.0378,121.3674,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3208.1,,,2,Asia/Taipei,FALSE,1158534952
+Kengneizi,Kengneizi,Kengneizih|K’eng-nei-tzu,23.7523,120.7387,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,86.8,,,4,Asia/Taipei,FALSE,1158605290
+Yancheng,Yancheng,Yen-ch’eng,24.0744,120.4297,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1332.4,,,3,Asia/Taipei,FALSE,1158253046
+Canglian,Canglian,Ts’ang-lien,25.2817,121.5211,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158167039
+Zhuhu,Zhuhu,Jhuhu|Chu-hu,23.7663,120.7306,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,85.8,,,4,Asia/Taipei,FALSE,1158543790
+Guogouzi,Guogouzi,Guogouzih|Kuo-kou-tzu,23.8850,120.4280,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,503.9,,,3,Asia/Taipei,FALSE,1158612340
+Baimubu,Baimubu,Pai-mu-pu,25.2683,121.4965,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,333.4,,,3,Asia/Taipei,FALSE,1158956127
+Neisizijiao,Neisizijiao,Neisihzihjiao|Nei-ssu-tzu-chiao,24.9723,121.6380,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,134.0,,,4,Asia/Taipei,FALSE,1158623812
+Jiazhi,Jiazhi,Jiajhih|Chia-chih,24.8267,121.3895,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,339.4,,,3,Asia/Taipei,FALSE,1158661034
+Qingwopo,Qingwopo,Cingwopo|Ch’ing-wo-pu|Ch’ing-wo-p’o,24.7758,121.0531,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,2864.6,,,2,Asia/Taipei,FALSE,1158682337
+Wenwu,Wenwu,Wunwu|Wen-wu,24.9406,121.1286,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1729.9,,,3,Asia/Taipei,FALSE,1158832752
+Zhongxiwei,Zhongxiwei,Jhongsiwei|Chung-hsi-wei,23.6536,120.2011,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,222.3,,,3,Asia/Taipei,FALSE,1158672731
+Tiancuo,Tiancuo,T’ien-ts’o,24.6061,120.7745,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,421.4,,,3,Asia/Taipei,FALSE,1158304363
+Kanzijiao,Kanzijiao,Kanzihjiao|K’en-tzu-chiao|Fu-chi-ts’un|K’an-tzu-chiao,25.2869,121.5314,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158548935
+Wugulin,Wugulin,Wu-ku-lin,24.7694,121.0867,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,600.2,,,3,Asia/Taipei,FALSE,1158312159
+Doucheyuan,Doucheyuan,Tou-ch’e-yüan,23.9805,120.4360,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,820.0,,,3,Asia/Taipei,FALSE,1158282541
+Pouhou,Pouhou,Pu-hou|P’ou-hou,22.7764,120.4839,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,287.1,,,3,Asia/Taipei,FALSE,1158499659
+Zhongbao,Zhongbao,Chung-pao,24.4581,118.3375,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,,295.2,,,3,Asia/Taipei,FALSE,1158745098
+Fucheng,Fucheng,Fu-ch’eng,24.8569,121.8128,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,297.3,,,3,Asia/Taipei,FALSE,1158034933
+Yaogou,Yaogou,Hu-shan-yen|Hu-shan|Yao-kou,23.7081,120.5994,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158741905
+Xinzhuliao,Xinzhuliao,Sinjhuliao|Hsin-chu-liao,22.4836,120.5489,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,287.8,,,3,Asia/Taipei,FALSE,1158634838
+Shikongzi,Shikongzi,Shihkongzih|Shih-k’ung-tzu,25.0554,121.7000,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,3388.0,,,2,Asia/Taipei,FALSE,1158406349
+Zhuwei,Zhuwei,Jhuwei|Chu-wei,24.0863,120.6073,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1460.5,,,3,Asia/Taipei,FALSE,1158491968
+Zhuwei,Zhuwei,Jhuwei|Chu-wei,23.9721,120.5099,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1251.5,,,3,Asia/Taipei,TRUE,1158895315
+Zhuwei,Zhuwei,Chu-wei-tzu|Jhuwei|Lu-k’ou-ts’o|Chu-wei-ts’un|Chu-wei,23.8510,120.4538,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,641.0,,,3,Asia/Taipei,TRUE,1158144406
+Zhuangtou,Zhuangtou,Chuang-t’ou,23.9333,120.7000,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1387.9,,,3,Asia/Taipei,FALSE,1158504451
+Fanzihu,Fanzihu,Fanzihhu|Fan-tzu-hu,22.9175,120.3567,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,582.1,,,3,Asia/Taipei,FALSE,1158962090
+Xiazhuangzi,Xiazhuangzi,Siajhuangzih|Hsia-chuang-tzu,23.7189,120.5242,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158801154
+Xiazhuangzi,Xiazhuangzi,Siajhuangzih|Hsia-chuang-tzu,23.6584,120.3850,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,502.6,,,3,Asia/Taipei,TRUE,1158381331
+Shibajia,Shibajia,Shihbajia|Shih-pa-chia,23.6773,120.3353,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,289.2,,,3,Asia/Taipei,FALSE,1158008846
+Jianfukeng,Jianfukeng,Fu-chien-k’eng|Chien-fu-k’eng,24.9281,121.4117,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,634.9,,,3,Asia/Taipei,FALSE,1158535435
+Waibu,Waibu,Wai-pu,24.3322,120.6536,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,731.0,,,3,Asia/Taipei,FALSE,1158622635
+Nanwangtian,Nanwangtian,Nan-wang-t’ien,24.1130,120.5733,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1185.3,,,3,Asia/Taipei,FALSE,1158089986
+Donggang,Donggang,Tung-chiang-tzu|Tung-kang,23.1067,120.1903,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,693.0,,,3,Asia/Taipei,FALSE,1158437765
+Sanliao,Sanliao,San-chia-ch’un|San-chia-chih|San-chia-ts’un|San-liao|San-chia,22.5518,120.5622,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,915.8,,,3,Asia/Taipei,FALSE,1158158269
+Shandongshe,Shandongshe,Shan-tung-she,24.2389,120.8393,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158618968
+Bao’anlin,Bao'anlin,Pao-an-lin,24.1506,120.5136,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1185.3,,,3,Asia/Taipei,FALSE,1158991894
+Zhongzhuangzi,Zhongzhuangzi,Jhongjhuangzih|Wen-tzu|Chung-chuang-tzu,24.1269,120.4564,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,945.9,,,3,Asia/Taipei,FALSE,1158796356
+Machouhou,Machouhou,Ma-ch’ou-hou,23.4386,120.2794,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,482.5,,,3,Asia/Taipei,FALSE,1158108889
+Lukuping,Lukuping,Lu-k’u-p’ing,23.5419,120.6803,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,144.6,,,4,Asia/Taipei,FALSE,1158193696
+Xiaxizhou,Xiaxizhou,Hsia-ch’i-chou-tzu|Hsia-hsi-chou|Siasijhou,23.2397,120.1717,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,396.4,,,3,Asia/Taipei,FALSE,1158167548
+Linzitou,Linzitou,Shang-lin-li|Shang-lin|Linzihtou|Lin-tzu-t’ou,23.9663,120.6781,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1035.5,,,3,Asia/Taipei,FALSE,1158516877
+Dongguangliao,Dongguangliao,Tung-kuang-liao,23.7353,120.4937,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,456.4,,,3,Asia/Taipei,FALSE,1158871223
+Dingcuo,Dingcuo,Ting-ts’o,24.7911,120.9247,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,,2208.4,,,2,Asia/Taipei,FALSE,1158403827
+Yongsheng,Yongsheng,Yung-sheng,23.0836,121.1711,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,15.9,,,4,Asia/Taipei,FALSE,1158913141
+Beiwo,Beiwo,Pei-wo,24.5215,120.7176,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158195278
+Beiwo,Beiwo,Pei-wo,24.4681,120.7325,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,TRUE,1158832087
+Beiwo,Beiwo,Pei-wo,24.5511,120.9130,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,138.6,,,4,Asia/Taipei,TRUE,1158724517
+Mianziyuan,Mianziyuan,Mianzihyuan|Mien-tzu-yüan,24.0535,120.8191,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,93.2,,,4,Asia/Taipei,FALSE,1158316042
+Dazhangshuxia,Dazhangshuxia,Dajhangshusia|Ta-chang-shu-hsia,24.2771,120.8413,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,460.1,,,3,Asia/Taipei,FALSE,1158684363
+Likecun,Likecun,Li-k’o|Li-ho|K’o-tzu-liao|Ho-tzu-liao|Li-ho-ts’un|Feng-k’o-ts’un|Ting-ho-tzu-liao|Li-k’o-ts’un,22.7294,120.2517,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,2751.9,,,2,Asia/Taipei,FALSE,1158743484
+Zhaizinei,Zhaizinei,Jhaizihnei|Chai-tzu-nei,22.8042,120.3903,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,540.2,,,3,Asia/Taipei,FALSE,1158535540
+Yuehu,Yuehu,Yung-chü-hu|Yüeh-hu,24.2327,120.8165,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,442.1,,,3,Asia/Taipei,FALSE,1158847946
+Yilin,Yilin,Chia-na-a-hsi-ya|I-lin,22.5267,120.6622,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,27.6,,,4,Asia/Taipei,FALSE,1158790822
+Shixia,Shixia,Shihsia|Shih-hsia,24.5666,120.8761,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,181.3,,,4,Asia/Taipei,FALSE,1158475359
+Gongzuodi,Gongzuodi,Kung-tso-ti,22.4567,120.9222,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,59.4,,,4,Asia/Taipei,FALSE,1158285684
+Wucun,Wucun,Wu-ts’un,24.4500,118.4167,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,,409.0,,,3,Asia/Taipei,FALSE,1158668012
+Neiyuchi,Neiyuchi,Neiyuchih|Nei-yü-ch’ih,23.8930,120.9407,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158598837
+Guanbu,Guanbu,Kuan-pu,23.0339,120.5614,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,75.1,,,4,Asia/Taipei,FALSE,1158025021
+Hualong,Hualong,Hua-lung,23.9478,121.5258,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,1183.6,,,3,Asia/Taipei,FALSE,1158456172
+Wuyaokeng,Wuyaokeng,Wu-yao-k’eng,24.1892,120.8638,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158575643
+Xiaguanlin,Xiaguanlin,Siaguanlin|Hsia-kuan-lin,24.1503,120.4794,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1127.9,,,3,Asia/Taipei,FALSE,1158299676
+Toushe,Toushe,T’ou-she,23.8287,120.8953,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158383817
+Neibu,Neibu,Nei-pu,22.6461,120.4169,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,836.1,,,3,Asia/Taipei,FALSE,1158287167
+Neibu,Neibu,Nei-men|Nei-pu,22.9408,120.4611,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,TRUE,1158594337
+Tangbuzi,Tangbuzi,Tangbuzih|T’ang-pu-tzu,24.4525,120.7092,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158105229
+Douhuanping,Douhuanping,Tou-huan-p’ing,24.6811,120.9443,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1972.3,,,3,Asia/Taipei,FALSE,1158357165
+Neimen,Neimen,Nei-men,22.9372,120.4625,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158424375
+Shimen,Shimen,Shihmen|Shih-men,24.0421,120.8617,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158261586
+Baiduan,Baiduan,Pai-jui|Pai-tuan,23.2505,121.2731,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,3.2,,,5,Asia/Taipei,FALSE,1158913171
+Shanghuangwutang,Shanghuangwutang,Shang-huang-wu-t’ang,22.8868,120.5684,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,275.7,,,3,Asia/Taipei,FALSE,1158217773
+Lingding,Lingding,Ling-ting,22.9086,120.4756,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,168.6,,,4,Asia/Taipei,FALSE,1158137277
+Lingding,Lingding,Ling-ting,23.0667,120.6275,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,33.6,,,4,Asia/Taipei,TRUE,1158940880
+Shibikengkou,Shibikengkou,Shihbikengkou|Shih-pi-k’eng-k’ou,24.3059,120.7959,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158176278
+Dayingqiao,Dayingqiao,Ta-ying-ch’iao,23.1167,120.3167,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,762.5,,,3,Asia/Taipei,FALSE,1158384017
+Dafengfeng,Dafengfeng,Ta-feng-ts’un|Ta-feng-feng|Dafongfong|Ta-chien-shih,23.4247,121.4886,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,42.0,,,4,Asia/Taipei,FALSE,1158031818
+Dajiaosenlin,Dajiaosenlin,Ta-chiao-hsien-lin|Kuang-ch’un-li|Ta-kou-hsien-lin|Kuang-ch’un|Ta-chiao-sen-lin,22.5237,120.5323,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,817.4,,,3,Asia/Taipei,FALSE,1158849591
+Hutoushanjiao,Hutoushanjiao,Hu-t’ou|Hu-t’ou-shan-chiao,22.8631,120.4519,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,438.9,,,3,Asia/Taipei,FALSE,1158533327
+Nantou,Nantou,Nan-t’ou,23.0350,120.5029,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,31.4,,,4,Asia/Taipei,FALSE,1158391938
+Laobeiliao,Laobeiliao,Lao-pei-liao,24.4673,120.8611,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,437.2,,,3,Asia/Taipei,FALSE,1158795047
+Dagongdong,Dagongdong,Ta-kung-tung,23.8801,120.7295,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158837557
+Tudigongqian,Tudigongqian,Kuang-yang|Tudigongcian|T’u-ti-kung-ch’ien,23.6025,119.6262,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,405.3,,,3,Asia/Taipei,FALSE,1158199515
+Jinlu,Jinlu,Chin-lu-she|Chin-lu,24.6067,121.2839,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,11.3,,,4,Asia/Taipei,FALSE,1158292978
+Waihu,Waihu,Wai-hu,23.5611,120.5394,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,302.8,,,3,Asia/Taipei,FALSE,1158372076
+Shuiliulin,Shuiliulin,Shueilioulin|Shui-liu-lin,24.7603,120.9306,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,,2208.4,,,2,Asia/Taipei,FALSE,1158328395
+Haikou,Haikou,Hai-k’ou,24.6769,120.8641,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2092.3,,,2,Asia/Taipei,FALSE,1158559432
+Haikou,Haikou,Hai-k’ou,24.6596,120.8074,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,421.4,,,3,Asia/Taipei,TRUE,1158237377
+Haikou,Haikou,Hai-k’ou,24.4650,120.6569,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,TRUE,1158899680
+Datiedian,Datiedian,Chung-ts’un|Ta-t’ieh-tien,22.6306,120.4047,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1776.9,,,3,Asia/Taipei,FALSE,1158564414
+Xiaxindian,Xiaxindian,Siasindian|Hsia-hsin-tien,24.6830,120.9397,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1972.3,,,3,Asia/Taipei,FALSE,1158179551
+Meizijiao,Meizijiao,Meizihjiao|Mei-tzu-chiao,23.9742,120.9709,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158494570
+Meizijiao,Meizijiao,Meizihjiao|Mei-tzu-chiao,24.0398,120.8100,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,TRUE,1158748004
+Houbihu,Houbihu,Hsin-hu|Hou-pi-hu,23.7070,120.3085,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,249.9,,,3,Asia/Taipei,FALSE,1158254662
+Sanxiakeng,Sanxiakeng,Sansiakeng|San-hsia-k’eng|San-chia-shui,24.6010,120.9569,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,102.7,,,4,Asia/Taipei,FALSE,1158159931
+Pingwei,Pingwei,P’ing-wei,24.3368,120.8183,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,144.8,,,4,Asia/Taipei,FALSE,1158342300
+Huimin’ercun,Huimin'ercun,Hui-min-erh-ts’un,23.5667,119.5667,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,1423.7,,,3,Asia/Taipei,FALSE,1158138482
+Wupengkeng,Wupengkeng,Wu-p’eng-k’eng,24.0800,120.9205,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158790689
+Guizikong,Guizikong,Hsü-kuang|Gueizihkong|Kuei-tzu-k’ung,23.2736,120.4114,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,119.5,,,4,Asia/Taipei,FALSE,1158353025
+Dongfangzhuang,Dongfangzhuang,Tongfangjhuang|Tung-fang-chuang,24.0635,120.5149,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,3850.8,,,2,Asia/Taipei,FALSE,1158570168
+Gongbu,Gongbu,Kung-pu,24.7943,121.7615,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,330.4,,,3,Asia/Taipei,FALSE,1158390563
+Shisanfenwei,Shisanfenwei,Shihsanfenwei|Shih-san-fen|Shih-san-fen-wei,25.0349,121.6405,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,3388.0,,,2,Asia/Taipei,FALSE,1158015259
+Shamo,Shamo,Sha-mo-ts’un|Sha-mo,22.8333,120.6333,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,185.3,,,4,Asia/Taipei,FALSE,1158443771
+Chaicheng,Chaicheng,Ch’ai-ch’eng,23.9348,120.7520,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158325468
+Chaicheng,Chaicheng,Ch’ai-ch’eng,24.0853,120.8492,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,TRUE,1158097034
+Fanziling,Fanziling,Fanzihling|Fan-tzu-ling,23.2953,120.4175,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,119.5,,,4,Asia/Taipei,FALSE,1158858755
+Nanshijiao,Nanshijiao,Nan-shih-li|Nanshihjiao|Nan-shih-chiao,23.1847,120.2625,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,742.1,,,3,Asia/Taipei,FALSE,1158362297
+Zhuweixia,Zhuweixia,Jhuweisia|Chu-wei-hsia,23.1926,121.2819,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,42.5,,,4,Asia/Taipei,FALSE,1158209921
+Xiapi,Xiapi,Siapi|Hsia-p’i,25.0837,121.6826,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,975.5,,,3,Asia/Taipei,FALSE,1158607866
+Jiuluming,Jiuluming,Jiouluming|Chiu-lu-ming,22.8894,121.0936,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,42.3,,,4,Asia/Taipei,FALSE,1158000047
+Lianshengxiang,Lianshengxiang,Lianshengsiang|Lien-sheng-hsiang,23.9299,120.8658,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158178883
+Hazishan,Hazishan,Hazihshan|Ha-tzu-shan,25.1962,121.4457,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158036822
+Danan,Danan,Ta-nan,23.9799,120.9835,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158387247
+Tuopanshan,Tuopanshan,T’o-p’an-shan,24.7622,121.0614,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,2206.7,,,2,Asia/Taipei,FALSE,1158301241
+Gaoling,Gaoling,Kao-ling,23.7288,121.2839,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,6.4,,,5,Asia/Taipei,FALSE,1158024101
+Datianmian,Datianmian,Ta-t’ien-mien,23.7538,120.7280,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,106.8,,,4,Asia/Taipei,FALSE,1158640267
+Congzikeng,Congzikeng,Congzihkeng|Ho-shang-liao|Ts’ung-tzu-k’eng,22.8097,120.4614,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,438.9,,,3,Asia/Taipei,FALSE,1158840982
+Xiazhaizi,Xiazhaizi,Siajhaizih|Hsia-chai-tzu,23.4554,120.5238,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,77.0,,,4,Asia/Taipei,FALSE,1158837978
+Fengmei,Fengmei,Fongmei|Wu-chien-liao|Wai-wu-chien-ts’o|Feng-mei|Wu-chien|Wai-wu-chien-liao,23.8798,120.3086,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,294.4,,,3,Asia/Taipei,FALSE,1158901836
+Donggaorui,Donggaorui,Donggaoruei|Tung-kao-jui,23.2168,120.3989,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,288.5,,,3,Asia/Taipei,FALSE,1158542038
+Qingde,Qingde,Hung-mao-ya|Cingde|Ch’ing-te,24.0040,120.8486,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158688994
+Dingshanmen,Dingshanmen,Ting-shan-men,23.4461,120.4989,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,3739.4,,,2,Asia/Taipei,FALSE,1158172775
+Juechiling,Juechiling,Jyuechihling|K’u-ch’ih-ling|Chüeh-ch’ih-ling,23.5614,120.6264,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,144.6,,,4,Asia/Taipei,FALSE,1158429418
+Xiangcaochang,Xiangcaochang,Siangcaochang|Hsiang-ts’ao-ch’ang,23.6798,121.4198,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,75.9,,,4,Asia/Taipei,FALSE,1158567345
+Houhuzi,Houhuzi,Houhuzih|Hou-hu-tzu,25.0869,121.7446,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,1669.5,,,3,Asia/Taipei,FALSE,1158130707
+Jiuxizhou,Jiuxizhou,Jiousijhou|Chiu-ch’i-chou|Chiu-hsi-chou,24.8356,121.2664,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1950.9,,,3,Asia/Taipei,FALSE,1158047767
+Hongcuo,Hongcuo,Hung-ts’o,25.1171,121.3519,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158397836
+Fuqiao,Fuqiao,Fuciao|Fou-ch’iao|Fu-ch’iao,24.6474,120.9223,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,196.3,,,4,Asia/Taipei,FALSE,1158423095
+Jiugonglu,Jiugonglu,Chiu-kung-lu|Nieh-ku-kung,22.0122,120.8211,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,33.3,,,4,Asia/Taipei,FALSE,1158046676
+Yanlao,Yanlao,Yen-lao,24.5928,121.2653,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,11.3,,,4,Asia/Taipei,FALSE,1158752350
+Tianliao,Tianliao,T’ien-liao,25.1500,121.4500,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158126464
+Tianliao,Tianliao,T’ien-liao,24.8667,121.4164,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,552.4,,,3,Asia/Taipei,TRUE,1158279983
+Tianliao,Tianliao,T’ien-liao,25.1182,121.8185,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,451.7,,,3,Asia/Taipei,TRUE,1158332385
+Tianliao,Tianliao,T’ien-liao,25.0160,121.8091,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,41.8,,,4,Asia/Taipei,TRUE,1158521104
+Zhiliaokeng,Zhiliaokeng,Hsia-chih-liao-k’eng|Jhihliaokeng|Hsia-chih-liao|Chih-liao-k’eng,25.0227,121.6878,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158036412
+Zhangongcuo,Zhangongcuo,Jhangongcuo|Chan-kung-ts’o,24.9865,121.3739,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3208.1,,,2,Asia/Taipei,FALSE,1158707838
+Tong’anzhai,Tong'anzhai,Tong’anjhai|T’ung-an-ts’un|T’ung-an-chai,23.9316,120.5288,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1512.8,,,3,Asia/Taipei,FALSE,1158659588
+Wayao,Wayao,Wa-yao-ts’un|Wa-yao,23.7583,120.2650,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,247.3,,,3,Asia/Taipei,FALSE,1158916769
+Guozhen,Guozhen,Kuo-chün|Guojhen|Kuo-chün-ts’un|Kuo-ch’üan-ts’un|Kuo-ch’üan|Kuo-chen,23.8193,120.6065,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,300.1,,,3,Asia/Taipei,FALSE,1158532827
+Xiameiyuan,Xiameiyuan,Shan-li|Mei-yüan|Siameiyuan|Shan-li-she|Hsia-mei-yüan,24.2394,121.4861,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,4,Asia/Taipei,FALSE,1158061600
+Beihe,Beihe,Pei-ho,24.5333,120.8667,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,440.8,,,3,Asia/Taipei,FALSE,1158049454
+Longchang,Longchang,Chia-li-meng-hsia|Chia-li|Lung-ch’ang-ts’un|Lung-ch’ang,22.9267,121.2683,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,36.1,,,4,Asia/Taipei,FALSE,1158860710
+Zhongxin,Zhongxin,Jhongsin|Chung-hsin,23.9159,120.7483,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158484086
+Xinglong,Xinglong,Singlong|Hsing-tung-li|Hsing-tung|Hsing-lung,22.4883,120.4617,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,778.4,,,3,Asia/Taipei,FALSE,1158605176
+Shibitou,Shibitou,Shihbitou|Shih-pi-t’ou,23.3526,120.5796,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,49.7,,,4,Asia/Taipei,FALSE,1158509278
+Bopozhuang,Bopozhuang,Bopojhuang|Po-p’o-chuang,23.5693,121.3899,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,56.3,,,4,Asia/Taipei,FALSE,1158405086
+Baibuzi,Baibuzi,Baibuzih|Pai-pu-tzu,23.7139,120.8433,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,78.7,,,4,Asia/Taipei,FALSE,1158906262
+Hongqi,Hongqi,Hongci|Hung-ch’i,24.5586,120.7114,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,318.9,,,3,Asia/Taipei,FALSE,1158221643
+Shifeng,Shifeng,Shihfong|Shih-feng,22.7503,120.3089,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1434.5,,,3,Asia/Taipei,FALSE,1158359566
+Dazhuang,Dazhuang,Ta-chuang-li|Dajhuang|Ta-chuang,24.2464,120.5369,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,2440.2,,,2,Asia/Taipei,FALSE,1158687173
+Fenglongxiang,Fenglongxiang,Fonglongsiang|Hou-lung-hsiang|Feng-lung-hsiang,22.7550,120.3508,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,545.5,,,3,Asia/Taipei,FALSE,1158112153
+Yecuo,Yecuo,Yeh-ts’o,24.0623,120.8753,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158231519
+Zhuanjing,Zhuanjing,Jhuanjing|Chuan-tzu-ching|Chuan-ching-li|Chuan-ching,23.1714,120.2536,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,742.1,,,3,Asia/Taipei,FALSE,1158864930
+Qilan,Qilan,Ch’i-na-la-yang|Ch’i-fu-la-yang|Ch’i-lan,23.0500,121.2833,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,36.1,,,4,Asia/Taipei,FALSE,1158275744
+Aikouliao,Aikouliao,Yai-k’ou-liao|Ai-k’ou-liao,24.4578,120.6783,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158921509
+Dingshuiwei,Dingshuiwei,Dingshueiwei|Ting-shui-wei,25.0529,121.2723,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2679.8,,,2,Asia/Taipei,FALSE,1158608597
+Dianziwo,Dianziwo,Dianzihwo|Tien-tzu-wo,24.5666,120.7166,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,318.9,,,3,Asia/Taipei,FALSE,1158720333
+Heshouju,Heshouju,Hao-shou-chü|Heshoujyu|Ho-shou-chü,24.1947,121.4733,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,4,Asia/Taipei,FALSE,1158204542
+Tengliao,Tengliao,T’eng-liao,23.1875,121.2444,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,12.2,,,4,Asia/Taipei,FALSE,1158243787
+Wacuo,Wacuo,Wa-ts’o,24.4256,120.6808,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158386503
+Dingjiaocuo,Dingjiaocuo,Ting-chiao-ts’o,23.9775,120.7203,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,954.0,,,3,Asia/Taipei,FALSE,1158706664
+Fushi,Fushi,Fushih|Pu-hsieh-kan-she|Fu-shin|Fu-shih-she|Pu-hsieh-kan|Fu-Hih-Ts’un|K’o-le|Fu-shih-ts’un|Fu-shih,24.1436,121.6339,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,4,Asia/Taipei,FALSE,1158802427
+Pinglin,Pinglin,P’ing-lin,24.8017,121.1400,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,299.2,,,3,Asia/Taipei,FALSE,1158165283
+Gongcuo,Gongcuo,Kung-ts’o-ts’un|Kung-ts’o,22.5092,120.3771,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,3098.4,,,2,Asia/Taipei,FALSE,1158411958
+Dongbuzi,Dongbuzi,Dongbuzih|Tung-pu-tzu,25.0100,121.3065,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,13274.2,,,2,Asia/Taipei,FALSE,1158268578
+Tenghu,Tenghu,T’eng-hu,23.7788,120.7150,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158241063
+Jieyukeng,Jieyukeng,Kuan-yü-k’eng|Chieh-yü-k’eng,25.1090,121.7895,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2090.2,,,2,Asia/Taipei,FALSE,1158817321
+Zaozhi,Zaozhi,Zaojhih|Tsao-chih,23.6225,120.4403,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,301.0,,,3,Asia/Taipei,FALSE,1158519745
+Guangdongxiang,Guangdongxiang,Guangdongsiang|Kuang-tung-hsiang,23.8402,120.4921,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,441.3,,,3,Asia/Taipei,FALSE,1158881746
+Shekou,Shekou,She-k’ou,23.6972,120.5400,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158922988
+Dapi,Dapi,Ta-p’i-hsiang|Ta-p’i,23.9310,120.7077,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1387.9,,,3,Asia/Taipei,FALSE,1158250353
+Tuozi,Tuozi,Wan-tzu|Tuozih|T’o-tzu,24.6989,121.1075,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,483.3,,,3,Asia/Taipei,FALSE,1158615773
+Cuiluan,Cuiluan,Mou-k’o-pu-pu-lu-she|Cueiluan|Li-hsing-ts’un|Ts’ui-luan-she|Ts’ui-luan,24.1819,121.2006,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,10.3,,,4,Asia/Taipei,FALSE,1158328601
+Beishizi,Beishizi,Beishihzih|Pei-shih-tzu,23.8158,120.7388,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158607063
+Qingtiangang,Qingtiangang,Cingtiangang|Leng-shui-k’eng|Ch’ing-t’ien-kang,25.1674,121.5740,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,5389.9,,,2,Asia/Taipei,FALSE,1158037272
+Xidi,Xidi,Hsi-ti-liao|Sidi|Ch’i-ti-liao|Hsi-ti,23.7373,120.4972,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,456.4,,,3,Asia/Taipei,FALSE,1158812710
+Xidi,Xidi,Sidi|Hsi-ti,23.7444,120.3447,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,377.9,,,3,Asia/Taipei,TRUE,1158638588
+Xidi,Xidi,Ch’i-ti|Hsi-ti|Sidi,23.6897,120.3154,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,249.9,,,3,Asia/Taipei,TRUE,1158151566
+Xinnanshi,Xinnanshi,Sinnanshih|Hsin-nan|Hsin-nan-ts’un|Hsin-nan-shih,22.7870,120.5622,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,194.8,,,4,Asia/Taipei,FALSE,1158683183
+Dunzijiao,Dunzijiao,Dunzihjiao|Tun-tzu-chiao,22.9364,120.4650,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158732780
+Xiagouzao,Xiagouzao,Siagouzao|Hsia-kou-tsao,23.6486,120.1628,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,193.1,,,4,Asia/Taipei,FALSE,1158971182
+Ganzaoli,Ganzaoli,Keng-tsao-li|Kan-tsao-li,24.6903,121.1564,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,214.2,,,3,Asia/Taipei,FALSE,1158807117
+Erkeng,Erkeng,Erh-k’eng,25.0073,121.6791,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158060429
+Dawuding,Dawuding,Ta-t’ung|Ta-t’ung-ts’un|Ta-wu-ting,22.4503,120.5375,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,1141.8,,,3,Asia/Taipei,FALSE,1158837888
+Shazitian,Shazitian,Shazihtian|Sha-tzu-t’ien,23.1114,120.4703,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,161.1,,,4,Asia/Taipei,FALSE,1158130239
+Liuwu,Liuwu,Liouwu|Liu-wu,24.7203,121.0731,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,432.1,,,3,Asia/Taipei,FALSE,1158208030
+Tianluoku,Tianluoku,T’ien-lo-k’u,23.9997,120.9647,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158545538
+Yuemei,Yuemei,Yüeh-yeh|Yüeh-yeh-ts’un|Yüeh-mei,23.0172,121.1519,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,77.1,,,4,Asia/Taipei,FALSE,1158852710
+Tuniu,Tuniu,Tuniou|T’u-niu-ts’un|T’u-niu,24.2646,120.8106,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,461.9,,,3,Asia/Taipei,FALSE,1158131344
+Wangyecuo,Wangyecuo,Wang-yeh-ts’o,24.0667,120.4364,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1332.4,,,3,Asia/Taipei,FALSE,1158954149
+Citongkeng,Citongkeng,Cihtongkeng|Tz’u-t’ung-k’eng,22.9141,120.5383,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,275.7,,,3,Asia/Taipei,FALSE,1158192785
+Tong’ancuo,Tong'ancuo,Tung-ts’o-ts’un|Tung-ts’o|T’ung-an-ts’o,23.7097,120.2672,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,206.9,,,3,Asia/Taipei,FALSE,1158572950
+Zengcuo,Zengcuo,Tseng-wu|Tseng-ts’o,24.9439,121.0700,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,561.4,,,3,Asia/Taipei,FALSE,1158571730
+Changtan,Changtan,Ch’ang-t’an,24.3410,120.8308,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,146.1,,,4,Asia/Taipei,FALSE,1158903320
+Yangchoucuo,Yangchoucuo,Yang-t’iao|Yang-t’iao-li|Yang-ch’ou-ts’o,23.2830,120.2137,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,401.0,,,3,Asia/Taipei,FALSE,1158611005
+Zhonglun,Zhonglun,Jhonglun|Chung-lun-ts’un|Chung-lun,23.9836,120.6184,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,713.5,,,3,Asia/Taipei,FALSE,1158297387
+Waiheping,Waiheping,Wai-ho-p’ing,24.1798,120.8749,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,61.2,,,4,Asia/Taipei,FALSE,1158786722
+Ershizhangli,Ershizhangli,Chen-hsing|Ershihjhangli|Erh-shih-chang-li,24.8125,121.0000,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,,3255.5,,,2,Asia/Taipei,FALSE,1158868980
+Sanbiantou,Sanbiantou,San-pien|Hsia-san-pien-t’ou|San-pien-t’ou,24.0200,120.4881,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1242.0,,,3,Asia/Taipei,FALSE,1158619212
+Wacuozi,Wacuozi,Wacuozih|Wa-ts’o-tzu,23.4718,120.5237,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,77.0,,,4,Asia/Taipei,FALSE,1158261999
+Dazhubu,Dazhubu,Ta-chu-pu,25.0667,121.4833,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,32814.7,,,2,Asia/Taipei,FALSE,1158013711
+Dagangliao,Dagangliao,Ta-kang-liao,23.0117,120.1881,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,4530.7,,,2,Asia/Taipei,FALSE,1158575618
+Hongcuo,Hongcuo,Hung-ts’o,25.0133,121.3482,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3208.1,,,2,Asia/Taipei,FALSE,1158974293
+Kafeixiang,Kafeixiang,Kafeisiang|K’a-fei-hsiang,23.0747,120.6119,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,33.1,,,4,Asia/Taipei,FALSE,1158498368
+Shaziyuan,Shaziyuan,Shazihyuan|Sha-tzu-yüan,24.1333,120.4925,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2167.9,,,2,Asia/Taipei,FALSE,1158713907
+Sanbaibuling,Sanbaibuling,San-pai-pu-ling,25.1870,121.6528,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,259.4,,,3,Asia/Taipei,FALSE,1158342163
+Gongbu,Gongbu,Kung-po|Kung-pu,23.8921,120.7118,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,394.4,,,3,Asia/Taipei,FALSE,1158598526
+Xingzhangdi,Xingzhangdi,Hsing-chang-ti|Singjhangdi,24.7044,121.7758,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,778.2,,,3,Asia/Taipei,FALSE,1158647166
+Huxia,Huxia,Hu-hsia,24.4264,118.2591,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,,307.1,,,3,Asia/Taipei,FALSE,1158677075
+Shawanzi,Shawanzi,Shawanzih|Sha-wan-tzu,25.0750,121.9137,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,81.3,,,4,Asia/Taipei,FALSE,1158600573
+Caobu,Caobu,Ts’ao-pu,23.9398,120.4686,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1642.4,,,3,Asia/Taipei,FALSE,1158846863
+Bazilin,Bazilin,Bazihlin|Pa-tzu-lin,23.4816,120.5721,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158581208
+Xiacuo,Xiacuo,Siacuo|Hsia-ts’o,22.5027,120.3714,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,3044.6,,,2,Asia/Taipei,FALSE,1158274854
+Xiacuo,Xiacuo,Siacuo|Hsia-ts’o,22.7536,120.3489,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,540.2,,,3,Asia/Taipei,TRUE,1158417406
+Chaitoujing,Chaitoujing,Chung-ch’ai-t’ou|Ch’ai-t’ou-ching,23.9382,120.6007,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2505.6,,,2,Asia/Taipei,FALSE,1158678541
+Liudianqi,Liudianqi,Lioudianci|Liu-tien-ch’i,25.1035,121.3321,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158064776
+Liufenzhuang,Liufenzhuang,Lioufenjhuang|Liu-fen-chuang,22.5685,120.5067,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,784.7,,,3,Asia/Taipei,FALSE,1158057190
+Jiucuo,Jiucuo,Jioucuo|Chiu-ts’o,24.0665,120.6923,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,700.9,,,3,Asia/Taipei,FALSE,1158169217
+Wurong,Wurong,Wu-jung,24.3757,120.8637,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,129.5,,,4,Asia/Taipei,FALSE,1158174152
+Dongqixiang,Dongqixiang,Dongcisiang|Tung-ch’i-hsiang,24.0571,120.4657,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1245.7,,,3,Asia/Taipei,FALSE,1158690193
+Dingbuniu,Dingbuniu,Niu-pu-ting|Dingbuniou|Ting-pu-niu,23.0394,120.5597,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,75.1,,,4,Asia/Taipei,FALSE,1158340067
+Touqianliao,Touqianliao,Hsieh-ts’o-liao|Toucianliao|T’ou-ch’ien-liao,23.2383,120.1553,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,396.4,,,3,Asia/Taipei,FALSE,1158302966
+Beishipou,Beishipou,Pei-shih-pu|Beishihpou|Pei-shih-p’ou,22.5536,120.5514,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,938.1,,,3,Asia/Taipei,FALSE,1158821775
+Bazilin,Bazilin,Bazihlin|Pa-tzu-lin,23.4664,120.4222,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYI,city,,4588.4,,,2,Asia/Taipei,FALSE,1158155155
+Sheliao,Sheliao,She-liao,25.2284,121.6392,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,372.3,,,3,Asia/Taipei,FALSE,1158713238
+Beishigang,Beishigang,Beishihgang|Pei-shih-tzu|Hou-ts’o|Pei-shih-kang,25.2615,121.4796,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,333.4,,,3,Asia/Taipei,FALSE,1158000710
+Beitoubu,Beitoubu,Pei-t’ou-pu,23.9753,120.6640,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1035.5,,,3,Asia/Taipei,FALSE,1158737515
+Wangaoliao,Wangaoliao,Wan-kuo-liao|Wan-kao-liao,24.0776,120.8650,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,87.6,,,4,Asia/Taipei,FALSE,1158535361
+Xiongjiaojiao,Xiongjiaojiao,Syongjiaojiao|Ch’iung-chiao-chiao|Hsiung-chiao-chiao,22.6031,120.4062,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1776.9,,,3,Asia/Taipei,FALSE,1158229393
+Shipi,Shipi,Shihpi|Shih-pei|Shih-p’i-ts’un|Shih-p’i-chiao|Shih-pei-ts’un|Shih-p’i,23.9902,120.4206,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,781.1,,,3,Asia/Taipei,FALSE,1158361662
+Niubu,Niubu,Niu-pu-tzu|Nioubu|Niu-pu,24.9306,121.2222,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,6340.8,,,2,Asia/Taipei,FALSE,1158925605
+Wengshe,Wengshe,Weng-tzu|Weng-she-li|Wongshe|Weng-she|Wang-Tzu-Li,24.2642,120.7378,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,3990.0,,,2,Asia/Taipei,FALSE,1158118980
+Shirong,Shirong,Shihrong|Shih-jung-ts’un|Shih-jung,22.7596,120.5580,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,420.5,,,3,Asia/Taipei,FALSE,1158013594
+Badunan,Badunan,Pa-tu-nan,25.1075,121.7321,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,1383.3,,,3,Asia/Taipei,FALSE,1158856464
+Dashigong,Dashigong,Dashihgong|Ta-shih-kung,23.8402,120.7502,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,215.4,,,3,Asia/Taipei,FALSE,1158001341
+Buhe,Buhe,Pu-ting|Pu-ho-ts’un|Pu-ho,24.9206,120.9822,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1344.5,,,3,Asia/Taipei,FALSE,1158467834
+Fubao,Fubao,Hai-feng-k’u|Hai-feng|Fu-pao|Fu-pao-ts’un,24.0442,120.3981,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,133.3,,,4,Asia/Taipei,FALSE,1158294507
+Guliao,Guliao,Ku-liao,23.8821,120.2989,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,292.9,,,3,Asia/Taipei,FALSE,1158174534
+Qilong,Qilong,Ch’ien-kung-kuan|Cilong|Hsin-kung-kuan|Ch’i-lung,24.6867,121.1383,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,214.2,,,3,Asia/Taipei,FALSE,1158780479
+Tudigong,Tudigong,T’u-ti-kung,22.5636,120.3085,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,6261.7,,,2,Asia/Taipei,FALSE,1158283736
+Dongshikeng,Dongshikeng,Dongshihkeng|Tung-shih-k’eng,25.0809,121.7516,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,1633.4,,,3,Asia/Taipei,FALSE,1158928568
+Ayibei,Ayibei,A-i-pei,24.6261,120.8412,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,281.3,,,3,Asia/Taipei,FALSE,1158771689
+Shilong,Shilong,Shih-lung|Shihlong,24.7118,120.9947,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,213.5,,,3,Asia/Taipei,FALSE,1158353473
+Zhongping,Zhongping,Jhongping|Chung-p’ing-she|Chung-p’ing,23.3895,121.2992,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,3.2,,,4,Asia/Taipei,FALSE,1158753968
+Jiandongzi,Jiandongzi,Jiandongzih|Chien-tung-tzu,23.4845,120.6121,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158384109
+Houdonggang,Houdonggang,Hou-tung-kang,23.3766,120.1899,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,313.3,,,3,Asia/Taipei,FALSE,1158130626
+Yigupo,Yigupo,I-ku-p’o,24.9588,121.5117,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2849.6,,,2,Asia/Taipei,FALSE,1158556796
+Xiake,Xiake,Siake|Hsia-k’o,23.5326,120.3244,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,416.0,,,3,Asia/Taipei,FALSE,1158620133
+Liuzigou,Liuzigou,Liu-tzu-kou|Liouzihgou,23.5789,120.4192,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,359.0,,,3,Asia/Taipei,FALSE,1158399723
+Guogangzi,Guogangzi,Kuo-chiang-tzu|Guogangzih|Kuo-kang-tzu,23.4796,120.1768,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,,,3,Asia/Taipei,FALSE,1158434158
+Saijia,Saijia,Sai-chia,22.7436,120.6389,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,87.5,,,4,Asia/Taipei,FALSE,1158489635
+Baishatun,Baishatun,Pai-sha-t’un,24.5707,120.7106,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,421.4,,,3,Asia/Taipei,FALSE,1158237688
+Xiahengshan,Xiahengshan,Siahengshan|Hsia-heng-shan,24.2076,120.6320,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,3100.6,,,2,Asia/Taipei,FALSE,1158889828
+Wayao,Wayao,Wa-yao|Wu-yao|Wa-yao-ts’un,22.5538,120.4741,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,818.6,,,3,Asia/Taipei,FALSE,1158533990
+Wayao,Wayao,P’ao-tzu-yüan|Wa-yao,22.3764,120.6133,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,413.8,,,3,Asia/Taipei,TRUE,1158633315
+Xialiu,Xialiu,Liu-tzu-lin|Sialiou|Hsia-liu-tzu-lin|Hsia-liu-li|Hsia-liu,22.6256,120.5048,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,2863.7,,,2,Asia/Taipei,FALSE,1158533150
+Houbikeng,Houbikeng,Hou-pi-k’eng,23.5877,120.4987,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,603.5,,,3,Asia/Taipei,FALSE,1158877784
+Nanya,Nanya,Nan-ya-li|Nan-ya,25.1209,121.8772,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,451.7,,,3,Asia/Taipei,FALSE,1158557280
+Toufen,Toufen,T’ou-fen,23.0749,120.4993,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,31.4,,,4,Asia/Taipei,FALSE,1158554456
+Xiashitouxi,Xiashitouxi,Siashihtousi|Hsia-shih-t’ou-hsi,24.9574,121.4074,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,6616.4,,,2,Asia/Taipei,FALSE,1158876278
+Taipingshan,Taipingshan,T’ai-p’ing-shan,23.8348,120.8201,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,216.1,,,3,Asia/Taipei,FALSE,1158116019
+Liwu,Liwu,Li-wu,24.1698,121.5722,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,7.7,,,5,Asia/Taipei,FALSE,1158692933
+Shuijinghu,Shuijinghu,Shueijinghu|Shui-ching-hu,23.9094,120.9670,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,388.7,,,3,Asia/Taipei,FALSE,1158601282
+Longmujing,Longmujing,Lung-ch’üan|Lung-ch’üan-ts’un|Lung-ching|Lung-mu-ching,24.1992,120.5487,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1543.3,,,3,Asia/Taipei,FALSE,1158581948
+Shuiwei,Shuiwei,Shui-wei,25.0167,121.4833,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,31537.1,,,2,Asia/Taipei,FALSE,1158550358
+Shuiwei,Shuiwei,Shueiwei|Shui-wei,25.0927,121.4059,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1110.2,,,3,Asia/Taipei,TRUE,1158527194
+Shuiwei,Shuiwei,Shueiwei|Shui-wei,25.2237,121.6472,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,372.0,,,3,Asia/Taipei,TRUE,1158095509
+Tianliao,Tianliao,Fen-tzu-liao|T’ien-liao,22.7748,121.0852,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,1006.3,,,3,Asia/Taipei,FALSE,1158798287
+Xiaoli,Xiaoli,Hsin-hsing|Siaoli|Hsin-hsing-ts’un|Hsiao-li,24.9339,121.2669,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,7119.6,,,2,Asia/Taipei,FALSE,1158287190
+Erjiu,Erjiu,Erjiou|Erh-chiu,24.9039,121.3541,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,552.4,,,3,Asia/Taipei,FALSE,1158396255
+Houbiliao,Houbiliao,Hou-pi-liao,23.7166,120.4233,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1011.0,,,3,Asia/Taipei,FALSE,1158012106
+Buziqian,Buziqian,Buzihcian|Pu-tzu-ch’ien,24.2433,120.6350,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,2056.0,,,2,Asia/Taipei,FALSE,1158836788
+Nanlukou,Nanlukou,Nan-lu-k’ou,24.3814,120.7028,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158350686
+Waizhu,Waizhu,Waijhu|Wai-chu-li|Wai-lu-chu-t’ang|Wai-chu,23.8737,120.3885,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,484.5,,,3,Asia/Taipei,FALSE,1158891371
+Wangxian,Wangxian,Wang-hsüan|Wangsian|Kang-hsien|Kang-hsüan|Wang-hsien,24.6644,120.8240,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,421.4,,,3,Asia/Taipei,FALSE,1158279178
+Tunyingzi,Tunyingzi,Tunyingzih|T’un-ying-tzu,24.5576,120.9397,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,37.5,,,4,Asia/Taipei,FALSE,1158400993
+Shangdafu,Shangdafu,Shang-ta-fu,24.7936,121.8150,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,440.4,,,3,Asia/Taipei,FALSE,1158500894
+Hengzhenzhuang,Hengzhenzhuang,Hung-ch’uan|Heng-chün|Heng-ch’üan|Heng-chün-chuang|Hengjhenjhuang|Heng-chen-chuang,24.3578,120.6131,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1158.2,,,3,Asia/Taipei,FALSE,1158981554
+Sijiaolin,Sijiaolin,Sihjiaolin|Ssu-chiao-lin,24.0414,120.8470,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,FALSE,1158316497
+Shuiliudong,Shuiliudong,Shueilioudong|Shui-liu-tung,24.7050,120.9657,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,866.5,,,3,Asia/Taipei,FALSE,1158033557
+Shuiliudong,Shuiliudong,Shueilioudong|Shui-liu-tung,24.3718,120.8540,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,129.5,,,4,Asia/Taipei,TRUE,1158290696
+Dazhuangshanding,Dazhuangshanding,Dajhuangshanding|Ta-chuang-shan|Ta-chuang-shan-ting,22.7009,120.4257,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,836.1,,,3,Asia/Taipei,FALSE,1158844745
+Junjianyan,Junjianyan,Jyunjianyan|Chün-chien-yen,25.1283,121.5163,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,4368.9,,,2,Asia/Taipei,FALSE,1158518442
+Koulin,Koulin,K’ou-lin,23.1408,120.4212,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,125.1,,,4,Asia/Taipei,FALSE,1158829530
+Balianxitou,Balianxitou,Pa-lein-ch’i-t’ou|Pa-lien-ch’i-t’ou|Baliansitou|Pa-lien|Pa-lien-hsi-t’ou,25.2284,121.5324,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,333.4,,,3,Asia/Taipei,FALSE,1158409662
+Chongxing,Chongxing,Chongsing|Ch’ung-hsing,24.8981,120.9878,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1344.5,,,3,Asia/Taipei,FALSE,1158027993
+Sanlunwei,Sanlunwei,San-lun|San-lun-ts’un|San-lun-wei,23.8497,120.6479,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,413.7,,,3,Asia/Taipei,FALSE,1158855262
+Xiawukuai,Xiawukuai,Siawukuai|Wu-k’uai-ts’o|Hsia-wu-k’uai,22.6946,120.3342,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1921.5,,,3,Asia/Taipei,FALSE,1158864484
+Xilang,Xilang,Silang|Shih-lang|Hsi-lang,24.8530,121.3555,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,552.4,,,3,Asia/Taipei,FALSE,1158370809
+Jinshezhuang,Jinshezhuang,Jinshejhuang|Chin-ting-chuang|Chin-she-chuang,24.2961,120.6778,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,992.1,,,3,Asia/Taipei,FALSE,1158984552
+Beihu,Beihu,Pei-hu,25.0075,121.0439,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,561.4,,,3,Asia/Taipei,FALSE,1158003550
+Tianwei,Tianwei,T’ien-wei,24.9484,121.3981,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,6616.4,,,2,Asia/Taipei,FALSE,1158379174
+Shitouguang,Shitouguang,Shihtouguang|Shih-t’ou-kuang,22.0222,120.7497,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158658941
+Dingtouwei,Dingtouwei,Ting-t’ou-wei,25.2711,121.5413,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158333391
+Daqijiao,Daqijiao,Dacijiao|Ta-ch’i-chiao,24.0520,120.8091,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1639.6,,,3,Asia/Taipei,FALSE,1158372073
+Daqijiao,Daqijiao,Dacijiao|Ta-ch’i-chiao,23.9207,120.7165,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1387.9,,,3,Asia/Taipei,TRUE,1158477109
+Shiguanyin,Shiguanyin,Shihguanyin|Shih-kuan-yin,24.5467,120.8924,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,181.3,,,4,Asia/Taipei,FALSE,1158060859
+Wukeng,Wukeng,Wu-liu-k’eng|Wu-k’eng,25.1250,121.7891,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,9240.1,,,2,Asia/Taipei,FALSE,1158506117
+Guopizi,Guopizi,Guopizih|Chang-chu-tzu|Kuo-p’i-tzu,23.4322,120.2360,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,715.5,,,3,Asia/Taipei,FALSE,1158961051
+Kewei,Kewei,K’o-li|Chia-li|K’o-wei,23.2903,120.4631,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,119.5,,,4,Asia/Taipei,FALSE,1158989500
+Haifengcuo,Haifengcuo,Yü-feng-li|Yü-feng|Hai-ch’i-ts’o|Hai-feng|Haifongcuo|Hai-feng-ts’o,23.3781,120.4164,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,249.0,,,3,Asia/Taipei,FALSE,1158293819
+Longyanzhai,Longyanzhai,Longyanjhai|K’eng-nei|Lung-yen-chai,22.7270,120.4303,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,836.1,,,3,Asia/Taipei,FALSE,1158055037
+Yushancun,Yushancun,Yü-shan|Hsia-shan-tzu-chiao|Yü-shan-ts’un,23.2106,120.1247,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,370.8,,,3,Asia/Taipei,FALSE,1158900819
+Nanshanping,Nanshanping,Nan-shan-ts’un|Nan-shan-p’ing,25.0368,121.7752,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,43.6,,,4,Asia/Taipei,FALSE,1158719367
+Guhe,Guhe,Ku-ho,23.2097,119.4375,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,238.8,,,3,Asia/Taipei,FALSE,1158028228
+Caonanzi,Caonanzi,Caonanzih|Ts’ao-nan-tzu,24.7556,120.9389,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSZ,city,,2208.4,,,2,Asia/Taipei,FALSE,1158674932
+Hengkengzi,Hengkengzi,Hengkengzih|Heng-k’eng-tzu,25.1036,121.3128,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158854326
+Demei,Demei,Chu-chiao-ts’o|Te-mei,23.6442,120.5272,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,848.8,,,3,Asia/Taipei,FALSE,1158363675
+Xiaocuo,Xiaocuo,Siaocuo|Hsiao-ts’o,25.0565,121.4513,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,19596.6,,,2,Asia/Taipei,FALSE,1158841257
+Xiaocuo,Xiaocuo,Siaocuo|Hsiao-ts’o,24.9395,121.3218,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,7391.8,,,2,Asia/Taipei,TRUE,1158350173
+Niushanxizi,Niushanxizi,Niu-shan-hsi-tzu|Nioushansizih,23.4299,120.6199,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,77.0,,,4,Asia/Taipei,FALSE,1158693781
+Xingangliao,Xingangliao,Singangliao|Hsin-chiang-liao|Hsin-kang-liao,24.5011,120.8211,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,442.6,,,3,Asia/Taipei,FALSE,1158359513
+Sanfeng,Sanfeng,Sanfong|San-k’uai-ts’o|San-feng-ts’un|San-fang-ts’un|San-feng,23.8934,120.3009,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,294.4,,,3,Asia/Taipei,FALSE,1158946098
+Shanliao,Shanliao,Shan-hsi|Shan-liao,22.8294,120.3411,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,2075.8,,,2,Asia/Taipei,FALSE,1158172009
+Matoucuo,Matoucuo,Ma-t’ou-ts’o,25.0082,121.3807,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3208.1,,,2,Asia/Taipei,FALSE,1158525389
+Fanpolin,Fanpolin,Fan-p’o-lin,23.7106,120.6997,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158789127
+Erbu,Erbu,Erh-pu,23.1011,120.4835,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,161.1,,,4,Asia/Taipei,FALSE,1158096485
+Wugongli,Wugongli,Wu-kung-li,24.5684,121.8696,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,463.0,,,3,Asia/Taipei,FALSE,1158213434
+Shuijiao,Shuijiao,Shui-chiao,24.1333,120.6167,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,6207.9,,,2,Asia/Taipei,FALSE,1158586073
+Qigu,Qigu,Cigu|Ch’i-ku-ts’un|Ch’i-ku,25.2694,121.5469,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158700403
+Bingdianzi,Bingdianzi,Bingdianzih|Ping-tien-tzu,22.9953,120.2786,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,2249.0,,,2,Asia/Taipei,FALSE,1158173425
+Qingshuigou,Qingshuigou,Jen-ai-li|Cingshueigou|Ch’ing-shui-kou,24.6937,121.7606,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,888.5,,,3,Asia/Taipei,FALSE,1158184634
+Pitouxiang,Pitouxiang,Pitousiang|P’i-t’ou-hsiang|P’i-t’ou-hsia,22.6095,120.5580,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,724.8,,,3,Asia/Taipei,FALSE,1158107374
+Tianbaocuo,Tianbaocuo,T’ien-pao-li|T’ien-pao|T’ien-pao-ts’o,23.2661,120.2320,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,438.8,,,3,Asia/Taipei,FALSE,1158699590
+Yuantanzikeng,Yuantanzikeng,Yuantanzihkeng|T’an-pien|Yüan-t’an-tzu|Yüan-t’an-tzu-k’eng,24.9608,121.5674,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,8194.7,,,2,Asia/Taipei,FALSE,1158164532
+Dabu,Dabu,Hsieh-ho|Ch’ing-ti|Ta-pu,24.6806,121.8132,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,778.2,,,3,Asia/Taipei,FALSE,1158519001
+Dabu,Dabu,Nung-ch’ang|Ta-pu,24.6671,121.7089,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,240.9,,,3,Asia/Taipei,TRUE,1158550294
+Dabu,Dabu,Ta-pu,24.4667,121.8000,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,5.0,,,5,Asia/Taipei,TRUE,1158004469
+Nanhu,Nanhu,Nan-hu,24.7010,120.9292,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,1971.0,,,3,Asia/Taipei,FALSE,1158132101
+Nanhu,Nanhu,I-ho|I-ho-ts’un|Nan-hu,24.4003,120.8676,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,129.5,,,4,Asia/Taipei,TRUE,1158287884
+Shenghu,Shenghu,Su-ao|Fen-chi-hu|Sheng-hu,24.5500,121.8333,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,463.0,,,3,Asia/Taipei,FALSE,1158962773
+Cuzinei,Cuzinei,Cuzihnei|Ts’u-tzu-nei,23.3644,119.5261,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,101.5,,,4,Asia/Taipei,FALSE,1158563448
+Qingxi,Qingxi,Cingsi|Ch’ing-ch’i|Ch’ing-ch’i-li|Ch’ing-hsi-li|T’ou-ch’ien-ch’i|Ch’ing-hsi,22.6564,120.4624,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,2863.7,,,2,Asia/Taipei,FALSE,1158172093
+Wusi,Wusi,Wu-ssu,23.3833,121.0833,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,3.2,,,5,Asia/Taipei,FALSE,1158961913
+Zhuzilun,Zhuzilun,Jhuzihlun|Chu-tzu-lun,23.8799,120.8175,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158646312
+Amituo,Amituo,A-mi-t’o,24.0331,120.6191,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1460.5,,,3,Asia/Taipei,FALSE,1158378679
+Maobu,Maobu,Mao-pu,23.7319,120.7317,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,173.9,,,4,Asia/Taipei,FALSE,1158610863
+Maobu,Maobu,Mao-pu,23.7551,120.7950,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,85.8,,,4,Asia/Taipei,TRUE,1158040399
+Maobu,Maobu,Ta-mao-pu|Mao-pu,23.9858,120.8888,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,62.4,,,4,Asia/Taipei,TRUE,1158089392
+Liushishi,Liushishi,Liu-shih-shih|Lioushihshih,23.2212,121.3095,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,42.5,,,4,Asia/Taipei,FALSE,1158830756
+Daqiutian,Daqiutian,Dacioutian|Ta-ch’iu-t’ien,25.1034,121.6012,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,6379.2,,,2,Asia/Taipei,FALSE,1158350659
+Mengxing,Mengxing,Meng-t’an|Mengsing|Meng-hsing,24.9417,121.8058,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,41.8,,,4,Asia/Taipei,FALSE,1158625965
+Shuihankeng,Shuihankeng,Shueihankeng|Shui-han-k’eng,24.1656,120.8193,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,323.3,,,3,Asia/Taipei,FALSE,1158554552
+Hushan,Hushan,Hu-shan,22.9433,120.2292,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1449.8,,,3,Asia/Taipei,FALSE,1158264732
+Hushan,Hushan,Ku-shan|Hu-shan,23.2090,120.3490,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,325.9,,,3,Asia/Taipei,TRUE,1158354236
+Zhuangkuangkong,Zhuangkuangkong,Jhuangkuangkong|Chuang-k’uang-k’ung,23.9668,120.8202,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1035.5,,,3,Asia/Taipei,FALSE,1158337734
+Xiangtianpo,Xiangtianpo,Siangtianpo|Hsiang-t’ien-p’o,24.8503,121.3494,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,908.1,,,3,Asia/Taipei,FALSE,1158771696
+Xincuozi,Xincuozi,Sincuozih|Hsin-ts’o-tzu,23.0081,120.5817,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,80.9,,,4,Asia/Taipei,FALSE,1158765565
+Lichun,Lichun,Li-ts’un|Li-ch’un,23.5803,121.5250,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,28.2,,,4,Asia/Taipei,FALSE,1158979047
+Shulin,Shulin,Shu-na|Shu-lin,24.5292,120.7368,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,186.8,,,4,Asia/Taipei,FALSE,1158510577
+Qiedongzi,Qiedongzi,Ciedongzih|Ch’ieh-tung-tzu,22.7364,120.5217,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,420.5,,,3,Asia/Taipei,FALSE,1158929037
+Hengkengtou,Hengkengtou,Heng-k’eng-t’ou,23.3863,120.5715,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,320.3,,,3,Asia/Taipei,FALSE,1158148828
+Licuoxiang,Licuoxiang,Licuosiang|Li-t’so-hsiang,22.8606,120.4508,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,438.9,,,3,Asia/Taipei,FALSE,1158550920
+Pizinei,Pizinei,Pizihnei|P’i-tzu-nei,23.1956,120.5228,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,57.5,,,4,Asia/Taipei,FALSE,1158882054
+Sifenzi,Sifenzi,Sihfenzih|Ssu-fen-tzu,25.0291,121.6140,Taiwan,TW,TWN,Taipei,Taipei,TW-TPE,special municipality,,5652.0,,,2,Asia/Taipei,FALSE,1158588490
+Wushulin,Wushulin,Wu-shu-lin,24.8833,121.2114,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3320.3,,,2,Asia/Taipei,FALSE,1158235741
+Pitouxia,Pitouxia,Pitousia|P’i-t’ou-hsia,22.9085,120.5510,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,275.7,,,3,Asia/Taipei,FALSE,1158880233
+Zhangziliaokeng,Zhangziliaokeng,Jhangzihliaokeng|Chiang-tzu-liao-k’eng|Chang-tzu-liao-k’eng,23.9551,120.7974,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,557.0,,,3,Asia/Taipei,FALSE,1158008012
+Nankanxia,Nankanxia,Nankansia|Nan-k’an-ting|Nan-k’an-hsia,25.0420,121.2986,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2680.0,,,2,Asia/Taipei,FALSE,1158338956
+Tianluowu,Tianluowu,T’ien-io-wu|T’ien-lo-wu,23.8944,120.9162,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158224840
+Tailukeng,Tailukeng,Chung-lu-k’eng|Kua-lu-k’eng|T’ai-lu-k’eng,23.8757,120.7908,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,FALSE,1158014476
+Haifeng,Haifeng,Chung-hsin|Haifong|Chung-hsin-li|Hai-feng,22.7009,120.5131,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,2863.7,,,2,Asia/Taipei,FALSE,1158001420
+Guoye,Guoye,Kuo-yeh-hsiang|Kuo-She|Kuo-yeh-ts’un|Kuo-yeh,23.5784,119.6789,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,405.3,,,3,Asia/Taipei,FALSE,1158130243
+Waidaping,Waidaping,Wai-ta-p’ing,23.9617,120.9161,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158478213
+Xincun,Xincun,Sincun|Hsin-ts’un,23.0129,121.3233,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,96.7,,,4,Asia/Taipei,FALSE,1158042359
+Gangou,Gangou,Kan-kou-ts’un|Kan-kou,24.9188,121.6276,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158279155
+Ziliangmiao,Ziliangmiao,Tzu-lung-li|Tzu-lung|Zihliangmiao|Tzu-liang-miao,23.1742,120.2078,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1277.6,,,3,Asia/Taipei,FALSE,1158672540
+Xiufengping,Xiufengping,Ssu-k’uang-tzu-p’ing|Ssu-huang-p’ing|Sioufongping|Hsiu-feng-p’ing,25.1940,121.5942,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,372.3,,,3,Asia/Taipei,FALSE,1158905072
+Zhanping,Zhanping,Earh-ts’eng-p’ing|Jhanping|Erh-ts’eng-p’ing|Chan-p’ing,23.3393,121.3611,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,110.3,,,4,Asia/Taipei,FALSE,1158343274
+Zhongzhouzi,Zhongzhouzi,Jhongjhouzih|Chung-chou-tzu,25.2006,121.4707,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158452458
+Zhongshan,Zhongshan,Jhongshan|Chung-shan,23.9745,120.5983,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2423.6,,,2,Asia/Taipei,FALSE,1158050834
+Touqiyue,Touqiyue,Touciyue|T’ou-ch’i-yüeh,23.1967,119.4269,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,238.8,,,3,Asia/Taipei,FALSE,1158273197
+Xiongjiaoping,Xiongjiaoping,Syongjiaoping|Ch’iung-chiao-p’ing|Hsiung-chiao-p’ing,24.5369,120.8847,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,265.2,,,3,Asia/Taipei,FALSE,1158128023
+Dashanzi,Dashanzi,Dashanzih|Ta-shan-tzu,22.7722,120.2303,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1162.8,,,3,Asia/Taipei,FALSE,1158714731
+Huangliping,Huangliping,Huang-li-p’ing,24.4663,120.8067,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,215.5,,,3,Asia/Taipei,FALSE,1158512380
+Daniuchou,Daniuchou,Daniouchou|Ta-niu-ch’ou,25.0572,121.2247,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1076.3,,,3,Asia/Taipei,FALSE,1158160212
+Shibikeng,Shibikeng,Ming-cheng-li|Shihbikeng|Shih-pi-k’eng,24.3121,120.7835,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,293.3,,,3,Asia/Taipei,FALSE,1158462203
+Xiajiunanshi,Xiajiunanshi,Hsia-chiu-nan-shih,22.7771,120.5997,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,194.8,,,4,Asia/Taipei,FALSE,1158027368
+Yiminmiao,Yiminmiao,I-min-miao,24.8500,121.0333,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1860.0,,,3,Asia/Taipei,FALSE,1158807181
+Zhonglunliao,Zhonglunliao,Jhonglunliao|Chung-lun-liao,22.8361,120.3333,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1148.6,,,3,Asia/Taipei,FALSE,1158702040
+Lincuoliao,Lincuoliao,Lin-ts’o-liao,23.6725,120.1786,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,193.1,,,4,Asia/Taipei,FALSE,1158289657
+Kuoshuikeng,Kuoshuikeng,Kuoshueikeng|K’uo-shui-k’eng,24.9503,121.4725,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,8672.8,,,2,Asia/Taipei,FALSE,1158380256
+Jinguashibenshan,Jinguashibenshan,Jinguashihbenshan|Chin-kua-shih-pen-shan,25.0994,121.8527,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,406.3,,,3,Asia/Taipei,FALSE,1158522344
+Xiguli,Xiguli,Hsi-ku-li,23.6000,120.4000,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,359.0,,,3,Asia/Taipei,FALSE,1158576954
+Xishan,Xishan,Hsia-shan-wei|Shan-wei|Sishan|Hsi-shan-ts’un|Hsi-shan,22.4781,120.4089,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,3100.3,,,2,Asia/Taipei,FALSE,1158006592
+Qixiabu,Qixiabu,Cisiabu|Ch’i-hsia-pu,24.2708,120.7469,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1383.3,,,3,Asia/Taipei,FALSE,1158833891
+Qieding,Qieding,Cieding|Ch’ieh-ting,22.9003,120.1839,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1865.8,,,3,Asia/Taipei,FALSE,1158736862
+Buxinzi,Buxinzi,Pu-hsin-tzu|Businzih,24.8654,121.2935,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1215.5,,,3,Asia/Taipei,FALSE,1158594809
+Fengshuzihu,Fengshuzihu,Fongshuzihhu|Feng-shu-hu|Feng-shu-tzu-hu,25.1863,121.4990,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1778.4,,,3,Asia/Taipei,FALSE,1158764853
+Guanyinshankou,Guanyinshankou,Kuan-yin-shan-k’ou,24.3136,120.7531,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,604.0,,,3,Asia/Taipei,FALSE,1158475498
+Jiangliao,Jiangliao,Chiang-liao,23.6402,120.3002,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,287.6,,,3,Asia/Taipei,FALSE,1158645325
+Baitouqi,Baitouqi,Baitouci|Pai-t’ou-ch’i,23.0397,120.4229,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,49.3,,,4,Asia/Taipei,FALSE,1158301722
+Dingxibu,Dingxibu,Ting-ch’i-pu|Ch’üan-hsing-ts’un|Ch’üan-hsing|Dingsibu|Ting-hsi-pu,24.1783,120.4906,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1333.5,,,3,Asia/Taipei,FALSE,1158776268
+Hongtuqi,Hongtuqi,Hongtuci|Hung-t’u-ch’i,22.9450,120.4925,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158711276
+Haifangcuo,Haifangcuo,Hai-fang-ts’o,25.0928,121.2328,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1076.3,,,3,Asia/Taipei,FALSE,1158676782
+Shangdian,Shangdian,Shang-tien,24.5087,120.7255,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158157708
+Dongbian,Dongbian,Tung-pien,23.7520,120.7833,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,85.8,,,4,Asia/Taipei,FALSE,1158901783
+Neiwan,Neiwan,Nei-wan,24.7058,121.1811,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,214.2,,,3,Asia/Taipei,FALSE,1158667078
+Sanjiaodian,Sanjiaodian,San-chiao-tien,24.6850,120.8830,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2092.3,,,2,Asia/Taipei,FALSE,1158713666
+Neixin,Neixin,Nei-hsin,24.4333,120.8000,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,215.5,,,3,Asia/Taipei,FALSE,1158188617
+Shihuikeng,Shihuikeng,Shihhueikeng|Shih-hui-k’eng,24.9767,121.3780,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,4358.6,,,2,Asia/Taipei,FALSE,1158972062
+Wukui,Wukui,Wukuei|Wu-k’uei-liao|Wu-k’uei-li|Wu-k’uei,22.5588,120.5287,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,607.2,,,3,Asia/Taipei,FALSE,1158065675
+Shanyangdong,Shanyangdong,Shan-yang-tung,24.9784,121.6473,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158138966
+Shanyangdong,Shanyangdong,Shan-yang-tung,24.8366,121.5359,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,8.9,,,5,Asia/Taipei,TRUE,1158502367
+Litoushanxia,Litoushanxia,Li-shan|Litoushansia|Li-t’ou-shan-hsia,24.8294,121.0331,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1428.7,,,3,Asia/Taipei,FALSE,1158406186
+Xiabeishi,Xiabeishi,Hsia-pei-shih,24.9500,121.2333,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5904.6,,,2,Asia/Taipei,FALSE,1158051841
+Sanzhizhuang,Sanzhizhuang,San-chih-chuang,25.2667,121.5167,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,221.6,,,3,Asia/Taipei,FALSE,1158378338
+Zhonglu,Zhonglu,Jhonglu|Chung-lu,25.0838,121.4610,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,26992.0,,,2,Asia/Taipei,FALSE,1158854306
+Waibengshan,Waibengshan,Wai-peng-shan,24.9735,121.6706,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,50.6,,,4,Asia/Taipei,FALSE,1158484056
+Yucuo,Yucuo,Yü-ts’o,24.9319,121.0200,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,610.1,,,3,Asia/Taipei,FALSE,1158741194
+Huli,Huli,Ch’ao-li|Hu-li,22.8858,120.3778,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158392321
+Jicuo,Jicuo,Chi-ts’o,24.3714,120.6136,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,616.6,,,3,Asia/Taipei,FALSE,1158862127
+Qianban,Qianban,Cianban|Ch’ien-pan,23.1714,120.2350,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,742.1,,,3,Asia/Taipei,FALSE,1158091580
+Funanxing,Funanxing,Fu-nan-hsing,24.7207,121.7953,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,440.4,,,3,Asia/Taipei,FALSE,1158997108
+Fanzilushan,Fanzilushan,Fan-tzu-lu-shan,24.1167,120.7333,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1646.5,,,3,Asia/Taipei,FALSE,1158845642
+Wanning,Wanning,Wan-jen-pu|Wan-ning-ts’un|Wan-ning,23.2551,121.2988,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,42.5,,,4,Asia/Taipei,FALSE,1158608430
+Yucheng,Yucheng,Yü-ch’eng-li|Yü-ch’eng,22.6341,120.4732,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,2863.7,,,2,Asia/Taipei,FALSE,1158560623
+Xiayuankeng,Xiayuankeng,Siayuankeng|Hsia-yüan-k’eng,25.2805,121.5217,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,129.3,,,4,Asia/Taipei,FALSE,1158776167
+Niubucuo,Niubucuo,Yong-le|Nioubucuo|Niu-pu-ts’o,24.0014,120.4361,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,602.2,,,3,Asia/Taipei,FALSE,1158069315
+Jiangmuliao,Jiangmuliao,Chiang-mu-liao,22.6517,120.9936,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,78.0,,,4,Asia/Taipei,FALSE,1158302331
+Xinjie,Xinjie,Sinjie|Hsin-chieh,22.4754,120.4597,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,778.4,,,3,Asia/Taipei,FALSE,1158608049
+Xinjie,Xinjie,Sinjie|Hsin-chieh,22.0589,120.7142,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,115.2,,,4,Asia/Taipei,TRUE,1158428023
+Chongguang,Chongguang,Ts’ai-kung|Ch’ung-kuang-li|Ch’ung-kuang,23.6939,120.5672,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158890292
+Wayao,Wayao,Niu-ch’ou-pu|Hui-yao|Wa-yao,22.8456,120.3231,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,854.7,,,3,Asia/Taipei,FALSE,1158668412
+Balaoye,Balaoye,Pa-weng-ts’un|Pa-weng|Pa-lao-yeh,23.2744,120.2972,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,359.7,,,3,Asia/Taipei,FALSE,1158379880
+Dingguinan,Dingguinan,Dinggueinan|Ting-kuei-nan,22.9569,120.2822,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1350.8,,,3,Asia/Taipei,FALSE,1158951464
+Shanbian,Shanbian,Yin-ho-huan|Shan-pien,23.9947,121.5572,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,1071.9,,,3,Asia/Taipei,FALSE,1158763044
+Yongqingta,Yongqingta,Yung-ch’ing-t’a,22.6833,120.2833,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,10454.2,,,2,Asia/Taipei,FALSE,1158376676
+Shifen,Shifen,Shihfen|Shih-fen,24.2511,120.7869,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,477.8,,,3,Asia/Taipei,FALSE,1158266014
+Tanduliao,Tanduliao,Yu-hsi|T’an-tou-liao|Yu-hsi-ts’un|T’an-tu-liao,23.6169,120.3926,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,301.8,,,3,Asia/Taipei,FALSE,1158719678
+Rongyuzhijia,Rongyuzhijia,Jung-yü-chih-chia,22.7833,121.1167,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,1006.3,,,3,Asia/Taipei,FALSE,1158868637
+Zhongkangle,Zhongkangle,Jhongkangle|Chung-liao|Shang-k’ang-le|Chung-k’ang-le,22.7547,121.0982,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,1006.3,,,3,Asia/Taipei,FALSE,1158311200
+Zhepou,Zhepou,Jhepou|Che-p’ou,24.6344,120.8335,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,281.3,,,3,Asia/Taipei,FALSE,1158815334
+Zhepou,Zhepou,Jhepou|Che-p’ou,24.3969,120.8687,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,129.5,,,4,Asia/Taipei,TRUE,1158369680
+Tianluoxue,Tianluoxue,Tianluosyue|T’ien-lo-hsüeh,25.1912,121.4466,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158100801
+Nanxing,Nanxing,Nansing|Nan-hsing,22.9932,121.1744,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,86.0,,,4,Asia/Taipei,FALSE,1158236116
+Nanxing,Nanxing,Lu-ch’ia-chia-ssu|Nansing|Nan-hsing,22.3089,120.8889,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,59.4,,,4,Asia/Taipei,TRUE,1158339586
+Pitoushan,Pitoushan,P’i-t’ou-li|P’i-t’ou|Pa-t’ou|P’i-t’ou-shan,24.2844,120.7586,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,482.8,,,3,Asia/Taipei,FALSE,1158651960
+Quanzhouliao,Quanzhouliao,Cyuanjhouliao|Ch’üan-chou-liao,23.9428,120.6071,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2505.6,,,2,Asia/Taipei,FALSE,1158501692
+Zhongbuli,Zhongbuli,Chung-pu-li,23.7167,121.4500,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,76.7,,,4,Asia/Taipei,FALSE,1158436272
+Jialimo’anshe,Jialimo'anshe,Chia-li-mo-an-she,23.7986,121.0542,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,9.1,,,5,Asia/Taipei,FALSE,1158722548
+Houdian,Houdian,Hou-tien,25.2258,121.5162,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,333.4,,,3,Asia/Taipei,FALSE,1158129588
+Raoping,Raoping,Shu-tzu-chiao|Jao-p’ing-ts’un|Jao-p’ing,23.7796,120.5181,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,436.8,,,3,Asia/Taipei,FALSE,1158541928
+Aowanda,Aowanda,Ao-wan-ta,23.9461,121.1842,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,10.3,,,4,Asia/Taipei,FALSE,1158448310
+Zhentoushan,Zhentoushan,Chen-shan-ts’un|Chen-t’ou-shan|Chen-shan|Jhentoushan,24.7715,121.7190,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,308.5,,,3,Asia/Taipei,FALSE,1158099257
+Nongchangliao,Nongchangliao,Nung-ch’ang-liao,23.0606,120.1447,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1741.3,,,3,Asia/Taipei,FALSE,1158041573
+Waibu,Waibu,Wai-pu,25.1025,121.3422,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158268196
+Nanbiantian,Nanbiantian,Nan-pien-t’ien,21.9300,120.7222,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158000235
+Laoshuikeng,Laoshuikeng,Cho-shui-k’eng|Laoshueikeng|Lao-shui-k’eng,23.6667,120.6675,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,179.9,,,4,Asia/Taipei,FALSE,1158119039
+Xintang,Xintang,Hsin-t’ang,24.4207,118.4406,Taiwan,TW,TWN,Kinmen,Kinmen,TW-KIN,county,,409.0,,,3,Asia/Taipei,FALSE,1158307916
+Zhenliao,Zhenliao,Chün-liao|Jhenliao|Ch’üan-liao|Chen-liao,23.7787,120.2768,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,247.3,,,3,Asia/Taipei,FALSE,1158653560
+Bazijiao,Bazijiao,Bazihjiao|Kuo-Kang-Ts’un|Kuo-kang|Kuo-chiang|Kuo-chiang-ts’un|Pa-tzu-chiao,23.5764,120.1914,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,256.9,,,3,Asia/Taipei,FALSE,1158650635
+Shekou,Shekou,She-k’ou,23.4442,120.5426,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,309.1,,,3,Asia/Taipei,FALSE,1158832464
+Wanggongtan,Wanggongtan,Wang-kung-t’ang|Wang-kung-t’an,24.1072,120.7606,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1646.5,,,3,Asia/Taipei,FALSE,1158658742
+Hanbao,Hanbao,Han-pao,24.0061,120.3833,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,133.3,,,4,Asia/Taipei,FALSE,1158522704
+Mazukeng,Mazukeng,Ma-tsu-k’eng,23.0005,120.4128,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,49.3,,,4,Asia/Taipei,FALSE,1158379932
+Shuiku,Shuiku,Shueiku|Shui-k’u,22.8939,120.3972,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158794973
+Zhuzilai,Zhuzilai,Jhuzihlai|Chu-tzu-lai,23.9803,120.9003,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,331.3,,,3,Asia/Taipei,FALSE,1158084657
+Houcuozi,Houcuozi,Houcuozih|Hou-ts’o-tzu,23.5250,120.3788,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,467.7,,,3,Asia/Taipei,FALSE,1158330372
+Wailiaozi,Wailiaozi,Wailiaozih|Wai-liao-tzu,23.4219,120.4889,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,587.7,,,3,Asia/Taipei,FALSE,1158721292
+Banling,Banling,Pan-ling,23.8971,120.6644,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,1387.9,,,3,Asia/Taipei,FALSE,1158661690
+Kantoucuo,Kantoucuo,K’an-t’ou-wu|K’an-t’ou-ts’o,25.0323,121.2223,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1076.3,,,3,Asia/Taipei,FALSE,1158286967
+Qiangbu,Qiangbu,Ch’iang-huang-pu|Ciangbu|Ch’iang-pu,23.1050,120.6019,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,33.1,,,4,Asia/Taipei,FALSE,1158089328
+Dongpian,Dongpian,Tung-p’ien,24.4471,120.7805,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,215.5,,,3,Asia/Taipei,FALSE,1158129309
+Wuxilun,Wuxilun,Wu-ts’ai-lun|Wusilun|Wu-hsi-lun,22.9614,120.4478,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,141.7,,,4,Asia/Taipei,FALSE,1158187098
+Caodi,Caodi,San-ho|Ts’ao-ti,22.9608,120.6516,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,49.8,,,4,Asia/Taipei,FALSE,1158000108
+Beigouhou,Beigouhou,Pei-kou-hou,23.6602,119.5538,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,231.6,,,3,Asia/Taipei,FALSE,1158554708
+Jiuguichong,Jiuguichong,Jiougueichong|Chiu-kuei-ch’ung,22.4053,120.6486,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,18.8,,,4,Asia/Taipei,FALSE,1158432928
+Fengshanqi,Fengshanqi,Fongshanci|Feng-shan-ch’i,24.8600,121.0011,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1604.5,,,3,Asia/Taipei,FALSE,1158030290
+Dinghu,Dinghu,Ting-hu,25.0453,121.3563,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,3208.1,,,2,Asia/Taipei,FALSE,1158246126
+Sheliaodao,Sheliaodao,She-liao|She-liao-tao,25.1500,121.7500,Taiwan,TW,TWN,Keelung,Keelung,TW-KEE,city,,17990.4,,,2,Asia/Taipei,FALSE,1158216952
+Chongde,Chongde,Kou-yün-yin|Kou-yün-k’un|Ch’ung-te-ts’un|Ch’ung-te,22.8778,120.3814,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158216127
+Dianziding,Dianziding,Dianzihding|Tien-tzu-ting,23.0784,120.3076,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,733.0,,,3,Asia/Taipei,FALSE,1158629845
+Sanxiantai,Sanxiantai,Sansiantai|San-hsien-t’ai,23.1223,121.4069,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,98.5,,,4,Asia/Taipei,FALSE,1158383250
+Shuita,Shuita,Shui-t’a,24.2333,120.6000,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,2431.4,,,2,Asia/Taipei,FALSE,1158985121
+Songbailun,Songbailun,Sung-pai-lun,23.8700,120.9275,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158864812
+Shuikengzi,Shuikengzi,Shueikengzih|Shui-k’eng-tzu,21.9747,120.7172,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158984531
+Miluo,Miluo,Mi-lo,24.4333,121.3833,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,6.0,,,5,Asia/Taipei,FALSE,1158440839
+Dajing,Dajing,Ta-ching,23.1802,120.3989,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,327.4,,,3,Asia/Taipei,FALSE,1158549242
+Xinbuluo,Xinbuluo,Hsin-pu-lo,22.9833,120.2833,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1350.8,,,3,Asia/Taipei,FALSE,1158590668
+Shuitoupai,Shuitoupai,Shueitoupai|Shui-t’ou-p’ai,24.6897,121.1047,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1645.1,,,3,Asia/Taipei,FALSE,1158501372
+Ganzijing,Ganzijing,Ganzihjing|Kan-ching-li|Kan-ching|Kan-tzu-ching,24.1113,120.5175,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1185.3,,,3,Asia/Taipei,FALSE,1158426453
+Hengjiao,Hengjiao,Heng-chiao|Heng-chiao-she|Heng-chiao-ts’un,23.6355,119.5375,Taiwan,TW,TWN,Penghu,Penghu,TW-PEN,county,,294.2,,,3,Asia/Taipei,FALSE,1158114470
+Bogonghou,Bogonghou,Po-kung-hou,24.9389,121.2725,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,7119.6,,,2,Asia/Taipei,FALSE,1158192912
+Aitou,Aitou,Ai-t’ou,24.4553,120.7206,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,253.6,,,3,Asia/Taipei,FALSE,1158825928
+Renliban,Renliban,Jen-li-fan|Jen-li-pan,24.9332,121.6917,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,19.2,,,4,Asia/Taipei,FALSE,1158844157
+Zhao’anliao,Zhao'anliao,Jhao’anliao|Chao-an-liao,23.5444,120.5792,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,144.6,,,4,Asia/Taipei,FALSE,1158011526
+Dianzihou,Dianzihou,Dianzihhou|Tien-tzu-hou,25.2180,121.4613,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158380183
+Caigongtang,Caigongtang,Ts’ai-kung-t’ang,24.0440,120.6053,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,3698.5,,,2,Asia/Taipei,FALSE,1158016389
+Siqianshui,Siqianshui,Sihcianshuei|Ssu-k’an-shui|Ssu-ch’ien-shui,24.8859,121.5702,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2849.6,,,2,Asia/Taipei,FALSE,1158367919
+Mugualun,Mugualun,Mu-kua-lun,23.7294,120.7314,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,173.9,,,4,Asia/Taipei,FALSE,1158082740
+Xinsanjiaozi,Xinsanjiaozi,Chung-cheng|Sinsanjiaozih|Hsin-san-chiao|Hsin-san-chiao-tzu,22.9328,120.5042,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,435.2,,,3,Asia/Taipei,FALSE,1158690847
+Shipo,Shipo,Shihpo|Shih-p’o,24.9778,121.1664,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,753.5,,,3,Asia/Taipei,FALSE,1158898518
+Kantou,Kantou,K’an-ting|K’an-liao-ts’un|K’an-liao|K’an-t’ou,23.8203,120.6687,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,413.7,,,3,Asia/Taipei,FALSE,1158861555
+Jietoufen,Jietoufen,Chieh-t’ou-fen,24.7618,121.7221,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,224.7,,,3,Asia/Taipei,FALSE,1158915140
+Sancengping,Sancengping,San-ts’eng-p’ing,24.7856,121.6801,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,330.4,,,3,Asia/Taipei,FALSE,1158468069
+Touqianpu,Touqianpu,T’ou-ch’ien-p’u,24.9833,121.2000,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5904.6,,,2,Asia/Taipei,FALSE,1158436227
+Jinzun,Jinzun,Chin-tsun,22.9589,121.2897,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,36.1,,,4,Asia/Taipei,FALSE,1158165147
+Neizhuwei,Neizhuwei,Neijhuwei|Nei-chu-wei,24.4375,120.6836,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,419.5,,,3,Asia/Taipei,FALSE,1158194158
+Huangwu,Huangwu,Huang-wu,24.9342,121.1711,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,2232.1,,,2,Asia/Taipei,FALSE,1158318974
+Chuanliaokeng,Chuanliaokeng,Tuan-lung|Tuan-lung-k’eng|Ch’uan-liao-k’eng,24.4192,120.7992,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,215.5,,,3,Asia/Taipei,FALSE,1158573301
+Ercengping,Ercengping,Erh-ts’eng-p’ing,23.1817,120.5558,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,57.5,,,4,Asia/Taipei,FALSE,1158494792
+Xincheng,Xincheng,Sincheng|Hsin-ch’eng,23.9081,120.9238,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,101.3,,,4,Asia/Taipei,FALSE,1158415584
+Xincheng,Xincheng,Sincheng|Hsin-ch’eng,23.9261,120.7385,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,65.8,,,4,Asia/Taipei,TRUE,1158220854
+Xindagang,Xindagang,Hsin-ta-chiang|Hsin-ta-kang,22.6500,120.3000,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,10210.7,,,2,Asia/Taipei,FALSE,1158965043
+Yewu,Yewu,Yeh-wu,25.0118,121.1719,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,5904.6,,,2,Asia/Taipei,FALSE,1158224028
+Xiaobushe,Xiaobushe,Siaobushe|Hsiao-pu|Hsiao-pu-she,24.0247,120.9550,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158635205
+Wantan,Wantan,Wan-t’an,25.0494,121.1659,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,826.9,,,3,Asia/Taipei,FALSE,1158372429
+Kouhu,Kouhu,K’ou-hu,22.9525,120.4656,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158169069
+Ganzhai,Ganzhai,Ganjhai|Kan-chai,22.9822,120.2894,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1350.8,,,3,Asia/Taipei,FALSE,1158840433
+Ganzhai,Ganzhai,Ganjhai|Kan-chai-tzu|Kan-chai,23.3808,120.4392,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,204.3,,,3,Asia/Taipei,TRUE,1158079594
+Fanzigou,Fanzigou,Fanzihgou|Fan-tzu-kou,23.7017,120.5583,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158144572
+Gangzilin,Gangzilin,Kang-lin-ts’un|Kang-lin|Gangzihlin|Kang-tzu-lin,23.0198,120.4167,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,49.3,,,4,Asia/Taipei,FALSE,1158475258
+Sanxinglun,Sanxinglun,Sansinglun|San-hsing-lun,24.0742,120.5899,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,3850.8,,,2,Asia/Taipei,FALSE,1158617476
+Xiashicao,Xiashicao,Siashihcao|Hsia-shih-ts’ao,24.9088,121.7094,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,19.2,,,4,Asia/Taipei,FALSE,1158193504
+Xiayicun,Xiayicun,Siayicun|Hsia-i|Hsia-i-tzu-liao|Hsia-chi|Hsia-Chi-Ts’un|Hsia-i-ts’un,23.4887,120.2030,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,,,3,Asia/Taipei,FALSE,1158190097
+Gongwen,Gongwen,Kung-wen-li|Gongwun|Kung-wen,23.0700,120.1633,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,1741.3,,,3,Asia/Taipei,FALSE,1158786824
+Guoxi,Guoxi,Guosi|Kuo-hsi,23.6035,120.5025,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,603.5,,,3,Asia/Taipei,FALSE,1158830582
+Guoxi,Guoxi,Guosi|Kuo-hsi,23.4754,120.6824,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,TRUE,1158956453
+Guoxi,Guoxi,Guosi|Kuo-hsi,23.4934,120.5470,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,TRUE,1158712685
+Mianqiancuo,Mianqiancuo,Mianciancuo|Mien-ch’ien-ts’o,24.2906,120.6108,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,1325.7,,,3,Asia/Taipei,FALSE,1158644528
+Zhuweinei,Zhuweinei,Jhuweinei|Chu-wei-nei,22.5356,120.5054,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,694.1,,,3,Asia/Taipei,FALSE,1158248300
+Yongxing,Yongxing,Yongsing|Yung-hsing,25.2651,121.6242,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,221.1,,,3,Asia/Taipei,FALSE,1158459078
+Xiaozhukeng,Xiaozhukeng,Siaojhukeng|Hsiao-chu-k’eng,24.8069,121.2314,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1978.3,,,3,Asia/Taipei,FALSE,1158719514
+Zhongliao,Zhongliao,Chuang-liao|Jhongliao|Chung-liao,22.8581,120.2242,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,1534.9,,,3,Asia/Taipei,FALSE,1158914351
+Zhongliao,Zhongliao,Jhongliao|Chung-liao,22.8175,120.4247,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,TRUE,1158446576
+Qilin,Qilin,Cilin|Ch’i-lin,24.7415,120.9606,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,222.1,,,3,Asia/Taipei,FALSE,1158026283
+Xiashisanfen,Xiashisanfen,Siashihsanfen|Hsia-shih-san-fen,23.7458,120.5667,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,632.9,,,3,Asia/Taipei,FALSE,1158278269
+Pokou,Pokou,P’o-k’ou,24.7773,121.7392,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,570.6,,,3,Asia/Taipei,FALSE,1158994102
+Yingpanyuan,Yingpanyuan,Ying-p’an-yüan,23.7427,120.5970,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,271.2,,,3,Asia/Taipei,FALSE,1158295254
+Songzijiao,Songzijiao,Songzihjiao|Sung-tzu-chiao,24.6866,121.8138,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,778.2,,,3,Asia/Taipei,FALSE,1158795274
+Kengzinei,Kengzinei,K’eng-ting|Kengzihnei|K’eng-tzu-nei,21.9159,120.8572,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158899594
+Yuying,Yuying,Yü-ying,24.6407,121.8323,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,563.5,,,3,Asia/Taipei,FALSE,1158339874
+Yuanshanjiao,Yuanshanjiao,Yüan-shan-chiao,24.8291,121.3371,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,353.8,,,3,Asia/Taipei,FALSE,1158393368
+Zhonggang,Zhonggang,Chung-chiang|Jhonggang|Chung-kang,22.1128,120.8800,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,33.3,,,4,Asia/Taipei,FALSE,1158972406
+Senyong,Senyong,Sen-yung,22.2814,120.8647,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,6.5,,,5,Asia/Taipei,FALSE,1158490662
+Dapiantou,Dapiantou,Ta-p’ien-t’ou,25.2409,121.4588,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1403.2,,,3,Asia/Taipei,FALSE,1158469052
+Xinxing,Xinxing,Sinsing|Hsin-hsing,23.7705,120.5487,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,436.8,,,3,Asia/Taipei,FALSE,1158227488
+Xinxing,Xinxing,Sinsing|Hsin-hsing,23.8116,120.3667,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,272.0,,,3,Asia/Taipei,TRUE,1158631201
+Xinxing,Xinxing,Sinsing|Shan-chu-k’u|Hsin-hsing,23.6028,120.5453,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,139.4,,,4,Asia/Taipei,TRUE,1158902932
+Jinsha,Jinsha,Ching-sha|Chin-sha,26.1439,119.9153,Taiwan,TW,TWN,Lienchiang,Lienchiang,TW-LIE,county,,565.8,,,3,Asia/Taipei,FALSE,1158380753
+Shiwuzhangli,Shiwuzhangli,Shihwujhangli|Shih-wu-chang|Te-hsing|Shih-wu-chang-li,24.1339,120.4800,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,1127.9,,,3,Asia/Taipei,FALSE,1158025794
+Erwang,Erwang,Erh-wang,23.0167,120.2333,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,5744.4,,,2,Asia/Taipei,FALSE,1158602756
+Hucuo,Hucuo,Yung-hsing|Yung-hsing-li|Hu-ts’o,23.9452,120.4229,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,494.9,,,3,Asia/Taipei,FALSE,1158280969
+Zhangwutang,Zhangwutang,Jhangwutang|Chang-wu-t’ang,22.8872,120.5595,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,275.7,,,3,Asia/Taipei,FALSE,1158168850
+Bengshanxia,Bengshanxia,Bengshansia|P’eng-shan|Peng-shan-hsia,24.3842,120.8072,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,207.1,,,3,Asia/Taipei,FALSE,1158217402
+Bengshanxia,Bengshanxia,Peng-shan-chiu-she|Bengshansia|Peng-shan-hsia,24.5660,120.9563,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,37.5,,,4,Asia/Taipei,TRUE,1158528139
+Shanshang,Shanshang,Shan-shang,24.7166,120.9041,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,2092.3,,,2,Asia/Taipei,FALSE,1158725434
+Yanshuijie,Yanshuijie,Yanshueijie|Yen-shui-k’u|Yen-shui-chieh,23.6461,120.1547,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,193.1,,,4,Asia/Taipei,FALSE,1158534844
+Houzhuangzi,Houzhuangzi,Houjhuangzih|Hou-chuang-tzu,25.0023,121.1402,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,753.5,,,3,Asia/Taipei,FALSE,1158046260
+Shenwu,Shenwu,Shen-wu,24.9089,121.0178,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,1344.5,,,3,Asia/Taipei,FALSE,1158470716
+Lifen,Lifen,Shih-k’eng-li|Shih-kung-k’eng|T’ieh-fen|Shih-k’eng|Li-fen,23.3458,121.3447,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,110.3,,,4,Asia/Taipei,FALSE,1158857375
+Zhugeliao,Zhugeliao,Jhugeliao|Chu-ko|Chu-ko-liao,22.8958,120.4433,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,142.3,,,4,Asia/Taipei,FALSE,1158388563
+Butou,Butou,Pu-t’ou,23.2085,121.2907,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,42.5,,,4,Asia/Taipei,FALSE,1158006748
+Dingpou,Dingpou,Ting-p’ou|Ting-pu,24.7023,121.7455,Taiwan,TW,TWN,Yilan,Yilan,TW-ILA,county,,529.2,,,3,Asia/Taipei,FALSE,1158006324
+Shuisongloukeng,Shuisongloukeng,Shueisongloukeng|Shui-sung-ch’i-k’eng|Shui-sung-lou-k’eng,24.9331,121.7153,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,19.2,,,4,Asia/Taipei,FALSE,1158681315
+Shuidui,Shuidui,Shueiduei|Shui-tui,25.1137,121.3018,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,1401.7,,,3,Asia/Taipei,FALSE,1158968229
+Dingguogou,Dingguogou,Ting-kuo-kou,23.4306,120.3719,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,661.5,,,3,Asia/Taipei,FALSE,1158363139
+Shiya,Shiya,Shihya|Shih-ya,23.7809,120.8187,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,111.2,,,4,Asia/Taipei,FALSE,1158629908
+Donggeng,Donggeng,Ku-yüan|Ku-yüan-ts’un|Tung-keng,23.6383,120.5333,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,668.2,,,3,Asia/Taipei,FALSE,1158510940
+Meinong,Meinong,Mei-nung,22.8366,121.0929,Taiwan,TW,TWN,Taitung,Taitung,TW-TTT,county,,44.0,,,4,Asia/Taipei,FALSE,1158407655
+Gongcuo,Gongcuo,Kung-ts’o,24.0811,120.4992,Taiwan,TW,TWN,Changhua,Changhua,TW-CHA,county,,2525.0,,,2,Asia/Taipei,FALSE,1158557804
+Xiaodongshi,Xiaodongshi,Siaodongshih|Hsiao-tung-shih,24.5392,120.9312,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,37.5,,,4,Asia/Taipei,FALSE,1158387034
+Huanxing,Huanxing,Huansing|Huan-hsing,24.3275,121.2950,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,7.4,,,5,Asia/Taipei,FALSE,1158863886
+Dazhuang,Dazhuang,Dajhuang|Hsiao-kang-shan|Ta-chuang,22.8044,120.3192,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,2102.2,,,2,Asia/Taipei,FALSE,1158764643
+Dazhuang,Dazhuang,Dajhuang|Ta-chuang,22.6974,120.4409,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,836.1,,,3,Asia/Taipei,TRUE,1158645037
+Hutoushan,Hutoushan,Hu-t’ou-shan,25.1697,121.4564,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,2323.0,,,2,Asia/Taipei,FALSE,1158781966
+Zhongcheng,Zhongcheng,Jhongcheng|Chung-ch’eng,23.9507,120.9398,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,418.0,,,3,Asia/Taipei,FALSE,1158579955
+Zhongcheng,Zhongcheng,Jhongcheng|Chung-ch’eng,23.7987,120.9244,Taiwan,TW,TWN,Nantou,Nantou,TW-NAN,county,,111.2,,,4,Asia/Taipei,TRUE,1158578016
+Liuyikeng,Liuyikeng,Liu-k’eng|Liouyikeng|Liu-i-k’eng,25.1691,121.6753,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,259.4,,,3,Asia/Taipei,FALSE,1158796393
+Caijiata,Caijiata,Ts’ai-chia-t’a,22.2500,120.6833,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,7.7,,,5,Asia/Taipei,FALSE,1158885776
+Datiekeng,Datiekeng,Ta-t’ieh-k’eng,24.9630,121.5053,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,4979.8,,,2,Asia/Taipei,FALSE,1158649214
+Shuangwantan,Shuangwantan,Shuang-wan-t’an,23.5000,120.5000,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,178.3,,,4,Asia/Taipei,FALSE,1158366442
+Ankeng,Ankeng,An-k’eng,24.0382,120.7144,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,700.9,,,3,Asia/Taipei,FALSE,1158751291
+Wai’an,Wai'an,Wai-tung-kao-jui|Wai-an,22.8597,120.3911,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158929961
+Waluoshe,Waluoshe,Wa-lo|Wa-lo-she,24.6000,121.0333,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,58.6,,,4,Asia/Taipei,FALSE,1158816226
+Fanshuwo,Fanshuwo,Fan-shu-liao|Fan-shu-wo,24.9667,121.6333,Taiwan,TW,TWN,New Taipei,New Taipei,TW-NWT,special municipality,,847.9,,,3,Asia/Taipei,FALSE,1158073893
+Datan,Datan,Ta-t’an,23.6908,120.5278,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,1061.3,,,3,Asia/Taipei,FALSE,1158128562
+Hengshancun,Hengshancun,Heng-shan|Heng-shan-ts’un,24.2096,120.6295,Taiwan,TW,TWN,Taichung,Taichung,TW-TXG,special municipality,,3100.6,,,2,Asia/Taipei,FALSE,1158082717
+Sizuowei,Sizuowei,Sihzuowei|Ssu-tso-wei,24.8375,121.0961,Taiwan,TW,TWN,Hsinchu,Hsinchu,TW-HSQ,county,,629.1,,,3,Asia/Taipei,FALSE,1158077146
+Shanliao,Shanliao,Shan-liao,23.4773,120.1666,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,219.6,,,3,Asia/Taipei,FALSE,1158299619
+Jianfan,Jianfan,Chien-fen|Chien-fan,23.8342,121.3604,Taiwan,TW,TWN,Hualien,Hualien,TW-HUA,county,,6.4,,,5,Asia/Taipei,FALSE,1158624043
+Taihe,Taihe,Kuo-lu-t ’an|T’ai-ho,22.8858,120.5560,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,275.7,,,3,Asia/Taipei,FALSE,1158290446
+Benshanxia,Benshanxia,Benshansia|Pen-shan-hsia,24.5894,120.9535,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,42.1,,,4,Asia/Taipei,FALSE,1158722239
+Xinlun,Xinlun,Sinlun|Hsin-lun,23.6786,120.4332,Taiwan,TW,TWN,Yunlin,Yunlin,TW-YUN,county,,803.1,,,3,Asia/Taipei,FALSE,1158947506
+Daifeng,Daifeng,Daifong|Tai-feng,21.9997,120.8058,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,33.3,,,4,Asia/Taipei,FALSE,1158156576
+Hongchaikeng,Hongchaikeng,Hung-ch’ai|Hung-ch’ai-k’eng,21.9719,120.7167,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,180.8,,,4,Asia/Taipei,FALSE,1158583707
+Hutou Buluo,Hutou Buluo,Hu-t’ou-pu-lo,22.0661,120.7994,Taiwan,TW,TWN,Pingtung,Pingtung,TW-PIF,county,,29.0,,,4,Asia/Taipei,FALSE,1158537590
+Xiashan,Xiashan,Siashan|Hsia-shan,24.5513,120.9760,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,58.6,,,4,Asia/Taipei,FALSE,1158666344
+Jinzishan,Jinzishan,Jinzihshan|Chin-tzu-shan,23.5694,120.7233,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,139.4,,,4,Asia/Taipei,FALSE,1158108003
+Xizidi,Xizidi,Sizihdi|Ch’i-tzu-tu|Hsi-tzu-ti,22.8303,120.4094,Taiwan,TW,TWN,Kaohsiung,Kaohsiung,TW-KHH,special municipality,,61.9,,,4,Asia/Taipei,FALSE,1158027379
+Waishanjiao,Waishanjiao,Wai-shan-chiao,24.4169,120.6844,Taiwan,TW,TWN,Miaoli,Miaoli,TW-MIA,county,,609.3,,,3,Asia/Taipei,FALSE,1158696222
+Linfengying,Linfengying,Linfongying|Lin-feng-ying,23.2424,120.3196,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,288.5,,,3,Asia/Taipei,FALSE,1158744337
+Jingshuigang,Jingshuigang,Jingshueigang|Ching-shui-chiang|Ching-shui-ts’un|Ching-shui-kang,23.3469,120.2719,Taiwan,TW,TWN,Tainan,Tainan,TW-TNN,special municipality,,324.5,,,3,Asia/Taipei,FALSE,1158496179
+Dongkou,Dongkou,Tung-k’ou,24.8544,121.2976,Taiwan,TW,TWN,Taoyuan,Taoyuan,TW-TAO,special municipality,,1215.5,,,3,Asia/Taipei,FALSE,1158532481
+Fengliyuan,Fengliyuan,Fongliyuan|Feng-li-yüan,23.4578,120.5515,Taiwan,TW,TWN,Chiayi,Chiayi,TW-CYQ,county,,77.0,,,4,Asia/Taipei,FALSE,1158036623

@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Mogadishu,Mogadishu,Xamar|Hamar|Mogadisho|Mogadish|Magadiscio|Muqdishu|Muqdishow|Mogadiscio|Mogadiisho|Maqdishu|Muqdisho,2.0392,45.3419,Somalia,SO,SOM,Banaadir,Banaadir,SO-BN,region,primary,12796.5,2610483,2120000,1,Africa/Mogadishu,FALSE,1706893395
+Kismaayo,Kismaayo,Kismayo|Kisimayu|Chisimayu|Kismaanyo|Chisimaio|Kisimayo|Kismayu|Kismānyó,-0.3581,42.5453,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,admin,28.0,1458000,166667,1,Africa/Mogadishu,FALSE,1706091701
+Hargeysa,Hargeysa,Hargesa|Hargeisa,9.5631,44.0675,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,admin,61.8,1200000,1200000,1,Africa/Mogadishu,FALSE,1706832021
+Baidoa,Baidoa,Baidabo|Isha Baydhabo|Isha Baydabo|Iscia Baidoa|Baidabho|Isha Baydhaba|Baydhabo,3.1167,43.6500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,admin,35.5,1200000,1200000,1,Africa/Mogadishu,FALSE,1706563100
+Baardheere,Baardheere,Bardera|Bardira|Bārdēre,2.3333,42.2833,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,26.0,755500,755500,2,Africa/Mogadishu,FALSE,1706822684
+Gaalkacyo,Gaalkacyo,Galka‘yo’|Rocca Littorio|Gallacai|Galcaio,6.7697,47.4308,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,admin,13.3,745000,745000,2,Africa/Mogadishu,FALSE,1706067930
+Marka,Marka,Merca|Merka|Marca,1.7133,44.7656,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,admin,303.3,716361,230100,2,Africa/Mogadishu,FALSE,1706165964
+Boosaaso,Boosaaso,Bender Cassim|Bosasso|Bénder Qāsin|Bender Qaasin|Boosaso|Bandar Kassim|Bosaso,11.2886,49.1819,Somalia,SO,SOM,Bari,Bari,SO-BR,region,admin,30.4,700906,700906,2,Africa/Mogadishu,FALSE,1706054548
+Cadaado,Cadaado,Adado|Cadaadoo,6.1403,46.6256,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,510654,510654,2,Africa/Mogadishu,FALSE,1706406560
+Garoowe,Garoowe,Garowe|Magiamacarscio|Garoway|Garoe|Gherrowe|Gherròue|Geroweh,8.4000,48.4667,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,admin,9.8,485000,485000,2,Africa/Mogadishu,FALSE,1706512367
+Berbera,Berbera,Berberah|Berbere,10.4356,45.0164,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,478000,242344,2,Africa/Mogadishu,FALSE,1706893125
+Burco,Burco,Bur ‘ó|Burao,9.5279,45.5345,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,admin,27.4,425000,425000,2,Africa/Mogadishu,FALSE,1706322754
+Ceel Baraf,Ceel Baraf,,3.2073,45.7587,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,137.0,384630,384630,2,Africa/Mogadishu,FALSE,1706959191
+Qardho,Qardho,Gardo|Gardò|Garesa|Qardó|El Lagodei,9.5000,49.0833,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,365000,365000,2,Africa/Mogadishu,FALSE,1706405003
+Buurhakaba,Buurhakaba,Buur Hakkaba|Burhakaba|Bur Hacaba|Bur Acaba,2.7833,44.0833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,minor,10.5,360795,360795,2,Africa/Mogadishu,FALSE,1706176225
+Luuq,Luuq,Lugh Ganane|Lugh Ferrandi|Lugh|Lugh Ganana|Lughferandi,3.6981,42.5972,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,134000,134000,2,Africa/Mogadishu,FALSE,1706505283
+Jamaame,Jamaame,Giamana|Margherita|Giamane|Giamame|Giamama|Jamāme,0.0667,42.7500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,129149,129149,2,Africa/Mogadishu,FALSE,1706288768
+Jilib,Jilib,Jeelib|Gelib,0.4942,42.7744,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,125000,125000,2,Africa/Mogadishu,FALSE,1706018650
+Aw Dheegle,Aw Dheegle,Audegle,1.9667,44.8333,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,119000,119000,2,Africa/Mogadishu,FALSE,1706678463
+Bu’aale,Bu'aale,,1.0833,42.5833,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,admin,15.8,115000,115000,2,Africa/Mogadishu,FALSE,1706765820
+Jawhar,Jawhar,Joowhar|Johar|Villa Duca Abruzzi|Joher|Villaggio Duca degli Abruzzi|Villaggio Duca Abruzzi|Jōwhar|Giohar,2.7833,45.5000,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,admin,83.3,111308,111308,2,Africa/Mogadishu,FALSE,1706737655
+Afmadow,Afmadow,Afmadoow|Afmadu,0.5156,42.0733,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,90000,90000,3,Africa/Mogadishu,FALSE,1706654469
+Barwaaqo,Barwaaqo,,3.4833,42.1833,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,90000,90000,3,Africa/Mogadishu,FALSE,1706735840
+Caracase,Caracase,,3.7533,42.5442,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,89345,89345,3,Africa/Mogadishu,FALSE,1706846074
+Xuddur,Xuddur,Oddur|Húddur Hadama|Xuddur Hadama|Hudur|Xudur|Húddur Haddama,4.1200,43.8878,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,admin,25.8,85500,85500,2,Africa/Mogadishu,FALSE,1706568226
+Ufeyn,Ufeyn,,10.6500,49.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,13.0,82850,82850,3,Africa/Mogadishu,FALSE,1706398122
+Afgooye,Afgooye,Afgoi|Asgoi|Afgōye,2.1413,45.1169,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,minor,76.7,79400,79400,3,Africa/Mogadishu,FALSE,1706930457
+Wisil,Wisil,Balli Gubat,5.4333,48.1167,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,75000,75000,3,Africa/Mogadishu,FALSE,1706820984
+Badhan,Badhan,Baraan|Badan|Barran|Baran,10.7139,48.3347,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,10.2,70000,70000,3,Africa/Mogadishu,FALSE,1706819798
+Xarardheere,Xarardheere,Harardera|Harardére|Adim,4.6544,47.8575,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,19.4,65523,65523,3,Africa/Mogadishu,FALSE,1706020308
+Beledweyne,Beledweyne,Belet Wayne|Belet Weyne|Belet Uen|Belet Uen|Beledueyne|Belai-Wen|Bālad Weyn|Belet Wen|Beled Weyn,4.7358,45.2036,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,admin,16.9,62945,62945,2,Africa/Mogadishu,FALSE,1706018197
+Qoryooley,Qoryooley,Koriolay|Qoreyole|Coriolei|Coriole|Qoryolay,1.7833,44.5333,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,minor,60.4,62700,62700,3,Africa/Mogadishu,FALSE,1706713350
+Qoorlugud,Qoorlugud,Balleh Qorilugud,8.5500,46.2333,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,60195,60195,3,Africa/Mogadishu,FALSE,1706197639
+Buqda Caqable,Buqda Caqable,Buqde Caqable|Búqda ‘Aqáble|Buqda|Bugda Acable,4.0600,45.2575,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,60000,60000,3,Africa/Mogadishu,FALSE,1706953037
+Oodweyne,Oodweyne,Oodweeyne|Odweine|Odweina|Ōdwēyne,9.4000,45.0667,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,60000,60000,3,Africa/Mogadishu,FALSE,1706384679
+Bura,Bura,,3.1722,42.1411,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,57000,57000,3,Africa/Mogadishu,FALSE,1706744119
+Bilis Qooqaani,Bilis Qooqaani,Belesc Cogani|Beles Gugami|Beled-Sa Cacuni|Beles Gogani,0.2822,41.7144,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,55000,55000,3,Africa/Mogadishu,FALSE,1706381746
+Bacaadweyn,Bacaadweyn,Badwein|Baduen|Ba‘ādwēyn|Bacaadweeyn,7.1917,47.5258,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,53890,53890,3,Africa/Mogadishu,FALSE,1706478159
+Godinlabe,Godinlabe,Godinlave,5.8794,46.6308,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,50000,50000,3,Africa/Mogadishu,FALSE,1706143900
+Ceel Dheere,Ceel Dheere,El Dere|El Dhere,5.3683,46.1911,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,50000,50000,3,Africa/Mogadishu,FALSE,1706349687
+Busaar,Busaar,Bu Sar,2.6722,41.3225,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,3.5,45533,45533,3,Africa/Mogadishu,FALSE,1706248273
+Garbahaarrey,Garbahaarrey,Garba Harre|Garba Harey,3.3500,42.2667,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,admin,10.4,43000,43000,2,Africa/Mogadishu,FALSE,1706488487
+Baraawe,Baraawe,Brave|Barawe|Brava|Braawe,1.1133,44.0303,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,32800,32800,3,Africa/Mogadishu,FALSE,1706566007
+Uar Esgudud,Uar Esgudud,,1.2667,41.3833,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,30000,30000,3,Africa/Mogadishu,FALSE,1706563157
+Wanlaweyn,Wanlaweyn,Wangleweyn|Uanle Uen|Bahle Dogli|Wanla Uen|Wanle Weyne|Wanla Weyne,2.6167,44.9000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,26700,26700,3,Africa/Mogadishu,FALSE,1706708274
+Baxdo,Baxdo,Bahädó|Bahado|El Uen Bahado|El Uein Bahado,5.7889,47.2267,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,25000,25000,3,Africa/Mogadishu,FALSE,1706255273
+Eyl,Eyl,Eil|Eeyl|Ceel|Ayl,7.9667,49.8500,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.0,21700,21700,3,Africa/Mogadishu,FALSE,1706929381
+Dan Gorayo,Dan Gorayo,Dan Goreio|Dhan Gorajo,8.7278,49.3417,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,20331,20331,3,Africa/Mogadishu,FALSE,1706372631
+Diinsoor,Diinsoor,Dinsor|Dinsoor|Dhiinsoor,2.4106,42.9767,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,19600,19600,3,Africa/Mogadishu,FALSE,1706924480
+Qandala,Qandala,Kandala|Candala,11.4711,49.8739,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,19300,19300,3,Africa/Mogadishu,FALSE,1706605271
+Saylac,Saylac,Zeyla|Zeyla|Seelaac|Zeylac|Zeila|Zeila|Zayla|Zayla|Seylac|Séyla‘,11.3539,43.4731,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,6.6,18600,18600,3,Africa/Mogadishu,FALSE,1706903180
+Bandar Murcaayo,Bandar Murcaayo,Bender Meraio|Bender Merhagno|Murcanyo|Mur‘ányo,11.6833,50.4500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,16320,16320,3,Africa/Mogadishu,FALSE,1706146146
+Yufle,Yufle,Yufleh|Joofle|Jōflé,10.3758,47.1964,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,15000,15000,3,Africa/Mogadishu,FALSE,1706706214
+Bandarbeyla,Bandarbeyla,Bender Beyla|Bender Beila|Bénder Bäylá,9.4833,50.8167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,1.9,13753,13753,3,Africa/Mogadishu,FALSE,1706279652
+Xaafuun,Xaafuun,Hafun|Dante,10.4167,51.2667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,13200,13200,3,Africa/Mogadishu,FALSE,1706739156
+Buqkoosaar,Buqkoosaar,Búqda Kōsār|Bugda Cosar|Buqda Koosaar|Bukkosar,4.5108,44.8164,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,12000,12000,3,Africa/Mogadishu,FALSE,1706633414
+Jalalaqsi,Jalalaqsi,Gialalassi,3.4000,45.5833,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,11800,11800,3,Africa/Mogadishu,FALSE,1706085316
+Hobyo,Hobyo,Obbia|Hobyaa|Hobyā|Hobiya,5.3514,48.5256,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,minor,3.9,11800,11800,3,Africa/Mogadishu,FALSE,1706623995
+Cadale,Cadale,Ilala|Itala|Adale,2.7500,46.3167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,12.0,11600,11600,3,Africa/Mogadishu,FALSE,1706665542
+Buuhoodle,Buuhoodle,Wein|Búhodlé|Bohotleh Wein|Bohodle|Bokhotle Ueyn|Bohotle|Bohotleh|Bohodleh,8.2311,46.3267,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,6.2,11373,11373,3,Africa/Mogadishu,FALSE,1706850351
+Buraan,Buraan,Buran|Boran|Baran|Borrān|Borraan,10.2186,48.7686,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,10.2,10480,10480,3,Africa/Mogadishu,FALSE,1706631033
+Kiridh,Kiridh,Jirīd|Kirit|Jiriid|Kirrit,8.9803,46.1292,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,10345,10345,3,Africa/Mogadishu,FALSE,1706686835
+Gadoon,Gadoon,Godòn,5.6897,46.6847,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,10000,10000,4,Africa/Mogadishu,FALSE,1706085622
+Widhwidh,Widhwidh,Widwid|Widwidh|Wudwud|Wadwad,8.4544,46.7064,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,9874,9874,4,Africa/Mogadishu,FALSE,1706846618
+Ceelbuur,Ceelbuur,El Bur,4.6850,46.6175,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,9023,9023,3,Africa/Mogadishu,FALSE,1706202255
+Waajid,Waajid,Wājid|Uegit|Wadjid,3.8083,43.2475,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,8100,8100,4,Africa/Mogadishu,FALSE,1706343919
+Iskushuban,Iskushuban,Skushuban|Scusciuban,10.2833,50.2333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,7000,7000,4,Africa/Mogadishu,FALSE,1706856685
+Kob Dhexaad,Kob Dhexaad,Kod Dhexaad,10.6564,49.4986,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,6000,6000,3,Africa/Mogadishu,FALSE,1706882942
+Kalabaydh,Kalabaydh,Kalabeit,8.2432,47.2264,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,4100,4100,3,Africa/Mogadishu,FALSE,1706374475
+Xiis,Xiis,Heis|Hais,10.8964,46.9211,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,4000,4000,3,Africa/Mogadishu,FALSE,1706782068
+Xudun,Xudun,Xudin|Hudin|Huddun|Hudun|Xuddun,9.1125,47.4606,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,3.0,3258,3258,3,Africa/Mogadishu,FALSE,1706815441
+Jidali,Jidali,Jidcali|Jiidali,10.7008,47.6683,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,3000,3000,4,Africa/Mogadishu,FALSE,1706395383
+Xaaxi,Xaaxi,Xaax|Xaaxi-Qaloocat|Hahe|Hāhi|Xaax,9.3519,44.9642,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,7.7,2971,2971,4,Africa/Mogadishu,FALSE,1706987824
+Yube,Yube,Yubeh,10.7475,47.9192,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,2000,2000,4,Africa/Mogadishu,FALSE,1706109843
+Tayeeglow,Tayeeglow,Tayeegle|Tigieglo|Trijeglo|Trigieglo|Tiyeglow|Tigheglo|Tayēgle,4.0333,44.5167,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,2000,2000,4,Africa/Mogadishu,FALSE,1706788835
+Laasqoray,Laasqoray,Banden Laskhonai|Lās Qóray|Las Khonai|Las Goni|Las Khoreh,11.1833,48.2167,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,minor,10.2,2000,2000,3,Africa/Mogadishu,FALSE,1706785954
+Fiqi Fuliye,Fiqi Fuliye,,10.0264,47.7811,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,1800,1800,3,Africa/Mogadishu,FALSE,1706005742
+Hadaaftimo,Hadaaftimo,Hadaftimo,10.7667,48.1000,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,1320,1320,3,Africa/Mogadishu,FALSE,1706162585
+Karingorfood,Karingorfood,,8.1193,47.7567,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,1200,1200,4,Africa/Mogadishu,FALSE,1706941287
+Carmaale,Carmaale,,10.4800,47.9597,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,1000,1000,4,Africa/Mogadishu,FALSE,1706580583
+Dhummay,Dhummay,,8.3315,47.0635,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,8.8,960,960,3,Africa/Mogadishu,FALSE,1706597299
+Daba Qabad,Daba Qabad,,8.6833,45.8167,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,650,650,4,Africa/Mogadishu,FALSE,1706890046
+Jaamac Liibaan,Jaamac Liibaan,,8.9639,45.7214,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,615,615,4,Africa/Mogadishu,FALSE,1706154006
+Abdul Chadar,Abdul Chadar,,10.5508,42.8633,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,6.6,567,567,3,Africa/Mogadishu,FALSE,1706818792
+Mereeg,Mereeg,Märēg|Mareeg|Meregh,3.7667,47.3000,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,548,548,4,Africa/Mogadishu,FALSE,1706308443
+Caluula,Caluula,Alula|Calula|Bandar Alula|Aeula,11.9667,50.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,513,513,4,Africa/Mogadishu,FALSE,1706796061
+Dhuusamarreeb,Dhuusamarreeb,Dusa Marreb|Dhuusa Mareeb|Dusa Mareb,5.5350,46.3861,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,admin,10.5,447,447,2,Africa/Mogadishu,FALSE,1706027824
+Buur Gaabo,Buur Gaabo,Port Durnford|Bur Gavo|Bircao|Port Dunford|Būr Gābo|Bur Gap|Burgao,-1.2175,41.8378,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,300,300,3,Africa/Mogadishu,FALSE,1706122850
+Hurdiyo,Hurdiyo,Hordio|Hordiva,10.5667,51.1333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,176,176,4,Africa/Mogadishu,FALSE,1706025904
+Rebay,Rebay,Revai,3.1607,43.5829,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706649610
+Naweytu,Naweytu,,1.7641,42.3857,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706866884
+Ghel Medoi,Ghel Medoi,,4.9500,45.4833,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706348204
+Buusleey,Buusleey,,2.4953,44.8357,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706181811
+Buuryaqab,Buuryaqab,,7.3458,47.6181,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706388428
+Buulo Cigalle,Buulo Cigalle,Bulo Er Ueber|Bullo Wabar,3.3564,45.5538,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706434500
+Danis Sipi,Danis Sipi,,0.1500,41.4167,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706843962
+Salam Maroodi,Salam Maroodi,,2.9346,43.9691,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706738140
+Golweyn,Golweyn,Goluin|Goluein,1.6584,44.5800,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706055537
+Aw Daarow,Aw Daarow,,2.8807,44.2042,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706854912
+Rassini,Rassini,,-0.9667,42.0167,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706961559
+Godobay,Godobay,Godovei,2.8634,44.0687,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706173154
+Ximan,Ximan,,9.7917,45.4617,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706345451
+Malakaroor,Malakaroor,,2.6621,45.3090,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706286765
+Macalim Iman,Macalim Iman,,0.7676,42.6531,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706886000
+Afhuug,Afhuug,,3.1489,43.6216,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706890127
+Yaag Jile,Yaag Jile,,1.1370,43.9377,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706129325
+Garacad,Garacad,Garda|Garad|Gara‘ád,6.9428,49.3250,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,5.1,,,4,Africa/Mogadishu,FALSE,1706353925
+Xarerte,Xarerte,,4.0235,44.4328,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706032833
+Heer Caliyow Mamow,Heer Caliyow Mamow,,2.9364,44.1783,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706403781
+Laanle,Laanle,Lanlex|Lanleh|Lanle,8.8333,48.1500,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,4.2,,,4,Africa/Mogadishu,FALSE,1706355596
+Cigala Hooleey,Cigala Hooleey,,2.6607,44.5257,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706872042
+Buscbusc,Buscbusc,,-1.2167,41.7000,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706305459
+Mitaaniya,Mitaaniya,,2.1292,42.2505,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706765099
+Muddule,Muddule,,2.9147,43.3958,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706808637
+Aroos Ibir,Aroos Ibir,,3.0872,43.5534,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706907781
+Jilyaale,Jilyaale,,2.8484,45.1376,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706588019
+Dhuumow,Dhuumow,Dûmo|Duumo,3.9210,42.2613,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,21.6,,,4,Africa/Mogadishu,FALSE,1706840963
+Aborey,Aborey,,4.0103,45.6813,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706463857
+Mursal,Mursal,,3.3852,43.1962,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706922201
+Bulo Uaiama,Bulo Uaiama,Uaiama,1.5000,43.9833,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706248047
+Kulaas,Kulaas,,1.8053,44.6690,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706316041
+Af Barwaaqo,Af Barwaaqo,,6.4958,48.7831,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706005696
+Bulo Balamal,Bulo Balamal,,3.5333,43.7500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706221736
+Daryaleh,Daryaleh,,8.4167,45.7667,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706168422
+Far Ftma,Far Ftma,,4.5000,43.4833,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,5.5,,,5,Africa/Mogadishu,FALSE,1706415486
+Weriri,Weriri,,2.9811,43.3745,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706800928
+El Gharum,El Gharum,,3.2000,46.5833,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,12.0,,,4,Africa/Mogadishu,FALSE,1706686142
+Buulohilowle,Buulohilowle,,3.2525,43.5816,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706525595
+Bari,Bari,,8.0356,47.0389,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706172306
+Beled Muddey,Beled Muddey,Belgmudi,1.1968,44.0204,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706551266
+Wadamago,Wadamago,,8.9248,46.2668,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706833897
+Damo,Damo,Daamo,11.8348,51.2368,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706235581
+Qundalle,Qundalle,Qundullè,9.0833,45.5833,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706517233
+Towfiiq,Towfiiq,,-0.0438,42.5840,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706468031
+Degmuduush,Degmuduush,,2.2241,44.8250,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706204594
+Buulo Dooday,Buulo Dooday,Bulo Dodai,2.8362,43.0043,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706340109
+El Cabog,El Cabog,,4.6833,43.5167,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,5.5,,,5,Africa/Mogadishu,FALSE,1706721895
+Kurar,Kurar,,3.5989,43.8599,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706879092
+Bargaan,Bargaan,,4.3654,47.0466,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706649249
+Dumaaye,Dumaaye,,3.5532,46.8895,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,22.7,,,4,Africa/Mogadishu,FALSE,1706111974
+Buslei,Buslei,,2.2833,45.2333,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706223306
+Makaay Edde,Makaay Edde,Macai Eddi,2.8357,44.1915,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706498821
+Hoja Wajeer,Hoja Wajeer,Wayore|Ola Uager|Khola Uadzher|Uaiore,-1.2426,41.5382,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,4,Africa/Mogadishu,FALSE,1706117720
+Erbare,Erbare,,2.3667,42.9667,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706910517
+Banaadir,Banaadir,,2.2425,44.7038,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,68.8,,,4,Africa/Mogadishu,FALSE,1706237343
+Ifante,Ifante,,3.1823,43.4688,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706685762
+Bulo Muniassa,Bulo Muniassa,,0.4667,42.7167,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706194969
+Dandan,Dandan,,8.7596,45.9298,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706837275
+Majiir,Majiir,,-0.0044,42.5360,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706565250
+Bulo Biliscai,Bulo Biliscai,Biliscai,2.9000,43.2667,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706007560
+Garas Buulle,Garas Buulle,,2.3465,44.9037,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706270355
+Meeyd,Meeyd,,2.1394,44.5568,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706392600
+Garan Koof,Garan Koof,,10.1667,50.9000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706312004
+Lac Bissiglei,Lac Bissiglei,,4.3833,43.5333,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706658510
+Gariiley,Gariiley,,1.8090,44.6786,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706414619
+Jawhar,Jawhar,Jowhar|Giohar|Duca degli Abruzzi,1.9346,44.8312,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706993133
+Tagaal,Tagaal,Dagàl,3.5322,43.8800,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706755915
+Qarankaa,Qarankaa,Carrancà|Garrancà,2.8969,44.2870,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706257091
+Buur Fuule,Buur Fuule,,1.7773,44.7067,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706356320
+El Harre,El Harre,,9.6167,49.0833,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706795412
+Daarimo,Daarimo,,9.9027,43.5009,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706728681
+Mareer-Gur,Mareer-Gur,Merergur|Marergur,5.7500,46.5167,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706678365
+Gal Adole,Gal Adole,,4.8333,46.8000,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706411166
+Garas Shaare,Garas Shaare,,2.2502,44.7973,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706303659
+Garas Shaare,Garas Shaare,,2.6172,45.1431,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,TRUE,1706152739
+War Calanle,War Calanle,,3.2251,43.5710,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706371668
+Misra,Misra,,0.5021,42.7588,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706962132
+Dhur Cilaan,Dhur Cilaan,El Dur Elan|‘Éldūr ‘Alan|Ceelduur Calan,10.1262,46.3512,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.3,,,4,Africa/Mogadishu,FALSE,1706887039
+Haro-Lugoole,Haro-Lugoole,Arar Lugole,3.2667,45.4667,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706281082
+Jofay,Jofay,,-0.8724,42.1555,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706615899
+Iidow Liibaan,Iidow Liibaan,,2.2507,45.0589,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706061065
+Darinne,Darinne,,10.2833,50.3500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706102231
+Danbar,Danbar,,3.2301,43.6085,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706586681
+Mashruuca Dibira Weyn,Mashruuca Dibira Weyn,,10.4378,42.8280,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,6.6,,,5,Africa/Mogadishu,FALSE,1706727549
+Axmed Gaas,Axmed Gaas,,1.7377,44.4870,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706137374
+Madige Madishe,Madige Madishe,,2.6356,44.0604,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706981792
+Ismaaciil,Ismaaciil,,2.8926,43.0403,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706466123
+Shiikh,Shiikh,,1.7503,44.5604,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706070606
+Basra,Basra,,1.6876,42.3413,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706756602
+Celaya,Celaya,,10.7605,47.3037,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706283206
+Dooday,Dooday,,3.2125,42.9367,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706536021
+Horgooy,Horgooy,,2.6984,44.9688,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706612766
+Balliabees,Balliabees,,7.4922,47.8325,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706200137
+Dalbiyaango,Dalbiyaango,,1.7425,44.6184,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,109.4,,,4,Africa/Mogadishu,FALSE,1706690072
+Shiikh,Shiikh,,2.4707,45.4661,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706285688
+Baqdaad,Baqdaad,,-0.0414,42.6537,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706703921
+Xagai,Xagai,,3.2578,43.2937,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706077463
+Reehalas,Reehalas,,9.6927,43.6591,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706219942
+War Weytan,War Weytan,Uar Ueiten|Uar Ueiten,8.2667,48.5667,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706066758
+Shakab,Shakab,,10.0403,43.3507,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706188944
+Aw Aadan Fayi,Aw Aadan Fayi,,3.5996,43.7946,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706747809
+Mirimiri,Mirimiri,,1.7144,44.6547,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706788657
+Gurinlow,Gurinlow,Gulunlo,3.2892,43.5165,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706675922
+Qoori,Qoori,Qoort|Bender Gedid,11.5011,49.9203,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706466735
+Gugux,Gugux,Guguh,9.9659,45.4045,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706798810
+Gaider Ai Boran,Gaider Ai Boran,Gaider Ai Borau,3.6000,43.0833,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706922053
+Kalbarre,Kalbarre,Kalbari,9.9054,45.5712,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706759116
+Garaska Shabada,Garaska Shabada,,2.3364,42.5658,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706050831
+Oraxley,Oraxley,,0.0558,42.8666,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706794719
+Buulo Shiikh,Buulo Shiikh,,2.7949,45.5505,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706298405
+Gordan,Gordan,,3.1649,43.8305,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706127426
+Hem Auare,Hem Auare,,5.5333,47.9333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706887114
+Naanini,Naanini,,1.6656,44.5702,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706697186
+Bayaxaaw,Bayaxaaw,,2.7392,45.5012,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706386381
+Janiino,Janiino,,2.4014,44.8124,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706553703
+Xonqorre,Xonqorre,,0.0127,42.7996,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706986915
+Xiinweyni,Xiinweyni,,9.9575,44.8894,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706746332
+Hawa Oonlow,Hawa Oonlow,Avai Onole,0.9286,43.2929,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706568717
+Fakiya,Fakiya,,0.7356,42.6514,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706041355
+Gorayaood,Gorayaood,,9.0346,45.2881,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706845457
+Ceel Wareegow,Ceel Wareegow,,1.8081,44.7856,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706428954
+Ceel Wareegow,Ceel Wareegow,,1.7720,44.4540,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,TRUE,1706050218
+Qaradhi,Qaradhi,Kar Addei|Har Addei,6.0090,46.6148,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.2,,,4,Africa/Mogadishu,FALSE,1706400400
+Bacaw,Bacaw,,2.0682,44.9133,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706543690
+El Dontole,El Dontole,,3.8333,43.5333,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706115005
+Maguurto,Maguurto,,2.2227,45.1254,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706948712
+Xinka Oommane,Xinka Oommane,,1.8642,44.9387,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706914954
+Godgal,Godgal,,9.6145,44.0171,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706328024
+Samaysa Dheer,Samaysa Dheer,,9.8631,49.0904,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706383307
+Mahaddayweyne,Mahaddayweyne,,2.9726,45.5347,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706000932
+Urufle,Urufle,,0.8535,42.5961,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706466650
+Suruqle,Suruqle,,2.9588,44.1090,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706212587
+War Idaad,War Idaad,Wandad|Waridud|Waridad,9.2839,46.2527,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,4,Africa/Mogadishu,FALSE,1706726681
+Reydabale,Reydabale,,3.2993,43.6230,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706167435
+Abliko,Abliko,,1.8795,44.7348,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706407158
+Ankele,Ankele,Aughèle,0.4145,42.7260,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706967968
+Kalawle,Kalawle,,10.5515,43.8518,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,15.5,,,4,Africa/Mogadishu,FALSE,1706287801
+Moccoscidedei,Moccoscidedei,,0.9167,43.2833,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706605409
+Gomeeni,Gomeeni,,0.3052,42.7575,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706773510
+Dacarbudhug,Dacarbudhug,Daarbuduq,9.8567,44.5272,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,3,Africa/Mogadishu,FALSE,1706393424
+Ibdow,Ibdow,,3.5526,43.7805,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706914598
+Ruqruqa,Ruqruqa,,0.0254,42.4558,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706208122
+Eddi Gellei,Eddi Gellei,Eddighelei,9.7667,50.8000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,1.9,,,5,Africa/Mogadishu,FALSE,1706314379
+Beled Amin,Beled Amin,,2.8285,43.0541,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706754394
+Derri,Derri,Dirri,4.3257,46.6127,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706197525
+Jadan,Jadan,Iadan,11.2333,50.8667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706296280
+Iach Ari,Iach Ari,,-1.1667,41.3667,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706471285
+Aw Kuulamuudey,Aw Kuulamuudey,,2.4353,44.8221,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706170016
+Hara Buti,Hara Buti,,3.2833,41.4500,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,20.0,,,4,Africa/Mogadishu,FALSE,1706494652
+Aw Shini,Aw Shini,,3.2191,43.3923,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706545826
+Gubei,Gubei,,3.2000,41.5333,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,20.0,,,4,Africa/Mogadishu,FALSE,1706083694
+Bur Ali Fachei,Bur Ali Fachei,,3.8000,45.5833,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706664139
+Geed Ful,Geed Ful,,0.8064,42.6186,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706522752
+Hareeri,Hareeri,,1.9636,42.3547,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706473854
+Don Merer,Don Merer,,2.8833,45.2000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706256129
+Cusman Jeelle,Cusman Jeelle,,1.1021,43.6810,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706976189
+Baarta Faanye,Baarta Faanye,,2.1082,42.2608,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706360215
+El Uneut,El Uneut,El Uncut,10.3333,50.5000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706165758
+Kuunyo,Kuunyo,,2.9370,44.2241,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706859872
+Bercadle,Bercadle,,3.0333,44.1333,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706284971
+Adale Afweyno,Adale Afweyno,Adale Afweyna|Adale Afuen,3.2206,45.4244,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706690152
+Daharro,Daharro,,3.8833,45.5500,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706321522
+Digbiti,Digbiti,,2.3312,44.8767,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706621148
+Gosol,Gosol,,9.3364,45.0193,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706784244
+Hebateh,Hebateh,Hehabteh|Hedable,9.1333,44.7500,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706428706
+Qardhaalo,Qardhaalo,,2.8070,44.0941,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706294430
+Baasl,Baasl,,1.7642,44.6706,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706490480
+Uiliiqata,Uiliiqata,,3.3853,45.5965,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706685240
+Ibrahim Cali Meyrre,Ibrahim Cali Meyrre,,2.1001,44.7072,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706158141
+Tacfile,Tacfile,,3.2167,42.6333,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706163931
+Waambato,Waambato,,1.8911,43.0251,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706663930
+Daba,Daba,,3.0167,41.2000,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,3.5,,,5,Africa/Mogadishu,FALSE,1706498783
+Kuudud,Kuudud,,-0.0123,42.5440,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706824725
+Hamas,Hamas,,10.7833,47.5167,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706052271
+Camor Gila,Camor Gila,,-0.2167,41.1833,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706541698
+Cormale,Cormale,,-0.3000,41.0833,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706882422
+Shiikh Maldha,Shiikh Maldha,Shikh-Mal’da,9.4344,43.8874,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706655979
+Dhex-Yaal,Dhex-Yaal,,3.2881,43.4025,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706680309
+Daafet,Daafet,Dafet|Dāfēd|Daafeed,4.6135,46.7812,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,4,Africa/Mogadishu,FALSE,1706039364
+Baarey,Baarey,,4.5491,45.2804,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706729586
+Heydabta,Heydabta,,2.7501,43.8062,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706175130
+Lafaale,Lafaale,,4.0364,43.8742,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706002824
+Benbesle,Benbesle,,2.6624,44.1578,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706558077
+Guunyo Rooble,Guunyo Rooble,,2.6727,44.1453,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706771204
+Aw Mayow,Aw Mayow,,2.7137,44.9365,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706975631
+Jimcada Dheen,Jimcada Dheen,,2.7594,44.2406,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706134456
+Juurile,Juurile,,10.3892,49.0740,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,24.8,,,4,Africa/Mogadishu,FALSE,1706130343
+Banaanag,Banaanag,,2.6650,45.0226,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706555553
+Ou Jesow,Ou Jesow,,2.5555,44.1126,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706253004
+Farta,Farta,,2.8953,44.0612,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706579729
+Heer Faqi,Heer Faqi,,2.9265,44.2014,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706420004
+Berdile,Berdile,,4.6833,45.2167,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706950844
+Gaashaanle,Gaashaanle,Gascianlo,2.6746,45.5091,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706129909
+Ceeldheer,Ceeldheer,El Dere|Ceeldheere,3.8488,47.1806,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706768787
+Balli Damer,Balli Damer,,4.8980,44.0209,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,5.5,,,5,Africa/Mogadishu,FALSE,1706758270
+Ceel Dheem,Ceel Dheem,,3.4951,45.4825,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706014759
+Dumodleh,Dumodleh,Dumodle,9.4167,47.1000,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,3.0,,,5,Africa/Mogadishu,FALSE,1706733822
+Durdur Melo,Durdur Melo,,10.9833,48.7333,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,10.2,,,4,Africa/Mogadishu,FALSE,1706357855
+Malayle,Malayle,Malallaile,-0.0016,42.6609,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706687647
+Fuud Saqaar,Fuud Saqaar,,2.8431,44.1517,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706473681
+Xagarka,Xagarka,Xaqarka,2.9048,43.3133,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706144113
+Kuraaw,Kuraaw,Curucau|Curueau,1.4845,42.4522,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,13.5,,,4,Africa/Mogadishu,FALSE,1706315741
+Baas Ma Leh,Baas Ma Leh,,2.7310,43.6316,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706198135
+Daloolyo,Daloolyo,,1.8241,44.7180,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,109.3,,,4,Africa/Mogadishu,FALSE,1706647404
+Scima,Scima,,2.9833,44.0500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706459650
+Laz Aer,Laz Aer,,5.7833,48.2333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706646031
+Xidhinta,Xidhinta,Herinta,9.5498,43.7400,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706238879
+Hufay,Hufay,,3.2155,42.5096,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706347554
+Malayleey,Malayleey,Malalaile,1.1631,43.9682,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706564874
+Abaayow,Abaayow,,2.6747,45.0852,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706195425
+Gal Gal Onlay,Gal Gal Onlay,,1.9894,42.5791,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706493435
+Ceerigaabo,Ceerigaabo,Erigavo|Erigabo|Erigabo|Cerigaabo,10.6162,47.3679,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,admin,6.5,,,2,Africa/Mogadishu,FALSE,1706173875
+Gammedin,Gammedin,,11.2833,50.0167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706461650
+Garangarow,Garangarow,,2.6413,44.1075,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706866156
+Kaysannay,Kaysannay,,2.7564,43.8598,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706178976
+Waama,Waama,,2.9946,44.0602,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706646771
+Jallam,Jallam,,7.8707,48.0416,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.4,,,5,Africa/Mogadishu,FALSE,1706452142
+Dubar,Dubar,,10.3426,45.0528,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706239593
+Quuley,Quuley,,-0.0134,42.7939,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706539921
+Scidle,Scidle,,2.1500,45.4667,Somalia,SO,SOM,Banaadir,Banaadir,SO-BN,region,,6257.6,,,2,Africa/Mogadishu,FALSE,1706820875
+Karrow,Karrow,,2.8421,43.9930,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706380856
+Shabeelley,Shabeelley,,9.6156,43.6058,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706064216
+Qaboobe,Qaboobe,El Cabobe,4.2424,47.7367,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706586280
+Guronlow Haarbargalad,Guronlow Haarbargalad,,3.2013,43.5282,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706752547
+Bud Bud,Bud Bud,,4.1931,46.4729,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706436487
+Dambarre,Dambarre,,10.9667,49.1000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706408705
+Dadar,Dadar,,11.1240,49.8700,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706305322
+Ato,Ato,,4.6167,43.3500,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,5.5,,,5,Africa/Mogadishu,FALSE,1706413632
+Biliq Diinle,Biliq Diinle,,0.5694,42.9789,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706552374
+Oohaale,Oohaale,Ōhālé|Chale,5.2000,45.2000,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,14.7,,,4,Africa/Mogadishu,FALSE,1706874040
+Gobley,Gobley,,3.2333,43.4167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706968255
+Gobley,Gobley,,3.2381,43.5845,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,TRUE,1706533446
+Dhamas,Dhamas,Damassa|Dhamaso,3.1530,41.3356,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,20.0,,,4,Africa/Mogadishu,FALSE,1706332035
+Mataanyaha,Mataanyaha,,2.7163,43.8757,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706815802
+Diblaay,Diblaay,Doblai,1.5214,44.4613,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706799286
+Uar Bunle,Uar Bunle,,2.9167,45.1500,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706581944
+Balli Calanle,Balli Calanle,Balli-Alanle,8.5514,45.9765,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706214270
+Korji,Korji,,9.6206,43.6801,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706547239
+Bakdaad,Bakdaad,Sakdaad,3.4051,43.1940,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706116502
+Qaydarrey,Qaydarrey,Qaydaró|Caiderò,5.7885,47.4883,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706587362
+Casirmaal,Casirmaal,,2.6930,45.3375,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,69.9,,,4,Africa/Mogadishu,FALSE,1706406952
+Buur Baan,Buur Baan,Bulo Raina|Bulo Baina,2.9744,43.3898,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706111880
+Gal Madowle,Gal Madowle,,2.9687,43.7708,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706133205
+Manaas,Manaas,Manas,2.8935,43.4659,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706586562
+Gamarey,Gamarey,,3.0924,43.5444,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706487039
+Blowka,Blowka,,3.0534,43.4429,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706526358
+Har,Har,,9.5572,43.7450,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706190873
+Dumaaye,Dumaaye,,4.8776,47.6162,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,19.4,,,4,Africa/Mogadishu,FALSE,1706141643
+Xerada Dhalinta Kacaanka,Xerada Dhalinta Kacaanka,,-0.2243,42.5920,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706871885
+Buur Caddey,Buur Caddey,,4.0658,43.3452,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,16.6,,,4,Africa/Mogadishu,FALSE,1706943090
+Fiinka,Fiinka,,3.5927,43.8068,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706431995
+Fiinka,Fiinka,,2.7103,44.1061,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,TRUE,1706193761
+Bashiir,Bashiir,,1.8848,44.6900,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706254327
+Abdurug,Abdurug,,3.0200,43.4882,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706028771
+Malable,Malable,Mallable,1.9842,44.8335,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706300241
+Malable,Malable,,1.8405,44.7054,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,TRUE,1706959748
+Bulo Nefle,Bulo Nefle,,2.4833,44.8500,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706075876
+Wagadoy,Wagadoy,,2.9190,43.9820,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706580053
+Rubei,Rubei,,3.0333,43.4667,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706146347
+Madow,Madow,,1.7435,44.5649,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706487119
+Fuur,Fuur,,2.3189,42.2036,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706463083
+Buulo Macallim,Buulo Macallim,,2.7981,45.6767,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706280260
+Saamooley,Saamooley,,3.7681,43.0504,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706164397
+Cabdiyow Geedow,Cabdiyow Geedow,,2.8637,44.2464,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706801408
+Dalaroobare,Dalaroobare,,1.7348,44.6060,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.8,,,4,Africa/Mogadishu,FALSE,1706479837
+Kulaameny,Kulaameny,,2.2199,45.4916,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706482466
+Farbiito,Farbiito,Ferlito,0.8771,42.6238,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706919878
+Raydabow,Raydabow,Reidabò,2.8781,43.9011,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706826091
+Buur Koy,Buur Koy,,-0.0295,42.5985,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706472523
+Tog Wajaale,Tog Wajaale,Tug Wajale|Toog Wajaale|Tug Wajale Post|Togochale,9.5997,43.3350,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,136.8,,,4,Africa/Mogadishu,FALSE,1706493635
+Cismaan Yarow,Cismaan Yarow,,1.2195,42.5534,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706887107
+Rama,Rama,,3.2614,44.0284,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706106191
+Fagay,Fagay,,-0.1833,42.7167,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,32.4,,,4,Africa/Mogadishu,FALSE,1706334576
+Mabaarag,Mabaarag,,0.8328,42.6050,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706280911
+Quracley,Quracley,,3.2546,45.4956,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706370940
+Quracley,Quracley,,3.7376,45.5732,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,TRUE,1706829745
+Alundi,Alundi,,1.8304,44.7058,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706912081
+Warqaday,Warqaday,,3.0852,43.8954,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706940848
+Bulo Gian,Bulo Gian,Bula Gian,1.7667,44.8000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706892783
+Dariigada Aw Shiikh Maxamed Rooble,Dariigada Aw Shiikh Maxamed Rooble,Darligada Aw Shiikh Maxamed Rooble,3.2009,43.1622,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706815763
+Cadduudo,Cadduudo,‘Addūdo|Adudo,1.1667,43.1333,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706172823
+Buulo Obliko,Buulo Obliko,Bulo Obliko,4.8083,45.1769,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706679577
+Sanlaawaha,Sanlaawaha,,9.6752,43.5227,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706887713
+Dohodi Sen,Dohodi Sen,Dokhodi Sen,7.6456,47.8311,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.4,,,5,Africa/Mogadishu,FALSE,1706816719
+Faarax Gololey,Faarax Gololey,Geedcashir,2.4073,45.3663,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706508510
+Qalaangalley,Qalaangalley,Calangalle,-0.4500,42.1000,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706875927
+Warabood,Warabood,Warabod,11.2333,43.4333,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,6.6,,,5,Africa/Mogadishu,FALSE,1706482040
+Keeroy,Keeroy,,1.5621,44.0686,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,31.7,,,4,Africa/Mogadishu,FALSE,1706199920
+Buulo Dhaaya,Buulo Dhaaya,,3.0824,43.1194,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706064269
+Maama Sundha,Maama Sundha,Mamasundo,0.1022,42.7007,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706666987
+Xawaal Shaawacle,Xawaal Shaawacle,Xawaal Shawacle,11.0079,48.3218,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,10.2,,,4,Africa/Mogadishu,FALSE,1706318642
+Heno,Heno,,0.4667,42.7000,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706404953
+Bur Meirale,Bur Meirale,,10.5333,49.5167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706231162
+Qaidarre,Qaidarre,Gaiderò,6.7500,48.3167,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706499323
+Damalle,Damalle,,3.4210,45.6069,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706356667
+Buulo Risqi,Buulo Risqi,,2.1481,45.1838,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706927810
+Nunei,Nunei,,3.0333,43.8000,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706649520
+Malaayka,Malaayka,,2.9390,44.1432,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706307270
+Xabaal Suran,Xabaal Suran,,2.4112,42.2585,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706985822
+Silaata,Silaata,,2.9286,44.0109,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706566214
+Sinujiif,Sinujiif,Sinugif|Sinujif,8.5361,48.9869,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706857173
+Tiiroow,Tiiroow,,1.2030,43.9878,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706001412
+Laas Buureed,Laas Buureed,Laas Burre|Las Bure|Las Bured,8.1833,49.4333,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.0,,,4,Africa/Mogadishu,FALSE,1706799750
+Meida,Meida,,-0.6000,41.0333,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706360324
+Lo Gaduud,Lo Gaduud,,2.9489,43.6919,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706385183
+Ambalio,Ambalio,,5.1000,47.8833,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,19.4,,,4,Africa/Mogadishu,FALSE,1706712212
+Kuniyo Warabe,Kuniyo Warabe,,3.0151,43.7862,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706673068
+Lugabaro,Lugabaro,,2.9182,43.9311,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706247123
+Qurdhuuba,Qurdhuuba,,1.7913,42.5933,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706076141
+Daraweyne,Daraweyne,,9.7361,44.2386,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706257646
+Ceel Shaama,Ceel Shaama,El Sciama|‘Ēl Shāma,2.7833,41.0000,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,3.5,,,5,Africa/Mogadishu,FALSE,1706866869
+Ciddei Jebis,Ciddei Jebis,Ideigebis|‘Iddei Jebis,9.8000,50.0667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706220762
+Buq,Buq,Bokh|Bukh|Bukh|Bugh,10.6227,47.1780,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,4,Africa/Mogadishu,FALSE,1706765849
+Ilka Weyne,Ilka Weyne,Il’ka-Ueyne,9.6902,43.4121,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706750326
+Fadhixum,Fadhixum,Fadikhun,9.4152,43.7664,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706728553
+Buq,Buq,El Buch|El Bug,1.4804,44.4409,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,100.5,,,4,Africa/Mogadishu,FALSE,1706284477
+Dhaayow,Dhaayow,Daio,2.6955,44.1791,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706129792
+Allanga Gurrow,Allanga Gurrow,Allango Gurru,-0.3167,41.0500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706664164
+Gaaloolow,Gaaloolow,,3.3023,43.5539,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706352191
+Geedgoy,Geedgoy,Ghedgoi,0.5044,42.7357,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706798047
+Darin Tog,Darin Tog,,8.2333,48.2667,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706896412
+Bilhelli,Bilhelli,,5.5333,47.7000,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706181437
+Gubane,Gubane,,3.0633,45.7167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706686219
+El Dur,El Dur,,3.7500,43.0833,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706694373
+Mudul,Mudul,,2.8395,45.2442,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706904025
+Mudul,Mudul,,1.0833,44.0000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,TRUE,1706703453
+Gallow,Gallow,,2.9467,43.7635,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706818193
+Lava Rugodle,Lava Rugodle,Bulo,10.6167,50.8333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706835510
+Garas-ca Damo,Garas-ca Damo,,3.7833,44.6833,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706999231
+Qallad,Qallad,Culli|Gulle,5.9667,48.9333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706676614
+Hargo,Hargo,,9.4918,46.4982,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706322482
+Geed Diqsi,Geed Diqsi,Ged-Diksi,9.8292,43.4193,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706529698
+Tisinaar,Tisinaar,,1.7389,44.6731,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706760199
+Dharkeymo,Dharkeymo,Darcheimo,4.3000,46.3333,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706093389
+Deega,Deega,,2.9474,44.1033,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706462059
+Bakaar Yar,Bakaar Yar,,3.6099,43.4634,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706031310
+El Fira,El Fira,,10.6000,50.5333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706087665
+Ararchi Eggi,Ararchi Eggi,,3.1833,45.5667,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706110042
+Waranle,Waranle,,3.1926,43.6248,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706358528
+Buur Dhijis,Buur Dhijis,,3.0008,44.1620,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706645845
+Skowrae,Skowrae,,6.3910,47.0486,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,,,5,Africa/Mogadishu,FALSE,1706009912
+Eeygadhalay,Eeygadhalay,Ēygadálay|Egà Dalè,4.1833,42.4667,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706030795
+Duhurboode,Duhurboode,,2.6929,45.0551,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706351591
+Caliyaalo,Caliyaalo,Caliyaale,2.1787,45.3959,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706798029
+Leebow,Leebow,Lebou,4.7964,45.1936,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706667219
+Maranga,Maranga,,4.0313,43.1626,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,16.6,,,4,Africa/Mogadishu,FALSE,1706054343
+Hoosingo,Hoosingo,,-0.1753,41.2700,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,3,Africa/Mogadishu,FALSE,1706790636
+Bulo Caitet,Bulo Caitet,Caitei|Bulo Caitei,1.5167,44.3000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,31.7,,,4,Africa/Mogadishu,FALSE,1706621959
+Mirroon,Mirroon,,4.9474,47.9371,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,19.4,,,4,Africa/Mogadishu,FALSE,1706036630
+Balleey,Balleey,Ballei|Balléy,2.8833,42.4667,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706735351
+Dabacaddo,Dabacaddo,Dabaaddo,9.7967,43.3030,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,108.4,,,4,Africa/Mogadishu,FALSE,1706094616
+Baasani,Baasani,,1.7453,44.6424,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706760371
+Caag Lebile,Caag Lebile,,3.5518,45.6313,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706018481
+Xas Bahale,Xas Bahale,,7.9611,49.1600,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.4,,,5,Africa/Mogadishu,FALSE,1706541053
+Sankor,Sankor,,3.9568,44.7055,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706631418
+Quracii Tallal,Quracii Tallal,,3.5100,45.6128,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706904863
+Danyar,Danyar,,3.1139,43.6110,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706145290
+Tulicagaagto,Tulicagaagto,Tuliagagto,9.8216,43.3093,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,108.4,,,4,Africa/Mogadishu,FALSE,1706439080
+Bagahar,Bagahar,,6.5167,48.8333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706000001
+Hargoleh,Hargoleh,Hargole,9.2500,44.3333,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706507618
+Carmaale,Carmaale,,10.6441,44.0136,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,15.5,,,4,Africa/Mogadishu,FALSE,1706792164
+Garascad,Garascad,,2.8015,45.1405,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706126877
+Barako,Barako,,0.7500,42.6000,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706271421
+Turgodut,Turgodut,,2.5667,43.4000,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706705234
+Helem Bahaila,Helem Bahaila,Helam,11.1667,47.5000,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706355591
+Qalloocan,Qalloocan,,9.1028,46.4811,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706205371
+Fanoole,Fanoole,Fenole|Fanole,0.7504,42.6528,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706187167
+Bulo Hirso,Bulo Hirso,,2.6500,43.9333,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706427954
+Dhukoy,Dhukoy,Dhukow,1.7674,44.5932,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706545305
+El Au Uegher,El Au Uegher,,3.1333,43.6833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706301356
+Dermodo,Dermodo,,2.6667,46.2167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,12.0,,,4,Africa/Mogadishu,FALSE,1706150480
+Aw Sagaare,Aw Sagaare,,2.5425,44.8620,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706396768
+Haabsooy,Haabsooy,,2.7151,44.9912,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706341314
+Ceel Doofaar,Ceel Doofaar,El Donfar|El Dofar,10.6297,49.0333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.3,,,4,Africa/Mogadishu,FALSE,1706853497
+Hedidale,Hedidale,Hedideleh,9.2333,44.0833,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706344977
+Burey Mannas,Burey Mannas,,2.8530,43.5498,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706107105
+Wadh,Wadh,Wad,8.8667,46.9333,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,3.0,,,5,Africa/Mogadishu,FALSE,1706631595
+Geba Gebah,Geba Gebah,,3.5344,44.0465,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706613684
+Mareerre,Mareerre,Merere,1.9214,44.7782,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706369419
+Guriasamo,Guriasamo,El Guriasamo,11.2667,49.8000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706722178
+Buuro Bahale,Buuro Bahale,,2.9947,41.9537,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706263060
+Goloda,Goloda,,2.3678,42.6501,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706402549
+Her Ay Casha,Her Ay Casha,,2.9383,44.1670,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706529262
+Darale,Darale,,11.6333,50.5000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706517182
+Hamug,Hamug,,11.0333,49.1500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706664712
+Avarfaro,Avarfaro,,10.9833,50.8833,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706070312
+Duurgoys,Duurgoys,Durgois,3.3471,45.5911,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706315310
+Siqaale,Siqaale,Sigaale|Busley,1.8525,44.6995,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706970662
+Kombeyo,Kombeyo,,8.9167,48.5833,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,4.2,,,5,Africa/Mogadishu,FALSE,1706301850
+El Af Gumasorrei,El Af Gumasorrei,,6.4833,48.7833,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706977563
+Urughei,Urughei,,2.6667,44.1167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706481444
+Laba Garas,Laba Garas,,1.7666,44.6950,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706806002
+Seemade,Seemade,Sèmmade|Seemmade|Seemaade|Sèmone,7.1561,48.6101,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,5.1,,,4,Africa/Mogadishu,FALSE,1706489783
+Ceeshoy,Ceeshoy,,2.7203,45.3105,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706567655
+War Gaduud,War Gaduud,,2.9786,43.7021,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706216359
+Yalaho,Yalaho,Ielahò,10.9167,49.2529,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706147693
+Intee Ka Kadiidaa,Intee Ka Kadiidaa,,3.2362,43.5465,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706123745
+Yaaheel,Yaaheel,Iahélé|Iaheele|Yahele,8.5333,47.0667,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,,,4,Africa/Mogadishu,FALSE,1706031962
+Isghibil,Isghibil,Sghibil,8.7000,49.2167,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706995144
+Hariyo,Hariyo,Horio|Hario,5.0000,47.3833,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706249393
+Guduudo Dhunte,Guduudo Dhunte,,2.8002,43.1874,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706961002
+Caddey Barre,Caddey Barre,,1.4875,44.0053,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706358134
+Ber As,Ber As,Ber Ras,8.5500,46.3000,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,,,5,Africa/Mogadishu,FALSE,1706715688
+Dadjenai,Dadjenai,,3.0597,43.6041,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706461666
+Buuxow,Buuxow,,2.3501,44.8787,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706538668
+Buulo Macalim,Buulo Macalim,,3.2256,44.0144,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706637031
+Faarax,Faarax,El Farroch,4.1286,43.9457,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706622612
+Farange Luunge,Farange Luunge,,1.8187,44.6732,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706024111
+Idoole,Idoole,Iidoole|Idole,6.1788,46.8464,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,,,5,Africa/Mogadishu,FALSE,1706999391
+Soomba,Soomba,,0.9626,42.6071,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706234861
+Karmale,Karmale,,3.4138,44.9405,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706849937
+Weel Tugar,Weel Tugar,,2.2533,42.9816,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706410095
+El Mogor,El Mogor,El Hogor,11.3667,50.9833,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706755447
+Gudmo Biyo Cas,Gudmo Biyo Cas,,10.5889,46.9565,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706450380
+Cali Xaydh,Cali Xaydh,,10.0453,43.7855,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706129226
+Biliq Maro,Biliq Maro,Billich Maro,0.5437,42.9590,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706995484
+Ar Gummo,Ar Gummo,,3.7333,44.9000,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706571701
+Suleymaan,Suleymaan,Busley,1.8942,44.7014,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706412542
+Dayma Shiikh,Dayma Shiikh,Dayma-Shikh,9.4416,43.7850,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706247463
+Gajawa,Gajawa,Caggiaua,0.5404,42.7586,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706620564
+Cumarow Maddow,Cumarow Maddow,,3.2850,43.6142,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706860365
+Jif,Jif,Jeff,10.3000,43.1833,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,108.4,,,4,Africa/Mogadishu,FALSE,1706353513
+Cilaan,Cilaan,,2.5001,42.5440,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706874288
+Godaalo,Godaalo,,9.0886,47.9242,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,3.0,,,5,Africa/Mogadishu,FALSE,1706352317
+Qasaaleey,Qasaaleey,,2.2123,42.3463,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706636829
+Addow,Addow,,3.5731,43.8063,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706405851
+Raxoole,Raxoole,,0.8565,42.5894,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,12.7,,,4,Africa/Mogadishu,FALSE,1706640196
+Biloo,Biloo,Bilo,0.7167,42.7167,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706223381
+Ber Au Duben,Ber Au Duben,,3.0167,43.3833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706332284
+Goba,Goba,,-0.7440,41.7146,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706985085
+Madax Waraabe,Madax Waraabe,,4.1236,43.9130,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706811898
+Taxa Wuungu,Taxa Wuungu,,0.1464,42.7156,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706830861
+Duqiyo Weyn,Duqiyo Weyn,,1.1468,42.6156,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706595978
+Darrow,Darrow,,3.3340,43.1225,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706262377
+Baahan,Baahan,,3.0824,43.4538,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706659684
+Fanoole No. 1,Fanoole No. 1,,0.7473,42.6691,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706238280
+Ganug,Ganug,,3.6313,43.8432,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706194403
+Jameecada Aabow,Jameecada Aabow,,1.8212,44.5485,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706577093
+Berdaale,Berdaale,El Berdale|Ceel Berdaale|Berdale,3.2169,43.2010,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706044221
+Berdaale,Berdaale,Berdale,2.9833,44.2833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,TRUE,1706276998
+Barde Saalax,Barde Saalax,,1.7161,44.5859,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,296.8,,,3,Africa/Mogadishu,FALSE,1706407075
+Kuusow,Kuusow,,3.7853,45.5663,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706252769
+Libaaxle,Libaaxle,,2.8568,45.4116,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706823024
+Dood,Dood,,2.7536,45.1602,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706328973
+Laf Maakada,Laf Maakada,,3.5930,42.9274,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706493585
+Qeedi Haan,Qeedi Haan,,9.0264,45.6594,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706501510
+Dawanle,Dawanle,,2.5451,44.8805,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706723104
+Muuse Moxamed Raage,Muuse Moxamed Raage,,2.5210,45.8875,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706375798
+Raguuda,Raguuda,Raguda,10.7000,46.6167,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.3,,,5,Africa/Mogadishu,FALSE,1706777698
+Hallaye,Hallaye,,9.5810,44.1793,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706004194
+Gumarrey,Gumarrey,Gumurrei,2.8927,45.5295,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706439077
+Gumarrey,Gumarrey,,2.7676,45.3781,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,TRUE,1706879870
+Gumarrey,Gumarrey,,2.7093,45.5819,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,TRUE,1706928561
+Kunyogo,Kunyogo,,2.9402,43.7663,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706882406
+Buufo Danada,Buufo Danada,,1.7253,44.5847,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706251484
+Balli Hat,Balli Hat,,6.1167,47.9500,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706591198
+Ceel Lafoole,Ceel Lafoole,,3.3815,45.4918,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706363582
+Rii Xaanle,Rii Xaanle,,2.6790,44.9707,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706439036
+Dhariigada,Dhariigada,,4.2300,43.9327,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706982195
+Waxaralis,Waxaralis,Uakharalis,9.7177,43.3435,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,104.1,,,4,Africa/Mogadishu,FALSE,1706780992
+Hara Cadera,Hara Cadera,,2.1500,41.0167,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706650128
+Teysa,Teysa,Teisa,9.5754,43.6725,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706056535
+Ceel Dhaareed,Ceel Dhaareed,‘Ēl Dārēd|Anteral|El Darad|El Darad,10.7167,45.6000,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,4,Africa/Mogadishu,FALSE,1706766624
+Duburaha,Duburaha,,9.5869,43.7109,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706715134
+Luk Haiyah,Luk Haiyah,Lughaye,10.7000,43.9000,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,15.5,,,4,Africa/Mogadishu,FALSE,1706183309
+Elahano,Elahano,,0.7333,43.0667,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706524351
+Dhejiile-Masbadane,Dhejiile-Masbadane,,3.1426,43.1279,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706945403
+Waraxley,Waraxley,,2.8846,45.6469,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706393907
+Dure Emed,Dure Emed,,2.8331,42.9282,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706734100
+Geedweyne,Geedweyne,Gedueyne,4.0303,42.2967,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,21.6,,,4,Africa/Mogadishu,FALSE,1706470775
+Gawaan,Gawaan,,5.3133,48.2947,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706545232
+Ceel Cad,Ceel Cad,El Ad,3.1014,45.3922,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706597018
+Gaal Dheere,Gaal Dheere,,3.6516,43.7489,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706283368
+Fardera,Fardera,,1.1667,43.9500,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706649164
+Dhigleey,Dhigleey,Diglēy|Diglei,4.2333,42.9167,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.3,,,4,Africa/Mogadishu,FALSE,1706473701
+Dhema,Dhema,,3.8012,44.5292,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706753436
+Mungheio,Mungheio,Mugheio,2.4333,41.4000,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,3.5,,,5,Africa/Mogadishu,FALSE,1706577843
+Tirroon,Tirroon,,3.0783,43.4631,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706421153
+Ijaara,Ijaara,,9.5848,43.6281,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706076654
+Haan Gale,Haan Gale,,3.2195,45.5908,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,73.6,,,4,Africa/Mogadishu,FALSE,1706794182
+Juwaarey,Juwaarey,,1.8953,42.4993,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.5,,,4,Africa/Mogadishu,FALSE,1706713545
+Juwaarey,Juwaarey,,1.9715,42.8043,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,TRUE,1706009871
+Cagaaran,Cagaaran,,1.6947,44.7471,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706993266
+Kaiin,Kaiin,,3.9404,44.3988,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706864467
+Oog,Oog,Der Ad,8.9348,46.6206,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706244217
+Adale,Adale,Adalei,2.4833,45.2167,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706354552
+Jilib,Jilib,Jillib|Jillio|Gilib|Gelib,1.7986,44.9078,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706424228
+Garabcad,Garabcad,,9.9308,47.5190,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706052929
+Aroos Eber,Aroos Eber,,1.6138,44.3886,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,31.7,,,4,Africa/Mogadishu,FALSE,1706822156
+Libimaay,Libimaay,,5.0228,47.5356,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706346173
+Xaaji Tumaal,Xaaji Tumaal,Hagi Tomal,0.6406,42.6967,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706552550
+Bulo Haldid,Bulo Haldid,,3.6333,43.7500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706588759
+Kuus,Kuus,,3.3202,43.3036,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706506731
+Booshol,Booshol,,1.9804,42.8034,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706431739
+Qayaadsame,Qayaadsame,,10.1377,49.0122,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,10.2,,,4,Africa/Mogadishu,FALSE,1706480070
+Magaalayar,Magaalayar,Magaalo Yer,9.1500,45.9500,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706868510
+El Uaesed,El Uaesed,Acqua Uadi|El Uaiscet,8.1737,48.2963,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,4,Africa/Mogadishu,FALSE,1706846801
+Shaamburow,Shaamburow,,2.5752,44.0452,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706217056
+War Aaw Kheero,War Aaw Kheero,,2.4155,43.7428,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706724166
+Zauel,Zauel,Zbuel,3.5500,43.7500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706860945
+Bulo Nurbadi,Bulo Nurbadi,,2.9000,45.6167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706913635
+Geesaley,Geesaley,Ghesselei|Greater Ghesselei|Lesser Ghesselei,11.7472,50.5033,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,3,Africa/Mogadishu,FALSE,1706998254
+Dheg Cadey,Dheg Cadey,Degh Adei|Deg Adei,0.6142,42.9349,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706380475
+Mobileyn,Mobileyn,Mobilen,0.5083,42.7386,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706413384
+Mobileyn,Mobileyn,,0.6499,42.7129,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,TRUE,1706916881
+Garasdeele,Garasdeele,,2.3275,45.3921,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706975680
+Ceel Cabdi,Ceel Cabdi,,4.4833,47.9500,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,19.4,,,4,Africa/Mogadishu,FALSE,1706492433
+Godama Dera,Godama Dera,,9.2500,44.9500,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706371686
+Adelta,Adelta,,1.1500,43.4667,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706621740
+Gubadi,Gubadi,,3.2379,43.5733,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706602894
+Tinguduud,Tinguduud,,0.0279,42.5284,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706029961
+Didinchi,Didinchi,Didinki,11.4667,49.6167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706227237
+Dugub,Dugub,,8.0544,47.1233,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706000007
+Agarada,Agarada,,8.6261,45.6903,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706112577
+Dugulle,Dugulle,,2.2789,44.5240,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706145043
+Bar Muumin Dhoorow,Bar Muumin Dhoorow,,1.8487,42.3782,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706683663
+Ragazz,Ragazz,,11.7000,50.9167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706444802
+Beer Bari,Beer Bari,,1.7749,44.6795,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706322931
+Ceel Baxay,Ceel Baxay,El Bahi|‘Ēlbáhay|El Bahai,4.7943,46.1616,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,4,Africa/Mogadishu,FALSE,1706697589
+Higleh Gorder,Higleh Gorder,Highleh Gorder|Higligordair|Baligorda,8.2500,46.7500,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,,,4,Africa/Mogadishu,FALSE,1706853237
+Garas,Garas,,0.0671,42.7030,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706262331
+Garas,Garas,,-0.0256,42.5403,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,TRUE,1706530738
+Hoohoble,Hoohoble,Hoohobley,3.0077,45.7930,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706720606
+Berdaale,Berdaale,,3.2796,45.2592,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706165605
+Deb Arar,Deb Arar,,3.0833,44.9000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706096555
+Sada Kabad,Sada Kabad,,3.2370,43.5040,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706635744
+El Hore,El Hore,,1.0833,44.0000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706868824
+Bug Tugo,Bug Tugo,,8.3667,49.0167,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706903853
+Sagarey,Sagarey,Uar Sagarei|Sagani|Sagārrēy,1.5667,41.9333,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706729948
+Qooney,Qooney,Koney,4.1067,42.6497,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706793571
+Yaaq Braawe,Yaaq Braawe,Jāq Brawāy|Yaaq-Baraawe|Iach Bravai|Yaaq Braawaay,1.9597,43.1892,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706605957
+Carfeelle,Carfeelle,,1.7472,44.6020,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706431413
+Tugeer,Tugeer,,2.9925,43.4892,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706782401
+Af Yar,Af Yar,,2.4458,42.3141,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706093254
+Giallo,Giallo,,0.7333,41.5500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706716572
+Fiqishinni,Fiqishinni,,9.1313,47.5725,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,3.0,,,5,Africa/Mogadishu,FALSE,1706991440
+Hobishole,Hobishole,,2.9876,43.3491,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706771631
+Miigwa,Miigwa,Migna,0.2200,42.7627,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706506337
+Dabooye,Dabooye,Dabōyè,9.3333,43.9167,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706565144
+Ayroobley,Ayroobley,,3.3376,43.6793,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706558744
+Amiiney,Amiiney,,0.4734,42.7473,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706711263
+Tolmo,Tolmo,,11.1333,50.9500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706507074
+Diinle Maxaad,Diinle Maxaad,Diinle Maxaadi,1.8591,44.7950,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706285585
+Gillab Rugis,Gillab Rugis,,6.4167,47.8167,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706807978
+Dhanful,Dhanful,,4.1827,43.9963,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706520584
+Dameer,Dameer,,9.9172,45.3399,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706637019
+Wafdhey Weyn,Wafdhey Weyn,Uafdai Uein,2.8718,44.1157,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706356391
+Boodhlay,Boodhlay,,9.7972,45.5742,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,16.4,,,4,Africa/Mogadishu,FALSE,1706580547
+Dhurwayle,Dhurwayle,Bulo Drueil,2.9591,45.4609,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706440336
+Olondow,Olondow,,3.9286,43.8112,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706903244
+Gandaabey,Gandaabey,,1.7245,44.7107,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706520730
+Goodallow,Goodallow,,3.2239,43.4630,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706356781
+Xabaalo Fiile,Xabaalo Fiile,,2.4917,44.9830,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706930802
+Docol,Docol,Dohol Ierè,6.4322,47.4892,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706330222
+Buulo Togoro,Buulo Togoro,Bulo Togon,3.5167,45.5333,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706536259
+Jameeco Aaminey,Jameeco Aaminey,,2.8672,44.0963,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706485760
+Waaciye,Waaciye,Uahie,10.0114,49.0442,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,9.6,,,5,Africa/Mogadishu,FALSE,1706164793
+War Mursal,War Mursal,,2.5259,44.8379,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706254574
+Tita,Tita,,-0.8667,41.0667,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706197821
+Krow,Krow,,2.8013,44.0988,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706748104
+Xaarbiyow,Xaarbiyow,,3.2789,43.5204,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706265170
+Guraladig,Guraladig,,7.4167,48.9667,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706261226
+Dagaalyahan,Dagaalyahan,,3.7883,42.5346,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706976968
+Duguia Iantar,Duguia Iantar,,1.1333,42.5833,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706441092
+Fakey Moxamed,Fakey Moxamed,,2.6171,45.5984,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706335202
+Ceel Waran,Ceel Waran,‘Ēl Wáran|El Uaran,3.2333,42.7333,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706984102
+El Gargaro,El Gargaro,,4.2833,45.7333,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706962586
+Giara El,Giara El,Jarra Ceel,-0.6167,41.3667,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706351239
+Urungo,Urungo,,0.0874,41.5359,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706334539
+Bulo El Aile,Bulo El Aile,,1.9000,44.5000,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706457782
+Kombareere,Kombareere,,2.0147,44.8884,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706904587
+El Ahg,El Ahg,,11.4500,49.6500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706631249
+Caddey,Caddey,,2.5526,45.3452,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706107054
+Beli Adaax,Beli Adaax,,8.8597,45.7367,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706818123
+Idada,Idada,,3.1333,43.8833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706499286
+War Muusow,War Muusow,,2.6063,44.9665,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706275934
+Hilla Bacaad,Hilla Bacaad,,4.5685,45.2646,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706394976
+Camadheere,Camadheere,‘Amadēre,9.2500,45.0833,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706895258
+Nasseeye,Nasseeye,Nasiyeh|Nassēyé,10.2333,44.9167,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706410042
+Cabdulle Kudaad,Cabdulle Kudaad,,2.9500,45.7167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706479108
+Laab Mardha,Laab Mardha,,1.3873,43.9013,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706923017
+Koboogobta,Koboogobta,,2.7854,43.9560,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706927535
+Muuto,Muuto,,1.6632,44.5895,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706970904
+Ena Baianle,Ena Baianle,,10.6833,50.9500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706642464
+Qalaaliyow,Qalaaliyow,Calalio,0.4638,42.7445,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706053490
+Buulo Garas,Buulo Garas,,2.8546,42.9801,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706171674
+Kolonyaale,Kolonyaale,,0.6436,42.9256,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706089802
+Illinta Dhexe,Illinta Dhexe,Illinta Goreka,9.9846,44.1238,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706261021
+Caliyo Erbow,Caliyo Erbow,,1.8656,42.6626,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706818143
+Ancherrou,Ancherrou,,1.2500,44.1167,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,29.9,,,4,Africa/Mogadishu,FALSE,1706727754
+Heebooy,Heebooy,,2.8911,44.2453,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706566052
+Badweyn,Badweyn,Badwein,8.9944,46.6556,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706212733
+Huddisa,Huddisa,Hudissa,9.9992,45.1642,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706925130
+Xagar,Xagar,Hagar Uagio|Hagàr,0.8700,41.9758,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706613850
+Dudumiya,Dudumiya,Duddumià,2.8357,44.1237,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706016278
+Garyaale,Garyaale,Gheriale,4.1500,46.4833,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706609203
+Kudkudaale,Kudkudaale,Cutcudale,-0.4424,42.1336,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706675409
+Yaldo,Yaldo,,9.6564,43.5990,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706577144
+Boorka,Boorka,,3.2159,43.4664,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706513599
+Moro Idda,Moro Idda,,4.3167,43.6000,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706965973
+Howlwadaag,Howlwadaag,,0.0427,42.7033,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706467052
+El Gomo Uen,El Gomo Uen,,4.7167,44.7667,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706656431
+Aweey,Aweey,,3.2035,43.8836,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706665752
+Gadiisey,Gadiisey,,2.9190,44.1309,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706028666
+Alanshile,Alanshile,,1.4165,43.9449,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706427557
+Cabdalle Kakane,Cabdalle Kakane,,0.5167,42.7500,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706683041
+Baqdaad,Baqdaad,,0.8000,42.6333,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706142540
+Washaaq,Washaaq,,2.2894,42.1342,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706511942
+God Ad,God Ad,,11.3333,50.6667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706990726
+God Ad,God Ad,,10.7167,50.8500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,TRUE,1706144660
+God Ad,God Ad,,11.1833,51.0667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,TRUE,1706654837
+Gomei,Gomei,,2.8833,45.8667,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706706545
+Wada Beris,Wada Beris,,9.2000,43.8000,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,64.3,,,4,Africa/Mogadishu,FALSE,1706119043
+Mada Barodi,Mada Barodi,Mada Baroodi,2.9507,44.0060,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706928676
+Teiega,Teiega,,11.6667,50.4500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706205176
+Ilalo,Ilalo,Italo,2.3333,41.0167,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,3.5,,,5,Africa/Mogadishu,FALSE,1706518015
+Tirrka,Tirrka,,2.8653,42.9738,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706941143
+Balli Lama Adi,Balli Lama Adi,Balli Lamma Adi,6.9500,48.2333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706234461
+Xawaadley,Xawaadley,Auadle|Auadlei|Xawaadleey,2.5826,45.4894,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706649701
+Haro-Shiikh,Haro-Shiikh,Guuleed Zaaji|Guled Haji,9.3162,44.7581,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706430058
+Morbus,Morbus,,3.3240,43.3452,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706582272
+El Alul,El Alul,,3.8167,43.5333,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706181523
+Cuca,Cuca,,0.7333,42.4500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706293173
+Buulo Nasiib,Buulo Nasiib,,2.7965,44.0662,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706178157
+Degagou,Degagou,Degagan,5.6333,48.4167,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706161778
+Hadili,Hadili,,5.9500,48.0000,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706482422
+Korudheer,Korudheer,,2.8663,43.4062,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706116907
+Tulo Dibijo,Tulo Dibijo,,10.0667,45.3000,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706538041
+Dadian,Dadian,,2.9333,44.1333,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706363556
+Cusmaan Moto,Cusmaan Moto,,0.0626,42.7187,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706546648
+Gerarey,Gerarey,,1.1184,42.5865,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706814078
+Garas Afra Iere,Garas Afra Iere,Garas Afralerè,3.8000,46.7667,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706308298
+Jaanjow,Jaanjow,,1.7023,44.6194,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706151194
+El Avor,El Avor,,5.3833,45.5833,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,15.4,,,4,Africa/Mogadishu,FALSE,1706490950
+Dhaankadus,Dhaankadus,,11.2787,50.3035,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706441597
+Aw Mordi,Aw Mordi,Au Nordi,3.0287,44.1907,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706400073
+Dabiil,Dabiil,,1.7699,44.6012,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706514521
+Yaaqle,Yaaqle,,0.5638,42.7194,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706046650
+Soojiida,Soojiida,,1.1927,42.5584,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706854749
+Goonle,Goonle,Gonle,9.4441,43.7426,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706459218
+Garso,Garso,,3.4167,45.6667,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706683789
+Qurac Odiwaa,Qurac Odiwaa,,3.2071,45.6672,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706202737
+Hemin Gurei,Hemin Gurei,,1.8833,43.1167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706190822
+El Ille,El Ille,,2.9333,43.5000,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706726121
+Kaadheerey,Kaadheerey,,2.7557,45.6611,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706023669
+Guri Ceel,Guri Ceel,,5.3089,45.8819,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,,,3,Africa/Mogadishu,FALSE,1706743701
+Deebley,Deebley,,2.3959,45.9557,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706801269
+Diriye,Diriye,,1.7605,44.4921,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706883487
+Macalin Idle,Macalin Idle,,2.0535,44.4816,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706739818
+Oodadheere,Oodadheere,,3.6912,45.6822,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706437355
+Sara,Sara,,-0.8167,41.0167,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706673736
+Dhira Doba,Dhira Doba,Dara davò,8.7000,48.8500,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706564374
+Caleyow Kerrow,Caleyow Kerrow,,1.9021,42.4495,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706012837
+Aabaan Yare,Aabaan Yare,,2.6245,44.0445,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706228519
+Miir Toqwo,Miir Toqwo,,3.1054,45.8524,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706519807
+Maagey,Maagey,Maghei,2.6345,45.5140,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706198584
+Corucdoro,Corucdoro,Curucdoro,3.2833,43.6167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706906895
+Galaame,Galaame,,0.5819,42.6900,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706805134
+Bilisa,Bilisa,,0.5292,42.6781,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706495004
+Tara Cassoh,Tara Cassoh,Tira Assu,7.1333,47.6333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,13.3,,,4,Africa/Mogadishu,FALSE,1706174547
+War Maxan,War Maxan,,2.3973,45.0213,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706674192
+Curao,Curao,,2.4320,42.1373,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706331793
+Geed Buureed,Geed Buureed,,3.9244,43.8468,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706461719
+Billaq,Billaq,Billac,0.0253,42.7991,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706184919
+Dakhanyado,Dakhanyado,,9.5000,45.6000,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706221896
+Ahable,Ahable,,11.2000,50.4167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706870399
+Weelbisigle,Weelbisigle,,2.8398,43.7733,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706027557
+Caliyow Cusmaan,Caliyow Cusmaan,,2.7558,44.1890,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706617321
+Heudooliyow,Heudooliyow,,2.9753,44.3323,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706906343
+Oobale,Oobale,Oddur Ano|Xuddur Caano,3.0984,45.5486,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706733081
+Dugsiilow,Dugsiilow,,3.9972,43.9426,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706344818
+Waraabo Dodow,Waraabo Dodow,,2.6339,44.1307,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706182845
+Garas Dhaay,Garas Dhaay,,2.4605,44.8388,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706012381
+Aqab Doco,Aqab Doco,,2.9056,45.7549,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706020254
+Dejah Uar,Dejah Uar,,2.2667,41.8667,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706000010
+Koyaama,Koyaama,Coiamàni|Koyama|Coiama|Coiama,-0.6327,42.3386,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706657927
+Arisimo,Arisimo,,7.8000,49.1500,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,5.0,,,5,Africa/Mogadishu,FALSE,1706120342
+Degdaa,Degdaa,,2.8843,44.1892,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706399637
+Yaaqtoole,Yaaqtoole,Iactole,0.8167,43.2833,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706284722
+El Af-ca Uarallai,El Af-ca Uarallai,,11.0167,50.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706169785
+Daanti,Daanti,,1.7821,44.6630,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,74.9,,,4,Africa/Mogadishu,FALSE,1706762310
+Dhedhey,Dhedhey,,0.5762,42.6933,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706383441
+Xabibayal,Xabibayal,,2.3525,42.6649,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706210875
+Laab Kaban,Laab Kaban,,1.2824,43.8232,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706886843
+Cajuusa,Cajuusa,,2.4683,44.8551,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706372076
+Dhubbato,Dhubbato,Dubato|Dubato,9.7368,44.4746,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,61.8,,,4,Africa/Mogadishu,FALSE,1706647030
+Daba Galay,Daba Galay,,2.6243,45.0596,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706755676
+Kafiinge,Kafiinge,,1.0092,42.5930,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706093149
+Magla,Magla,,2.2383,45.1397,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706409080
+Cabdi Xasan,Cabdi Xasan,,1.6455,44.5668,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706062637
+Goljano,Goljano,,1.4541,42.4194,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706602947
+Ugaarow,Ugaarow,,2.8724,44.1885,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706189871
+Surma Daaraye,Surma Daaraye,,2.9687,43.5167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706664045
+Subbay,Subbay,Uèrta Subba|Suboi,0.6667,42.2500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706000003
+Laaleys,Laaleys,Lalis,10.0796,45.1520,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,15.2,,,4,Africa/Mogadishu,FALSE,1706391437
+Garap Den,Garap Den,,4.8833,45.4500,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706927055
+Lasgoriga,Lasgoriga,Las Gorija|Laz Goriga,11.1000,49.1500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706941971
+Sarinleey,Sarinleey,Saránley|Serenli,2.3782,42.2804,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706158368
+Jemeecada Kerrow Deqa,Jemeecada Kerrow Deqa,,2.8110,43.9148,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706550441
+Bijoliino,Bijoliino,Bijiliino,1.8480,44.7112,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706179523
+Muuno,Muuno,,1.9178,44.8100,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.5,,,4,Africa/Mogadishu,FALSE,1706931457
+Farkeerow,Farkeerow,,1.7592,44.4812,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706764749
+Bar Ballei,Bar Ballei,,4.1142,42.4544,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706885928
+Dhulbaanta,Dhulbaanta,,2.9271,43.6715,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706482352
+Qunjaale,Qunjaale,,1.5779,42.4555,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706164527
+Nimoow,Nimoow,,1.9611,45.1970,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706308901
+Uangheolle,Uangheolle,Uanghe Ola,-0.8500,41.4500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706248654
+Afar Iato,Afar Iato,,3.2500,43.5500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706419257
+Digto,Digto,,3.3000,44.2333,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706546554
+Areri Lalamod,Areri Lalamod,Areri Lolammod,7.3833,49.1500,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706465761
+Sugow,Sugow,,4.5573,45.2701,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706580763
+Anagoys,Anagoys,,8.1008,47.0406,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706623044
+Deg Jannaay,Deg Jannaay,,1.7062,44.6080,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706333104
+Dhextaal,Dhextaal,El Dehtal,4.2075,47.7136,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706065774
+Af Gudud,Af Gudud,Af Gedud,8.3833,49.1500,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706673084
+Maquudaale,Maquudaale,,2.5931,44.9632,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706096660
+Madina,Madina,,3.0258,43.6517,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706883136
+Shaangaani,Shaangaani,Sciangani,1.6131,44.4945,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706032091
+Bandar Jadiid,Bandar Jadiid,,1.7008,44.4414,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706892485
+Mansuur,Mansuur,Mansur,2.1983,42.2280,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706554184
+Gol Ladda,Gol Ladda,,2.3333,42.5833,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706129801
+Suntay,Suntay,,3.4525,43.5785,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706081029
+Bar Ganni,Bar Ganni,,3.9189,42.1729,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,21.6,,,4,Africa/Mogadishu,FALSE,1706215227
+Buur Basle,Buur Basle,,4.0758,43.1271,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,16.6,,,4,Africa/Mogadishu,FALSE,1706235499
+Nasib,Nasib,,3.2114,43.6020,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706531251
+Dheenle,Dheenle,,2.6000,42.1000,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706933038
+Med Cerba,Med Cerba,,3.0667,43.5667,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706613413
+Warshubo,Warshubo,Uar Sciuban,5.1333,47.4333,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,8.7,,,5,Africa/Mogadishu,FALSE,1706127208
+Ceel Dheere,Ceel Dheere,,3.2869,43.0714,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706603977
+Dubri,Dubri,,-0.3167,41.2167,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706732120
+Subai,Subai,,3.7333,43.1500,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706155590
+Axmed Cigoow,Axmed Cigoow,Bulo Ahmed Igo,2.9091,45.5490,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706049222
+Xanlaay,Xanlaay,,1.8913,44.8175,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,296.8,,,3,Africa/Mogadishu,FALSE,1706409710
+Corair,Corair,,2.9833,46.2000,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,12.0,,,4,Africa/Mogadishu,FALSE,1706137819
+Drersin,Drersin,Derersin,3.8835,44.3456,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,17.9,,,4,Africa/Mogadishu,FALSE,1706132109
+Gal Goof,Gal Goof,,2.8761,45.7395,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706046052
+Buukoh,Buukoh,Buco,3.1710,43.5334,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706025225
+Ceel Cad,Ceel Cad,El Ad,11.4500,50.0000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706449399
+Dhamaji,Dhamaji,,3.0375,43.8153,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706742813
+Siidow Suleeymaan,Siidow Suleeymaan,,2.4342,44.8480,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706499945
+Oorof,Oorof,,1.7173,42.5494,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706535278
+Kalyaxeed,Kalyaxeed,Kelyexeed|Kelyehēd|Chellihet|Chelihet|Cal Iehèd|Chelliheto|Cal Yihed,8.7667,49.2000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,4,Africa/Mogadishu,FALSE,1706588922
+Mahamudo,Mahamudo,,2.9333,44.2500,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706915778
+Biyamadoow,Biyamadoow,El Madu|El Mado|Biyamadōw,8.6500,48.3167,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,9.8,,,4,Africa/Mogadishu,FALSE,1706113466
+Gedobeh,Gedobeh,,8.8167,45.1333,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706161702
+Sabdoow,Sabdoow,,2.7387,45.6193,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706022269
+Marobey,Marobey,Maruvei,3.6283,43.8325,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706903470
+Uocobar,Uocobar,,11.8000,50.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706584989
+Hero Caralei,Hero Caralei,,5.6833,48.3333,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706845671
+Boqor,Boqor,,9.6365,43.5730,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706770305
+Odomow,Odomow,,3.6811,43.7190,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706031252
+Lojir,Lojir,,3.7169,43.8043,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706781068
+Giara Abarou,Giara Abarou,,4.2500,43.7000,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706044542
+Burcosera,Burcosera,,3.0167,42.0667,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706015385
+Jiiga,Jiiga,Gigia,0.7072,42.6809,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706079612
+Dabo Dheer,Dabo Dheer,,2.1492,42.2729,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706079445
+Hais,Hais,,11.1833,48.9500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706366616
+Gumuurta,Gumuurta,,3.6283,43.7598,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706218429
+Wariin,Wariin,Uarin,1.4173,42.4424,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706981669
+Burader,Burader,,3.2833,45.5833,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706057728
+Warmadoow,Warmadoow,Uar Medò|Warmadōw|Uar Medou,11.3333,49.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,4,Africa/Mogadishu,FALSE,1706883169
+Gariirow,Gariirow,,2.9060,45.3800,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706244648
+Anghor,Anghor,,11.2500,50.1333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706291063
+Jan,Jan,Gian,9.2333,50.6667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,1.9,,,5,Africa/Mogadishu,FALSE,1706035257
+Laasa Carro,Laasa Carro,Lāsa ‘Arro|Las Aharro|Laso Arro|Las Aharro,9.8333,49.5167,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,4,Africa/Mogadishu,FALSE,1706079158
+Buurfuule,Buurfuule,Burfule,2.9315,45.5293,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706832387
+Balad Raxman,Balad Raxman,,0.0781,42.7180,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706805568
+Bambila,Bambila,,0.0585,42.7277,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706876401
+Balli Ano,Balli Ano,,6.4333,46.8333,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,,,5,Africa/Mogadishu,FALSE,1706722553
+Busley,Busley,,2.9039,43.4525,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706181647
+Busley,Busley,,3.2322,43.3744,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,TRUE,1706749485
+Busley,Busley,,3.1729,43.5221,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,TRUE,1706404215
+Kaluundi,Kaluundi,Colundi,2.7934,45.5211,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706189751
+Jemeecada,Jemeecada,,2.9733,43.8070,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706631488
+Jemeecada,Jemeecada,Heneecada,2.8294,43.9552,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,TRUE,1706425093
+Jemeecada,Jemeecada,,2.7329,43.8561,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,TRUE,1706905876
+Xuseen,Xuseen,Husen|Hussein,10.5833,43.2667,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,15.5,,,4,Africa/Mogadishu,FALSE,1706185115
+Yageg,Yageg,Iaghegh|Daghegh,3.2667,44.0000,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706339633
+Jirma,Jirma,,1.4904,42.3831,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.4,,,4,Africa/Mogadishu,FALSE,1706076368
+Kibiile,Kibiile,Kibille,1.7508,44.6669,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706034224
+Waney,Waney,,3.1858,43.5314,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706575005
+Golooley,Golooley,,1.8611,42.6264,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706308451
+Golooley,Golooley,,2.5834,44.0514,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,TRUE,1706114311
+Haro,Haro,,5.8333,48.1833,Somalia,SO,SOM,Mudug,Mudug,SO-MU,region,,3.9,,,5,Africa/Mogadishu,FALSE,1706113066
+Mowkubow,Mowkubow,,2.9017,43.0152,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706462379
+Sool,Sool,,2.8041,44.0477,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706348447
+Liimaale,Liimaale,Limale,2.8883,44.0150,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706732908
+Xaaji Xasan,Xaaji Xasan,,2.4543,45.1409,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706832229
+Xaaji Xasan,Xaaji Xasan,,1.8263,44.6071,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,TRUE,1706430592
+Yaaq,Yaaq,,0.2025,42.7572,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706120793
+Guumba,Guumba,,2.9872,44.0678,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706235912
+Waney,Waney,,4.0714,43.8066,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706636224
+Bannaaney,Bannaaney,,2.7979,45.5128,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706433047
+Beer Axmadow,Beer Axmadow,,1.3399,43.8851,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706518855
+Dooncadayga,Dooncadayga,,2.7186,45.3387,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,54.5,,,4,Africa/Mogadishu,FALSE,1706687708
+Bannaaney,Bannaaney,,2.0097,45.0271,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706851274
+Bannaaney,Bannaaney,,2.6976,45.0180,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,TRUE,1706939372
+Laas Dhuure,Laas Dhuure,Lāsdārēd,10.1751,45.9840,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706810228
+Naar,Naar,Nar,8.8167,48.9333,Somalia,SO,SOM,Nugaal,Nugaal,SO-NU,region,,9.8,,,5,Africa/Mogadishu,FALSE,1706010745
+Las Chi Bohol,Las Chi Bohol,Laz Ki Bohol,10.9667,49.7000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706742698
+Garba Dheer,Garba Dheer,,2.6079,44.0188,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706589255
+Lalofto,Lalofto,Lalaftu|Lafaftu,-1.1000,41.2667,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,5.8,,,5,Africa/Mogadishu,FALSE,1706257323
+Maduulow,Maduulow,,1.7043,44.5598,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,75.0,,,4,Africa/Mogadishu,FALSE,1706993704
+God Cabobe,God Cabobe,,10.6000,49.1500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706392261
+Boox,Boox,,0.9657,42.6136,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,15.8,,,4,Africa/Mogadishu,FALSE,1706664656
+Xagarow,Xagarow,,2.4213,45.4134,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706689746
+Baad Fadumo,Baad Fadumo,,1.3770,43.8994,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,10.0,,,5,Africa/Mogadishu,FALSE,1706944307
+Raga Ceel,Raga Ceel,,2.6557,46.0091,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706751340
+Hagarrow,Hagarrow,,2.7349,44.1105,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706510825
+Ibrahim Mursal,Ibrahim Mursal,,2.3463,44.7821,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706574462
+Haf,Haf,,-0.0500,42.6667,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706863147
+Fullaay,Fullaay,Fuhay,2.5875,44.7990,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706133069
+Fulaayka,Fulaayka,,2.9522,44.1495,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706626410
+Qayder Fallay,Qayder Fallay,Gauder Fullai,3.6333,42.8333,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706836542
+Ceel Laqoday,Ceel Laqoday,,10.6411,47.4142,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706518358
+Irrwar,Irrwar,,3.2146,43.3326,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706578328
+Afaafo,Afaafo,Saho Afafan,2.3445,43.7648,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706621939
+Qalaqol,Qalaqol,,2.8366,43.9517,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706048983
+Saforrei,Saforrei,,11.2333,49.7500,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,7.7,,,5,Africa/Mogadishu,FALSE,1706644266
+Gubbet Uasasa,Gubbet Uasasa,,3.4500,41.6333,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,20.0,,,4,Africa/Mogadishu,FALSE,1706837644
+Gobo Kibir,Gobo Kibir,,-0.0986,42.3678,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706535016
+Buulo Makiino,Buulo Makiino,,2.7896,45.6225,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706749092
+El Dafarur,El Dafarur,,4.1667,43.9833,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706523898
+Hadhwanaag,Hadhwanaag,,8.7089,46.7219,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,,,5,Africa/Mogadishu,FALSE,1706143734
+Buulo Cabdi,Buulo Cabdi,,1.8161,44.8611,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706130569
+Ban Dhuub,Ban Dhuub,,2.4172,42.8674,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,11.4,,,4,Africa/Mogadishu,FALSE,1706962555
+Surweyn,Surweyn,Sarouen|Sur Uein|Suruen,3.2247,43.8929,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706015389
+Cilmi Shiixaale,Cilmi Shiixaale,,3.5369,45.6089,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,21.0,,,4,Africa/Mogadishu,FALSE,1706190554
+Baardheere,Baardheere,Būlo Bārdēre|Bardere|Buulo Bardheere|Bardera,0.2897,42.7419,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706016597
+Dhursheen,Dhursheen,,4.1224,43.8793,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706491117
+Lebe Rare,Lebe Rare,Lebbirari|Lebeh Rareh,9.2500,45.8833,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706262393
+Berdale,Berdale,,4.9561,45.0194,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,17.0,,,4,Africa/Mogadishu,FALSE,1706143320
+Gololey,Gololey,Gululei,2.4492,45.3542,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706203113
+Buur Dheere,Buur Dheere,Uar Burder,2.5010,44.8712,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706130271
+Bargaal,Bargaal,Baargaal|Bargal,11.2864,51.0773,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706575362
+Laascaanood,Laascaanood,Las Anod,8.4774,47.3597,Somalia,SO,SOM,Sool,Sool,SO-SO,region,admin,9.8,,,2,Africa/Mogadishu,FALSE,1706106404
+Hareri Falaq,Hareri Falaq,,2.8375,42.8409,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706861354
+Lowiga,Lowiga,,2.7154,43.6206,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,32.5,,,4,Africa/Mogadishu,FALSE,1706524653
+Rako Raaxo,Rako Raaxo,,9.7833,49.7333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706594903
+Fuud Dooro,Fuud Dooro,,2.7278,44.1388,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706581497
+Cadayley,Cadayley,,2.2315,45.0769,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706331003
+Balli Cad,Balli Cad,,5.4883,46.0951,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706567271
+Etiyal,Etiyal,,3.9909,44.0137,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,25.8,,,4,Africa/Mogadishu,FALSE,1706830009
+Qarar Soor,Qarar Soor,,9.6456,49.5701,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706988968
+Booraan,Booraan,,2.6733,44.8985,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706993211
+Canalow,Canalow,,1.6897,44.4831,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706680658
+Xawaal Gedow,Xawaal Gedow,,0.5950,42.9087,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706681568
+Iskushub,Iskushub,,9.0901,49.2131,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706363428
+Xingomod,Xingomod,En Gomot,6.1197,46.9924,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,9.9,,,5,Africa/Mogadishu,FALSE,1706423070
+Horma Liibaan,Horma Liibaan,Orma Liban|Horma Liban,4.0175,42.8178,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,11.0,,,4,Africa/Mogadishu,FALSE,1706712727
+Gaabaha,Gaabaha,,-0.0331,42.7715,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,92.5,,,4,Africa/Mogadishu,FALSE,1706448704
+El Uarot,El Uarot,,4.0667,47.5833,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706191613
+Laaso Dawaco,Laaso Dawaco,,10.0513,44.9836,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706924662
+Ceel Qurqura,Ceel Qurqura,El Gurgura,3.3484,41.9559,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.4,,,4,Africa/Mogadishu,FALSE,1706007625
+Ununley,Ununley,Abdi Boloh,9.2636,45.8262,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706346019
+Buur Weyn,Buur Weyn,,3.5904,45.5598,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706062966
+Ceel Jaalle,Ceel Jaalle,,1.6831,44.7236,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706268573
+Dalaama,Dalaama,,0.5799,42.7110,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706678008
+Hilobannaah,Hilobannaah,Hilobannaan,4.1314,45.4804,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706011603
+Chivasciapisci,Chivasciapisci,,-0.8833,42.1000,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,28.0,,,4,Africa/Mogadishu,FALSE,1706917473
+Goof-Maaday,Goof-Maaday,,3.1923,43.4764,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706174654
+Dondere,Dondere,,2.8333,45.6167,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706446737
+Dharkeenley,Dharkeenley,,2.9667,45.7000,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706085938
+Qudhacley,Qudhacley,Kudaley,4.7050,45.2099,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,16.9,,,4,Africa/Mogadishu,FALSE,1706122542
+Bashir Beere,Bashir Beere,,3.0424,43.4139,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706741183
+Megagle,Megagle,,8.4667,46.3000,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,8.3,,,5,Africa/Mogadishu,FALSE,1706177067
+Kaay Sanay,Kaay Sanay,,3.4078,43.2176,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706372394
+Orgaafan,Orgaafan,,3.9038,43.4324,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706271791
+Gondere,Gondere,,2.8667,45.9000,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706474518
+Mabaax,Mabaax,,3.8355,46.2350,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706556507
+Kormari,Kormari,,2.9957,43.3511,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706268221
+Kormari,Kormari,,3.1501,43.2150,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,TRUE,1706029269
+Galgalow,Galgalow,,2.8739,44.1571,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706266139
+Bacugia,Bacugia,,11.1500,49.5000,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706244356
+Garas Balley,Garas Balley,,2.0678,45.2544,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706415637
+Maykoo Guuraaw,Maykoo Guuraaw,,3.3083,43.2594,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706441776
+Jameeco Misra,Jameeco Misra,Misra,2.5721,45.4953,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706997915
+Galool Dheere,Galool Dheere,,2.4714,44.8130,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,39.5,,,4,Africa/Mogadishu,FALSE,1706862648
+Scillale Bio Madda,Scillale Bio Madda,Soilali Bio Madda,10.5667,49.4833,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,30.4,,,4,Africa/Mogadishu,FALSE,1706796219
+Bulo Uar Uen,Bulo Uar Uen,,2.9333,43.0000,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,41.2,,,4,Africa/Mogadishu,FALSE,1706380222
+Gorayacowl,Gorayacowl,Gorayyaoul’|Goreyaaul,9.8690,43.2275,Somalia,SO,SOM,Awdal,Awdal,SO-AW,region,,108.4,,,4,Africa/Mogadishu,FALSE,1706867138
+Bilcisha,Bilcisha,,2.0447,42.3506,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706493513
+Dula Carcaraaf,Dula Carcaraaf,,8.8021,46.3902,Somalia,SO,SOM,Sool,Sool,SO-SO,region,,5.1,,,5,Africa/Mogadishu,FALSE,1706884298
+Dhaweynta,Dhaweynta,,1.7393,42.3436,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706988065
+Ceelshiikh,Ceelshiikh,,10.4392,44.2604,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706246860
+Karin Tuurwa,Karin Tuurwa,,11.0121,47.6101,Somalia,SO,SOM,Sanaag,Sanaag,SO-SA,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706757858
+Kabaxweyn,Kabaxweyn,Gaba Uen|Gabà Uein,4.0261,47.5444,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.3,,,4,Africa/Mogadishu,FALSE,1706960071
+Uel Merer,Uel Merer,,1.2833,41.9500,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706990248
+Ceel Buh,Ceel Buh,,9.0898,49.5872,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,6.5,,,5,Africa/Mogadishu,FALSE,1706075137
+Gololka,Gololka,,3.1315,43.1964,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706135436
+Balanbaal,Balanbaal,,8.8850,45.7706,Somalia,SO,SOM,Togdheer,Togdheer,SO-TO,region,,27.4,,,4,Africa/Mogadishu,FALSE,1706668145
+Xuunshaley,Xuunshaley,Khunshaley,9.7047,43.4125,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,28.7,,,4,Africa/Mogadishu,FALSE,1706836243
+Caliyo Marayle,Caliyo Marayle,,2.9350,43.3315,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,35.5,,,4,Africa/Mogadishu,FALSE,1706153139
+Baraale,Baraale,,1.7431,44.6840,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,303.3,,,3,Africa/Mogadishu,FALSE,1706740283
+Damaley,Damaley,,2.5077,45.4882,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,49.8,,,4,Africa/Mogadishu,FALSE,1706849556
+Abbannaale,Abbannaale,,2.2072,45.1399,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,76.7,,,4,Africa/Mogadishu,FALSE,1706320354
+Nassib Mohallim,Nassib Mohallim,,0.5000,42.7500,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,33.0,,,4,Africa/Mogadishu,FALSE,1706737694
+Jicibow,Jicibow,,4.0968,45.5191,Somalia,SO,SOM,Hiiraan,Hiiraan,SO-HI,region,,10.1,,,4,Africa/Mogadishu,FALSE,1706192680
+Uqoonta,Uqoonta,,2.8741,44.2055,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706905761
+Soomow,Soomow,,1.7977,42.5757,Somalia,SO,SOM,Jubbada Dhexe,Jubbada Dhexe,SO-JD,region,,11.7,,,4,Africa/Mogadishu,FALSE,1706106065
+Haluod,Haluod,,11.7667,50.5667,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,11.8,,,4,Africa/Mogadishu,FALSE,1706889595
+Idannug,Idannug,,3.8456,43.3230,Somalia,SO,SOM,Bakool,Bakool,SO-BK,region,,37.3,,,4,Africa/Mogadishu,FALSE,1706656314
+Goragiahor,Goragiahor,Goradzhakhor,5.3950,45.7106,Somalia,SO,SOM,Galguduud,Galguduud,SO-GA,region,,10.2,,,4,Africa/Mogadishu,FALSE,1706571077
+Koreey,Koreey,,2.2376,42.3278,Somalia,SO,SOM,Gedo,Gedo,SO-GE,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706839566
+Hararec,Hararec,Hararech,2.6833,44.1167,Somalia,SO,SOM,Bay,Bay,SO-BY,region,,10.5,,,4,Africa/Mogadishu,FALSE,1706231806
+Fiirfiirisa,Fiirfiirisa,Fur Fursa,0.6614,41.9103,Somalia,SO,SOM,Jubbada Hoose,Jubbada Hoose,SO-JH,region,,2.8,,,5,Africa/Mogadishu,FALSE,1706239572
+Buulo Eelay,Buulo Eelay,,2.7281,45.6006,Somalia,SO,SOM,Shabeellaha Dhexe,Shabeellaha Dhexe,SO-SD,region,,83.3,,,4,Africa/Mogadishu,FALSE,1706593280
+Magaalo,Magaalo,Magah|Magālo,10.4167,45.2333,Somalia,SO,SOM,Woqooyi Galbeed,Woqooyi Galbeed,SO-WO,region,,8.4,,,5,Africa/Mogadishu,FALSE,1706835457
+Dadabalo,Dadabalo,,11.2500,51.0333,Somalia,SO,SOM,Bari,Bari,SO-BR,region,,3.7,,,5,Africa/Mogadishu,FALSE,1706680394
+Dharkaynley,Dharkaynley,,1.7791,44.4982,Somalia,SO,SOM,Shabeellaha Hoose,Shabeellaha Hoose,SO-SH,region,,60.4,,,4,Africa/Mogadishu,FALSE,1706700710

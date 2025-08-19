@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Berlin,Berlin,,52.5200,13.4050,Germany,DE,DEU,Berlin,Berlin,DE-BE,state,primary,4211.4,4890363,3755251,1,Europe/Berlin,FALSE,1276451290
+Stuttgart,Stuttgart,Stutengarten,48.7775,9.1800,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,admin,3052.2,2787724,632865,1,Europe/Berlin,FALSE,1276171358
+Munich,Munich,Muenchen|Monaco|Münichen|München,48.1375,11.5750,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,admin,4867.4,2606021,1512491,1,Europe/Berlin,FALSE,1276692352
+Hamburg,Hamburg,,53.5500,10.0000,Germany,DE,DEU,Hamburg,Hamburg,DE-HH,state,admin,2505.8,2484800,1892122,1,Europe/Berlin,FALSE,1276041799
+Cologne,Cologne,Koeln|Köln|Augusta Ubiorum|Colonia Claudia Agrippina|Cöln|Colonia Agrippina|Colonia Agrippinensis,50.9364,6.9528,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,2678.5,1084831,1084831,1,Europe/Berlin,FALSE,1276015998
+Frankfurt,Frankfurt,Frankfort on the Main|Frankford-on-Main|Frankfurt am Main|Frankfort,50.1106,8.6822,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,3117.2,773068,773068,2,Europe/Berlin,FALSE,1276054552
+Düsseldorf,Dusseldorf,,51.2333,6.7833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,admin,2893.4,629047,629047,2,Europe/Berlin,FALSE,1276615258
+Leipzig,Leipzig,Lipsk,51.3400,12.3750,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,2068.8,616093,616093,2,Europe/Berlin,FALSE,1276563678
+Dortmund,Dortmund,Throtmenni,51.5139,7.4653,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2113.6,593317,593317,2,Europe/Berlin,FALSE,1276562886
+Essen,Essen,,51.4508,7.0131,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2779.2,584580,584580,2,Europe/Berlin,FALSE,1276769247
+Bremen,Bremen,Stadtgemeinde Bremen|Kreisfreie Stadt Bremen,53.0758,8.8072,Germany,DE,DEU,Bremen,Bremen,DE-HB,state,admin,1791.2,569396,569396,2,Europe/Berlin,FALSE,1276376509
+Dresden,Dresden,,51.0500,13.7400,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,admin,1714.9,563311,563311,2,Europe/Berlin,FALSE,1276561036
+Hannover,Hannover,Hanover|Honovere,52.3667,9.7167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,admin,2667.9,545045,545045,2,Europe/Berlin,FALSE,1276457707
+Nuremberg,Nuremberg,Nürnberg|Nurenberg|Nurenburg|Nuremburg,49.4539,11.0775,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,2606.3,523026,523026,2,Europe/Berlin,FALSE,1276166609
+Duisburg,Duisburg,Duisburg-Hamborn|Duisburg and Hamborn,51.4347,6.7625,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2157.3,502211,502211,2,Europe/Berlin,FALSE,1276977172
+Bochum,Bochum,,51.4819,7.2158,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2510.9,365742,365742,2,Europe/Berlin,FALSE,1276227288
+Wuppertal,Wuppertal,,51.2667,7.1833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2131.2,358876,358876,2,Europe/Berlin,FALSE,1276004611
+Bielefeld,Bielefeld,,52.0211,8.5347,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1307.2,338332,338332,2,Europe/Berlin,FALSE,1276112885
+Bonn,Bonn,,50.7333,7.1000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2386.3,336465,336465,2,Europe/Berlin,FALSE,1276807850
+Münster,Munster,Muenster|Munistri|Monasterium,51.9625,7.6256,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1058.2,320946,320946,2,Europe/Berlin,FALSE,1276714504
+Mannheim,Mannheim,,49.4878,8.4661,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,2176.7,315554,315554,2,Europe/Berlin,FALSE,1276150104
+Karlsruhe,Karlsruhe,Carlsruhe,49.0092,8.4040,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1779.4,308707,308707,2,Europe/Berlin,FALSE,1276923210
+Augsburg,Augsburg,Augsberg,48.3689,10.8978,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,2049.7,301033,301033,2,Europe/Berlin,FALSE,1276314100
+Wiesbaden,Wiesbaden,Aquae Mattiacae|Uisibada|Aquae Matticae|Aquae Mattiacorum|Wisibada,50.0825,8.2400,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,admin,1388.5,283083,283083,2,Europe/Berlin,FALSE,1276652118
+Mönchengladbach,Monchengladbach,Muenchen-Gladbach,51.2000,6.4333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1575.2,268465,268465,2,Europe/Berlin,FALSE,1276982173
+Gelsenkirchen,Gelsenkirchen,,51.5167,7.1000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2508.6,263000,263000,2,Europe/Berlin,FALSE,1276788537
+Aachen,Aachen,Aix-la-Chapelle|Aquae Grani|Aquae Granni|Kreisfreie Stadt Aachen,50.7756,6.0836,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1567.5,252136,252136,2,Europe/Berlin,FALSE,1276805572
+Braunschweig,Braunschweig,Brunswyck|Brunswick,52.2667,10.5167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1306.7,251804,251804,2,Europe/Berlin,FALSE,1276941443
+Chemnitz,Chemnitz,Karl-Marx-Stadt,50.8333,12.9167,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,1124.5,248563,248563,2,Europe/Berlin,FALSE,1276519956
+Kiel,Kiel,Kyle,54.3233,10.1394,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,admin,2088.7,247717,247717,2,Europe/Berlin,FALSE,1276305306
+Halle,Halle,Halle-on-the-Saale|Halle an der Saale,51.4828,11.9697,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,1792.9,242083,242083,2,Europe/Berlin,FALSE,1276167077
+Magdeburg,Magdeburg,,52.1317,11.6392,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,admin,1191.2,239364,239364,2,Europe/Berlin,FALSE,1276418236
+Freiburg im Breisgau,Freiburg im Breisgau,Freiburg,47.9950,7.8500,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1542.8,236140,236140,2,Europe/Berlin,FALSE,1276371228
+Krefeld,Krefeld,Crefeld|Krefeld-Uerdingen,51.3333,6.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1658.0,228426,228426,2,Europe/Berlin,FALSE,1276149829
+Mainz,Mainz,Mogontiacum|Mayence,49.9994,8.2736,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,admin,2256.5,220552,220552,2,Europe/Berlin,FALSE,1276801317
+Lübeck,Lubeck,Lübeck Hansestadt,53.8697,10.6864,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1018.5,218095,218095,2,Europe/Berlin,FALSE,1276852342
+Oberhausen,Oberhausen,,51.4967,6.8706,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2736.6,210824,210824,2,Europe/Berlin,FALSE,1276448936
+Rostock,Rostock,,54.0833,12.1333,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,,1157.5,209920,209920,2,Europe/Berlin,FALSE,1276210265
+Kassel,Kassel,Cassel|Castellum|Chasalla,51.3158,9.4979,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,1912.4,204202,204202,2,Europe/Berlin,FALSE,1276791686
+Hagen,Hagen,,51.3667,7.4833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1182.8,189783,189783,2,Europe/Berlin,FALSE,1276389303
+Potsdam,Potsdam,Poztupimi,52.4000,13.0667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,admin,986.7,185750,185750,2,Europe/Berlin,FALSE,1276395100
+Saarbrücken,Saarbrucken,,49.2333,7.0000,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,admin,1086.2,181959,181959,2,Europe/Berlin,FALSE,1276419711
+Hamm,Hamm,,51.6667,7.8167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,798.7,180849,180849,2,Europe/Berlin,FALSE,1276808737
+Ludwigshafen,Ludwigshafen,Ludwigshafen am Rhein,49.4811,8.4353,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,2243.4,174265,174265,2,Europe/Berlin,FALSE,1276912330
+Oldenburg,Oldenburg,,53.1439,8.2139,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1676.5,172830,172830,2,Europe/Berlin,FALSE,1276946953
+Mülheim,Mulheim,Mülheim-on-Ruhr|Mülheim an der Ruhr,51.4275,6.8825,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1889.2,172404,172404,2,Europe/Berlin,FALSE,1276676856
+Osnabrück,Osnabruck,,52.2833,8.0500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1394.7,167366,167366,2,Europe/Berlin,FALSE,1276554949
+Leverkusen,Leverkusen,,51.0333,6.9833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,2101.5,165748,165748,2,Europe/Berlin,FALSE,1276002465
+Heidelberg,Heidelberg,Heidelburg,49.4167,8.7167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1490.9,162273,162273,2,Europe/Berlin,FALSE,1276519742
+Darmstadt,Darmstadt,Darmundestadt,49.8722,8.6528,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,1327.4,162243,162243,2,Europe/Berlin,FALSE,1276607395
+Solingen,Solingen,,51.1667,7.0833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1795.9,160643,160643,2,Europe/Berlin,FALSE,1276728190
+Regensburg,Regensburg,Radaspona|Castra Regina|Ratisbon,49.0167,12.0833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1949.5,157443,157443,2,Europe/Berlin,FALSE,1276000325
+Herne,Herne,,51.5500,7.2167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,3060.4,157368,157368,2,Europe/Berlin,FALSE,1276656117
+Paderborn,Paderborn,Patrisbrunna,51.7181,8.7542,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,861.7,154755,154755,2,Europe/Berlin,FALSE,1276339087
+Neuss,Neuss,Neuß,51.2000,6.7000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1548.8,154139,154139,2,Europe/Berlin,FALSE,1276075502
+Ingolstadt,Ingolstadt,,48.7631,11.4250,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1057.6,141029,141029,2,Europe/Berlin,FALSE,1276803150
+Fürth,Furth,,49.4667,11.0000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,2074.7,131433,131433,2,Europe/Berlin,FALSE,1276580165
+Ulm,Ulm,,48.4000,9.9833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1086.3,128928,128928,2,Europe/Berlin,FALSE,1276002212
+Heilbronn,Heilbronn,Heilbronn Neckar,49.1500,9.2167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1285.3,128334,128334,2,Europe/Berlin,FALSE,1276377359
+Pforzheim,Pforzheim,Porta Hercyneae,48.8950,8.7050,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1307.5,127849,127849,2,Europe/Berlin,FALSE,1276732622
+Würzburg,Wurzburg,,49.7833,9.9333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1459.0,127810,127810,2,Europe/Berlin,FALSE,1276233514
+Wolfsburg,Wolfsburg,,52.4231,10.7872,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,615.6,125961,125961,2,Europe/Berlin,FALSE,1276033981
+Göttingen,Gottingen,,51.5339,9.9356,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1017.2,118946,118946,2,Europe/Berlin,FALSE,1276211234
+Bottrop,Bottrop,,51.5247,6.9228,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1174.0,118113,118113,2,Europe/Berlin,FALSE,1276473363
+Reutlingen,Reutlingen,,48.4833,9.2167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1350.2,117547,117547,2,Europe/Berlin,FALSE,1276256795
+Erlangen,Erlangen,,49.5833,11.0167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1515.8,116562,116562,2,Europe/Berlin,FALSE,1276339482
+Bremerhaven,Bremerhaven,Kreisfreie Stadt Bremerhaven|Stadtgemeinde Bremerhaven,53.5500,8.5833,Germany,DE,DEU,Bremen,Bremen,DE-HB,state,,1137.3,115468,115468,2,Europe/Berlin,FALSE,1276991229
+Koblenz,Koblenz,Coblenz|Coblence|Coblentz|Confluentes|Coblenza,50.3597,7.5978,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,1097.6,115268,115268,2,Europe/Berlin,FALSE,1276605495
+Bergisch Gladbach,Bergisch Gladbach,,50.9918,7.1303,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1356.5,112712,112712,2,Europe/Berlin,FALSE,1276074373
+Remscheid,Remscheid,,51.1833,7.2000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1509.6,112613,112613,2,Europe/Berlin,FALSE,1276043920
+Trier,Trier,Augusta Treverorum|Trèves|Tréier,49.7567,6.6414,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,958.4,112195,112195,2,Europe/Berlin,FALSE,1276211430
+Recklinghausen,Recklinghausen,,51.5850,7.1619,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1682.7,111734,111734,2,Europe/Berlin,FALSE,1276179876
+Jena,Jena,,50.9272,11.5861,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,968.9,111191,111191,2,Europe/Berlin,FALSE,1276659978
+Moers,Moers,Mörs,51.4592,6.6197,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1555.4,105287,105287,2,Europe/Berlin,FALSE,1276257182
+Salzgitter,Salzgitter,,52.1500,10.3333,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,128.5,104548,104548,2,Europe/Berlin,FALSE,1276613066
+Siegen,Siegen,,50.8833,8.0167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,899.6,102560,102560,2,Europe/Berlin,FALSE,1276268768
+Gütersloh,Gutersloh,,51.9000,8.3833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,914.1,102393,102393,2,Europe/Berlin,FALSE,1276587494
+Hildesheim,Hildesheim,,52.1500,9.9500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1095.7,101858,101858,2,Europe/Berlin,FALSE,1276244190
+Hanau,Hanau,Hanau am Main,50.1328,8.9169,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,1325.5,101364,101364,2,Europe/Berlin,FALSE,1276550409
+Kaiserslautern,Kaiserslautern,Kaiserlautern|Kaiserslantern|Lutra|K-Town,49.4447,7.7689,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,724.5,101228,101228,2,Europe/Berlin,FALSE,1276674534
+Cottbus,Cottbus,Kottbus|Chóśebuz,51.7606,14.3342,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,605.8,99515,99515,3,Europe/Berlin,FALSE,1276436655
+Schwerin,Schwerin,,53.6333,11.4167,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,admin,543.4,98596,98596,2,Europe/Berlin,FALSE,1276221707
+Witten,Witten,,51.4333,7.3333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1325.1,95897,95897,3,Europe/Berlin,FALSE,1276004960
+Esslingen,Esslingen,Eszlingen|Eszlingen am Neckar,48.7333,9.3167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,2045.7,94941,94941,2,Europe/Berlin,FALSE,1276510955
+Ludwigsburg,Ludwigsburg,,48.8975,9.1922,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,2157.1,94157,94157,2,Europe/Berlin,FALSE,1276803720
+Gießen,Giessen,Giessen,50.5833,8.6667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,1297.5,94146,94146,3,Europe/Berlin,FALSE,1276576770
+Gera,Gera,,50.8806,12.0833,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,615.2,93634,93634,3,Europe/Berlin,FALSE,1276548165
+Düren,Duren,,50.8000,6.4833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1096.6,93207,93207,3,Europe/Berlin,TRUE,1276181957
+Tübingen,Tubingen,,48.5200,9.0556,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,858.3,92811,92811,3,Europe/Berlin,FALSE,1276203240
+Flensburg,Flensburg,Flensborg,54.7819,9.4367,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1641.5,92550,92550,3,Europe/Berlin,FALSE,1276853315
+Iserlohn,Iserlohn,,51.3833,7.6667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,737.4,92540,92540,3,Europe/Berlin,FALSE,1276837267
+Villingen-Schwenningen,Villingen-Schwenningen,,48.0603,8.4586,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,533.0,88213,88213,3,Europe/Berlin,FALSE,1276450523
+Ratingen,Ratingen,,51.3000,6.8500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,984.8,87388,87388,3,Europe/Berlin,FALSE,1276005433
+Zwickau,Zwickau,Stadt Zwickau,50.7167,12.5000,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,850.1,87172,87172,3,Europe/Berlin,FALSE,1276683623
+Lünen,Lunen,,51.6167,7.5167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1472.3,86868,86868,3,Europe/Berlin,FALSE,1276959723
+Konstanz,Konstanz,Constance,47.6667,9.1833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1590.0,85859,85859,3,Europe/Berlin,FALSE,1276601373
+Worms,Worms,Borbetomagus|Wormatia,49.6319,8.3653,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,778.5,84646,84646,3,Europe/Berlin,FALSE,1276944683
+Marl,Marl,,51.6667,7.1167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,960.9,84331,84331,3,Europe/Berlin,FALSE,1276451667
+Minden,Minden,,52.2883,8.9167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,821.6,83076,83076,3,Europe/Berlin,FALSE,1276191164
+Velbert,Velbert,,51.3333,7.0500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1100.7,82445,82445,3,Europe/Berlin,FALSE,1276896645
+Norderstedt,Norderstedt,,53.7064,10.0103,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1409.3,81880,81880,3,Europe/Berlin,FALSE,1276872953
+Bamberg,Bamberg,,49.8914,10.8869,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1307.3,79935,79935,3,Europe/Berlin,FALSE,1276824274
+Dessau-Rosslau,Dessau-Rosslau,,51.8333,12.2333,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,325.5,79655,79655,3,Europe/Berlin,FALSE,1276983641
+Neumünster,Neumunster,,54.0714,9.9900,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1109.4,79502,79502,3,Europe/Berlin,FALSE,1276757733
+Delmenhorst,Delmenhorst,,53.0506,8.6317,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,1255.2,78385,78385,3,Europe/Berlin,FALSE,1276098664
+Viersen,Viersen,,51.2561,6.3972,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,858.5,78208,78208,3,Europe/Berlin,FALSE,1276629059
+Rheine,Rheine,,52.2833,7.4333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,537.2,77893,77893,3,Europe/Berlin,FALSE,1276882978
+Marburg,Marburg,Marburg an der Lahn,50.8100,8.7708,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,628.2,77845,77845,3,Europe/Berlin,FALSE,1276012023
+Lüneburg,Luneburg,Luneberg,53.2525,10.4144,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,101.8,76837,76837,3,Europe/Berlin,FALSE,1276001423
+Dorsten,Dorsten,,51.6600,6.9642,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,448.1,76720,76720,3,Europe/Berlin,FALSE,1276397774
+Troisdorf,Troisdorf,,50.8161,7.1556,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1225.9,76251,76251,3,Europe/Berlin,FALSE,1276488227
+Wilhelmshaven,Wilhelmshaven,,53.5286,8.1056,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,710.6,76089,76089,3,Europe/Berlin,FALSE,1276324633
+Gladbeck,Gladbeck,,51.5667,6.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,2109.8,75889,75889,2,Europe/Berlin,FALSE,1276216238
+Landshut,Landshut,,48.5397,12.1508,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1041.3,75457,75457,3,Europe/Berlin,FALSE,1276485277
+Detmold,Detmold,,51.9378,8.8833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,5.8,75089,75089,3,Europe/Berlin,FALSE,1276802316
+Bayreuth,Bayreuth,,49.9481,11.5783,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1113.4,74506,74506,3,Europe/Berlin,FALSE,1276275069
+Arnsberg,Arnsberg,,51.3833,8.0833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,383.7,74323,74323,3,Europe/Berlin,FALSE,1276285824
+Castrop-Rauxel,Castrop-Rauxel,Stadt Castrop-Rauxel,51.5500,7.3167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1419.1,73795,73795,3,Europe/Berlin,FALSE,1276873073
+Brandenburg,Brandenburg,Brandenburg an der Havel,52.4167,12.5333,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,320.4,73609,73609,3,Europe/Berlin,FALSE,1276372220
+Aschaffenburg,Aschaffenburg,Auscheffenburg|A-Burg,49.9667,9.1500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1160.0,72444,72444,3,Europe/Berlin,FALSE,1276069907
+Bocholt,Bocholt,,51.8333,6.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,602.6,71930,71930,3,Europe/Berlin,FALSE,1276001655
+Lüdenscheid,Ludenscheid,Leudenscheid|Luedenscheid,51.2167,7.6333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,825.8,71865,71865,3,Europe/Berlin,FALSE,1276839426
+Celle,Celle,,52.6256,10.0825,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,398.5,70138,70138,3,Europe/Berlin,FALSE,1276282135
+Kempten,Kempten,,47.7333,10.3167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1106.9,70056,70056,3,Europe/Berlin,FALSE,1276008842
+Fulda,Fulda,Fuldaha,50.5508,9.6753,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,672.4,69968,69968,3,Europe/Berlin,FALSE,1276669051
+Lippstadt,Lippstadt,,51.6667,8.3500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,606.0,68890,68890,3,Europe/Berlin,FALSE,1276820778
+Aalen,Aalen,,48.8333,10.1000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,469.3,68816,68816,3,Europe/Berlin,FALSE,1276757787
+Dinslaken,Dinslaken,,51.5667,6.7333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1421.5,67762,67762,3,Europe/Berlin,FALSE,1276055868
+Herford,Herford,,52.1333,8.6833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,852.2,67459,67459,3,Europe/Berlin,FALSE,1276588147
+Rüsselsheim,Russelsheim,,50.0000,8.4333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1154.0,67277,67277,3,Europe/Berlin,FALSE,1276969472
+Kerpen,Kerpen,,50.8719,6.6961,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,590.0,67239,67239,3,Europe/Berlin,FALSE,1276675138
+Neuwied,Neuwied,Neuweid|Langendorf,50.4286,7.4614,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,762.8,65986,65986,3,Europe/Berlin,FALSE,1276935443
+Weimar,Weimar,,50.9811,11.3294,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,776.8,65620,65620,3,Europe/Berlin,FALSE,1276053525
+Dormagen,Dormagen,,51.1000,6.8167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,762.0,65147,65147,3,Europe/Berlin,FALSE,1276688551
+Sindelfingen,Sindelfingen,,48.7133,9.0028,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1278.9,64995,64995,3,Europe/Berlin,FALSE,1276001469
+Plauen,Plauen,,50.4833,12.1167,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,634.2,64763,64763,3,Europe/Berlin,FALSE,1276134198
+Grevenbroich,Grevenbroich,,51.0883,6.5875,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,630.8,64596,64596,3,Europe/Berlin,FALSE,1276215861
+Rosenheim,Rosenheim,,47.8500,12.1333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1716.5,64403,64403,3,Europe/Berlin,FALSE,1276301675
+Neubrandenburg,Neubrandenburg,,53.5569,13.2611,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,747.1,63989,63989,3,Europe/Berlin,FALSE,1276954105
+Friedrichshafen,Friedrichshafen,Buchhorn,47.6500,9.4833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,901.0,62932,62932,3,Europe/Berlin,FALSE,1276002705
+Herten,Herten,,51.6000,7.1333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1673.5,62473,62473,3,Europe/Berlin,FALSE,1276440470
+Bergheim,Bergheim,Bergheim an der Erft,50.9667,6.6500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,647.5,62376,62376,3,Europe/Berlin,TRUE,1276980188
+Schwäbisch Gmünd,Schwabisch Gmund,Gmünd,48.8000,9.8000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,547.8,62325,62325,3,Europe/Berlin,FALSE,1276897251
+Offenburg,Offenburg,,48.4667,7.9333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,786.3,61670,61670,3,Europe/Berlin,FALSE,1276214401
+Garbsen,Garbsen,,52.4183,9.5981,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,773.4,61349,61349,3,Europe/Berlin,FALSE,1276318243
+Wesel,Wesel,,51.6586,6.6178,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,500.4,61330,61330,3,Europe/Berlin,FALSE,1276261527
+Neu-Ulm,Neu-Ulm,,48.3833,10.0000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,754.1,61043,61043,3,Europe/Berlin,FALSE,1276071813
+Hürth,Hurth,,50.8775,6.8761,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1190.3,60969,60969,3,Europe/Berlin,FALSE,1276025332
+Unna,Unna,,51.5347,7.6889,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,687.6,60892,60892,3,Europe/Berlin,FALSE,1276028114
+Langenfeld,Langenfeld,,51.1167,6.9500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1452.8,59783,59783,3,Europe/Berlin,FALSE,1276016003
+Euskirchen,Euskirchen,,50.6597,6.7917,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,428.5,59772,59772,3,Europe/Berlin,FALSE,1276782162
+Greifswald,Greifswald,Griefswald,54.0833,13.3833,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,1174.8,59691,59691,3,Europe/Berlin,FALSE,1276867765
+Stralsund,Stralsund,,54.3092,13.0819,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,1523.3,59363,59363,3,Europe/Berlin,FALSE,1276640152
+Göppingen,Goppingen,,48.7025,9.6528,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,988.8,59053,59053,3,Europe/Berlin,FALSE,1276730715
+Frankfurt (Oder),Frankfurt (Oder),Frankfurt an der Oder|Frankfurt/Oder|Frankfurt|Frankfort on the Oder,52.3419,14.5517,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,393.8,58230,58230,3,Europe/Berlin,FALSE,1276397323
+Hameln,Hameln,,52.1000,9.3667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,566.0,57905,57905,3,Europe/Berlin,FALSE,1276101153
+Meerbusch,Meerbusch,,51.2667,6.6667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,891.8,57422,57422,3,Europe/Berlin,FALSE,1276882223
+Baden-Baden,Baden-Baden,Baden|Aquae Aureliae|Aurelia Aquensis|Aquae,48.7628,8.2408,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,406.8,57025,57025,3,Europe/Berlin,FALSE,1276150269
+Görlitz,Gorlitz,Goerlitz,51.1528,14.9872,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,837.9,56574,56574,3,Europe/Berlin,FALSE,1276000121
+Lingen,Lingen,,52.5231,7.3231,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,320.9,56542,56542,3,Europe/Berlin,FALSE,1276978218
+Stolberg,Stolberg,,50.7667,6.2333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,573.3,56455,56455,3,Europe/Berlin,FALSE,1276202704
+Sankt Augustin,Sankt Augustin,,50.7700,7.1867,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1647.3,56369,56369,3,Europe/Berlin,FALSE,1276196312
+Waiblingen,Waiblingen,,48.8303,9.3169,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1311.8,56081,56081,3,Europe/Berlin,FALSE,1276678986
+Eschweiler,Eschweiler,,50.8167,6.2833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,739.9,56049,56049,3,Europe/Berlin,FALSE,1276835632
+Hilden,Hilden,,51.1714,6.9394,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,2150.9,55815,55815,2,Europe/Berlin,FALSE,1276577152
+Pulheim,Pulheim,,51.0000,6.8000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,769.6,55530,55530,3,Europe/Berlin,FALSE,1276728926
+Langenhagen,Langenhagen,,52.4394,9.7400,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,769.3,55367,55367,3,Europe/Berlin,FALSE,1276031765
+Nordhorn,Nordhorn,,52.4319,7.0678,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,368.6,55242,55242,3,Europe/Berlin,FALSE,1276078036
+Bad Homburg,Bad Homburg,Bad Homburg vor der Höhe|Homburg vor der Höhe,50.2167,8.6000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,1074.8,54996,54996,3,Europe/Berlin,FALSE,1276019348
+Bad Salzuflen,Bad Salzuflen,,52.0833,8.7467,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,547.8,54808,54808,3,Europe/Berlin,FALSE,1276526163
+Schweinfurt,Schweinfurt,,50.0500,10.2333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1531.5,54675,54675,3,Europe/Berlin,FALSE,1276316912
+Hattingen,Hattingen,,51.3992,7.1858,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,762.3,54637,54637,3,Europe/Berlin,FALSE,1276698647
+Wetzlar,Wetzlar,,50.5667,8.5000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,716.1,54187,54187,3,Europe/Berlin,FALSE,1276020868
+Neustadt,Neustadt,Neustadt an der Weinstraße|Neustadt an der Haardt,49.3500,8.1500,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,461.0,53981,53981,3,Europe/Berlin,FALSE,1276053769
+Passau,Passau,,48.5744,13.4647,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,774.7,53907,53907,3,Europe/Berlin,FALSE,1276123699
+Kleve,Kleve,Cleves|Cleve|Cleeve,51.7900,6.1400,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,546.1,53388,53388,3,Europe/Berlin,FALSE,1276674243
+Ahlen,Ahlen,,51.7633,7.8911,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,433.2,53348,53348,3,Europe/Berlin,FALSE,1276843072
+Frechen,Frechen,,50.9167,6.8167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1170.7,52811,52811,3,Europe/Berlin,FALSE,1276255319
+Wolfenbüttel,Wolfenbuttel,,52.1622,10.5369,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,670.2,52681,52681,3,Europe/Berlin,FALSE,1276388010
+Bad Kreuznach,Bad Kreuznach,Kreuznach,49.8500,7.8667,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,945.4,52529,52529,3,Europe/Berlin,FALSE,1276733459
+Ibbenbüren,Ibbenburen,,52.2778,7.7167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,481.5,52421,52421,3,Europe/Berlin,FALSE,1276476330
+Gummersbach,Gummersbach,,51.0333,7.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,545.0,52001,52001,3,Europe/Berlin,FALSE,1276576027
+Ravensburg,Ravensburg,,47.7831,9.6114,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,559.4,51482,51482,3,Europe/Berlin,FALSE,1276088263
+Böblingen,Boblingen,Boeblingen,48.6856,9.0153,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1316.8,51460,51460,3,Europe/Berlin,FALSE,1276001231
+Peine,Peine,,52.3203,10.2336,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,429.0,51411,51411,3,Europe/Berlin,FALSE,1276331439
+Speyer,Speyer,Noviomagus|Spires,49.3194,8.4311,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,1206.4,51368,51368,3,Europe/Berlin,FALSE,1276684984
+Rastatt,Rastatt,,48.8500,8.2000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,869.7,51310,51310,3,Europe/Berlin,FALSE,1276684629
+Elmshorn,Elmshorn,,53.7519,9.6511,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,2377.0,50772,50772,2,Europe/Berlin,FALSE,1276091723
+Emden,Emden,,53.3669,7.2061,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,449.8,50535,50535,3,Europe/Berlin,FALSE,1276309938
+Goslar,Goslar,,51.9072,10.4300,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,306.3,50203,50203,3,Europe/Berlin,FALSE,1276608610
+Willich,Willich,,51.2631,6.5492,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,739.6,50144,50144,3,Europe/Berlin,FALSE,1276849706
+Heidenheim,Heidenheim,Heidenheim an der Brenz|Heidenheim in Württemberg,48.6761,10.1544,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,466.9,50025,50025,3,Europe/Berlin,FALSE,1276168895
+Erftstadt,Erftstadt,,50.8167,6.7667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,416.1,49882,49882,3,Europe/Berlin,FALSE,1276479094
+Lörrach,Lorrach,,47.6167,7.6667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,1265.2,49876,49876,3,Europe/Berlin,FALSE,1276104619
+Cuxhaven,Cuxhaven,,53.8611,8.6944,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,307.9,49854,49854,3,Europe/Berlin,FALSE,1276511789
+Gronau,Gronau,,52.2125,7.0417,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,632.1,49824,49824,3,Europe/Berlin,FALSE,1276262054
+Leonberg,Leonberg,Leonsberg,48.8014,9.0131,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1015.8,49512,49512,3,Europe/Berlin,FALSE,1276002040
+Rheda-Wiedenbrück,Rheda-Wiedenbruck,,51.8417,8.3000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,570.6,49486,49486,3,Europe/Berlin,FALSE,1276045371
+Bad Oeynhausen,Bad Oeynhausen,Bad Oeyhausen,52.2000,8.8000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,763.2,49477,49477,3,Europe/Berlin,FALSE,1276503412
+Singen,Singen,,47.7628,8.8400,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,800.5,49441,49441,3,Europe/Berlin,FALSE,1276550938
+Freising,Freising,Freysing,48.4028,11.7489,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,557.8,49339,49339,3,Europe/Berlin,FALSE,1276519005
+Bergkamen,Bergkamen,,51.6167,7.6333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1097.2,49263,49263,3,Europe/Berlin,FALSE,1276603807
+Straubing,Straubing,,48.8833,12.5667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,727.5,49164,49164,3,Europe/Berlin,FALSE,1276278805
+Frankenthal,Frankenthal,,49.5333,8.3500,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,1117.8,49051,49051,3,Europe/Berlin,FALSE,1276888667
+Bornheim,Bornheim,,50.7592,7.0050,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,592.9,49025,49025,3,Europe/Berlin,TRUE,1276585020
+Soest,Soest,,51.5711,8.1092,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,566.4,48607,48607,3,Europe/Berlin,FALSE,1276851034
+Stade,Stade,,53.6008,9.4764,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,439.4,48353,48353,3,Europe/Berlin,FALSE,1276472720
+Alsdorf,Alsdorf,,50.8833,6.1667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1525.5,48328,48328,3,Europe/Berlin,FALSE,1276261156
+Dachau,Dachau,,48.2603,11.4342,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1382.9,48195,48195,3,Europe/Berlin,FALSE,1276549079
+Hennef,Hennef,,50.7833,7.2833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,453.3,48002,48002,3,Europe/Berlin,FALSE,1276962178
+Oranienburg,Oranienburg,,52.7544,13.2369,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,294.1,47752,47752,3,Europe/Berlin,FALSE,1276677137
+Landau,Landau,Landau in der Pfalz,49.2000,8.1167,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,574.0,47610,47610,3,Europe/Berlin,FALSE,1276000837
+Dülmen,Dulmen,,51.8308,7.2783,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,257.3,47468,47468,3,Europe/Berlin,TRUE,1276703649
+Melle,Melle,,52.2044,8.3389,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,186.0,47228,47228,3,Europe/Berlin,FALSE,1276489872
+Herzogenrath,Herzogenrath,,50.8667,6.1000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1406.3,46941,46941,3,Europe/Berlin,FALSE,1276873875
+Neunkirchen,Neunkirchen,,49.3500,7.1667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,minor,622.9,46882,46882,3,Europe/Berlin,FALSE,1276274217
+Schwerte,Schwerte,,51.4458,7.5653,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,829.8,46658,46658,3,Europe/Berlin,FALSE,1276720376
+Hof,Hof,,50.3167,11.9167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,804.1,46656,46656,3,Europe/Berlin,FALSE,1276561363
+Bruchsal,Bruchsal,,49.1333,8.6000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,502.2,46587,46587,3,Europe/Berlin,FALSE,1276034362
+Rodgau,Rodgau,,50.0167,8.8833,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,713.8,46426,46426,3,Europe/Berlin,FALSE,1276173536
+Albstadt,Albstadt,,48.2119,9.0239,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,345.4,46422,46422,3,Europe/Berlin,FALSE,1276969750
+Halle-Neustadt,Halle-Neustadt,Neustadt,51.4789,11.9214,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,4726.3,46280,46280,2,Europe/Berlin,FALSE,1276281757
+Filderstadt,Filderstadt,,48.6803,9.2183,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1198.4,46188,46188,3,Europe/Berlin,FALSE,1276952389
+Bünde,Bunde,,52.2000,8.6000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,776.2,46030,46030,3,Europe/Berlin,FALSE,1276719683
+Gotha,Gotha,,50.9492,10.7050,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,661.4,46019,46019,3,Europe/Berlin,FALSE,1276679639
+Fellbach,Fellbach,,48.8086,9.2758,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1656.3,45896,45896,3,Europe/Berlin,FALSE,1276083210
+Memmingen,Memmingen,,47.9878,10.1811,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,654.1,45857,45857,3,Europe/Berlin,FALSE,1276229376
+Kaufbeuren,Kaufbeuren,,47.8800,10.6225,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1144.2,45792,45792,3,Europe/Berlin,FALSE,1276496301
+Weinheim,Weinheim,,49.5500,8.6667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,772.6,45275,45275,3,Europe/Berlin,FALSE,1276001742
+Neustadt am Rübenberge,Neustadt am Rubenberge,Neustadt,52.5000,9.4667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,126.6,45262,45262,3,Europe/Berlin,FALSE,1276887904
+Lehrte,Lehrte,,52.3667,9.9667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,351.1,44823,44823,3,Europe/Berlin,FALSE,1276716840
+Falkensee,Falkensee,,52.5583,13.0917,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,1034.8,44806,44806,3,Europe/Berlin,FALSE,1276126886
+Brühl,Bruhl,,50.8333,6.9000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1240.4,44804,44804,3,Europe/Berlin,FALSE,1276307796
+Pinneberg,Pinneberg,,53.6333,9.8000,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,2055.7,44279,44279,2,Europe/Berlin,FALSE,1276865707
+Kaarst,Kaarst,,51.2167,6.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1180.7,44253,44253,3,Europe/Berlin,FALSE,1276322915
+Erkelenz,Erkelenz,,51.0833,6.3167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,376.8,44215,44215,3,Europe/Berlin,FALSE,1276067473
+Wismar,Wismar,,53.9000,11.4667,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,1051.7,43878,43878,3,Europe/Berlin,FALSE,1276660084
+Erkrath,Erkrath,,51.2239,6.9147,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1631.5,43856,43856,3,Europe/Berlin,FALSE,1276917229
+Bietigheim-Bissingen,Bietigheim-Bissingen,,48.9667,9.1333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1409.2,43755,43755,3,Europe/Berlin,FALSE,1276916733
+Gifhorn,Gifhorn,,52.4886,10.5464,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,413.9,43625,43625,3,Europe/Berlin,FALSE,1276793894
+Borken,Borken,,51.8333,6.8667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,285.0,43489,43489,3,Europe/Berlin,FALSE,1276778327
+Heinsberg,Heinsberg,Heinsburg,51.0631,6.0964,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,471.5,43476,43476,3,Europe/Berlin,FALSE,1276000099
+Nettetal,Nettetal,,51.3167,6.2833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,515.2,43095,43095,3,Europe/Berlin,FALSE,1276049262
+Kamen,Kamen,,51.5917,7.6653,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1051.5,43058,43058,3,Europe/Berlin,FALSE,1276465116
+Aurich,Aurich,,53.4714,7.4836,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,217.8,42970,42970,3,Europe/Berlin,FALSE,1276424784
+Laatzen,Laatzen,,52.3167,9.8000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,1249.3,42675,42675,3,Europe/Berlin,FALSE,1276954154
+Amberg,Amberg,,49.4444,11.8483,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,780.2,42534,42534,3,Europe/Berlin,FALSE,1276551955
+Seevetal,Seevetal,,53.3833,9.9667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,403.0,42449,42449,3,Europe/Berlin,FALSE,1276709038
+Eisenach,Eisenach,,50.9761,10.3206,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,407.1,42408,42408,3,Europe/Berlin,FALSE,1276000880
+Homburg,Homburg,,49.3167,7.3333,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,minor,512.0,42297,42297,3,Europe/Berlin,FALSE,1276520056
+Dreieich,Dreieich,,50.0000,8.7000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,793.3,42260,42260,3,Europe/Berlin,FALSE,1276481123
+Ansbach,Ansbach,,49.3000,10.5833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,422.5,42221,42221,3,Europe/Berlin,FALSE,1276572551
+Bensheim,Bensheim,,49.6667,8.6167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,727.8,42089,42089,3,Europe/Berlin,FALSE,1276256416
+Siegburg,Siegburg,,50.8014,7.2044,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1791.6,42049,42049,3,Europe/Berlin,FALSE,1276838674
+Kirchheim unter Teck,Kirchheim unter Teck,Kirchheim,48.6483,9.4511,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1035.5,41907,41907,3,Europe/Berlin,FALSE,1276389368
+Schwäbisch Hall,Schwabisch Hall,Hall,49.1122,9.7375,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,401.8,41898,41898,3,Europe/Berlin,FALSE,1276556451
+Coburg,Coburg,Koburg,50.2667,10.9667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,866.3,41842,41842,3,Europe/Berlin,FALSE,1276428862
+Wunstorf,Wunstorf,,52.4275,9.4294,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,331.5,41689,41689,3,Europe/Berlin,FALSE,1276079483
+Königswinter,Konigswinter,,50.6736,7.1947,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,544.8,41495,41495,3,Europe/Berlin,FALSE,1276951419
+Eberswalde,Eberswalde,,52.8333,13.8333,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,712.8,41461,41461,3,Europe/Berlin,FALSE,1276311453
+Nürtingen,Nurtingen,,48.6333,9.3333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,883.4,41403,41403,3,Europe/Berlin,FALSE,1276408465
+Germering,Germering,,48.1333,11.3667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1913.7,41355,41355,3,Europe/Berlin,FALSE,1276002965
+Nordhausen,Nordhausen,,51.5050,10.7911,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,381.9,41339,41339,3,Europe/Berlin,FALSE,1276946322
+Hückelhoven,Huckelhoven,,51.0608,6.2197,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,674.1,41301,41301,3,Europe/Berlin,FALSE,1276391695
+Schwabach,Schwabach,,49.3292,11.0208,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1010.5,41227,41227,3,Europe/Berlin,FALSE,1276017987
+Buxtehude,Buxtehude,,53.4769,9.7011,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,533.6,40919,40919,3,Europe/Berlin,FALSE,1276767530
+Buchholz in der Nordheide,Buchholz in der Nordheide,Buchholz,53.3167,9.8667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,546.9,40810,40810,3,Europe/Berlin,FALSE,1276859084
+Neumarkt,Neumarkt,Neumarkt in der Oberpfalz|Stadt Neumarkt in der Oberpfalz,49.2833,11.4667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,516.5,40808,40808,3,Europe/Berlin,FALSE,1276002746
+Pirmasens,Pirmasens,,49.2000,7.6000,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,662.9,40682,40682,3,Europe/Berlin,FALSE,1276000134
+Lemgo,Lemgo,,52.0272,8.9117,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,402.5,40594,40594,3,Europe/Berlin,FALSE,1276164957
+Freiberg,Freiberg,Freiburg,50.9119,13.3428,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,837.9,40485,40485,3,Europe/Berlin,FALSE,1276914988
+Halberstadt,Halberstadt,,51.8958,11.0467,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,283.0,40457,40457,3,Europe/Berlin,FALSE,1276900818
+Leinfelden-Echterdingen,Leinfelden-Echterdingen,,48.6928,9.1428,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1351.8,40420,40420,3,Europe/Berlin,FALSE,1276447188
+Hofheim,Hofheim,Hofheim in Taunus|Hofheim am Taunus,50.0833,8.4500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,703.0,40371,40371,3,Europe/Berlin,FALSE,1276364825
+Löhne,Lohne,,52.2000,8.7000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,677.7,40265,40265,3,Europe/Berlin,FALSE,1276788847
+Ahaus,Ahaus,,52.0667,7.0000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,266.1,40245,40245,3,Europe/Berlin,FALSE,1276411347
+Schorndorf,Schorndorf,,48.8000,9.5333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,707.3,40204,40204,3,Europe/Berlin,FALSE,1276068626
+Völklingen,Volklingen,,49.2500,6.8333,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,599.3,40192,40192,3,Europe/Berlin,FALSE,1276052749
+Maintal,Maintal,,50.1500,8.8333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1228.9,39815,39815,3,Europe/Berlin,FALSE,1276616960
+Ostfildern,Ostfildern,,48.7333,9.2500,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1748.9,39806,39806,3,Europe/Berlin,FALSE,1276855000
+Ettlingen,Ettlingen,,48.9333,8.4000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,699.7,39699,39699,3,Europe/Berlin,FALSE,1276126657
+Freital,Freital,Freithal,51.0167,13.6500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,977.9,39558,39558,3,Europe/Berlin,FALSE,1276672229
+Neu Isenburg,Neu Isenburg,Neulsenburg,50.0500,8.7000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1617.4,39287,39287,3,Europe/Berlin,FALSE,1276467901
+Niederkassel,Niederkassel,,50.8167,7.0333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1097.5,39281,39281,3,Europe/Berlin,TRUE,1276316077
+Langen,Langen,,49.9833,8.6667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1346.7,39217,39217,3,Europe/Berlin,FALSE,1276365275
+Mettmann,Mettmann,,51.2500,6.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,919.5,39134,39134,3,Europe/Berlin,FALSE,1276000749
+Ilmenau,Ilmenau,Stadt Ilmenau,50.6839,10.9194,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,232.6,39127,39127,3,Europe/Berlin,FALSE,1276541405
+Stendal,Stendal,Hansestadt Stendal,52.6000,11.8500,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,145.9,39105,39105,3,Europe/Berlin,FALSE,1276016814
+Pirna,Pirna,,50.9622,13.9403,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,736.0,39054,39054,3,Europe/Berlin,FALSE,1276247543
+Weißenfels,Weissenfels,,51.2000,11.9667,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,343.8,39041,39041,3,Europe/Berlin,FALSE,1276292106
+Königs Wusterhausen,Konigs Wusterhausen,,52.2917,13.6250,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,405.3,38929,38929,3,Europe/Berlin,FALSE,1276871907
+Kamp-Lintfort,Kamp-Lintfort,,51.5000,6.5333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,612.2,38665,38665,3,Europe/Berlin,FALSE,1276081102
+Würselen,Wurselen,,50.8167,6.1333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1122.4,38598,38598,3,Europe/Berlin,FALSE,1276620771
+Papenburg,Papenburg,,53.0667,7.4000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,325.5,38556,38556,3,Europe/Berlin,FALSE,1276460693
+Greven,Greven,,52.0917,7.6083,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,272.4,38207,38207,3,Europe/Berlin,FALSE,1276669554
+Wesseling,Wesseling,,50.8167,6.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1632.1,38192,38192,3,Europe/Berlin,FALSE,1276392642
+Kehl,Kehl,Kehl im Hanauerland|Kehl am Rhein|Kiel|Stadt Kehl,48.5667,7.8167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,508.5,38154,38154,3,Europe/Berlin,FALSE,1276615908
+Bautzen,Bautzen,Budyšin,51.1814,14.4242,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,572.1,38140,38140,3,Europe/Berlin,FALSE,1276088190
+Backnang,Backnang,,48.9464,9.4306,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,963.4,37957,37957,3,Europe/Berlin,FALSE,1276031423
+Bitterfeld,Bitterfeld,Bitterfelde,51.6167,12.3167,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,435.8,37894,37894,3,Europe/Berlin,FALSE,1276169908
+Fürstenfeldbruck,Furstenfeldbruck,Fuerstenfeldburg|Furstenfeld|Bruck,48.1778,11.2556,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,1159.1,37695,37695,3,Europe/Berlin,FALSE,1276347995
+Warendorf,Warendorf,,51.9539,7.9933,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,212.7,37616,37616,3,Europe/Berlin,FALSE,1276005733
+Tuttlingen,Tuttlingen,,47.9850,8.8233,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,413.9,37458,37458,3,Europe/Berlin,FALSE,1276649477
+Beckum,Beckum,,51.7550,8.0403,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,313.7,37333,37333,3,Europe/Berlin,FALSE,1276000534
+Cloppenburg,Cloppenburg,,52.8500,8.0500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,522.9,37056,37056,3,Europe/Berlin,FALSE,1276769960
+Coesfeld,Coesfeld,Koesfeld,51.9500,7.1667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,262.0,37030,37030,3,Europe/Berlin,FALSE,1276053897
+Suhl,Suhl,,50.6106,10.6931,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,261.3,37009,37009,3,Europe/Berlin,FALSE,1276059886
+Erding,Erding,Aerding|Erding As,48.2833,11.9000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,673.7,36813,36813,3,Europe/Berlin,FALSE,1276458355
+Sinsheim,Sinsheim,,49.2500,8.8833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,288.1,36601,36601,3,Europe/Berlin,FALSE,1276820270
+Porta Westfalica,Porta Westfalica,,52.2167,8.9333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,346.4,36374,36374,3,Europe/Berlin,FALSE,1276426167
+Emsdetten,Emsdetten,,52.1728,7.5344,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,504.5,36354,36354,3,Europe/Berlin,FALSE,1276439566
+Winsen,Winsen,,53.3667,10.2167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,330.6,36295,36295,3,Europe/Berlin,FALSE,1276491512
+Mühlhausen,Muhlhausen,Thomas-Müntzer-Stadt-Mühlhausen,51.2167,10.4500,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,277.1,36226,36226,3,Europe/Berlin,FALSE,1276181580
+Voerde,Voerde,,51.6000,6.6833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,676.7,36196,36196,3,Europe/Berlin,FALSE,1276242749
+Meppen,Meppen,,52.6936,7.2928,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,191.7,36117,36117,3,Europe/Berlin,FALSE,1276180771
+Limburg,Limburg,Limburg an der Lahn,50.3833,8.0667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,798.5,36053,36053,3,Europe/Berlin,FALSE,1276188257
+Ingelheim,Ingelheim,Ingelheim am Rhein,49.9747,8.0564,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,722.1,36002,36002,3,Europe/Berlin,FALSE,1276699130
+Crailsheim,Crailsheim,Stadt Crailsheim,49.1347,10.0706,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,341.4,35760,35760,3,Europe/Berlin,FALSE,1276001596
+Bad Vilbel,Bad Vilbel,,50.1781,8.7361,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1375.3,35758,35758,3,Europe/Berlin,FALSE,1276387851
+Leer,Leer,,53.2308,7.4528,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,508.7,35663,35663,3,Europe/Berlin,FALSE,1276392695
+Lage,Lage,,51.9889,8.7944,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,465.8,35423,35423,3,Europe/Berlin,FALSE,1276243855
+Mörfelden-Walldorf,Morfelden-Walldorf,,50.0000,8.5833,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,799.2,35291,35291,3,Europe/Berlin,FALSE,1276425407
+Goch,Goch,,51.6839,6.1619,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,305.6,35270,35270,3,Europe/Berlin,FALSE,1276890926
+Sankt Ingbert,Sankt Ingbert,,49.3000,7.1167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,705.0,35216,35216,3,Europe/Berlin,FALSE,1276174089
+Datteln,Datteln,,51.6539,7.3417,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,532.6,35191,35191,3,Europe/Berlin,FALSE,1276259793
+Deggendorf,Deggendorf,Deckendorf,48.8333,12.9667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,456.0,35172,35172,3,Europe/Berlin,FALSE,1276512590
+Barsinghausen,Barsinghausen,,52.3000,9.4811,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,342.0,35156,35156,3,Europe/Berlin,FALSE,1276183527
+Steinfurt,Steinfurt,,52.1475,7.3442,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,315.0,35102,35102,3,Europe/Berlin,FALSE,1276842137
+Balingen,Balingen,,48.2731,8.8506,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,386.8,34945,34945,3,Europe/Berlin,FALSE,1276586382
+Dietzenbach,Dietzenbach,Stadt Dietzenbach,50.0167,8.7833,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1611.8,34928,34928,3,Europe/Berlin,FALSE,1276741284
+Kempen,Kempen,,51.3658,6.4194,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,506.4,34841,34841,3,Europe/Berlin,TRUE,1276967592
+Seelze,Seelze,,52.3961,9.5981,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,642.4,34742,34742,3,Europe/Berlin,FALSE,1276781689
+Wermelskirchen,Wermelskirchen,,51.1500,7.2167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,464.4,34739,34739,3,Europe/Berlin,FALSE,1276444512
+Saarlouis,Saarlouis,,49.3167,6.7500,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,minor,802.3,34717,34717,3,Europe/Berlin,FALSE,1276663502
+Wedel,Wedel,,53.5833,9.7000,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1021.2,34538,34538,3,Europe/Berlin,FALSE,1276016066
+Zweibrücken,Zweibrucken,Bipontium|Deux Ponts|Two Bridges,49.2500,7.3667,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,488.9,34534,34534,3,Europe/Berlin,FALSE,1276900149
+Viernheim,Viernheim,,49.5417,8.5786,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,7.1,34534,34534,3,Europe/Berlin,FALSE,1276924320
+Ahrensburg,Ahrensburg,Stadt Ahrensburg,53.6747,10.2411,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,977.9,34509,34509,3,Europe/Berlin,FALSE,1276744963
+Merseburg,Merseburg,,51.3544,11.9928,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,627.4,34335,34335,3,Europe/Berlin,FALSE,1276735436
+Geldern,Geldern,,51.5197,6.3325,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,353.9,34298,34298,3,Europe/Berlin,FALSE,1276273584
+Korschenbroich,Korschenbroich,,51.1833,6.5167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,618.7,34187,34187,3,Europe/Berlin,FALSE,1276206387
+Kornwestheim,Kornwestheim,,48.8598,9.1852,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,2365.2,34130,34130,2,Europe/Berlin,FALSE,1276918130
+Radebeul,Radebeul,,51.1000,13.6500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,1308.4,34096,34096,3,Europe/Berlin,FALSE,1276277969
+Hemer,Hemer,,51.3833,7.7667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,502.9,34024,34024,3,Europe/Berlin,FALSE,1276327126
+Biberach,Biberach,Biberach an der Riß,48.1000,9.7833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,471.4,34008,34008,3,Europe/Berlin,TRUE,1276241010
+Stuhr,Stuhr,,53.0167,8.7500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,414.9,33952,33952,3,Europe/Berlin,FALSE,1276158158
+Uelzen,Uelzen,,52.9647,10.5658,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,248.0,33934,33934,3,Europe/Berlin,FALSE,1276042012
+Vechta,Vechta,,52.7306,8.2886,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,384.3,33769,33769,3,Europe/Berlin,FALSE,1276147280
+Rheinfelden (Baden),Rheinfelden (Baden),Badisch-Rheinfelden|Rheinfelden,47.5611,7.7917,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,534.2,33581,33581,3,Europe/Berlin,FALSE,1276547516
+Schwedt (Oder),Schwedt (Oder),Schwedt|Schwedt/Oder|Stadt Schwedt/Oder,53.0500,14.2667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,162.9,33495,33495,3,Europe/Berlin,FALSE,1276552729
+Bad Nauheim,Bad Nauheim,Stadt Bad Nauheim,50.3667,8.7500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1027.8,33445,33445,3,Europe/Berlin,FALSE,1276664999
+Jülich,Julich,,50.9222,6.3583,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,366.8,33158,33158,3,Europe/Berlin,FALSE,1276891190
+Forchheim,Forchheim,,49.7197,11.0581,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,741.6,32972,32972,3,Europe/Berlin,FALSE,1276030665
+Lampertheim,Lampertheim,,49.6000,8.4667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,454.8,32870,32870,3,Europe/Berlin,FALSE,1276406891
+Delbrück,Delbruck,,51.7667,8.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,208.4,32774,32774,3,Europe/Berlin,FALSE,1276424035
+Achim,Achim,,53.0653,9.0342,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,480.9,32752,32752,3,Europe/Berlin,FALSE,1276242263
+Herrenberg,Herrenberg,,48.5967,8.8708,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,496.7,32649,32649,3,Europe/Berlin,FALSE,1276549799
+Fürstenwalde,Furstenwalde,,52.3667,14.0667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,462.7,32646,32646,3,Europe/Berlin,FALSE,1276767308
+Geesthacht,Geesthacht,Stadt Geesthacht,53.4375,10.3675,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,974.3,32336,32336,3,Europe/Berlin,FALSE,1276117326
+Naumburg,Naumburg,Naumburg/Saale|Naumberg|Stadt Naumburg,51.1500,11.8167,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,248.6,32289,32289,3,Europe/Berlin,FALSE,1276335227
+Bernburg,Bernburg,Bernburg (Saale),51.8000,11.7333,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,284.3,32261,32261,3,Europe/Berlin,FALSE,1276331294
+Itzehoe,Itzehoe,,53.9250,9.5164,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1150.8,32258,32258,3,Europe/Berlin,FALSE,1276277285
+Georgsmarienhütte,Georgsmarienhutte,,52.2000,8.0667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,580.5,32190,32190,3,Europe/Berlin,FALSE,1276001308
+Bramsche,Bramsche,,52.4000,7.9833,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,175.5,32179,32179,3,Europe/Berlin,TRUE,1276405075
+Radolfzell am Bodensee,Radolfzell am Bodensee,Radolfzell,47.7333,8.9667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,546.2,32043,32043,3,Europe/Berlin,FALSE,1276934854
+Wernigerode,Wernigerode,,51.8350,10.7853,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,188.3,32024,32024,3,Europe/Berlin,FALSE,1276322228
+Ganderkesee,Ganderkesee,,53.0358,8.5483,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,230.7,31939,31939,3,Europe/Berlin,FALSE,1276035845
+Oer-Erkenschwick,Oer-Erkenschwick,,51.6422,7.2508,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,823.5,31838,31838,3,Europe/Berlin,FALSE,1276269090
+Neuruppin,Neuruppin,,52.9331,12.8000,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,103.6,31422,31422,3,Europe/Berlin,FALSE,1276820903
+Hoyerswerda,Hoyerswerda,Wojerecy,51.4333,14.2500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,329.9,31356,31356,3,Europe/Berlin,FALSE,1276992982
+Altenburg,Altenburg,,50.9850,12.4333,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,686.7,31315,31315,3,Europe/Berlin,FALSE,1276224301
+Burgdorf,Burgdorf,,52.4500,10.0083,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,278.0,31287,31287,3,Europe/Berlin,FALSE,1276623419
+Kreuztal,Kreuztal,Kreuzthal,50.9667,7.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,439.6,31197,31197,3,Europe/Berlin,FALSE,1276001601
+Rheinberg,Rheinberg,,51.5467,6.6006,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,414.5,31150,31150,3,Europe/Berlin,FALSE,1276286236
+Gevelsberg,Gevelsberg,,51.3167,7.3333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1183.7,31097,31097,3,Europe/Berlin,FALSE,1276634761
+Werl,Werl,,51.5500,7.9200,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,407.2,31045,31045,3,Europe/Berlin,TRUE,1276291604
+Lohmar,Lohmar,,50.8167,7.2167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,470.9,30846,30846,3,Europe/Berlin,FALSE,1276535520
+Walsrode,Walsrode,,52.8667,9.5833,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,113.2,30819,30819,3,Europe/Berlin,FALSE,1276472764
+Friedberg,Friedberg,Friedburg|Friedberg in Hessen,50.3333,8.7500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,614.1,30818,30818,3,Europe/Berlin,FALSE,1276800921
+Taunusstein,Taunusstein,Stadt Taunusstein,50.1333,8.1500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,459.6,30810,30810,3,Europe/Berlin,FALSE,1276571090
+Weil am Rhein,Weil am Rhein,Weil|Stadt Weil am Rhein,47.5947,7.6108,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1580.3,30769,30769,3,Europe/Berlin,FALSE,1276439955
+Einbeck,Einbeck,Stadt Einbeck,51.8167,9.8667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,132.5,30728,30728,3,Europe/Berlin,FALSE,1276253461
+Osterholz-Scharmbeck,Osterholz-Scharmbeck,Stadt Osterholz-Scharmbeck,53.2167,8.8000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,208.6,30659,30659,3,Europe/Berlin,FALSE,1276987274
+Bad Hersfeld,Bad Hersfeld,Hersfeld,50.8683,9.7075,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,414.9,30652,30652,3,Europe/Berlin,FALSE,1276923242
+Ennepetal,Ennepetal,,51.2833,7.3333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,533.8,30652,30652,3,Europe/Berlin,FALSE,1276394678
+Haan,Haan,Stadt Haan,51.1667,7.0000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1261.0,30542,30542,3,Europe/Berlin,FALSE,1276168837
+Neuburg,Neuburg,Neuburg an der Donau|Neuburg-Donau,48.7333,11.1833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,374.7,30467,30467,3,Europe/Berlin,FALSE,1276560116
+Friedberg,Friedberg,Friedberg bei Augsburg,48.3500,10.9833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,374.5,30407,30407,3,Europe/Berlin,FALSE,1276408320
+Schönebeck,Schonebeck,,52.0167,11.7500,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,354.3,30389,30389,3,Europe/Berlin,FALSE,1276217785
+Andernach,Andernach,Stadt Andernach,50.4397,7.4017,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,567.6,30277,30277,3,Europe/Berlin,FALSE,1276142194
+Gaggenau,Gaggenau,,48.8039,8.3194,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,465.9,30250,30250,3,Europe/Berlin,FALSE,1276552610
+Bretten,Bretten,,49.0364,8.7061,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,422.8,30073,30073,3,Europe/Berlin,FALSE,1276638008
+Merzig,Merzig,Merzig am Saar,49.4500,6.6167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,minor,276.2,30051,30051,3,Europe/Berlin,FALSE,1276524998
+Meschede,Meschede,,51.3500,8.2833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,137.4,30025,30025,3,Europe/Berlin,FALSE,1276139753
+Schwandorf,Schwandorf,Schwandorf in Bayern|Stadt Schwandorf,49.3283,12.1100,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,242.3,29990,29990,3,Europe/Berlin,FALSE,1276268287
+Rietberg,Rietberg,,51.8000,8.4333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,271.2,29919,29919,3,Europe/Berlin,FALSE,1276651074
+Bad Zwischenahn,Bad Zwischenahn,,53.1836,8.0097,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,229.1,29803,29803,3,Europe/Berlin,FALSE,1276503429
+Rendsburg,Rendsburg,,54.3000,9.6667,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1252.3,29743,29743,3,Europe/Berlin,FALSE,1276159889
+Werve,Werve,,51.6667,7.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,389.8,29680,29680,3,Europe/Berlin,FALSE,1276001404
+Waltrop,Waltrop,,51.6167,7.3833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,631.0,29644,29644,3,Europe/Berlin,FALSE,1276333081
+Oelde,Oelde,Stadt Oelde,51.8333,8.1500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,288.4,29644,29644,3,Europe/Berlin,FALSE,1276826099
+Güstrow,Gustrow,,53.7939,12.1764,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,417.1,29556,29556,3,Europe/Berlin,FALSE,1276582967
+Landsberg,Landsberg,Landsberg am Lech,48.0478,10.8989,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,510.4,29551,29551,3,Europe/Berlin,FALSE,1276208782
+Unterschleißheim,Unterschleissheim,Schleisheim,48.2833,11.5667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1977.4,29523,29523,3,Europe/Berlin,FALSE,1276071648
+Northeim,Northeim,,51.7067,10.0011,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,201.9,29440,29440,3,Europe/Berlin,FALSE,1276938853
+Tönisvorst,Tonisvorst,Stadt Tönisvorst,51.3208,6.4931,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,661.4,29319,29319,3,Europe/Berlin,FALSE,1276126819
+Vaihingen an der Enz,Vaihingen an der Enz,Vaihingen,48.9328,8.9564,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,399.2,29305,29305,3,Europe/Berlin,FALSE,1276306973
+Winnenden,Winnenden,,48.8764,9.3978,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1038.9,29245,29245,3,Europe/Berlin,FALSE,1276828910
+Saalfeld,Saalfeld,,50.6500,11.3667,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,599.5,29224,29224,3,Europe/Berlin,FALSE,1276907261
+Blankenfelde,Blankenfelde,,52.3500,13.4000,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,531.2,29159,29159,3,Europe/Berlin,FALSE,1276580790
+Bühl,Buhl,,48.6953,8.1350,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,398.1,29133,29133,3,Europe/Berlin,TRUE,1276639756
+Springe,Springe,Stadt Springe,52.2167,9.5500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,182.2,29113,29113,3,Europe/Berlin,FALSE,1276257894
+Kelkheim (Taunus),Kelkheim (Taunus),Kelkheim|Stadt Kelkheim (Taunus),50.1378,8.4497,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,949.8,29112,29112,3,Europe/Berlin,FALSE,1276386467
+Riesa,Riesa,,51.3081,13.2939,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,493.6,29076,29076,3,Europe/Berlin,FALSE,1276381687
+Meißen,Meissen,Meissen,51.1667,13.4833,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,938.9,29011,29011,3,Europe/Berlin,FALSE,1276054483
+Rösrath,Rosrath,,50.9000,7.1833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,744.4,28889,28889,3,Europe/Berlin,FALSE,1276492557
+Emmendingen,Emmendingen,,48.1214,7.8492,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,853.7,28856,28856,3,Europe/Berlin,FALSE,1276708263
+Schwelm,Schwelm,,51.2667,7.2667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,1401.8,28723,28723,3,Europe/Berlin,FALSE,1276363762
+Höxter,Hoxter,,51.7667,9.3667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,181.5,28709,28709,3,Europe/Berlin,FALSE,1276004976
+Geislingen an der Steige,Geislingen an der Steige,Stadt Geislingen an der Steige|Geislingen,48.6244,9.8306,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,377.9,28655,28655,3,Europe/Berlin,FALSE,1276183243
+Mechernich,Mechernich,,50.6000,6.6500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,209.3,28567,28567,3,Europe/Berlin,FALSE,1276281325
+Reinbek,Reinbek,,53.5089,10.2483,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,913.7,28536,28536,3,Europe/Berlin,FALSE,1276939131
+Hattersheim,Hattersheim,,50.0722,8.4864,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1803.3,28528,28528,3,Europe/Berlin,FALSE,1276209175
+Verden,Verden,,52.9211,9.2306,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,398.5,28526,28526,3,Europe/Berlin,FALSE,1276613119
+Ludwigsfelde,Ludwigsfelde,,52.2997,13.2667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,258.4,28424,28424,3,Europe/Berlin,FALSE,1276940684
+Baunatal,Baunatal,,51.2589,9.4183,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,740.5,28339,28339,3,Europe/Berlin,FALSE,1276339266
+Henstedt-Ulzburg,Henstedt-Ulzburg,,53.7833,10.0000,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,717.8,28323,28323,3,Europe/Berlin,FALSE,1276986461
+Geilenkirchen,Geilenkirchen,,50.9653,6.1194,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,339.7,28252,28252,3,Europe/Berlin,FALSE,1276421191
+Kevelaer,Kevelaer,,51.5833,6.2500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,280.5,28232,28232,3,Europe/Berlin,FALSE,1276753170
+Königsbrunn,Konigsbrunn,,48.2689,10.8908,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1534.3,28231,28231,3,Europe/Berlin,FALSE,1276917723
+Grimma,Grimma,,51.2386,12.7253,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,129.2,28205,28205,3,Europe/Berlin,FALSE,1276049939
+Arnstadt,Arnstadt,,50.8342,10.9464,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,508.7,28124,28124,3,Europe/Berlin,FALSE,1276728389
+Wegberg,Wegberg,,51.1417,6.2792,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,332.9,28074,28074,3,Europe/Berlin,FALSE,1276843809
+Leichlingen,Leichlingen,,51.1167,7.0167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,751.4,28048,28048,3,Europe/Berlin,FALSE,1276227302
+Zeitz,Zeitz,,51.0478,12.1383,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,831.4,27976,27976,3,Europe/Berlin,FALSE,1276390204
+Griesheim,Griesheim,,49.8639,8.5639,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1300.3,27837,27837,3,Europe/Berlin,FALSE,1276867372
+Lohne,Lohne,,52.6667,8.2386,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,306.4,27814,27814,3,Europe/Berlin,TRUE,1276514079
+Sundern,Sundern,,51.3167,8.0000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,143.8,27741,27741,3,Europe/Berlin,TRUE,1276362137
+Teltow,Teltow,,52.4022,13.2706,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,1282.3,27697,27697,3,Europe/Berlin,FALSE,1276388501
+Baesweiler,Baesweiler,Basweilen|Bäsweiler,50.9000,6.1833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,992.1,27620,27620,3,Europe/Berlin,FALSE,1276109783
+Wetter (Ruhr),Wetter (Ruhr),Wetter|Stadt Wetter (Ruhr),51.3881,7.3950,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,875.4,27550,27550,3,Europe/Berlin,FALSE,1276406634
+Schloß Holte-Stukenbrock,Schloss Holte-Stukenbrock,,51.8833,8.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,406.8,27467,27467,3,Europe/Berlin,FALSE,1276497165
+Wangen im Allgäu,Wangen im Allgau,Wangen,47.6858,9.8342,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,260.7,27411,27411,3,Europe/Berlin,FALSE,1276638340
+Overath,Overath,,50.9500,7.3000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,397.9,27405,27405,3,Europe/Berlin,FALSE,1276053339
+Butzbach,Butzbach,,50.4367,8.6622,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,257.1,27402,27402,3,Europe/Berlin,FALSE,1276386116
+Strausberg,Strausberg,,52.5833,13.8833,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,402.4,27344,27344,3,Europe/Berlin,FALSE,1276019110
+Ehingen an der Donau,Ehingen an der Donau,Ehingen,48.2833,9.7236,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,152.9,27276,27276,3,Europe/Berlin,FALSE,1276432627
+Hamminkeln,Hamminkeln,,51.7319,6.5908,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,165.7,27248,27248,3,Europe/Berlin,FALSE,1276465671
+Leimen,Leimen,,49.3481,8.6911,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1315.7,27142,27142,3,Europe/Berlin,FALSE,1276081089
+Hohen Neuendorf,Hohen Neuendorf,,52.6667,13.2833,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,558.9,27139,27139,3,Europe/Berlin,FALSE,1276577032
+Rheinbach,Rheinbach,,50.6333,6.9500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,388.6,27102,27102,3,Europe/Berlin,FALSE,1276000657
+Wiesloch,Wiesloch,,49.2942,8.6983,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,894.5,27049,27049,3,Europe/Berlin,FALSE,1276473184
+Heppenheim,Heppenheim,Heppenheim an der Bergstrasse,49.6431,8.6389,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,516.8,26946,26946,3,Europe/Berlin,FALSE,1276763901
+Pfaffenhofen,Pfaffenhofen,Pfaffenhofen an der Ilm,48.5333,11.5167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,291.6,26943,26943,3,Europe/Berlin,TRUE,1276259181
+Hennigsdorf,Hennigsdorf,Stadt Hennigsdorf,52.6378,13.2036,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,849.3,26728,26728,3,Europe/Berlin,FALSE,1276509399
+Heiligenhaus,Heiligenhaus,Stadt Heiligenhaus,51.3167,6.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,971.3,26681,26681,3,Europe/Berlin,FALSE,1276630818
+Bad Neuenahr-Ahrweiler,Bad Neuenahr-Ahrweiler,Stadt Bad Neuenahr-Ahrweiler,50.5447,7.1133,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,4.2,26669,26669,3,Europe/Berlin,FALSE,1276768738
+Aschersleben,Aschersleben,,51.7500,11.4667,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,170.3,26604,26604,3,Europe/Berlin,FALSE,1276084397
+Neckarsulm,Neckarsulm,,49.1917,9.2246,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1063.2,26495,26495,3,Europe/Berlin,FALSE,1276644905
+Achern,Achern,,48.6333,8.0667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,405.4,26471,26471,3,Europe/Berlin,FALSE,1276045216
+Lauf,Lauf,Lauf an der Pegnitz,49.5103,11.2772,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,441.8,26420,26420,3,Europe/Berlin,FALSE,1276202337
+Groß-Gerau,Gross-Gerau,Gross-Gerau,49.9192,8.4850,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,485.0,26418,26418,3,Europe/Berlin,FALSE,1276722779
+Mühlacker,Muhlacker,,48.9500,8.8394,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,485.6,26394,26394,3,Europe/Berlin,FALSE,1276456440
+Weiterstadt,Weiterstadt,,49.9000,8.6000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,765.2,26322,26322,3,Europe/Berlin,FALSE,1276959186
+Bingen am Rhein,Bingen am Rhein,Bingen,49.9667,7.9000,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,697.1,26309,26309,3,Europe/Berlin,FALSE,1276879617
+Nordenham,Nordenham,Stadt Nordenham,53.5000,8.4667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,299.7,26308,26308,3,Europe/Berlin,FALSE,1276525140
+Zirndorf,Zirndorf,,49.4500,10.9500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,911.5,26234,26234,3,Europe/Berlin,FALSE,1276906291
+Selm,Selm,Stadt Selm,51.6833,7.4833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,433.6,26163,26163,3,Europe/Berlin,FALSE,1276238006
+Bad Honnef am Rhein,Bad Honnef am Rhein,Honnef,50.6450,7.2269,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,541.0,26061,26061,3,Europe/Berlin,FALSE,1276512885
+Lübbecke,Lubbecke,,52.3081,8.6231,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,400.2,26027,26027,3,Europe/Berlin,FALSE,1276934438
+Harsewinkel,Harsewinkel,,51.9667,8.2331,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,258.5,25999,25999,3,Europe/Berlin,FALSE,1276882516
+Unterhaching,Unterhaching,Haching,48.0658,11.6100,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1724.9,25873,25873,3,Europe/Berlin,FALSE,1276779846
+Lindau,Lindau,Lindau Bodensee,47.5458,9.6833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,781.8,25846,25846,3,Europe/Berlin,FALSE,1276918139
+Schleswig,Schleswig,Sliesthorp|Stadt Schleswig,54.5186,9.5653,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,1063.0,25832,25832,3,Europe/Berlin,FALSE,1276884755
+Kulmbach,Kulmbach,Culmbach|Stadt Kulmbach,50.1000,11.4333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,278.3,25818,25818,3,Europe/Berlin,FALSE,1276728110
+Helmstedt,Helmstedt,Stadt Helmstedt,52.2281,11.0106,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,386.3,25779,25779,3,Europe/Berlin,FALSE,1276360393
+Horb am Neckar,Horb am Neckar,Horb,48.4453,8.6911,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,215.0,25752,25752,3,Europe/Berlin,FALSE,1276353248
+Rinteln,Rinteln,Stadt Rinteln,52.1906,9.0814,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,235.9,25721,25721,3,Europe/Berlin,FALSE,1276137941
+Ellwangen,Ellwangen,,48.9611,10.1306,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,201.5,25678,25678,3,Europe/Berlin,FALSE,1276278127
+Friedrichsdorf,Friedrichsdorf,,50.2556,8.6397,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,852.0,25662,25662,3,Europe/Berlin,FALSE,1276577829
+Geretsried,Geretsried,,47.8667,11.4667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1039.5,25623,25623,3,Europe/Berlin,FALSE,1276737058
+Sankt Wendel,Sankt Wendel,Kreisstadt Sankt Wendel,49.4667,7.1667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,minor,225.3,25583,25583,3,Europe/Berlin,FALSE,1276025539
+Idstein,Idstein,,50.2206,8.2742,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,320.4,25554,25554,3,Europe/Berlin,FALSE,1276320507
+Vaterstetten,Vaterstetten,,48.1050,11.7706,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,746.9,25530,25530,3,Europe/Berlin,FALSE,1276137898
+Verl,Verl,,51.8831,8.5167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,357.6,25522,25522,3,Europe/Berlin,FALSE,1276182306
+Rottweil,Rottweil,,48.1681,8.6247,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,355.5,25513,25513,3,Europe/Berlin,FALSE,1276117708
+Brilon,Brilon,,51.3956,8.5678,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,111.4,25511,25511,3,Europe/Berlin,FALSE,1276723318
+Sangerhausen,Sangerhausen,,51.4667,11.3000,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,122.5,25441,25441,3,Europe/Berlin,FALSE,1276588418
+Öhringen,Ohringen,,49.2000,9.5000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,374.6,25388,25388,3,Europe/Berlin,FALSE,1276641265
+Roth,Roth,,49.2461,11.0911,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,263.3,25367,25367,3,Europe/Berlin,FALSE,1276856142
+Lennestadt,Lennestadt,Stadt Lennestadt,51.1236,8.0681,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,187.0,25352,25352,3,Europe/Berlin,FALSE,1276165009
+Wiehl,Wiehl,,50.9500,7.5333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,475.2,25314,25314,3,Europe/Berlin,FALSE,1276813101
+Salzkotten,Salzkotten,,51.6708,8.6047,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,230.5,25311,25311,3,Europe/Berlin,FALSE,1276941056
+Obertshausen,Obertshausen,,50.0667,8.8333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1858.1,25307,25307,3,Europe/Berlin,FALSE,1276455006
+Lüdinghausen,Ludinghausen,,51.7667,7.4333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,179.7,25259,25259,3,Europe/Berlin,FALSE,1276526583
+Weingarten,Weingarten,,47.8092,9.6444,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,2077.1,25257,25257,2,Europe/Berlin,FALSE,1276346018
+Delitzsch,Delitzsch,Stadt Delitzsch,51.5264,12.3425,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,293.8,25244,25244,3,Europe/Berlin,FALSE,1276928962
+Pfungstadt,Pfungstadt,,49.8056,8.6044,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,593.3,25231,25231,3,Europe/Berlin,FALSE,1276568312
+Petershagen,Petershagen,,52.3833,8.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,119.0,25222,25222,3,Europe/Berlin,FALSE,1276300392
+Norden,Norden,,53.5967,7.2056,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,236.8,25179,25179,3,Europe/Berlin,FALSE,1276766299
+Espelkamp,Espelkamp,,52.3772,8.6328,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,299.3,25174,25174,3,Europe/Berlin,FALSE,1276996942
+Ditzingen,Ditzingen,,48.8264,9.0667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,827.4,25145,25145,3,Europe/Berlin,FALSE,1276272726
+Olpe,Olpe,,51.0167,7.8333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,291.3,25015,25015,3,Europe/Berlin,TRUE,1276501027
+Plettenberg,Plettenberg,Stadt Plettenberg,51.2167,7.8833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,257.9,24954,24954,3,Europe/Berlin,FALSE,1276414700
+Bad Oldesloe,Bad Oldesloe,,53.8117,10.3742,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,474.0,24935,24935,3,Europe/Berlin,FALSE,1276683854
+Schmallenberg,Schmallenberg,,51.1490,8.2845,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,82.1,24878,24878,3,Europe/Berlin,FALSE,1276002699
+Meckenheim,Meckenheim,,50.6333,7.0167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,712.4,24877,24877,3,Europe/Berlin,FALSE,1276114705
+Sprockhövel,Sprockhovel,,51.3667,7.2500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,517.5,24838,24838,3,Europe/Berlin,FALSE,1276006803
+Syke,Syke,,52.9131,8.8269,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,193.7,24810,24810,3,Europe/Berlin,FALSE,1276951328
+Zittau,Zittau,,50.8961,14.8072,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,371.4,24794,24794,3,Europe/Berlin,FALSE,1276061456
+Rudolstadt,Rudolstadt,,50.7169,11.3275,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,446.9,24749,24749,3,Europe/Berlin,FALSE,1276466405
+Meiningen,Meiningen,Stadt Meiningen,50.5500,10.4167,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,416.2,24745,24745,3,Europe/Berlin,FALSE,1276941916
+Warstein,Warstein,Stadt Warstein,51.4500,8.3500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,156.1,24647,24647,3,Europe/Berlin,FALSE,1276854914
+Waldshut-Tiengen,Waldshut-Tiengen,,47.6231,8.2144,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,315.6,24605,24605,3,Europe/Berlin,FALSE,1276011078
+Rathenow,Rathenow,,52.6000,12.3333,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,217.5,24597,24597,3,Europe/Berlin,FALSE,1276833446
+Ronnenberg,Ronnenberg,,52.3194,9.6556,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,650.3,24570,24570,3,Europe/Berlin,FALSE,1276210070
+Bad Mergentheim,Bad Mergentheim,,49.5000,9.7667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,189.0,24564,24564,3,Europe/Berlin,FALSE,1276714498
+Isernhagen-Süd,Isernhagen-Sud,,52.4342,9.8572,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,411.3,24563,24563,3,Europe/Berlin,FALSE,1276610067
+Markkleeberg,Markkleeberg,Mark-Kleeburg,51.2778,12.3833,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,782.0,24523,24523,3,Europe/Berlin,FALSE,1276805845
+Haren,Haren,,52.7667,7.2167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,117.3,24498,24498,3,Europe/Berlin,FALSE,1276278460
+Waldkraiburg,Waldkraiburg,,48.2167,12.4000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1135.8,24488,24488,3,Europe/Berlin,FALSE,1276784836
+Attendorn,Attendorn,,51.1167,7.9000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,249.6,24448,24448,3,Europe/Berlin,FALSE,1276325506
+Herzogenaurach,Herzogenaurach,,49.5700,10.8819,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,512.5,24404,24404,3,Europe/Berlin,FALSE,1276809658
+Varel,Varel,,53.3969,8.1361,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,214.5,24397,24397,3,Europe/Berlin,FALSE,1276834869
+Bedburg,Bedburg,,51.0000,6.5625,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,303.0,24302,24302,3,Europe/Berlin,FALSE,1276409548
+Freudenstadt,Freudenstadt,,48.4633,8.4111,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,277.6,24301,24301,3,Europe/Berlin,FALSE,1276092007
+Staßfurt,Stassfurt,Stassfurt|Stadt Staßfurt,51.8667,11.5667,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,165.6,24293,24293,3,Europe/Berlin,FALSE,1276438491
+Calw,Calw,,48.7167,8.7333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,404.5,24219,24219,3,Europe/Berlin,FALSE,1276416126
+Übach-Palenberg,Ubach-Palenberg,,50.9197,6.1194,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,928.1,24215,24215,3,Europe/Berlin,FALSE,1276712019
+Sehnde,Sehnde,,52.3161,9.9642,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,233.2,24157,24157,3,Europe/Berlin,FALSE,1276201782
+Eisenhüttenstadt,Eisenhuttenstadt,Fuerstenberg,52.1450,14.6728,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,380.0,24125,24125,3,Europe/Berlin,FALSE,1276902561
+Wandlitz,Wandlitz,,52.7500,13.4497,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,148.0,24104,24104,3,Europe/Berlin,FALSE,1276059066
+Jüchen,Juchen,,51.1011,6.5017,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,333.2,23940,23940,3,Europe/Berlin,TRUE,1276318248
+Alfter,Alfter,,50.7356,7.0092,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,687.5,23904,23904,3,Europe/Berlin,FALSE,1276256549
+Westerstede,Westerstede,,53.2500,7.9167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,132.9,23854,23854,3,Europe/Berlin,FALSE,1276738053
+Limbach-Oberfrohna,Limbach-Oberfrohna,Limbach,50.8667,12.7500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,474.7,23833,23833,3,Europe/Berlin,FALSE,1276772007
+Döbeln,Dobeln,Doebeln|Doeberln|Stadt Döbeln,51.1194,13.1128,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,281.1,23763,23763,3,Europe/Berlin,FALSE,1276060973
+Starnberg,Starnberg,Starenberg,47.9972,11.3406,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,383.9,23741,23741,3,Europe/Berlin,FALSE,1276454637
+Husum,Husum,,54.4667,9.0500,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,920.0,23735,23735,3,Europe/Berlin,FALSE,1276973778
+Korbach,Korbach,,51.2833,8.8667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,191.0,23706,23706,3,Europe/Berlin,FALSE,1276822678
+Gelnhausen,Gelnhausen,,50.2000,9.1667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,524.5,23679,23679,3,Europe/Berlin,FALSE,1276351264
+Salzwedel,Salzwedel,,52.8500,11.1500,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,77.3,23543,23543,3,Europe/Berlin,FALSE,1276222011
+Kaltenkirchen,Kaltenkirchen,,53.8397,9.9603,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1019.0,23538,23538,3,Europe/Berlin,FALSE,1276286164
+Hannoversch Münden,Hannoversch Munden,Muenden|Hannoverisch-Münden|Hannoversh-Münden|Münden|Stadt Hannoversch Münden,51.4167,9.6500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,194.2,23530,23530,3,Europe/Berlin,FALSE,1276002967
+Sonneberg,Sonneberg,Stadt Sonneberg,50.3500,11.1667,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,277.6,23507,23507,3,Europe/Berlin,FALSE,1276304773
+Mosbach,Mosbach,Mosbach in Baden,49.3522,9.1467,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,377.8,23484,23484,3,Europe/Berlin,FALSE,1276659317
+Dillenburg,Dillenburg,Dillenberg,50.7333,8.2833,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,279.9,23480,23480,3,Europe/Berlin,FALSE,1276583007
+Senftenberg,Senftenberg,Zły Komorow,51.5167,14.0167,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,183.5,23405,23405,3,Europe/Berlin,FALSE,1276241839
+Netphen,Netphen,,50.9147,8.1000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,170.0,23363,23363,3,Europe/Berlin,FALSE,1276020652
+Leutkirch im Allgäu,Leutkirch im Allgau,Leutkirch,47.8256,10.0222,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,133.4,23345,23345,3,Europe/Berlin,FALSE,1276589635
+Warburg,Warburg,,51.5000,9.1697,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,138.1,23322,23322,3,Europe/Berlin,FALSE,1276612246
+Quedlinburg,Quedlinburg,Stadt Quedlinburg,51.7917,11.1472,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,164.4,23313,23313,3,Europe/Berlin,FALSE,1276672547
+Gersthofen,Gersthofen,,48.4167,10.8667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,685.5,23274,23274,3,Europe/Berlin,FALSE,1276965949
+Wertheim,Wertheim,,49.7589,9.5175,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,167.3,23196,23196,3,Europe/Berlin,FALSE,1276150823
+Rastede,Rastede,,53.2500,8.2000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,187.5,23180,23180,3,Europe/Berlin,FALSE,1276294384
+Karben,Karben,,50.2322,8.7681,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,527.4,23172,23172,3,Europe/Berlin,FALSE,1276723734
+Bad Soden am Taunus,Bad Soden am Taunus,Bad Soden in Taunus|Bad Soden,50.1333,8.5000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1845.6,23162,23162,3,Europe/Berlin,FALSE,1276847418
+Vreden,Vreden,,52.0333,6.8333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,170.5,23161,23161,3,Europe/Berlin,FALSE,1276296218
+Überlingen,Uberlingen,,47.7667,9.1650,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,394.5,23098,23098,3,Europe/Berlin,FALSE,1276778071
+Apolda,Apolda,Stadt Apolda,51.0167,11.5167,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,498.6,23072,23072,3,Europe/Berlin,FALSE,1276857102
+Weilheim,Weilheim,Weilheim in Oberbayern|Wilheim,47.8333,11.1500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,415.4,23056,23056,3,Europe/Berlin,FALSE,1276001381
+Bad Kissingen,Bad Kissingen,,50.2000,10.0667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,329.5,23037,23037,3,Europe/Berlin,FALSE,1276216676
+Bad Salzungen,Bad Salzungen,,50.8117,10.2333,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,589.2,23013,23013,3,Europe/Berlin,FALSE,1276249222
+Wallenhorst,Wallenhorst,,52.3500,8.0167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,487.4,22989,22989,3,Europe/Berlin,FALSE,1276580914
+Nagold,Nagold,,48.5519,8.7256,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,364.2,22985,22985,3,Europe/Berlin,FALSE,1276622142
+Lengerich,Lengerich,,52.1750,7.8667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,253.3,22980,22980,3,Europe/Berlin,FALSE,1276617854
+Friesoythe,Friesoythe,,53.0206,7.8586,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,92.8,22945,22945,3,Europe/Berlin,FALSE,1276189033
+Kitzingen,Kitzingen,,49.7333,10.1667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,488.3,22945,22945,3,Europe/Berlin,FALSE,1276000007
+Edewecht,Edewecht,,53.1258,7.9825,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,201.8,22908,22908,3,Europe/Berlin,FALSE,1276458945
+Senden,Senden,,48.3167,10.0667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,908.2,22896,22896,3,Europe/Berlin,FALSE,1276555386
+Neusäß,Neusass,,48.4000,10.8333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,909.8,22872,22872,3,Europe/Berlin,FALSE,1276057547
+Laupheim,Laupheim,,48.2289,9.8797,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,372.1,22863,22863,3,Europe/Berlin,FALSE,1276003982
+Herdecke,Herdecke,,51.4000,7.4333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1016.0,22758,22758,3,Europe/Berlin,FALSE,1276078079
+Burg,Burg,Burg bei Magdeburg|Stadt Burg bei Magdeburg,52.2725,11.8550,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,138.3,22689,22689,3,Europe/Berlin,TRUE,1276295040
+Stadthagen,Stadthagen,,52.3247,9.2069,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,375.7,22643,22643,3,Europe/Berlin,FALSE,1276512771
+Büdingen,Budingen,,50.2908,9.1125,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,184.1,22622,22622,3,Europe/Berlin,FALSE,1276951058
+Haar,Haar,,48.1000,11.7333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1748.4,22555,22555,3,Europe/Berlin,FALSE,1276621025
+Metzingen,Metzingen,,48.5367,9.2858,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,650.9,22528,22528,3,Europe/Berlin,FALSE,1276043043
+Donaueschingen,Donaueschingen,,47.9531,8.5033,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,214.3,22431,22431,3,Europe/Berlin,FALSE,1276107502
+Ottobrunn,Ottobrunn,,48.0667,11.6667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,4288.7,22430,22430,2,Europe/Berlin,FALSE,1276842192
+Bad Rappenau,Bad Rappenau,,49.2333,9.1000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,304.0,22356,22356,3,Europe/Berlin,FALSE,1276726877
+Versmold,Versmold,,52.0436,8.1500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,262.6,22274,22274,3,Europe/Berlin,FALSE,1276482608
+Eppingen,Eppingen,,49.1333,8.9167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,250.9,22226,22226,3,Europe/Berlin,FALSE,1276844300
+Radevormwald,Radevormwald,,51.2000,7.3500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,412.6,22222,22222,3,Europe/Berlin,FALSE,1276941483
+Ilsede,Ilsede,,52.2667,10.1833,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,307.5,22206,22206,3,Europe/Berlin,FALSE,1276410827
+Waldkirch,Waldkirch,,48.1000,7.9667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,456.6,22127,22127,3,Europe/Berlin,FALSE,1276926019
+Heide,Heide,,54.1961,9.0933,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,691.7,22114,22114,3,Europe/Berlin,FALSE,1276473220
+Eschborn,Eschborn,,50.1436,8.5700,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1818.0,22070,22070,3,Europe/Berlin,FALSE,1276712049
+Karlsfeld,Karlsfeld,,48.2167,11.4667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1419.2,22069,22069,3,Europe/Berlin,FALSE,1276796218
+Schwetzingen,Schwetzingen,,49.3833,8.5667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1026.1,22062,22062,3,Europe/Berlin,FALSE,1276516691
+Gardelegen,Gardelegen,Gardelengen,52.5264,11.3925,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,34.9,22054,22054,3,Europe/Berlin,FALSE,1276557570
+Elsdorf,Elsdorf,,50.9333,6.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,332.8,22021,22021,3,Europe/Berlin,TRUE,1276581538
+Glauchau,Glauchau,Stadt Glauchau,50.8233,12.5444,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,426.3,21951,21951,3,Europe/Berlin,FALSE,1276610130
+Aichach,Aichach,Aicha,48.4500,11.1333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,235.6,21908,21908,3,Europe/Berlin,FALSE,1276090074
+Sonthofen,Sonthofen,,47.5158,10.2811,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,469.6,21859,21859,3,Europe/Berlin,FALSE,1276823857
+Flörsheim,Florsheim,Flörsheim am Main,50.0167,8.4333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,950.5,21851,21851,3,Europe/Berlin,FALSE,1276463362
+Soltau,Soltau,,52.9833,9.8333,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,107.0,21808,21808,3,Europe/Berlin,FALSE,1276678434
+Eislingen,Eislingen,Eislingen-Fils,48.6933,9.7067,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1324.3,21745,21745,3,Europe/Berlin,FALSE,1276267974
+Hockenheim,Hockenheim,,49.3181,8.5472,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,624.0,21745,21745,3,Europe/Berlin,FALSE,1276940967
+Bad Harzburg,Bad Harzburg,Stadt Bad Harzburg,51.8811,10.5622,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,331.8,21738,21738,3,Europe/Berlin,FALSE,1276192309
+Mühldorf,Muhldorf,Mühldorf am Inn,48.2456,12.5228,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,737.5,21697,21697,3,Europe/Berlin,FALSE,1276623949
+Geseke,Geseke,Gesecke,51.6500,8.5167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,222.5,21685,21685,3,Europe/Berlin,FALSE,1276815446
+Bad Krozingen,Bad Krozingen,,47.9167,7.7000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,608.2,21684,21684,3,Europe/Berlin,FALSE,1276964772
+Lindlar,Lindlar,,51.0167,7.3833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,252.3,21665,21665,3,Europe/Berlin,FALSE,1276176624
+Spremberg,Spremberg,Grodk,51.5717,14.3794,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,119.9,21585,21585,3,Europe/Berlin,FALSE,1276939967
+Xanten,Xanten,Castra Vetera,51.6622,6.4539,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,298.1,21582,21582,3,Europe/Berlin,FALSE,1276917094
+Seligenstadt,Seligenstadt,,50.0333,8.9667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,699.1,21568,21568,3,Europe/Berlin,FALSE,1276356108
+Stadtallendorf,Stadtallendorf,,50.8333,9.0167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,275.5,21552,21552,3,Europe/Berlin,FALSE,1276032217
+Zerbst,Zerbst,,51.9681,12.0844,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,45.9,21519,21519,3,Europe/Berlin,FALSE,1276007718
+Eckernförde,Eckernforde,,54.4742,9.8378,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1005.9,21507,21507,3,Europe/Berlin,FALSE,1276177935
+Günzburg,Gunzburg,,48.4527,10.2713,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,387.8,21486,21486,3,Europe/Berlin,FALSE,1276986738
+Rees,Rees,,51.7667,6.4000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,195.5,21475,21475,3,Europe/Berlin,FALSE,1276451097
+Osterode,Osterode,Osterode am Harz|Stadt Osterode am Harz,51.7286,10.2522,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,209.3,21446,21446,3,Europe/Berlin,FALSE,1276593815
+Waghäusel,Waghausel,,49.2500,8.5167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,500.4,21444,21444,3,Europe/Berlin,FALSE,1276002094
+Zossen,Zossen,,52.2167,13.4497,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,118.8,21433,21433,3,Europe/Berlin,FALSE,1276905478
+Puchheim,Puchheim,,48.1500,11.3500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1751.4,21420,21420,3,Europe/Berlin,FALSE,1276452600
+Sondershausen,Sondershausen,,51.3667,10.8667,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,105.9,21317,21317,3,Europe/Berlin,FALSE,1276468586
+Gauting,Gauting,,48.0678,11.3739,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,383.4,21276,21276,3,Europe/Berlin,FALSE,1276677644
+Traunstein,Traunstein,,47.8667,12.6333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,437.5,21251,21251,3,Europe/Berlin,FALSE,1276793310
+Wildeshausen,Wildeshausen,,52.9000,8.4333,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,235.8,21154,21154,3,Europe/Berlin,FALSE,1276599018
+Schramberg,Schramberg,,48.2269,8.3842,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,272.4,21125,21125,3,Europe/Berlin,FALSE,1276492911
+Wipperfürth,Wipperfurth,,51.1167,7.4000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,178.7,21112,21112,3,Europe/Berlin,FALSE,1276735297
+Traunreut,Traunreut,,47.9667,12.5833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,468.3,21102,21102,3,Europe/Berlin,FALSE,1276958674
+Wülfrath,Wulfrath,,51.2833,7.0333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,653.9,21100,21100,3,Europe/Berlin,FALSE,1276377418
+Germersheim,Germersheim,Gemersheim,49.2167,8.3667,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,973.2,21099,21099,3,Europe/Berlin,FALSE,1276963829
+Groß-Umstadt,Gross-Umstadt,,49.8667,8.9333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,242.1,21028,21028,3,Europe/Berlin,FALSE,1276232744
+Zülpich,Zulpich,,50.7000,6.6500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,208.1,21025,21025,3,Europe/Berlin,FALSE,1276675318
+Nördlingen,Nordlingen,,48.8511,10.4883,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,308.5,21009,21009,3,Europe/Berlin,FALSE,1276160287
+Mössingen,Mossingen,,48.4064,9.0575,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,417.7,20900,20900,3,Europe/Berlin,FALSE,1276236369
+Senden,Senden,,51.8572,7.4828,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,191.5,20895,20895,3,Europe/Berlin,FALSE,1276271183
+Herborn,Herborn,,50.6825,8.3061,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,327.4,20894,20894,3,Europe/Berlin,FALSE,1276002994
+Luckenwalde,Luckenwalde,Stadt Luckenwalde,52.0833,13.1667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,447.1,20839,20839,3,Europe/Berlin,FALSE,1276376363
+Bruchköbel,Bruchkobel,,50.1833,8.9167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,701.4,20825,20825,3,Europe/Berlin,FALSE,1276199010
+Meinerzhagen,Meinerzhagen,,51.1167,7.6333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,180.7,20812,20812,3,Europe/Berlin,FALSE,1276363054
+Stadtlohn,Stadtlohn,,51.9925,6.9150,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,262.5,20807,20807,3,Europe/Berlin,FALSE,1276897939
+Schortens,Schortens,,53.5333,7.9500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,302.3,20797,20797,3,Europe/Berlin,FALSE,1276002315
+Wittmund,Wittmund,,53.5750,7.7808,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,98.9,20773,20773,3,Europe/Berlin,FALSE,1276497812
+Hörstel,Horstel,,52.2972,7.5861,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,193.1,20766,20766,3,Europe/Berlin,FALSE,1276546954
+Enger,Enger,,52.1333,8.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,502.4,20705,20705,3,Europe/Berlin,FALSE,1276241559
+Werdau,Werdau,,50.7333,12.3833,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,315.6,20702,20702,3,Europe/Berlin,FALSE,1276717054
+Nidderau,Nidderau,,50.2500,8.9000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,440.4,20700,20700,3,Europe/Berlin,FALSE,1276730067
+Steinhagen,Steinhagen,,52.0050,8.4147,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,367.9,20671,20671,3,Europe/Berlin,FALSE,1276279674
+Schwanewede,Schwanewede,,53.2333,8.6000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,156.3,20661,20661,3,Europe/Berlin,FALSE,1276874322
+Bad Waldsee,Bad Waldsee,,47.9211,9.7519,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,190.1,20630,20630,3,Europe/Berlin,FALSE,1276818086
+Bockum,Bockum,,51.3333,6.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,2484.0,20617,20617,2,Europe/Berlin,FALSE,1276162253
+Schifferstadt,Schifferstadt,,49.3833,8.3667,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,734.7,20615,20615,3,Europe/Berlin,FALSE,1276776055
+Dingolfing,Dingolfing,Dingelfing,48.6333,12.5000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,467.9,20607,20607,3,Europe/Berlin,FALSE,1276764455
+Neufahrn bei Freising,Neufahrn bei Freising,Neufahrn,48.3167,11.6667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,452.4,20590,20590,3,Europe/Berlin,FALSE,1276307498
+Wachtberg,Wachtberg,,50.6167,7.1333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,414.3,20581,20581,3,Europe/Berlin,FALSE,1276189631
+Fröndenberg,Frondenberg,,51.4719,7.7658,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,365.6,20548,20548,3,Europe/Berlin,FALSE,1276071190
+Coswig,Coswig,,51.1333,13.5833,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,792.6,20512,20512,3,Europe/Berlin,FALSE,1276791212
+Uetze,Uetze,,52.4661,10.2039,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,145.6,20471,20471,3,Europe/Berlin,FALSE,1276620577
+Dülken,Dulken,,51.2522,6.3353,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,819.7,20469,20469,3,Europe/Berlin,FALSE,1276245345
+Greiz,Greiz,,50.6547,12.1997,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,240.3,20397,20397,3,Europe/Berlin,FALSE,1276236041
+Haßloch,Hassloch,Hafsloch,49.3631,8.2558,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,510.3,20387,20387,3,Europe/Berlin,FALSE,1276280419
+Reichenbach/Vogtland,Reichenbach/Vogtland,Reichenbach|Stadt Reichenbach/Vogtland,50.6167,12.3000,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,591.1,20371,20371,3,Europe/Berlin,FALSE,1276903490
+Neustrelitz,Neustrelitz,Stadt Neustrelitz,53.3647,13.0636,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,,147.2,20340,20340,3,Europe/Berlin,FALSE,1276001058
+Duderstadt,Duderstadt,,51.5125,10.2597,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,212.1,20286,20286,3,Europe/Berlin,FALSE,1276392919
+Bad Schwartau,Bad Schwartau,,53.9194,10.6975,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1101.4,20255,20255,3,Europe/Berlin,FALSE,1276687859
+Blieskastel,Blieskastel,,49.2333,7.2500,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,187.0,20240,20240,3,Europe/Berlin,FALSE,1276041906
+Ochtrup,Ochtrup,,52.2056,7.1903,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,191.7,20230,20230,3,Europe/Berlin,FALSE,1276195349
+Telgte,Telgte,,51.9819,7.7856,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,223.2,20222,20222,3,Europe/Berlin,FALSE,1276981111
+Lichtenfels,Lichtenfels,,50.1333,11.0333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,165.3,20217,20217,3,Europe/Berlin,FALSE,1276573026
+Schopfheim,Schopfheim,,47.6500,7.8167,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,295.6,20163,20163,3,Europe/Berlin,FALSE,1276002233
+Giengen an der Brenz,Giengen an der Brenz,Giengen,48.6217,10.2450,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,457.3,20133,20133,3,Europe/Berlin,FALSE,1276782990
+Kürten,Kurten,,51.0497,7.2667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,299.1,20128,20128,3,Europe/Berlin,FALSE,1276494913
+Holzminden,Holzminden,,51.8297,9.4483,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,minor,228.0,20120,20120,3,Europe/Berlin,FALSE,1276491992
+Leinefelde,Leinefelde,,51.3833,10.3333,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,182.6,20119,20119,3,Europe/Berlin,FALSE,1276779963
+Oberkirch,Oberkirch,,48.5333,8.0833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,290.7,20092,20092,3,Europe/Berlin,FALSE,1276739886
+Schmalkalden,Schmalkalden,,50.7167,10.4500,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,190.4,20065,20065,3,Europe/Berlin,FALSE,1276313755
+Tettnang,Tettnang,,47.6708,9.5875,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,281.2,20037,20037,3,Europe/Berlin,FALSE,1276775320
+Donauwörth,Donauworth,Donauwerth,48.7000,10.8000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,259.5,19994,19994,3,Europe/Berlin,FALSE,1276878391
+Dillingen,Dillingen,Dillengen,49.3500,6.7333,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,905.7,19989,19989,3,Europe/Berlin,FALSE,1276001038
+Korntal-Münchingen,Korntal-Munchingen,,48.8306,9.1214,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,963.5,19955,19955,3,Europe/Berlin,FALSE,1276087969
+Waldbröl,Waldbrol,,50.8789,7.6150,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,315.1,19949,19949,3,Europe/Berlin,FALSE,1276170251
+Hiddenhausen,Hiddenhausen,,52.1667,8.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,834.7,19924,19924,3,Europe/Berlin,FALSE,1276748088
+Nottuln,Nottuln,,51.9167,7.2833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,232.3,19901,19901,3,Europe/Berlin,FALSE,1276258837
+Gerlingen,Gerlingen,,48.8000,9.0653,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1167.8,19853,19853,3,Europe/Berlin,FALSE,1276144443
+Moosburg,Moosburg,Moosburg an der Isar|Mosburg,48.4667,11.9333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,452.3,19832,19832,3,Europe/Berlin,TRUE,1276561909
+Dillingen,Dillingen,Dillingen an der Donau,48.5667,10.4667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,262.1,19814,19814,3,Europe/Berlin,FALSE,1276506212
+Torgau,Torgau,,51.5603,13.0056,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,192.6,19802,19802,3,Europe/Berlin,FALSE,1276804920
+Wilnsdorf,Wilnsdorf,,50.8167,8.1000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,274.8,19793,19793,3,Europe/Berlin,FALSE,1276419924
+Ennigerloh,Ennigerloh,,51.8367,8.0256,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,157.9,19757,19757,3,Europe/Berlin,FALSE,1276421778
+Wittlich,Wittlich,,49.9869,6.8897,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,397.7,19740,19740,3,Europe/Berlin,FALSE,1276069973
+Marsberg,Marsberg,,51.4500,8.8333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,108.3,19736,19736,3,Europe/Berlin,FALSE,1276309670
+Sarstedt,Sarstedt,,52.2394,9.8606,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,459.6,19735,19735,3,Europe/Berlin,FALSE,1276490791
+Gröbenzell,Grobenzell,,48.2000,11.3667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,3100.2,19717,19717,2,Europe/Berlin,FALSE,1276398825
+Mayen,Mayen,,50.3333,7.2167,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,339.6,19708,19708,3,Europe/Berlin,FALSE,1276174509
+Schenefeld,Schenefeld,,53.6028,9.8233,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1972.7,19707,19707,3,Europe/Berlin,FALSE,1276791655
+Oschersleben,Oschersleben,,52.0167,11.2500,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,104.3,19704,19704,3,Europe/Berlin,FALSE,1276686337
+Bückeburg,Buckeburg,,52.2608,9.0492,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,285.9,19701,19701,3,Europe/Berlin,FALSE,1276508515
+Haiger,Haiger,,50.7422,8.2039,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,184.0,19623,19623,3,Europe/Berlin,FALSE,1276810840
+Bad Aibling,Bad Aibling,Albling|Aibling,47.8639,12.0100,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,441.6,19613,19613,3,Europe/Berlin,FALSE,1276844408
+Bad Pyrmont,Bad Pyrmont,,51.9867,9.2636,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,316.2,19604,19604,3,Europe/Berlin,FALSE,1276800450
+Rhede,Rhede,,51.8333,6.7006,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,248.4,19595,19595,3,Europe/Berlin,FALSE,1276000350
+Engelskirchen,Engelskirchen,,50.9833,7.4167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,310.7,19584,19584,3,Europe/Berlin,FALSE,1276315673
+Wenden,Wenden,,50.9667,7.8667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,269.6,19565,19565,3,Europe/Berlin,TRUE,1276958292
+Eschwege,Eschwege,,51.1881,10.0528,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,minor,307.8,19472,19472,3,Europe/Berlin,FALSE,1276348756
+Borna,Borna,,51.1167,12.5000,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,311.8,19470,19470,3,Europe/Berlin,TRUE,1276020510
+Mölln,Molln,Moelln,53.6269,10.6847,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,777.2,19469,19469,3,Europe/Berlin,FALSE,1276643502
+Müllheim,Mullheim,Mulheim,47.8000,7.6333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,336.1,19463,19463,3,Europe/Berlin,FALSE,1276925185
+Hechingen,Hechingen,,48.3517,8.9633,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,292.6,19439,19439,3,Europe/Berlin,FALSE,1276884131
+Weil der Stadt,Weil der Stadt,Weil,48.7508,8.8706,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,449.4,19401,19401,3,Europe/Berlin,FALSE,1276534554
+Sulzbach-Rosenberg,Sulzbach-Rosenberg,Sulzbach,49.5000,11.7500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,399.8,19401,19401,3,Europe/Berlin,FALSE,1276541212
+Bad Driburg,Bad Driburg,,51.7333,9.0167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,168.2,19390,19390,3,Europe/Berlin,FALSE,1276571920
+Annaberg-Buchholz,Annaberg-Buchholz,Buchholz|Annaberg|Stadt Annaberg-Buchholz,50.5800,13.0022,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,minor,688.5,19382,19382,3,Europe/Berlin,FALSE,1276866777
+Burghausen,Burghausen,Burkhausen,48.1667,12.8333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,975.5,19364,19364,3,Europe/Berlin,FALSE,1276305755
+Nauen,Nauen,,52.6000,12.8831,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,72.2,19352,19352,3,Europe/Berlin,FALSE,1276864648
+Wassenberg,Wassenberg,,51.1000,6.1500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,456.0,19339,19339,3,Europe/Berlin,FALSE,1276956199
+Wolfratshausen,Wolfratshausen,Wolferzhausen,47.9133,11.4278,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,2117.7,19335,19335,2,Europe/Berlin,FALSE,1276706639
+Heusenstamm,Heusenstamm,,50.0500,8.8000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1014.5,19306,19306,3,Europe/Berlin,FALSE,1276666927
+Haldensleben,Haldensleben,Neuhaldensleben,52.2833,11.4167,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,minor,123.3,19267,19267,3,Europe/Berlin,FALSE,1276371853
+Alzey,Alzey,,49.7458,8.1153,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,550.4,19265,19265,3,Europe/Berlin,FALSE,1276680173
+Gilching,Gilching,,48.1167,11.3000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,611.0,19247,19247,3,Europe/Berlin,FALSE,1276366284
+Schkeuditz,Schkeuditz,,51.4000,12.2167,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,235.5,19189,19189,3,Europe/Berlin,FALSE,1276228794
+Bad Tölz,Bad Tolz,Bad Toelz|Tolz,47.7603,11.5567,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,622.9,19186,19186,3,Europe/Berlin,FALSE,1276892151
+Schönefeld,Schonefeld,,52.3883,13.5047,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,235.1,19174,19174,3,Europe/Berlin,FALSE,1276663675
+Blankenburg,Blankenburg,,51.7953,10.9622,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,128.7,19161,19161,3,Europe/Berlin,FALSE,1276635033
+Seesen,Seesen,,51.8931,10.1783,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,187.2,19159,19159,3,Europe/Berlin,FALSE,1276914120
+Sömmerda,Sommerda,,51.1617,11.1169,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,237.4,19156,19156,3,Europe/Berlin,FALSE,1276806984
+Schwalmtal,Schwalmtal,,51.2225,6.2625,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,397.9,19143,19143,3,Europe/Berlin,FALSE,1276833199
+Schneverdingen,Schneverdingen,,53.1167,9.8000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,81.5,19140,19140,3,Europe/Berlin,FALSE,1276752778
+Eitorf,Eitorf,Eitdorf,50.7697,7.4517,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,273.1,19132,19132,3,Europe/Berlin,FALSE,1276150855
+Lebach,Lebach,,49.4100,6.9100,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,297.4,19095,19095,3,Europe/Berlin,FALSE,1276242576
+Pfullingen,Pfullingen,,48.4656,9.2261,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,631.0,19005,19005,3,Europe/Berlin,FALSE,1276393885
+Radeberg,Radeberg,,51.1167,13.9167,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,632.7,18980,18980,3,Europe/Berlin,FALSE,1276815602
+Burscheid,Burscheid,,51.1000,7.1167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,694.0,18968,18968,3,Europe/Berlin,FALSE,1276397307
+Kolbermoor,Kolbermoor,,47.8500,12.0667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,955.4,18945,18945,3,Europe/Berlin,FALSE,1276583234
+Neviges,Neviges,Hardenberg-Neviges,51.3128,7.0869,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1019.7,18937,18937,3,Europe/Berlin,FALSE,1276164931
+Bad Berleburg,Bad Berleburg,Berleburg|Berleberg,51.0497,8.4000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,68.7,18923,18923,3,Europe/Berlin,FALSE,1276128056
+Prenzlau,Prenzlau,,53.3167,13.8667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,132.3,18909,18909,3,Europe/Berlin,FALSE,1276456147
+Bad Reichenhall,Bad Reichenhall,Reichenhall|Datreiche Hall,47.7247,12.8769,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,450.7,18893,18893,3,Europe/Berlin,FALSE,1276059039
+Hemmingen,Hemmingen,,52.3236,9.7256,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,596.2,18870,18870,3,Europe/Berlin,FALSE,1276579217
+Weißenburg,Weissenburg,Weissenburg|Weissenburg in Bayern|Weißenburg in Bayern,49.0306,10.9719,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,193.2,18854,18854,3,Europe/Berlin,FALSE,1276099657
+Alzenau in Unterfranken,Alzenau in Unterfranken,Alzenau,50.0667,9.0667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,317.4,18829,18829,3,Europe/Berlin,FALSE,1276942017
+Bad Dürkheim,Bad Durkheim,Dürkheim,49.4594,8.1681,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,184.5,18818,18818,3,Europe/Berlin,FALSE,1276602357
+Marktoberdorf,Marktoberdorf,,47.7667,10.6167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,197.5,18809,18809,3,Europe/Berlin,FALSE,1276720955
+Bremervörde,Bremervorde,,53.4833,9.1333,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,125.1,18793,18793,3,Europe/Berlin,FALSE,1276000575
+Alfeld,Alfeld,,51.9886,9.8269,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,257.0,18723,18723,3,Europe/Berlin,FALSE,1276733070
+Bergneustadt,Bergneustadt,,51.0333,7.6500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,491.8,18633,18633,3,Europe/Berlin,FALSE,1276283829
+Uetersen,Uetersen,Ütersen,53.6872,9.6692,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1628.9,18618,18618,3,Europe/Berlin,FALSE,1276507212
+Renningen,Renningen,,48.7661,8.9347,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,597.4,18596,18596,3,Europe/Berlin,FALSE,1276122703
+Rhynern,Rhynern,,51.6299,7.8581,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,313.7,18578,18578,3,Europe/Berlin,FALSE,1276906435
+Crimmitschau,Crimmitschau,Crimmitshau|Stadt Crimmitschau,50.8181,12.3875,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,303.6,18567,18567,3,Europe/Berlin,FALSE,1276188517
+Glinde,Glinde,,53.5406,10.2111,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1653.0,18547,18547,3,Europe/Berlin,FALSE,1276316044
+Hochheim am Main,Hochheim am Main,Hochheim,50.0167,8.3500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,954.1,18538,18538,3,Europe/Berlin,FALSE,1276794905
+Rhaude,Rhaude,,53.1667,7.5500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,179.7,18495,18495,3,Europe/Berlin,FALSE,1276244739
+Vlotho,Vlotho,,52.1667,8.8497,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,240.4,18495,18495,3,Europe/Berlin,FALSE,1276438597
+Schwalmstadt,Schwalmstadt,,50.9333,9.2167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,218.2,18488,18488,3,Europe/Berlin,FALSE,1276496894
+Vellmar,Vellmar,,51.3500,9.4667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1322.4,18474,18474,3,Europe/Berlin,FALSE,1276293369
+Hoppegarten,Hoppegarten,,52.5167,13.6667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,577.5,18469,18469,3,Europe/Berlin,FALSE,1276233204
+Hessisch Oldendorf,Hessisch Oldendorf,,52.1667,9.2500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,153.4,18458,18458,3,Europe/Berlin,FALSE,1276530384
+Bönen,Bonen,,51.5986,7.7592,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,485.0,18438,18438,3,Europe/Berlin,FALSE,1276501741
+Lahnstein,Lahnstein,,50.3011,7.6056,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,500.2,18433,18433,3,Europe/Berlin,FALSE,1276335770
+Vechelde,Vechelde,,52.2608,10.3720,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,241.6,18419,18419,3,Europe/Berlin,FALSE,1276280794
+Kronberg,Kronberg,Cronberg in Taunus,50.1833,8.5000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,991.2,18416,18416,3,Europe/Berlin,FALSE,1276558702
+Konz,Konz,Conz,49.7000,6.5833,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,413.0,18403,18403,3,Europe/Berlin,FALSE,1276863750
+Langen,Langen,,53.6167,8.5833,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,146.8,18395,18395,3,Europe/Berlin,FALSE,1276787724
+Sigmaringen,Sigmaringen,,48.0867,9.2164,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,197.9,18375,18375,3,Europe/Berlin,FALSE,1276579491
+Illertissen,Illertissen,,48.2167,10.0833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,504.8,18368,18368,3,Europe/Berlin,FALSE,1276593057
+Wörth am Rhein,Worth am Rhein,Wörth,49.0517,8.2603,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,139.4,18350,18350,3,Europe/Berlin,FALSE,1276803392
+Püttlingen,Puttlingen,,49.2833,6.8833,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,763.9,18295,18295,3,Europe/Berlin,FALSE,1276328612
+Parchim,Parchim,,53.4167,11.8333,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,minor,146.4,18278,18278,3,Europe/Berlin,FALSE,1276781173
+Bad Segeberg,Bad Segeberg,,53.9167,10.3167,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,965.6,18221,18221,3,Europe/Berlin,FALSE,1276181220
+Taufkirchen,Taufkirchen,,48.0500,11.6167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,826.6,18185,18185,3,Europe/Berlin,FALSE,1276946888
+Heusweiler,Heusweiler,,49.3500,6.9167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,453.3,18138,18138,3,Europe/Berlin,FALSE,1276589030
+Großenhain,Grossenhain,,51.2833,13.5500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,138.9,18102,18102,3,Europe/Berlin,FALSE,1276062611
+Bobingen,Bobingen,,48.2667,10.8167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,359.6,18070,18070,3,Europe/Berlin,FALSE,1276277241
+Ismaning,Ismaning,,48.2264,11.6725,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,449.4,18062,18062,3,Europe/Berlin,FALSE,1276633464
+Frankenberg,Frankenberg,,51.0589,8.7967,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,144.4,18033,18033,3,Europe/Berlin,FALSE,1276051534
+Buchen in Odenwald,Buchen in Odenwald,Buchen,49.5217,9.3233,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,129.7,18018,18018,3,Europe/Berlin,FALSE,1276974738
+Halstenbek,Halstenbek,,53.6333,9.8667,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1429.1,17978,17978,3,Europe/Berlin,FALSE,1276502053
+Forst (Lausitz),Forst (Lausitz),Barsac|Forst/Lausitz|Stadt Forst (Lausitz)|Forst|Baršć|Baršć (Łužyca),51.7333,14.6333,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,minor,162.5,17855,17855,3,Europe/Berlin,FALSE,1276307453
+Werdohl,Werdohl,,51.2667,7.7667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,533.9,17827,17827,3,Europe/Berlin,FALSE,1276252108
+Freilassing,Freilassing,,47.8333,12.9667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1203.0,17816,17816,3,Europe/Berlin,FALSE,1276282147
+Oberasbach,Oberasbach,,49.4219,10.9583,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1474.3,17810,17810,3,Europe/Berlin,FALSE,1276883001
+Freudenberg,Freudenberg,,50.8997,7.8667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,325.5,17773,17773,3,Europe/Berlin,FALSE,1276203816
+Weilerswist,Weilerswist,,50.7667,6.8331,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,310.7,17763,17763,3,Europe/Berlin,FALSE,1276196385
+Auerbach,Auerbach,,50.5094,12.4000,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,319.9,17759,17759,3,Europe/Berlin,TRUE,1276679224
+Schrobenhausen,Schrobenhausen,,48.5333,11.2667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,235.9,17754,17754,3,Europe/Berlin,FALSE,1276307699
+Bad Münder am Deister,Bad Munder am Deister,Münder am Deister|Bad Münder,52.1992,9.4653,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,164.6,17728,17728,3,Europe/Berlin,FALSE,1276351668
+Kreuzau,Kreuzau,Kreuzau über Düren,50.7500,6.4831,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,423.8,17687,17687,3,Europe/Berlin,FALSE,1276795378
+Diepholz,Diepholz,,52.6072,8.3711,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,168.9,17685,17685,3,Europe/Berlin,FALSE,1276476080
+Bad Säckingen,Bad Sackingen,Säckingen,47.5500,7.9500,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,696.9,17660,17660,3,Europe/Berlin,FALSE,1276877057
+Nidda,Nidda,,50.4128,9.0092,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,149.2,17650,17650,3,Europe/Berlin,FALSE,1276604046
+Bexbach,Bexbach,,49.3494,7.2594,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,567.4,17642,17642,3,Europe/Berlin,FALSE,1276508289
+Damme,Damme,,52.5208,8.1986,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,169.0,17639,17639,3,Europe/Berlin,FALSE,1276165336
+Bad Wildungen,Bad Wildungen,,51.1167,9.1167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,146.5,17595,17595,3,Europe/Berlin,FALSE,1276828659
+Trossingen,Trossingen,,48.0756,8.6361,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,726.1,17571,17571,3,Europe/Berlin,FALSE,1276343997
+Garching bei München,Garching bei Munchen,Arching|Garching,48.2500,11.6500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,622.4,17526,17526,3,Europe/Berlin,FALSE,1276544473
+Stockach,Stockach,,47.8514,9.0114,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,250.8,17490,17490,3,Europe/Berlin,TRUE,1276190104
+Nümbrecht,Numbrecht,,50.9053,7.5422,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,243.6,17486,17486,3,Europe/Berlin,FALSE,1276389854
+Sinzig,Sinzig,,50.5453,7.2519,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,425.1,17437,17437,3,Europe/Berlin,FALSE,1276200986
+Remagen,Remagen,Rigomagus,50.5786,7.2306,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,525.5,17426,17426,3,Europe/Berlin,FALSE,1276287418
+Cham,Cham,Cham Regen,49.2167,12.6500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,216.0,17421,17421,3,Europe/Berlin,FALSE,1276459468
+Babenhausen,Babenhausen,,49.9667,8.9500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,260.3,17409,17409,3,Europe/Berlin,FALSE,1276006345
+Kelsterbach,Kelsterbach,,50.0617,8.5311,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1127.5,17375,17375,3,Europe/Berlin,FALSE,1276996005
+Gescher,Gescher,,51.9569,7.0056,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,214.9,17361,17361,3,Europe/Berlin,FALSE,1276129657
+Bad Langensalza,Bad Langensalza,Langensalza,51.1081,10.6467,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,140.3,17349,17349,3,Europe/Berlin,FALSE,1276854476
+Schwarzenbek,Schwarzenbek,,53.5042,10.4792,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1499.3,17317,17317,3,Europe/Berlin,FALSE,1276765796
+Schwalbach,Schwalbach,,49.2833,6.8167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,633.8,17309,17309,3,Europe/Berlin,FALSE,1276949643
+Holzwickede,Holzwickede,,51.5000,7.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,773.6,17298,17298,3,Europe/Berlin,FALSE,1276204941
+Horn-Bad Meinberg,Horn-Bad Meinberg,,51.8833,8.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,191.8,17290,17290,3,Europe/Berlin,FALSE,1276648708
+Brand,Brand,,50.7489,6.1650,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1283.3,17284,17284,3,Europe/Berlin,TRUE,1276474228
+Bad Münstereifel,Bad Munstereifel,Münstereifel,50.5531,6.7661,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,114.6,17282,17282,3,Europe/Berlin,FALSE,1276172917
+Gunzenhausen,Gunzenhausen,,49.1147,10.7542,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,208.4,17239,17239,3,Europe/Berlin,FALSE,1276273217
+Oerlinghausen,Oerlinghausen,,51.9667,8.6667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,527.3,17238,17238,3,Europe/Berlin,FALSE,1276933659
+Heilbad Heiligenstadt,Heilbad Heiligenstadt,Heiligenstadt,51.3789,10.1386,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,minor,276.8,17233,17233,3,Europe/Berlin,FALSE,1276037701
+Bendorf,Bendorf,,50.4297,7.5703,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,715.5,17221,17221,3,Europe/Berlin,FALSE,1276205648
+Marktredwitz,Marktredwitz,Martredwitz|Harktrednitz,50.0000,12.0667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,347.5,17206,17206,3,Europe/Berlin,FALSE,1276442185
+Bad Wörishofen,Bad Worishofen,,48.0058,10.5969,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,297.3,17180,17180,3,Europe/Berlin,FALSE,1276068961
+Stockelsdorf,Stockelsdorf,,53.8833,10.6500,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,301.4,17087,17087,3,Europe/Berlin,FALSE,1276893181
+Eutin,Eutin,Eutin mit Malente,54.1378,10.6181,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,412.7,17086,17086,3,Europe/Berlin,FALSE,1276288365
+Künzell,Kunzell,,50.5500,9.7167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,563.3,17062,17062,3,Europe/Berlin,FALSE,1276700947
+Kelheim,Kelheim,,48.9167,11.8667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,222.3,17044,17044,3,Europe/Berlin,FALSE,1276123640
+Wadgassen,Wadgassen,,49.2667,6.7667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,656.7,17016,17016,3,Europe/Berlin,FALSE,1276539797
+Kamenz,Kamenz,Kamjenc,51.2667,14.1000,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,319.5,17015,17015,3,Europe/Berlin,FALSE,1276558710
+Ginsheim-Gustavsburg,Ginsheim-Gustavsburg,,49.9833,8.3333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1216.6,16960,16960,3,Europe/Berlin,FALSE,1276577011
+Hünfeld,Hunfeld,,50.6667,9.7667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,141.4,16941,16941,3,Europe/Berlin,FALSE,1276813919
+Eggenstein-Leopoldshafen,Eggenstein-Leopoldshafen,Leopoldshafen,49.0778,8.3925,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,648.9,16924,16924,3,Europe/Berlin,FALSE,1276489568
+Kronach,Kronach,,50.2411,11.3281,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,252.4,16906,16906,3,Europe/Berlin,FALSE,1276212761
+Bruckmühl,Bruckmuhl,,47.8833,11.9167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,336.5,16894,16894,3,Europe/Berlin,FALSE,1276950984
+Heidenau,Heidenau,,50.9833,13.8667,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,1525.2,16884,16884,3,Europe/Berlin,FALSE,1276588672
+Thale,Thale,,51.7500,11.0500,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,122.6,16868,16868,3,Europe/Berlin,FALSE,1276578169
+Bitburg,Bitburg,,49.9667,6.5333,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,354.4,16852,16852,3,Europe/Berlin,FALSE,1276110282
+Finnentrop,Finnentrop,Neubrücke,51.1667,7.9667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,161.4,16851,16851,3,Europe/Berlin,FALSE,1276799672
+Wittenberge,Wittenberge,,53.0000,11.7500,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,332.5,16837,16837,3,Europe/Berlin,FALSE,1276040852
+Bad Lippspringe,Bad Lippspringe,Lippspringe,51.7833,8.8167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,329.6,16808,16808,3,Europe/Berlin,FALSE,1276944431
+Königstein im Taunus,Konigstein im Taunus,Königstein,50.1833,8.4667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,667.1,16744,16744,3,Europe/Berlin,FALSE,1276481618
+Bürstadt,Burstadt,,49.6333,8.4500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,485.6,16734,16734,3,Europe/Berlin,FALSE,1276454378
+Penzberg,Penzberg,,47.7500,11.3833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,650.2,16729,16729,3,Europe/Berlin,FALSE,1276589283
+Holzkirchen,Holzkirchen,,47.8833,11.7000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,346.0,16722,16722,3,Europe/Berlin,FALSE,1276287582
+Bassum,Bassum,,52.8494,8.7267,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,98.7,16658,16658,3,Europe/Berlin,FALSE,1276562113
+Loxstedt,Loxstedt,,53.4667,8.6500,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,117.5,16651,16651,3,Europe/Berlin,FALSE,1276084019
+Seeheim-Jugenheim,Seeheim-Jugenheim,,49.7500,8.6500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,593.8,16627,16627,3,Europe/Berlin,FALSE,1276449114
+Leopoldshöhe,Leopoldshohe,,52.0167,8.6914,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,449.9,16614,16614,3,Europe/Berlin,FALSE,1276147484
+Wurzen,Wurzen,,51.3667,12.7167,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,240.6,16614,16614,3,Europe/Berlin,FALSE,1276002805
+Marienberg,Marienberg,,50.6333,13.1500,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,124.4,16603,16603,3,Europe/Berlin,FALSE,1276662047
+Reinheim,Reinheim,,49.8269,8.8308,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,599.4,16603,16603,3,Europe/Berlin,FALSE,1276510132
+Eppelborn,Eppelborn,,49.3833,6.9667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,350.6,16565,16565,3,Europe/Berlin,FALSE,1276013431
+Regenstauf,Regenstauf,,49.1236,12.1283,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,159.4,16543,16543,3,Europe/Berlin,FALSE,1276162289
+Raunheim,Raunheim,,50.0167,8.4500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,1312.9,16542,16542,3,Europe/Berlin,FALSE,1276238709
+Hövelhof,Hovelhof,,51.8167,8.6500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,233.6,16522,16522,3,Europe/Berlin,FALSE,1276911477
+Brackenheim,Brackenheim,,49.0833,9.0667,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,361.2,16521,16521,3,Europe/Berlin,FALSE,1276363194
+Kirchhain,Kirchhain,,50.8167,8.9167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,181.1,16462,16462,3,Europe/Berlin,FALSE,1276056692
+Wardenburg,Wardenburg,,53.0617,8.1967,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,138.6,16449,16449,3,Europe/Berlin,FALSE,1276888712
+Altena,Altena,,51.3000,7.6667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,369.9,16430,16430,3,Europe/Berlin,FALSE,1276575290
+Kierspe,Kierspe,,51.1333,7.5667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,228.4,16422,16422,3,Europe/Berlin,FALSE,1276256169
+Petersberg,Petersberg,,50.5667,9.7167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,462.1,16410,16410,3,Europe/Berlin,FALSE,1276763295
+Poing,Poing,,48.1667,11.8167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,1269.7,16404,16404,3,Europe/Berlin,FALSE,1276650408
+Pocking,Pocking,,48.4000,13.3167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,237.7,16399,16399,3,Europe/Berlin,TRUE,1276193940
+Brakel,Brakel,,51.7167,9.1833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,94.2,16372,16372,3,Europe/Berlin,FALSE,1276092395
+Hude,Hude,,53.1111,8.4625,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,131.4,16372,16372,3,Europe/Berlin,FALSE,1276379256
+Kirchlengern,Kirchlengern,,52.2000,8.6331,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,484.5,16366,16366,3,Europe/Berlin,FALSE,1276250400
+Straelen,Straelen,,51.4500,6.2667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,221.1,16365,16365,3,Europe/Berlin,FALSE,1276805801
+Guben,Guben,Gubin,51.9533,14.7167,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,374.0,16363,16363,3,Europe/Berlin,FALSE,1276800396
+Sulzbach,Sulzbach,,49.2833,7.0667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,1017.6,16353,16353,3,Europe/Berlin,FALSE,1276579983
+Halver,Halver,,51.1833,7.4667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,211.7,16347,16347,3,Europe/Berlin,FALSE,1276039349
+Großostheim,Grossostheim,,49.9167,9.0833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,368.8,16342,16342,3,Europe/Berlin,FALSE,1276880614
+Bad Essen,Bad Essen,,52.3214,8.3400,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,158.2,16339,16339,3,Europe/Berlin,FALSE,1276585776
+Erwitte,Erwitte,,51.6167,8.3500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,221.3,16333,16333,3,Europe/Berlin,FALSE,1276225862
+Elsen,Elsen,,51.7333,8.6833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,808.5,16323,16323,3,Europe/Berlin,FALSE,1276679573
+Bargteheide,Bargteheide,,53.7167,10.2667,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1029.8,16301,16301,3,Europe/Berlin,FALSE,1276611028
+Schmelz,Schmelz,,49.4167,6.8333,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,278.1,16301,16301,3,Europe/Berlin,FALSE,1276565540
+Wiefelstede,Wiefelstede,,53.2581,8.1172,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,152.9,16282,16282,3,Europe/Berlin,FALSE,1276114167
+Oyten,Oyten,,53.0611,9.0178,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,256.3,16258,16258,3,Europe/Berlin,FALSE,1276791592
+Wendlingen am Neckar,Wendlingen am Neckar,Wendlingen,48.6747,9.3817,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1338.1,16258,16258,3,Europe/Berlin,FALSE,1276408904
+Bad Bentheim,Bad Bentheim,,52.3031,7.1597,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,162.5,16251,16251,3,Europe/Berlin,FALSE,1276319622
+Künzelsau,Kunzelsau,,49.2833,9.6833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,minor,216.1,16228,16228,3,Europe/Berlin,FALSE,1276563190
+Freiberg am Neckar,Freiberg am Neckar,Freiberg,48.9333,9.2000,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1218.3,16216,16216,3,Europe/Berlin,FALSE,1276056473
+Stahnsdorf,Stahnsdorf,,52.3922,13.2167,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,330.2,16203,16203,3,Europe/Berlin,FALSE,1276819646
+Alsfeld,Alsfeld,,50.7511,9.2711,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,124.7,16177,16177,3,Europe/Berlin,FALSE,1276584676
+Schlüchtern,Schluchtern,,50.3500,9.5167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,142.6,16151,16151,3,Europe/Berlin,FALSE,1276713332
+Markranstädt,Markranstadt,,51.3017,12.2211,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,275.9,16132,16132,3,Europe/Berlin,FALSE,1276832529
+Michelstadt,Michelstadt,,49.6786,9.0039,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,185.1,16097,16097,3,Europe/Berlin,FALSE,1276024719
+Wendelstein,Wendelstein,,49.3536,11.1483,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,315.0,16089,16089,3,Europe/Berlin,TRUE,1276957789
+Brüggen,Bruggen,,51.2417,6.1822,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,262.8,16082,16082,3,Europe/Berlin,TRUE,1276029002
+Großenkneten,Grossenkneten,,52.9500,8.2667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,91.3,16079,16079,3,Europe/Berlin,FALSE,1276069119
+Marbach am Neckar,Marbach am Neckar,Marbach,48.9333,9.2500,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,888.9,16053,16053,3,Europe/Berlin,FALSE,1276176133
+Eilenburg,Eilenburg,,51.4608,12.6358,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,342.3,16031,16031,3,Europe/Berlin,FALSE,1276166351
+Preetz,Preetz,,54.2367,10.2822,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1112.8,16024,16024,3,Europe/Berlin,FALSE,1276274661
+Zeulenroda,Zeulenroda,,50.6486,11.9806,Germany,DE,DEU,Thuringia,Thuringia,DE-TH,state,,187.4,16021,16021,3,Europe/Berlin,FALSE,1276933669
+Aue,Aue,Aue-Auerhammer|Stadt Aue,50.5881,12.7006,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,764.7,16012,16012,3,Europe/Berlin,FALSE,1276459690
+Illingen,Illingen,,49.3667,7.0333,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,443.4,15998,15998,3,Europe/Berlin,FALSE,1276359675
+Weener,Weener,,53.1692,7.3564,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,196.9,15997,15997,3,Europe/Berlin,FALSE,1276425095
+Füssen,Fussen,,47.5667,10.7000,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,367.6,15985,15985,3,Europe/Berlin,TRUE,1276059513
+Erlensee,Erlensee,,50.1333,8.9333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,859.5,15969,15969,3,Europe/Berlin,FALSE,1276495268
+Finsterwalde,Finsterwalde,Grabin,51.6282,13.7102,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,207.6,15968,15968,3,Europe/Berlin,FALSE,1276493643
+Süchteln,Suchteln,,51.2833,6.3833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,700.4,15941,15941,3,Europe/Berlin,FALSE,1276796090
+Schwarzenberg,Schwarzenberg,,50.5453,12.7792,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,344.1,15936,15936,3,Europe/Berlin,FALSE,1276831560
+Königslutter am Elm,Konigslutter am Elm,Königslutter,52.2500,10.8167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,121.5,15933,15933,3,Europe/Berlin,FALSE,1276192101
+Eilendorf,Eilendorf,,50.7794,6.1625,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,2323.4,15892,15892,2,Europe/Berlin,FALSE,1276960521
+Walldorf,Walldorf,,49.3000,8.6500,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,797.8,15892,15892,3,Europe/Berlin,FALSE,1276002664
+Wadern,Wadern,,49.5167,6.8667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,142.9,15885,15885,3,Europe/Berlin,FALSE,1276516463
+Drensteinfurt,Drensteinfurt,,51.7944,7.7392,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,148.9,15874,15874,3,Europe/Berlin,FALSE,1276206694
+Simmerath,Simmerath,,50.6069,6.3000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,142.8,15841,15841,3,Europe/Berlin,FALSE,1276931162
+Ascheberg,Ascheberg,,51.7889,7.6200,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,148.8,15822,15822,3,Europe/Berlin,FALSE,1276423917
+Taucha,Taucha,,51.3800,12.4936,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,469.3,15816,15816,3,Europe/Berlin,FALSE,1276068319
+Breisach am Rhein,Breisach am Rhein,Alt-Breisach|Breisach,48.0333,7.5833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,289.2,15793,15793,3,Europe/Berlin,FALSE,1276880866
+Rahden,Rahden,,52.4167,8.6167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,114.7,15773,15773,3,Europe/Berlin,FALSE,1276217000
+Garrel,Garrel,,52.9581,8.0253,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,139.0,15762,15762,3,Europe/Berlin,FALSE,1276561308
+Hille,Hille,,52.3331,8.7500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,152.7,15728,15728,3,Europe/Berlin,FALSE,1276307584
+Lübbenau/Spreewald,Lubbenau/Spreewald,Lübbenau|Lubnjow/Błota|Lubnjow,51.8667,13.9667,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,113.3,15726,15726,3,Europe/Berlin,FALSE,1276392829
+Ribnitz-Damgarten,Ribnitz-Damgarten,Damgarten,54.2500,12.4667,Germany,DE,DEU,Mecklenburg-Western Pomerania,Mecklenburg-Western Pomerania,DE-MV,state,,128.4,15721,15721,3,Europe/Berlin,FALSE,1276064199
+Langenberg,Langenberg,,51.3519,7.1217,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1019.7,15717,15717,3,Europe/Berlin,FALSE,1276538956
+Dieburg,Dieburg,,49.9000,8.8500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,679.3,15699,15699,3,Europe/Berlin,FALSE,1276337501
+Ebersbach an der Fils,Ebersbach an der Fils,Ebersbachander Fils|Ebersbach,48.7147,9.5236,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,597.3,15692,15692,3,Europe/Berlin,FALSE,1276554005
+Schiffweiler,Schiffweiler,,49.3667,7.1167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,734.3,15655,15655,3,Europe/Berlin,FALSE,1276169477
+Mindelheim,Mindelheim,,48.0333,10.4667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,277.4,15654,15654,3,Europe/Berlin,FALSE,1276322308
+Langenau,Langenau,,48.4967,10.1200,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,208.3,15633,15633,3,Europe/Berlin,TRUE,1276345648
+Boppard,Boppard,,50.2314,7.5908,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,,208.5,15616,15616,3,Europe/Berlin,FALSE,1276667317
+Templin,Templin,,53.1167,13.5000,Germany,DE,DEU,Brandenburg,Brandenburg,DE-BB,state,,41.1,15599,15599,3,Europe/Berlin,FALSE,1276089341
+Epe,Epe,,52.1833,7.0333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,326.3,15589,15589,3,Europe/Berlin,FALSE,1276072259
+Bad Neustadt,Bad Neustadt,Neustadt an der Saale|Bad Neustadt an der Saale|Neustadt,50.3219,10.2161,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,minor,421.7,15558,15558,3,Europe/Berlin,FALSE,1276106311
+Eppelheim,Eppelheim,,49.4000,8.6333,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,2728.9,15555,15555,2,Europe/Berlin,FALSE,1276579726
+Hofgeismar,Hofgeismar,,51.4833,9.4000,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,179.7,15521,15521,3,Europe/Berlin,FALSE,1276882512
+Mainburg,Mainburg,,48.6500,11.7833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,250.8,15466,15466,3,Europe/Berlin,FALSE,1276991073
+Neustadt in Holstein,Neustadt in Holstein,Neustadt,54.1072,10.8158,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,783.8,15464,15464,3,Europe/Berlin,FALSE,1276780766
+Sandhausen,Sandhausen,,49.3439,8.6581,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1062.2,15455,15455,3,Europe/Berlin,FALSE,1276169005
+Gehrden,Gehrden,,52.3117,9.6003,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,356.8,15426,15426,3,Europe/Berlin,TRUE,1276000662
+Blomberg,Blomberg,,51.9333,9.0833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,155.5,15407,15407,3,Europe/Berlin,FALSE,1276943915
+Bad Bramstedt,Bad Bramstedt,,53.9186,9.8844,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,635.1,15331,15331,3,Europe/Berlin,FALSE,1276793883
+Ratekau,Ratekau,,53.9500,10.7333,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,257.1,15330,15330,3,Europe/Berlin,FALSE,1276252655
+Odenthal,Odenthal,,51.0333,7.1167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,383.4,15324,15324,3,Europe/Berlin,FALSE,1276022742
+Burbach,Burbach,,50.7444,8.0861,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,192.3,15315,15315,3,Europe/Berlin,TRUE,1276749212
+Clausthal-Zellerfeld,Clausthal-Zellerfeld,Bergstadt-Clausthal-Zellerfeld,51.8050,10.3356,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,349.9,15286,15286,3,Europe/Berlin,FALSE,1276565687
+Ober-Ramstadt,Ober-Ramstadt,,49.8333,8.7500,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,364.2,15252,15252,3,Europe/Berlin,FALSE,1276189736
+Mering,Mering,Moringen,48.2625,10.9844,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,566.4,15196,15196,3,Europe/Berlin,FALSE,1276382837
+Dorfen,Dorfen,,48.2667,12.1500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,152.4,15179,15179,3,Europe/Berlin,TRUE,1276442321
+Niederkrüchten,Niederkruchten,Niederkirchen,51.1989,6.2194,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,226.2,15170,15170,3,Europe/Berlin,FALSE,1276522692
+Weißwasser/Oberlausitz,Weisswasser/Oberlausitz,Białawoda|Bětła Woda|Weißwasser|Běła Woda|Běła Woda/Hornja Łužica,51.5000,14.6333,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,239.1,15136,15136,3,Europe/Berlin,FALSE,1276986089
+Brake,Brake,,53.3333,8.4833,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,394.1,15094,15094,3,Europe/Berlin,FALSE,1276055035
+Schriesheim,Schriesheim,,49.4736,8.6592,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,477.4,15091,15091,3,Europe/Berlin,FALSE,1276514747
+Neustadt bei Coburg,Neustadt bei Coburg,Neustadt,50.3289,11.1211,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,243.4,15064,15064,3,Europe/Berlin,FALSE,1276116282
+Bad Wurzach,Bad Wurzach,,47.9094,9.8994,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,82.6,15061,15061,3,Europe/Berlin,FALSE,1276243830
+Markgröningen,Markgroningen,Markgronningen,48.9047,9.0808,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,534.2,15054,15054,3,Europe/Berlin,FALSE,1276236194
+Langelsheim,Langelsheim,Langelheim,51.9381,10.3350,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,308.8,15043,15043,3,Europe/Berlin,FALSE,1276567894
+Grenzach-Wyhlen,Grenzach-Wyhlen,Grenzach,47.5450,7.6758,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,868.2,15037,15037,3,Europe/Berlin,FALSE,1276030397
+Ritterhude,Ritterhude,,53.1831,8.7561,Germany,DE,DEU,Bremen,Bremen,DE-HB,state,,456.5,15033,15033,3,Europe/Berlin,FALSE,1276391599
+Fritzlar,Fritzlar,,51.1333,9.2833,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,169.2,15031,15031,3,Europe/Berlin,FALSE,1276290750
+Landsberg,Landsberg,Landsberg bei Halle,51.5333,12.1667,Germany,DE,DEU,Saxony-Anhalt,Saxony-Anhalt,DE-ST,state,,120.4,15015,15015,3,Europe/Berlin,FALSE,1276487466
+Witzenhausen,Witzenhausen,,51.3422,9.8578,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,118.4,15005,15005,3,Europe/Berlin,FALSE,1276417378
+Büttelborn,Buttelborn,,49.9000,8.5167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,499.6,14992,14992,3,Europe/Berlin,FALSE,1276655872
+Bissendorf,Bissendorf,,52.2333,8.1667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,155.6,14942,14942,3,Europe/Berlin,FALSE,1276073314
+Baiersbronn,Baiersbronn,,48.5058,8.3711,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,78.8,14942,14942,3,Europe/Berlin,FALSE,1276633374
+Schiffdorf,Schiffdorf,,53.5358,8.6589,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,131.5,14935,14935,3,Europe/Berlin,FALSE,1276001395
+Malsch,Malsch,,48.8808,8.3342,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,291.4,14929,14929,3,Europe/Berlin,TRUE,1276981496
+Beckingen,Beckingen,,49.3928,6.7008,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,289.1,14928,14928,3,Europe/Berlin,FALSE,1276301126
+Usingen,Usingen,,50.3344,8.5375,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,267.4,14926,14926,3,Europe/Berlin,FALSE,1276509598
+Grefrath,Grefrath,,51.3333,6.3333,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,480.3,14880,14880,3,Europe/Berlin,TRUE,1276931895
+Jever,Jever,,53.5744,7.9008,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,minor,351.6,14847,14847,3,Europe/Berlin,FALSE,1276105413
+Niedernhausen,Niedernhausen,,50.1667,8.3167,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,420.7,14845,14845,3,Europe/Berlin,FALSE,1276265252
+Isny im Allgäu,Isny im Allgau,Isny,47.6919,10.0394,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,173.8,14835,14835,3,Europe/Berlin,FALSE,1276817029
+Hückeswagen,Huckeswagen,,51.1450,7.3417,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,293.8,14825,14825,3,Europe/Berlin,FALSE,1276742746
+Schwabmünchen,Schwabmunchen,,48.1789,10.7550,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,267.0,14819,14819,3,Europe/Berlin,FALSE,1276593802
+Pattensen,Pattensen,,52.2667,9.7667,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,220.3,14790,14790,3,Europe/Berlin,TRUE,1276603378
+Hilchenbach,Hilchenbach,,50.9983,8.1094,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,182.1,14775,14775,3,Europe/Berlin,FALSE,1276321870
+Selb,Selb,,50.1667,12.1333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,171.5,14763,14763,3,Europe/Berlin,FALSE,1276030522
+Much,Much,,50.9167,7.4000,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,189.1,14758,14758,3,Europe/Berlin,FALSE,1276464394
+Friedland,Friedland,,51.4217,9.9144,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,194.3,14744,14744,3,Europe/Berlin,FALSE,1276585633
+Rellingen,Rellingen,,53.6500,9.8167,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,1117.2,14725,14725,3,Europe/Berlin,FALSE,1276483816
+Neustadt an der Donau,Neustadt an der Donau,Neustadt,48.8000,11.7667,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,157.3,14714,14714,3,Europe/Berlin,FALSE,1276348770
+Harsefeld,Harsefeld,,53.4500,9.5000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,283.3,14696,14696,3,Europe/Berlin,FALSE,1276886588
+Groß-Zimmern,Gross-Zimmern,,49.8833,8.8333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,690.8,14687,14687,3,Europe/Berlin,FALSE,1276589803
+Langwedel,Langwedel,,52.9667,9.2167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,192.2,14654,14654,3,Europe/Berlin,FALSE,1276601336
+Plochingen,Plochingen,,48.7117,9.4164,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,1373.2,14611,14611,3,Europe/Berlin,FALSE,1276921571
+Langenselbold,Langenselbold,,50.1833,9.0333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,556.3,14608,14608,3,Europe/Berlin,FALSE,1276686360
+Hatten,Hatten,,53.0083,8.3167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,140.8,14608,14608,3,Europe/Berlin,FALSE,1276627272
+Montabaur,Montabaur,Montebaur,50.4375,7.8258,Germany,DE,DEU,Rhineland-Palatinate,Rhineland-Palatinate,DE-RP,state,minor,434.2,14595,14595,3,Europe/Berlin,FALSE,1276982904
+Lauda-Königshofen,Lauda-Konigshofen,,49.5686,9.7039,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,154.4,14578,14578,3,Europe/Berlin,FALSE,1276018769
+Tostedt,Tostedt,,53.2833,9.7167,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,302.2,14578,14578,3,Europe/Berlin,FALSE,1276412627
+Münster,Munster,,49.9167,8.8667,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,701.0,14566,14566,3,Europe/Berlin,FALSE,1276203607
+Stein bei Nürnberg,Stein bei Nurnberg,Stein,49.4167,11.0167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,745.7,14556,14556,3,Europe/Berlin,FALSE,1276407895
+Ratzeburg,Ratzeburg,,53.7000,10.7500,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,minor,480.5,14553,14553,3,Europe/Berlin,FALSE,1276258916
+Wilsdruff,Wilsdruff,,51.0522,13.5383,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,178.3,14551,14551,3,Europe/Berlin,FALSE,1276738335
+Ottweiler,Ottweiler,,49.3667,7.1667,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,319.2,14543,14543,3,Europe/Berlin,FALSE,1276806597
+Abensberg,Abensberg,Abensperg,48.8000,11.8500,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,241.1,14534,14534,3,Europe/Berlin,FALSE,1276501504
+Neu-Anspach,Neu-Anspach,,50.2931,8.5089,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,401.5,14512,14512,3,Europe/Berlin,FALSE,1276155891
+Immenstadt im Allgäu,Immenstadt im Allgau,Immenstadt,47.5667,10.2167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,179.2,14512,14512,3,Europe/Berlin,FALSE,1276627298
+Olsberg,Olsberg,,51.3500,8.4833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,123.0,14509,14509,3,Europe/Berlin,FALSE,1276829513
+Eberbach,Eberbach,,49.4667,8.9833,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,178.7,14504,14504,3,Europe/Berlin,FALSE,1276456342
+Uhingen,Uhingen,,48.7058,9.5919,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,616.9,14492,14492,3,Europe/Berlin,FALSE,1276901108
+Burglengenfeld,Burglengenfeld,Burglegenfeld,49.2000,12.0333,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,155.3,14484,14484,3,Europe/Berlin,FALSE,1276523136
+Sassenberg,Sassenberg,,51.9897,8.0408,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,185.1,14455,14455,3,Europe/Berlin,TRUE,1276379002
+Neubiberg,Neubiberg,,48.0833,11.6833,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,2504.2,14449,14449,2,Europe/Berlin,FALSE,1276417573
+Eggenfelden,Eggenfelden,,48.4039,12.7642,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,325.5,14437,14437,3,Europe/Berlin,FALSE,1276543412
+Eching,Eching,,48.3000,11.6167,Germany,DE,DEU,Bavaria,Bavaria,DE-BY,state,,386.7,14430,14430,3,Europe/Berlin,FALSE,1276481683
+Spenge,Spenge,,52.1333,8.4833,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,357.3,14416,14416,3,Europe/Berlin,FALSE,1276387127
+Gernsbach,Gernsbach,,48.7633,8.3342,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,175.3,14397,14397,3,Europe/Berlin,FALSE,1276744650
+Lohfelden,Lohfelden,Krumbach|Crumbach,51.2667,9.5333,Germany,DE,DEU,Hesse,Hesse,DE-HE,state,,868.6,14393,14393,3,Europe/Berlin,FALSE,1276890913
+Rheydt,Rheydt,,51.1667,6.4500,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,1447.1,14389,14389,3,Europe/Berlin,FALSE,1276801612
+Riegelsberg,Riegelsberg,,49.2833,6.9167,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,976.9,14360,14360,3,Europe/Berlin,FALSE,1276278201
+Markdorf,Markdorf,,47.7208,9.3917,Germany,DE,DEU,Baden-Württemberg,Baden-Wurttemberg,DE-BW,state,,350.8,14356,14356,3,Europe/Berlin,FALSE,1276086137
+Löbau,Lobau,Lubij|Loebau,51.0944,14.6667,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,181.9,14352,14352,3,Europe/Berlin,FALSE,1276786301
+Tornesch,Tornesch,,53.7000,9.7167,Germany,DE,DEU,Schleswig-Holstein,Schleswig-Holstein,DE-SH,state,,695.9,14350,14350,3,Europe/Berlin,FALSE,1276106363
+Rehlingen-Siersburg,Rehlingen-Siersburg,,49.3686,6.6786,Germany,DE,DEU,Saarland,Saarland,DE-SL,state,,234.3,14349,14349,3,Europe/Berlin,FALSE,1276372658
+Niederzier,Niederzier,,50.8831,6.4667,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,227.7,14345,14345,3,Europe/Berlin,FALSE,1276339063
+Mittweida,Mittweida,,50.9856,12.9811,Germany,DE,DEU,Saxony,Saxony,DE-SN,state,,351.9,14332,14332,3,Europe/Berlin,FALSE,1276378266
+Lotte,Lotte,,52.2764,7.9167,Germany,DE,DEU,North Rhine-Westphalia,North Rhine-Westphalia,DE-NW,state,,376.7,14314,14314,3,Europe/Berlin,FALSE,1276170713
+Lengede,Lengede,,52.2000,10.3000,Germany,DE,DEU,Lower Saxony,Lower Saxony,DE-NI,state,,416.7,14308,14308,3,Europe/Berlin,FALSE,1276406361

@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Tbilisi,Tbilisi,Tiflis|Tblisi|Tbilsi|Tpilisi,41.7225,44.7925,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,primary,1552.8,1118035,1118035,1,Asia/Tbilisi,FALSE,1268203191
+Batumi,Batumi,Batum|Batumi,41.6458,41.6417,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,admin,2605.5,169095,169095,2,Asia/Tbilisi,FALSE,1268193611
+Kutaisi,Kutaisi,Kutais|Kutaissi|Kutaisk,42.2500,42.7000,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,admin,2184.6,147900,147900,2,Asia/Tbilisi,FALSE,1268369835
+Rustavi,Rustavi,Rust’avi,41.5436,45.0117,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,admin,2205.5,132333,132333,2,Asia/Tbilisi,FALSE,1268562807
+Sokhumi,Sokhumi,Suchum|Ssuchum|Sukhum|Sukhumi,43.0000,41.0167,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,admin,336.5,64441,64441,2,Europe/Moscow,FALSE,1268394475
+Iormughanlo,Iormughanlo,Iormuganlo|Mughanlo,41.5961,45.5294,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,51000,51000,3,Asia/Tbilisi,FALSE,1268988289
+Gori,Gori,,41.9667,44.1000,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,admin,2642.4,44524,44524,2,Asia/Tbilisi,FALSE,1268442763
+Poti,Poti,,42.1500,41.6667,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,630.7,41500,41500,3,Asia/Tbilisi,FALSE,1268764439
+Zugdidi,Zugdidi,Sugdidi,42.5083,41.8667,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,admin,1903.4,41494,41494,2,Asia/Tbilisi,FALSE,1268300325
+Tskhinvali,Tskhinvali,Stavinir|Staliniri|Stalinir,42.2250,43.9700,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,30432,30432,3,Asia/Tbilisi,FALSE,1268142653
+Kobuleti,Kobuleti,Kobulyety|K’obulet’i,41.8111,41.7753,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,minor,100.7,27546,27546,3,Asia/Tbilisi,FALSE,1268789492
+Marneuli,Marneuli,Sarwan|Sarvan|Borchalo,41.4969,44.8108,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,103.4,24928,24928,3,Asia/Tbilisi,FALSE,1268246632
+Khashuri,Khashuri,Mikhaylovo|Khasuri|Stalinissi|Chaschuri|Mikhailovo,41.9975,43.5986,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,minor,78.1,24601,24601,3,Asia/Tbilisi,FALSE,1268805813
+Samtredia,Samtredia,Ssamtredia,42.1625,42.3417,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,134.4,22201,22201,3,Asia/Tbilisi,FALSE,1268722261
+Senaki,Senaki,Achal Senaki|Mikha Tskhakaya|Tskhakuya|Tskhakaya|Akhalsenaki|Micha-Zchakaja|Novo-Senaki,42.2689,42.0792,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,65.0,21596,21596,3,Asia/Tbilisi,FALSE,1268594062
+Zestaponi,Zestaponi,Zestafoni|Dshugeli|Kvirily|Sestafoni|Zistafoni|Dzhugeli|Namaneva|Zestaponi,42.1083,43.0417,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,112.9,20548,20548,3,Asia/Tbilisi,FALSE,1268512465
+Telavi,Telavi,Telev|Telawi|Telav,41.9167,45.4833,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,admin,43.8,19509,19509,2,Asia/Tbilisi,FALSE,1268806987
+Chiatura,Chiatura,Tschiatura|Čiat’ura|Chitura,42.2903,43.2819,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,61.7,12803,12803,3,Asia/Tbilisi,FALSE,1268109210
+Kaspi,Kaspi,Kaspi|Kasni,41.9250,44.4222,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,minor,49.9,12708,12708,3,Asia/Tbilisi,FALSE,1268997310
+Borjomi,Borjomi,Borzhomi|Borshom|Borjam,41.8389,43.3792,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,11194,11194,3,Asia/Tbilisi,FALSE,1268485704
+Sagarejo,Sagarejo,Sagaredzho,41.7333,45.3333,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,minor,33.7,10871,10871,3,Asia/Tbilisi,FALSE,1268647899
+Akhaltsikhe,Akhaltsikhe,Akhaltsikh|Achalziche|Achalzych|Akhaltsykhe|Akhaltsykha,41.6389,42.9861,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,admin,38.2,10153,10153,2,Asia/Tbilisi,FALSE,1268352935
+Bolnisi,Bolnisi,Lyuksemburi|Lyuksemburgi|Lyuksemburg-Gruzinskiy|Luxemburg|Lyuksemburg|Luxemburgi|Yekaterinofel’d,41.4500,44.5333,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,57.4,8406,8406,3,Asia/Tbilisi,FALSE,1268256910
+Akhalkalaki,Akhalkalaki,Akhalkalak|Arkhalkalaki|Achalkalaki|Akhalk’alak’i,41.4056,43.4861,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,minor,32.6,8295,8295,3,Asia/Tbilisi,FALSE,1268261654
+Khoni,Khoni,Choni|Tsulukidze|Zulukidse|Khoni,42.3244,42.4222,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,50.2,8045,8045,3,Asia/Tbilisi,FALSE,1268451521
+Mtskheta,Mtskheta,Mtzkhet|Mzcheta|Mtskhera,41.8464,44.7194,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,admin,61.2,7606,7606,2,Asia/Tbilisi,FALSE,1268173120
+Gali,Gali,,42.6333,41.7333,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,64.0,7449,7449,3,Europe/Moscow,FALSE,1268106765
+Gurjaani,Gurjaani,Gurdzhaani|Gurdjaani|Gurdzhani,41.7444,45.8000,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,minor,55.3,7426,7426,3,Asia/Tbilisi,FALSE,1268569881
+Sadakhlo,Sadakhlo,,41.2389,44.7878,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,7337,7337,4,Asia/Tbilisi,FALSE,1268380756
+Q’izil-Ajlo,Q'izil-Ajlo,Kizil-Adzhlo|Kizil-Adzhilo|Qizilajalo,41.4786,44.7725,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,7291,7291,4,Asia/Tbilisi,FALSE,1268949414
+Ts’q’neti,Ts'q'neti,Tskneti|Tskhneti|Tsqnet’i,41.6950,44.6969,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,,193.7,7166,7166,4,Asia/Tbilisi,FALSE,1268866438
+Akhmeta,Akhmeta,Akhmeti|Akhmety,42.0333,45.2000,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,minor,11.9,7015,2114,3,Asia/Tbilisi,FALSE,1268885821
+Chakvi,Chakvi,Chakva,41.7189,41.7333,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,6720,6720,4,Asia/Tbilisi,FALSE,1268364676
+Dusheti,Dusheti,Dushet|Duscheti|Dushet’i,42.0833,44.7000,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,minor,7.4,6167,6167,3,Asia/Tbilisi,FALSE,1268483712
+Sartichala,Sartichala,Sartitsalo|Sartashali|Sart’ichala,41.7139,45.1725,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,60.7,6009,6009,3,Asia/Tbilisi,FALSE,1268472993
+Lagodekhi,Lagodekhi,,41.8222,46.2750,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,minor,38.0,5918,5918,3,Asia/Tbilisi,FALSE,1268532082
+Ochkhamuri,Ochkhamuri,Ochkamuri,41.8553,41.8361,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,5355,5355,4,Asia/Tbilisi,FALSE,1268796857
+Ochamchire,Ochamchire,Ochemechiri|Ochemchiry|Ochemchiri|Otschemtschiri|Ochamchira,42.7167,41.4667,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,5280,5280,3,Europe/Moscow,FALSE,1268462696
+Q’vareli,Q'vareli,Kvarely|Kvareli|Qvareli,41.9500,45.8153,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,26.9,5150,5150,3,Asia/Tbilisi,FALSE,1268398914
+Ruisi,Ruisi,,42.0344,43.9569,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,5139,5139,4,Asia/Tbilisi,FALSE,1268393934
+T’q’varcheli,T'q'varcheli,Tkwartscheli|Tkvarchely|Tkvarcheli,42.8500,41.6833,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,23.8,5097,5097,3,Europe/Moscow,FALSE,1268287098
+Talaveri,Talaveri,Fakhralo|P’akhralo,41.3728,44.6389,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,5038,5038,4,Asia/Tbilisi,FALSE,1268032569
+Algeti,Algeti,Yeor-Arkh|Giaurarkhi|Aigeti|Gyaur-Arkh|Alget’i,41.4481,44.8953,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,5017,5017,4,Asia/Tbilisi,FALSE,1268133716
+Velistsikhe,Velistsikhe,Velists’ikhe,41.8092,45.7542,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,4508,4508,4,Asia/Tbilisi,FALSE,1268645197
+Matani,Matani,Matani-Marelisi|Matani,42.0775,45.1978,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,4451,4451,4,Asia/Tbilisi,FALSE,1268463323
+Tetri Ts’q’aro,Tetri Ts'q'aro,Kvishiani|Agbulag|Agbularh|T’et’ri Tsqaro|Tetri-Tskaro|Belyy-Klyuch|Baly Kluch|Agbulak|Agbulakh,41.5500,44.4667,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,15.7,4427,4427,3,Asia/Tbilisi,FALSE,1268079096
+Dedoplistsqaro,Dedoplistsqaro,Krasnyyekolodtsy|Tsarskie-Kolodtsy|Dedoplistskaro|Tsarskie Kolodtsi|Tseteli-Tskhara|Kras-kolodtsy|Tsiteli-Tskaro|Dedop’listsqaro,41.4639,46.1111,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,minor,7.0,4126,4126,3,Asia/Tbilisi,FALSE,1268323839
+Bich’vinta,Bich'vinta,Pitsundskiy|Pitsundo|Bitchvinta|Pitsunda,43.1667,40.3333,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,4107,4107,3,Europe/Moscow,FALSE,1268650336
+Ingiri,Ingiri,Inguri,42.4957,41.8085,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,4049,4049,3,Asia/Tbilisi,FALSE,1268500366
+Terjola,Terjola,Terdzhola|T’erjola,42.1833,42.9772,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,83.9,3995,3995,3,Asia/Tbilisi,FALSE,1268951457
+Kurdghelauri,Kurdghelauri,Kurdgelauri|Kurdghelauri,41.9319,45.4958,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,3962,3962,4,Asia/Tbilisi,FALSE,1268138474
+K’ardenakhi,K'ardenakhi,Kardenakhy|Kardanakhi,41.6722,45.8869,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,3873,3873,4,Asia/Tbilisi,FALSE,1268335464
+Norio,Norio,,41.7883,44.9786,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,60.7,3756,3756,3,Asia/Tbilisi,FALSE,1268583534
+Gagra,Gagra,Gagri|Gagry,43.3333,40.2167,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,3659,3659,3,Europe/Moscow,FALSE,1268000992
+Chumlaq’i,Chumlaq'i,Chumlaki|Chumiaki|Ch’umlaqi,41.7667,45.7736,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,3651,3651,4,Asia/Tbilisi,FALSE,1268807131
+Tsalka,Tsalka,Khram|Barmaksys|Barmaksiz|Tsalka|Barmaksus,41.5833,44.0833,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,17.7,3467,3467,3,Asia/Tbilisi,FALSE,1268188553
+Tsqaltubo,Tsqaltubo,Tsqaltubo|Tskhaltubo|Tskaltubo,42.3264,42.6006,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,3409,3409,3,Asia/Tbilisi,FALSE,1268187503
+Sabirkendi,Sabirkendi,Sabriakend,41.4514,44.8650,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,3403,3403,4,Asia/Tbilisi,FALSE,1268595353
+Agara,Agara,,42.0361,43.8250,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,3364,3364,4,Asia/Tbilisi,FALSE,1268821751
+Dimi,Dimi,,42.0997,42.8219,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,3251,3251,4,Asia/Tbilisi,FALSE,1268159141
+Tsalenjikha,Tsalenjikha,Tsalendzhikha|Tsalenjikha,42.6117,42.0706,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,3170,3170,3,Asia/Tbilisi,FALSE,1268755315
+Kvemo Nat’anebi,Kvemo Nat'anebi,Notanebi|Natanebi,41.9378,41.8039,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,3099,3099,4,Asia/Tbilisi,FALSE,1268979903
+Lanchkhuti,Lanchkhuti,,42.0875,42.0361,Georgia,GE,GEO,Guria,Guria,GE-GU,region,minor,52.3,3069,3069,3,Asia/Tbilisi,FALSE,1268008920
+Dmanisi,Dmanisi,Bashkichet|Bashkichety|Bashkicheti,41.3317,44.2036,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,14.5,3012,3012,3,Asia/Tbilisi,FALSE,1268836856
+Vejini,Vejini,Vedzhini,41.7097,45.8303,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,2935,2935,4,Asia/Tbilisi,FALSE,1268955761
+Gonio,Gonio,Gonia|Goniye|Goniya,41.5597,41.5722,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,2886,2886,4,Asia/Tbilisi,FALSE,1268473311
+Vazisubani,Vazisubani,Uriatubani|Vazisubani,41.8200,45.6911,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,2862,2862,4,Asia/Tbilisi,FALSE,1268029330
+Mamkhuti,Mamkhuti,Sarach’lo,41.3833,44.7169,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,2841,2841,4,Asia/Tbilisi,FALSE,1268025670
+Patardzeuli,Patardzeuli,Patardzeuli,41.7444,45.2431,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,2829,2829,4,Asia/Tbilisi,FALSE,1268977465
+Baghdati,Baghdati,Mayakovski|Baghdadi|Bagdat’i|Bagdat|Bagdadi|Mbagdat|Mayakovskiy,42.0678,42.8247,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,23.5,2788,2788,3,Asia/Tbilisi,FALSE,1268153108
+Manavi,Manavi,,41.7183,45.4628,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,2769,2769,4,Asia/Tbilisi,FALSE,1268750246
+Sachkhere,Sachkhere,Ssatschcheri|Sachkheri|Sach’khere,42.3389,43.4039,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,39.0,2757,2757,3,Asia/Tbilisi,FALSE,1268999664
+Babushara,Babushara,Babusheri|Babushera,42.8669,41.1328,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,2696,2696,4,Europe/Moscow,FALSE,1268000001
+Vani,Vani,Bzvani,42.0846,42.5034,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,37.0,2691,2691,3,Asia/Tbilisi,FALSE,1268151092
+Tsinandali,Tsinandali,Tsinandali|Tsinondali,41.8947,45.5756,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,2675,2675,3,Asia/Tbilisi,FALSE,1268832990
+Machara,Machara,Madzhara|Matchara|Madzharka,42.9442,41.0892,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,2640,2640,3,Europe/Moscow,FALSE,1268960821
+Bakurtsikhe,Bakurtsikhe,Bakurrsikhe|Bakurts’ikhe,41.6911,45.8592,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,2574,2574,4,Asia/Tbilisi,FALSE,1268690556
+Makho,Makho,,41.5536,41.6706,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,2479,2479,3,Asia/Tbilisi,FALSE,1268235524
+Tsikhisdziri,Tsikhisdziri,,41.7619,41.7539,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,2472,2472,4,Asia/Tbilisi,FALSE,1268553745
+Persati,Persati,P’ersat’i,42.0922,42.7917,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,2463,2463,4,Asia/Tbilisi,FALSE,1268314927
+Duisi,Duisi,Duisopeli,42.1456,45.2939,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,2354,2354,3,Asia/Tbilisi,FALSE,1268814248
+Narazeni,Narazeni,,42.4125,41.9461,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,2345,2345,4,Asia/Tbilisi,FALSE,1268560051
+Giorgitsminda,Giorgitsminda,Georgitsminda|Giorgitsmenda|Giorgitsminda,41.7389,45.3517,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,2307,2307,4,Asia/Tbilisi,FALSE,1268415974
+Aghmamedlo,Aghmamedlo,Akh-Mamadlo,41.3300,44.9039,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,2289,2289,4,Asia/Tbilisi,FALSE,1268957177
+Kvaisi,Kvaisi,,42.5228,43.6395,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,2264,2264,4,Asia/Tbilisi,FALSE,1268522943
+Kondoli,Kondoli,Kondoli,41.9197,45.5781,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,2188,2188,3,Asia/Tbilisi,FALSE,1268216945
+Zeda Sakara,Zeda Sakara,Zeda Sak’ara|Sakara Verkhnyaya,42.1425,43.0664,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,2099,2099,4,Asia/Tbilisi,FALSE,1268238893
+Tsitelkhevi,Tsitelkhevi,Tsit’elkhevi,42.0883,42.7647,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,2079,2079,4,Asia/Tbilisi,FALSE,1268606602
+Mukhaestate,Mukhaestate,,41.8419,41.8664,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,2045,2045,4,Asia/Tbilisi,FALSE,1268631686
+Iq’alto,Iq'alto,Ykalto|Ikalto|Iqalt’o,41.9472,45.3894,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,2034,2034,4,Asia/Tbilisi,FALSE,1268488748
+Ambrolauri,Ambrolauri,Ambralauri,42.5194,43.1500,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,admin,8.2,2015,2015,2,Asia/Tbilisi,FALSE,1268370586
+Irganchai,Irganchai,Irganchay|Irgani,41.2061,44.1411,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,2014,2014,4,Asia/Tbilisi,FALSE,1268789724
+Napareuli,Napareuli,Nap’areuli,42.0458,45.5031,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,2003,2003,4,Asia/Tbilisi,FALSE,1268091806
+Anaga,Anaga,Agana,41.6556,45.9092,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,2002,2002,4,Asia/Tbilisi,FALSE,1268599938
+Kveda Sakara,Kveda Sakara,K’veda Sak’ara|Sakara Nizhnyaya,42.1256,43.0311,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,1989,1989,4,Asia/Tbilisi,FALSE,1268873127
+Mestia,Mestia,Seti|Mestno|Mestiya,43.0456,42.7297,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,2.6,1973,1973,3,Asia/Tbilisi,FALSE,1268675357
+Kharagauli,Kharagauli,Ordzhonikidze|Karagouli|Kharagouli,42.0167,43.2000,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,18.0,1965,1965,3,Asia/Tbilisi,FALSE,1268520078
+Vakiri,Vakiri,Vak’iri,41.6414,45.9231,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,1950,1950,4,Asia/Tbilisi,FALSE,1268691938
+Kumurdo,Kumurdo,Gumurdo|Kumurdo,41.3967,43.3531,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,1950,1950,4,Asia/Tbilisi,FALSE,1268851137
+Nukriani,Nukriani,Nukriani,41.6081,45.8944,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,1935,1935,4,Asia/Tbilisi,FALSE,1268509133
+Kisiskhevi,Kisiskhevi,Kisiskhevi,41.8978,45.5436,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,1916,1916,3,Asia/Tbilisi,FALSE,1268045902
+Akura,Akura,Akura,41.8650,45.6242,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,1869,1869,4,Asia/Tbilisi,FALSE,1268593145
+Beslakhuba,Beslakhuba,Beslachuba|Novaya Beslakhuba,42.7575,41.5144,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,1864,1864,3,Europe/Moscow,FALSE,1268384778
+Gardabani,Gardabani,Karayazy|Karayazi|Karaya|Qardabani,41.4608,45.0894,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,minor,60.7,1846,1846,3,Asia/Tbilisi,FALSE,1268317674
+Zemo Kedi,Zemo Kedi,Zemo K’edi,41.4264,46.3831,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,1826,1826,4,Asia/Tbilisi,FALSE,1268461719
+Zemo Machkhaani,Zemo Machkhaani,Verkhniye Machkhaani|Zemo Machkhaani|Zemo Mach’khaani,41.5675,45.9514,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,1826,1826,4,Asia/Tbilisi,FALSE,1268057531
+Akhaldaba,Akhaldaba,,41.9303,43.4864,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,78.1,1800,1800,4,Asia/Tbilisi,FALSE,1268836094
+Tsnori,Tsnori,Sakobosubani|Tsnoristskali|Tsnori,41.6125,45.9736,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,1789,1789,3,Asia/Tbilisi,FALSE,1268042583
+Kistauri,Kistauri,K’istauri,41.9925,45.2875,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,1729,1729,4,Asia/Tbilisi,FALSE,1268152935
+Kulashi,Kulashi,,42.2042,42.3456,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,134.4,1702,1702,4,Asia/Tbilisi,FALSE,1268653541
+Kvishkheti,Kvishkheti,Kviahkheu|K’vishkhet’i,41.9694,43.5014,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,1699,1699,4,Asia/Tbilisi,FALSE,1268934664
+Esht’ia,Esht'ia,Eshtiya,41.3425,43.6119,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,1691,1691,4,Asia/Tbilisi,FALSE,1268307836
+Martvili,Martvili,Gegechkori|Gegechkari,42.4139,42.3778,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,33.0,1660,1660,3,Asia/Tbilisi,FALSE,1268160682
+Pshaveli,Pshaveli,,42.0923,45.4411,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,1624,1624,3,Asia/Tbilisi,FALSE,1268674109
+Puti,Puti,P’ut’i,42.0717,43.0947,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,1564,1564,4,Asia/Tbilisi,FALSE,1268192457
+Vartsikhe,Vartsikhe,Varts’ikhe,42.1439,42.7178,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,1559,1559,3,Asia/Tbilisi,FALSE,1268492482
+Azizkendi,Azizkendi,Azizekend|Azis-Kend|Azizkendi|Azizkeni,41.4225,44.9453,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,1536,1536,4,Asia/Tbilisi,FALSE,1268753589
+Khrialeti,Khrialeti,,42.0061,41.8303,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,89.4,1533,1533,3,Asia/Tbilisi,FALSE,1268052574
+Akhali Atoni,Akhali Atoni,Akhali-Afoni|Psirtskha|Psirtkha|Psyrtskha|Pssyrzcha|Psereti|Nowyi Afton|New Athen|Novyy Afon,43.0842,40.8174,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,1518,1518,3,Europe/Moscow,FALSE,1268426397
+Satkhe,Satkhe,Satchi|Satkha|Sat’khe,41.2839,43.6553,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,1516,1516,4,Asia/Tbilisi,FALSE,1268047994
+Abasha,Abasha,Abascha,42.2042,42.2028,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,69.8,1514,1514,3,Asia/Tbilisi,FALSE,1268507903
+Zovreti,Zovreti,Zovret’i,42.1833,43.0408,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,85.1,1513,1513,4,Asia/Tbilisi,FALSE,1268119254
+Aghaiani,Aghaiani,Agaiani|Agayani|Agiani,41.9125,44.5458,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,51.3,1505,1505,4,Asia/Tbilisi,FALSE,1268287302
+Meria,Meria,Maria,41.9436,41.8936,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1494,1494,4,Asia/Tbilisi,FALSE,1268491949
+Sighnaghi,Sighnaghi,Signagi|Ssignachi|Signakh|Signakhi,41.6186,45.9217,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,1485,1485,3,Asia/Tbilisi,FALSE,1268911118
+Zodi,Zodi,,42.3431,43.3044,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,1483,1483,4,Asia/Tbilisi,FALSE,1268350606
+Variani,Variani,,42.0742,44.0336,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,1469,1469,4,Asia/Tbilisi,FALSE,1268542910
+Godogani,Godogani,,42.2594,42.7817,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,1462,1462,4,Asia/Tbilisi,FALSE,1268139424
+Chorvila,Chorvila,Chlorvila|Chorvila,42.2892,43.4144,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,1451,1451,3,Asia/Tbilisi,FALSE,1268761413
+Manglisi,Manglisi,Manglis,41.6969,44.3844,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,1441,1441,4,Asia/Tbilisi,FALSE,1268680022
+Skra,Skra,Skra,41.9975,44.0158,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,1382,1382,4,Asia/Tbilisi,FALSE,1268534874
+Kvemo Sarali,Kvemo Sarali,Ashaga-Sarali|Ashaga-Saral’|Saral’|Kvemo-Sarali,41.3411,44.8297,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,1370,1370,3,Asia/Tbilisi,FALSE,1268168184
+Ganarjiis Mukhuri,Ganarjiis Mukhuri,Ganardzhis-Mukhuri|Ganardzhiis-Mukhuri|Ganmukhuri|Ganardzhias-Mukhuri,42.4253,41.6283,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,80.0,1354,1354,4,Asia/Tbilisi,FALSE,1268130479
+Zeda Simoneti,Zeda Simoneti,Simonet’i|Zeda Simoneti,42.2319,42.9208,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,1349,1349,4,Asia/Tbilisi,FALSE,1268256040
+Anaklia,Anaklia,Fort Anakria|Anakriya|Anakliya|Anaklija,42.3936,41.5692,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,1331,1331,3,Asia/Tbilisi,FALSE,1268591525
+Jikhask’ari,Jikhask'ari,Dzhikhashkari|Dzhikhaskari|Jikhashk’ari,42.5017,42.0189,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,1327,1327,4,Asia/Tbilisi,FALSE,1268810374
+Shemokmedi,Shemokmedi,Shimokmedi,41.9086,42.0683,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1322,1322,4,Asia/Tbilisi,FALSE,1268712537
+Tsageri,Tsageri,Zageri Gwesso|Ts’ageri|Tsageri,42.6472,42.7700,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,minor,10.6,1320,1320,3,Asia/Tbilisi,FALSE,1268415215
+Badiauri,Badiauri,,41.6439,45.5514,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,1286,1286,4,Asia/Tbilisi,FALSE,1268032904
+Kvemo Khodasheni,Kvemo Khodasheni,Nizhniye Khodasheni|K’vemo Khodasheni,41.8858,45.5869,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,0.8,1277,1277,4,Asia/Tbilisi,FALSE,1268580490
+Shorapani,Shorapani,Shorpani|Shorapani|Sharadan’|Schorpani|Schorapani|Shorapan’,42.0956,43.0819,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,1258,1258,4,Asia/Tbilisi,FALSE,1268442310
+Gvishtibi,Gvishtibi,Gvishtibi,42.3114,42.5708,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,1249,1249,4,Asia/Tbilisi,FALSE,1268237493
+Baidari,Baidari,Baydari|Baydar,41.4000,44.8833,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,1236,1236,4,Asia/Tbilisi,FALSE,1268293300
+Natakhtari,Natakhtari,Natakhtari,41.9194,44.7272,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,1234,1234,3,Asia/Tbilisi,FALSE,1268854950
+Kojori,Kojori,Kodzhori|Kodzhory|Kodzhor|Kojori,41.6667,44.6833,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,,60.7,1232,1232,4,Asia/Tbilisi,FALSE,1268591811
+Gurianta,Gurianta,Guriant’a,41.9425,41.9578,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1215,1215,3,Asia/Tbilisi,FALSE,1268252743
+Ets’eri,Ets'eri,Etseri,42.1967,42.9198,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,1206,1206,4,Asia/Tbilisi,FALSE,1268302557
+Dzveli Kveshi,Dzveli Kveshi,Kveshi-Dzveli|Dzveli K’veshi,41.4500,44.4244,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,45.2,1199,1199,4,Asia/Tbilisi,FALSE,1268687438
+Zemo Nat’anebi,Zemo Nat'anebi,Verkhniye Natanebi|Zemo Natanebi,41.9658,41.8408,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1174,1174,3,Asia/Tbilisi,FALSE,1268432832
+Dvabzu,Dvabzu,,41.9364,42.0575,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1171,1171,3,Asia/Tbilisi,FALSE,1268835991
+Melekeduri,Melekeduri,,41.9481,42.0239,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1170,1170,3,Asia/Tbilisi,FALSE,1268260596
+Gorelovka,Gorelovka,Goryelovka|Goreloye|Gorelovka,41.2147,43.6931,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,1165,1165,4,Asia/Tbilisi,FALSE,1268235548
+Marani,Marani,,42.1583,42.2861,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,134.4,1153,1153,4,Asia/Tbilisi,FALSE,1268699779
+Lesa,Lesa,,42.0814,41.9597,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,1152,1152,4,Asia/Tbilisi,FALSE,1268188616
+Pasanauri,Pasanauri,Pasanaur|Passanauri|P’asanauri,42.3464,44.6928,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,1148,1148,4,Asia/Tbilisi,FALSE,1268944124
+Arboshiki,Arboshiki,Arbashiki|Arboshiki,41.5517,45.9614,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,15.7,1138,1138,3,Asia/Tbilisi,FALSE,1268900433
+Arashenda,Arashenda,,41.6764,45.7267,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,1109,1109,4,Asia/Tbilisi,FALSE,1268172233
+Urbnisi,Urbnisi,,42.0125,43.9808,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,1109,1109,4,Asia/Tbilisi,FALSE,1268360495
+Gulgula,Gulgula,,41.9667,45.4778,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,1108,1108,4,Asia/Tbilisi,FALSE,1268591110
+Dzveli Kanda,Dzveli Kanda,Kanda|Kanda-Dzveli,41.9031,44.5975,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,1106,1106,4,Asia/Tbilisi,FALSE,1268871638
+Amamlo,Amamlo,,41.2761,44.2233,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,1100,1100,4,Asia/Tbilisi,FALSE,1268179206
+Bandza,Bandza,Bandsar,42.3489,42.2842,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,1099,1099,3,Asia/Tbilisi,FALSE,1268454183
+Busheti,Busheti,Bushati|Busheti,41.8814,45.6036,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,1090,1090,4,Asia/Tbilisi,FALSE,1268999480
+Gorisa,Gorisa,,42.2786,43.4372,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,1087,1087,4,Asia/Tbilisi,FALSE,1268867644
+Khelvachauri,Khelvachauri,,41.5856,41.6689,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,minor,97.6,1085,1085,3,Asia/Tbilisi,FALSE,1268738044
+Melaani,Melaani,,41.6486,45.7858,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,1079,1079,4,Asia/Tbilisi,FALSE,1268425469
+Kvemo Ch’ala,Kvemo Ch'ala,Knenochala|K’vemo Chala,42.0261,44.3950,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,41.9,1075,1075,3,Asia/Tbilisi,FALSE,1268926974
+Ali,Ali,,42.0872,43.6467,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,1068,1068,3,Asia/Tbilisi,FALSE,1268558373
+Mukhiani,Mukhiani,,42.1956,42.5928,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,1058,1058,4,Asia/Tbilisi,FALSE,1268301103
+Bokhvauri,Bokhvauri,Bakhvauri,41.9242,42.0358,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,1056,1056,3,Asia/Tbilisi,FALSE,1268815287
+Kolagi,Kolagi,Kolaki|Kolagi,41.7017,45.8431,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,1046,1046,4,Asia/Tbilisi,FALSE,1268404725
+T’q’ibuli,T'q'ibuli,Tkwibuli|Tkvibuli|Tkvibeli|Tqibuli|Tkibuli,42.3503,42.9983,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,minor,37.1,1023,1023,3,Asia/Tbilisi,FALSE,1268479108
+Gamarjveba,Gamarjveba,Gamardzhveba,41.4925,45.9797,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,1010,1010,4,Asia/Tbilisi,FALSE,1268224110
+Khulgumo,Khulgumo,,41.4172,43.4956,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,1004,1004,4,Asia/Tbilisi,FALSE,1268001450
+Tokhliauri,Tokhliauri,T’okhliauri,41.7286,45.4236,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,983,983,4,Asia/Tbilisi,FALSE,1268262068
+Arkhiloskalo,Arkhiloskalo,Arkhiloskalo,41.4017,46.4458,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,980,980,4,Asia/Tbilisi,FALSE,1268506219
+Mereti,Mereti,Meret’i,42.2244,44.0772,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,966,966,4,Asia/Tbilisi,FALSE,1268247706
+Ninotsminda,Ninotsminda,Bogdanovka|Ninotsminda,41.2644,43.5908,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,45.0,964,964,3,Asia/Tbilisi,FALSE,1268184817
+Tsirkvali,Tsirkvali,Pirkvaly|Tsirk’vali,42.3389,43.2783,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,963,963,4,Asia/Tbilisi,FALSE,1268767948
+Likhauri,Likhauri,,41.8806,42.0056,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,952,952,3,Asia/Tbilisi,FALSE,1268116567
+Mokvi,Mokvi,,42.8378,41.4911,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,939,939,3,Europe/Moscow,FALSE,1268544504
+Abastumani,Abastumani,Akhaltsykhskogo|Abbastuman|Abbas-Touman|Abbass-Touman|Abastuman Akhaltsykhskogo|Abastuman|Abastouman,41.7525,42.8319,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,48.0,937,937,3,Asia/Tbilisi,FALSE,1268336226
+Abastumani,Abastumani,,42.4075,41.8686,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,920,920,4,Asia/Tbilisi,TRUE,1268466639
+Chokhatauri,Chokhatauri,Chakhatauri,42.0189,42.2394,Georgia,GE,GEO,Guria,Guria,GE-GU,region,minor,4.4,903,903,3,Asia/Tbilisi,FALSE,1268139594
+Zoti,Zoti,,41.8942,42.4497,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,893,893,4,Asia/Tbilisi,FALSE,1268317924
+P’at’ara Chailuri,P'at'ara Chailuri,Patara Ch’ailuri,41.7108,45.5158,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,890,890,4,Asia/Tbilisi,FALSE,1268283446
+Kveda Dzimiti,Kveda Dzimiti,,41.9939,42.0589,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,885,885,3,Asia/Tbilisi,FALSE,1268000399
+Ts’q’altbila,Ts'q'altbila,Tskaltbila|Tsqalt’bila,41.5833,42.8722,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,883,883,4,Asia/Tbilisi,FALSE,1268334675
+Guturi,Guturi,,42.0028,42.2367,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,880,880,4,Asia/Tbilisi,FALSE,1268010363
+Motsvnari,Motsvnari,,41.9847,41.8250,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,873,873,4,Asia/Tbilisi,FALSE,1268104471
+Zemo K’arabulakhi,Zemo K'arabulakhi,Zemo-Karabulakhi|Verkhniy Karabulag|Zemo Qarabulakhi,41.4156,44.0967,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,871,871,4,Asia/Tbilisi,FALSE,1268081405
+Kultubani,Kultubani,Kultubani,43.4047,40.0322,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,866,866,3,Europe/Moscow,FALSE,1268417758
+Kirovi,Kirovi,Kirov,42.4128,41.6700,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,859,859,4,Asia/Tbilisi,FALSE,1268422770
+Dzveli Abasha,Dzveli Abasha,,42.2372,42.2136,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,859,859,4,Asia/Tbilisi,FALSE,1268522640
+Gogolesubani,Gogolesubani,Gogoleysubani,42.0261,42.2244,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,858,858,4,Asia/Tbilisi,FALSE,1268504573
+Araplo,Araplo,Arpalo|Araplo,41.3578,44.8511,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,854,854,4,Asia/Tbilisi,FALSE,1268566042
+Didi Chailuri,Didi Chailuri,Chayluri|Chailuri|Didi-Chiluri|Didi Ch’ailuri,41.7133,45.5033,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,850,850,4,Asia/Tbilisi,FALSE,1268486110
+Ozurgeti,Ozurgeti,Macharadse|Makharadze|Ozurgety,41.9406,41.9906,Georgia,GE,GEO,Guria,Guria,GE-GU,region,admin,38.2,844,844,2,Asia/Tbilisi,FALSE,1268276279
+Sanavardo,Sanavardo,,41.9003,45.8272,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,26.9,840,840,4,Asia/Tbilisi,FALSE,1268448561
+Zeda Bakhvi,Zeda Bakhvi,,41.9456,42.1086,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,839,839,4,Asia/Tbilisi,FALSE,1268565289
+Sachino,Sachino,,42.6458,42.0792,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,838,838,4,Asia/Tbilisi,FALSE,1268790122
+Ozaani,Ozaani,,41.5498,45.9984,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,13.6,833,833,3,Asia/Tbilisi,FALSE,1268992823
+Sarpi,Sarpi,Sarp’i|Sarp,41.5214,41.5519,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,113.9,826,826,3,Asia/Tbilisi,FALSE,1268798686
+Artana,Artana,Art’ana,42.0725,45.5036,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,819,819,4,Asia/Tbilisi,FALSE,1268668806
+Skhvitori,Skhvitori,Skhvitori,42.3558,43.4258,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,815,815,4,Asia/Tbilisi,FALSE,1268052231
+Konchkati,Konchkati,Kontchkati,41.9781,41.9047,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,805,805,4,Asia/Tbilisi,FALSE,1268399371
+Ts’aghveri,Ts'aghveri,Kurgan Tsagveri|Tsagveri|Tsaghveri,41.7989,43.4842,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,799,799,4,Asia/Tbilisi,FALSE,1268597402
+Kvemo Mak’vaneti,Kvemo Mak'vaneti,Nizhniye Makvaneti,41.9042,42.0183,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,797,797,4,Asia/Tbilisi,FALSE,1268807436
+Balich’i,Balich'i,Balichi,41.3640,44.3986,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,783,783,4,Asia/Tbilisi,FALSE,1268487185
+Adigeni,Adigeni,,41.6750,42.7033,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,minor,19.2,783,783,3,Asia/Tbilisi,FALSE,1268690665
+Kartsakhi,Kartsakhi,Karzakhi|Kartsakhi,41.2458,43.2789,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,776,776,4,Asia/Tbilisi,FALSE,1268472989
+Gaghma Dvabzu,Gaghma Dvabzu,Gaghma Dvabze|Gagma-Dvabzu,41.9492,42.0669,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,772,772,4,Asia/Tbilisi,FALSE,1268031090
+Ghoresha,Ghoresha,Goresha,42.0778,43.2675,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,767,767,4,Asia/Tbilisi,FALSE,1268321656
+Jvari,Jvari,Dzhvari|Dzhvara|Dzhvarzeni|Dzhvary,42.7175,42.0508,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,763,763,3,Asia/Tbilisi,FALSE,1268415332
+Akaurta,Akaurta,Akaurt’a,41.4631,44.4475,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,49.1,762,762,4,Asia/Tbilisi,FALSE,1268221641
+Sveri,Sveri,,42.2250,43.3056,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,750,750,4,Asia/Tbilisi,FALSE,1268171019
+Joq’olo,Joq'olo,Dzhokolo|Joqolo|Jokolo,42.1700,45.3064,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,737,737,4,Asia/Tbilisi,FALSE,1268501191
+Tkhinvali,Tkhinvali,,41.9639,41.8756,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,733,733,3,Asia/Tbilisi,FALSE,1268223175
+Naghobilevi,Naghobilevi,Nagobilevi,41.9422,41.8667,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,730,730,3,Asia/Tbilisi,FALSE,1268766986
+Vedidkari,Vedidkari,Veditkari,42.3306,42.2725,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,713,713,4,Asia/Tbilisi,FALSE,1268525751
+Dzveli Khibula,Dzveli Khibula,,42.4519,41.9806,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,76.8,712,712,4,Asia/Tbilisi,FALSE,1268463750
+Obuji,Obuji,Obudzhi,42.5483,42.0422,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,706,706,4,Asia/Tbilisi,FALSE,1268556129
+Sulori,Sulori,Sulari,42.0244,42.5711,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.0,702,702,4,Asia/Tbilisi,FALSE,1268903880
+Kvachalati,Kvachalati,Kvatchalati,41.8819,42.0186,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,694,694,3,Asia/Tbilisi,FALSE,1268177431
+Sameba,Sameba,Gunia-Kala|Kvishiani|Guniaqala,41.5997,44.0058,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,693,693,4,Asia/Tbilisi,FALSE,1268052588
+Zemo Mak’vaneti,Zemo Mak'vaneti,Makvaneti,41.8944,42.0389,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,684,684,4,Asia/Tbilisi,FALSE,1268877263
+Gombori,Gombori,,41.8578,45.2033,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,681,681,4,Asia/Tbilisi,FALSE,1268362342
+Kveda Bakhvi,Kveda Bakhvi,,41.9594,42.0906,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,681,681,3,Asia/Tbilisi,FALSE,1268072345
+Baghdadi,Baghdadi,Bagdadi,41.9333,42.1000,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,678,678,4,Asia/Tbilisi,FALSE,1268324864
+Ghvada,Ghvada,Guada|Gvada,42.9028,41.4333,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,677,677,3,Europe/Moscow,FALSE,1268930226
+Khvarbeti,Khvarbeti,,41.9536,41.9117,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,673,673,3,Asia/Tbilisi,FALSE,1268554299
+Kamarlo,Kamarlo,Kamarlo,41.3486,44.1378,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,665,665,4,Asia/Tbilisi,FALSE,1268285477
+Trialeti,Trialeti,Trialeta|Imeni Molotova|Molotovka|Molotovo|Rozenberg|T’rialet’i|Trialeti,41.5433,44.1103,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,656,656,4,Asia/Tbilisi,FALSE,1268689318
+Didi Dmanisi,Didi Dmanisi,,41.3572,44.3511,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,650,650,4,Asia/Tbilisi,FALSE,1268322128
+Mashavera,Mashavera,Gorundzhuki|Gorundzhuk|Gorindzhuki,41.3506,44.3662,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,40.7,649,649,4,Asia/Tbilisi,FALSE,1268420131
+Kvakhchiri,Kvakhchiri,Kvakhtchiri|Kvakhchiri,42.2058,42.7339,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,647,647,4,Asia/Tbilisi,FALSE,1268615702
+Zemo Nikozi,Zemo Nikozi,Zemo-Nikozi|Nikozi Verkhniye,42.1972,43.9567,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,643,643,4,Asia/Tbilisi,FALSE,1268470071
+Khojorni,Khojorni,Khozhorniya|Khodzhorni,41.2278,44.6903,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,635,635,4,Asia/Tbilisi,FALSE,1268193975
+Oni,Oni,,42.5839,43.4417,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,minor,2.6,626,626,3,Asia/Tbilisi,FALSE,1268097972
+Zemo Orozmani,Zemo Orozmani,Zemo-Oruzmani|Zemo Orazmani|Oruzman|Zemo Orzmani|Verkhniy Oruzmay|Zemo Orozmani,41.2967,44.1772,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,624,624,4,Asia/Tbilisi,FALSE,1268994395
+Duzagrama,Duzagrama,,41.6078,45.5122,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,621,621,4,Asia/Tbilisi,FALSE,1268187670
+Lapanquri,Lapanquri,Lapatskuri|Lapan-Kure|Lapankuri|Lap’anquri,42.0619,45.5911,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,620,620,4,Asia/Tbilisi,FALSE,1268962784
+Nigoiti,Nigoiti,Nigonti,42.0831,42.1081,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,615,615,4,Asia/Tbilisi,FALSE,1268756081
+Tsikhisperdi,Tsikhisperdi,,41.9578,41.9414,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,610,610,3,Asia/Tbilisi,FALSE,1268910556
+Akhkerpi,Akhkerpi,Akh-Kerri|Ag-Kerpi,41.2192,44.5764,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,610,610,4,Asia/Tbilisi,FALSE,1268732543
+Khidari,Khidari,,42.0067,43.1214,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,598,598,4,Asia/Tbilisi,FALSE,1268532114
+Udabno,Udabno,Udabnos Dasakhleba|Sovkhoz Udabno|Udabno Sovxozu,41.5047,45.3778,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,597,597,4,Asia/Tbilisi,FALSE,1268707118
+Vakijvari,Vakijvari,Vakidzhvari,41.9172,42.1453,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,597,597,3,Asia/Tbilisi,FALSE,1268137382
+Gomareti,Gomareti,,41.4967,44.1628,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,594,594,4,Asia/Tbilisi,FALSE,1268000182
+Tsitelmta,Tsitelmta,,41.9128,42.0450,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,591,591,3,Asia/Tbilisi,FALSE,1268595884
+Mzisguli,Mzisguli,Bogdanovka|Leninovk’a,41.6383,45.5883,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,578,578,4,Asia/Tbilisi,FALSE,1268376191
+Nasamkhrali,Nasamkhrali,,41.9169,45.5408,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,576,576,3,Asia/Tbilisi,FALSE,1268678785
+Perevi,Perevi,Perevi,42.3692,43.6014,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,564,564,4,Asia/Tbilisi,FALSE,1268701651
+T’abats’q’uri,T'abats'q'uri,Tabatskuri|Tabatsquri,41.6661,43.6219,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,560,560,4,Asia/Tbilisi,FALSE,1268845402
+Boriti,Boriti,,42.1128,43.2700,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,557,557,3,Asia/Tbilisi,FALSE,1268038464
+Niabauri,Niabauri,,41.8642,42.0061,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,553,553,3,Asia/Tbilisi,FALSE,1268007262
+Tamishi,Tamishi,Tamysh-Agu|Tamysh,42.7897,41.3719,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,549,549,3,Europe/Moscow,FALSE,1268399174
+Gantiadi,Gantiadi,Kalamsha|Gant’iadi,41.3403,44.2578,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,544,544,4,Asia/Tbilisi,TRUE,1268136893
+Tsaghvli,Tsaghvli,Tsagvli|Tsaghvli,42.1208,43.6972,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,66.5,538,538,4,Asia/Tbilisi,FALSE,1268768436
+Bazaklo,Bazaklo,Bezaklo,41.2775,44.2031,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,532,532,4,Asia/Tbilisi,FALSE,1268992372
+Silauri,Silauri,,41.9992,41.9992,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,531,531,3,Asia/Tbilisi,FALSE,1268951498
+Likhni,Likhni,Luikhni|Lukhny|Loukhoumi|Lykhni|Lykhny,43.1500,40.6167,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,524,524,3,Europe/Moscow,FALSE,1268404425
+Inashauri,Inashauri,,42.0642,42.6417,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.0,509,509,4,Asia/Tbilisi,FALSE,1268076621
+Vake,Vake,,41.9867,41.8589,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,504,504,4,Asia/Tbilisi,FALSE,1268874813
+Lalisquri,Lalisquri,Laliskuri|Lalisquri,42.0725,45.4208,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,499,499,4,Asia/Tbilisi,FALSE,1268326929
+Chanchati,Chanchati,,42.0306,42.1194,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,499,499,4,Asia/Tbilisi,FALSE,1268907282
+Verkhviani,Verkhviani,,41.6839,45.5592,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,495,495,4,Asia/Tbilisi,FALSE,1268769865
+Chanieti,Chanieti,Tchanieti|Chaniyeti|Chaniet’i,41.8683,41.9828,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,489,489,3,Asia/Tbilisi,FALSE,1268139181
+Dzveli Marabda,Dzveli Marabda,Marabda|Bol’shaya Marabda|Dzveli-Marabda,41.5353,44.7592,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,488,488,4,Asia/Tbilisi,FALSE,1268120891
+Tkotsa,Tkotsa,Tkotsa,42.0922,43.7053,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,487,487,4,Asia/Tbilisi,FALSE,1268244944
+Iaghuplo,Iaghuplo,Yagublo|Iakublo|Iaguplo,41.3356,44.1719,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,478,478,4,Asia/Tbilisi,FALSE,1268764235
+Rokiti,Rokiti,Rokit’i,42.1111,42.7944,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,477,477,4,Asia/Tbilisi,FALSE,1268192399
+Bughasheni,Bughasheni,Bugasheni,41.5158,43.5214,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,460,460,4,Asia/Tbilisi,FALSE,1268596499
+Balakhauri,Balakhauri,,41.4467,44.6701,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,455,455,4,Asia/Tbilisi,FALSE,1268000170
+Dagarakhlo,Dagarakhlo,Dagarukhlo,41.3828,44.1594,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,447,447,4,Asia/Tbilisi,FALSE,1268397227
+Tskhemliskhidi,Tskhemliskhidi,Tskhmeliskhidi,41.9258,42.0842,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,446,446,3,Asia/Tbilisi,FALSE,1268644956
+Zegaani,Zegaani,,41.7978,45.7333,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,443,443,4,Asia/Tbilisi,FALSE,1268508012
+Samshvilde,Samshvilde,,41.5161,44.4908,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,443,443,3,Asia/Tbilisi,FALSE,1268357282
+Skande,Skande,Skande,42.2639,43.0481,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,46.2,434,434,3,Asia/Tbilisi,FALSE,1268632939
+Mirzaani,Mirzaani,Mirzoian,41.5640,45.9690,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,433,433,3,Asia/Tbilisi,FALSE,1268327199
+Aradeti,Aradeti,,42.0631,43.8817,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,432,432,4,Asia/Tbilisi,FALSE,1268203661
+Gachedili,Gachedili,,42.4681,42.3708,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,427,427,3,Asia/Tbilisi,FALSE,1268524688
+Askana,Askana,,41.9528,42.1564,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,83.6,424,424,3,Asia/Tbilisi,FALSE,1268675190
+Javakhi,Javakhi,Dzhavakhi|Midzha,41.3333,44.2570,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,423,423,4,Asia/Tbilisi,FALSE,1268000855
+Pampaleti,Pampaleti,,41.9306,42.1194,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,411,411,3,Asia/Tbilisi,FALSE,1268716786
+Chala,Chala,,41.9261,42.0586,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,408,408,4,Asia/Tbilisi,FALSE,1268633603
+Tsikhisjvari,Tsikhisjvari,Tsikhisdzhvari|Tsikhidzhvari|Ts’ikhisjvari,41.7176,43.4407,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,406,406,4,Asia/Tbilisi,FALSE,1268780839
+Vertqvichala,Vertqvichala,Vertichala|Vertkvichala,42.1081,43.3325,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,405,405,4,Asia/Tbilisi,FALSE,1268757715
+Tnusi,Tnusi,Tnusi,41.3292,44.2847,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,400,400,4,Asia/Tbilisi,FALSE,1268747181
+Akhalsopeli,Akhalsopeli,,41.9750,41.9869,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,400,400,4,Asia/Tbilisi,FALSE,1268655849
+Shrosha,Shrosha,Macharukha|Macharula|Shroma Nizhnyaya,42.1111,43.1711,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,400,400,4,Asia/Tbilisi,FALSE,1268885356
+Chikhori,Chikhori,,42.2319,43.0828,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,398,398,4,Asia/Tbilisi,FALSE,1268698861
+Boslebi,Boslebi,,41.3556,44.3028,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,397,397,4,Asia/Tbilisi,FALSE,1268312862
+Shroma,Shroma,,41.9886,41.8372,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,392,392,4,Asia/Tbilisi,FALSE,1268316368
+Ch’q’vishi,Ch'q'vishi,Chkvishi,42.1253,42.4336,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,132.3,376,376,4,Asia/Tbilisi,FALSE,1268729055
+Gantiadi,Gantiadi,,41.9797,41.9325,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,373,373,4,Asia/Tbilisi,FALSE,1268137036
+Pantiani,Pantiani,Armutlo|Armudlo|Pantiani,41.3061,44.1394,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,366,366,4,Asia/Tbilisi,FALSE,1268838405
+Nagomari,Nagomari,,41.9978,42.1150,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,365,365,3,Asia/Tbilisi,FALSE,1268117994
+Kvemo Orozmani,Kvemo Orozmani,K’vemo Orozmani,41.3064,44.2008,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,361,361,3,Asia/Tbilisi,FALSE,1268788514
+Bakurianis Andeziti,Bakurianis Andeziti,Bakurianskiy Andezit,41.7353,43.4736,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,352,352,4,Asia/Tbilisi,FALSE,1268767233
+Kemperi,Kemperi,,42.0417,43.6028,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,350,350,3,Asia/Tbilisi,FALSE,1268194225
+Vardisubani,Vardisubani,,41.3500,44.3500,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,349,349,4,Asia/Tbilisi,FALSE,1268722341
+Jumati,Jumati,Dzhumati|Jumat’i,42.0100,41.9639,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,345,345,3,Asia/Tbilisi,FALSE,1268824201
+Gomi,Gomi,,41.8931,42.1014,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,344,344,4,Asia/Tbilisi,FALSE,1268318938
+Khobi,Khobi,Khopi,42.3167,41.9000,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,minor,42.7,342,342,3,Asia/Tbilisi,FALSE,1268453710
+Zinobiani,Zinobiani,Oktemberi|Zinobiani|Ok’tomberi,41.8981,45.9340,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,26.9,337,337,3,Asia/Tbilisi,FALSE,1268593304
+Bulvani,Bulvani,,42.1800,42.2458,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,337,337,4,Asia/Tbilisi,FALSE,1268449454
+Zeda Uchkhubi,Zeda Uchkhubi,,41.9236,42.0972,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,335,335,4,Asia/Tbilisi,FALSE,1268094248
+Nakhunavo,Nakhunavo,,42.4217,42.3319,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,333,333,3,Asia/Tbilisi,FALSE,1268574191
+Saskhori,Saskhori,,41.8417,44.5553,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,332,332,4,Asia/Tbilisi,FALSE,1268101081
+Mamishlo,Mamishlo,,41.3008,44.2628,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,332,332,4,Asia/Tbilisi,FALSE,1268665000
+Zeda Dzimiti,Zeda Dzimiti,,42.0086,42.0586,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,330,330,4,Asia/Tbilisi,FALSE,1268000383
+Saparlo,Saparlo,Safarlo|Sap’arlo,41.3028,44.3011,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,329,329,4,Asia/Tbilisi,FALSE,1268945690
+Dabali Ets’eri,Dabali Ets'eri,,41.9611,42.1444,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,324,324,4,Asia/Tbilisi,FALSE,1268814461
+Dghnorisa,Dghnorisa,Dgnorisa,42.4686,42.8183,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,321,321,4,Asia/Tbilisi,FALSE,1268699057
+Bugeuli,Bugeuli,,42.5417,43.0636,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,315,315,4,Asia/Tbilisi,FALSE,1268965189
+Potskho-Ets’eri,Potskho-Ets'eri,Etseri|Potskhoets’eri,42.7456,42.0381,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,306,306,3,Asia/Tbilisi,FALSE,1268807306
+Japana,Japana,Dzhapana|Dzhapani,42.0964,42.2011,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,306,306,4,Asia/Tbilisi,FALSE,1268737600
+Khidistavi,Khidistavi,,41.9731,42.2111,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,303,303,4,Asia/Tbilisi,FALSE,1268024166
+Shindlari,Shindlari,Shindlara|Shindlyara,41.3536,44.2242,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,302,302,4,Asia/Tbilisi,FALSE,1268646697
+Ochkhomuri,Ochkhomuri,,42.4619,42.0731,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.7,299,299,4,Asia/Tbilisi,FALSE,1268890293
+Zanavi,Zanavi,Nagvazao,41.6956,42.7269,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.2,297,297,4,Asia/Tbilisi,FALSE,1268985639
+Ghebi,Ghebi,Gebi,42.7639,43.5069,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,296,296,4,Asia/Tbilisi,FALSE,1268908324
+Uravi,Uravi,,42.6467,43.2897,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,295,295,4,Asia/Tbilisi,FALSE,1268400337
+Shua Isnari,Shua Isnari,,41.9914,42.0975,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,293,293,4,Asia/Tbilisi,FALSE,1268000085
+Arbo,Arbo,,42.2256,44.0611,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,293,293,4,Asia/Tbilisi,FALSE,1268052566
+Bedia,Bedia,Meore-Bedia|Bediya,42.7261,41.6431,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,23.8,288,288,3,Europe/Moscow,FALSE,1268995987
+Grigoleti,Grigoleti,,42.0369,41.7392,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,286,286,3,Asia/Tbilisi,FALSE,1268775229
+Kviriketi,Kviriketi,,41.9139,42.0278,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,284,284,3,Asia/Tbilisi,FALSE,1268228708
+Kakuti,Kakuti,,41.8542,41.9708,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,282,282,3,Asia/Tbilisi,FALSE,1268221761
+Zvare,Zvare,,41.9747,43.4078,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,279,279,3,Asia/Tbilisi,FALSE,1268298851
+Ubisi,Ubisi,Ubisa,42.0986,43.2242,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,276,276,3,Asia/Tbilisi,FALSE,1268201061
+Baileti,Baileti,Bailet’i,41.9769,41.9700,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,274,274,4,Asia/Tbilisi,FALSE,1268240312
+Supsa,Supsa,Sufsa|Sup’sa,42.0414,41.8117,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,273,273,4,Asia/Tbilisi,FALSE,1268863813
+Ipnari,Ipnari,Val’dgeym|Kirovisi|Kvishiani,41.4133,44.1664,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,272,272,4,Asia/Tbilisi,TRUE,1268492056
+Akhateli,Akhateli,Akhateli,41.9708,45.4219,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,271,271,4,Asia/Tbilisi,FALSE,1268152863
+Sno,Sno,,42.6057,44.6388,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,2.8,263,263,4,Asia/Tbilisi,FALSE,1268263206
+Mziani,Mziani,,41.9792,42.1583,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,263,263,3,Asia/Tbilisi,FALSE,1268577331
+Abashispiri,Abashispiri,,42.1969,42.1908,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,262,262,4,Asia/Tbilisi,FALSE,1268046763
+Abastumani,Abastumani,Abast’umani,41.7056,42.8431,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.2,256,256,4,Asia/Tbilisi,TRUE,1268850098
+Mamati,Mamati,,42.0206,42.0333,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,254,254,3,Asia/Tbilisi,FALSE,1268894339
+Mshvidobauri,Mshvidobauri,,41.9672,42.1142,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,251,251,3,Asia/Tbilisi,FALSE,1268081743
+Khoreti,Khoreti,,42.0192,41.8903,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,251,251,4,Asia/Tbilisi,FALSE,1268640557
+Vake,Vake,Karaklisi|Karaklis|Vake,41.3064,44.2172,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,239,239,4,Asia/Tbilisi,FALSE,1268464351
+Abano,Abano,,42.1256,43.7278,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,239,239,4,Asia/Tbilisi,FALSE,1268000360
+Chanieturi,Chanieturi,Ch’aniuturi|Chaniyeturi,41.9742,41.9617,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,239,239,3,Asia/Tbilisi,FALSE,1268323059
+Mtispiri,Mtispiri,,41.9386,42.1564,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,238,238,3,Asia/Tbilisi,FALSE,1268063453
+Bogili,Bogili,,42.0011,41.9564,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,236,236,3,Asia/Tbilisi,FALSE,1268528038
+Ianeti,Ianeti,,42.0050,41.9286,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,236,236,3,Asia/Tbilisi,FALSE,1268289801
+K’imotesubani,K'imotesubani,Timotisubani|Kimotesubani,41.8040,43.5140,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,235,235,4,Asia/Tbilisi,FALSE,1268736756
+Shakhmarlo,Shakhmarlo,,41.3400,44.1358,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,231,231,4,Asia/Tbilisi,FALSE,1268752662
+Mordzgveti,Mordzgveti,Mordzgvet’i,42.2439,43.2156,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,231,231,4,Asia/Tbilisi,FALSE,1268145257
+Kizilkilisa,Kizilkilisa,Kizilkilisa|Qizilk’ilisa,41.3641,44.2518,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,230,230,4,Asia/Tbilisi,FALSE,1268581848
+Zhibiani,Zhibiani,Ushkul|Zhabiani|Zhibiani,42.9178,43.0157,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,228,228,4,Asia/Tbilisi,FALSE,1268953058
+Kvemo Nogha,Kvemo Nogha,Noga|Kvemo Noga|Nhoga,42.0725,42.2961,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,134.4,227,227,4,Asia/Tbilisi,FALSE,1268869979
+Kamishlo,Kamishlo,Komishlo|Kamishlo,41.2489,44.3439,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,219,219,4,Asia/Tbilisi,FALSE,1268397117
+Vaniskedi,Vaniskedi,,41.9417,42.1792,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,68.4,215,215,3,Asia/Tbilisi,FALSE,1268927223
+Mtisdziri,Mtisdziri,Makhmutlo|Mamutlo|Mamudlo,41.2867,44.1703,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,212,212,4,Asia/Tbilisi,TRUE,1268408669
+Kiketi,Kiketi,Kiket’i,41.6567,44.6533,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,,60.7,207,207,4,Asia/Tbilisi,FALSE,1268518867
+Tvishi,Tvishi,Tvishi|Tvisi,42.5153,42.7933,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,205,205,4,Asia/Tbilisi,FALSE,1268134330
+Khertvisi,Khertvisi,Khertvie|Khert’visi,41.4778,43.2853,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,11.5,202,202,3,Asia/Tbilisi,FALSE,1268718162
+Kvemo K’arabulakhi,Kvemo K'arabulakhi,Kvemo-Karabulakhi|K’vemo Qarabulakhi,41.4339,44.1308,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,196,196,4,Asia/Tbilisi,FALSE,1268831900
+Dzirjumati,Dzirjumati,Dzir-Dzhumati|Dzirijumati|Dziridzhumati,42.0189,41.9806,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,189,189,3,Asia/Tbilisi,FALSE,1268158147
+Kizilajlo,Kizilajlo,Dag-Kizil-Adzhilo|Kizil-Adzhlo|Kizilajlo|Qizilajlo,41.4433,44.1703,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,184,184,4,Asia/Tbilisi,FALSE,1268160038
+Sasashi,Sasashi,,42.7942,42.9881,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,182,182,4,Asia/Tbilisi,FALSE,1268959766
+Jughaani,Jughaani,Dzhugaani|Jugaani,42.0581,45.4839,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,178,178,4,Asia/Tbilisi,FALSE,1268593868
+Dzari,Dzari,Zemo-Dzari|Vuallag-Dzari|Dzari Verkhniye,42.2933,43.8719,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,178,178,3,Asia/Tbilisi,FALSE,1268116937
+Dalari,Dalari,Dalyari,41.3239,44.2347,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,178,178,4,Asia/Tbilisi,FALSE,1268572117
+Shekvetili,Shekvetili,Shekvetila|Shekhvetili,41.9278,41.7681,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,175,175,4,Asia/Tbilisi,FALSE,1268826404
+Zedubani,Zedubani,,41.9819,41.8761,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,175,175,4,Asia/Tbilisi,FALSE,1268830844
+Lokchandari,Lokchandari,Lok-Dzhandar|Lokdzhandari,41.2511,44.3897,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,56.5,173,173,4,Asia/Tbilisi,FALSE,1268061564
+Mazeri,Mazeri,,43.0748,42.6103,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,159,159,4,Asia/Tbilisi,FALSE,1268411706
+Zhanaura,Zhanaura,,41.9917,42.1189,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,156,156,3,Asia/Tbilisi,FALSE,1268200096
+Saghamo,Saghamo,Sagamo,41.3130,43.7590,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,153,153,4,Asia/Tbilisi,FALSE,1268816202
+Gogieti,Gogieti,Gogiyeti,41.8778,42.0475,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,151,151,3,Asia/Tbilisi,FALSE,1268394702
+Naniauri,Naniauri,Shua-Khelchua,42.2528,44.0800,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,148,148,4,Asia/Tbilisi,FALSE,1268738056
+Nasakirali,Nasakirali,,41.9722,42.0639,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,137,137,3,Asia/Tbilisi,FALSE,1268095925
+Babaneuri,Babaneuri,,42.0811,45.3811,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,15.3,137,137,4,Asia/Tbilisi,FALSE,1268048937
+Okroskedi,Okroskedi,,41.9519,42.1267,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,136,136,3,Asia/Tbilisi,FALSE,1268052441
+Khornabuji,Khornabuji,Ts’iteli Ts’q’aro|Ts’ideli Ts’qaro|Tsiteli-Tskaro|Tsit’eli Tsqaro,41.5039,46.1389,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,135,135,4,Asia/Tbilisi,FALSE,1268187172
+Kvemo Khalats’ani,Kvemo Khalats'ani,Nizhniy Khalatsani|K’vemo Khalatsani,42.1467,45.3067,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,134,134,4,Asia/Tbilisi,FALSE,1268127964
+Maghali Ets’eri,Maghali Ets'eri,,41.9725,42.1275,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,129,129,4,Asia/Tbilisi,FALSE,1268892041
+Guguti,Guguti,Muganlo|Dag Muganlo|Gugut’a,41.2206,44.3164,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.8,127,127,4,Asia/Tbilisi,FALSE,1268830468
+Tsitsamuri,Tsitsamuri,Tsitsamura|Tsitsamuri,41.8608,44.7325,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,124,124,3,Asia/Tbilisi,FALSE,1268076626
+Baghmarani,Baghmarani,Bagmarani|Bagbaran,43.0043,41.1322,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,35.4,123,123,4,Europe/Moscow,FALSE,1268387768
+Abari,Abari,,42.6153,43.2639,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,122,122,4,Asia/Tbilisi,FALSE,1268939676
+Bertakari,Bertakari,Begtakari|Bektakari,41.4717,44.3836,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,120,120,4,Asia/Tbilisi,FALSE,1268859559
+P’at’ara Dmanisi,P'at'ara Dmanisi,Dmanisi-Patara|Patara Dmanisi,41.3282,44.3422,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,116,116,4,Asia/Tbilisi,FALSE,1268662726
+Ganakhleba,Ganakhleba,Ambarlo,41.4814,44.1033,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,113,113,4,Asia/Tbilisi,FALSE,1268123097
+Baji,Baji,Badzhi,42.5456,42.9650,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,109,109,4,Asia/Tbilisi,FALSE,1268599403
+Abanoeti,Abanoeti,Abanoyeti,42.5400,43.0214,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,102,102,4,Asia/Tbilisi,FALSE,1268856949
+Sarkineti,Sarkineti,Demirbulakhi|Sarkinet’i|Demurbulag,41.4958,44.1268,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,16.1,96,96,4,Asia/Tbilisi,FALSE,1268686519
+Kariani,Kariani,Busukala|K’ariani,41.3664,44.1267,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,93,93,4,Asia/Tbilisi,FALSE,1268516917
+Gonebiskari,Gonebiskari,Tsitelmta,41.9056,42.0833,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,88,88,3,Asia/Tbilisi,FALSE,1268831832
+Ormasheni,Ormasheni,,41.4049,44.2263,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,88,88,4,Asia/Tbilisi,FALSE,1268196975
+Lechuri,Lechuri,Lech’uri,42.1425,45.4150,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,88,88,4,Asia/Tbilisi,FALSE,1268426423
+Akhkula,Akhkula,Akkulari|Akqulari,41.3097,44.7347,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,86,86,4,Asia/Tbilisi,FALSE,1268990610
+Ch’akhvati,Ch'akhvati,,41.9361,41.8406,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,85,85,4,Asia/Tbilisi,FALSE,1268197486
+Santa,Santa,,41.6511,44.0136,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,84,84,4,Asia/Tbilisi,FALSE,1268940723
+Kutsakhta,Kutsakhta,Kutsakhta,42.1042,45.2167,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,81,81,4,Asia/Tbilisi,FALSE,1268675012
+Velispiri,Velispiri,Keivan-Bul-Asar|Keyvan-Bulgasoni|Keyvan-Bul-Asan|Keivanbulgasoni|Velispiri,41.4814,44.1033,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,81,81,4,Asia/Tbilisi,FALSE,1268682736
+Pari,Pari,,43.0528,42.4925,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,80,80,4,Asia/Tbilisi,FALSE,1268373557
+Mamishlari,Mamishlari,,41.4147,44.0261,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,76,76,4,Asia/Tbilisi,FALSE,1268000184
+Gorana,Gorana,,41.8750,45.1208,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,32.1,74,74,4,Asia/Tbilisi,FALSE,1268273134
+Antoki,Antoki,Antoki,41.7417,45.3772,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,73,73,4,Asia/Tbilisi,FALSE,1268850718
+Bakhchalari,Bakhchalari,Bagchalar,41.4169,44.1983,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,70,70,4,Asia/Tbilisi,FALSE,1268421363
+Askilauri,Askilauri,Askilauri,41.8628,45.1717,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,70,70,4,Asia/Tbilisi,FALSE,1268654739
+Nadikvari,Nadikvari,Nadikvari,41.8669,45.3200,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,69,69,3,Asia/Tbilisi,FALSE,1268165157
+Chargali,Chargali,Ch’argali,42.3233,44.9269,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,69,69,4,Asia/Tbilisi,FALSE,1268754346
+Useinkendi,Useinkendi,Guseinkend|Useynkendi|Useinkendi,41.4367,44.0631,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,62,62,4,Asia/Tbilisi,FALSE,1268943154
+Kobadze,Kobadze,Kobadze,41.8614,45.3125,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,58,58,3,Asia/Tbilisi,FALSE,1268936546
+Verona,Verona,Verana|Verona,41.8517,45.2422,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,57,57,4,Asia/Tbilisi,FALSE,1268431829
+Mamulo,Mamulo,Mamlosopeli|Mamula-Sopeli|Mamula,41.5046,44.1962,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,51,51,4,Asia/Tbilisi,FALSE,1268597742
+Odzisi,Odzisi,,42.0519,43.5611,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,50,50,4,Asia/Tbilisi,FALSE,1268000022
+T’q’isp’iri,T'q'isp'iri,Bogaskasani|Tkispiri,41.2507,44.2094,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,50,50,4,Asia/Tbilisi,FALSE,1268795039
+Akha,Akha,,41.4517,44.1031,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,47,47,4,Asia/Tbilisi,FALSE,1268280795
+Angrevani,Angrevani,,41.3147,44.3083,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,47,47,4,Asia/Tbilisi,FALSE,1268000181
+Sakire,Sakire,Kashkatala|Sakire|Koshkatala,41.2607,44.2757,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,46,46,4,Asia/Tbilisi,FALSE,1268286825
+Adishi,Adishi,Adish,42.9964,42.9147,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,44,44,5,Asia/Tbilisi,FALSE,1268642024
+Ziari,Ziari,,41.7169,45.7467,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,44,44,3,Asia/Tbilisi,FALSE,1268456878
+Vashtiali,Vashtiali,,41.8556,41.9750,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,43,43,3,Asia/Tbilisi,FALSE,1268000794
+Saja,Saja,Sadzha,41.4368,44.1942,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,43,43,4,Asia/Tbilisi,FALSE,1268466245
+Eki,Eki,Yeki,42.3431,42.0994,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,42,42,4,Asia/Tbilisi,FALSE,1268922189
+Godogani,Godogani,,42.5786,42.2675,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.7,40,40,4,Asia/Tbilisi,FALSE,1268213222
+Omalo,Omalo,,42.3789,45.6300,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,37,37,3,Asia/Tbilisi,FALSE,1268973247
+Achi,Achi,,41.8447,42.0039,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,92.2,36,36,4,Asia/Tbilisi,FALSE,1268000084
+Tkhmori,Tkhmori,,42.4914,42.9325,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,36,36,5,Asia/Tbilisi,FALSE,1268095043
+Geri,Geri,Geria,42.3547,44.0347,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,13.5,35,35,3,Asia/Tbilisi,FALSE,1268297579
+Zemo Burdiani,Zemo Burdiani,Burdiani,41.7286,45.4792,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,32,32,4,Asia/Tbilisi,FALSE,1268817773
+Chazhashi,Chazhashi,,42.9150,43.0086,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,28,28,3,Asia/Tbilisi,FALSE,1268270369
+Zemo Q’andaura,Zemo Q'andaura,Zemo-Kandaura,41.6778,45.5925,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,26,26,4,Asia/Tbilisi,FALSE,1268748133
+Sogutlo,Sogutlo,,41.3689,44.0603,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,25,25,4,Asia/Tbilisi,FALSE,1268982721
+Kvemo-Yermani,Kvemo-Yermani,Nizhniye Ermani|Dallag-Erman,42.5131,44.2367,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,21,21,3,Asia/Tbilisi,FALSE,1268354184
+Vashliani,Vashliani,,41.8908,45.1597,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,19,19,4,Asia/Tbilisi,FALSE,1268045302
+Meore Salamaleiki,Meore Salamaleiki,,41.4440,44.0323,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,16,16,4,Asia/Tbilisi,FALSE,1268000185
+Mukhrovani,Mukhrovani,Mukhrovan,41.7819,45.1389,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,33.7,16,16,4,Asia/Tbilisi,FALSE,1268164783
+Gora,Gora,Dzharaar|Dzharaiori|Dzharayer,41.2525,44.2947,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,14.5,11,11,4,Asia/Tbilisi,FALSE,1268818146
+Alismereti,Alismereti,,41.9969,42.8975,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,5,5,4,Asia/Tbilisi,FALSE,1268000088
+Kakliani,Kakliani,Kakliani,41.5172,44.2332,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.2,5,5,4,Asia/Tbilisi,FALSE,1268768946
+Shenako,Shenako,Shenak’o,42.3719,45.6625,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,4,4,3,Asia/Tbilisi,FALSE,1268846076
+Khalde,Khalde,,42.9461,42.9492,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,3,3,4,Asia/Tbilisi,FALSE,1268891616
+Kobi,Kobi,Kobi,42.5594,44.5119,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,2.8,3,3,5,Asia/Tbilisi,FALSE,1268875675
+Pantiani,Pantiani,Pantiani,41.8483,45.3069,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,2,2,4,Asia/Tbilisi,FALSE,1268934540
+Uk’angora,Uk'angora,Ukangora,41.3262,44.3958,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,2,2,4,Asia/Tbilisi,FALSE,1268776328
+Bochorna,Bochorna,Bochorma,42.4025,45.5864,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,1,1,3,Asia/Tbilisi,FALSE,1268000386
+K’oshk’a,K'oshk'a,,42.2221,44.0924,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268000312
+Mot’q’iari,Mot'q'iari,Motkiyeri|Motkiari,42.5007,43.0951,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268464446
+Tseronisi,Tseronisi,,42.1237,43.7770,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268914163
+Tseronisi,Tseronisi,,42.1237,43.7770,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,TRUE,1268000358
+Andisi,Andisi,,42.3438,43.9321,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,16.1,,,4,Asia/Tbilisi,FALSE,1268646990
+Kvemo Nichbisi,Kvemo Nichbisi,Nichbisi|K’vemo Nich’bisi,41.8287,44.5349,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,,,4,Asia/Tbilisi,FALSE,1268726523
+Indurta,Indurta,,42.4475,45.4361,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268000147
+Kariaultkari,Kariaultkari,,42.0861,44.6756,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268986066
+Nakreba,Nakreba,Nakrepa,42.5202,43.7069,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268889498
+Muntskva,Muntskva,,42.8273,42.0245,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268007473
+Jvari,Jvari,,42.2069,43.5732,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268037983
+Dzadzvis Monast’eri,Dzadzvis Monast'eri,Dzadzvis-Monasteri|Dzadzvi,41.9410,43.7961,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268085033
+Zeda Ach’q’va,Zeda Ach'q'va,Zeda-Achkva,41.7372,41.7733,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268300742
+Zeraboseli,Zeraboseli,,41.7333,41.9833,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268201019
+St’arushk’ino,St'arushk'ino,,43.1129,41.0579,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268269224
+Kveda Meskheti,Kveda Meskheti,K’veda Meskhet’i|Zeda Meskheti,42.2122,42.6368,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268035043
+Alisubani,Alisubani,,42.2458,43.0439,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,,,4,Asia/Tbilisi,FALSE,1268000003
+Ts’ipi,Ts'ipi,Tsipi,42.0454,43.2261,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,,,4,Asia/Tbilisi,FALSE,1268986659
+Gurchkhi,Gurchkhi,Gurchkh,42.9260,41.3786,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268133857
+Andoreti,Andoreti,,42.1764,44.2378,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268256141
+Zemo Art’ani,Zemo Art'ani,Verkhniye Artani|Artani|Zemo Artani,42.2287,45.0027,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,4,Asia/Tbilisi,FALSE,1268045882
+Rokata,Rokata,,42.4262,44.0286,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268686148
+Mach’arts’q’ali,Mach'arts'q'ali,Machartskali,41.7899,43.6245,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,,,4,Asia/Tbilisi,FALSE,1268293828
+K’ak’askhidi,K'ak'askhidi,,41.9827,42.9171,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,,,4,Asia/Tbilisi,FALSE,1268000090
+K’avshiri,K'avshiri,Kavshiri,41.8250,46.2458,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268352559
+Lemikave,Lemikave,,42.4184,42.2545,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,50.0,,,4,Asia/Tbilisi,FALSE,1268802397
+Rodinauli,Rodinauli,Rodinouli|Svetmaghali,42.1540,42.8769,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,91.0,,,4,Asia/Tbilisi,FALSE,1268877529
+Kalkva-Namesrali,Kalkva-Namesrali,,41.8069,45.9567,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268808236
+Nizhnyaya Apiancha,Nizhnyaya Apiancha,Nizhniy Apiancha|Apiancha Nizhniy,43.0067,41.2517,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268183660
+Meore Gurdzemi,Meore Gurdzemi,,42.4556,42.2459,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268652065
+Qornisi,Qornisi,Kornisi,42.2722,43.8183,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268263087
+Nakhakhulevi,Nakhakhulevi,Nakhakhulevi|Nakhakhu,42.3566,42.4315,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,50.2,,,4,Asia/Tbilisi,FALSE,1268069420
+Bataria,Bataria,Bataris,42.2796,42.0159,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268543245
+Portonokhori,Portonokhori,Partonokhovi|Partonokhori,42.6484,41.8660,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,44.7,,,4,Europe/Moscow,FALSE,1268036749
+Veshagurni,Veshagurni,,42.3283,44.6317,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268811537
+Bakhioti,Bakhioti,,42.2680,43.4775,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268074691
+Kvemo Mleta,Kvemo Mleta,Nizhniye Mleti|Kvemo-Mleti|K’vemo Mlet’a,42.4282,44.5085,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,4,Asia/Tbilisi,FALSE,1268801573
+Saghvine,Saghvine,,42.1008,43.0864,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268000098
+Sharmiani,Sharmiani,Sharumiani,42.4528,44.5214,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268384888
+Taia,Taia,Taya|Taia,42.6096,42.2148,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.7,,,4,Asia/Tbilisi,FALSE,1268071813
+Chankaati,Chankaati,,41.4500,46.2360,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,,,5,Asia/Tbilisi,FALSE,1268512177
+Pitsesi,Pitsesi,P’its’esi,41.8425,44.2128,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268135980
+Chrdilo-Chiprani,Chrdilo-Chiprani,Khusar-Tsipran,42.4541,44.0784,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268649926
+Zeda Ets’er-T’obanieri,Zeda Ets'er-T'obanieri,Zeda Etser-Tobaniyeri,42.0659,42.4350,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.0,,,4,Asia/Tbilisi,FALSE,1268973659
+Zemo-Chkhortoli,Zemo-Chkhortoli,Chkhortoli Verkhniye,42.7833,41.7333,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,23.8,,,4,Europe/Moscow,FALSE,1268309440
+Zemo Zhoshkha,Zemo Zhoshkha,Zeda Zhoshkha,42.5824,42.9594,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268901238
+K’varkhiti,K'varkhiti,,42.0772,44.1931,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268000314
+Zardiantkari,Zardiantkari,,42.2390,44.0876,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268653207
+P’at’ara Poti,P'at'ara Poti,Patara P’ot’i,42.1906,41.7181,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268429233
+Boq’va,Boq'va,Vokva|Bokva,42.5290,43.3950,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268922765
+Ambarikhuts’a,Ambarikhuts'a,Amba-Rykhutsa,43.0864,40.9698,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268907091
+Ghvebaldi,Ghvebaldi,Kvebaldi|Gvebaldi,43.0157,42.5296,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268033281
+Vardisubani,Vardisubani,,41.9322,45.4442,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,43.8,,,4,Asia/Tbilisi,FALSE,1268351615
+Vardisubani,Vardisubani,,41.7728,46.1494,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,TRUE,1268075913
+Rekha,Rekha,,41.6832,43.8543,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,,,4,Asia/Tbilisi,FALSE,1268300338
+K’oda,K'oda,Kodi|Koda,41.5820,44.7783,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268111065
+Repo Ets’eri,Repo Ets'eri,Repo|Repi-Etseri|Repi,42.6355,41.6671,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,63.2,,,4,Europe/Moscow,FALSE,1268501149
+Amaghleba,Amaghleba,Ganakhleba,42.0374,42.1899,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268584605
+Gorgadzeebi,Gorgadzeebi,Giorgadzeyebi|Gargadzeyebi|Gorgadzeyebi,41.7124,41.7743,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268953661
+Gorgadzeebi,Gorgadzeebi,Gorgadzeyebi,41.7222,42.3757,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,TRUE,1268803027
+P’at’ara Gorijvari,P'at'ara Gorijvari,Malyye Gorisdzhavari|Malyye Gorisdzhvari|Patara-Goridzhvari,41.9796,44.0598,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268036082
+Khalivdon,Khalivdon,,42.4667,43.8333,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,1.1,,,5,Asia/Tbilisi,FALSE,1268753023
+P’irveli T’ola,P'irveli T'ola,Tola Pervaya,42.5738,42.9835,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268515213
+Almasiani,Almasiani,,42.5566,44.5005,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,2.8,,,5,Asia/Tbilisi,FALSE,1268262873
+Udzilaurta,Udzilaurta,Udzilaurt’a,42.4349,44.9699,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268563758
+Zenubani,Zenubani,Zenaubani,42.2649,44.6490,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268184986
+Zenubani,Zenubani,,42.5397,44.9633,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,TRUE,1268952254
+Dudaiti,Dudaiti,Dudaant-Kari,42.0961,44.3908,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268963620
+Verkhovani,Verkhovani,,42.4268,45.4936,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268236592
+Sak’rech’io,Sak'rech'io,Sakrechio,42.1547,44.9396,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268406152
+Shua K’rikhi,Shua K'rikhi,Shua-Krikhi,42.5050,43.1975,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268826811
+Kashadepa,Kashadepa,,42.3961,41.9314,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268166421
+Khoji,Khoji,Khodzhi,42.6002,42.8178,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268118263
+Betlemi,Betlemi,Betlem,42.3779,42.2024,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268606934
+Lak’lak’eti,Lak'lak'eti,Lak’laketi,41.5973,42.1330,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268108648
+Abgavera,Abgavera,Abgauyera,43.1237,40.6495,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268085427
+Khachk’ovi,Khachk'ovi,Khachkoy|Khach’k’oi,41.7026,43.9691,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,,,4,Asia/Tbilisi,FALSE,1268377833
+K’abali,K'abali,Kabali,41.8368,46.1294,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268908380
+K’okhnari,K'okhnari,,42.0368,42.3176,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268375355
+Jervalidzeebi,Jervalidzeebi,Dzhervalidzeyebi,42.1206,44.8751,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268268578
+Labaidzeebi,Labaidzeebi,Labaidzeyebi,41.7165,42.3661,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268503094
+Sat’q’ebuchao,Sat'q'ebuchao,Satkebuchao|Sat’q’ebuchavo,42.4007,42.0625,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,49.4,,,4,Asia/Tbilisi,FALSE,1268252460
+Puchnari,Puchnari,,42.2333,43.6833,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268412840
+Sheleuri,Sheleuri,,42.3318,44.0668,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268663713
+Zalda-lrag,Zalda-lrag,,42.3267,43.9481,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,16.1,,,4,Asia/Tbilisi,FALSE,1268971367
+Gejeti,Gejeti,Gedzheti,42.3005,42.1922,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268248440
+Zemo Gurgeniani,Zemo Gurgeniani,,41.8403,46.2119,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268000157
+Saritata,Saritata,Sharita,42.4697,43.8088,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268277930
+Lent’ekhi,Lent'ekhi,Leksura,42.7889,42.7223,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,minor,2.1,,,3,Asia/Tbilisi,FALSE,1268630756
+Mats’q’valta,Mats'q'valta,Matskvalta,41.5602,42.2675,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268487916
+P’irveli Ak’vagha,P'irveli Ak'vagha,Pirveli Akvaga,42.6012,41.7781,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,64.0,,,4,Europe/Moscow,FALSE,1268386238
+Akho,Akho,,41.6523,42.0594,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,FALSE,1268768236
+Nats’ret’i,Nats'ret'i,Natsret’i|Nasp’eri,42.0222,44.2575,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268848182
+Maidani,Maidani,Maydani,42.2878,42.3160,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.5,,,4,Asia/Tbilisi,FALSE,1268558134
+Tabagrebi,Tabagrebi,,42.3294,43.2731,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268385583
+Gamogma,Gamogma,,42.3422,43.1989,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268701400
+Gamogma,Gamogma,,42.2964,42.8486,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,TRUE,1268248041
+Shkedeldashi,Shkedeldashi,,42.8225,42.5092,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268376606
+Ch’alastavi,Ch'alastavi,Chalast’avi|Chalestavi|Chalostavi,42.2487,42.8179,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,,,4,Asia/Tbilisi,FALSE,1268231998
+Mtiskalta,Mtiskalta,,42.5133,43.3399,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268668560
+Tok’i,Tok'i,T’oki,41.4941,43.3754,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,,,4,Asia/Tbilisi,FALSE,1268473584
+Shroma,Shroma,,41.8457,45.6585,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,,,4,Asia/Tbilisi,FALSE,1268199823
+Shroma,Shroma,,41.8248,46.2570,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,TRUE,1268059932
+Alambari,Alambari,,41.8300,41.8836,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268870600
+Nak’ipu,Nak'ipu,,42.5691,42.0892,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268666543
+Kveda Simoneti,Kveda Simoneti,K’veda Simonet’i,42.2182,42.8640,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,,,4,Asia/Tbilisi,FALSE,1268047763
+Midelaurni,Midelaurni,,42.4592,44.5247,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268373438
+Miasinovk’a,Miasinovk'a,Myasinovka,43.0355,41.4269,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268549866
+Lip’i,Lip'i,Lipi,41.5197,44.3854,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268885222
+Ch’ivch’avi,Ch'ivch'avi,Chivchavi,41.5301,44.4208,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268626171
+Igoet’i,Igoet'i,Igoyeti|Didvela,41.9951,44.4143,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268923004
+Pakhulani,Pakhulani,,42.6550,41.9628,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268671761
+Zhirghalishk’a,Zhirghalishk'a,Zhiri-Galishka|Zhirgalishka,42.6966,41.9222,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,23.8,,,4,Europe/Moscow,FALSE,1268000645
+K’akhoianebi,K'akhoianebi,Kakhoianebi,42.1186,44.9111,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268039505
+Akhalsopeli,Akhalsopeli,Akhalsopeli Malyye,42.0163,43.6709,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268105442
+Akhalsopeli,Akhalsopeli,,42.0163,43.6709,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,TRUE,1268000019
+Akhalsopeli,Akhalsopeli,,41.8886,44.3334,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,TRUE,1268000333
+Akhalsopeli,Akhalsopeli,Akhalsopeli Bol’shiye|Akhalsop’eli,42.0104,43.7745,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,TRUE,1268300395
+St’epanashvilebi,St'epanashvilebi,,41.7129,42.3663,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268585072
+Zeda Dek’anashvilebi,Zeda Dek'anashvilebi,,41.6625,42.3141,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268000065
+Bori,Bori,,42.0499,43.1160,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,88.7,,,4,Asia/Tbilisi,FALSE,1268198988
+Nigvznara,Nigvznara,,42.5719,43.4031,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,4,Asia/Tbilisi,FALSE,1268239978
+Akhalsopeli,Akhalsopeli,Akhalsop’ili|Akhelsopeli,42.4877,41.9061,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268058579
+Akhalsopeli,Akhalsopeli,,42.2474,42.0761,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,TRUE,1268474549
+Akhalsopeli,Akhalsopeli,Sovkhoz Akhalsopeli,42.2447,41.8617,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,TRUE,1268027480
+Ivaneuli,Ivaneuli,,42.3518,42.9297,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268630334
+Sagvichio,Sagvichio,,42.2094,41.8740,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268340579
+Nalepsao,Nalepsao,Nalepsovo|Nalepsavo,42.4350,42.3671,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268288721
+Kvasatali,Kvasatali,,42.2501,43.8939,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268364073
+Gaghma Nogha,Gaghma Nogha,Gagma-Noga,42.4328,42.5576,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,50.2,,,4,Asia/Tbilisi,FALSE,1268436632
+K’umisi,K'umisi,Kumisi,41.6144,44.7803,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,60.7,,,4,Asia/Tbilisi,FALSE,1268789822
+Paniaani,Paniaani,,41.5853,45.9572,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,,,4,Asia/Tbilisi,FALSE,1268885091
+Ts’inubani,Ts'inubani,,41.7014,45.0117,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,,60.7,,,4,Asia/Tbilisi,FALSE,1268000079
+Medzibna,Medzibna,,41.7167,41.9667,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268921965
+Medzibna,Medzibna,,41.5678,41.9758,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,TRUE,1268909412
+K’ak’abeti,K'ak'abeti,Kakabet’i,41.7040,45.5354,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,,,4,Asia/Tbilisi,FALSE,1268670399
+K’asrists’q’ali,K'asrists'q'ali,,42.0425,45.3369,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268000150
+Zemo Mskhalgori,Zemo Mskhalgori,Mskhalgori|Zemo-Mskhalgori,41.8528,46.1650,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268275483
+Zeda Chkhut’uneti,Zeda Chkhut'uneti,Verkhniye Chkhutuneti,41.4904,41.8580,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268952690
+Surmushi,Surmushi,,42.5893,42.8688,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268525963
+Biso,Biso,,42.5297,44.9985,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268952207
+Zeda K’valiti,Zeda K'valiti,Zeda-Kvaliti,42.0705,43.0083,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268692184
+Dik’lo,Dik'lo,Diklo,42.3968,45.6901,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268807966
+Kvemo Boshuri,Kvemo Boshuri,Boshuri,41.8627,43.9342,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268278771
+Opshk’viti,Opshk'viti,Op’shkvit’i,42.1472,42.6041,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268573858
+Godgadzeebi,Godgadzeebi,,41.6554,42.3371,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268127533
+Zemo T’olebi,Zemo T'olebi,,42.0581,42.2238,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,130.3,,,4,Asia/Tbilisi,FALSE,1268000114
+Tkhiliana,Tkhiliana,T’khiliana,42.4184,44.9757,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268223449
+Zemo Chibati,Zemo Chibati,Zemo Ch’ibat’i,42.0746,41.9866,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268008792
+Zhanivri,Zhanivri,Dzhanivri,41.7147,42.2098,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268191641
+Kveda Ulianovk’a,Kveda Ulianovk'a,Kveda-Ul’yanovka,41.7413,41.7364,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268353105
+Ts’q’ordza,Ts'q'ordza,Tskordza|Tsqordza,41.5694,43.0654,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268671025
+Met’elevk’a,Met'elevk'a,Megrelovka|Migrel’skoye,43.0514,41.2329,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268580369
+Meore Namik’olavo,Meore Namik'olavo,Namik’olavo Meore,42.4749,42.3319,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268043113
+Tskhumaldi,Tskhumaldi,Tskhumari|Tskhumali,42.8396,42.4706,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268680200
+Khunevi,Khunevi,,42.1060,43.3587,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,,,4,Asia/Tbilisi,FALSE,1268194892
+Sakobo,Sakobo,Akhal-Sakobo|Sak’obo,41.7433,46.1076,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268122462
+Sakobo,Sakobo,Sak’obo,41.6215,45.9613,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,,,4,Asia/Tbilisi,TRUE,1268993778
+Gvalderi,Gvalderi,,43.0261,42.5077,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268911775
+Lagharvashi,Lagharvashi,,42.7092,42.7574,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268000238
+Kobesaantubani,Kobesaantubani,,41.9914,43.8377,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268618561
+Ch’vrinisi,Ch'vrinisi,Chvrnisi|Chvrinisi,42.1566,43.7275,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268761590
+Gobroneti,Gobroneti,Gorboneti,41.6551,42.0376,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,FALSE,1268204629
+Tlia,Tlia,Tli,42.4821,44.1229,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268170713
+Kodalo,Kodalo,,41.6881,45.7364,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,55.3,,,4,Asia/Tbilisi,FALSE,1268575151
+Ebnisi,Ebnisi,,42.0564,44.6042,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268506572
+Maghlak’i,Maghlak'i,Maglaki|Maghlaki,42.2599,42.5610,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268339050
+Varianis Meurneoba,Varianis Meurneoba,,42.0910,44.0022,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268000307
+Japarauli,Japarauli,,42.0256,43.2071,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,,,4,Asia/Tbilisi,FALSE,1268000132
+Gverdisubani,Gverdisubani,,41.7818,43.6452,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,,,4,Asia/Tbilisi,FALSE,1268469184
+Gverdisubani,Gverdisubani,Gverdiyeubani,42.0168,43.5550,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268649330
+Akhalgori,Akhalgori,Leningori,42.1260,44.4833,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,minor,0,,,3,Asia/Tbilisi,FALSE,1268390281
+Nashtkoli,Nashtkoli,,43.0642,42.6076,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268699101
+Labechina,Labechina,,42.5744,42.9147,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268258293
+Kvemo-Machkhara,Kvemo-Machkhara,,42.5000,43.8667,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,1.8,,,5,Asia/Tbilisi,FALSE,1268666776
+Mart’iani,Mart'iani,Martiani,42.3203,44.5222,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268663505
+Kharjami,Kharjami,Khardzhami,41.6959,42.8546,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.2,,,4,Asia/Tbilisi,FALSE,1268961210
+Khumushkuri,Khumushkuri,,42.6205,41.6241,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,64.0,,,4,Europe/Moscow,FALSE,1268317657
+Khumushkuri,Khumushkuri,,42.9286,41.2224,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,TRUE,1268312394
+Lutkhubi,Lutkhubi,Lut’khubi,42.3782,44.7838,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268288024
+Ghobi,Ghobi,Gobi,42.7897,43.1106,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268634607
+Bzik’urtk’ari,Bzik'urtk'ari,Bzikurt Kari,42.1900,44.7698,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268937282
+Goraberezhouli,Goraberezhouli,,42.0046,42.2076,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268949595
+Onch’evi,Onch'evi,Okehevi|Onchevi,42.5647,43.5004,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268537487
+T’batana,T'batana,Batsara,42.2700,45.2613,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268452569
+P’at’ara Begliari,P'at'ara Begliari,Beglyar Malyy|Patara-Beglari,41.4163,44.8203,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268560148
+Undilaantkari,Undilaantkari,,42.1089,44.7497,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268986338
+Ts’erakvi,Ts'erakvi,Tseravki|VerkhniyeTserakvi|Tserak’vi,41.2957,44.6565,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268799196
+Abakhuamts’a,Abakhuamts'a,Abakhvamtsa|Abakhuatsa,43.1463,40.7212,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268274224
+Kursebi,Kursebi,,42.3075,42.8136,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268351165
+Ets’eri,Ets'eri,,42.1809,42.1580,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,,,4,Asia/Tbilisi,FALSE,1268000251
+Ets’eri,Ets'eri,,42.3734,42.0556,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,TRUE,1268724090
+Ets’eri,Ets'eri,Etseri,42.5588,42.3042,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,TRUE,1268446176
+Ets’eri,Ets'eri,Ordzhonikidze|Orjonikidze,42.6610,42.0598,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,TRUE,1268871972
+Och’opa,Och'opa,Ochopa-Gvimrala|Ochopa,42.2045,42.3913,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,134.4,,,4,Asia/Tbilisi,FALSE,1268140564
+Vaziani,Vaziani,,41.9664,44.5675,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,,,4,Asia/Tbilisi,FALSE,1268404848
+Gogoladzeyebi,Gogoladzeyebi,,42.2367,43.4772,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268965927
+Khet’agurovi,Khet'agurovi,Khetagurovo|Khetaguri|Tsunari|Kosta Khetagurova,42.2083,43.8926,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268034354
+K’irovk’a,K'irovk'a,,41.2793,44.7909,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268000196
+Satskhovria,Satskhovria,Satskhoriya,41.6667,41.9833,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,FALSE,1268695522
+Betlevi,Betlevi,,42.4591,43.1969,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268253774
+Ghortubani,Ghortubani,Gortubani,41.7083,42.6269,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.2,,,4,Asia/Tbilisi,FALSE,1268844240
+Kvemo-Gostibe,Kvemo-Gostibe,Gostibe,41.8094,44.3128,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268803604
+Tsamadi,Tsamadi,Tsamat|Tsamad,42.4569,43.9030,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268300178
+Ak’vaskemts’a,Ak'vaskemts'a,Akuaskyamtsa,43.1703,40.5928,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268012790
+Chimas,Chimas,Chimasi,42.4036,43.9898,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268888080
+Garbuti,Garbuti,,41.8719,46.0656,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,26.9,,,4,Asia/Tbilisi,FALSE,1268079360
+Girevi,Girevi,,42.4988,45.4820,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268406248
+Didi Nedzi,Didi Nedzi,,42.4047,41.6992,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268420601
+Vak’evisa,Vak'evisa,Vakevisa,42.3775,43.2881,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268152477
+Kulbiti,Kulbiti,,42.2276,44.1054,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268324165
+Sak’eni,Sak'eni,Saken,43.0891,41.8916,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.5,,,4,Europe/Moscow,FALSE,1268323429
+Kvemo-Snekvi,Kvemo-Snekvi,Dallag-Snekvi,42.2789,44.1125,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268219883
+Tsagata,Tsagata,Tsagat,42.4716,43.9251,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268725051
+Gantiadi,Gantiadi,Tikilisa,41.5926,43.9690,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,,,4,Asia/Tbilisi,FALSE,1268001489
+Dghamshi,Dghamshi,Dgamshi|Dgamishi|Dgamsh,42.8969,41.4137,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268462115
+Heshk’ili,Heshk'ili,Keshkili,43.0163,42.7105,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268440414
+Budzguri,Budzguri,Budzuguri|Budzigir|Budzgur,43.1018,41.6818,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,4,Europe/Moscow,FALSE,1268243387
+Orlovk’a,Orlovk'a,Orlovka,41.2192,43.6525,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,,,4,Asia/Tbilisi,FALSE,1268818558
+Zemo Boshuri,Zemo Boshuri,Zemo-Boshuri,41.8643,43.9100,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268916044
+Mukhrani,Mukhrani,Mulkrani,41.9324,44.5742,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,,,4,Asia/Tbilisi,FALSE,1268651651
+Turiantkaluebi,Turiantkaluebi,,41.4469,46.1969,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,,,5,Asia/Tbilisi,FALSE,1268802497
+Zana,Zana,Bol’shaya Zana|Didi-Zana,42.3905,42.0852,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268082228
+Akhali-Khurvaleti,Akhali-Khurvaleti,,42.0500,44.3000,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,18.3,,,4,Asia/Tbilisi,FALSE,1268326908
+Gamoghma K’odori,Gamoghma K'odori,Kodori|Gamogma-Kodori,42.1697,42.1827,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,,,4,Asia/Tbilisi,FALSE,1268715590
+Vakhtana,Vakhtana,,42.2653,43.7747,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268327212
+Tsitelsopeli,Tsitelsopeli,,42.3240,43.4287,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268424885
+Dodlani,Dodlani,Dodlan,42.7357,41.5091,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268233488
+Khertvisi,Khertvisi,,41.5397,41.7369,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268165341
+Bardubani,Bardubani,,42.2085,42.8940,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,,,4,Asia/Tbilisi,FALSE,1268691332
+Babkhiskhevi,Babkhiskhevi,Bakhis-Khevi,42.2731,45.0794,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268845466
+T’beti,T'beti,,43.1226,41.0747,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268091035
+Didi Opeti,Didi Opeti,Opeti,42.0705,42.3626,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,134.4,,,4,Asia/Tbilisi,FALSE,1268188394
+Achmarda,Achmarda,,43.4200,40.2022,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,,,4,Europe/Moscow,FALSE,1268164912
+Khoptsa,Khoptsa,Khopsa,42.1336,44.8936,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268547484
+Gezruli,Gezruli,,42.1814,43.2249,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,66.8,,,4,Asia/Tbilisi,FALSE,1268000120
+Sak’ramulo,Sak'ramulo,Sakramulo,42.0120,44.7075,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268105046
+Ts’q’arostavi,Ts'q'arostavi,,41.7289,45.2862,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,33.7,,,4,Asia/Tbilisi,FALSE,1268000162
+Nak’aidzeebi,Nak'aidzeebi,,41.8087,41.8037,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268000041
+Boboti,Boboti,,42.3744,42.8608,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268797141
+Roshk’a,Roshk'a,Garbani|Roshka,42.5443,44.8976,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268259102
+Tek’ali,Tek'ali,T’ekali|Tekal-Leusheri,42.8433,42.8705,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268464127
+Livadi,Livadi,,41.6931,44.1975,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268451745
+Sadmeli,Sadmeli,,42.5437,43.1121,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268102224
+Kvatsikhe,Kvatsikhe,K’vats’ikhe,42.2891,43.1413,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268999382
+Adzibzhara,Adzibzhara,Adzybzhara,43.2038,40.9688,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268725574
+Adzibzhara,Adzibzhara,Adzybzhara,42.8519,41.5326,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,TRUE,1268327456
+Ts’q’alts’minda,Ts'q'alts'minda,Tskaliminda|Tskaltsminda|Tsqaltsminda,42.0131,41.7783,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268914787
+Bugaura,Bugaura,,42.0333,43.5500,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268000799
+Dziguri,Dziguri,,42.2362,42.1483,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,,,4,Asia/Tbilisi,FALSE,1268004770
+Tazak’endi,Tazak'endi,Tazakendi,41.2224,44.8527,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,84.8,,,4,Asia/Tbilisi,FALSE,1268764996
+Zendidi,Zendidi,,41.6024,41.9295,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,FALSE,1268555423
+Naendrovali,Naendrovali,Nayendrovali,41.7647,46.0806,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268531965
+Dologani,Dologani,,41.5494,41.7842,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,66.3,,,4,Asia/Tbilisi,FALSE,1268628987
+Tsaishi,Tsaishi,Tsayshi,42.4325,41.8033,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268640915
+Tamagini,Tamagini,Tamadzhin|Tamagin,42.5453,43.7886,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268731407
+Nanari,Nanari,,42.7400,42.7953,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268514356
+Abgharkhuki,Abgharkhuki,Agbarkhuk|Abgarkhuki|Abgarkhuk,43.1156,40.7045,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268599486
+T’andzia,T'andzia,Tandzia,41.4506,44.3650,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,28.6,,,4,Asia/Tbilisi,FALSE,1268880584
+Korenishi,Korenishi,,42.5011,42.7766,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268358992
+K’akhareti,K'akhareti,,41.6560,42.7465,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.2,,,4,Asia/Tbilisi,FALSE,1268000278
+Mumlaantkari,Mumlaantkari,,42.1297,44.1906,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268055802
+Batsaligo,Batsaligo,Bats’aligo,42.5581,44.9641,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268820859
+Petriani,Petriani,,42.4217,44.6067,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268995746
+Buk’nari,Buk'nari,,42.0040,42.1570,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268166364
+Salieti,Salieti,Saliyeti|Saliet’i,42.2642,43.2162,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268050344
+K’ort’okhi,K'ort'okhi,,41.6436,42.3817,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268089893
+Lara,Lara,,42.6767,42.1160,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268901781
+Norio,Norio,,42.2107,42.1879,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,69.8,,,4,Asia/Tbilisi,FALSE,1268047825
+Zemo-Ambreti,Zemo-Ambreti,Verkhniye Ambreti,42.2517,43.8460,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,31.0,,,4,Asia/Tbilisi,FALSE,1268488729
+Ganakhleba,Ganakhleba,,42.3011,41.9347,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268252802
+Kvemo-Bakarda,Kvemo-Bakarda,Dallag-Bakarta|Nizhniy Ursdzuar,42.4968,44.0339,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268164810
+Korta,Korta,,42.5366,43.4214,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268674433
+Sats’uleisk’irio,Sats'uleisk'irio,Satsuleyskirio|Satsuleskirio|Satsuleiskirio,42.3126,42.0611,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268626074
+Q’velani,Q'velani,Kvelaani|Qvelani,42.4231,44.5994,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268696799
+Bagineti,Bagineti,,42.0624,42.7315,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.5,,,4,Asia/Tbilisi,FALSE,1268332901
+Nadaburi,Nadaburi,Naduburi,42.1259,43.4272,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268687862
+Dablagomi,Dablagomi,Dabla Gomi,42.0997,42.3877,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,91.5,,,4,Asia/Tbilisi,FALSE,1268640106
+Tvaladi,Tvaladi,,41.8450,44.4288,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268038960
+Gaghma Boslevi,Gaghma Boslevi,Boslevi|Gagma Boslevi|Gamogma-Boslevi,42.1945,43.1816,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268661486
+Kvemo-Koshka,Kvemo-Koshka,Kvemo-Kuschita|Koshka,42.4673,44.0550,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268904910
+Tsutskhvati,Tsutskhvati,Ts’uts’khvat’i,42.2863,42.8645,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268504566
+Zemo-Kheti,Zemo-Kheti,,42.0425,42.3528,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268108986
+Liya,Liya,,43.0433,42.4864,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268372420
+Attarkhabla,Attarkhabla,Ashir-Khobla,43.1864,40.6361,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268557304
+Ninuak’utkhe,Ninuak'utkhe,,42.2139,42.3394,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,134.4,,,4,Asia/Tbilisi,FALSE,1268063358
+Vashlovani,Vashlovani,,41.8500,46.2667,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268956488
+Lekobale,Lekobale,,42.5616,42.2539,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.7,,,4,Asia/Tbilisi,FALSE,1268579897
+K’odmani,K'odmani,Kodmani,41.8999,43.7390,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268115539
+Meore Okhurei,Meore Okhurei,Meore-Okhurey,42.7371,41.5519,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268547500
+Molaoghli,Molaoghli,Molaogly,41.2326,44.7563,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268819208
+Ts’ipa,Ts'ipa,Tsip’a,42.0453,42.9514,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,81.5,,,4,Asia/Tbilisi,FALSE,1268076466
+Ts’ipa,Ts'ipa,Tsip’a,42.0034,43.4548,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,,,4,Asia/Tbilisi,TRUE,1268148606
+Chatakhi,Chatakhi,Poladauri|Chatakhskiy Chugunnyy Zavod’|Chatakh,41.3333,44.5000,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,,,4,Asia/Tbilisi,FALSE,1268393863
+Laituri,Laituri,Layturi,41.9125,41.9092,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,90.2,,,4,Asia/Tbilisi,FALSE,1268929817
+Orsant’ia,Orsant'ia,,42.4678,41.6738,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,78.5,,,4,Asia/Tbilisi,FALSE,1268795720
+Zemo Khvedureti,Zemo Khvedureti,Verkhniye Khvedureti|Zemo Khvedureti|Zemo Khveduret’i,41.9823,43.9270,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268771237
+Mots’ameta,Mots'ameta,Motsameti|Motsameta,42.2881,42.7553,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268299710
+Khemaghali,Khemaghali,Khemagali,42.0671,43.1906,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,63.5,,,4,Asia/Tbilisi,FALSE,1268016349
+Ts’achkhuru,Ts'achkhuru,Chachkhuri|Tsachkhuri,42.5375,42.3257,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268124042
+Gholovani,Gholovani,Golovani,41.6860,44.4919,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268761280
+Dandalo,Dandalo,,41.6446,42.1022,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,25.4,,,4,Asia/Tbilisi,FALSE,1268573282
+Disveli,Disveli,,41.4965,44.5576,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268000168
+Erge,Erge,Yerge,41.5642,41.6914,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268317372
+Zemo Ghru,Zemo Ghru,Zemo-Gru,42.2160,44.5482,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268114164
+Ch’ibrevi,Ch'ibrevi,Chibrevi,42.5385,43.3203,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268137603
+Int’abueti,Int'abueti,Intabuyeti,41.9741,42.2316,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268362224
+Leshamuge,Leshamuge,Leshamude,42.7275,42.0679,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268099494
+Gamarjveba,Gamarjveba,Gamardzhvebe|Gamardzhoeba|Gamardzhveba,41.6493,44.9960,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,4927.7,,,2,Asia/Tbilisi,FALSE,1268759860
+Likheti,Likheti,Likhet’i,42.6076,43.2341,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268797871
+P’irveli Sviri,P'irveli Sviri,Pirveli Sviri|Sviri Pervyye|Pirvili Sviri,42.1106,42.9674,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268000415
+Bogvi,Bogvi,,41.5798,44.6136,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268085783
+Shua Aghvi,Shua Aghvi,Shua-Agvi,42.5767,42.7128,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268348206
+Vedzisi,Vedzisi,Dzveli Vedzisi|Dzveli-Vedzisi|Vedzisi,41.7711,44.6884,Georgia,GE,GEO,Tbilisi,Tbilisi,GE-TB,city,,61.2,,,4,Asia/Tbilisi,FALSE,1268340793
+Banoja,Banoja,Banodzha|Bonodzha,42.2847,42.6636,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268832110
+Zakatk’ari,Zakatk'ari,Zak’at’kari,42.4404,44.5210,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268881036
+Arkneti,Arkneti,,42.2256,43.8474,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268871364
+Shukruti,Shukruti,Shukrut|Shuk’rut’i,42.2770,43.3262,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268403376
+Khidistavi,Khidistavi,Khidist’avi,41.9580,44.1367,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268837232
+Beretisa,Beretisa,Veretisi,42.1900,43.4099,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268261468
+Kveda Sats’umbo,Kveda Sats'umbo,,42.1006,43.1941,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,50.0,,,4,Asia/Tbilisi,FALSE,1268000101
+Ts’virmi,Ts'virmi,,43.0148,42.8066,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268468635
+Ch’itats’q’ari,Ch'itats'q'ari,Chitatskari,42.4787,41.8524,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,322.9,,,3,Asia/Tbilisi,FALSE,1268548190
+Ts’q’arota,Ts'q'arota,,41.6646,42.1646,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268000046
+Chernomorskiy Posëlok,Chernomorskiy Poselok,,42.3667,41.6000,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268068126
+Shuamta,Shuamta,Didi Krayevich,43.0168,41.3219,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268535598
+Chikha,Chikha,Ch’ikha,42.3494,43.4398,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268002218
+Meneso,Meneso,,42.2384,44.7621,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268950748
+Tsivts’q’aro,Tsivts'q'aro,Tsivtskaro,42.0564,43.5474,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268925432
+Last’itsikhe,Last'itsikhe,Lastistsikhe,41.7300,44.5503,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268516575
+Kheta,Kheta,,42.3590,41.8552,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268792391
+Kekhovani,Kekhovani,,41.7042,42.5768,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,19.2,,,4,Asia/Tbilisi,FALSE,1268167424
+Mta K’uchughdaghi,Mta K'uchughdaghi,,41.7769,42.5310,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,19.2,,,4,Asia/Tbilisi,FALSE,1268315297
+Machkhvareti,Machkhvareti,,42.0742,42.0255,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268547451
+Zemo Chocheti,Zemo Chocheti,Verkhniye Chocheti|Zemo-Chocheti,41.8981,44.3380,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268154587
+Taniantk’ari,Taniantk'ari,Taniantkari,42.0974,44.7013,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268672823
+Kartisi,Kartisi,,42.1119,44.3967,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268571902
+Kumelaurta,Kumelaurta,K’umelaurt’a,42.3481,45.6300,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268000417
+Imirasani,Imirasani,Imir-Asan,41.4294,44.6653,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,,,4,Asia/Tbilisi,FALSE,1268800944
+Ortabatumi,Ortabatumi,,41.6403,41.7293,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268000057
+Dzhakismani,Dzhakismani,,41.5187,42.8237,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268349707
+Bosela,Bosela,,42.2373,42.9663,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,83.9,,,4,Asia/Tbilisi,FALSE,1268112062
+Sioni,Sioni,,41.2936,44.7171,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268264168
+Kvedi,Kvedi,K’vedi,42.5633,43.5483,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268270876
+Nabakht’evi,Nabakht'evi,Nabakhtevi,42.0657,43.6652,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268132603
+Leq’ereti,Leq'ereti,K’irovi,42.4109,42.7713,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268700821
+Zeda Lia,Zeda Lia,,42.6739,42.0237,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268706104
+Vedrauli,Vedrauli,,42.2253,44.8561,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268782531
+Mayram,Mayram,Mairami,42.4741,43.9284,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268259159
+Ereto,Ereto,Eret’o,42.4828,44.4492,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,2.8,,,5,Asia/Tbilisi,FALSE,1268007832
+Kvemo Machkhaani,Kvemo Machkhaani,Nizhniye Machkhaani|K’vemo Mach’khaani,41.5766,45.9733,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,,,4,Asia/Tbilisi,FALSE,1268343199
+Zinda,Zinda,,42.6558,42.1589,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.8,,,4,Asia/Tbilisi,FALSE,1268769505
+Kotanto,Kotanto,,42.4342,43.8397,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,1.2,,,3,Asia/Tbilisi,FALSE,1268854483
+Kvemo-Ambreti,Kvemo-Ambreti,Nizhniye Ambreti,42.2499,43.8613,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268026607
+Mikelts’minda,Mikelts'minda,Mikeltsminda,41.6849,42.9586,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268278142
+P’at’ara Chorjo,P'at'ara Chorjo,Patara-Chordzho,42.5534,43.0427,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268360063
+Peria,Peria,Feria,41.6333,41.6514,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268550154
+Doli,Doli,,43.0308,42.5812,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268418102
+Martskhena Rk’via,Martskhena Rk'via,Marts’khena Rkvia|Rkvia Levaya,42.2198,43.1690,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268512910
+Sadzeguri P’irveli,Sadzeguri P'irveli,Sadzeguri|Sadzeguri Pirveli,42.2233,44.4800,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268819842
+Adzigezhi,Adzigezhi,Adzigezh,43.0542,40.9798,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268022050
+Rek’a,Rek'a,,42.2695,41.9952,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268925831
+Akhalubani,Akhalubani,,42.0880,43.6667,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268471352
+Akhalubani,Akhalubani,,42.0880,43.6667,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,TRUE,1268000017
+Akhalubani,Akhalubani,,42.1392,44.1931,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,TRUE,1268921734
+Kveda Makhuntseti,Kveda Makhuntseti,Nizhniye Makhuntseti,41.5661,41.8336,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,33.7,,,4,Asia/Tbilisi,FALSE,1268513826
+Navtiani,Navtiani,Naftiani,41.5226,44.3112,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268782537
+Orekhovo,Orekhovo,,43.3514,40.1461,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,,,4,Europe/Moscow,FALSE,1268112337
+Tavsurebi,Tavsurebi,,41.9430,42.4923,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268196459
+Mosabruni,Mosabruni,Musarukhi,42.1002,44.4879,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268020591
+P’at’ara Toneti,P'at'ara Toneti,Malyye Toneti|Patara T’onet’i,41.6620,44.4579,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268407843
+Chiglaurta,Chiglaurta,Chiglaurt’a,42.3559,45.5989,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268000377
+Koreti,Koreti,K’oret’i,42.3000,45.3833,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268500728
+Itria,Itria,,42.0303,43.5347,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268076712
+Ch’esho,Ch'esho,Chesho,42.4801,45.5375,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268000379
+Dranda,Dranda,Drandi|Drandy,42.8717,41.1533,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,4,Europe/Moscow,FALSE,1268919114
+Sianami,Sianami,,42.4500,44.5322,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268558313
+Ukuleshi,Ukuleshi,,42.8503,42.8714,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268869315
+Nojikhevi,Nojikhevi,Nodzhikhevi,42.3026,41.9522,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268956371
+Nojikhevi,Nojikhevi,,42.3695,42.3281,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,TRUE,1268275084
+Nakharebavo,Nakharebavo,Nakharebovo|Nakharebao,42.4017,42.3652,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268223104
+Sk’urdi,Sk'urdi,Skurdi,42.4770,42.3703,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268615018
+Saghrasheni,Saghrasheni,Sagirasheni|Sagarasheni,41.5815,44.5833,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268394036
+Usgviri,Usgviri,,42.9519,42.4150,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268523563
+Zemo Khevi,Zemo Khevi,,41.6827,42.1892,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268527387
+Bokchvilo,Bokchvilo,Bogch’vilo,42.4978,44.9730,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268654658
+Tskhvareshi,Tskhvareshi,,42.8053,42.6372,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268318044
+Chegem,Chegem,,42.9667,41.3167,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268064623
+Didi Gondrio,Didi Gondrio,Bol’shaya Kondura|Kondura|Didi K’onduri|Didi Gondrio,41.2920,43.4829,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,,,4,Asia/Tbilisi,FALSE,1268454368
+Zemo P’shap’i,Zemo P'shap'i,Pshapi Verkhniye|Verkhniy Pshap,42.8861,41.1464,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268799987
+Didebaani,Didebaani,,42.4280,44.7318,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268999689
+Didebaani,Didebaani,Didebaant-Kari,42.1000,44.7000,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,TRUE,1268216115
+Zemo Khevi,Zemo Khevi,,43.2379,40.3096,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,,,4,Europe/Moscow,FALSE,1268222987
+Kroza,Kroza,Krozi,42.2267,43.8754,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268085312
+Kroza,Kroza,Kroz,42.3987,43.9730,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,TRUE,1268793477
+Tela,Tela,,41.8051,46.1438,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268513155
+Barsi,Barsi,Bars,42.3608,43.9129,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.1,,,4,Asia/Tbilisi,FALSE,1268803487
+Pantnauri,Pantnauri,Pantnara,42.1859,44.1421,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268947949
+Mukhura,Mukhura,,42.3251,43.1068,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268172607
+Khevi,Khevi,,41.9611,42.2819,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268669222
+Tsikhna,Tsikhna,,42.2050,44.4617,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268989444
+Tsanigvarta,Tsanigvarta,Tsangvarta,43.1990,40.3963,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,,,4,Europe/Moscow,FALSE,1268003599
+Chitakhevi,Chitakhevi,Chitakheviges,41.7908,43.2995,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,,,4,Asia/Tbilisi,FALSE,1268408981
+Samrek’lo,Samrek'lo,Dzhaparidze|Japaridze|Jap’aridze,41.4556,46.1431,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,7.0,,,4,Asia/Tbilisi,FALSE,1268168721
+Kokoleti,Kokoleti,Kobaleti,41.4980,41.8657,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268218682
+Saimedo,Saimedo,,42.1326,42.7846,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,23.9,,,4,Asia/Tbilisi,FALSE,1268822959
+Garueti,Garueti,Garuyeti,42.2517,44.5017,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268529677
+Amparaarkhu,Amparaarkhu,Amparaa,43.2203,40.4311,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268322624
+Lashkharashi,Lashkharashi,,42.8151,43.1156,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268000242
+Kvenat’k’otsa,Kvenat'k'otsa,K’venatkots’a,42.0465,43.8197,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268839335
+Zhashkva,Zhashkva,Zashkva|Zhoshkva,42.5530,43.4629,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268699549
+Ts’erovani,Ts'erovani,Tserovani,41.8757,44.6827,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,61.2,,,4,Asia/Tbilisi,FALSE,1268952292
+Zamleti,Zamleti,,41.6289,42.2628,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268807302
+Kulbaki,Kulbaki,,42.6272,42.6550,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268177743
+Aiazmi,Aiazmi,Ayazmi,41.5777,43.9129,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,,,4,Asia/Tbilisi,FALSE,1268322938
+Balani,Balani,Balan,42.8084,41.2155,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268840093
+Q’arishi,Q'arishi,,42.7877,42.7455,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268972104
+Navardzeti,Navardzeti,,42.2781,43.2439,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268235654
+Pichkhis-Bogiri,Pichkhis-Bogiri,,41.8375,45.9761,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,29.8,,,4,Asia/Tbilisi,FALSE,1268672194
+Erists’q’ali,Erists'q'ali,Eritskali,42.7101,41.9447,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,32.0,,,4,Asia/Tbilisi,FALSE,1268023242
+Ts’inubani,Ts'inubani,Tsinubani,41.7135,43.1270,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268631204
+Ts’inubani,Ts'inubani,Tsinubani,41.5988,42.8871,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,TRUE,1268815314
+Ts’inubani,Ts'inubani,Tsinubani,41.7986,43.6466,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,29.1,,,4,Asia/Tbilisi,TRUE,1268564134
+T’vanaarkhu,T'vanaarkhu,Tvanikhua,43.2114,40.6540,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268696932
+Adlia,Adlia,Adliye|Adlia,41.6208,41.5917,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,4543.2,,,2,Asia/Tbilisi,FALSE,1268264037
+Kenkaani,Kenkaani,K’enk’aani,42.3324,44.4692,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268217184
+Giorgitsminda,Giorgitsminda,,41.5333,43.0500,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268367867
+Tsetskhlauri,Tsetskhlauri,,41.8687,41.8665,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,100.7,,,4,Asia/Tbilisi,FALSE,1268000035
+Sirkhautikau,Sirkhautikau,,42.5494,44.1183,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268402616
+Rusiani,Rusiani,,41.8752,45.2319,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,FALSE,1268579864
+Ats’q’uri,Ats'q'uri,Azchuri|Atskuri|Atskhur|Atsquri,41.7300,43.1612,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268209593
+Jvara,Jvara,Dumanisi|Dmanisi,41.5251,44.3472,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268800345
+Tuzi,Tuzi,T’uzi,42.2749,43.1025,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,61.7,,,4,Asia/Tbilisi,FALSE,1268122593
+Tskhramukha,Tskhramukha,Ts’khramukha,41.9775,43.5807,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268008479
+Juq’muri,Juq'muri,Jekmuri|Dzhukmur,42.7451,41.4504,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268904398
+Sak’raula,Sak'raula,Sakraula|Sakreula,42.0293,42.9806,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268044017
+Merchkheti,Merchkheti,,41.7229,42.3470,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268067648
+Mejilaurni,Mejilaurni,Medzhilaurni,42.3154,44.6346,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268982736
+Zemo Joch’o,Zemo Joch'o,Zemo-Dzhocho|Zeda Joch’o,41.5742,41.7122,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268976676
+T’ibaani,T'ibaani,Tibaani,41.5740,46.0023,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,18.9,,,4,Asia/Tbilisi,FALSE,1268139044
+Mushevani,Mushevani,Mushavani,41.4140,44.4610,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,57.4,,,4,Asia/Tbilisi,FALSE,1268565712
+Chadistsikhe,Chadistsikhe,Ch’adists’ikhe,42.3850,44.6598,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268269296
+Bareti,Bareti,Bashkoy|Bashkey|Bashkoi|Bashk’o,41.6677,44.1532,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,17.7,,,4,Asia/Tbilisi,FALSE,1268383653
+Khopuri,Khopuri,Khop’uri,42.7312,42.7610,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268942699
+Nabeghlavi,Nabeghlavi,Nabeglavi,41.9443,42.3587,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268852404
+Arashenda,Arashenda,,41.9737,45.3162,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,TRUE,1268496448
+Semenli,Semenli,,43.1000,41.1167,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268427381
+Dzirkhvniani,Dzirkhvniani,Dzvirkhvniani,42.0448,44.9160,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268676511
+T’usrebi,T'usrebi,,41.8533,43.8935,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268148229
+Gudarekhi,Gudarekhi,Goristavi,41.5833,44.4500,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268960044
+Shvelaur-Tsitsibauri,Shvelaur-Tsitsibauri,Shvelaur Tsitsibauri,41.9620,42.4508,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268281507
+Ch’uburkhinji,Ch'uburkhinji,Chuburis-Khindzhi|Tchuburkhinji|Chuburkhindzhi,42.5782,41.8158,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,64.0,,,4,Europe/Moscow,FALSE,1268771621
+Zhdanovi,Zhdanovi,Yezhovakani|Yelia Avakan|Zhdanov|Zhdanow,41.1676,43.7720,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,16.5,,,4,Asia/Tbilisi,FALSE,1268203648
+Gori,Gori,,42.5161,43.1720,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268467889
+Jamp’ali,Jamp'ali,Dzhal|Dzhampali|Chin-Chal-Bil|Dzhampal,43.0449,41.3419,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,4,Europe/Moscow,FALSE,1268978280
+Kvemo Shukhuti,Kvemo Shukhuti,Shukhuti|Shukhuty,42.0833,42.0833,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268336798
+Barshi,Barshi,,43.0509,42.5255,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268828347
+Moprineti,Moprineti,,41.5880,42.1292,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,21.8,,,4,Asia/Tbilisi,FALSE,1268987578
+Lebarde,Lebarde,,42.7337,42.5004,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268447657
+Akhuti,Akhuti,,42.4672,42.1705,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,27.7,,,4,Asia/Tbilisi,FALSE,1268091570
+Kvemo Khevi,Kvemo Khevi,K’vemo Khevi,42.3745,43.3533,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268504833
+Parizi,Parizi,Muganlo Maloye|Patara-Muganlo,41.4713,44.7369,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,103.4,,,4,Asia/Tbilisi,FALSE,1268443836
+Kvemo Boli,Kvemo Boli,Nizhniye Boli|Kvemo-Boli,42.1104,44.4739,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,0,,,5,Asia/Tbilisi,FALSE,1268671304
+Zhabna,Zhabna,,43.2283,40.5147,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268167317
+Ts’q’arotubani,Ts'q'arotubani,,41.9408,44.9469,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268000231
+Uzunta,Uzunta,,42.4249,43.3394,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268336575
+Lepona,Lepona,,42.7874,41.3131,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,15.7,,,4,Europe/Moscow,FALSE,1268854054
+Zima,Zima,,43.1086,41.6297,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268925268
+Shk’edi,Shk'edi,,42.7862,43.0657,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268010194
+K’itskhis Igoreti,K'itskhis Igoreti,Igoreti|Kitskhis Igoreti,42.0594,43.1364,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268524043
+Akapa,Akapa,,43.0386,41.0928,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,58.2,,,4,Europe/Moscow,FALSE,1268500105
+Omalo,Omalo,,42.1834,45.3215,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,11.9,,,4,Asia/Tbilisi,TRUE,1268403045
+Rapits’a,Rapits'a,Rapytsa,43.1827,40.3418,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,39.3,,,4,Europe/Moscow,FALSE,1268197147
+Ojola,Ojola,Odzhola,42.3882,42.7893,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268398986
+Bareuli,Bareuli,,42.5512,43.0106,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268128272
+Oireme,Oireme,,42.4733,41.8138,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,80.2,,,4,Asia/Tbilisi,FALSE,1268342289
+Kazakh,Kazakh,,43.0068,42.2530,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268499246
+Ota,Ota,,41.6201,43.3016,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,11.5,,,4,Asia/Tbilisi,FALSE,1268120644
+Orp’iri,Orp'iri,Orpiri,42.3254,42.8128,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268745724
+Bakkhiya,Bakkhiya,,42.4686,45.0687,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268814839
+Okhiri,Okhiri,Okhnri,42.3929,44.5130,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268774600
+Tsveti,Tsveti,,42.1058,43.6894,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268799149
+Meore Obcha,Meore Obcha,Meore Obch’a|Obcha Vtoraya,42.1036,42.8839,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268000394
+Zegarda,Zegarda,,41.9833,44.3167,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,49.9,,,4,Asia/Tbilisi,FALSE,1268486875
+Ch’ie,Ch'ie,Chiye|Chie,42.5266,44.9538,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268302995
+Okhvamek’ari,Okhvamek'ari,Okhvame,42.3700,41.8434,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,45.6,,,4,Asia/Tbilisi,FALSE,1268452184
+Maltaq’va,Maltaq'va,Maltakva,42.0589,41.7272,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268388245
+K’irnati,K'irnati,Kirnat’i,41.5136,41.7151,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268429250
+Damkali,Damkali,Dankali,41.3791,43.3300,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,,,4,Asia/Tbilisi,FALSE,1268214608
+Junmere,Junmere,,42.0668,42.0132,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,52.3,,,4,Asia/Tbilisi,FALSE,1268860514
+Vernebi,Vernebi,,41.5586,42.4332,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268568062
+Danilovka,Danilovka,,41.5547,44.4469,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268992134
+Akhali Samgori,Akhali Samgori,Axali-Samqori,41.5750,45.0686,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,60.7,,,4,Asia/Tbilisi,FALSE,1268514825
+Chetar,Chetar,Chetor,42.4247,43.9754,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,0,,,5,Asia/Tbilisi,FALSE,1268659199
+Ts’k’adisi,Ts'k'adisi,Tskadisi,42.4590,43.1619,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,8.2,,,5,Asia/Tbilisi,FALSE,1268133972
+K’unts’a,K'unts'a,,41.5139,43.2406,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,11.5,,,4,Asia/Tbilisi,FALSE,1268892735
+Ts’ilamieri,Ts'ilamieri,,42.6231,42.8112,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268092408
+Akhali T’oncha,Akhali T'oncha,,42.0996,44.6593,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268000214
+Kvemo-Artsevi,Kvemo-Artsevi,Nizhniye Artsevi,42.1352,44.1189,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268428092
+Tsotsolta,Tsotsolta,Tsotsolda,42.6285,44.3348,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,2.8,,,5,Asia/Tbilisi,FALSE,1268836631
+Chorchani,Chorchani,Chorchokhi|Chorchani,42.1167,44.5167,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,5.4,,,5,Asia/Tbilisi,FALSE,1268093161
+Q’umistavi,Q'umistavi,Kumistavi,42.3833,42.6024,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268986094
+Grigolaantk’ari,Grigolaantk'ari,Grigolaantkari,42.0503,44.6608,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268591487
+Vake,Vake,,42.0322,44.4303,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,12.3,,,4,Asia/Tbilisi,FALSE,1268327928
+Tskhentaro,Tskhentaro,Ts’khent’aro,42.1469,42.8382,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,112.9,,,4,Asia/Tbilisi,FALSE,1268977492
+Dekhviri,Dekhviri,Dekhvir,42.6232,42.7784,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268772397
+Totani,Totani,Totona|Totana,42.8850,42.0434,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268598820
+P’at’ara Tkhilnara,P'at'ara Tkhilnara,,41.9507,43.6758,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268000027
+Q’orolistavi,Q'orolistavi,Koronis-Tavi|Korolistavi,41.6435,41.7328,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,97.6,,,4,Asia/Tbilisi,FALSE,1268486680
+Ganatleba,Ganatleba,,41.8218,46.2186,Georgia,GE,GEO,K’akheti,K'akheti,GE-KA,region,,38.0,,,4,Asia/Tbilisi,FALSE,1268090606
+Zemo Erk’eti,Zemo Erk'eti,Yerketi,41.9866,42.2669,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268133522
+Bezhano,Bezhano,,41.6097,43.5605,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,,,4,Asia/Tbilisi,FALSE,1268748077
+Bulalaurta,Bulalaurta,,42.4845,45.0179,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268769208
+Amaghleba,Amaghleba,Amagleba,42.0875,42.6338,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,34.7,,,4,Asia/Tbilisi,FALSE,1268346412
+Lemshveniera,Lemshveniera,Lemisvaniyera,41.4717,45.1858,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,60.7,,,4,Asia/Tbilisi,FALSE,1268858551
+Chkhalta,Chkhalta,Chkalta,43.0943,41.6743,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268874892
+Kvedrula,Kvedrula,,42.5459,43.5228,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268000246
+Khevi,Khevi,,42.0960,43.4095,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,18.0,,,4,Asia/Tbilisi,FALSE,1268303207
+Sochkheti,Sochkheti,Soch’khet’i,42.3908,42.9136,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.1,,,4,Asia/Tbilisi,FALSE,1268961573
+Ghvtismshobeli,Ghvtismshobeli,Khvitismshobeli,41.7815,43.6674,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,20.5,,,4,Asia/Tbilisi,FALSE,1268819004
+Zemokheti,Zemokheti,,42.0447,42.3850,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,36.8,,,4,Asia/Tbilisi,FALSE,1268944660
+Lichi,Lichi,K’veda Lich’i|Lich’i|Zeda Lich’i|Lichi Nizhniye,42.1528,43.4771,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,39.0,,,4,Asia/Tbilisi,FALSE,1268379453
+Jvariketi,Jvariketi,Dzhvariketi|Jvarik’et’i,41.6347,42.3990,Georgia,GE,GEO,Ajaria,Ajaria,GE-AJ,autonomous republic,,27.7,,,4,Asia/Tbilisi,FALSE,1268011443
+K’urtsobi,K'urtsobi,,42.6398,42.8202,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,11.1,,,4,Asia/Tbilisi,FALSE,1268000247
+Zemo Surebi,Zemo Surebi,,41.9524,42.4680,Georgia,GE,GEO,Guria,Guria,GE-GU,region,,21.7,,,4,Asia/Tbilisi,FALSE,1268000002
+Alibari,Alibari,,42.2046,43.7575,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268605767
+K’varchkhighali,K'varchkhighali,Kvarchkhali|Kvarchkhigali,42.3167,42.1667,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,65.0,,,4,Asia/Tbilisi,FALSE,1268335435
+Zeist’echo,Zeist'echo,Zeistech’o,42.5713,44.9583,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268748874
+Ts’inak’verk’ve,Ts'inak'verk've,,42.4076,42.3144,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268688215
+Yefteluk,Yefteluk,,43.0667,41.2667,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,9.8,,,5,Europe/Moscow,FALSE,1268094201
+Dzeglevi,Dzeglevi,,42.1124,44.5194,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,5.4,,,5,Asia/Tbilisi,FALSE,1268037385
+P’irveli Ts’q’alt’ubo,P'irveli Ts'q'alt'ubo,Pirveli-Tskhaltubo,42.3203,42.5544,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,68.6,,,4,Asia/Tbilisi,FALSE,1268941690
+P’at’ara Durnuk’i,P'at'ara Durnuk'i,Patara-Durnaki|Patara|Durnuki Malyye|Patara-Durnuki,41.5287,44.7189,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268962358
+Q’udro,Q'udro,Kudro|Qudro,41.9315,45.0826,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,8.9,,,5,Asia/Tbilisi,FALSE,1268292025
+Modega,Modega,Modegami,41.6160,43.5113,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,19.0,,,4,Asia/Tbilisi,FALSE,1268686199
+Kvesheti,Kvesheti,Kvishieti|K’veshet’i,42.4267,44.5578,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268391293
+Ardisi,Ardisi,,42.2733,44.3525,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,30.5,,,4,Asia/Tbilisi,FALSE,1268800585
+Dzhudari,Dzhudari,,42.8286,42.5131,Georgia,GE,GEO,Rach’a-Lechkhumi da Kvemo Svaneti,Rach'a-Lechkhumi da Kvemo Svaneti,GE-RL,region,,2.1,,,5,Asia/Tbilisi,FALSE,1268269406
+Aq’neli,Aq'neli,Akneli|Aqneli,42.5455,44.9551,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268697403
+Zvandripshi,Zvandripshi,Zvandripsh,43.1599,40.5642,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268835698
+Sakirio,Sakirio,,42.3804,41.8302,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,43.0,,,4,Asia/Tbilisi,FALSE,1268176122
+Pasanuri,Pasanuri,,42.3491,44.7079,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268633314
+Bziskhevi,Bziskhevi,,42.2160,43.6329,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,33.2,,,4,Asia/Tbilisi,FALSE,1268056005
+Gheshderi,Gheshderi,Khgeshter|Geshderi,43.0698,42.4730,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,2.6,,,5,Asia/Tbilisi,FALSE,1268340459
+Avenisi,Avenisi,,42.1673,44.7217,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268232707
+Mach’at’ia,Mach'at'ia,Madzhidia|Matchatia|Machatia|Nagvazao,41.4478,43.5158,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,32.6,,,4,Asia/Tbilisi,FALSE,1268249770
+Tsikhissopeli,Tsikhissopeli,,42.2234,44.6520,Georgia,GE,GEO,Mtskheta Mtianeti,Mtskheta Mtianeti,GE-MM,region,,7.4,,,5,Asia/Tbilisi,FALSE,1268000208
+Kvaiti,Kvaiti,,42.4267,42.4240,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,33.0,,,4,Asia/Tbilisi,FALSE,1268146095
+Tsedani,Tsedani,,42.0663,43.5699,Georgia,GE,GEO,Shida Kartli,Shida Kartli,GE-SK,region,,78.1,,,4,Asia/Tbilisi,FALSE,1268199378
+Torsa,Torsa,,42.3673,41.7817,Georgia,GE,GEO,Samegrelo-Zemo Svaneti,Samegrelo-Zemo Svaneti,GE-SZ,region,,42.7,,,4,Asia/Tbilisi,FALSE,1268954704
+Paptsva,Paptsva,Paptsa,43.2014,40.5031,Georgia,GE,GEO,Abkhazia,Abkhazia,GE-AB,autonomous republic,,27.1,,,4,Europe/Moscow,FALSE,1268474088
+Dabla Ets’eri,Dabla Ets'eri,Kveda Ets’eri,42.0892,42.4111,Georgia,GE,GEO,Imereti,Imereti,GE-IM,region,,37.0,,,4,Asia/Tbilisi,FALSE,1268513310
+Agara,Agara,,41.6963,43.1355,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,38.2,,,4,Asia/Tbilisi,FALSE,1268294742
+Agara,Agara,Didi Agara,41.3710,43.2279,Georgia,GE,GEO,Samtskhe-Javakheti,Samtskhe-Javakheti,GE-SJ,region,,11.5,,,4,Asia/Tbilisi,TRUE,1268696541
+Ts’veri,Ts'veri,,41.6822,44.5589,Georgia,GE,GEO,Kvemo Kartli,Kvemo Kartli,GE-KK,region,,15.7,,,4,Asia/Tbilisi,FALSE,1268000187

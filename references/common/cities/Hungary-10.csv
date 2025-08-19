@@ -1,0 +1,942 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Piricsizma,Piricsizma,,46.1167,18.2833,Hungary,HU,HUN,Pécs,Pecs,HU-PS,urban county,,895.4,,,3,Europe/Budapest,FALSE,1348442786
+Bajzáthdůlő,Bajzathdulo,,47.3667,20.1000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,71.3,,,4,Europe/Budapest,FALSE,1348356962
+Fásdunadomb,Fasdunadomb,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348011933
+Városlődi Tanyák,Varoslodi Tanyak,,47.1500,17.6500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,54.7,,,4,Europe/Budapest,FALSE,1348995836
+Borbélytanya,Borbelytanya,,46.2333,17.5333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.5,,,4,Europe/Budapest,FALSE,1348239043
+Magyarkert,Magyarkert,Magyar-tanya,47.2000,21.5167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,103.8,,,4,Europe/Budapest,FALSE,1348270658
+Ráckeresztdůlő,Rackeresztdulo,,46.8000,18.9167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,72.1,,,4,Europe/Budapest,FALSE,1348616531
+Kerektiszta,Kerektiszta,,47.2500,21.0500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,82.5,,,4,Europe/Budapest,FALSE,1348299470
+Bevár,Bevar,,47.2333,18.8000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,48.8,,,4,Europe/Budapest,FALSE,1348652513
+Inokai Tanyák,Inokai Tanyak,,46.8833,20.2333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,72.0,,,4,Europe/Budapest,FALSE,1348996222
+Tölgyespuszta,Tolgyespuszta,,47.9020,19.3092,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,22.4,,,4,Europe/Budapest,FALSE,1348398387
+Csatókamarás,Csatokamaras,,46.3167,20.8167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,46.2,,,4,Europe/Budapest,FALSE,1348372754
+Újtanya,Ujtanya,,46.9500,20.4333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,14.9,,,4,Europe/Budapest,FALSE,1348551858
+Bagolai Erdősház,Bagolai Erdoshaz,Bagolaierdőház,46.3500,17.3500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,29.9,,,4,Europe/Budapest,FALSE,1348288196
+Csontostanya,Csontostanya,,47.2833,18.7667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,143.3,,,4,Europe/Budapest,FALSE,1348873246
+Cserhát,Cserhat,,46.1333,18.7833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,25.0,,,4,Europe/Budapest,FALSE,1348144481
+Cserhát,Cserhat,,46.5333,18.1167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,12.4,,,4,Europe/Budapest,TRUE,1348179382
+Fülöpmalom,Fulopmalom,,47.2333,17.2500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,27.0,,,4,Europe/Budapest,FALSE,1348766767
+Csikótanya,Csikotanya,,47.2333,18.6833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,102.9,,,4,Europe/Budapest,FALSE,1348438533
+Oldalkosár,Oldalkosar,,46.8833,19.2167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,33.2,,,4,Europe/Budapest,FALSE,1348169695
+Erdeimajor,Erdeimajor,,46.6000,17.0000,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,35.1,,,4,Europe/Budapest,FALSE,1348004499
+Ilatanya,Ilatanya,,47.5500,20.3667,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,38.3,,,4,Europe/Budapest,FALSE,1348183313
+Srebenitanya,Srebenitanya,,47.3167,21.3167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,44.7,,,4,Europe/Budapest,FALSE,1348321257
+Szalontaiszállás,Szalontaiszallas,,46.6000,19.1000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,18.0,,,4,Europe/Budapest,FALSE,1348061021
+Anyácsa,Anyacsa,,47.5854,18.7137,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,65.2,,,4,Europe/Budapest,FALSE,1348065698
+Régivágóhíd,Regivagohid,,46.3500,18.7000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,323.9,,,3,Europe/Budapest,FALSE,1348329840
+Kolbárttanya,Kolbarttanya,,48.1667,21.8833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,69.2,,,4,Europe/Budapest,FALSE,1348457773
+Alumíniumércbányatelep,Aluminiumercbanyatelep,Bányatelep,47.3667,18.3833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,13.7,,,4,Europe/Budapest,FALSE,1348431850
+Angyalisziget,Angyalisziget,,47.1667,18.9500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,129.6,,,4,Europe/Budapest,FALSE,1348578567
+Sziluskapuszta,Sziluskapuszta,,47.9333,19.1167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,43.8,,,4,Europe/Budapest,FALSE,1348145503
+Kölcsei Kendergyár,Kolcsei Kendergyar,,48.0500,22.7167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.9,,,4,Europe/Budapest,FALSE,1348892943
+Büdöskútpuszta,Budoskutpuszta,,48.1859,19.7130,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,51.7,,,4,Europe/Budapest,FALSE,1348990066
+Őritag,Oritag,,47.9167,22.2167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,130.7,,,4,Europe/Budapest,FALSE,1348875637
+Eggert,Eggert,,48.1000,21.7500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.5,,,4,Europe/Budapest,FALSE,1348157455
+Álomzug,Alomzug,,47.4333,21.1667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,40.6,,,4,Europe/Budapest,FALSE,1348990626
+Nagyszékidůlő,Nagyszekidulo,,47.0130,19.4542,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,37.2,,,4,Europe/Budapest,FALSE,1348063285
+Szőllőskertek,Szolloskertek,,48.1667,22.0000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,71.7,,,4,Europe/Budapest,FALSE,1348797357
+Ciperes,Ciperes,,46.3667,17.1167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,23.1,,,4,Europe/Budapest,FALSE,1348297361
+Dúzstanya,Duzstanya,,47.6833,19.2667,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,227.2,,,3,Europe/Budapest,FALSE,1348505902
+Bácskai Tanyák,Bacskai Tanyak,,46.9833,18.9333,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,1037.6,,,3,Europe/Budapest,FALSE,1348346258
+Istvánmajor,Istvanmajor,,47.4500,18.0833,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,68.4,,,4,Europe/Budapest,FALSE,1348365848
+Cserpuszta,Cserpuszta,,46.2667,17.1000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,78.9,,,4,Europe/Budapest,FALSE,1348650341
+Gyulamajor,Gyulamajor,,47.4000,17.4667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,39.2,,,4,Europe/Budapest,FALSE,1348365903
+Furjánpuszta,Furjanpuszta,,46.6500,16.7167,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,37.4,,,4,Europe/Budapest,FALSE,1348432651
+Csekőtanya,Csekotanya,,48.1333,21.3500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.4,,,4,Europe/Budapest,FALSE,1348326765
+Alsómalom,Alsomalom,,46.6137,17.5523,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,13.7,,,4,Europe/Budapest,FALSE,1348867913
+Borsitanya,Borsitanya,,46.3500,21.1333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.0,,,4,Europe/Budapest,FALSE,1348116219
+Szegénytanya,Szegenytanya,,47.4000,21.6667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,49.6,,,4,Europe/Budapest,FALSE,1348359231
+Vásártér Fatelep,Vasarter Fatelep,,47.6833,21.6667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,142.2,,,4,Europe/Budapest,FALSE,1348091781
+Jármytanya,Jarmytanya,,47.9000,21.7333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348570725
+Jármytanya,Jarmytanya,,48.0333,21.7333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,356.3,,,3,Europe/Budapest,TRUE,1348993870
+Jármytanya,Jarmytanya,,48.3271,22.2281,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,59.0,,,4,Europe/Budapest,TRUE,1348658887
+Jármytanya,Jarmytanya,,48.1000,22.0333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.7,,,4,Europe/Budapest,TRUE,1348032997
+Barátidůlő,Baratidulo,,47.0500,18.7833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,44.7,,,4,Europe/Budapest,FALSE,1348771921
+Járásidůlő,Jarasidulo,,46.7167,19.4000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,26.4,,,4,Europe/Budapest,FALSE,1348366465
+Gombaymajor,Gombaymajor,,46.9833,19.4167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,10.3,,,4,Europe/Budapest,FALSE,1348875123
+Zichymajor,Zichymajor,,46.9833,18.5500,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,41.1,,,4,Europe/Budapest,FALSE,1348523192
+Baláczaidůlő,Balaczaidulo,,47.1000,17.4333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,57.1,,,4,Europe/Budapest,FALSE,1348749292
+Kisapáti Tanyák,Kisapati Tanyak,,46.8500,17.4667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,48.9,,,4,Europe/Budapest,FALSE,1348540980
+Fásértanya,Fasertanya,,47.7833,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,FALSE,1348317930
+Csákytanya,Csakytanya,,47.4833,18.5167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,69.1,,,4,Europe/Budapest,FALSE,1348943741
+Plannerdők,Plannerdok,,46.5333,18.1167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,12.4,,,4,Europe/Budapest,FALSE,1348897976
+Paskomszőllők,Paskomszollok,,47.6500,19.2833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,487.3,,,3,Europe/Budapest,FALSE,1348732323
+Atalak,Atalak,,46.8667,20.4167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,32.4,,,4,Europe/Budapest,FALSE,1348236344
+Csáknéma,Csaknema,Csáknéma-puszta,47.5500,17.8333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,41.7,,,4,Europe/Budapest,FALSE,1348937350
+Bukszártanya,Bukszartanya,,48.3000,20.9167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,17.3,,,4,Europe/Budapest,FALSE,1348604951
+Besztereci Vár,Besztereci Var,Beszterec,48.1709,21.8331,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,67.5,,,4,Europe/Budapest,FALSE,1348349953
+Szentistvánhegy,Szentistvanhegy,,46.8000,18.9167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,72.1,,,4,Europe/Budapest,FALSE,1348291574
+Kőhiditábla,Kohiditabla,,47.2000,18.2667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,38.3,,,4,Europe/Budapest,FALSE,1348848115
+Baditzmajor,Baditzmajor,,47.5167,17.1667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,25.7,,,4,Europe/Budapest,FALSE,1348167384
+Bethlenfalvytanya,Bethlenfalvytanya,,47.8333,20.7000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348088232
+Alsókovácsmajor,Alsokovacsmajor,,46.4500,18.9000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,32.1,,,4,Europe/Budapest,FALSE,1348731863
+Jóvölgy,Jovolgy,,46.7333,16.8500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,42.5,,,4,Europe/Budapest,FALSE,1348039354
+Szárújtelep,Szarujtelep,Újtelep,47.5167,18.5000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,62.9,,,4,Europe/Budapest,FALSE,1348508454
+Pálmajor,Palmajor,,48.0957,19.5413,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,132.2,,,4,Europe/Budapest,FALSE,1348847706
+Mága,Maga,Mágahíd,48.0667,21.7667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,115.5,,,4,Europe/Budapest,FALSE,1348670408
+Ipolydůlő,Ipolydulo,,47.2000,18.4167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,529.7,,,3,Europe/Budapest,FALSE,1348073532
+Rácörs,Racors,,46.4833,17.8500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.9,,,4,Europe/Budapest,FALSE,1348520204
+Paptava,Paptava,,46.1333,18.7833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,25.0,,,4,Europe/Budapest,FALSE,1348163961
+Feked,Feked,,46.4500,19.0333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,39.1,,,4,Europe/Budapest,FALSE,1348231704
+Lápitanyák,Lapitanyak,,47.8167,22.6167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,29.3,,,4,Europe/Budapest,FALSE,1348716037
+Madársárapuszta,Madarsarapuszta,,46.4000,17.5333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,25.6,,,4,Europe/Budapest,FALSE,1348687284
+Sándor János-fůrésztelep,Sandor Janos-furesztelep,,46.9500,17.6167,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,18.3,,,4,Europe/Budapest,FALSE,1348300123
+Kőrakás,Korakas,,47.2500,18.5000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,243.4,,,3,Europe/Budapest,FALSE,1348842492
+Szentkútpuszta,Szentkutpuszta,,47.5167,17.4167,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,24.3,,,4,Europe/Budapest,FALSE,1348319953
+Ganesztanya,Ganesztanya,,46.9500,18.4833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.3,,,4,Europe/Budapest,FALSE,1348733030
+Alsómező,Alsomezo,,47.3000,17.6000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,29.0,,,4,Europe/Budapest,FALSE,1348686488
+Benditanya,Benditanya,,47.0833,18.4167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,27.7,,,4,Europe/Budapest,FALSE,1348354184
+Felsőbadur,Felsobadur,,47.9500,21.7167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348986702
+Öregnémapuszta,Oregnemapuszta,,47.5500,17.8500,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,30.7,,,4,Europe/Budapest,FALSE,1348707265
+Bárczatanya,Barczatanya,,47.5167,18.6167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,91.6,,,4,Europe/Budapest,FALSE,1348415803
+Ságalja,Sagalja,,46.3500,18.7000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,323.9,,,3,Europe/Budapest,FALSE,1348991901
+Bodritanya,Bodritanya,,46.9500,18.4833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.3,,,4,Europe/Budapest,FALSE,1348691439
+Pócsmegyeri Tanyák,Pocsmegyeri Tanyak,,47.7167,19.1000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,142.5,,,4,Europe/Budapest,FALSE,1348961226
+Kispatkós,Kispatkos,,47.6000,20.8500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,50.2,,,4,Europe/Budapest,FALSE,1348064368
+Somlyópuszta,Somlyopuszta,,48.1000,19.8167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,337.1,,,3,Europe/Budapest,FALSE,1348336377
+Évamajor,Evamajor,,47.1208,16.5573,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,52.7,,,4,Europe/Budapest,FALSE,1348013383
+Túrhidja,Turhidja,,47.9500,22.8000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,35.6,,,4,Europe/Budapest,FALSE,1348375691
+Kochpuszta,Kochpuszta,,46.6333,18.7000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,26.9,,,4,Europe/Budapest,FALSE,1348967988
+Kovásznaitanya,Kovasznaitanya,,47.3833,21.8667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,57.8,,,4,Europe/Budapest,FALSE,1348660881
+Antalszállás,Antalszallas,,46.2051,17.8381,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.5,,,4,Europe/Budapest,FALSE,1348888653
+Frankpuszta,Frankpuszta,,47.8500,17.1667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,38.7,,,4,Europe/Budapest,FALSE,1348459859
+Csizmaszártanya,Csizmaszartanya,,47.5764,21.8590,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.8,,,4,Europe/Budapest,FALSE,1348264450
+Alsószállások,Alsoszallasok,Alsó szállás,46.4648,18.9496,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,70.3,,,4,Europe/Budapest,FALSE,1348670937
+Szalaimajor,Szalaimajor,,47.8667,17.2833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,427.5,,,3,Europe/Budapest,FALSE,1348026271
+Szőllősitanya,Szollositanya,,48.4833,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,7.9,,,5,Europe/Budapest,FALSE,1348493704
+Csicsósdůlő,Csicsosdulo,,46.5500,20.9833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,23.7,,,4,Europe/Budapest,FALSE,1348713540
+Laponyag,Laponyag,,47.1000,20.9333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,29.1,,,4,Europe/Budapest,FALSE,1348474629
+Szluhapuszta,Szluhapuszta,,46.6333,18.4167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,18.1,,,4,Europe/Budapest,FALSE,1348032771
+Külsőhatvan,Kulsohatvan,,46.9500,18.4833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.3,,,4,Europe/Budapest,FALSE,1348516783
+Ószőllő,Oszollo,,47.9833,22.2000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,83.4,,,4,Europe/Budapest,FALSE,1348662006
+Ószőllő,Oszollo,,48.1667,21.8333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,67.5,,,4,Europe/Budapest,TRUE,1348335917
+Máriamajor,Mariamajor,,47.8000,17.4167,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,64.7,,,4,Europe/Budapest,FALSE,1348930174
+Csérimajor,Cserimajor,,47.4246,16.9391,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,16.7,,,4,Europe/Budapest,FALSE,1348110114
+Porcsalmaitanya,Porcsalmaitanya,,47.8167,22.6333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,43.8,,,4,Europe/Budapest,FALSE,1348073087
+Szóráttanya,Szorattanya,,47.7833,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,FALSE,1348101256
+Tardosi Kőbánya,Tardosi Kobanya,,48.0167,20.3333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,29.8,,,4,Europe/Budapest,FALSE,1348395084
+Feketeréthát,Feketerethat,,47.5667,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348270563
+Újtelep,Ujtelep,,47.7833,18.7500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.5,,,3,Europe/Budapest,FALSE,1348395719
+Újtelep,Ujtelep,,47.4667,17.9667,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,38.3,,,4,Europe/Budapest,TRUE,1348458209
+Újtelep,Ujtelep,,47.6667,18.1833,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,28.0,,,4,Europe/Budapest,TRUE,1348338794
+Újtelep,Ujtelep,,47.5167,17.9333,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,28.0,,,4,Europe/Budapest,TRUE,1348427106
+Víztelep,Viztelep,,48.4000,21.6667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,123.0,,,4,Europe/Bratislava,FALSE,1348808536
+Jeneytanya,Jeneytanya,Jenei-tanya,47.9003,22.7540,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,43.2,,,4,Europe/Budapest,FALSE,1348448752
+Pusztatorda,Pusztatorda,,46.9833,21.3333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,50.3,,,4,Europe/Budapest,FALSE,1348936023
+Gorove,Gorove,Gorove-major,47.0667,20.2500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,125.0,,,4,Europe/Budapest,FALSE,1348543199
+Csécsi Puszta,Csecsi Puszta,,47.1167,17.7333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,22.8,,,4,Europe/Budapest,FALSE,1348887124
+Mátyásgaz,Matyasgaz,,48.3833,22.2333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,63.6,,,4,Europe/Budapest,FALSE,1348533230
+Várszeg,Varszeg,,46.4448,18.8841,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,53.1,,,4,Europe/Budapest,FALSE,1348753368
+Szántótelep,Szantotelep,,47.6000,20.2833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,129.3,,,4,Europe/Budapest,FALSE,1348547791
+Honvédlaktanya,Honvedlaktanya,,47.3167,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,51.8,,,4,Europe/Budapest,FALSE,1348888197
+Döbrésimalom,Dobresimalom,,47.2833,17.5333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,301.6,,,3,Europe/Budapest,FALSE,1348928952
+Sivóföld,Sivofold,Sivó-tanya,47.1333,20.1000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,108.1,,,4,Europe/Budapest,FALSE,1348931611
+Psikpuszta,Psikpuszta,,45.8333,18.2333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,81.2,,,4,Europe/Budapest,FALSE,1348422213
+Kijátztanya,Kijatztanya,,46.8167,18.4833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,27.9,,,4,Europe/Budapest,FALSE,1348390291
+Tomarész,Tomaresz,,47.1833,21.8000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,44.5,,,4,Europe/Budapest,FALSE,1348083896
+Flasztertanya,Flasztertanya,,48.1237,21.4643,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,104.6,,,4,Europe/Budapest,FALSE,1348760046
+Berekmajor,Berekmajor,,47.5227,16.9822,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,21.1,,,4,Europe/Budapest,FALSE,1348417557
+Csigahegy,Csigahegy,,47.2667,17.9667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,62.7,,,4,Europe/Budapest,FALSE,1348000032
+Malombér,Malomber,,46.0833,18.3500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,61.2,,,4,Europe/Budapest,FALSE,1348900020
+Kisbarátipuszta,Kisbaratipuszta,,46.9833,17.7000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,17.7,,,4,Europe/Budapest,FALSE,1348182106
+Gyurkó,Gyurko,,47.8167,20.9167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.7,,,4,Europe/Budapest,FALSE,1348947213
+Száláskapuszta,Szalaskapuszta,Szálláska-puszta,47.8333,19.2667,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,43.8,,,4,Europe/Budapest,FALSE,1348368987
+Darvas,Darvas,,48.3687,22.0628,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,31.6,,,4,Europe/Budapest,FALSE,1348972073
+Déshida,Deshida,Déshidai Őrhaz,46.4333,17.8000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,106.4,,,4,Europe/Budapest,FALSE,1348583209
+Csatármalom,Csatarmalom,,47.1000,17.9167,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,383.5,,,3,Europe/Budapest,FALSE,1348011255
+Korhánypuszta,Korhanypuszta,,46.9667,21.0833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,37.5,,,4,Europe/Budapest,FALSE,1348365936
+Alsónyársapát,Alsonyarsapat,,47.1000,19.8167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,26.8,,,4,Europe/Budapest,FALSE,1348936519
+Kenészhegy,Keneszhegy,,46.6833,17.8500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,29.3,,,4,Europe/Budapest,FALSE,1348272813
+Feketeszeg,Feketeszeg,,47.9500,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,422.4,,,3,Europe/Budapest,FALSE,1348084944
+Menyecskehegy,Menyecskehegy,,47.8120,19.2516,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,62.8,,,4,Europe/Budapest,FALSE,1348661619
+Csikér,Csiker,Nagy-csikér-tanya|Kis-csikér-tanya,47.0667,21.2333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.9,,,4,Europe/Budapest,FALSE,1348540206
+Grófimalom,Grofimalom,,46.8000,17.4333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,43.3,,,4,Europe/Budapest,FALSE,1348006811
+Pocem,Pocem,,48.1333,20.7000,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348454935
+Bocskaytanya,Bocskaytanya,,48.1944,21.2821,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,64.5,,,4,Europe/Budapest,FALSE,1348001107
+Ungortanya,Ungortanya,Ungor-major,46.5167,17.0167,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,285.2,,,3,Europe/Budapest,FALSE,1348298138
+Homokkert,Homokkert,Új-Homokkert|Öreg-Homokkert,47.4500,20.8167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,34.2,,,4,Europe/Budapest,FALSE,1348463841
+Dobostanya,Dobostanya,,48.2333,20.2333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,408.5,,,3,Europe/Budapest,FALSE,1348397245
+Dobostanya,Dobostanya,,48.3500,20.7500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,104.6,,,4,Europe/Budapest,TRUE,1348982243
+Dobostanya,Dobostanya,,47.7833,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,TRUE,1348810315
+Wimmertelep,Wimmertelep,,47.7833,18.7500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.5,,,3,Europe/Budapest,FALSE,1348956191
+Papd,Papd,,46.4167,18.3667,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,15.0,,,4,Europe/Budapest,FALSE,1348923205
+Miklitanya,Miklitanya,,46.1833,18.7333,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,91.1,,,4,Europe/Budapest,FALSE,1348377392
+Szentimre Alsópuszta,Szentimre Alsopuszta,,46.1167,18.7333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,31.3,,,4,Europe/Budapest,FALSE,1348258112
+Cserepestanya,Cserepestanya,,48.2333,22.1000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,468.6,,,3,Europe/Budapest,FALSE,1348731957
+Cserepestanya,Cserepestanya,,48.0667,22.2000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,102.2,,,4,Europe/Budapest,TRUE,1348879384
+Cserepestanya,Cserepestanya,,47.9000,22.0500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,52.6,,,4,Europe/Budapest,TRUE,1348076442
+Cserepestanya,Cserepestanya,,47.8000,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,12.9,,,4,Europe/Budapest,TRUE,1348702160
+Domolospuszta,Domolospuszta,,46.0731,17.8671,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,73.7,,,4,Europe/Budapest,FALSE,1348956748
+Móliczkytanya,Moliczkytanya,,47.3833,19.2333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,848.1,,,3,Europe/Budapest,FALSE,1348407271
+Lukatanya,Lukatanya,Lukaháza,47.4135,17.5213,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,39.1,,,4,Europe/Budapest,FALSE,1348352840
+Királyzug,Kiralyzug,,47.6167,21.3500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.1,,,4,Europe/Budapest,FALSE,1348573695
+Csibaréttanya,Csibarettanya,,48.2333,21.8333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,39.6,,,4,Europe/Budapest,FALSE,1348470236
+Simonditanya,Simonditanya,,48.1992,22.3624,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,21.8,,,4,Europe/Budapest,FALSE,1348006666
+Nagymonostori Tanyák,Nagymonostori Tanyak,,47.2000,21.0000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,39.0,,,4,Europe/Budapest,FALSE,1348051893
+Kisrakottyás,Kisrakottyas,,48.0833,21.6000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,64.4,,,4,Europe/Budapest,FALSE,1348068523
+Virányitanya,Viranyitanya,,48.2667,21.7167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,64.2,,,4,Europe/Budapest,FALSE,1348358144
+Virágtanya,Viragtanya,,47.9167,17.1667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,67.1,,,4,Europe/Budapest,FALSE,1348808985
+Szárazerdő,Szarazerdo,,46.6333,19.0000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,40.2,,,4,Europe/Budapest,FALSE,1348724741
+Alsóhegy,Alsohegy,,46.0833,18.2000,Hungary,HU,HUN,Pécs,Pecs,HU-PS,urban county,,895.4,,,3,Europe/Budapest,FALSE,1348981723
+Góripaptanya,Goripaptanya,,48.1167,22.0333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.7,,,4,Europe/Budapest,FALSE,1348713850
+Feketetanya,Feketetanya,,48.0833,21.9333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,106.2,,,4,Europe/Budapest,FALSE,1348973363
+Feketetanya,Feketetanya,,47.8667,22.2500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,47.6,,,4,Europe/Budapest,TRUE,1348981977
+Feketetanya,Feketetanya,,47.7833,21.9500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,42.2,,,4,Europe/Budapest,TRUE,1348714137
+Halastó,Halasto,,46.5000,18.1833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,22.5,,,4,Europe/Budapest,FALSE,1348292109
+Alsóhegy,Alsohegy,,47.4833,19.5833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,73.3,,,4,Europe/Budapest,FALSE,1348207178
+Görögkatolikus Egyház-tanya,Gorogkatolikus Egyhaz-tanya,,47.8667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348880106
+Lajerházidůlő,Lajerhazidulo,,47.1167,16.9167,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,35.9,,,4,Europe/Budapest,FALSE,1348308712
+Obbástanya,Obbastanya,,46.5333,17.9500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,28.5,,,4,Europe/Budapest,FALSE,1348676191
+Csepreghytanya,Csepreghytanya,,47.8833,20.6833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,88.0,,,4,Europe/Budapest,FALSE,1348366610
+Kaposszéplak,Kaposszeplak,,46.3380,17.6106,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,44.5,,,4,Europe/Budapest,FALSE,1348305220
+Vörösmajor,Vorosmajor,,47.4167,20.3667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,13.3,,,4,Europe/Budapest,FALSE,1348000030
+Barátokméhese,Baratokmehese,,45.9833,18.8000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,10.8,,,4,Europe/Budapest,FALSE,1348782390
+Forrástanya,Forrastanya,,47.4500,21.6333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,283.1,,,3,Europe/Budapest,FALSE,1348223754
+Felsőfütyemajor,Felsofutyemajor,,46.7926,17.9328,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,33.4,,,4,Europe/Budapest,FALSE,1348005631
+Balatonvilágospuszta,Balatonvilagospuszta,,46.9669,18.1818,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,82.1,,,4,Europe/Budapest,FALSE,1348684525
+Csárdapuszta,Csardapuszta,,48.0161,19.7207,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,29.1,,,4,Europe/Budapest,FALSE,1348136246
+Csicsatér,Csicsater,,46.5167,20.4500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,15.2,,,4,Europe/Budapest,FALSE,1348578223
+Szálkahalom,Szalkahalom,,47.5833,21.2500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,63.9,,,4,Europe/Budapest,FALSE,1348435288
+Baksa,Baksa,,48.3000,21.6167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,89.9,,,4,Europe/Budapest,FALSE,1348338086
+Baghyürbőpuszta,Baghyurbopuszta,,47.2333,19.1500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,40.0,,,4,Europe/Budapest,FALSE,1348077054
+Depó,Depo,,46.1333,18.1500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,29.1,,,4,Europe/Budapest,FALSE,1348195213
+Vaskapu,Vaskapu,,47.7833,18.7833,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.5,,,3,Europe/Budapest,FALSE,1348016382
+Nagycepre,Nagycepre,,48.4000,21.6667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,123.0,,,4,Europe/Bratislava,FALSE,1348345451
+Alsólajospuszta,Alsolajospuszta,,47.0167,19.5333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,62.2,,,4,Europe/Budapest,FALSE,1348249657
+Imre I.-tanya,Imre I.-tanya,,47.8667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348149216
+Mogyoróska,Mogyoroska,,48.0667,19.6333,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,79.5,,,4,Europe/Budapest,FALSE,1348741046
+Csordajárás,Csordajaras,,47.5833,20.1833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,54.1,,,4,Europe/Budapest,FALSE,1348429030
+Háromház,Haromhaz,,47.6644,19.3237,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,891.1,,,3,Europe/Budapest,FALSE,1348196882
+Pátkai Tanyák,Patkai Tanyak,,47.2833,18.5000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,41.3,,,4,Europe/Budapest,FALSE,1348024004
+Szigettanya,Szigettanya,,47.8833,22.6667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,73.6,,,4,Europe/Budapest,FALSE,1348698200
+Cseritanya,Cseritanya,,47.9167,20.1000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,67.6,,,4,Europe/Budapest,FALSE,1348555914
+Dinnyeföld,Dinnyefold,,45.9000,18.0333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,30.3,,,4,Europe/Budapest,FALSE,1348918563
+Kápráspuszta,Kapraspuszta,,48.0833,19.5333,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,132.2,,,4,Europe/Budapest,FALSE,1348446912
+Nyugoti Major,Nyugoti Major,,46.3000,17.4167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,30.8,,,4,Europe/Budapest,FALSE,1348739454
+Korhánytanya,Korhanytanya,Korhánykert,47.2333,21.7833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,33.7,,,4,Europe/Budapest,FALSE,1348929283
+Csarnapuszta,Csarnapuszta,,48.0084,18.8885,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,29.1,,,4,Europe/Budapest,FALSE,1348496036
+Állomástanya,Allomastanya,,47.2000,19.0167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,103.3,,,4,Europe/Budapest,FALSE,1348775004
+Aladármajor,Aladarmajor,,47.0849,18.8227,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,54.6,,,4,Europe/Budapest,FALSE,1348057383
+Endltanya,Endltanya,,46.8833,18.9000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,67.6,,,4,Europe/Budapest,FALSE,1348698043
+Czermanntanya,Czermanntanya,,47.4333,18.9167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,317.7,,,3,Europe/Budapest,FALSE,1348729575
+Oncsaszéltanya,Oncsaszeltanya,,47.3167,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,51.8,,,4,Europe/Budapest,FALSE,1348153133
+Világospuszta,Vilagospuszta,,47.8779,19.3488,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,72.9,,,4,Europe/Budapest,FALSE,1348761487
+Javítmány,Javitmany,,46.7167,19.4000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,26.4,,,4,Europe/Budapest,FALSE,1348160333
+Szilfalaposdůlő,Szilfalaposdulo,,47.6833,19.9333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,69.7,,,4,Europe/Budapest,FALSE,1348450352
+Berekaljatanya,Berekaljatanya,Bekekaljatanya,48.4500,21.1833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,50.8,,,4,Europe/Budapest,FALSE,1348034986
+Vilmatanya,Vilmatanya,,47.9813,22.2373,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,88.3,,,4,Europe/Budapest,FALSE,1348570395
+Kőkútdůlő,Kokutdulo,,46.5500,19.7167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,36.0,,,4,Europe/Budapest,FALSE,1348375237
+Stégertanya,Stegertanya,,47.0833,18.4167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,27.7,,,4,Europe/Budapest,FALSE,1348367860
+Tanyaszél,Tanyaszel,,46.4333,20.5500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,78.9,,,4,Europe/Budapest,FALSE,1348871046
+Erdőtanya,Erdotanya,,47.7104,22.1602,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,49.7,,,4,Europe/Budapest,FALSE,1348168705
+Erzsébetpuszta,Erzsebetpuszta,,47.8667,19.6167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,38.5,,,4,Europe/Budapest,FALSE,1348746426
+Gyónitanya,Gyonitanya,,47.6833,19.9333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,69.7,,,4,Europe/Budapest,FALSE,1348087732
+Papptanya,Papptanya,,47.4000,21.6667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,49.6,,,4,Europe/Budapest,FALSE,1348661488
+Papptanya,Papptanya,,47.1833,21.4500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.3,,,4,Europe/Budapest,TRUE,1348776640
+Orositanya,Orositanya,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348463442
+Kakasmajor,Kakasmajor,,47.4667,16.8167,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,33.7,,,4,Europe/Budapest,FALSE,1348699486
+Palin,Palin,,46.4959,16.9846,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,285.2,,,3,Europe/Budapest,FALSE,1348791822
+Alsómajor,Alsomajor,,46.4167,17.9333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,37.5,,,4,Europe/Budapest,FALSE,1348229404
+Felsőerzsébetpuszta,Felsoerzsebetpuszta,,46.2100,17.4133,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,26.2,,,4,Europe/Budapest,FALSE,1348620838
+Csicsóierdő,Csicsoierdo,,46.9333,17.6500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,13.7,,,4,Europe/Budapest,FALSE,1348052484
+Pirosház,Piroshaz,,46.4000,17.5167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,25.6,,,4,Europe/Budapest,FALSE,1348805981
+Kismonostori Tanyák,Kismonostori Tanyak,,47.2000,21.0000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,39.0,,,4,Europe/Budapest,FALSE,1348677001
+Szarvasdůlő,Szarvasdulo,,47.4667,20.2167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,40.5,,,4,Europe/Budapest,FALSE,1348804597
+Sándorpuszta,Sandorpuszta,,47.6333,17.5833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,687.2,,,3,Europe/Budapest,FALSE,1348719977
+Szirtó,Szirto,,48.1327,21.7610,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.5,,,4,Europe/Budapest,FALSE,1348295746
+Sördeföld,Sordefold,,47.8000,21.6833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,77.1,,,4,Europe/Budapest,FALSE,1348090037
+Halásztanya,Halasztanya,,46.9167,18.9833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,51.3,,,4,Europe/Budapest,FALSE,1348857331
+Szőllődůlő,Szollodulo,,47.4667,20.2167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,40.5,,,4,Europe/Budapest,FALSE,1348206345
+Égéstanya,Egestanya,,46.6167,18.6167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,55.1,,,4,Europe/Budapest,FALSE,1348540364
+Füzestanya,Fuzestanya,,47.9667,22.7667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,49.7,,,4,Europe/Budapest,FALSE,1348559898
+Füzestanya,Fuzestanya,,48.2333,22.3000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,38.1,,,4,Europe/Budapest,TRUE,1348669608
+Tölgyestanya,Tolgyestanya,,47.8500,20.1833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,69.0,,,4,Europe/Budapest,FALSE,1348144459
+Kabavölgy,Kabavolgy,,47.4833,19.3500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,333.9,,,3,Europe/Budapest,FALSE,1348208510
+Baáltanya,Baaltanya,,47.7500,21.7000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,77.1,,,4,Europe/Budapest,FALSE,1348983891
+Nádaskút,Nadaskut,,47.3667,20.1000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,71.3,,,4,Europe/Budapest,FALSE,1348782589
+Hámostanya,Hamostanya,,47.0667,20.1833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,57.7,,,4,Europe/Budapest,FALSE,1348555166
+Felsőtanyák,Felsotanyak,,47.5833,20.1333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,54.1,,,4,Europe/Budapest,FALSE,1348515262
+Savanyúkút,Savanyukut,,46.8500,17.5500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,18.9,,,4,Europe/Budapest,FALSE,1348269624
+Margitháza,Margithaza,,47.1561,16.8314,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,28.9,,,4,Europe/Budapest,FALSE,1348101586
+Júliamajor,Juliamajor,,46.7179,18.3315,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,23.4,,,4,Europe/Budapest,FALSE,1348881153
+Kőkosártanya,Kokosartanya,,48.2000,20.8500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,63.2,,,4,Europe/Budapest,FALSE,1348981327
+Csurgópuszta,Csurgopuszta,,46.7109,16.8917,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,27.2,,,4,Europe/Budapest,FALSE,1348685214
+Alsóhídvég,Alsohidveg,,46.5122,18.6528,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,29.4,,,4,Europe/Budapest,FALSE,1348629715
+Birkajárás,Birkajaras,,46.8000,20.0000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,46.2,,,4,Europe/Budapest,FALSE,1348964739
+Csényeújmajor,Csenyeujmajor,,47.2388,16.8987,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,150.3,,,4,Europe/Budapest,FALSE,1348224571
+Déritanya,Deritanya,Dérytanya,48.1667,21.6500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,57.5,,,4,Europe/Budapest,FALSE,1348647818
+Újtanya,Ujtanya,,47.3167,21.3167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,44.7,,,4,Europe/Budapest,FALSE,1348119941
+Józsefmajor,Jozsefmajor,,47.6000,21.9000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.8,,,4,Europe/Budapest,FALSE,1348662446
+Kállaydůlő,Kallaydulo,,47.0667,20.1833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,57.7,,,4,Europe/Budapest,FALSE,1348499631
+Nemestag,Nemestag,,47.6333,17.3667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,93.2,,,4,Europe/Budapest,FALSE,1348164592
+Bertalanpuszta,Bertalanpuszta,Bertalanmajor,46.3481,17.3919,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,29.9,,,4,Europe/Budapest,FALSE,1348784898
+Farkirét,Farkiret,,46.3333,20.2167,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,67.9,,,4,Europe/Budapest,FALSE,1348490591
+Alsónánai Mauszcsárda,Alsonanai Mauszcsarda,,46.2500,18.6667,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,49.8,,,4,Europe/Budapest,FALSE,1348418408
+Véghtanya,Veghtanya,,47.8833,22.5667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,98.5,,,4,Europe/Budapest,FALSE,1348059590
+Hidegvölgytanya,Hidegvolgytanya,,48.3000,20.8833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,19.9,,,4,Europe/Budapest,FALSE,1348994322
+Pernyéshát,Pernyeshat,,47.2667,20.4000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,30.7,,,4,Europe/Budapest,FALSE,1348714130
+Szarvastanya,Szarvastanya,,47.1833,18.7167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,204.3,,,3,Europe/Budapest,FALSE,1348843610
+Berecztanya,Berecztanya,,47.8333,20.7000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348074716
+Kincsespuszta,Kincsespuszta,,48.1667,19.5667,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,42.3,,,4,Europe/Budapest,FALSE,1348321427
+Maleckitanya,Maleckitanya,,47.9500,21.7167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348291516
+Görbedi Tanya,Gorbedi Tanya,,48.0333,21.2500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.5,,,4,Europe/Budapest,FALSE,1348756863
+Gelencsérkút,Gelencserkut,,47.1167,17.7333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,22.8,,,4,Europe/Budapest,FALSE,1348969461
+Andrásitelek,Andrasitelek,,47.6167,21.3500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.1,,,4,Europe/Budapest,FALSE,1348657957
+Kóczántanya,Koczantanya,,47.4333,19.3833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,574.6,,,3,Europe/Budapest,FALSE,1348812956
+Tiszanánai Tanyák,Tiszananai Tanyak,,47.5667,20.5333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,44.5,,,4,Europe/Budapest,FALSE,1348000040
+Sárándi Tanya,Sarandi Tanya,,47.4000,21.6333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,93.1,,,4,Europe/Budapest,FALSE,1348791103
+Csehtanya,Csehtanya,,47.1833,21.4500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.3,,,4,Europe/Budapest,FALSE,1348874339
+Patkós,Patkos,Nagy-patkós,47.5833,20.8667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348696027
+Tápiói Kismajor,Tapioi Kismajor,,47.4333,19.6167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,122.0,,,4,Europe/Budapest,FALSE,1348936614
+Fehértanya,Fehertanya,,47.6500,20.8167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348099407
+Dobina,Dobina,,45.8728,17.8184,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,84.7,,,4,Europe/Budapest,FALSE,1348807848
+Cickatanya,Cickatanya,,47.4737,19.4397,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,260.7,,,3,Europe/Budapest,FALSE,1348701379
+Istenkút,Istenkut,Istenkútja,46.0931,18.1940,Hungary,HU,HUN,Pécs,Pecs,HU-PS,urban county,,895.4,,,3,Europe/Budapest,FALSE,1348164223
+Matesztanya,Matesztanya,,46.8833,18.9000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,67.6,,,4,Europe/Budapest,FALSE,1348440302
+Pickpuszta,Pickpuszta,Pikk-puszta,45.8000,18.3000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,70.5,,,4,Europe/Budapest,FALSE,1348372588
+Kopaszvölgy,Kopaszvolgy,,46.1667,18.4167,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,83.4,,,4,Europe/Budapest,FALSE,1348477293
+Sulyonalja,Sulyonalja,,47.9833,19.7833,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,99.2,,,4,Europe/Budapest,FALSE,1348748366
+Bikaérdůlő,Bikaerdulo,,47.5667,20.0167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,48.7,,,4,Europe/Budapest,FALSE,1348243691
+Kishidi Důlő,Kishidi Dulo,,46.9000,17.1500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,26.3,,,4,Europe/Budapest,FALSE,1348355057
+Gémes,Gemes,,46.4167,18.9333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,64.0,,,4,Europe/Budapest,FALSE,1348635281
+Csiribpuszta,Csiribpuszta,Csiribmajor,47.1591,18.6361,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,200.6,,,3,Europe/Budapest,FALSE,1348071728
+Cservölgy,Cservolgy,,47.6948,18.5468,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,140.2,,,4,Europe/Budapest,FALSE,1348038647
+Kertaljadůlő,Kertaljadulo,,47.5000,19.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,46.8,,,4,Europe/Budapest,FALSE,1348879750
+Rókalyuktanya,Rokalyuktanya,,47.9500,21.8000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348173346
+Jeneitanya,Jeneitanya,,47.2167,21.2333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,49.1,,,4,Europe/Budapest,FALSE,1348941688
+Bikapuszta,Bikapuszta,,46.0833,18.7833,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,12.2,,,4,Europe/Budapest,FALSE,1348319685
+Középhegyes,Kozephegyes,,46.4167,20.3333,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,78.9,,,4,Europe/Budapest,FALSE,1348877995
+Figetanya,Figetanya,,48.0333,21.2500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.5,,,4,Europe/Budapest,FALSE,1348487456
+Tízholdak,Tizholdak,,46.5333,19.2500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,64.2,,,4,Europe/Budapest,FALSE,1348790643
+Czingelúti Tanyák,Czingeluti Tanyak,,46.9833,20.2500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,137.2,,,4,Europe/Budapest,FALSE,1348171390
+Teleki Tanyák,Teleki Tanyak,,46.7667,17.8333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,23.1,,,4,Europe/Budapest,FALSE,1348264066
+Aligváromtelep,Aligvaromtelep,,46.8333,18.8333,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,63.6,,,4,Europe/Budapest,FALSE,1348980233
+Lampartgyár,Lampartgyar,,47.4333,18.9167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,317.7,,,3,Europe/Budapest,FALSE,1348362066
+Pincesor,Pincesor,,46.1833,18.7333,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,91.1,,,4,Europe/Budapest,FALSE,1348652298
+Létapuszta,Letapuszta,,46.5167,17.4000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,57.0,,,4,Europe/Budapest,FALSE,1348973865
+Déchytanya,Dechytanya,,47.2667,19.3333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,159.6,,,4,Europe/Budapest,FALSE,1348413871
+Agyaglik,Agyaglik,Agyaglika,46.9029,17.7042,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,14.6,,,4,Europe/Budapest,FALSE,1348028343
+Hajdutanya,Hajdutanya,,47.8333,20.7000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348706110
+Kotlátordůlő,Kotlatordulo,,47.8333,19.0500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,177.3,,,4,Europe/Budapest,FALSE,1348499973
+Álláskút,Allaskut,,46.4820,17.6333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,22.8,,,4,Europe/Budapest,FALSE,1348629631
+Csorcsány,Csorcsany,Csorcsán,47.0000,20.4000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,3.2,,,5,Europe/Budapest,FALSE,1348144610
+Hegedůspuszta,Hegeduspuszta,,47.0449,18.3852,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.0,,,4,Europe/Budapest,FALSE,1348286981
+Kaasmajor,Kaasmajor,,46.7667,19.3000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,41.9,,,4,Europe/Budapest,FALSE,1348989275
+Bodonkút,Bodonkut,,46.9833,17.9333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,117.4,,,4,Europe/Budapest,FALSE,1348379805
+Gilye,Gilye,,46.5833,17.7167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,18.0,,,4,Europe/Budapest,FALSE,1348137387
+Maklány,Maklany,,47.9000,20.3833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,593.1,,,3,Europe/Budapest,FALSE,1348634299
+Tokatanya,Tokatanya,,47.8667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348263298
+Bangor,Bangor,,47.7500,19.2167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,149.2,,,4,Europe/Budapest,FALSE,1348977047
+Ráczdůlő,Raczdulo,,46.5833,19.7333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,28.9,,,4,Europe/Budapest,FALSE,1348152285
+Gőzmalom,Gozmalom,,47.3500,19.4500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,352.5,,,3,Europe/Budapest,FALSE,1348526072
+Véghparcella,Veghparcella,,47.3500,19.7500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,39.2,,,4,Europe/Budapest,FALSE,1348498234
+Rózentanya,Rozentanya,,47.5833,21.9000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.8,,,4,Europe/Budapest,FALSE,1348102180
+Ráczdůlő,Raczdulo,,48.1599,21.2097,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,231.5,,,3,Europe/Budapest,FALSE,1348251325
+Bányatelep,Banyatelep,,46.2667,18.4167,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,36.0,,,4,Europe/Budapest,FALSE,1348648621
+Dóczimajor,Doczimajor,,45.9500,17.9500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,12.8,,,4,Europe/Budapest,FALSE,1348292121
+Matildmajor,Matildmajor,,46.3443,18.1926,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,37.8,,,4,Europe/Budapest,FALSE,1348712321
+Újhegy,Ujhegy,,47.6500,18.3167,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.9,,,3,Europe/Budapest,FALSE,1348946771
+Csanádfehéregyháza,Csanadfeheregyhaza,Fehéregyháza-puszta,46.9107,19.0884,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,51.3,,,4,Europe/Budapest,FALSE,1348503178
+Borziktanya,Borziktanya,,47.9500,21.2333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,33.4,,,4,Europe/Budapest,FALSE,1348668693
+Balatonfüred-fürdő,Balatonfured-furdo,,46.9500,17.9000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,366.4,,,3,Europe/Budapest,FALSE,1348788055
+Csigeihegy,Csigeihegy,,47.3833,17.6000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,24.7,,,4,Europe/Budapest,FALSE,1348429092
+Halas,Halas,,47.2167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,53.4,,,4,Europe/Budapest,FALSE,1348283062
+Rákóczitelep,Rakoczitelep,,46.3167,20.8167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,46.2,,,4,Europe/Budapest,FALSE,1348345792
+Vincellértanya,Vincellertanya,,48.4333,21.0833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,16.8,,,4,Europe/Budapest,FALSE,1348731406
+Kiskomáromi Hegy,Kiskomaromi Hegy,,46.5500,17.1833,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,36.8,,,4,Europe/Budapest,FALSE,1348884069
+Rétalja,Retalja,,46.7833,19.4667,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,31.6,,,4,Europe/Budapest,FALSE,1348050685
+Szentmártonpuszta,Szentmartonpuszta,,46.8167,16.5333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,5.4,,,5,Europe/Budapest,FALSE,1348656005
+Gutatőttős,Gutatottos,,47.1327,16.8089,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,24.9,,,4,Europe/Budapest,FALSE,1348715739
+Epresdůlő,Epresdulo,,47.5000,19.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,46.8,,,4,Europe/Budapest,FALSE,1348148160
+Surmantanya,Surmantanya,,47.2167,19.4000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,98.1,,,4,Europe/Budapest,FALSE,1348898437
+Alsópuszta,Alsopuszta,,47.2833,18.3667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,58.7,,,4,Europe/Budapest,FALSE,1348688721
+Feketehalom,Feketehalom,Feketehalom Tanya,48.0833,21.6667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,103.3,,,4,Europe/Budapest,FALSE,1348502881
+Gőböljárás,Goboljaras,Gőbölyjárás,46.3251,19.8416,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,49.3,,,4,Europe/Budapest,FALSE,1348512632
+Keneseihegy,Keneseihegy,,46.7500,18.1167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,31.6,,,4,Europe/Budapest,FALSE,1348858972
+Andormajor,Andormajor,,47.0667,18.6667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,47.2,,,4,Europe/Budapest,FALSE,1348605025
+Csonkástanya,Csonkastanya,,47.7667,19.7833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,73.9,,,4,Europe/Budapest,FALSE,1348811600
+Dióstanya,Diostanya,,48.2167,20.8500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,63.2,,,4,Europe/Budapest,FALSE,1348815346
+Kerekhalom,Kerekhalom,Kerekhalom Major,47.8781,22.1154,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,58.7,,,4,Europe/Budapest,FALSE,1348816142
+Mártontanya,Martontanya,,47.9833,22.7333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,27.4,,,4,Europe/Budapest,FALSE,1348278921
+Cigánygödör,Ciganygodor,,46.5333,17.1000,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,40.1,,,4,Europe/Budapest,FALSE,1348353553
+Véghtanya,Veghtanya,,48.3000,21.6167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,89.9,,,4,Europe/Budapest,FALSE,1348681744
+Szincsetanya,Szincsetanya,,48.1000,21.6500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,64.4,,,4,Europe/Budapest,FALSE,1348882561
+Hajnalhágó,Hajnalhago,Hajnalhágó Tanya,47.9833,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,89.4,,,4,Europe/Budapest,FALSE,1348978804
+Kispuszta,Kispuszta,,47.3167,17.4333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,301.6,,,3,Europe/Budapest,FALSE,1348393323
+Friedtanya,Friedtanya,,48.0027,22.3393,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,111.7,,,4,Europe/Budapest,FALSE,1348052069
+Friedtanya,Friedtanya,,48.0500,21.8833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,75.9,,,4,Europe/Budapest,TRUE,1348698661
+Bébic,Bebic,Bébic-major,47.0333,17.2500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,40.6,,,4,Europe/Budapest,FALSE,1348211745
+Hármaskútpuszta,Harmaskutpuszta,,48.1216,20.0104,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,11.0,,,4,Europe/Budapest,FALSE,1348324338
+Diós,Dios,,46.7667,18.6333,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.8,,,4,Europe/Budapest,FALSE,1348358425
+Csicsó,Csicso,,47.6000,18.2167,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,30.4,,,4,Europe/Budapest,FALSE,1348493939
+Veresgyůrůs,Veresgyurus,,46.9333,21.4833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,26.1,,,4,Europe/Budapest,FALSE,1348697385
+Répavölgypuszta,Repavolgypuszta,,48.0333,20.1833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,41.4,,,4,Europe/Budapest,FALSE,1348962551
+Kámán,Kaman,,47.1667,19.8000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348288443
+Beregtanya,Beregtanya,,47.9833,21.9833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,99.1,,,4,Europe/Budapest,FALSE,1348704621
+Vasadi Tanyák,Vasadi Tanyak,,47.3167,19.4000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,53.5,,,4,Europe/Budapest,FALSE,1348547765
+Kisbörcsháza,Kisborcshaza,,47.5333,17.9500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,23.4,,,4,Europe/Budapest,FALSE,1348492756
+Kávai Tanya,Kavai Tanya,,47.3500,19.6000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,58.5,,,4,Europe/Budapest,FALSE,1348204315
+Bitóczi Völgy,Bitoczi Volgy,,47.7833,18.8500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,34.2,,,4,Europe/Budapest,FALSE,1348637699
+Széchenyikert,Szechenyikert,,47.1000,20.7500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,31.8,,,4,Europe/Budapest,FALSE,1348156081
+Kisecseny,Kisecseny,,46.7751,18.0269,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,15.2,,,4,Europe/Budapest,FALSE,1348509682
+Károlyimajor,Karolyimajor,,47.6500,19.2333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,108.6,,,4,Europe/Budapest,FALSE,1348074500
+Madarasi Rész,Madarasi Resz,,47.4333,20.7167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,55.0,,,4,Europe/Budapest,FALSE,1348703519
+Márczytanya,Marczytanya,Marci-tanya,48.2167,21.8167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,39.6,,,4,Europe/Budapest,FALSE,1348810209
+Világospuszta,Vilagospuszta,,46.7500,18.1167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,31.6,,,4,Europe/Budapest,FALSE,1348219415
+Világospuszta,Vilagospuszta,,46.5000,17.8833,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.6,,,4,Europe/Budapest,TRUE,1348143102
+Ilonamajor,Ilonamajor,,47.6231,16.7179,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,23.6,,,4,Europe/Budapest,FALSE,1348138777
+Kígyóspuszta,Kigyospuszta,,47.0833,21.3833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,23.0,,,4,Europe/Budapest,FALSE,1348642222
+Bajpuszta,Bajpuszta,,47.7000,19.6667,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,158.1,,,4,Europe/Budapest,FALSE,1348106136
+Margitmajor,Margitmajor,,47.6833,19.1333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,1010.7,,,3,Europe/Budapest,FALSE,1348300983
+Á-akna,A-akna,,47.7167,18.7333,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,941.9,,,3,Europe/Budapest,FALSE,1348538127
+Michalichtag,Michalichtag,,47.8000,21.6833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,77.1,,,4,Europe/Budapest,FALSE,1348350281
+Nagyrév,Nagyrev,,46.5500,20.1167,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,27.5,,,4,Europe/Budapest,FALSE,1348766241
+Külsőkisperkátapuszta,Kulsokisperkatapuszta,,47.0736,18.7650,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,44.7,,,4,Europe/Budapest,FALSE,1348732025
+Lőrinctanya,Lorinctanya,,47.3333,17.0500,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,24.0,,,4,Europe/Budapest,FALSE,1348695608
+Jókút,Jokut,Jókúti Major,46.9667,20.3667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,3.2,,,5,Europe/Budapest,FALSE,1348158777
+Gottliebtag,Gottliebtag,,47.7667,21.9000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,55.2,,,4,Europe/Budapest,FALSE,1348349179
+Vettrét,Vettret,,47.1000,21.2167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.9,,,4,Europe/Budapest,FALSE,1348741102
+Annustanya,Annustanya,,47.3118,19.8465,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,71.9,,,4,Europe/Budapest,FALSE,1348084042
+Teskándi Tanyák,Teskandi Tanyak,Teskandi Malom,46.8628,16.7786,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,320.7,,,3,Europe/Budapest,FALSE,1348618300
+Csárdadůlő,Csardadulo,,46.8000,19.0000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,60.5,,,4,Europe/Budapest,FALSE,1348236744
+Ligetitanya,Ligetitanya,,48.0667,22.8667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,187.2,,,4,Europe/Kyiv,FALSE,1348797437
+Érsekiharta,Ersekiharta,,46.6675,19.0790,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,34.3,,,4,Europe/Budapest,FALSE,1348614405
+Alsómalomtelep,Alsomalomtelep,,47.9000,19.6167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,35.5,,,4,Europe/Budapest,FALSE,1348833644
+Bírópuszta,Biropuszta,Bíró-major,46.3833,21.1333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.9,,,4,Europe/Budapest,FALSE,1348797301
+Kódertanya,Kodertanya,,47.8667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348428721
+Kódertanya,Kodertanya,,48.1237,21.4643,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,104.6,,,4,Europe/Budapest,TRUE,1348000036
+Sütőtanya,Sutotanya,,48.0167,21.7833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,196.5,,,4,Europe/Budapest,FALSE,1348911536
+Rákóczifalvi Tanyák,Rakoczifalvi Tanyak,,47.0833,20.2333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,125.0,,,4,Europe/Budapest,FALSE,1348811405
+Gindeletanya,Gindeletanya,,47.9167,19.7000,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,121.3,,,4,Europe/Budapest,FALSE,1348870073
+Lebukirész,Lebukiresz,,47.4833,19.3500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,333.9,,,3,Europe/Budapest,FALSE,1348929925
+Oncsatelep,Oncsatelep,,47.3167,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,51.8,,,4,Europe/Budapest,FALSE,1348476601
+Oncsatelep,Oncsatelep,,47.4333,20.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,34.2,,,4,Europe/Budapest,TRUE,1348040121
+Bacsitanya,Bacsitanya,,46.7167,19.4000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,26.4,,,4,Europe/Budapest,FALSE,1348940586
+Középszigeti Tanyák,Kozepszigeti Tanyak,,46.0833,18.7833,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,12.2,,,4,Europe/Budapest,FALSE,1348351046
+Hunyadiszőllőstelep,Hunyadiszollostelep,,47.4167,21.9833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,46.1,,,4,Europe/Budapest,FALSE,1348982930
+Csomorrésztanya,Csomorresztanya,,47.7000,20.4333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,50.3,,,4,Europe/Budapest,FALSE,1348019999
+Apagyúti Házak,Apagyuti Hazak,,47.9333,21.8667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,106.0,,,4,Europe/Budapest,FALSE,1348915588
+Kavicsbánya,Kavicsbanya,,47.7833,19.1333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,522.9,,,3,Europe/Budapest,FALSE,1348156664
+Kavicsbánya,Kavicsbanya,,47.4000,19.2833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,520.7,,,3,Europe/Budapest,TRUE,1348934167
+Benetanya,Benetanya,,46.1833,20.4333,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,58.7,,,4,Europe/Budapest,FALSE,1348449029
+Szentkirályitanya,Szentkiralyitanya,,47.2833,19.7500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,37.6,,,4,Europe/Budapest,FALSE,1348720051
+Ravaszmájdůlő,Ravaszmajdulo,,48.2667,21.3667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,20.1,,,4,Europe/Budapest,FALSE,1348076205
+Berényi Úti Důlő,Berenyi Uti Dulo,Berényiúti Důlő,47.6222,19.9705,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,98.3,,,4,Europe/Budapest,FALSE,1348793287
+Lyukasmező,Lyukasmezo,,48.3500,22.0833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,31.6,,,4,Europe/Budapest,FALSE,1348298542
+Ragályitanya,Ragalyitanya,,48.3167,20.8000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,48.5,,,4,Europe/Budapest,FALSE,1348213025
+Baromjárási Iskola,Baromjarasi Iskola,Baromjárás,46.3333,19.8500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,49.3,,,4,Europe/Budapest,FALSE,1348683374
+Pusztamezőtelep,Pusztamezotelep,,46.3167,17.9667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,12.9,,,4,Europe/Budapest,FALSE,1348795979
+Dudástanya,Dudastanya,,47.4000,21.7500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,61.6,,,4,Europe/Budapest,FALSE,1348547798
+Cselehegy,Cselehegy,,46.0833,18.6667,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,33.7,,,4,Europe/Budapest,FALSE,1348182491
+Mestertanya,Mestertanya,,47.9833,22.5167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,147.6,,,4,Europe/Budapest,FALSE,1348584573
+Keréktóitanya,Kerektoitanya,,45.9667,17.6667,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,9.8,,,5,Europe/Budapest,FALSE,1348300221
+Berek,Berek,,46.9500,17.7833,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,22.3,,,4,Europe/Budapest,FALSE,1348379269
+Bindatag,Bindatag,,47.5000,18.1500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,26.8,,,4,Europe/Budapest,FALSE,1348719176
+Szoboszlaitanya,Szoboszlaitanya,,47.9833,22.5167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,147.6,,,4,Europe/Budapest,FALSE,1348040170
+Csontosdůlő,Csontosdulo,Csontos,46.5272,20.0951,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,27.5,,,4,Europe/Budapest,FALSE,1348647723
+Irénszállás,Irenszallas,,46.1667,19.2833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,12.7,,,4,Europe/Budapest,FALSE,1348148579
+Hevesvezekényi Tanyák,Hevesvezekenyi Tanyak,,47.5500,20.3667,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,38.3,,,4,Europe/Budapest,FALSE,1348365740
+Kútvölgy,Kutvolgy,,47.9167,20.2167,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,32.4,,,4,Europe/Budapest,FALSE,1348452559
+Délimajor,Delimajor,,46.5500,18.6500,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,29.3,,,4,Europe/Budapest,FALSE,1348530495
+Sándortanya,Sandortanya,,47.3167,21.7833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,62.0,,,4,Europe/Budapest,FALSE,1348184385
+Apróhomok,Aprohomok,,48.2667,21.6000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,89.9,,,4,Europe/Budapest,FALSE,1348896006
+Sándortanya,Sandortanya,,47.6667,20.2667,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,95.6,,,4,Europe/Budapest,FALSE,1348000000
+Megyerytanya,Megyerytanya,,47.7667,21.8667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,59.3,,,4,Europe/Budapest,FALSE,1348258617
+Kölcsér,Kolcser,,47.1333,21.4333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,23.3,,,4,Europe/Budapest,FALSE,1348921239
+Csicsó,Csicso,,46.5000,18.4000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,69.8,,,4,Europe/Budapest,FALSE,1348039048
+Szůcsdůlő,Szucsdulo,,47.4167,21.4000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,123.2,,,4,Europe/Budapest,FALSE,1348130319
+Ludastó,Ludasto,,47.5333,21.9000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.2,,,4,Europe/Budapest,FALSE,1348461681
+Zubogórész,Zubogoresz,,47.5500,22.0333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,69.7,,,4,Europe/Budapest,FALSE,1348795554
+Egonmajor,Egonmajor,,46.9833,16.9667,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,9.0,,,5,Europe/Budapest,FALSE,1348051440
+Szilvágy,Szilvagy,,46.5500,16.7833,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,17.4,,,4,Europe/Budapest,TRUE,1348254419
+Csörke,Csorke,,46.8000,20.2000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,25.0,,,4,Europe/Budapest,FALSE,1348896965
+Kossuth Lajos-telep,Kossuth Lajos-telep,,47.2667,19.5167,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,142.8,,,4,Europe/Budapest,FALSE,1348369307
+Donkatanya,Donkatanya,,47.8167,22.6333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,43.8,,,4,Europe/Budapest,FALSE,1348765740
+Pityerdůlő,Pityerdulo,,47.2000,18.4167,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,529.7,,,3,Europe/Budapest,FALSE,1348827034
+Marcsamajor,Marcsamajor,,47.2023,18.8744,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,201.0,,,3,Europe/Budapest,FALSE,1348675263
+Nagyrévi Szőllők,Nagyrevi Szollok,,46.9500,20.1500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,55.1,,,4,Europe/Budapest,FALSE,1348509377
+Fürtöshegy,Furtoshegy,,46.2987,17.6902,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,19.1,,,4,Europe/Budapest,FALSE,1348713471
+Bognárház,Bognarhaz,,47.2167,18.7000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,97.4,,,4,Europe/Budapest,FALSE,1348653897
+Fortyogó Vízmů,Fortyogo Vizmu,Vízmůvek|Tortyogó,46.0500,18.1000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,61.5,,,4,Europe/Budapest,FALSE,1348683326
+Okovicstanya,Okovicstanya,,45.7833,18.3500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,22.6,,,4,Europe/Budapest,FALSE,1348795471
+Tag,Tag,Tag-tanya,47.6000,20.8333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348734868
+Kubovicstanya,Kubovicstanya,,47.7833,18.7500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.5,,,3,Europe/Budapest,FALSE,1348420947
+Csigáskút,Csigaskut,,47.4333,19.4500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,115.2,,,4,Europe/Budapest,FALSE,1348600777
+Gyapáros,Gyaparos,,47.1833,21.6667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,40.0,,,4,Europe/Budapest,FALSE,1348228156
+Becserpuszta,Becserpuszta,,46.9135,17.7681,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,11.4,,,4,Europe/Budapest,FALSE,1348361055
+Dulácskatanya,Dulacskatanya,,47.4333,18.9000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,317.7,,,3,Europe/Budapest,FALSE,1348072626
+Alsótöbörzsök,Alsotoborzsok,,46.9035,18.5968,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,57.4,,,4,Europe/Budapest,FALSE,1348362825
+Blaskovichmajor,Blaskovichmajor,Blaskovitsmajor,46.7333,19.2500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,29.8,,,4,Europe/Budapest,FALSE,1348478772
+Berencsitanya,Berencsitanya,,47.3500,21.2833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,65.7,,,4,Europe/Budapest,FALSE,1348749352
+Molnársziget,Molnarsziget,,46.7667,18.6333,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,37.8,,,4,Europe/Budapest,FALSE,1348907605
+Tóberek,Toberek,Tóberki Malom,46.8833,16.9333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,36.6,,,4,Europe/Budapest,FALSE,1348091997
+Hajduház,Hajduhaz,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348768286
+Földesi Puszta,Foldesi Puszta,,47.3000,21.3667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,64.5,,,4,Europe/Budapest,FALSE,1348830288
+Baráthtanya,Barathtanya,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348497630
+Pollákovitsmajor,Pollakovitsmajor,,46.6833,20.6833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,46.1,,,4,Europe/Budapest,FALSE,1348250953
+Budaivölgy,Budaivolgy,,46.8500,16.8500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,451.0,,,3,Europe/Budapest,FALSE,1348115741
+Cirkáló,Cirkalo,,48.3167,21.5833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,89.9,,,4,Europe/Budapest,FALSE,1348296642
+Ambrustanya,Ambrustanya,,47.1333,17.7500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,111.6,,,4,Europe/Budapest,FALSE,1348379356
+Tódebrő,Todebro,,47.7833,20.2333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,34.8,,,4,Europe/Budapest,FALSE,1348113938
+Angyaltanya,Angyaltanya,,47.6500,17.3000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,54.5,,,4,Europe/Budapest,FALSE,1348666056
+Szakállasirétdůlő,Szakallasiretdulo,,47.1833,20.4167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,98.5,,,4,Europe/Budapest,FALSE,1348433338
+Bolgárkert,Bolgarkert,,46.7667,17.2500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,243.5,,,3,Europe/Budapest,FALSE,1348800069
+Vágáspuszta,Vagaspuszta,,48.0463,19.6764,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,41.7,,,4,Europe/Budapest,FALSE,1348107578
+Aszalói Kistanya,Aszaloi Kistanya,,48.2333,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,125.2,,,4,Europe/Budapest,FALSE,1348807127
+Franciapuszta,Franciapuszta,,48.0833,19.5333,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,132.2,,,4,Europe/Budapest,FALSE,1348558712
+Bariczatanya,Bariczatanya,,46.8833,18.9000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,67.6,,,4,Europe/Budapest,FALSE,1348846280
+Mihályvölgyi Tanya,Mihalyvolgyi Tanya,Mihályvölgy-tanya,48.2500,20.1667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,37.2,,,4,Europe/Budapest,FALSE,1348864595
+Dunai Sziget,Dunai Sziget,,46.8833,18.9667,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,57.6,,,4,Europe/Budapest,FALSE,1348976719
+Bánfi,Banfi,,47.3167,21.1167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,82.5,,,4,Europe/Budapest,FALSE,1348794835
+Csarodamajor,Csarodamajor,Csanada-tanya,47.0167,19.3833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,10.3,,,4,Europe/Budapest,FALSE,1348597674
+Demeterpuszta,Demeterpuszta,Szentdemeter-puszta,48.4000,20.4333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,7.8,,,5,Europe/Budapest,FALSE,1348842327
+Válickatanya,Valickatanya,,46.7500,16.9333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,13.6,,,4,Europe/Budapest,FALSE,1348805163
+Bárányjáráspuszta,Baranyjaraspuszta,,47.0409,18.7324,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,44.7,,,4,Europe/Budapest,FALSE,1348487881
+Devecserihegy,Devecserihegy,,46.8667,17.5500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,21.5,,,4,Europe/Budapest,FALSE,1348830495
+Kanászháza,Kanaszhaza,,47.7000,17.7333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,687.2,,,3,Europe/Budapest,FALSE,1348013983
+Romcótanya,Romcotanya,,47.6833,19.3667,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,56.2,,,4,Europe/Budapest,FALSE,1348560374
+Bechmajor,Bechmajor,Beckmajor,47.1667,19.8000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348857058
+Bikakút,Bikakut,Bikakútpuszta,48.3833,20.5833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,42.4,,,4,Europe/Budapest,FALSE,1348240432
+Teleki,Teleki,,47.4500,21.4000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,123.2,,,4,Europe/Budapest,FALSE,1348568548
+Micsurintag,Micsurintag,,47.8667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348994176
+Farkastanya,Farkastanya,,47.2167,18.5500,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,86.7,,,4,Europe/Budapest,FALSE,1348542735
+Farkastanya,Farkastanya,,47.0500,18.3000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,84.0,,,4,Europe/Budapest,TRUE,1348462962
+Bordánydůlő,Bordanydulo,,46.3333,19.8500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,49.3,,,4,Europe/Budapest,FALSE,1348912295
+Felsőmajor,Felsomajor,,46.0833,18.6667,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,33.7,,,4,Europe/Budapest,FALSE,1348933521
+Pásztortanya,Pasztortanya,,47.8333,20.7833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,19.0,,,4,Europe/Budapest,FALSE,1348531025
+Palaczkipuszta,Palaczkipuszta,,47.6833,17.7833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,687.2,,,3,Europe/Budapest,FALSE,1348803901
+Felsőmajor,Felsomajor,,46.5667,19.0833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,18.0,,,4,Europe/Budapest,TRUE,1348533287
+Bánkitanyák,Bankitanyak,,47.3000,21.2333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,63.6,,,4,Europe/Budapest,FALSE,1348799129
+Pusztaszentgyörgy,Pusztaszentgyorgy,,47.4667,20.7333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,35.4,,,4,Europe/Budapest,FALSE,1348179672
+Biharpuszta,Biharpuszta,,47.3167,18.0833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,82.5,,,4,Europe/Budapest,FALSE,1348500966
+Lászlómajor,Laszlomajor,,47.0500,17.9167,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,383.5,,,3,Europe/Budapest,FALSE,1348417461
+Petyvandůlő,Petyvandulo,,46.8500,20.7833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,7.7,,,5,Europe/Budapest,FALSE,1348512991
+Széchenyiliget,Szechenyiliget,,48.1000,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348125987
+Kenyértelek,Kenyertelek,,46.5667,18.9167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,47.5,,,4,Europe/Budapest,FALSE,1348000027
+Lőrincmajor,Lorincmajor,,46.6333,17.0667,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,16.8,,,4,Europe/Budapest,FALSE,1348800744
+Birkásmajor,Birkasmajor,,46.8500,17.3667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,42.0,,,4,Europe/Budapest,FALSE,1348578882
+Fácánkert,Facankert,,48.1500,22.3000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,72.4,,,4,Europe/Budapest,FALSE,1348026609
+Józsefőrlak,Jozseforlak,,47.8667,20.6167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,29.0,,,4,Europe/Budapest,FALSE,1348730843
+Gergelytelep,Gergelytelep,,47.6333,20.3000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,129.3,,,4,Europe/Budapest,FALSE,1348469345
+Hármasberkidůlő,Harmasberkidulo,,47.4553,19.6330,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,122.0,,,4,Europe/Budapest,FALSE,1348715214
+Külsőhegy,Kulsohegy,,46.9000,18.1333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,81.1,,,4,Europe/Budapest,FALSE,1348927638
+Sertéstelep,Sertestelep,,46.6333,19.0000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,40.2,,,4,Europe/Budapest,FALSE,1348404228
+Kerekhegy,Kerekhegy,,48.1000,20.5167,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348786227
+Frédtanya,Fredtanya,,48.1167,22.0333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.7,,,4,Europe/Budapest,FALSE,1348005983
+Somsálybánya,Somsalybanya,Somsaly,48.1833,20.2833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,166.6,,,4,Europe/Budapest,FALSE,1348761383
+Városhegy,Varoshegy,,46.8167,16.9667,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,27.3,,,4,Europe/Budapest,FALSE,1348732345
+Homokbánya,Homokbanya,Homoki Důlő,45.9833,17.6833,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,13.8,,,4,Europe/Budapest,FALSE,1348979258
+Bécsitanya,Becsitanya,,48.2333,20.9167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,59.6,,,4,Europe/Budapest,FALSE,1348510810
+Kisordastanya,Kisordastanya,,47.7500,21.8833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,55.2,,,4,Europe/Budapest,FALSE,1348388441
+Aranytótanya,Aranytotanya,,48.3333,21.7500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348453122
+Bödő,Bodo,,46.0333,18.9500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,28.2,,,4,Europe/Budapest,FALSE,1348512738
+Király I.-né tanya,Kiraly I.-ne tanya,,48.0667,22.0833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,62.1,,,4,Europe/Budapest,FALSE,1348582491
+Csillagpuszta,Csillagpuszta,,46.3000,17.3000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,34.5,,,4,Europe/Budapest,FALSE,1348477907
+Huzadůlő,Huzadulo,,48.1833,21.3833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,49.2,,,4,Europe/Budapest,FALSE,1348341490
+Csermajor,Csermajor,,46.7167,16.9500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,36.3,,,4,Europe/Budapest,FALSE,1348988842
+Nágocsi Tanyák,Nagocsi Tanyak,,46.6667,17.9667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,22.5,,,4,Europe/Budapest,FALSE,1348507419
+Deménytanya,Demenytanya,,47.6833,20.0167,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,57.8,,,4,Europe/Budapest,FALSE,1348768333
+Kelementanya,Kelementanya,,47.4500,18.5833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,78.7,,,4,Europe/Budapest,FALSE,1348206489
+Rigócikastély,Rigocikastely,,46.0167,17.4500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,62.8,,,4,Europe/Budapest,FALSE,1348259248
+Szerelemdůlő,Szerelemdulo,,46.7167,19.4000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,26.4,,,4,Europe/Budapest,FALSE,1348518714
+Papcsárda,Papcsarda,,46.2697,18.0680,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,80.1,,,4,Europe/Budapest,FALSE,1348920045
+Buhtatanya,Buhtatanya,,47.6167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348876502
+Vitézitelek,Vitezitelek,,47.7333,17.8333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,128.2,,,4,Europe/Budapest,FALSE,1348477233
+Sósmajor,Sosmajor,,47.1833,17.0833,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,23.2,,,4,Europe/Budapest,FALSE,1348054907
+Lyukhegyi Major,Lyukhegyi Major,,48.0667,20.7667,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348799503
+Dénesdmajor,Denesdmajor,,47.1167,17.0500,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,23.0,,,4,Europe/Budapest,FALSE,1348104869
+Csiritanya,Csiritanya,,47.6333,22.1500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,26.1,,,4,Europe/Budapest,FALSE,1348708085
+Martonkútpuszta,Martonkutpuszta,,48.1500,20.0667,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,26.6,,,4,Europe/Budapest,FALSE,1348333009
+Bírószél,Biroszel,,46.8667,17.3000,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,32.0,,,4,Europe/Budapest,FALSE,1348721500
+Koroninitanya,Koroninitanya,,47.4167,19.5333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,93.0,,,4,Europe/Budapest,FALSE,1348577448
+Szentódorfa,Szentodorfa,,47.1167,17.0833,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,23.0,,,4,Europe/Budapest,FALSE,1348217711
+Kisharang,Kisharang,,47.1000,21.2167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.9,,,4,Europe/Budapest,FALSE,1348173229
+Harmadik Mándi Bokor,Harmadik Mandi Bokor,,47.9167,21.7000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348827130
+Bányatelep,Banyatelep,,47.3000,17.9500,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,60.2,,,4,Europe/Budapest,FALSE,1348719205
+Csordásfertő,Csordasferto,,47.4667,20.6500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,37.6,,,4,Europe/Budapest,FALSE,1348463203
+Soóspuszta,Soospuszta,,46.5333,17.5667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,18.5,,,4,Europe/Budapest,FALSE,1348614522
+Malomdůlő,Malomdulo,,46.1333,17.8000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,14.6,,,4,Europe/Budapest,FALSE,1348372099
+Adacsierdő,Adacsierdo,,46.9500,19.3667,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,11.0,,,4,Europe/Budapest,FALSE,1348166997
+Németipuszta,Nemetipuszta,,47.1167,17.7333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,22.8,,,4,Europe/Budapest,FALSE,1348206062
+Jánosi Völgy,Janosi Volgy,,47.1167,18.8667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,54.6,,,4,Europe/Budapest,FALSE,1348507911
+Aklos,Aklos,,47.0167,21.1833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,42.5,,,4,Europe/Budapest,FALSE,1348016935
+Barzótanya,Barzotanya,,47.9500,21.7667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,475.4,,,3,Europe/Budapest,FALSE,1348502808
+Magostetőstanya,Magostetostanya,,48.3500,20.7667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,103.4,,,4,Europe/Budapest,FALSE,1348236099
+Kútfejpuszta,Kutfejpuszta,,48.5167,20.6833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,15.2,,,4,Europe/Budapest,FALSE,1348523890
+Szilágyitanya,Szilagyitanya,,47.6500,17.5333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,105.3,,,4,Europe/Budapest,FALSE,1348440579
+Dessewffytanya,Dessewffytanya,,47.5401,22.0176,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,69.7,,,4,Europe/Budapest,FALSE,1348834471
+Bereg,Bereg,,46.9167,17.6833,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,48.9,,,4,Europe/Budapest,FALSE,1348920111
+Szilvásitanya,Szilvasitanya,,45.7833,18.3500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,22.6,,,4,Europe/Budapest,FALSE,1348563937
+Szentmiklóssytanya,Szentmiklossytanya,,47.7333,21.9667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,88.0,,,4,Europe/Budapest,FALSE,1348658025
+Márkustanya,Markustanya,,47.5667,19.3000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,401.5,,,3,Europe/Budapest,FALSE,1348104244
+Templomtér,Templomter,,46.4833,20.0833,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,31.4,,,4,Europe/Budapest,FALSE,1348421085
+Kállaytanya,Kallaytanya,,48.0184,22.4286,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,40.1,,,4,Europe/Budapest,FALSE,1348954191
+Gyolcs,Gyolcs,,47.4500,20.4667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,68.4,,,4,Europe/Budapest,FALSE,1348431948
+Garbolci Tanyák,Garbolci Tanyak,,47.9500,22.8667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,17.8,,,4,Europe/Budapest,FALSE,1348988527
+Ruzsitsmalom,Ruzsitsmalom,,47.5833,17.0833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,53.7,,,4,Europe/Budapest,FALSE,1348509455
+Fodortanya,Fodortanya,,47.6667,19.7000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,229.9,,,3,Europe/Budapest,FALSE,1348235099
+Szénáskert,Szenaskert,,47.2167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,53.4,,,4,Europe/Budapest,FALSE,1348172960
+Bekó,Beko,Bekósarok,46.5333,19.2500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,64.2,,,4,Europe/Budapest,FALSE,1348651504
+Kispuszta,Kispuszta,,46.5500,18.8000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,95.6,,,4,Europe/Budapest,FALSE,1348636157
+Örököspeszérpuszta,Orokospeszerpuszta,,47.2333,19.1500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,40.0,,,4,Europe/Budapest,FALSE,1348977199
+Szőllődomb,Szollodomb,,47.8333,20.7000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348199707
+Ágnesakna,Agnesakna,,47.7167,18.7333,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,941.9,,,3,Europe/Budapest,FALSE,1348649384
+Újtelep,Ujtelep,,47.8500,17.4333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,83.7,,,4,Europe/Budapest,FALSE,1348027217
+Újtelep,Ujtelep,,47.5000,17.5667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,57.5,,,4,Europe/Budapest,TRUE,1348842793
+Újtelep,Ujtelep,,47.5500,16.7500,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,52.7,,,4,Europe/Budapest,TRUE,1348495495
+Újtelep,Ujtelep,,47.5667,17.7833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,43.8,,,4,Europe/Budapest,TRUE,1348856343
+Ebédvesztőpuszta,Ebedvesztopuszta,,46.3865,17.7079,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,140.9,,,4,Europe/Budapest,FALSE,1348579761
+Tarvölgy,Tarvolgy,,48.1000,19.8167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,337.1,,,3,Europe/Budapest,FALSE,1348776125
+Bosbánya Szőllő,Bosbanya Szollo,,47.8833,22.0000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,81.3,,,4,Europe/Budapest,FALSE,1348419307
+Deákipuszta,Deakipuszta,,46.9845,17.3895,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,36.3,,,4,Europe/Budapest,FALSE,1348315268
+Mecseki Villatelep,Mecseki Villatelep,,46.0833,18.2000,Hungary,HU,HUN,Pécs,Pecs,HU-PS,urban county,,895.4,,,3,Europe/Budapest,FALSE,1348601175
+Sárrétudvari Tanyák,Sarretudvari Tanyak,,47.2333,21.2000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,55.2,,,4,Europe/Budapest,FALSE,1348015502
+Burkusdůlő,Burkusdulo,,46.6333,19.9500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,30.2,,,4,Europe/Budapest,FALSE,1348699166
+Baksaháza,Baksahaza,,48.1468,19.7060,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,109.4,,,4,Europe/Budapest,FALSE,1348814252
+Felsőtelek,Felsotelek,,46.3667,19.2833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,5.9,,,5,Europe/Budapest,FALSE,1348170943
+Nagykútdůlő,Nagykutdulo,,46.9833,17.9333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,117.4,,,4,Europe/Budapest,FALSE,1348674655
+Várkonyitanya,Varkonyitanya,,46.9167,18.9833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,51.3,,,4,Europe/Budapest,FALSE,1348915785
+Keresnyeitanya,Keresnyeitanya,,45.8667,17.9833,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,85.1,,,4,Europe/Budapest,FALSE,1348280353
+Rebecsákhíd,Rebecsakhid,,48.3333,20.6000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,74.3,,,4,Europe/Budapest,FALSE,1348530842
+Potyogótanya,Potyogotanya,,46.9833,17.7000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,17.7,,,4,Europe/Budapest,FALSE,1348060589
+Bánhídidůlő,Banhididulo,,46.6333,19.9500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,30.2,,,4,Europe/Budapest,FALSE,1348951656
+Ferencmajor,Ferencmajor,,46.4500,16.9833,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,285.2,,,3,Europe/Budapest,FALSE,1348711313
+Korcsmástanya,Korcsmastanya,,47.5333,20.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,26.0,,,4,Europe/Budapest,FALSE,1348487823
+Abonyiúti Tanyák,Abonyiuti Tanyak,,47.3333,19.8833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,119.7,,,4,Europe/Budapest,FALSE,1348784189
+Darvastanya,Darvastanya,,48.1500,20.9000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,140.0,,,4,Europe/Budapest,FALSE,1348199080
+Csinerdůlő,Csinerdulo,,46.7500,19.4833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,31.6,,,4,Europe/Budapest,FALSE,1348094104
+Papptanya,Papptanya,,46.1500,17.4500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,28.7,,,4,Europe/Budapest,FALSE,1348761839
+Brezovaitanya,Brezovaitanya,Brezovatanya,47.7592,20.0128,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,35.6,,,4,Europe/Budapest,FALSE,1348149892
+Szatmáriúti Tanyák,Szatmariuti Tanyak,,47.6833,21.9167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,78.0,,,4,Europe/Budapest,FALSE,1348993250
+Keserůtelek,Keserutelek,,46.5854,19.0600,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,40.8,,,4,Europe/Budapest,FALSE,1348903398
+Vadasok,Vadasok,,46.3000,19.3333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,59.4,,,4,Europe/Budapest,FALSE,1348768997
+Mezeitanya,Mezeitanya,,47.7833,21.0000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,FALSE,1348770290
+Radócziföldek,Radoczifoldek,,47.1833,19.5000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,14.2,,,4,Europe/Budapest,FALSE,1348158928
+Komjáthytanya,Komjathytanya,,47.8000,20.9667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.8,,,4,Europe/Budapest,FALSE,1348695401
+Vargatanya,Vargatanya,,47.1667,19.3333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,80.7,,,4,Europe/Budapest,FALSE,1348894262
+Papptanya,Papptanya,,47.9833,22.5167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,147.6,,,4,Europe/Budapest,FALSE,1348723987
+Papptanya,Papptanya,,47.9333,22.1500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,53.2,,,4,Europe/Budapest,TRUE,1348629689
+Papptanya,Papptanya,Pap-tanya,47.7925,22.6076,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,35.6,,,4,Europe/Budapest,TRUE,1348077858
+Téglaházi Důlő,Teglahazi Dulo,,47.7833,18.7500,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,216.5,,,3,Europe/Budapest,FALSE,1348724865
+Berke,Berke,,46.5333,19.0333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,353.2,,,3,Europe/Budapest,FALSE,1348683799
+Károlymajor,Karolymajor,,46.4167,20.9667,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,118.5,,,4,Europe/Budapest,FALSE,1348839103
+Berke,Berke,Berke-major,46.8000,21.2167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,11.5,,,4,Europe/Budapest,FALSE,1348851367
+Tagosdůlő,Tagosdulo,,46.4167,21.1833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,59.4,,,4,Europe/Budapest,FALSE,1348032615
+Külsőjárás,Kulsojaras,,47.6167,21.3500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.1,,,4,Europe/Budapest,FALSE,1348334828
+Hegy,Hegy,,46.8500,17.1167,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,38.6,,,4,Europe/Budapest,FALSE,1348179311
+Hegy,Hegy,,46.8500,16.9333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,34.7,,,4,Europe/Budapest,TRUE,1348645248
+Hegy,Hegy,,46.5167,17.1333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,33.8,,,4,Europe/Budapest,TRUE,1348379310
+Hegy,Hegy,,46.7263,16.7843,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,20.3,,,4,Europe/Budapest,TRUE,1348575540
+Latránpuszta,Latranpuszta,Latrán-tanya,48.4000,20.4667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,27.1,,,4,Europe/Budapest,FALSE,1348213316
+Mocsai Tanyák,Mocsai Tanyak,,47.6667,18.1833,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,28.0,,,4,Europe/Budapest,FALSE,1348436595
+Margittanya,Margittanya,,47.0833,18.6833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,43.3,,,4,Europe/Budapest,FALSE,1348141518
+Meződůlő,Mezodulo,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348876220
+Gubatanya,Gubatanya,,47.6167,20.3000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,129.3,,,4,Europe/Budapest,FALSE,1348637613
+Faluhely,Faluhely,,48.1333,20.0500,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,23.9,,,4,Europe/Budapest,FALSE,1348066703
+Szőllőalj,Szolloalj,,47.5833,21.9000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.8,,,4,Europe/Budapest,FALSE,1348521365
+Pestyánszkytanya,Pestyanszkytanya,,48.0333,21.2500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,44.5,,,4,Europe/Budapest,FALSE,1348498912
+Rolzmalom,Rolzmalom,,46.3000,18.4833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,61.6,,,4,Europe/Budapest,FALSE,1348517009
+Körösérhát,Koroserhat,,47.3167,21.1167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,82.5,,,4,Europe/Budapest,FALSE,1348397212
+Emsepuszta,Emsepuszta,,47.6833,19.5000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,155.7,,,4,Europe/Budapest,FALSE,1348265854
+Simontag,Simontag,,46.5667,18.9167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,47.5,,,4,Europe/Budapest,FALSE,1348888831
+Bagolyvárpuszta,Bagolyvarpuszta,,47.3833,17.2000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,13.5,,,4,Europe/Budapest,FALSE,1348064068
+Csangotapuszta,Csangotapuszta,Csangota,47.5076,17.4759,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,62.2,,,4,Europe/Budapest,FALSE,1348434925
+Szúnyogmajor,Szunyogmajor,,47.3333,18.5000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,40.6,,,4,Europe/Budapest,FALSE,1348730086
+Baracs,Baracs,,46.9833,19.4167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,10.3,,,4,Europe/Budapest,FALSE,1348929308
+Nagybakos,Nagybakos,,48.1167,20.6833,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348587107
+Szobonyaszőllő,Szobonyaszollo,Szobonya Telep,47.9754,22.2515,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,84.1,,,4,Europe/Budapest,FALSE,1348017839
+Domonkospuszta,Domonkospuszta,,47.6828,18.5776,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,53.6,,,4,Europe/Budapest,FALSE,1348401036
+Bónistanya,Bonistanya,,48.1167,21.8333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,68.0,,,4,Europe/Budapest,FALSE,1348428442
+Újtanya,Ujtanya,,47.9667,22.0000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,67.6,,,4,Europe/Budapest,FALSE,1348355562
+Újtanya,Ujtanya,,47.9333,22.6500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,63.4,,,4,Europe/Budapest,TRUE,1348778082
+Újhídmajor,Ujhidmajor,Újhídi-major,47.4288,17.0607,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,54.4,,,4,Europe/Budapest,FALSE,1348172316
+Katonatag,Katonatag,,47.7667,21.8500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,59.4,,,4,Europe/Budapest,FALSE,1348297681
+Árpádmajor,Arpadmajor,,47.7167,19.2000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,215.9,,,3,Europe/Budapest,FALSE,1348696793
+Felsőtukor,Felsotukor,,45.9667,18.5167,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,112.1,,,4,Europe/Budapest,FALSE,1348815976
+Cserfásmajor,Cserfasmajor,,47.3167,17.1167,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,37.3,,,4,Europe/Budapest,FALSE,1348339381
+Dinnyéshalom,Dinnyeshalom,,47.1667,19.8000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348582774
+Pallagpuszta,Pallagpuszta,,47.7333,19.3000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,41.8,,,4,Europe/Budapest,FALSE,1348577259
+Cseripuszta,Cseripuszta,,46.3833,17.4500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,31.5,,,4,Europe/Budapest,FALSE,1348141502
+Kisvártanya,Kisvartanya,,47.9333,20.2000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,32.4,,,4,Europe/Budapest,FALSE,1348144743
+Schellermalom,Schellermalom,,46.9333,17.5667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,40.8,,,4,Europe/Budapest,FALSE,1348015941
+Csukástótanya,Csukastotanya,,48.2667,20.5833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,56.1,,,4,Europe/Budapest,FALSE,1348662077
+Bartadůlő,Bartadulo,,46.5667,19.7667,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,28.9,,,4,Europe/Budapest,FALSE,1348123023
+Tirpáktanya,Tirpaktanya,,48.0833,21.3000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,39.1,,,4,Europe/Budapest,FALSE,1348860128
+Baglászamajor,Baglaszamajor,Baglászo,46.8798,16.6741,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,38.1,,,4,Europe/Budapest,FALSE,1348907943
+Boldogasszonypuszta,Boldogasszonypuszta,,47.6944,18.2007,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,28.0,,,4,Europe/Budapest,FALSE,1348787137
+Dióspuszta,Diospuszta,,46.7000,17.3000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,69.4,,,4,Europe/Budapest,FALSE,1348135764
+Dióspuszta,Diospuszta,,46.5000,17.8667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.6,,,4,Europe/Budapest,TRUE,1348754758
+Berekalja,Berekalja,,46.5333,19.2500,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,64.2,,,4,Europe/Budapest,FALSE,1348383935
+Kisasszonyfai Puszta,Kisasszonyfai Puszta,,45.9500,18.0000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,16.3,,,4,Europe/Budapest,FALSE,1348881387
+Nádhomokdůlő,Nadhomokdulo,Nádhomok,48.2500,21.6500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,89.9,,,4,Europe/Budapest,FALSE,1348506684
+Molnártanya,Molnartanya,,47.1833,21.4500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,35.3,,,4,Europe/Budapest,FALSE,1348375624
+Kapocsdůlő,Kapocsdulo,,47.4500,21.4000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,123.2,,,4,Europe/Budapest,FALSE,1348872195
+Belsőlajtamajor,Belsolajtamajor,,47.9167,17.2000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,63.3,,,4,Europe/Budapest,FALSE,1348747796
+Újpuszta,Ujpuszta,,46.7000,17.6833,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,36.7,,,4,Europe/Budapest,FALSE,1348522862
+Újpuszta,Ujpuszta,,46.3000,17.6167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,23.6,,,4,Europe/Budapest,TRUE,1348116478
+Újpuszta,Ujpuszta,,46.1000,17.2667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,14.1,,,4,Europe/Budapest,TRUE,1348935285
+Zalakarosi Puszta,Zalakarosi Puszta,,46.5667,17.1333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,72.2,,,4,Europe/Budapest,FALSE,1348139230
+Farkashegyi Szőlő,Farkashegyi Szolo,Farkashegyi Szőllő,48.0667,21.8000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,113.4,,,4,Europe/Budapest,FALSE,1348496589
+Cserke,Cserke,,46.8833,20.1833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,70.3,,,4,Europe/Budapest,FALSE,1348408986
+Veresszikdůlő,Veresszikdulo,,47.4000,21.4833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,70.5,,,4,Europe/Budapest,FALSE,1348504459
+Kisfalud Újtelep,Kisfalud Ujtelep,,47.2167,18.5500,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,86.7,,,4,Europe/Budapest,FALSE,1348961785
+Bodácstanya,Bodacstanya,,47.3667,17.3000,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,13.4,,,4,Europe/Budapest,FALSE,1348270640
+Libalegelő,Libalegelo,,47.3167,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,51.8,,,4,Europe/Budapest,FALSE,1348771751
+Mélykútiúti Tanya,Melykutiuti Tanya,,46.3000,19.3333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,59.4,,,4,Europe/Budapest,FALSE,1348800211
+Lanka,Lanka,,45.7884,18.1015,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,30.2,,,4,Europe/Budapest,FALSE,1348669473
+Kengyeloldal,Kengyeloldal,,47.8667,21.1167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.0,,,4,Europe/Budapest,FALSE,1348075914
+Miklóspuszta,Miklospuszta,,46.4500,17.5667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,21.6,,,4,Europe/Budapest,FALSE,1348908281
+Jakabszél,Jakabszel,,46.7500,19.4833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,31.6,,,4,Europe/Budapest,FALSE,1348024749
+Horgas,Horgas,,46.1333,18.7833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,25.0,,,4,Europe/Budapest,FALSE,1348454428
+Páskum,Paskum,,46.5000,18.5833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,35.1,,,4,Europe/Budapest,FALSE,1348547118
+Eszény,Eszeny,Eszényi Malom,47.3188,18.1532,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,51.2,,,4,Europe/Budapest,FALSE,1348141544
+Szappanosdůlő,Szappanosdulo,,48.1167,21.4167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,105.6,,,4,Europe/Budapest,FALSE,1348322419
+Barragrét,Barragret,,46.8833,17.5667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,16.0,,,4,Europe/Budapest,FALSE,1348101892
+Zvaradůlő,Zvaradulo,,46.8500,20.7833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,7.7,,,5,Europe/Budapest,FALSE,1348394473
+Forrástag,Forrastag,,47.8000,21.6833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,77.1,,,4,Europe/Budapest,FALSE,1348964918
+Békénypuszta,Bekenypuszta,Békény,48.0167,20.6500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,20.8,,,4,Europe/Budapest,FALSE,1348236063
+Szárazrét,Szarazret,,47.9500,19.5833,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,13.2,,,4,Europe/Budapest,FALSE,1348441581
+Felsőmező,Felsomezo,,46.8500,17.3667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,42.0,,,4,Europe/Budapest,FALSE,1348501815
+Jankovicskölked,Jankovicskolked,,46.5333,17.5667,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,18.5,,,4,Europe/Budapest,FALSE,1348157426
+Szentlászlómonostora,Szentlaszlomonostora,,46.8333,18.1000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,53.7,,,4,Europe/Budapest,FALSE,1348646618
+Forgáchpuszta,Forgachpuszta,Forgácspuszta|Forgách-tanya,47.7333,17.8833,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,55.8,,,4,Europe/Budapest,FALSE,1348543544
+Szennyespuszta,Szennyespuszta,,47.6590,22.0377,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,50.1,,,4,Europe/Budapest,FALSE,1348453333
+Kazsaidůlő,Kazsaidulo,,48.1833,21.3833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,49.2,,,4,Europe/Budapest,FALSE,1348563334
+Galambossziget,Galambossziget,,47.9383,17.3609,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,39.6,,,4,Europe/Budapest,FALSE,1348438770
+Tómajor,Tomajor,,47.2833,17.1333,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,29.1,,,4,Europe/Budapest,FALSE,1348110418
+Úrhegyipuszta,Urhegyipuszta,,46.2833,17.8333,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,26.1,,,4,Europe/Budapest,FALSE,1348556602
+Nagyiváni Tanyák,Nagyivani Tanyak,,47.4833,20.9333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,30.3,,,4,Europe/Budapest,FALSE,1348610323
+Deákhegy,Deakhegy,,46.8833,17.0667,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,45.5,,,4,Europe/Budapest,FALSE,1348094968
+Virágosi Tanya,Viragosi Tanya,,47.5167,20.0000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,63.9,,,4,Europe/Budapest,FALSE,1348371490
+Darvastanya,Darvastanya,,48.0333,22.6000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,32.1,,,4,Europe/Budapest,FALSE,1348480932
+Mögszeg,Mogszeg,,47.0869,17.7637,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,22.8,,,4,Europe/Budapest,FALSE,1348234898
+Lendérdůlő,Lenderdulo,,47.1667,19.8000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348897587
+Gremsbergerpuszta,Gremsbergerpuszta,,46.4667,20.9000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,35.5,,,4,Europe/Budapest,FALSE,1348332468
+Világos,Vilagos,,47.0333,19.7500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,78.8,,,4,Europe/Budapest,FALSE,1348657023
+Farkaspuszta,Farkaspuszta,,46.3667,17.8000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,480.7,,,3,Europe/Budapest,FALSE,1348867004
+Országútdůlő,Orszagutdulo,,46.3500,18.7000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,323.9,,,3,Europe/Budapest,FALSE,1348812492
+Ságikút,Sagikut,,47.4526,16.8518,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,31.7,,,4,Europe/Budapest,FALSE,1348128212
+Biharkeresztesi Tanyák,Biharkeresztesi Tanyak,,47.1333,21.7167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,93.9,,,4,Europe/Budapest,FALSE,1348742697
+Kerektói Szőllő,Kerektoi Szollo,,48.0000,21.8833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,82.4,,,4,Europe/Budapest,FALSE,1348982067
+Bólyi Tanyák,Bolyi Tanyak,,45.9667,18.5167,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,112.1,,,4,Europe/Budapest,FALSE,1348197535
+Újházhely,Ujhazhely,,47.6000,16.9000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,226.8,,,3,Europe/Budapest,FALSE,1348232900
+Vacsihegy,Vacsihegy,,46.9283,19.6964,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,321.0,,,3,Europe/Budapest,FALSE,1348266519
+Felsőmáma,Felsomama,,47.0833,18.0833,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,54.1,,,4,Europe/Budapest,FALSE,1348069776
+Aszóbányatelep,Aszobanyatelep,,48.2833,20.4000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,174.2,,,4,Europe/Budapest,FALSE,1348198221
+Iszaptanya,Iszaptanya,Iszap,46.9833,21.5333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,43.8,,,4,Europe/Budapest,FALSE,1348883121
+Kuntanya,Kuntanya,,47.9667,22.2500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,110.8,,,4,Europe/Budapest,FALSE,1348886284
+Kernercsárda,Kernercsarda,,46.0333,18.4000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,30.8,,,4,Europe/Budapest,FALSE,1348056047
+Nyárosimajor,Nyarosimajor,Nyáros-major,47.6611,16.8867,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,31.1,,,4,Europe/Budapest,FALSE,1348768881
+Öregpuszta,Oregpuszta,,45.9667,18.5167,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,112.1,,,4,Europe/Budapest,FALSE,1348503536
+Bátoritanya,Batoritanya,,47.5333,20.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,26.0,,,4,Europe/Budapest,FALSE,1348819583
+Angilus,Angilus,,47.2167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,53.4,,,4,Europe/Budapest,FALSE,1348238121
+Görényvárpuszta,Gorenyvarpuszta,,47.6333,18.2333,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,30.4,,,4,Europe/Budapest,FALSE,1348349022
+Dózsa Károly-tanya,Dozsa Karoly-tanya,,47.1833,21.8000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,44.5,,,4,Europe/Budapest,FALSE,1348417816
+Guvana,Guvana,,45.9500,18.9333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,23.9,,,4,Europe/Budapest,FALSE,1348327566
+Huberttanya,Huberttanya,,48.1237,21.4643,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,104.6,,,4,Europe/Budapest,FALSE,1348832904
+Cserhátpuszta,Cserhatpuszta,,46.5722,17.3577,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,112.5,,,4,Europe/Budapest,FALSE,1348047806
+Cserhátpuszta,Cserhatpuszta,,46.2572,17.4965,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,16.5,,,4,Europe/Budapest,TRUE,1348495762
+Haragistya,Haragistya,,48.5333,20.5167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,12.3,,,4,Europe/Budapest,FALSE,1348947731
+Szalmaré,Szalmare,,47.1000,21.2167,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,44.9,,,4,Europe/Budapest,FALSE,1348367570
+Jeneserdőpuszta,Jeneserdopuszta,,46.1333,18.6500,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,33.7,,,4,Europe/Budapest,FALSE,1348981660
+Minketanya,Minketanya,,47.6000,20.2833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,129.3,,,4,Europe/Budapest,FALSE,1348752496
+Kertalja,Kertalja,,47.6167,21.3500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,91.1,,,4,Europe/Budapest,FALSE,1348519822
+Pappuszta,Pappuszta,,46.6333,18.8667,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,115.7,,,4,Europe/Budapest,FALSE,1348570064
+Háromhid,Haromhid,,46.2667,18.5000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,106.1,,,4,Europe/Budapest,FALSE,1348279126
+Pámpuktelep,Pampuktelep,,47.7667,19.8500,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,72.9,,,4,Europe/Budapest,FALSE,1348533971
+Lökösihatár,Lokosihatar,,46.5333,21.2500,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,70.0,,,4,Europe/Budapest,FALSE,1348336311
+Dóramajor,Doramajor,Dórapuszta,47.3833,19.3500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,222.6,,,3,Europe/Budapest,FALSE,1348393857
+Káptalanterebezd,Kaptalanterebezd,,46.4405,17.3289,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,21.9,,,4,Europe/Budapest,FALSE,1348637372
+Akolmajor,Akolmajor,,46.6500,20.1000,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,13.8,,,4,Europe/Budapest,FALSE,1348501936
+Szik,Szik,,46.8667,21.2000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,13.5,,,4,Europe/Budapest,FALSE,1348506256
+Bánfapuszta,Banfapuszta,Bánfamajor,46.4325,16.8700,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,45.2,,,4,Europe/Budapest,FALSE,1348995167
+Kristontanyák,Kristontanyak,,48.0667,21.8000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,113.4,,,4,Europe/Budapest,FALSE,1348199166
+Meggyeserdő,Meggyeserdo,Megyes Erdő,47.0667,17.4167,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,57.1,,,4,Europe/Budapest,FALSE,1348182701
+Felsőbedeghvölgyi Szőllők,Felsobedeghvolgyi Szollok,,48.1333,20.7833,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348130841
+Ajkarendeki Tanyák,Ajkarendeki Tanyak,Ajkarendek Tanyák,47.1353,17.5690,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,277.2,,,3,Europe/Budapest,FALSE,1348948185
+Halásztanya,Halasztanya,,47.6667,19.8500,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,40.2,,,4,Europe/Budapest,FALSE,1348892349
+Barkócás,Barkocas,,46.6333,17.0667,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,16.8,,,4,Europe/Budapest,FALSE,1348023136
+Inérháttanya,Inerhattanya,,47.9667,21.1167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,33.4,,,4,Europe/Budapest,FALSE,1348961905
+Kapitánytanya,Kapitanytanya,Kapitány-major,46.8333,18.6667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,34.8,,,4,Europe/Budapest,FALSE,1348149689
+Némethmajor,Nemethmajor,,47.6167,17.2000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,67.3,,,4,Europe/Budapest,FALSE,1348299999
+Apsamajor,Apsamajor,,46.9833,17.1500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,37.3,,,4,Europe/Budapest,FALSE,1348554055
+Makói Határdůlő,Makoi Hatardulo,,46.3167,20.5000,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,77.6,,,4,Europe/Budapest,FALSE,1348323849
+Dankóbokor,Dankobokor,,47.9833,21.6333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,431.8,,,3,Europe/Budapest,FALSE,1348853534
+Geisztcsákó,Geisztcsako,,46.7667,20.8000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,50.4,,,4,Europe/Budapest,FALSE,1348296900
+Fábián,Fabian,Fábián-major,47.4500,19.9833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,59.8,,,4,Europe/Budapest,FALSE,1348409030
+Zsilip,Zsilip,,46.1500,18.8833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,149.9,,,4,Europe/Budapest,FALSE,1348335990
+Simontanya,Simontanya,,47.4000,17.2333,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,18.8,,,4,Europe/Budapest,FALSE,1348560787
+Alsócsurgó,Alsocsurgo,,46.4490,18.4643,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,51.0,,,4,Europe/Budapest,FALSE,1348375902
+Felsőponyipuszta,Felsoponyipuszta,,48.1000,19.8167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,337.1,,,3,Europe/Budapest,FALSE,1348349194
+Nagyrót,Nagyrot,,48.0081,19.8762,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,104.2,,,4,Europe/Budapest,FALSE,1348206004
+Kun György-tanya,Kun Gyorgy-tanya,,47.6000,21.1000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,5.8,,,5,Europe/Budapest,FALSE,1348392804
+Jékey Felsőtanya,Jekey Felsotanya,,47.9626,22.4965,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,147.6,,,4,Europe/Budapest,FALSE,1348429955
+Bagitanya,Bagitanya,,48.1333,22.1167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,83.9,,,4,Europe/Budapest,FALSE,1348752428
+Lácaitanya,Lacaitanya,,48.3500,20.9667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,21.1,,,4,Europe/Budapest,FALSE,1348833456
+Gyertyámos,Gyertyamos,Gyertyános Akol,46.7795,17.8935,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,35.7,,,4,Europe/Budapest,FALSE,1348275720
+Cserestelep,Cserestelep,,48.1833,20.6167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,40.4,,,4,Europe/Budapest,FALSE,1348432728
+Simonmajor,Simonmajor,,46.7333,17.9833,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,39.3,,,4,Europe/Budapest,FALSE,1348118766
+Komáromitanya,Komaromitanya,,47.2833,18.7667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,143.3,,,4,Europe/Budapest,FALSE,1348061460
+Csigevár,Csigevar,,46.8333,18.0000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,38.3,,,4,Europe/Budapest,FALSE,1348630679
+Zagyvabalparti Tanyák,Zagyvabalparti Tanyak,,47.4333,20.0500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,58.7,,,4,Europe/Budapest,FALSE,1348075443
+Irmatanya,Irmatanya,,48.1167,21.0333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,86.2,,,4,Europe/Budapest,FALSE,1348775605
+Irmatanya,Irmatanya,,47.9000,20.6500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,42.5,,,4,Europe/Budapest,TRUE,1348782971
+Nagysziget,Nagysziget,,47.2167,18.5500,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,86.7,,,4,Europe/Budapest,FALSE,1348240097
+Patayrész,Patayresz,,47.4833,19.3500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,333.9,,,3,Europe/Budapest,FALSE,1348563415
+Hujadůlő,Hujadulo,,48.2667,20.6333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,310.7,,,3,Europe/Budapest,FALSE,1348116887
+Csihontanya,Csihontanya,,48.3667,21.0333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,36.3,,,4,Europe/Budapest,FALSE,1348071604
+Kistenke,Kistenke,,47.3000,20.2667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,20.0,,,4,Europe/Budapest,FALSE,1348734608
+Hullámtér,Hullamter,,46.7167,20.1500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,85.4,,,4,Europe/Budapest,FALSE,1348134304
+Innensőángyád,Innensoangyad,,46.8167,18.4833,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,27.9,,,4,Europe/Budapest,FALSE,1348253618
+Halastóipuszta,Halastoipuszta,,46.0500,17.6167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,11.3,,,4,Europe/Budapest,FALSE,1348023546
+Belsőrétitanyák,Belsoretitanyak,,47.4833,20.3500,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,18.7,,,4,Europe/Budapest,FALSE,1348975502
+Vitéztelep,Viteztelep,,45.9000,18.4000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,16.6,,,4,Europe/Budapest,FALSE,1348849073
+Vitéztelep,Viteztelep,,46.2000,18.0833,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,14.1,,,4,Europe/Budapest,TRUE,1348551108
+Polonkai Tanyák,Polonkai Tanyak,,47.7667,21.0333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,FALSE,1348892649
+Célpuszta,Celpuszta,Cél,46.3833,18.3833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,29.4,,,4,Europe/Budapest,FALSE,1348185325
+Vitéztelep,Viteztelep,,48.1667,20.3833,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,59.9,,,4,Europe/Budapest,FALSE,1348273680
+Petőfidůlő,Petofidulo,,47.1667,19.8000,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348297049
+Tengerszem,Tengerszem,,48.4833,20.5333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,12.2,,,4,Europe/Budapest,FALSE,1348648109
+Zarándok,Zarandok,,47.9167,19.1000,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,43.8,,,4,Europe/Budapest,FALSE,1348846807
+Patikárustanya,Patikarustanya,,47.5333,20.8000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,26.0,,,4,Europe/Budapest,FALSE,1348215219
+Csillaghegy,Csillaghegy,,47.0526,16.9019,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,30.0,,,4,Europe/Budapest,FALSE,1348236961
+Cegléditanya,Cegleditanya,,47.6167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348598009
+Erzsébetmajor,Erzsebetmajor,,47.0833,20.3333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,41.3,,,4,Europe/Budapest,FALSE,1348966732
+Gyöngyöshalászi Tanyák,Gyongyoshalaszi Tanyak,,47.7333,19.9333,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,71.5,,,4,Europe/Budapest,FALSE,1348964854
+Veressmajor,Veressmajor,,46.3833,21.1000,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,36.3,,,4,Europe/Budapest,FALSE,1348164951
+Fecsketanya,Fecsketanya,,48.3167,20.9333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,19.1,,,4,Europe/Budapest,FALSE,1348365469
+Györgyeiúti Tanyák,Gyorgyeiuti Tanyak,,47.3333,19.8833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,119.7,,,4,Europe/Budapest,FALSE,1348375641
+Ciframalom,Ciframalom,,46.0377,17.7166,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,15.8,,,4,Europe/Budapest,FALSE,1348557923
+Kígyóspart,Kigyospart,,46.7667,19.0833,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,60.4,,,4,Europe/Budapest,FALSE,1348644952
+Asszonyvár,Asszonyvar,Asszonyvári,46.3000,16.9000,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,21.7,,,4,Europe/Budapest,FALSE,1348568202
+Bálicsdůlő,Balicsdulo,,46.0833,18.2000,Hungary,HU,HUN,Pécs,Pecs,HU-PS,urban county,,895.4,,,3,Europe/Budapest,FALSE,1348020580
+Winklertanya,Winklertanya,,47.5500,19.6833,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,71.6,,,4,Europe/Budapest,FALSE,1348236402
+Derencsényitanya,Derencsenyitanya,,48.2500,20.2667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,408.5,,,3,Europe/Budapest,FALSE,1348261280
+Fehérfalu,Feherfalu,,45.7833,18.4333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,47.9,,,4,Europe/Budapest,FALSE,1348818198
+Ciriák,Ciriak,,46.4167,20.4167,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,78.9,,,4,Europe/Budapest,FALSE,1348022691
+Lenin-telep,Lenin-telep,,47.6667,18.7000,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,148.6,,,4,Europe/Budapest,FALSE,1348310901
+Betyársori Földek,Betyarsori Foldek,,46.2000,19.5333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,41.8,,,4,Europe/Budapest,FALSE,1348756698
+Perjés,Perjes,,47.1833,20.9167,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,25.5,,,4,Europe/Budapest,FALSE,1348856176
+Karkhalom,Karkhalom,,48.1929,21.8636,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,64.4,,,4,Europe/Budapest,FALSE,1348946263
+Pazsir,Pazsir,Pazsér-szállás,45.9000,18.2167,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,23.8,,,4,Europe/Budapest,FALSE,1348303928
+Ábránd,Abrand,,47.8833,22.1000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,58.7,,,4,Europe/Budapest,FALSE,1348982728
+Márton Lajos-tanya,Marton Lajos-tanya,,48.2333,21.9333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,74.8,,,4,Europe/Budapest,FALSE,1348221103
+Zajdapuszta,Zajdapuszta,,46.6500,16.5833,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,94.0,,,4,Europe/Budapest,FALSE,1348630688
+Kokavicstanya,Kokavicstanya,,47.8833,19.3167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,18.6,,,4,Europe/Budapest,FALSE,1348641659
+Balaton,Balaton,,46.7667,21.0500,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,29.6,,,4,Europe/Budapest,FALSE,1348142675
+Barkótanya,Barkotanya,,47.9500,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,422.4,,,3,Europe/Budapest,FALSE,1348873100
+Jánosmajor,Janosmajor,,47.1667,21.1333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,46.1,,,4,Europe/Budapest,FALSE,1348968634
+Belitanya,Belitanya,Bali-tanya,47.6333,19.7667,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,39.9,,,4,Europe/Budapest,FALSE,1348490603
+Szůcstanya,Szucstanya,,47.4000,17.5167,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,39.1,,,4,Europe/Budapest,FALSE,1348779925
+Patakmalom,Patakmalom,,45.9044,18.3101,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,23.9,,,4,Europe/Budapest,FALSE,1348096034
+Dobogóhát,Dobogohat,,47.4167,20.5000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,68.4,,,4,Europe/Budapest,FALSE,1348159782
+Csobánchegy,Csobanchegy,Csobánc,46.8739,17.5115,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,141.3,,,4,Europe/Budapest,FALSE,1348131633
+Felsőhegy,Felsohegy,,46.4833,17.3167,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,18.1,,,4,Europe/Budapest,FALSE,1348592642
+Újmajor,Ujmajor,,46.5500,19.0000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,320.1,,,3,Europe/Budapest,FALSE,1348745817
+Újmajor,Ujmajor,,46.1500,19.2333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,12.3,,,4,Europe/Budapest,TRUE,1348429891
+Lengyár,Lengyar,,47.6000,17.3000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,60.2,,,4,Europe/Budapest,FALSE,1348898192
+Szentivánhalom,Szentivanhalom,,47.4000,21.1500,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,40.6,,,4,Europe/Budapest,FALSE,1348233289
+Felsőréti Důlő,Felsoreti Dulo,,47.0167,21.5000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,42.4,,,4,Europe/Budapest,FALSE,1348418355
+Csapódůlő,Csapodulo,Csapó-tanya,47.2466,19.7852,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,111.4,,,4,Europe/Budapest,FALSE,1348911349
+Dánielrész,Danielresz,,46.8833,18.9000,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,67.6,,,4,Europe/Budapest,FALSE,1348958979
+Cziglertanya,Cziglertanya,,47.6167,20.3167,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,51.2,,,4,Europe/Budapest,FALSE,1348038303
+Bánómajor,Banomajor,Bánó-tanya,47.0333,19.3667,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,12.6,,,4,Europe/Budapest,FALSE,1348671097
+Strisstanya,Strisstanya,,47.3000,21.3667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,64.5,,,4,Europe/Budapest,FALSE,1348745942
+Malmok,Malmok,,46.2333,18.4667,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,40.0,,,4,Europe/Budapest,FALSE,1348689509
+Szuhahuta,Szuhahuta,,47.9333,19.9167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,30.9,,,4,Europe/Budapest,FALSE,1348522715
+Tornyó,Tornyo,,47.4833,18.6333,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,149.4,,,4,Europe/Budapest,FALSE,1348941575
+Tolvajlapos,Tolvajlapos,,47.3167,21.5833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,55.2,,,4,Europe/Budapest,FALSE,1348401744
+Můhelytelep,Muhelytelep,,47.2333,16.6167,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,738.8,,,3,Europe/Budapest,FALSE,1348333492
+Kubinyitanya,Kubinyitanya,,47.3000,19.7667,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,37.6,,,4,Europe/Budapest,FALSE,1348505714
+Pajortanya,Pajortanya,,47.1167,18.3667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,122.8,,,4,Europe/Budapest,FALSE,1348553852
+Pincepart,Pincepart,,48.0500,20.8500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,246.3,,,3,Europe/Budapest,FALSE,1348832132
+Örsitanya,Orsitanya,,47.6167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,75.6,,,4,Europe/Budapest,FALSE,1348561975
+Újlivadapuszta,Ujlivadapuszta,,45.8167,18.3333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,155.0,,,4,Europe/Budapest,FALSE,1348592212
+Csillagmajor,Csillagmajor,,47.0500,20.2500,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,84.2,,,4,Europe/Budapest,FALSE,1348417476
+Balázstanya,Balazstanya,,46.5333,17.9500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,28.5,,,4,Europe/Budapest,FALSE,1348390313
+Tóthtanya,Tothtanya,,47.8500,21.8333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,119.9,,,4,Europe/Budapest,FALSE,1348282777
+Tóthtanya,Tothtanya,,48.1667,21.6500,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,57.5,,,4,Europe/Budapest,TRUE,1348994456
+Tóthtanya,Tothtanya,,48.1833,21.5000,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,52.6,,,4,Europe/Budapest,TRUE,1348467185
+Gaáltanya,Gaaltanya,,48.0833,22.8333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,45.7,,,4,Europe/Budapest,FALSE,1348001102
+Dódipuszta,Dodipuszta,,48.0000,18.8667,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,14.2,,,4,Europe/Budapest,FALSE,1348276706
+Kovács I.-tanya,Kovacs I.-tanya,Kovács-tanya|Kőrösitanya,46.1167,18.9167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,32.4,,,4,Europe/Budapest,FALSE,1348567469
+Nagykirályhegyespuszta,Nagykiralyhegyespuszta,,46.3000,20.6500,Hungary,HU,HUN,Csongrád-Csanád,Csongrad-Csanad,HU-CS,county,,20.3,,,4,Europe/Budapest,FALSE,1348629712
+Győritanya,Gyoritanya,,47.5167,20.0000,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,63.9,,,4,Europe/Budapest,FALSE,1348419391
+Malomtelep,Malomtelep,,47.3500,19.4500,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,352.5,,,3,Europe/Budapest,FALSE,1348891056
+Cifrástanya,Cifrastanya,,47.9000,20.3833,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,593.1,,,3,Europe/Budapest,FALSE,1348100608
+Nagytanyadůlő,Nagytanyadulo,,46.3833,20.6667,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,41.9,,,4,Europe/Budapest,FALSE,1348824141
+Szivattyútelep,Szivattyutelep,,47.7333,17.7000,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,362.3,,,3,Europe/Budapest,FALSE,1348051441
+Szivattyútelep,Szivattyutelep,,47.7000,17.2167,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,90.0,,,4,Europe/Budapest,TRUE,1348654906
+Szivattyútelep,Szivattyutelep,,47.6833,17.4333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,77.9,,,4,Europe/Budapest,TRUE,1348277772
+Bikatelep,Bikatelep,,47.3167,21.5833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,55.2,,,4,Europe/Budapest,FALSE,1348606816
+Bálikáspuszta,Balikaspuszta,Bálikás,46.4833,17.0500,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,35.3,,,4,Europe/Budapest,FALSE,1348005180
+Cseritanya,Cseritanya,,47.1333,16.5833,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,52.7,,,4,Europe/Budapest,FALSE,1348096870
+Herczoghtanya,Herczoghtanya,,46.4333,18.7833,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,142.8,,,4,Europe/Budapest,FALSE,1348254782
+Szentkata,Szentkata,,46.3140,19.2320,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,14.9,,,4,Europe/Budapest,FALSE,1348803278
+Mogyorósdůlő,Mogyorosdulo,Mogyoros,45.8833,18.4000,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,30.2,,,4,Europe/Budapest,FALSE,1348966538
+Bivalyhalom,Bivalyhalom,Bivalhalom,47.7833,21.1167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,7.4,,,5,Europe/Budapest,FALSE,1348363012
+Barlang,Barlang,,48.4833,20.5667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,10.7,,,4,Europe/Budapest,FALSE,1348274618
+Felsősashalomdůlő,Felsosashalomdulo,,46.6333,20.8333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,49.0,,,4,Europe/Budapest,FALSE,1348156854
+Gőzmalomgyártelep,Gozmalomgyartelep,,47.7333,17.4333,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,81.4,,,4,Europe/Budapest,FALSE,1348298548
+Keserůkútdůlő,Keserukutdulo,,47.0833,20.3333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,41.3,,,4,Europe/Budapest,FALSE,1348942226
+Thalypuszta,Thalypuszta,,47.7278,18.0940,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,241.4,,,3,Europe/Budapest,FALSE,1348458142
+Jónásgyümölcsös,Jonasgyumolcsos,,48.0667,22.0833,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,62.1,,,4,Europe/Budapest,FALSE,1348300871
+Külmajor,Kulmajor,Újmajor,46.6833,18.6000,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,40.3,,,4,Europe/Budapest,FALSE,1348184599
+Bellervölgy,Bellervolgy,,48.1333,20.7000,Hungary,HU,HUN,Miskolc,Miskolc,HU-MI,urban county,,640.6,,,3,Europe/Budapest,FALSE,1348544156
+Belsőhatárdůlő,Belsohatardulo,,46.4667,20.9667,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,79.3,,,4,Europe/Budapest,FALSE,1348733061
+Biritópuszta,Biritopuszta,Biritó,46.6148,18.7990,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,116.2,,,4,Europe/Budapest,FALSE,1348936345
+Jánosmajor,Janosmajor,,47.4667,18.0833,Hungary,HU,HUN,Komárom-Esztergom,Komarom-Esztergom,HU-KE,county,,40.0,,,4,Europe/Budapest,FALSE,1348383835
+Disznókút Nyugat,Disznokut Nyugat,,47.8333,21.5333,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,83.3,,,4,Europe/Budapest,FALSE,1348000023
+Borsodymajor,Borsodymajor,,47.5833,17.1667,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,66.7,,,4,Europe/Budapest,FALSE,1348456955
+Kerek,Kerek,,46.6833,21.0833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,221.5,,,3,Europe/Budapest,FALSE,1348673995
+Bányatelep,Banyatelep,,47.6000,18.9333,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,670.4,,,3,Europe/Budapest,FALSE,1348547768
+Bányatelep,Banyatelep,,47.7833,18.9833,Hungary,HU,HUN,Pest,Pest,HU-PE,county,,48.8,,,4,Europe/Budapest,TRUE,1348015671
+Csépai Szőllők,Csepai Szollok,,46.8000,20.1333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,55.1,,,4,Europe/Budapest,FALSE,1348034389
+Zacskómajor,Zacskomajor,,46.3167,18.7667,Hungary,HU,HUN,Tolna,Tolna,HU-TO,county,,31.3,,,4,Europe/Budapest,FALSE,1348408777
+Schacktanya,Schacktanya,,47.1167,18.3667,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,122.8,,,4,Europe/Budapest,FALSE,1348465958
+Méntelep,Mentelep,,47.2454,16.9478,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,207.3,,,3,Europe/Budapest,FALSE,1348160054
+Kulapuszta,Kulapuszta,,46.7548,18.4105,Hungary,HU,HUN,Fejér,Fejer,HU-FE,county,,24.6,,,4,Europe/Budapest,FALSE,1348835617
+Villogó,Villogo,,47.2167,20.7667,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,53.4,,,4,Europe/Budapest,FALSE,1348021886
+Táncsicstanya,Tancsicstanya,,48.1167,20.9167,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,140.4,,,4,Europe/Budapest,FALSE,1348766634
+Császártanya,Csaszartanya,,46.9333,16.4833,Hungary,HU,HUN,Vas,Vas,HU-VA,county,,3.9,,,5,Europe/Budapest,FALSE,1348712128
+Fatelep,Fatelep,,48.2667,21.4500,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,104.1,,,4,Europe/Budapest,FALSE,1348754248
+Nánásiúti Tanyák,Nanasiuti Tanyak,,47.9667,21.3667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,92.7,,,4,Europe/Budapest,FALSE,1348278577
+Cseralja,Cseralja,Cseraljapuszta,47.6019,16.8154,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,60.0,,,4,Europe/Budapest,FALSE,1348648752
+Kisgórica,Kisgorica,,46.1167,18.0333,Hungary,HU,HUN,Baranya,Baranya,HU-BA,county,,26.2,,,4,Europe/Budapest,FALSE,1348296891
+Járási Szeretetház,Jarasi Szeretethaz,,47.7000,19.9167,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,63.8,,,4,Europe/Budapest,FALSE,1348707418
+Görbesziget,Gorbesziget,,47.1500,21.0333,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,9.5,,,5,Europe/Budapest,FALSE,1348991504
+Ballatag,Ballatag,Balla-major,47.6333,17.8500,Hungary,HU,HUN,Győr-Moson-Sopron,Gyor-Moson-Sopron,HU-GS,county,,39.1,,,4,Europe/Budapest,FALSE,1348077368
+Kisbudzsák,Kisbudzsak,,45.9500,18.9333,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,23.9,,,4,Europe/Budapest,FALSE,1348225075
+Noszlopi Tanya,Noszlopi Tanya,,47.1833,17.4667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,26.3,,,4,Europe/Budapest,FALSE,1348626552
+Marostöltés,Marostoltes,,46.2500,20.1667,Hungary,HU,HUN,Szeged,Szeged,HU-SD,urban county,,582.4,,,3,Europe/Budapest,FALSE,1348395060
+Bochidjapuszta,Bochidjapuszta,,47.9833,19.9167,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,31.2,,,4,Europe/Budapest,FALSE,1348942304
+Ornsteintanya,Ornsteintanya,,47.4000,21.6667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,49.6,,,4,Europe/Budapest,FALSE,1348159189
+Böcörpuszta,Bocorpuszta,,46.1692,17.6635,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,13.6,,,4,Europe/Budapest,FALSE,1348000588
+Felsőföldi Tanya,Felsofoldi Tanya,,47.5667,20.7333,Hungary,HU,HUN,Jász-Nagykun-Szolnok,Jasz-Nagykun-Szolnok,HU-JN,county,,33.9,,,4,Europe/Budapest,FALSE,1348933011
+Hármas,Harmas,,47.4500,21.4000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,123.2,,,4,Europe/Budapest,FALSE,1348707470
+Nagyrétidůlő,Nagyretidulo,,46.8500,17.6667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,64.7,,,4,Europe/Budapest,FALSE,1348582504
+Nagy Pál-tanya,Nagy Pal-tanya,,48.0167,21.9333,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,51.6,,,4,Europe/Budapest,FALSE,1348642454
+Alsónyéki Tanyák,Alsonyeki Tanyak,,47.9667,20.8333,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,204.8,,,3,Europe/Budapest,FALSE,1348489583
+Bánomszőllő,Banomszollo,,48.0500,22.3167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,70.8,,,4,Europe/Budapest,FALSE,1348335307
+Telekidůlő,Telekidulo,,47.6667,19.7000,Hungary,HU,HUN,Heves,Heves,HU-HE,county,,229.9,,,3,Europe/Budapest,FALSE,1348403633
+Kincsesház,Kincseshaz,,47.1000,17.5667,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,277.2,,,3,Europe/Budapest,FALSE,1348613886
+Bodóhegy,Bodohegy,,48.0500,21.7167,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,185.5,,,4,Europe/Budapest,FALSE,1348788406
+Jegyzőtag,Jegyzotag,,47.1333,21.4667,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,31.0,,,4,Europe/Budapest,FALSE,1348522844
+Csórompuszta,Csorompuszta,,46.9613,17.6173,Hungary,HU,HUN,Veszprém,Veszprem,HU-VE,county,,15.2,,,4,Europe/Budapest,FALSE,1348100280
+Sejekmöge,Sejekmoge,,46.5667,18.9167,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,47.5,,,4,Europe/Budapest,FALSE,1348330615
+Orbántanya,Orbantanya,,47.6333,20.9000,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,50.2,,,4,Europe/Budapest,FALSE,1348448373
+Parragvárpuszta,Parragvarpuszta,Paragvárpuszta,46.8167,16.6667,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,24.5,,,4,Europe/Budapest,FALSE,1348032354
+Bárótagtanya,Barotagtanya,,47.7667,20.9667,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,57.9,,,4,Europe/Budapest,FALSE,1348815991
+Bécimajor,Becimajor,,46.4333,16.7333,Hungary,HU,HUN,Zala,Zala,HU-ZA,county,,89.9,,,4,Europe/Budapest,FALSE,1348836230
+Vitéztelkek,Viteztelkek,,47.9167,21.1833,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,27.6,,,4,Europe/Budapest,FALSE,1348445521
+Nagyrétdůlő,Nagyretdulo,,48.0667,19.8000,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,337.1,,,3,Europe/Budapest,FALSE,1348494310
+Vécsetáltanya,Vecsetaltanya,,48.2333,20.6000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,738.7,,,3,Europe/Budapest,FALSE,1348912788
+Cenzusdůlő,Cenzusdulo,Cenzusföld,47.3667,21.5167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,78.9,,,4,Europe/Budapest,FALSE,1348528280
+Tőkéspuszta,Tokespuszta,,47.9667,19.0833,Hungary,HU,HUN,Nógrád,Nograd,HU-NO,county,,36.1,,,4,Europe/Budapest,FALSE,1348676728
+Ótelek,Otelek,,46.4333,17.2500,Hungary,HU,HUN,Somogy,Somogy,HU-SO,county,,26.3,,,4,Europe/Budapest,FALSE,1348983928
+Bodnártanya,Bodnartanya,,47.8333,20.7000,Hungary,HU,HUN,Borsod-Abaúj-Zemplén,Borsod-Abauj-Zemplen,HU-BZ,county,,45.6,,,4,Europe/Budapest,FALSE,1348704639
+Begécspuszta,Begecspuszta,,46.9167,21.5833,Hungary,HU,HUN,Békés,Bekes,HU-BE,county,,18.8,,,4,Europe/Budapest,FALSE,1348283868
+Ótelek,Otelek,,47.7667,21.8667,Hungary,HU,HUN,Szabolcs-Szatmár-Bereg,Szabolcs-Szatmar-Bereg,HU-SZ,county,,59.3,,,4,Europe/Budapest,FALSE,1348377853
+Kapolya,Kapolya,,46.1833,19.3000,Hungary,HU,HUN,Bács-Kiskun,Bacs-Kiskun,HU-BK,county,,35.4,,,4,Europe/Budapest,FALSE,1348807148
+Kristontanya,Kristontanya,,47.6833,21.9167,Hungary,HU,HUN,Hajdú-Bihar,Hajdu-Bihar,HU-HB,county,,78.0,,,4,Europe/Budapest,FALSE,1348958344

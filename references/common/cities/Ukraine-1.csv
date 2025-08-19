@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Kyiv,Kyiv,Kiyiv|Kijów|Kijew|Kief|Kiew|Kiyev|Kyyiv|Kiev|Kyiv,50.4500,30.5233,Ukraine,UA,UKR,"Kyiv, Misto","Kyiv, Misto",UA-30,city,primary,3481.5,2952301,2952301,1,Europe/Kyiv,FALSE,1804382913
+Kharkiv,Kharkiv,Charkow|Khar’kov,49.9925,36.2311,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,admin,4500.0,1421125,1421125,1,Europe/Kyiv,FALSE,1804588111
+Odesa,Odesa,Odessa,46.4775,30.7326,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,admin,4265.7,1010537,1010537,1,Europe/Kyiv,FALSE,1804178102
+Dnipro,Dnipro,Dnepropetrovsk|Dnjepropetrowsk|Yekaterinovslav|Iekaterinoslav|Ekaṭerinoslav|Dniepropetrovsk|Dnetropetrovsk|Dnepropetrowsk|Yekaterinoslav|Katerynoslav|Dnipropetrovsk,48.4675,35.0400,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,admin,2391.4,968502,968502,2,Europe/Kyiv,FALSE,1804152933
+Donetsk,Donetsk,Jusowka|Yuzovo|Stalino|Yuzovka|Hughesovka|Stalin|Donets’k|Donetsk,48.0028,37.8053,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,admin,2518.6,901645,901645,2,Europe/Kyiv,FALSE,1804963805
+Lviv,Lviv,Lwów|Leopol|Lvyv|Lemberg|L’viv|L’vov|L’viv,49.8425,24.0322,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,admin,3941.1,717273,717273,2,Europe/Kyiv,FALSE,1804939658
+Zaporizhzhia,Zaporizhzhia,Zaborozha|Zaporozh’e|Saporoshje|Aleksandrovsk|Zaporozh’ye|Zaporizhzhya,47.8500,35.1175,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,admin,2145.2,710052,710052,2,Europe/Kyiv,FALSE,1804644752
+Bazal’tove,Bazal'tove,Bazal’tovoye,50.6765,26.1600,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,86.7,625543,625543,2,Europe/Kyiv,FALSE,1804864050
+Kryvyi Rih,Kryvyi Rih,Kriwoi Rog|Krivoy Rog|Kryvyy Rih,47.9100,33.3900,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,1472.9,603904,603904,2,Europe/Kyiv,FALSE,1804544901
+Sevastopol,Sevastopol,Akhtyar|Sewastopol|Akhiar|Sebastopol|Sevastopol’,44.6050,33.5225,Ukraine,UA,UKR,"Sevastopol, Misto","Sevastopol, Misto",UA-40,city,admin,562.0,485386,485386,2,Europe/Simferopol,FALSE,1804806030
+Mykolaiv,Mykolaiv,Nikolajew|Vernoleninsk|Nikolaev|Mykolayiv|Nikolayev,46.9750,31.9950,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,admin,1857.8,470011,470011,2,Europe/Kyiv,FALSE,1804398395
+Mariupol,Mariupol,Zhdanov|Mariupol’,47.0958,37.5494,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,1842.2,449498,449498,2,Europe/Kyiv,FALSE,1804630021
+Luhansk,Luhansk,Woroschilowgrad|Luhans’k|Voroshilovgrad|Lugansk,48.5678,39.3031,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,admin,1626.4,417990,417990,2,Europe/Kyiv,FALSE,1804688214
+Vinnytsia,Vinnytsia,Winniza|Vinnitsa|Vinnytsya,49.2333,28.4833,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,admin,3266.2,369739,369739,2,Europe/Kyiv,FALSE,1804658571
+Makiivka,Makiivka,Makejewka|Makyevka|Makyeevka|Makeevka|Makayevka|Dmitriyevsk|Makeyevka|Makiyivka,48.0556,37.9611,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,80.6,343158,343158,2,Europe/Kyiv,FALSE,1804926154
+Simferopol,Simferopol,Ssimferopol|Ak-Mechet|Simferopol’,44.9519,34.1022,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,admin,3182.6,340540,340540,2,Europe/Simferopol,FALSE,1804665958
+Chernihiv,Chernihiv,Tschernigow|Chernigov,51.4939,31.2947,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,admin,3631.6,286899,286899,2,Europe/Kyiv,FALSE,1804565996
+Poltava,Poltava,Poltawa,49.5894,34.5514,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,admin,2751.5,283402,283402,2,Europe/Kyiv,FALSE,1804547489
+Kherson,Kherson,Cherson,46.6425,32.6250,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,admin,1146.4,279131,279131,2,Europe/Kyiv,FALSE,1804514036
+Khmelnytskyi,Khmelnytskyi,Proskurovak|Khmelinitski|Proskurow|Khmel’nyts’kyy|Proskurov|Khmel’nitskiy|Kamelnitskiy,49.4167,27.0000,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,admin,2949.5,274452,274452,2,Europe/Kyiv,FALSE,1804347108
+Cherkasy,Cherkasy,Cherkassi|Tscherkassy|Cherkassy,49.4444,32.0597,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,admin,3459.4,269836,269836,2,Europe/Kyiv,FALSE,1804459212
+Sumy,Sumy,Sumi,50.9119,34.8028,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,admin,1832.8,265758,265758,2,Europe/Kyiv,FALSE,1804489982
+Chernivtsi,Chernivtsi,Czernowitz|Tschernowitz|Cernăuţi|Chernovtsy|Chernovitsy|Chernovits|Czerniowce,48.3000,25.9333,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,admin,1735.1,265471,265471,2,Europe/Kyiv,FALSE,1804652872
+Zhytomyr,Zhytomyr,Zhitomir|Shitomir|Jitomir|Żytomierz,50.2500,28.6667,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,admin,4025.0,261624,261624,2,Europe/Kyiv,FALSE,1804540656
+Horlivka,Horlivka,Gorlowka|Gorlovka,48.3000,38.0500,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,608.3,256714,256714,2,Europe/Kyiv,FALSE,1804235146
+Rivne,Rivne,Ruvne|Rowne|Rovno,50.6192,26.2519,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,admin,4229.1,245289,245289,2,Europe/Kyiv,FALSE,1804144712
+Ivano-Frankivsk,Ivano-Frankivsk,Stanistawów|Stanislau|Stanislavov|Stanislav|Ivano-Frankovsk|Stanislavyv|Ivano-Frankivs’k,48.9228,24.7106,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,admin,2001.6,238196,238196,2,Europe/Kyiv,FALSE,1804208152
+Kropyvnytskyi,Kropyvnytskyi,Sinowjewsk|Zinov’yevsk|Elizavetgrad|Kirowo|Kirovo|Zinovievsk|Kirovograd|Yelizavetgrad|Yelizavety|Kirovohrad|Zinov’evsk|Kropyvnyts’kyy,48.5000,32.2667,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,admin,2207.9,227413,227413,2,Europe/Kyiv,FALSE,1804374492
+Kamianske,Kamianske,Dniprodzerzhynsk|Dneprodzerzhinsk|Dneprodsershinsk|Kamenskoye|Dneprodzherzhinsk,48.5167,34.6167,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,25.9,226845,226845,2,Europe/Kyiv,FALSE,1804033242
+Ternopil,Ternopil,Tarnopol’|Ternopol’|Ternopil’,49.5667,25.6000,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,admin,3817.6,225238,225238,2,Europe/Kyiv,FALSE,1804000146
+Kremenchuk,Kremenchuk,Krenenchur|Krementschug|Kremenchug,49.0631,33.4039,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,41.9,220174,220174,2,Europe/Kyiv,FALSE,1804343754
+Lutsk,Lutsk,Luck|Luts’k|Lutsk,50.7500,25.3358,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,admin,5142.5,215986,215986,2,Europe/Kyiv,FALSE,1804014744
+Bila Tserkva,Bila Tserkva,Belaja Zerkow|Belaya Tserkov’,49.7989,30.1153,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,3080.0,208944,208944,2,Europe/Kyiv,FALSE,1804758853
+Sievierodonetsk,Sievierodonetsk,Syeverodonets’k|Severodonetsk|Syevyerodonets’k,48.9481,38.4933,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,3562.9,150000,150000,2,Europe/Kyiv,FALSE,1804577024
+Kerch,Kerch,Pantikapea|Kertch|Bospor|Panticapaeum|Bospora|Kertsch|Kerch’,45.3619,36.4711,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,1464.49,149566,149566,2,Europe/Simferopol,FALSE,1804437456
+Melitopol,Melitopol,Melitopol’,46.8489,35.3675,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,27.1,148851,148851,2,Europe/Kyiv,FALSE,1804906240
+Kramatorsk,Kramatorsk,Kramatorskaya|Kramatorskaja|Kramators’k,48.7392,37.5839,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,507.4,147145,147145,2,Europe/Kyiv,FALSE,1804461469
+Khrustalnyi,Khrustalnyi,Khrustal’nyy,48.1214,38.9453,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,176.7,124000,124000,2,Europe/Kyiv,FALSE,1804368412
+Uzhhorod,Uzhhorod,Užhorod|Ungvar|Uzhgorod,48.6239,22.2950,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,admin,2886.2,115449,115449,2,Europe/Kyiv,FALSE,1804851697
+Sloviansk,Sloviansk,Slavyansk|Slawjansk|Slov”yans’k,48.8533,37.6250,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1921.8,113196,113196,2,Europe/Kyiv,FALSE,1804877044
+Brovary,Brovary,Browary,50.5111,30.7900,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,3219.8,109473,109473,2,Europe/Kyiv,FALSE,1804386597
+Yevpatoriia,Yevpatoriia,Eupatoria|Kozlov|Gazlevi|Yevpatoriya,45.1939,33.3681,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,1665.4,108248,108248,2,Europe/Simferopol,FALSE,1804279364
+Berdiansk,Berdiansk,Osipenko|Berdyansk|Berdyans’k|Berdjansk,46.7556,36.7889,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,1328.9,106311,106311,2,Europe/Kyiv,FALSE,1804599785
+Alchevsk,Alchevsk,Alchevs’k|Woroschilowsk|Voroshilovsk|Alchevskoe|Kommunarsk,48.4778,38.7978,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,2108.0,105398,105398,2,Europe/Kyiv,FALSE,1804025187
+Nikopol,Nikopol,Nikopol’,47.5667,34.4000,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,26.9,105160,105160,2,Europe/Kyiv,FALSE,1804000135
+Pavlohrad,Pavlohrad,Pavlogi|Pawlograd|Pavlograd,48.5167,35.8667,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,1719.2,101430,101430,2,Europe/Kyiv,FALSE,1804162854
+Kamianets-Podilskyi,Kamianets-Podilskyi,Kamenets-Podilski|Kamieniec Podolski|Kamenez-Podolsk|Kamenets Podol’ski|Kamenets-Podol’sk|Kam”yanets’-Podil’s’kyy|Kamenets-Podol’skiy,48.6833,26.5833,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,minor,3604.5,100462,100462,2,Europe/Kyiv,FALSE,1804779341
+Lysychansk,Lysychansk,Lisichansk|Lysychans’k,48.9167,38.4000,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1005.4,96161,96161,3,Europe/Kyiv,FALSE,1804673535
+Dovzhansk,Dovzhansk,Sverdlovsk|Sverdlovsk|Selo Imeni Sverdlova|Imeni Sverdlova,48.0778,39.6472,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,1134.9,95153,95153,3,Europe/Kyiv,FALSE,1804768565
+Mukacheve,Mukacheve,Munkačevo|Mikachevo|Munkacs|Munkachevo|Mukačevo|Mukachevo|Mukachevo,48.4500,22.7500,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,3169.2,85569,85569,2,Europe/Kyiv,FALSE,1804401780
+Konotop,Konotop,,51.2167,33.2000,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,1936.7,84787,84787,3,Europe/Kyiv,FALSE,1804110853
+Oleksandriia,Oleksandriia,Aleksandria|Alexandrija Pervaya|Aleksandriya|Oleksandriya,48.6667,33.1167,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,18.4,82345,82345,3,Europe/Kyiv,FALSE,1804836321
+Uman,Uman,Uman’,48.7500,30.2167,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,2003.8,82154,82154,2,Europe/Kyiv,FALSE,1804670442
+Krasnyi Luch,Krasnyi Luch,Krassntjlutsch|Krasny Luch|Krasniluch|Krasnyy Luch,48.1333,38.9333,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,5.2,79533,79533,3,Europe/Kyiv,FALSE,1804477928
+Yenakiieve,Yenakiieve,Rykovo|Ordzhonikidze|Ordshonikidse|Yenakiyevo|Yenakiyeve,48.2167,38.2000,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,533.1,79348,79348,3,Europe/Kyiv,FALSE,1804228533
+Yalta,Yalta,Jalta,44.4994,34.1700,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,280.1,79272,79272,3,Europe/Simferopol,FALSE,1804569428
+Shostka,Shostka,Schostka,51.8667,33.4833,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,1757.6,76788,76788,3,Europe/Kyiv,FALSE,1804764606
+Stakhanov,Stakhanov,Ssergo|Kadijewka|Kadiyevka|Stakhanov,48.5681,38.6586,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,825.0,75745,75745,3,Europe/Kyiv,FALSE,1804324480
+Drohobych,Drohobych,Drohobycz|Drohobytsch|Drogobycz|Drogobych,49.3500,23.5000,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,1819.8,74610,74610,3,Europe/Kyiv,FALSE,1804782563
+Berdychiv,Berdychiv,Berdichen|Berdichev|Berditschew,49.9000,28.5667,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,20.7,73046,73046,3,Europe/Kyiv,FALSE,1804788404
+Kostiantynivka,Kostiantynivka,Konstantinowka|Kostyantynivka,48.5333,37.7167,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1104.4,72888,72888,3,Europe/Kyiv,FALSE,1804423855
+Bakhmut,Bakhmut,Artemivsk|Artemovskiy|Artemowsk|Artëmovsk,48.5947,38.0008,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,1709.0,71094,71094,3,Europe/Kyiv,FALSE,1804007616
+Izmail,Izmail,Izmayil|Izmail|Tuchkov|Ismail,45.3517,28.8364,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,99.2,70731,70731,3,Europe/Kyiv,FALSE,1804652754
+Novomoskovsk,Novomoskovsk,Novomoskovsk|Novomoskovs’k,48.6333,35.2167,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,37.6,69855,69855,3,Europe/Kyiv,FALSE,1804952905
+Fedosiia,Fedosiia,Theodosia|Feodosija|Feodosia|Kefe|Kaffa|Feodossia|Fyeodosiya|Feodosiya,45.0342,35.3792,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,406.3,69145,69145,3,Europe/Simferopol,FALSE,1804677570
+Kovel,Kovel,Kowel|Kovel’,51.2167,24.7167,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,minor,1351.5,67575,67575,3,Europe/Kyiv,FALSE,1804093604
+Nizhyn,Nizhyn,Nizhin|Neshin|Nezhin,51.0381,31.8861,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,1326.4,66981,66981,3,Europe/Kyiv,FALSE,1804714087
+Smila,Smila,Smela,49.2117,31.8731,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,1648.1,65675,65675,3,Europe/Kyiv,FALSE,1804490050
+Chervonohrad,Chervonohrad,Krvstonopol|Krystynopol|Kristinopol’|Chervonograd,50.3867,24.2289,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,1710.0,64297,64297,3,Europe/Kyiv,FALSE,1804958186
+Pokrovsk,Pokrovsk,Krassnoarmeiskoje|Krasnoarmeyskoye|Grishino|Krasnoarmiisk|Krasnoarmeysk,48.2828,37.1828,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,1614.2,63437,63437,3,Europe/Kyiv,FALSE,1804910861
+Pervomaisk,Pervomaisk,Perwomaisk|Olwiopol|Ol’viopol’|Pervomays’k,48.0439,30.8500,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,2521.0,63377,63377,2,Europe/Kyiv,FALSE,1804620055
+Boryspil,Boryspil,Boryspil’|Borispol’,50.3500,30.9500,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,80.5,62281,62281,3,Europe/Kyiv,FALSE,1804757407
+Korosten,Korosten,Korosten’,50.9500,28.6333,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,1816.7,61496,61496,3,Europe/Kyiv,FALSE,1804648682
+Kolomyia,Kolomyia,Kolomyya|Kholomya|Kołomyja|Kolomea-Ost|Kolomea,48.5306,25.0403,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,1504.6,61269,61269,3,Europe/Kyiv,FALSE,1804285171
+Rubizhne,Rubizhne,Rubezhnoye|Rubezhnaya,49.0100,38.3714,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1763.3,59951,59951,3,Europe/Kyiv,FALSE,1804246584
+Khartsyzk,Khartsyzk,Khartsysk|Khartsyzsk|Khartsyz’k,48.0428,38.1425,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,3096.5,59763,59763,2,Europe/Kyiv,FALSE,1804780082
+Druzhkivka,Druzhkivka,Druzhkovka,48.6214,37.5278,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1276.6,59400,59400,3,Europe/Kyiv,FALSE,1804169216
+Chornomorsk,Chornomorsk,Il’ichevsk|Il’ichevka|Il’ichëvsk|Ilyitschovsk|Illichivs’k|Chornomors’k,46.3017,30.6569,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,2319.3,57983,57983,2,Europe/Kyiv,FALSE,1804199117
+Bilhorod-Dnistrovskyi,Bilhorod-Dnistrovskyi,Akkerman|Cetatea Albă|Belgorod-Dnestrovskiy|Bilhorod-Dnistrovs’kyy|Byelogorod,46.1833,30.3500,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,1845.5,57210,57210,3,Europe/Kyiv,FALSE,1804836080
+Irpin,Irpin,Dachi Irpen’|Irpen’,50.5167,30.2500,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,512.6,56806,56806,3,Europe/Kyiv,FALSE,1804919448
+Chystiakove,Chystiakove,Topez|Tschistjakowa|Tschistjakowo|Chistyakovo|Torez,48.0219,38.6264,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,524.7,55511,55511,3,Europe/Kyiv,FALSE,1804591771
+Stryi,Stryi,Stryj|Stry|Stryy,49.2500,23.8500,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,3250.7,55100,55100,2,Europe/Kyiv,FALSE,1804862811
+Novohrad-Volynskyi,Novohrad-Volynskyi,Zwiahl|Zvydgel|Zvyagel’|Novograd-Volynsk|Nowograd Wolynsk|Novograd Volynski|Novohrad-Volyns’kyy|Novograd-Volynskiy,50.5833,27.6333,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,2040.2,55086,55086,2,Europe/Kyiv,FALSE,1804059567
+Lozova,Lozova,Lozovaya|Losowaja,48.8833,36.3833,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,365.0,54026,54026,3,Europe/Kyiv,FALSE,1804128755
+Pryluky,Pryluky,Priluki,50.5892,32.3856,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,18.3,53395,53395,3,Europe/Kyiv,FALSE,1804037997
+Antratsyt,Antratsyt,Antratsit|Bokovo-Antratsit,48.1192,39.0900,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1586.5,52353,52353,3,Europe/Kyiv,FALSE,1804312048
+Enerhodar,Enerhodar,Energodar|Enerhodars’ka Mis’krada,47.4989,34.6558,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,82.3,52237,52237,3,Europe/Kyiv,FALSE,1804819053
+Horishni Plavni,Horishni Plavni,Gorishni|Gorishni Plavni,49.0167,33.6667,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,470.1,52167,52167,3,Europe/Kyiv,FALSE,1804828787
+Myrnohrad,Myrnohrad,Dimitrovo|Dimitrova|Imeni Dimitrova|Dimitrov|Dymytrov,48.2911,37.2681,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,2213.6,50360,50360,2,Europe/Kyiv,FALSE,1804762140
+Novovolynsk,Novovolynsk,Novovolynskiy|Novovolyns’k|Novovolynsk,50.7333,24.1667,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,45.9,49772,49772,3,Europe/Kyiv,FALSE,1804052073
+Shakhtarsk,Shakhtarsk,Shakhtërsk|Katyk|Zapadno-Gruppskiy|Shakhtars’k,48.0469,38.4686,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,1172.0,49482,49482,3,Europe/Kyiv,FALSE,1804275296
+Okhtyrka,Okhtyrka,Akhtirka|Achtyrka|Akhtyrka,50.3030,34.8920,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,1505.7,47971,47971,3,Europe/Kyiv,FALSE,1804074587
+Snizhne,Snizhne,Shezhnoye|Snezhnoye,48.0283,38.7656,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,426.9,47259,47259,3,Europe/Kyiv,FALSE,1804966231
+Rovenky,Rovenky,Rowenki|Roven’ki|Roven’ky,48.0711,39.3428,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,2152.8,46734,46734,2,Europe/Kyiv,FALSE,1804938726
+Fastiv,Fastiv,Fastow|Fastov,50.0833,29.9167,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,1067.6,45907,45907,3,Europe/Kyiv,FALSE,1804739399
+Lubny,Lubny,Lubin,50.0167,33.0000,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,1004.1,45786,45786,3,Europe/Kyiv,FALSE,1804740843
+Svitlovodsk,Svitlovodsk,Svitlovods’k|Svetlovodsk|Novogeorgiyevsk|Novogeorgievsk|Khrushchëv|Krylov|Kremges,49.0503,33.2419,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,11.9,45312,45312,3,Europe/Kyiv,FALSE,1804885566
+Nova Kakhovka,Nova Kakhovka,Novo Kakhovka|Novaya Kakhovka|Novaya Kakhova,46.7550,33.3750,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,30.2,45069,45069,3,Europe/Kyiv,FALSE,1804166107
+Brianka,Brianka,Bryanskiy|Bryanskiy Rudnik|Bryanka,48.5133,38.6431,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,708.0,44987,44987,3,Europe/Kyiv,FALSE,1804124686
+Marhanets,Marhanets,Komintern|Marganets|Marhanets’,47.6447,34.6042,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,26.9,44980,44980,3,Europe/Kyiv,FALSE,1804303283
+Krasnodon,Krasnodon,Sorokino|Krassnodon|Sorokin,48.3000,39.7333,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,564.9,43683,43683,3,Europe/Kyiv,FALSE,1804346804
+Zhovti Vody,Zhovti Vody,Zhyeltyy Vody|Zhëltyye Vody|Zhëltaya Reka|Rudnik Shvarts|Zheleznyy Rudnik Shvarts,48.3500,33.5000,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,93.3,42052,42052,3,Europe/Kyiv,FALSE,1804788479
+Varash,Varash,Kuznetsovs’k|Kuznetsovsk,51.3444,25.8508,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,minor,24.5,41711,41711,3,Europe/Kyiv,FALSE,1804357890
+Romny,Romny,Rommy,50.7500,33.4667,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,620.2,40316,40316,3,Europe/Kyiv,FALSE,1804386942
+Myrhorod,Myrhorod,Mirgorod,49.9667,33.6000,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,2113.7,40160,40160,2,Europe/Kyiv,FALSE,1804138671
+Podilsk,Podilsk,Kotovsk|Birzula|Kotovsk|Kotowsk,47.7419,29.5350,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,1580.9,40155,40155,3,Europe/Kyiv,FALSE,1804566477
+Vyshneve,Vyshneve,Vishnëvoye,50.3869,30.3581,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,39900,39900,3,Europe/Kyiv,FALSE,1804783746
+Yuzhnoukrainsk,Yuzhnoukrainsk,,47.8217,31.1750,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,16.1,39235,39235,3,Europe/Kyiv,FALSE,1804000719
+Pervomaisk,Pervomaisk,Pervomaysk|Pervomaika|Pervomaisk|Pervomays’k,48.6297,38.5619,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,26.0,38801,38801,3,Europe/Kyiv,FALSE,1804078779
+Dzhankoi,Dzhankoi,Dzhanhoi|Dshankoi|Dzhankoy,45.7086,34.3933,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,28.6,38714,38714,3,Europe/Simferopol,FALSE,1804654537
+Vasylkiv,Vasylkiv,Vasilikov|Wassilkow|Vasil’kov,50.1783,30.3158,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,1273.5,37696,37696,3,Europe/Kyiv,FALSE,1804342314
+Dubno,Dubno,,50.3931,25.7350,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,minor,1388.5,37545,37545,3,Europe/Kyiv,FALSE,1804759407
+Pokrov,Pokrov,Aleksandrovka Number 2|Imeni Ordzhonikidze|Ordzhonikidze|Aleksandrovka|Krepatskoye,47.6533,34.0842,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,26.9,37493,37493,3,Europe/Kyiv,FALSE,1804743879
+Boryslav,Boryslav,Borysxaw|Borislav,49.2892,23.4189,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,1002.5,37093,37093,3,Europe/Kyiv,FALSE,1804511652
+Bucha,Bucha,Dachi Bucha|Bychansk,50.5486,30.2208,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,3504.4,36971,36971,2,Europe/Kyiv,FALSE,1804587935
+Netishyn,Netishyn,Solov’ye Goryn’|Netishin,50.3500,26.6333,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,54.2,36921,36921,3,Europe/Kyiv,FALSE,1804202140
+Holubivske,Holubivske,Golubovka|Holubivs’ke,48.6333,38.6500,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1040.8,36388,36388,3,Europe/Kyiv,FALSE,1804938302
+Kakhovka,Kakhovka,Kachowka,46.7978,33.4750,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,30.2,35900,35900,3,Europe/Kyiv,FALSE,1804525373
+Boyarka,Boyarka,Boyarka-Budayevka|Budayevka,50.3292,30.2886,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,35411,35411,3,Europe/Kyiv,FALSE,1804000125
+Yasynuvata,Yasynuvata,Yasinovataya|IAsinovataia|Yasinovatara,48.1278,37.8625,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1858.1,35303,35303,3,Europe/Kyiv,FALSE,1804948935
+Voznesensk,Voznesensk,Wosnessensk|Voznesens’k,47.5667,31.3000,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,15.6,35243,35243,3,Europe/Kyiv,FALSE,1804117559
+Slavuta,Slavuta,Slawuta|Sslawuta,50.3028,26.8683,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,1745.9,34918,34918,3,Europe/Kyiv,FALSE,1804318397
+Sambir,Sambir,Sambor,49.5167,23.2028,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,1435.2,34444,34444,3,Europe/Kyiv,FALSE,1804333942
+Toretsk,Toretsk,Imeni Dzerzhinskogo|Dzerzhinsk|Dzerzhynsk,48.3917,37.8733,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1521.2,34378,34378,3,Europe/Kyiv,FALSE,1804980684
+Starokostiantyniv,Starokostiantyniv,Starokonstantinow|Starokonstantinov|Starokostyantyniv,49.7556,27.2208,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,48.5,33921,33921,3,Europe/Kyiv,FALSE,1804538955
+Zhmerynka,Zhmerynka,Zhmerinka,49.0500,28.1000,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,1848.5,33754,33754,3,Europe/Kyiv,FALSE,1804771070
+Hlukhiv,Hlukhiv,Gluchow|Gluchoff|Glukhov,51.6747,33.9133,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,4.0,33478,33478,3,Europe/Kyiv,FALSE,1804181345
+Obukhiv,Obukhiv,Obukhov,50.1300,30.6567,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,95.9,33204,33204,3,Europe/Kyiv,FALSE,1804079919
+Chuhuiv,Chuhuiv,Tschugujew|Chuguyev|Chuhuyiv,49.8356,36.6864,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,2589.4,33144,33144,2,Europe/Kyiv,FALSE,1804354882
+Yuzhne,Yuzhne,Yuzhnoye,46.6300,31.1000,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,31.4,32745,32745,3,Europe/Kyiv,FALSE,1804000461
+Kostopil,Kostopil,Kostopel|Kostopol’,50.8833,26.4500,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,44.4,31463,31463,3,Europe/Kyiv,FALSE,1804484929
+Novoyavorovskoye,Novoyavorovskoye,Novoyavorovsk,49.9311,23.5731,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,154.5,30723,30723,3,Europe/Kyiv,FALSE,1804412448
+Mohyliv-Podilskyi,Mohyliv-Podilskyi,Mogilov Podolski|Mohyliv-Podil’s’kyy|Mogilëv-Podol’skiy,48.4500,27.7833,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,1383.5,29925,29925,3,Europe/Kyiv,FALSE,1804578556
+Vyshhorod,Vyshhorod,Vyshgorod,50.5833,30.5000,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,47.3,29913,29913,3,Europe/Kyiv,FALSE,1804392856
+Alushta,Alushta,Aluschta|Alshta|Aloushta,44.6672,34.3978,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,114.1,29668,29668,3,Europe/Simferopol,FALSE,1804773543
+Synelnykove,Synelnykove,Sinel’nikovo|Synel’nykove,48.3178,35.5119,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,23.0,29651,29651,3,Europe/Kyiv,FALSE,1804535574
+Tokmak,Tokmak,Tomak|Bol’shoy Tokmak,47.2556,35.7056,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,136.4,29573,29573,3,Europe/Kyiv,FALSE,1804494597
+Chortkiv,Chortkiv,Chortkuv|Chortkov|Tschortkow|Czortków|Chertkov,49.0075,25.7906,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,81.9,29053,29053,3,Europe/Kyiv,FALSE,1804015197
+Pervomaiskyi,Pervomaiskyi,Pervomayskiy|Pervomaysk|Pervomays’kyy,49.3869,36.2142,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,36.3,28986,28986,3,Europe/Kyiv,FALSE,1804863173
+Balakliia,Balakliia,Balakleya|Balakliya,49.4658,36.8678,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,40.0,28868,28868,3,Europe/Kyiv,FALSE,1804852516
+Novyi Rozdil,Novyi Rozdil,Novyy Rozdil|Novyy Rozdol|Novyy Razdol,49.4697,24.1367,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,136.9,28745,28745,3,Europe/Kyiv,FALSE,1804473027
+Sarny,Sarny,Sarnv,51.3372,26.6058,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,minor,54.1,28626,28626,3,Europe/Kyiv,FALSE,1804767369
+Truskavets,Truskavets,Truskawiec|Truskavets’,49.2806,23.5050,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,404.1,28287,28287,3,Europe/Kyiv,FALSE,1804322399
+Dobropillia,Dobropillia,Krasnoarmeyskiy Rudnik|Dobropol’ye|Dobropillya,48.4689,37.0828,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,2369.2,28170,28170,2,Europe/Kyiv,FALSE,1804697742
+Khrestivka,Khrestivka,Kirovske|Krestovka|Kirovskoye,48.1464,38.3606,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,14.5,28149,28149,3,Europe/Kyiv,FALSE,1804952819
+Khust,Khust,Chust|Guste|Huszt,48.1814,23.2978,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,127.0,28039,28039,3,Europe/Kyiv,FALSE,1804836391
+Zolotonosha,Zolotonosha,,49.6667,32.0333,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,12.9,27847,27847,3,Europe/Kyiv,FALSE,1804210857
+Kupiansk,Kupiansk,Kupjansk|Kup”yans’k,49.7167,37.5833,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,813.4,27169,27169,3,Europe/Kyiv,FALSE,1804300255
+Pershotravensk,Pershotravensk,Pershotravnevoye|Shakhterskoye|Pershotravensk,48.3475,36.4017,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,43.4,27099,27099,3,Europe/Kyiv,FALSE,1804847334
+Pereyaslav-Khmel’nyts’kyy,Pereyaslav-Khmel'nyts'kyy,Pereyaslav-Khmel’nitskiy|Pereyaslav|Perejaslawl,50.0650,31.4450,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,158.0,27088,27088,3,Europe/Kyiv,FALSE,1804106305
+Ternivka,Ternivka,Ternovka,48.5167,36.0000,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,39.1,26961,26961,3,Europe/Kyiv,FALSE,1804507506
+Khmilnyk,Khmilnyk,Khmel’niki|Khmel’nik|Khmil’nyk,49.5569,27.9572,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,1313.0,26916,26916,3,Europe/Kyiv,FALSE,1804424011
+Bakhchysarai,Bakhchysarai,Bakhchisaray|Bakhchysaray|Bachischissarai|Bachashisarai|Bakhehisaray,44.7528,33.8608,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,51.6,26874,26874,3,Europe/Simferopol,FALSE,1804779344
+Kirovsk,Kirovsk,Golubovka|Kirovs’k|Kirovsk,48.6375,38.6428,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,708.5,26654,26654,3,Europe/Kyiv,FALSE,1804790912
+Sofiyivs’ka Borshchahivka,Sofiyivs'ka Borshchahivka,Sofiyevskaya Borshchagovka,50.4114,30.3692,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,26571,26571,3,Europe/Kyiv,FALSE,1804314606
+Perevalsk,Perevalsk,Pereval’sk|Pereval’s’k,48.4333,38.8167,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,154.8,26132,26132,3,Europe/Kyiv,FALSE,1804106401
+Haisyn,Haisyn,Gaissin|Gaisin|Haysyn|Gaysin,48.8103,29.3842,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,54.1,25698,25698,3,Europe/Kyiv,FALSE,1804988265
+Yany Kapu,Yany Kapu,Krasnoperekopsk|Krasnoperekops’k,45.9675,33.8003,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,71.2,25450,25450,3,Europe/Simferopol,FALSE,1804718701
+Vynohradiv,Vynohradiv,Vinogradov,48.1497,23.0250,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,187.2,25317,25317,3,Europe/Kyiv,FALSE,1804673048
+Malyn,Malyn,Malin,50.7689,29.2700,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,30.4,25172,25172,3,Europe/Kyiv,FALSE,1804889971
+Slavutych,Slavutych,,51.5206,30.7569,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,12.9,25030,25030,3,Europe/Kyiv,FALSE,1804529063
+Oleshky,Oleshky,Aleshki|Tsiurupynsk|Tsyurupins’k,46.6167,32.7167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,46.0,24639,24639,3,Europe/Kyiv,FALSE,1804351272
+Zdolbuniv,Zdolbuniv,Zdolbunovo|Zdolbunuv|Zdołbunów|Zdolbunov,50.5094,26.2597,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,84.7,24501,24501,3,Europe/Kyiv,FALSE,1804680410
+Armiansk,Armiansk,Armyans’k|Armjansk|Armyansk,46.1074,33.6919,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,150.7,24415,24415,3,Europe/Simferopol,FALSE,1804358362
+Saky,Saky,Ssaki|Saki,45.1336,33.5772,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,837.4,24285,24285,3,Europe/Simferopol,FALSE,1804485367
+Lebedyn,Lebedyn,Lebedin,50.5831,34.4822,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,25.3,24238,24238,3,Europe/Kyiv,FALSE,1804576509
+Debaltseve,Debaltseve,Debalzewo|Debal’tsevo|Debal’tseve,48.3333,38.4000,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,995.8,24209,24209,3,Europe/Kyiv,FALSE,1804770987
+Korostyshiv,Korostyshiv,Korostyshev,50.3167,29.0667,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,41.3,24129,24129,3,Europe/Kyiv,FALSE,1804003590
+Zolochiv,Zolochiv,Zlochuv|Złoczów|Zlochev|Zolochev,49.8075,24.9031,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,62.1,23986,23986,3,Europe/Kyiv,FALSE,1804914979
+Selydove,Selydove,Selidovka|Selidovo,48.1500,37.3039,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,619.7,23793,23793,3,Europe/Kyiv,FALSE,1804092732
+Kaniv,Kaniv,Kanew|Kanëv,49.7500,31.4667,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,13.5,23503,23503,3,Europe/Kyiv,FALSE,1804910839
+Brody,Brody,,50.0831,25.1477,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,49.1,23454,23454,3,Europe/Kyiv,FALSE,1804538798
+Pesochin,Pesochin,,49.9594,36.1108,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,23414,23414,3,Europe/Kyiv,FALSE,1804680478
+Berehove,Berehove,Berekhovo|Beregszász|Berehovo|Beregovo,48.2056,22.6472,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,111.1,23325,23325,3,Europe/Kyiv,FALSE,1804040318
+Molodohvardiisk,Molodohvardiisk,Molodogvardeyskoye|Molodogvardeysk|Molodohvardiys’k,48.3444,39.6583,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,260.9,22937,22937,3,Europe/Kyiv,FALSE,1804689495
+Znamianka,Znamianka,Znam”yanka|Znamenka|Snamenka|Znamenka Pervaya|Znomenka,48.7136,32.6733,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,15.7,22936,22936,3,Europe/Kyiv,FALSE,1804158323
+Dokuchaievsk,Dokuchaievsk,Yelenovskiy Kar’yer|Yelenovskiye Kar’yery|Dokuchayevsk|Dokuchayevs’k,47.7519,37.6783,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,22907,22907,3,Europe/Kyiv,FALSE,1804462209
+Hadyach,Hadyach,Gadyach,50.3667,34.0000,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,31.0,22851,22851,3,Europe/Kyiv,FALSE,1804805894
+Nadvirna,Nadvirna,Nadvornaya|Nadvorna|Naduvrna|Nadworna,48.6333,24.5833,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,65.7,22504,22504,3,Europe/Kyiv,FALSE,1804082259
+Ladyzhyn,Ladyzhyn,Lodyzhin|Ladyzhin,48.6667,29.2500,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,64.6,22459,22459,3,Europe/Kyiv,FALSE,1804829324
+Lyman,Lyman,Krasnyi Lyman|Krasny Liman|Liman|Krasnyy Liman,48.9853,37.8111,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,18.1,22315,22315,3,Europe/Kyiv,FALSE,1804424570
+Koziatyn,Koziatyn,Kazatin|Kasatin|Kozyatyn,49.7167,28.8333,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,53.4,22241,22241,3,Europe/Kyiv,FALSE,1804731678
+Krolevets,Krolevets,Korolevets|Krolovets|Krolevets,51.5500,33.3833,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,28.4,22111,22111,3,Europe/Kyiv,FALSE,1804796188
+Vilnohirsk,Vilnohirsk,Vol’nogorsk|Vil’nohirs’k,48.4781,34.0281,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,22079,22079,3,Europe/Kyiv,FALSE,1804164194
+Volnovakha,Volnovakha,Volovakha|Wolnowacha,47.6022,37.4919,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,52.7,21441,21441,3,Europe/Kyiv,FALSE,1804124268
+Merefa,Merefa,Meref,49.8167,36.0500,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,300.1,21421,21421,3,Europe/Kyiv,FALSE,1804653075
+Bilohorodka,Bilohorodka,Belgorodka|Belogorodka,50.3942,30.2314,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,388.5,21367,21367,3,Europe/Kyiv,FALSE,1804583708
+Sukhodilsk,Sukhodilsk,Sukhodol’sk|Sukhodil’s’k,48.3500,39.7167,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,2132.4,21324,21324,2,Europe/Kyiv,FALSE,1804091595
+Sokal,Sokal,,50.4833,24.2833,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,60.5,20986,20986,3,Europe/Kyiv,FALSE,1804008451
+Liubotyn,Liubotyn,Lyubotin|Lyobotin|Lyubotyn,49.9483,35.9294,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,20887,20887,3,Europe/Kyiv,FALSE,1804620993
+Dolyna,Dolyna,Dolina,48.9706,24.0111,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,58.9,20691,20691,3,Europe/Kyiv,FALSE,1804692275
+Kremenets,Kremenets,Krzemieniec|Kremenets’|Kshemenets,50.1081,25.7275,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,74.4,20674,20674,3,Europe/Kyiv,FALSE,1804050857
+Popasna,Popasna,Imeni Kaganovicha|Kaganowitsch|Imeni L.M. Kaganovicha|Popasnaya|Kaganovich,48.6333,38.3800,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,26.0,20600,20600,3,Europe/Kyiv,FALSE,1804622038
+Stebnyk,Stebnyk,Stebniki|Stebnik,49.3000,23.5667,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,60.1,20200,20200,3,Europe/Kyiv,FALSE,1804781699
+Polonne,Polonne,Pollonoye|Polonnoye|Polonnoje,50.1200,27.5078,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,8.6,20172,20172,3,Europe/Kyiv,FALSE,1804361206
+Krasnohrad,Krasnohrad,Konstantinograd|Krasnograd,49.3667,35.4500,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,47.3,20013,20013,3,Europe/Kyiv,FALSE,1804470896
+Trostyanets’,Trostyanets',Trostjanez,50.4667,34.9500,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,31.6,19985,19985,3,Europe/Kyiv,FALSE,1804845915
+Yahotyn,Yahotyn,Yagotin,50.2569,31.7817,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,39.1,19613,19613,3,Europe/Kyiv,FALSE,1804447594
+Okhmalynka,Okhmalynka,Akmalinovka|Akmalinka,47.5333,29.3000,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,18.4,19606,19606,3,Europe/Kyiv,FALSE,1804223828
+Balta,Balta,,47.9400,29.6219,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,28.7,19353,19353,3,Europe/Kyiv,FALSE,1804082783
+Dolynska,Dolynska,Dolinskoye|Schewtschenkowo|Shevchenkovo|Dolinskaya|Dolyns’ka,48.1111,32.7647,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,15.9,19287,19287,3,Europe/Kyiv,FALSE,1804823842
+Henichesk,Henichesk,Genichesk|Heniches’k|Genitschesk,46.1667,34.8000,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,52.9,19253,19253,3,Europe/Kyiv,FALSE,1804703441
+Pidhorodne,Pidhorodne,Podgorodnoye,48.5750,35.1022,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,65.8,19138,19138,3,Europe/Kyiv,FALSE,1804891177
+Starobilsk,Starobilsk,Starobel’sk|Staraya Belaya|Bel’skiy Gorodok|Starobil’s’k,49.2775,38.9242,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,26.3,18796,18796,3,Europe/Kyiv,FALSE,1804913112
+Kiliia,Kiliia,Chilia Noua|Chilia|Kilia Noue|Kilaya|Kiliya Noua|Kiliya,45.4500,29.2667,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,43.4,18745,18745,3,Europe/Kyiv,FALSE,1804423656
+Kivsharivka,Kivsharivka,Kovsharov|Kovsharovka,49.6289,37.6831,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,20.1,18496,18496,3,Europe/Kyiv,FALSE,1804870027
+Kalynivka,Kalynivka,Kalinovskiy|Kalinovka,49.4472,28.5231,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,51.1,18492,18492,3,Europe/Kyiv,FALSE,1804606611
+Bakhmach,Bakhmach,,51.1831,32.8297,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,26.5,18441,18441,3,Europe/Kyiv,FALSE,1804417903
+Kreminna,Kreminna,Kremennaya,49.0500,38.2167,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,22.8,18417,18417,3,Europe/Kyiv,FALSE,1804552469
+Svatove,Svatove,Swatowo|Svatovo,49.4150,38.1550,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,19.5,18417,18417,3,Europe/Kyiv,FALSE,1804850971
+Amvrosiivka,Amvrosiivka,Donetsko-Amvrosiyevka|Donezko-Amwrossijewka|Donetsko Amerskevka|Amvrosiyevka|Amvrosiyivka,47.7833,38.4833,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,26.6,18413,18413,3,Europe/Kyiv,FALSE,1804821911
+Korsun-Shevchenkivskyi,Korsun-Shevchenkivskyi,Korssun-Schewtschem Kowskij|Karun’ Sheychenkovskaya|Korsun’|Korsun’-Shevchenkivs’kyy|Korsun’-Shevchenkovskiy,49.4833,31.2833,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,46.9,18401,18401,3,Europe/Kyiv,FALSE,1804512301
+Krasyliv,Krasyliv,Krasilov|Krasilow,49.6519,26.9706,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,41.7,18356,18356,3,Europe/Kyiv,FALSE,1804762362
+Volochysk,Volochysk,Woloczysk|Volochisk|Volochys’k,49.5333,26.1667,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,45.0,18295,18295,3,Europe/Kyiv,FALSE,1804155172
+Kurakhove,Kurakhove,Petrovka|Novo-Ulakly|Kurakhovstroy|Kurakhovo|Roya|Roy,47.9833,37.2667,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.2,18220,18220,3,Europe/Kyiv,FALSE,1804871476
+Piatykhatky,Piatykhatky,Pjatichatka|Pyatikhatki|Pyatikhatka|Pitikhatki|Pjatichatki|P”yatykhatky,48.4136,33.7028,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,25.5,18140,18140,3,Europe/Kyiv,FALSE,1804098931
+Polohy,Polohy,Pologi|Chubarovka,47.4833,36.2500,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,28.7,18111,18111,3,Europe/Kyiv,FALSE,1804554214
+Zuhres,Zuhres,Zugres,48.0167,38.2667,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,13.5,18024,18024,3,Europe/Kyiv,FALSE,1804960043
+Pelahiivka,Pelahiivka,Pelageyevskiy|Pelageevski|Pelageyevka|Pelahiyivka,48.0989,38.6128,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,304.0,17833,17833,3,Europe/Kyiv,FALSE,1804949257
+Dniprorudne,Dniprorudne,Dneprorudnoye|Dneprograd,47.3863,34.9970,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,47.2,17736,17736,3,Europe/Kyiv,FALSE,1804975764
+Reni,Reni,,45.4575,28.2711,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,45.1,17736,17736,3,Europe/Kyiv,FALSE,1804505327
+Rozdilna,Rozdilna,Razdel’naya|Posad Pazdelnaya|Rozdil’na,46.8486,30.0792,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,42.0,17441,17441,3,Europe/Kyiv,FALSE,1804162688
+Derhachi,Derhachi,Dergatschi|Derhachy|Dergachi,50.1114,36.1219,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,126.6,17433,17433,3,Europe/Kyiv,FALSE,1804803854
+Bolhrad,Bolhrad,Bolgrad|Belgrad,45.6672,28.6128,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,51.2,17400,17400,3,Europe/Kyiv,FALSE,1804273550
+Skadovsk,Skadovsk,Skadowsk|Skadovsk|Skadovs’k,46.1167,32.9167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,121.3,17344,17344,3,Europe/Kyiv,FALSE,1804206912
+Berezhany,Berezhany,Brzezhany|Berejani|Brzeżany,49.4458,24.9361,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,61.4,17139,17139,3,Europe/Kyiv,FALSE,1804101117
+Zvenyhorodka,Zvenyhorodka,Zvenigorodka,49.0697,30.9678,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,56.8,17078,17078,3,Europe/Kyiv,FALSE,1804045250
+Svalyava,Svalyava,Svalava|Svalva,48.5472,22.9861,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,78.4,17068,17068,3,Europe/Kyiv,FALSE,1804834428
+Iziaslav,Iziaslav,Izyaslavl’|Izyaslav,50.1167,26.8000,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,33.1,16901,16901,3,Europe/Kyiv,FALSE,1804060657
+Vatutine,Vatutine,Vatutino,49.0119,31.0714,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,56.8,16888,16888,3,Europe/Kyiv,FALSE,1804033648
+Sudak,Sudak,Ssudak,44.8514,34.9725,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,47.2,16784,16784,3,Europe/Simferopol,FALSE,1804728325
+Shpola,Shpola,,48.9997,31.3922,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,39.7,16616,16616,3,Europe/Kyiv,FALSE,1804610656
+Horodok,Horodok,Gorodok-Proskurovskiy|Gorodok,49.1667,26.5667,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,40.4,16516,16516,3,Europe/Kyiv,FALSE,1804176513
+Berezan,Berezan,Beresan,50.3197,31.4700,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,50.5,16506,16506,3,Europe/Kyiv,FALSE,1804009720
+Bilohirsk,Bilohirsk,Karasubozar|Karasubazar|Karasu|Karassu Basar|Belogorsk|Bilohirs’k,45.0544,34.6022,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,33.6,16428,16428,3,Europe/Simferopol,FALSE,1804571792
+Novoukrainka,Novoukrainka,Novoukrainsk|Novo-Urainka|Novoukrainka|Novoukrayinka,48.3231,31.5242,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,24.7,16338,16338,3,Europe/Kyiv,FALSE,1804711566
+Yuvileine,Yuvileine,Yubileynoye|Yuvileyne,48.5531,39.1742,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,59.2,16311,16311,3,Europe/Kyiv,FALSE,1804471616
+Hostomel,Hostomel,Gostoml’|Gostomel’,50.5692,30.2653,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,2529.7,16190,16190,2,Europe/Kyiv,FALSE,1804995885
+Horodok,Horodok,Gorodok|Gródek Jagielloński|Gorodok-Yagellonskiy|Grudek-Yagel’on’ski|Grudek Yagellon’ski|Gródok Jagielloński|Grodek,49.7833,23.6444,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,92.2,16085,16085,3,Europe/Kyiv,FALSE,1804513657
+Ukrainka,Ukrainka,Ukrayinka,50.1531,30.7435,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,95.9,16056,16056,3,Europe/Kyiv,FALSE,1804574309
+Chornobaivka,Chornobaivka,Chernovayevka|Chernoayevka|Chornobayivka|Chernobayevka,46.7006,32.5478,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,48.5,15984,15984,3,Europe/Kyiv,FALSE,1804826781
+Dunaivtsi,Dunaivtsi,Dunajewzy|Dunayivtsi|Dunayevtsy,48.8894,26.8569,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,51.3,15914,15914,3,Europe/Kyiv,FALSE,1804592967
+Skvyra,Skvyra,Skvira,49.7167,29.6667,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,2.5,15889,15889,3,Europe/Kyiv,FALSE,1804833632
+Taromske,Taromske,Taramskoye|Taroms’ke|Taromskoye,48.4617,34.7828,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,211.2,15838,15838,3,Europe/Kyiv,FALSE,1804000443
+Vynnyky,Vynnyky,Winniki|Vinniki,49.8156,24.1297,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,2346.7,15723,15723,2,Europe/Kyiv,FALSE,1804831750
+Ostroh,Ostroh,Ostrug|Ostrog,50.3333,26.5167,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,58.5,15642,15642,3,Europe/Kyiv,FALSE,1804135367
+Rakhiv,Rakhiv,Rakhov|Rachov|Rakhovo,48.0500,24.2000,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,47.4,15536,15536,3,Europe/Kyiv,FALSE,1804590257
+Verkhnodniprovsk,Verkhnodniprovsk,Verkhne-Dnyeprovsk|Verkhnedneprovsk|Verkhn’odniprovs’k,48.6561,34.3283,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,63.1,15477,15477,3,Europe/Kyiv,FALSE,1804265302
+Ilovaisk,Ilovaisk,Ilovaiskaia|Ilovayskaya|Illovayskaya|Ilovays’k,47.9260,38.1940,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,26.6,15447,15447,3,Europe/Kyiv,FALSE,1804207514
+Bar,Bar,,49.0750,27.6761,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,45.5,15337,15337,3,Europe/Kyiv,FALSE,1804657070
+Ovruch,Ovruch,Owrutsch,51.3244,28.8081,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,17.5,15250,15250,3,Europe/Kyiv,FALSE,1804670823
+Chervonopartyzansk,Chervonopartyzansk,Chervonopartizansk|Chervonopartzansk|Krasnopartizanskiy|Krasnopartizansk|Chervonopartyzans’k,48.0833,39.7833,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,773.3,15218,15218,3,Europe/Kyiv,FALSE,1804816840
+Putyvl,Putyvl,Putivl’,51.3167,33.8667,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,23.9,15100,15100,3,Europe/Kyiv,FALSE,1804280760
+Burshtyn,Burshtyn,Burstron|Bursztyn,49.2583,24.6278,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,87.8,15039,15039,3,Europe/Kyiv,FALSE,1804941166
+Novyi Buh,Novyi Buh,Nowyi Bug|Novy Bug|Novyy Buh|Novo Bug|Novyy Bug|Novi Bug,47.6833,32.5000,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,24.2,15003,15003,3,Europe/Kyiv,FALSE,1804139918
+Pyryatyn,Pyryatyn,Piryatin|Pyryatin,50.2500,32.5333,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,34.5,14988,14988,3,Europe/Kyiv,FALSE,1804468272
+Krasnohorivka,Krasnohorivka,Krasnogorowka|Krasnogorovka,48.0067,37.5128,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.2,14917,14917,3,Europe/Kyiv,FALSE,1804827162
+Mykolaiv,Mykolaiv,Mikolayuv|Mikołajów|Mikotajów|Nikolayev|Mykolayiv,49.5247,23.9789,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,136.9,14915,14915,3,Europe/Kyiv,TRUE,1804613053
+Bohodukhiv,Bohodukhiv,Bogodukhov|Bogoduchow|Bododukhov,50.1617,35.5256,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,31.8,14882,14882,3,Europe/Kyiv,FALSE,1804919140
+Vuhledar,Vuhledar,Ugledar,47.7792,37.2483,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,14822,14822,3,Europe/Kyiv,FALSE,1804709738
+Ochakiv,Ochakiv,Ochakov|Otschakow,46.6186,31.5392,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,11.8,14705,14705,3,Europe/Kyiv,FALSE,1804376560
+Bilozerske,Bilozerske,Belozërskoye|Bilozers’ke,48.8667,37.1333,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,15.9,14634,14634,3,Europe/Kyiv,FALSE,1804777830
+Stanytsia Luhanska,Stanytsia Luhanska,Stanichno-Luganskoye|Stanichno Luganskaya|Luganskaya|Stanichnno-Luganskoye|Stanychno-Luhans’ke|Stanytsya Luhans’ka|Stanychno-Luhanske,48.6706,39.4722,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,25.2,14543,14543,3,Europe/Kyiv,FALSE,1804822467
+Tulchyn,Tulchyn,Tultschin|Tul’chyn|Tu’chin,48.6744,28.8497,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,47.9,14446,14446,3,Europe/Kyiv,FALSE,1804861116
+Zolote,Zolote,Zolotoye|Rudnik Zolotoy,48.6928,38.5194,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,2.3,14376,14376,3,Europe/Kyiv,FALSE,1804231300
+Artsyz,Artsyz,Arcis|Artsis|Archiz|Arsiz|Arsis|Arciz|Artsiz,45.9944,29.4322,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,30.5,14355,14355,3,Europe/Kyiv,FALSE,1804894941
+Vil’nyans’k,Vil'nyans'k,Sofiyevka|Chervonoarmeyskoye|Krasnoarmeyskoye|Vol’nyansk,47.9419,35.4281,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,39.8,14324,14324,3,Europe/Kyiv,FALSE,1804823848
+Sadovoye,Sadovoye,Shabolat|Shabalt|Shabalat|Şabolat,46.0500,30.3667,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,36.9,14321,14321,3,Europe/Kyiv,FALSE,1804829390
+Novohrodivka,Novohrodivka,Novogrodovka,48.2000,37.3394,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,22.1,14300,14300,3,Europe/Kyiv,FALSE,1804940594
+Mykolaivka,Mykolaivka,Nikolayevka|Mykolayivka,48.8521,37.7740,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1818.3,14210,14210,3,Europe/Kyiv,FALSE,1804602851
+Storozhynets,Storozhynets,Storozhinets|Storojinet|Storozhynets’,48.1619,25.7200,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,81.8,14138,14138,3,Europe/Kyiv,FALSE,1804218197
+Karlivka,Karlivka,Karlowka|Karlovka,49.4500,35.1333,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,36.9,14045,14045,3,Europe/Kyiv,FALSE,1804725163
+Haivoron,Haivoron,Hayvoron|Gayvoron|Gaivoron,48.3333,29.8667,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,55.0,14010,14010,3,Europe/Kyiv,FALSE,1804626693
+Nyzhnia Krynka,Nyzhnia Krynka,Nizhnyaya Krynka|Nizhnyaya Krinka|Nyzhnya Krynka,48.1144,38.1606,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,956.6,13927,13927,3,Europe/Kyiv,FALSE,1804441450
+Orikhiv,Orikhiv,Orechowka|Orechoff|Orekhov,47.5667,35.7833,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,26.6,13896,13896,3,Europe/Kyiv,FALSE,1804862588
+Zhashkiv,Zhashkiv,Zasashkhov|Zhashkov,49.2358,30.1111,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,35.3,13853,13853,3,Europe/Kyiv,FALSE,1804691013
+Zhovkva,Zhovkva,Zholkev|Żółkiew|Zhulkev|Nesterov|Zholkva,50.0550,23.9767,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,85.3,13852,13852,3,Europe/Kyiv,FALSE,1804176070
+Horodyshche,Horodyshche,Imeni G.I. Petrovskogo|Gorodishche|Posëlok Imeni G.I. Petrovskogo,49.2925,31.4581,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,42.9,13799,13799,3,Europe/Kyiv,FALSE,1804360634
+Kivertsi,Kivertsi,Kivertsy|Kivertse|Kiwerce,50.8331,25.4614,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,43.1,13798,13798,3,Europe/Kyiv,FALSE,1804112302
+Radomyshl,Radomyshl,Radomishl|Radomyshl’,50.4947,29.2333,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,28.2,13685,13685,3,Europe/Kyiv,FALSE,1804242306
+Slobozhanske,Slobozhanske,Komsomolske|Komsomol’skoye,49.5961,36.5269,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,50.0,13675,13675,3,Europe/Kyiv,TRUE,1804848548
+Bunhe,Bunhe,Yunokomunarivsk|Yunyy Kommunar|Yunykh Kommunarov|Yunokommunarskoye|Yunokommunarovskoye|Yunokommunarovsk|Imeni Yunykh Kommunarov,48.2206,38.2739,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,40.6,13633,13633,3,Europe/Kyiv,FALSE,1804980165
+Solonytsivka,Solonytsivka,Solonitsevka|Sinelitsovka|Sinolitsevka,49.9869,36.0619,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,13626,13626,3,Europe/Kyiv,FALSE,1804926194
+Talne,Talne,Tal’noye|Tal’ne,48.8886,30.7042,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,84.2,13558,13558,3,Europe/Kyiv,FALSE,1804616798
+Hola Prystan,Hola Prystan,Hola Prystan’|Golaya Pristan’,46.5167,32.5167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,24.3,13544,13544,3,Europe/Kyiv,FALSE,1804132171
+Kaharlyk,Kaharlyk,Kagorlyk|Kagarlyk,49.8522,30.8092,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,42.3,13544,13544,3,Europe/Kyiv,FALSE,1804596715
+Zbarazh,Zbarazh,Zbaraz,49.6667,25.7778,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,66.9,13346,13346,3,Europe/Kyiv,FALSE,1804980168
+Nosivka,Nosivka,Nosowka|Nosovka,50.9300,31.5806,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,5.0,13310,13310,3,Europe/Kyiv,FALSE,1804559608
+Berezne,Berezne,Berëzno,50.9967,26.7394,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,37.0,13285,13285,3,Europe/Kyiv,FALSE,1804802755
+Terebovlya,Terebovlya,Trembovlya|Trembowla|Trebozlya,49.3000,25.6903,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,12.4,13279,13279,3,Europe/Kyiv,FALSE,1804560427
+Borodyanka,Borodyanka,Borodjanka,50.6439,29.9339,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,64.2,13230,13230,3,Europe/Kyiv,FALSE,1804040478
+Slobozhanske,Slobozhanske,Yuvileine,48.5336,35.0781,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,65.8,13221,13221,3,Europe/Kyiv,FALSE,1804133428
+Apostolove,Apostolove,Apostolovo|Apostolowo,47.6594,33.7167,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,45.7,13069,13069,3,Europe/Kyiv,FALSE,1804423281
+Velykodolynske,Velykodolynske,Velikodolinskoye|Gross-Libental’|Gros-Libental|Spartakovka|Velykodolyns’ke|Bol’shaya Akkarzha,46.3447,30.5783,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,127.1,13036,13036,3,Europe/Kyiv,FALSE,1804355288
+Tetiiv,Tetiiv,Tetiyev|Tetiyiv,49.3708,29.6900,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,42.1,13015,13015,3,Europe/Kyiv,FALSE,1804600319
+Kalush,Kalush,Katusz|Kałusz,49.0442,24.3597,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,2.0,12873,12873,3,Europe/Kyiv,FALSE,1804375295
+Antonivka,Antonivka,Antonovka,46.6808,32.7358,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,2743.3,12812,12812,2,Europe/Kyiv,FALSE,1804356221
+Hulyaypole,Hulyaypole,Gulyai Pole|Gulyaypole|Guljai-Pole,47.6500,36.2667,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,18.6,12786,12786,3,Europe/Kyiv,FALSE,1804759589
+Yavoriv,Yavoriv,Yavoruv|Yavorov|Jaworów,49.9469,23.3931,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,86.1,12785,12785,3,Europe/Kyiv,FALSE,1804586607
+Perehinske,Perehinske,Pereginsko|Prekhin’sko|Perekhin’sko|Perehińsko|Perekhinskoye|Perechińsko|Perehins’ke|Pereginskoye,48.8100,24.1900,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,54.6,12762,12762,3,Europe/Kyiv,FALSE,1804617617
+Khorol,Khorol,Khorol,49.7667,33.2667,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,30.6,12720,12720,3,Europe/Kyiv,FALSE,1804292263
+Hvardiiske,Hvardiiske,Hvardiys’ke|Gvardeyskoye|Spat,45.1000,34.0000,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,93.1,12711,12711,3,Europe/Simferopol,FALSE,1804124377
+Zelenodolsk,Zelenodolsk,Zelenodol’s’k|Zelënodol’sk,47.5658,33.6464,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,45.7,12692,12692,3,Europe/Kyiv,FALSE,1804394068
+Novhorod-Siverskyi,Novhorod-Siverskyi,Novgorod-Seversk|Novogorod-Severskiy|Nowgorod Sewerski|Novhorod-Sivers’kyy|Novgorod-Severskiy,51.9972,33.2667,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,13.3,12647,12647,3,Europe/Kyiv,FALSE,1804704468
+Petrovske,Petrovske,Imeni Petrovskogo|Shterovskiy Zavod Imeni Petrovskogo|Petrovskoye|Petrovs’ke,48.2833,38.8833,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,270.0,12642,12642,3,Europe/Kyiv,FALSE,1804450037
+Shchastia,Shchastia,Schast’ye|Shchastya,48.7333,39.2333,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,25.2,12629,12629,3,Europe/Kyiv,FALSE,1804786776
+Vasylivka,Vasylivka,Vasil’yevka|Vasilevka,47.4431,35.2819,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,47.2,12567,12567,3,Europe/Kyiv,FALSE,1804609243
+Prymorskyi,Prymorskyi,Primorskiy|Prymors’kyy,45.1167,35.4806,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,406.3,12560,12560,3,Europe/Simferopol,FALSE,1804551387
+Buchach,Buchach,Buczacz|Bugach,49.0833,25.4000,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,77.1,12511,12511,3,Europe/Kyiv,FALSE,1804566704
+Rozhyshche,Rozhyshche,Rozyszcze|Rozhishche,50.9131,25.2700,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,40.8,12483,12483,3,Europe/Kyiv,FALSE,1804390315
+Kamin-Kashyrskyi,Kamin-Kashyrskyi,Kamień Koszyrski|Kamen’ Koshirski|Kamen-Koschyrski|Kamen’-Kashirsk|Kamen’-Koshirskiy|Kamen’-Kashirskiy|Kamin’-Kashyrs’kyy,51.6200,24.9653,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,minor,36.7,12477,12477,3,Europe/Kyiv,FALSE,1804718360
+Biliaivka,Biliaivka,Bilyayivka|Belyayevka,46.4828,30.2014,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,67.7,12355,12355,3,Europe/Kyiv,FALSE,1804867512
+Chasiv Yar,Chasiv Yar,Chasov Yar,48.5884,37.8359,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,972.7,12250,12250,3,Europe/Kyiv,FALSE,1804707989
+Bershad,Bershad,Bershad’|Berschad,48.3728,29.5325,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,44.8,12205,12205,3,Europe/Kyiv,FALSE,1804698312
+Koriukivka,Koriukivka,Karyukovka|Koryukivka|Koryukovka,51.7833,32.2500,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,17.5,12202,12202,3,Europe/Kyiv,FALSE,1804903304
+Hnivan,Hnivan,Hnivan’|Gnivan’,49.0911,28.3486,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,45.2,12191,12191,3,Europe/Kyiv,FALSE,1804579295
+Bashtanka,Bashtanka,,47.4056,32.4375,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,21.6,12180,12180,3,Europe/Kyiv,FALSE,1804288779
+Kamianka-Dniprovska,Kamianka-Dniprovska,Kamenka-Na-Dnepre|Kamenka|Kam”yanka-Dniprovs’ka|Kamenka-Dneprovskaya,47.4628,34.4061,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,39.8,12117,12117,3,Europe/Kyiv,FALSE,1804716389
+Uzyn,Uzyn,Uzin,49.8242,30.4425,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,36.4,12077,12077,3,Europe/Kyiv,FALSE,1804493270
+Snihurivka,Snihurivka,Snegirëvka|Smigirevk|Snigirëvka,47.0736,32.8000,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,27.6,12045,12045,3,Europe/Kyiv,FALSE,1804969781
+Bilovodsk,Bilovodsk,Belowodskoje|Belovodsk|Bilovods’k,49.2000,39.5756,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,14.0,12000,12000,3,Europe/Kyiv,FALSE,1804703237
+Mykhailivka,Mykhailivka,Mykhaylivka|Mikhaylovka,47.2694,35.2222,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,25.6,11949,11949,3,Europe/Kyiv,FALSE,1804473758
+Zhdanivka,Zhdanivka,Zhdanovka|Zhdanov,48.1375,38.2608,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1103.2,11913,11913,3,Europe/Kyiv,FALSE,1804790480
+Horodnia,Horodnia,Gorodnya|Horodnya,51.8931,31.5947,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,16.2,11852,11852,3,Europe/Kyiv,FALSE,1804000009
+Myrne,Myrne,Mirnoye|Mirnyy,47.4322,37.7297,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,20.9,11845,11845,3,Europe/Kyiv,TRUE,1804004439
+Ukrainsk,Ukrainsk,Lisovka|Lesovka|Koloniya Lisovka|Ukrayins’k|Ukrainsk,48.1000,37.3833,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.1,11824,11824,3,Europe/Kyiv,FALSE,1804349001
+Baranivka,Baranivka,Baranovka|Baranowka,50.3000,27.6667,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,37.0,11765,11765,3,Europe/Kyiv,FALSE,1804259330
+Bilopillya,Bilopillya,Belopol’ye|Belopolje,51.1458,34.3117,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,32.3,11743,11743,3,Europe/Kyiv,FALSE,1804185866
+Kamianka,Kamianka,Kamenka|Kamenka-Shevchenkovskaya|Kam”yanka|Kamianka,49.0333,32.1000,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,77.1,11741,11741,3,Europe/Kyiv,FALSE,1804999372
+Ovidiopol,Ovidiopol,Owidiopol|Ovidiopol’,46.2447,30.4447,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,127.1,11741,11741,3,Europe/Kyiv,FALSE,1804919289
+Vasylkivka,Vasylkivka,Vasyl’kivka|Wassilkowka|Vasil’kovka,48.2083,36.0294,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,24.5,11738,11738,3,Europe/Kyiv,FALSE,1804783509
+Mala Vyska,Mala Vyska,Malaya Vys’ka|Malaya Viski|Malaya Viska,48.6500,31.6333,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,33.3,11614,11614,3,Europe/Kyiv,FALSE,1804230769
+Kalmiuske,Kalmiuske,Ploshchadka|Karakubstroyevo|Karakubstroy|Komsomolske|Komsomol’skoye,47.6667,38.0667,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,37.6,11603,11603,3,Europe/Kyiv,FALSE,1804369480
+Nova Odesa,Nova Odesa,Novaya Odessa|Fedorovka,47.3097,31.7792,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,22.7,11510,11510,3,Europe/Kyiv,FALSE,1804621361
+Liubashivka,Liubashivka,Lyubashivka|Lyubashëvka,47.8358,30.2642,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,28.0,11500,11500,3,Europe/Kyiv,FALSE,1804793583
+Lokhvytsya,Lokhvytsya,Lochwiza|Lokhvytsa|Lokhvitsa,50.3598,33.2723,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,31.8,11485,11485,3,Europe/Kyiv,FALSE,1804270399
+Yakymivka,Yakymivka,Akimowka|Akimovka,46.7000,35.1667,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,27.0,11481,11481,3,Europe/Kyiv,FALSE,1804110060
+Myronivka,Myronivka,Mironovka,49.6500,30.9833,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,34.9,11478,11478,3,Europe/Kyiv,FALSE,1804440436
+Vakhrusheve,Vakhrusheve,Vakhrushevo,48.1667,38.8333,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,301.3,11421,11421,3,Europe/Kyiv,FALSE,1804986291
+Nemyriv,Nemyriv,Nemirov,48.9667,28.8500,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,35.4,11421,11421,3,Europe/Kyiv,FALSE,1804059627
+Hirnyk,Hirnyk,Sotsgorodok|Gornyak,48.0500,37.3667,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,2231.0,11378,11378,2,Europe/Kyiv,FALSE,1804281966
+Zimna Voda,Zimna Voda,Zimna Woda,49.8222,23.9028,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,121.5,11306,11306,3,Europe/Kyiv,FALSE,1804400575
+Svitlodarsk,Svitlodarsk,Svetlodarskoye|Svitlodars’k,48.4333,38.2167,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,24.2,11281,11281,3,Europe/Kyiv,FALSE,1804819736
+Baryshivka,Baryshivka,Lipnyaki|Baryshevka,50.3539,31.3167,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,50.5,11178,11178,3,Europe/Kyiv,FALSE,1804157251
+Prymorsk,Prymorsk,Prymors’k|Nogaisk|Primorskoye|Primorsk|Nogaysk,46.7333,36.3500,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,22.5,11157,11157,3,Europe/Kyiv,FALSE,1804278318
+Kurman,Kurman,Krasnogvardeyskoye|Krasnohvardiys’ke|Kurman-Kemeltschin|Antonovka|Kurman-Kemel’chi,45.4947,34.2947,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,45.5,11134,11134,3,Europe/Simferopol,FALSE,1804051281
+Illintsi,Illintsi,Il’intsy,49.1056,29.2089,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,40.2,11095,11095,3,Europe/Kyiv,FALSE,1804230677
+Novoazovsk,Novoazovsk,Nowo-Nikolajewskaja|Novonikolayevskaya|Novoazovskoye|Budyenovka|Budyanovka|Budenovka|Novoazovs’k|Novoazovsk|Budennowka|Budënnovka,47.1117,38.0825,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,35.5,11051,11051,3,Europe/Kyiv,FALSE,1804314673
+Chornomorske,Chornomorske,Chernomorskoye|Chornomors’ke|Ak-Mechet’,45.5019,32.7025,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,22.5,11039,11039,3,Europe/Simferopol,FALSE,1804755639
+Zhydachiv,Zhydachiv,Zhidechuv|Żydaczów|Zhydachuv|Zhidachev|Zhidachov,49.3850,24.1444,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,64.1,10962,10962,3,Europe/Kyiv,FALSE,1804137545
+Rokytne,Rokytne,Rakitnoye|Rakitno,49.6667,30.4833,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,36.7,10938,10938,3,Europe/Kyiv,FALSE,1804730774
+Mena,Mena,,51.5167,32.2167,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,24.8,10935,10935,3,Europe/Kyiv,FALSE,1804891578
+Bobrynets,Bobrynets,Bobrynets’|Bobrinets|Bobrinez,48.0578,32.1581,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,16.9,10898,10898,3,Europe/Kyiv,FALSE,1804282287
+Bobrovytsia,Bobrovytsia,Bobrovisty|Bobrovitsa|Bobrovitsy|Bobrovytsya,50.7450,31.3869,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,22.0,10894,10894,3,Europe/Kyiv,TRUE,1804897269
+Nova Vodolaha,Nova Vodolaha,Novaya Vodolaga,49.7192,35.8761,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,25.2,10881,10881,3,Europe/Kyiv,FALSE,1804657164
+Siversk,Siversk,Yama|Seversk|Sivers’k,48.8631,38.0972,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,24.2,10875,10875,3,Europe/Kyiv,FALSE,1804761281
+Tatarbunary,Tatarbunary,Tetereshti|Tatar Bunar,45.8403,29.6125,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,30.9,10836,10836,3,Europe/Kyiv,FALSE,1804771459
+Snovsk,Snovsk,Shchors|Shchorsk|Snovsk,51.8203,31.9508,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,16.9,10825,10825,3,Europe/Kyiv,FALSE,1804059681
+Manevychi,Manevychi,Manevichi|Maneviche,51.2914,25.5331,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,23.9,10825,10825,3,Europe/Kyiv,FALSE,1804717717
+Borshchiv,Borshchiv,Bershchev|Borshchov|Borszczów|Berchev|Borshchev|Borshchuv,48.8028,26.0364,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,40.6,10803,10803,3,Europe/Kyiv,FALSE,1804384535
+Khrystynivka,Khrystynivka,Christinowka|Khristinivka|Khristinovka|Kristinovka,48.8000,29.9667,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,57.2,10762,10762,3,Europe/Kyiv,FALSE,1804529706
+Novomyrhorod,Novomyrhorod,Novomirgorod,48.7833,31.6500,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,24.4,10715,10715,3,Europe/Kyiv,FALSE,1804843352
+Ichnia,Ichnia,Itschnja|Malaya Ichnya|Ichnya,50.8500,32.4000,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,18.1,10709,10709,3,Europe/Kyiv,FALSE,1804909893
+Yampil,Yampil,Yampil’|Yampol’,48.2400,28.2783,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,49.7,10679,10679,3,Europe/Kyiv,FALSE,1804272878
+Novotroitske,Novotroitske,Novotroyits’ke|Novotroitskoye,46.3500,34.3333,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,18.9,10647,10647,3,Europe/Kyiv,FALSE,1804849889
+Hrebinka,Hrebinka,Grebënka|Grebenkovskiy,50.1167,32.4167,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,36.3,10645,10645,3,Europe/Kyiv,FALSE,1804281882
+Lymanka,Lymanka,Mizikevicha|Mizikevycha,46.3883,30.6808,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,7930.1,10590,10590,2,Europe/Kyiv,FALSE,1804461178
+Soledar,Soledar,Imeni Karla Libknekhta|Karlo-Libknekhtovsk|Karlo-Libknekhtovo|Karla Libknekhta|Poselok,48.6953,38.0675,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,743.5,10490,10490,3,Europe/Kyiv,FALSE,1804267090
+Bolekhiv,Bolekhiv,Bolekhuv|Bolechów|Bolekhov,49.0669,23.8514,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,34.9,10476,10476,3,Europe/Kyiv,FALSE,1804748946
+Novodnistrovsk,Novodnistrovsk,Novodnistrovs’k|Novodnestrovsk,48.5778,27.4414,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,84.6,10463,10463,3,Europe/Kyiv,FALSE,1804548880
+Ivankiv,Ivankiv,Ivankov|Iwankow,50.9328,29.9047,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,8.5,10439,10439,3,Europe/Kyiv,FALSE,1804378280
+Kamianka-Buzka,Kamianka-Buzka,Kam”yanka-Buz’ka|Kamenka-Bugskaya|Kamenka-Strumilovskaya|Kamionka Strumitowa|Kamionka|Kamenka|Kamenka Strumilova,50.1000,24.3500,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,62.5,10397,10397,3,Europe/Kyiv,FALSE,1804465663
+Tavriisk,Tavriisk,Tavriys’k,46.7500,33.4167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,30.2,10360,10360,3,Europe/Kyiv,FALSE,1804214941
+Krasnoilsk,Krasnoilsk,Krasnoil’sk|Krasnoyil’s’k|Krasna Il’ski,48.0147,25.5872,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,81.8,10351,10351,3,Europe/Kyiv,FALSE,1804367722
+Sartana,Sartana,Primorskoye,47.1667,37.6833,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1533.3,10350,10350,3,Europe/Kyiv,FALSE,1804984978
+Letychiv,Letychiv,Letichev,49.3833,27.6167,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,27.6,10335,10335,3,Europe/Kyiv,FALSE,1804357044
+Haspra,Haspra,Gaspra,44.4361,34.1106,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,757.2,10310,10310,3,Europe/Simferopol,FALSE,1804507625
+Lyuboml’,Lyuboml',Luboml|Lyubomi,51.2236,24.0328,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,25.2,10295,10295,3,Europe/Kyiv,FALSE,1804570446
+Borzna,Borzna,Borsna,51.2531,32.4292,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,17.5,10205,10205,3,Europe/Kyiv,FALSE,1804695729
+Shyroke,Shyroke,Shirokoye,47.6844,33.2728,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,20.9,10202,10202,3,Europe/Kyiv,FALSE,1804425378
+Inkerman,Inkerman,Novyye Shuli|Belokamensk|Inkyerman,44.6000,33.6000,Ukraine,UA,UKR,"Sevastopol, Misto","Sevastopol, Misto",UA-40,city,,499.0,10196,10196,3,Europe/Simferopol,FALSE,1804447396
+Tarashcha,Tarashcha,,49.5500,30.5000,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,34.6,10195,10195,3,Europe/Kyiv,FALSE,1804874474
+Radyvyliv,Radyvyliv,Radzivilluv|Chervonoarmeysk|Radzivilov|Chervonoarmiys’k,50.1286,25.2644,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,47.7,10190,10190,3,Europe/Kyiv,FALSE,1804330249
+Korolevo,Korolevo,Kiralkhaza|Kirakhaza|Koroleve|Kralovo nad Tisou|Királyháza|Kralovo na Tison,48.1500,23.1333,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,187.2,10165,10165,3,Europe/Kyiv,FALSE,1804136569
+Teplodar,Teplodar,,46.5036,30.3244,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,10148,10148,3,Europe/Kyiv,FALSE,1804955869
+Vysokyi,Vysokyi,Vysokiy|Vysokyy,49.8875,36.1211,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,10045,10045,3,Europe/Kyiv,FALSE,1804461053
+Olevsk,Olevsk,Olevs’k|Olevsk,51.2167,27.6500,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,17.5,10032,10032,3,Europe/Kyiv,FALSE,1804287361
+Novooleksiivka,Novooleksiivka,Novyy Gorodok|Novo-Ukrainka|Novooleksiyivka|Novaya Alekseyevka|Nowoaleksejewka|Novoalekseyevka,46.2261,34.6417,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,18.9,10026,10026,3,Europe/Kyiv,FALSE,1804233881
+Ratne,Ratne,Ratno|Rafno,51.6500,24.5333,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,37.9,9955,9955,3,Europe/Kyiv,FALSE,1804150947
+Verkhivtseve,Verkhivtseve,Verkovtsevo|Verkhovtsevo,48.4853,34.2539,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,9948,9948,3,Europe/Kyiv,FALSE,1804209032
+Sniatyn,Sniatyn,Snyatin|Snyatyn|Śniatyn,48.4500,25.5667,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,281.7,9942,9942,3,Europe/Kyiv,FALSE,1804025263
+Dubove,Dubove,Dubovoye,48.1861,23.8839,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,93.8,9938,9938,3,Europe/Kyiv,FALSE,1804000226
+Novgorodskoye,Novgorodskoye,Novgorods’ke|N’yu-York|N’yu-Iork,48.3319,37.8364,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,647.4,9917,9917,3,Europe/Kyiv,FALSE,1804602556
+Pokrovske,Pokrovske,Pokrovka|Pokrovskoye,47.9825,36.2339,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,27.6,9910,9910,3,Europe/Kyiv,FALSE,1804930095
+Zinkiv,Zinkiv,Zen’kov,50.2103,34.3581,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,23.6,9856,9856,3,Europe/Kyiv,FALSE,1804890384
+Rodynske,Rodynske,Khutor Liman|Liman|Krasnyy Liman|Rodinskoye|Rodyns’ke,48.3531,37.2100,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,21.1,9850,9850,3,Europe/Kyiv,FALSE,1804843183
+Berezivka,Berezivka,Beresowka|Beresovka|Berëzovka,47.2039,30.9128,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,19.6,9845,9845,3,Europe/Kyiv,FALSE,1804490359
+Kobeliaky,Kobeliaky,Kobelyaki|Kobelyaky,49.1333,34.2000,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,24.5,9841,9841,3,Europe/Kyiv,FALSE,1804297105
+Makariv,Makariv,Makarov,50.4597,29.8147,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,25.5,9836,9836,3,Europe/Kyiv,FALSE,1804794239
+Sieverne,Sieverne,Severnoye|Syeverne,48.0858,38.6942,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,426.9,9832,9832,3,Europe/Kyiv,FALSE,1804225954
+Derazhnia,Derazhnia,Derazhnva|Derazhnya,49.2667,27.4333,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,33.8,9772,9772,3,Europe/Kyiv,FALSE,1804230789
+Dubliany,Dubliany,Dublany|Dublyany,49.8961,24.0925,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,85.3,9748,9748,3,Europe/Kyiv,FALSE,1804803324
+Radekhiv,Radekhiv,Radziechów|Radzekhov|Radzekhuv|Radekhov,50.2828,24.6375,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,40.5,9746,9746,3,Europe/Kyiv,FALSE,1804200206
+Vesele,Vesele,Vesëloye,47.0158,34.9122,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,17.6,9719,9719,3,Europe/Kyiv,FALSE,1804322503
+Pereshchepyne,Pereshchepyne,Pereshchepino|Pereshepino,49.0167,35.3500,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,9639,9639,3,Europe/Kyiv,FALSE,1804752457
+Izium,Izium,Izyum,49.2128,37.2569,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,22.0,9609,9609,3,Europe/Kyiv,FALSE,1804385952
+Sofiivka,Sofiivka,Rudnik Imeni Karla Marksa|Karlo-Marksovo|Karla Marksa|Karl Marks|Imeni Karla Marksa|Karlo-Marksove,48.2603,38.1594,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,533.1,9597,9597,3,Europe/Kyiv,FALSE,1804009995
+Mizhhiria,Mizhhiria,Mizhhir”ya|Mezhgor’ye|Volovo|Volovets|Volové,48.5286,23.5019,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,40.7,9567,9567,3,Europe/Kyiv,FALSE,1804490087
+Bilozerka,Bilozerka,Belozërka,46.6278,32.4431,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,48.5,9565,9565,3,Europe/Kyiv,FALSE,1804047570
+Zymohiria,Zymohiria,Cherkasskoye|Zimogor’ye|Zymohir”ya,48.5819,38.9319,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,44.4,9557,9557,3,Europe/Kyiv,FALSE,1804627347
+Velyka Dymerka,Velyka Dymerka,Bolschaja Bymerka|Belaya Dymerka|Dymerka|Dimirka|Bol’shaya Dymerka|Velikaya Dymërka,50.5928,30.9103,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,51.4,9554,9554,3,Europe/Kyiv,FALSE,1804901044
+Chaplynka,Chaplynka,Tschaplinka|Chaplinka,46.3644,33.5331,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,21.4,9539,9539,3,Europe/Kyiv,FALSE,1804411904
+Cherniakhiv,Cherniakhiv,Chernyakhov|Chernyakhiv,50.4550,28.6653,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,32.5,9479,9479,3,Europe/Kyiv,FALSE,1804141679
+Syurte,Syurte,Siurte|Surty|Szurte|Strumkivka|Strumkovka,48.5033,22.2319,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,64.3,9460,9460,4,Europe/Kyiv,FALSE,1804433014
+Nyzhnohirskyi,Nyzhnohirskyi,Sseitler|Seitler|Seytler|Nizhnegorskiy|Nyzhn’ohirs’kyy,45.4436,34.7406,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,47.7,9460,9460,3,Europe/Simferopol,FALSE,1804665220
+Bezliudivka,Bezliudivka,Bezlyudovka|Bezlyudivka,49.8692,36.2697,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,9436,9436,3,Europe/Kyiv,FALSE,1804332545
+Dubrovytsya,Dubrovytsya,Dombrovitsa|Dąbrowica|Dubrovitsa,51.5667,26.5667,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,25.9,9424,9424,3,Europe/Kyiv,FALSE,1804570134
+Pokotylivka,Pokotylivka,Pokotilovka|Pokatilovka,49.9114,36.1786,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,9394,9394,3,Europe/Kyiv,FALSE,1804790760
+Novopskov,Novopskov,,49.5383,39.1019,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,20.9,9392,9392,3,Europe/Kyiv,FALSE,1804845415
+Dymka,Dymka,,48.0972,25.9753,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,110.9,9376,9376,3,Europe/Kyiv,FALSE,1804264620
+Pustomyty,Pustomyty,,49.7139,23.9108,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,121.5,9372,9372,3,Europe/Kyiv,FALSE,1804234858
+Tysmenytsia,Tysmenytsia,Tysmenitsa|Tyśmienica|Tysmenytsya,48.9008,24.8492,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,108.3,9287,9287,3,Europe/Kyiv,FALSE,1804289789
+Teplohirsk,Teplohirsk,Irmino|Teplogorsk|Teplohirs’k,48.5967,38.5828,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,874.3,9270,9270,3,Europe/Kyiv,FALSE,1804759308
+Khotyn,Khotyn,Hotin|Khotin,48.5069,26.4903,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,84.7,9262,9262,3,Europe/Kyiv,FALSE,1804000263
+Velykyi Bychkiv,Velykyi Bychkiv,Velyikyy Bychkiv|Velyikyiy Bychkiv|Nagy Bocska|Velykyy Bychkiv|Velikiy Bychkov|Velikiy Bochkov|Nad Bochko|Novyy Boksko|Bochkuv|Velký Bočkov|Veliký Bočkov|Bockov Velke|Vel Bockov,47.9667,24.0150,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,47.4,9255,9255,3,Europe/Kyiv,FALSE,1804273540
+Smoline,Smoline,Smolino,48.6017,31.2947,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,33.3,9243,9243,3,Europe/Kyiv,FALSE,1804267976
+Reshetylivka,Reshetylivka,Reshetilovka,49.5667,34.0667,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,25.2,9240,9240,3,Europe/Kyiv,FALSE,1804143252
+Hlyboka,Hlyboka,Glyboka|Khliboka|Glybokaya|Glibookaya|Adynkata|Adancata,48.0833,25.9333,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,110.9,9226,9226,3,Europe/Kyiv,FALSE,1804213511
+Kalanchak,Kalanchak,,46.2522,33.2906,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,26.6,9224,9224,3,Europe/Kyiv,FALSE,1804573757
+Pohrebyshche,Pohrebyshche,Pogrebishche|Pogrebishchenskiy|Pogrebischtsche,49.4833,29.2667,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,23.8,9209,9209,3,Europe/Kyiv,FALSE,1804131540
+Obukhivka,Obukhivka,Kirovske|Kirovskoye|Sugakovka|Sugakovskiye|Suchakovskiye|Kirovskiy|Obukhovka|Obukhovskiye,48.5433,34.8589,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,65.8,9175,9175,3,Europe/Kyiv,FALSE,1804260181
+Irshava,Irshava,Iršava|Ilosva,48.3000,23.0500,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,105.0,9163,9163,3,Europe/Kyiv,FALSE,1804188148
+Stryzhavka,Stryzhavka,Strizhavka,49.3103,28.4808,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,88.3,9137,9137,3,Europe/Kyiv,FALSE,1804715447
+Bilenke,Bilenke,Belen’koye|Bilen’ke,48.7664,37.6314,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1170.4,9136,9136,3,Europe/Kyiv,FALSE,1804319022
+Hurzuf,Hurzuf,Gurzuf|Gursuf,44.5528,34.2875,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,1843.0,9117,9117,3,Europe/Simferopol,FALSE,1804682977
+Horodenka,Horodenka,Gorodënka,48.6675,25.5003,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,162.7,9113,9113,3,Europe/Kyiv,FALSE,1804663549
+Hirske,Hirske,Gorskoye|Hirs’ke,48.7519,38.4950,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,0.5,9100,9100,3,Europe/Kyiv,FALSE,1804087292
+Marinka,Marinka,Mar’inka|Mareyka|Mar”yinka,47.9419,37.5036,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.2,9089,9089,3,Europe/Kyiv,FALSE,1804456734
+Velyki Luchky,Velyki Luchky,Velikiye Luchki,48.4167,22.5667,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,104.0,9028,9028,3,Europe/Kyiv,FALSE,1804653748
+Pivnichne,Pivnichne,Kirove|Kirovo|Imeni Kirova|Severnyy,48.3886,37.9067,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,647.4,9024,9024,3,Europe/Kyiv,FALSE,1804162324
+Zalishchyky,Zalishchyky,Zaleshchyki|Zaleszczyki|Zaleshiki|Zaleshchiki|Zaleshchik|Zalishchiki,48.6500,25.7333,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,73.2,9021,9021,3,Europe/Kyiv,FALSE,1804632373
+Novyi Svit,Novyi Svit,Novyy Svet|Novy Svet|Novyy Svit,47.8167,38.0333,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,37.6,8996,8996,3,Europe/Kyiv,TRUE,1804652503
+Pomichna,Pomichna,Pomoshnaya,48.2500,31.4167,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,23.9,8994,8994,3,Europe/Kyiv,FALSE,1804146388
+Kozova,Kozova,Kozowa|Kozovo,49.4319,25.1594,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,52.8,8989,8989,3,Europe/Kyiv,FALSE,1804829184
+Uspenka,Uspenka,Uzbenka|Uspenskoye,48.3939,39.1536,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,59.2,8974,8974,3,Europe/Kyiv,FALSE,1804689890
+Hlobyne,Hlobyne,Globino,49.3903,33.2503,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,23.6,8955,8955,3,Europe/Kyiv,FALSE,1804876487
+Yasenivskyi,Yasenivskyi,Yasenovskiy|Yasenivs’kyy,48.1606,39.2175,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,743.8,8943,8943,3,Europe/Kyiv,FALSE,1804630706
+Monastyryshche,Monastyryshche,Monastyrishche,48.9900,29.8011,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,50.8,8925,8925,3,Europe/Kyiv,FALSE,1804117787
+Horokhiv,Horokhiv,Horochów|Gorokhuv|Gorokhov,50.4994,24.7650,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,43.5,8925,8925,3,Europe/Kyiv,FALSE,1804715823
+Tiachiv,Tiachiv,Tachevo|Tyachiv|Tyachevo|Tačovo|Tyachev,48.0114,23.5722,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,93.8,8887,8887,3,Europe/Kyiv,FALSE,1804591278
+Tlumach,Tlumach,Tłumacz,48.8667,25.0000,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,69.1,8886,8886,3,Europe/Kyiv,FALSE,1804009591
+Ilarionove,Ilarionove,Illarionovo,48.4092,35.2753,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,65.8,8854,8854,3,Europe/Kyiv,FALSE,1804506768
+Hlevakha,Hlevakha,Glevakha,50.2622,30.2894,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,43.9,8849,8849,3,Europe/Kyiv,FALSE,1804118267
+Kryzhopil,Kryzhopil,Kryzhopol’|Kryzhopil’|Krizhopol’,48.3842,28.8625,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,34.8,8788,8788,3,Europe/Kyiv,FALSE,1804820411
+Volodymyrets,Volodymyrets,Volodymerets’|Włodzimierzec|Vladimirei|Vlodzimezhets|Vladimirets,51.4208,26.1450,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,33.5,8699,8699,3,Europe/Kyiv,FALSE,1804152212
+Barvynkove,Barvynkove,Barwenkowa|Barvenkova|Barvenkovo|Barvinkove,48.9000,37.0167,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,14.6,8660,8660,3,Europe/Kyiv,FALSE,1804415450
+Chyhyryn,Chyhyryn,Tchighin|Chigirin,49.0772,32.6492,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,minor,24.6,8658,8658,3,Europe/Kyiv,FALSE,1804035691
+Sokyriany,Sokyriany,Sekuryany|Sekureni|Sekiryany|Sekuren’|Secureni Târg|Secureni|Sokiryany|Sokyryany,48.4500,27.3667,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,84.6,8652,8652,3,Europe/Kyiv,FALSE,1804903949
+Solotvyno,Solotvyno,Solotvino|Solotvyna|Solotvina,47.9556,23.8711,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,93.8,8632,8632,3,Europe/Kyiv,FALSE,1804988039
+Chop,Chop,Csop|Csapi|Csap|Čop|Chap,48.4333,22.2000,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,95.7,8626,8626,3,Europe/Kyiv,FALSE,1804775994
+Rava-Rus’ka,Rava-Rus'ka,Rawa Ruska|Rava-Ruska|Rava-Russkaya,50.2250,23.6242,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,85.3,8586,8586,3,Europe/Kyiv,FALSE,1804385058
+Yasinia,Yasinia,Yasina|Jasińa|Kereshmeze|Yasinya,48.2728,24.3747,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,47.4,8579,8579,3,Europe/Kyiv,FALSE,1804338366
+Liubymivka,Liubymivka,Dzerzhinskiy|Dzerzhynskyi|Posëlok Imeni Dzerzhinskogo|Dzerzhinskiy Rudnik|Imeni Dzerzhinskogo|Dzerzhinskiy Rudnyak,48.0397,39.4400,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1000.2,8578,8578,3,Europe/Kyiv,FALSE,1804599581
+Masandra,Masandra,Massandra,44.5167,34.1833,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,757.2,8571,8571,3,Europe/Simferopol,FALSE,1804841893
+Bushtyno,Bushtyno,Bushtino|Buštino|Bushtina|Bushtyna,48.0536,23.4767,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,93.8,8562,8562,3,Europe/Kyiv,FALSE,1804233916
+Nerubaiske,Nerubaiske,Nerubays’ke|Nerubayskoye,46.5467,30.6306,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,8558,8558,4,Europe/Kyiv,FALSE,1804433440
+Dachne,Dachne,Hnylyakove|Gnilyakovo|Dachnoye,46.5775,30.5489,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,8549,8549,3,Europe/Kyiv,FALSE,1804516760
+Kosiv,Kosiv,Kosov|Kossuv|Kossow|Kosów|Kosuv,48.3150,25.0953,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,91.8,8522,8522,3,Europe/Kyiv,FALSE,1804417553
+Biloziria,Biloziria,Belozër’ye,49.3053,31.8922,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,49.5,8506,8506,3,Europe/Kyiv,FALSE,1804429067
+Kupiansk-Vuzlovyi,Kupiansk-Vuzlovyi,Kupyansk Uslovoi|Kupyansk-Uzlovoy|Kupyansk Uzlovoi|Kup”yans’k-Vuzlovyy,49.6567,37.6500,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,20.1,8492,8492,3,Europe/Kyiv,FALSE,1804642209
+Usatove,Usatove,Usatovo,46.5364,30.6567,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,8483,8483,3,Europe/Kyiv,FALSE,1804075505
+Buryn,Buryn,,51.1958,33.8267,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,19.8,8476,8476,3,Europe/Kyiv,FALSE,1804760252
+Donets,Donets,Chervonyi Donets|Chervonyy Donets|Krasnyy Donets|Chervono-Donetskiy,49.5083,36.5711,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,40.0,8450,8450,3,Europe/Kyiv,FALSE,1804825497
+Mlyniv,Mlyniv,Mlynuv|Mlinov,50.5139,25.6067,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,43.7,8446,8446,3,Europe/Kyiv,FALSE,1804903283
+Kodyma,Kodyma,Kodima,48.1000,29.1167,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,31.8,8404,8404,3,Europe/Kyiv,FALSE,1804511212
+Lanivtsi,Lanivtsi,Lanovtsy|Lanovtse|Lanavtse|Łanowce,49.8700,26.0800,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,43.5,8401,8401,3,Europe/Kyiv,TRUE,1804514545
+Deliatyn,Deliatyn,Delyatin|Delatyn|Delyatino|Dilyatyn|Delyatyn,48.5286,24.6236,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,8386,8386,3,Europe/Kyiv,FALSE,1804618455
+Andriivka,Andriivka,Andreyevka|Andriyivka,49.5347,36.6133,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,40.0,8372,8372,4,Europe/Kyiv,FALSE,1804348444
+Velyka Bilozerka,Velyka Bilozerka,Velikaya Belozërka|Bolschaja Beloserka|Bol’shaya Belozerka,47.2725,34.7008,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,15.3,8339,8339,3,Europe/Kyiv,FALSE,1804499955
+Andrushivka,Andrushivka,Andrushovka|Andrushevka|Andruschowka,50.0167,29.0167,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,33.5,8325,8325,3,Europe/Kyiv,FALSE,1804544646
+Vyshkovo,Vyshkovo,Vishkovo|Výškovo|Vyskovo nad Tisou|Viskava|Vyshkove,48.0289,23.4319,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,127.0,8288,8288,3,Europe/Kyiv,FALSE,1804538825
+Zolochiv,Zolochiv,Zolochev,50.2833,35.9700,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,23.9,8287,8287,3,Europe/Kyiv,FALSE,1804303157
+Ivanivka,Ivanivka,Malaya Ivanovka|Ivanovka,48.2325,38.9525,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,18.1,8243,8243,3,Europe/Kyiv,FALSE,1804758781
+Ruska Poliana,Ruska Poliana,Russkaya Polyana,49.4261,31.9148,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,67.7,8234,8234,4,Europe/Kyiv,FALSE,1804934350
+Mala Danylivka,Mala Danylivka,Mala Danylivka|Malaya Danilovka,50.0681,36.1647,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,8228,8228,3,Europe/Kyiv,FALSE,1804835147
+Bohorodchany,Bohorodchany,Bogorodchany|Bohorodczany,48.8081,24.5381,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,89.5,8222,8222,3,Europe/Kyiv,FALSE,1804626844
+Vovchansk,Vovchansk,Woltschansk|Vovchans’k|Volchansk,50.3003,36.9467,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,25.6,8191,8191,3,Europe/Kyiv,FALSE,1804820380
+Zavodske,Zavodske,Stalinskaya|Stalinka|Chervonozavodske|Chervonozavodskoye,50.3833,33.3833,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,31.8,8180,8180,3,Europe/Kyiv,FALSE,1804705298
+Novi Sanzhary,Novi Sanzhary,Novyye Senzhary|Novi Senzhari|Novyye Sanzhary|Novo-Senzhary,49.3333,34.3139,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,24.8,8179,8179,3,Europe/Kyiv,FALSE,1804616750
+Krasnopillya,Krasnopillya,Krasnopol’ye|Krasnopole,50.7732,35.2717,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,20.9,8165,8165,3,Europe/Kyiv,FALSE,1804425252
+Lysianka,Lysianka,Lisyanko|Lisyanka|Lysyanka,49.2569,30.8233,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,30.6,8161,8161,3,Europe/Kyiv,FALSE,1804648354
+Manhush,Manhush,Pershotravnevoye|Pershotravneve|Mangush|Pervomayskoye|Pershotravnevyy,47.0500,37.3000,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,0.9,8127,8127,3,Europe/Kyiv,FALSE,1804606780
+Tarutyne,Tarutyne,Tarutinskaya|Tarutino|Anchokrak,46.1833,29.1500,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,20.3,8125,8125,3,Europe/Kyiv,FALSE,1804047341
+Kvasyliv,Kvasyliv,Kvasilov,50.5569,26.2675,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,74.7,8117,8117,3,Europe/Kyiv,FALSE,1804363906
+Yaremche,Yaremche,Jaremcze|Yaremcha,48.4603,24.5586,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,12.3,8094,8094,3,Europe/Kyiv,FALSE,1804382351
+Ananiv,Ananiv,Ananjew|Anan’yiv|Anan’yev,47.7167,29.9667,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,25.5,8077,8077,3,Europe/Kyiv,FALSE,1804313434
+Bilky,Bilky,Bil’ki|Belki|Bilki,48.3294,23.1397,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,183.3,8064,8064,3,Europe/Kyiv,FALSE,1804839496
+Semenivka,Semenivka,Semënovka|Seminovka|Semionovka|Ssemenowka,52.1750,32.5778,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,10.6,8052,8052,3,Europe/Kyiv,FALSE,1804777306
+Velyka Lepetykha,Velyka Lepetykha,Bol’shaya Lepatikha|Velikaya Lepetikha|Bolschaja Lepeticha|Bol’shaya Lepetikha,47.1586,33.9317,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,15.7,8047,8047,3,Europe/Kyiv,FALSE,1804136108
+Yasnohirka,Yasnohirka,Yasnaya Gorka|Yasnogorka,48.7675,37.5669,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,507.4,8034,8034,3,Europe/Kyiv,FALSE,1804898231
+Kushuhum,Kushuhum,Kushugum|Kushugumovka,47.7106,35.2192,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,55.0,8032,8032,3,Europe/Kyiv,FALSE,1804991008
+Oleksandrivka,Oleksandrivka,Aleksandrovka,48.9656,32.2339,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,21.2,8012,8012,3,Europe/Kyiv,FALSE,1804614195
+Pidvolochysk,Pidvolochysk,Podwołoczyska|Podvolochissk|Podvolochiska|Podvolochisk,49.5300,26.1408,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,47.9,7977,7977,3,Europe/Kyiv,FALSE,1804207444
+Kozelets,Kozelets,Koselez|Kozelets’|Kozelets,50.9000,31.1167,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,17.1,7968,7968,3,Europe/Kyiv,FALSE,1804098642
+Lypovets,Lypovets,Lypovets’|Lipovets,49.2208,29.0569,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,37.8,7958,7958,3,Europe/Kyiv,FALSE,1804026252
+Vradiivka,Vradiivka,Velikaya Vradiyevka|Vradiyivka|Bradiyevka|Vradiyevka|Vradievka|Bol’shaya Vradiyevka,47.8617,30.5931,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,20.1,7956,7956,3,Europe/Kyiv,FALSE,1804534855
+Valky,Valky,Valki,49.8333,35.6167,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,30.9,7938,7938,3,Europe/Kyiv,FALSE,1804819263
+Bilytske,Bilytske,Belitskoye|Khutor Belitskiy|Bilyts’ke,48.4086,37.1796,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,3860.0,7913,7913,2,Europe/Kyiv,FALSE,1804327964
+Lanchyn,Lanchyn,Łanczyn|Lanchin,48.5475,24.7517,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,7846,7846,3,Europe/Kyiv,FALSE,1804184243
+Zastavna,Zastavna,Zastazna|Zastavka,48.5203,25.8450,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,80.9,7807,7807,3,Europe/Kyiv,FALSE,1804678399
+Vylkove,Vylkove,Vylkov|Vâlcov|Vilkov|Vylkovo|Vilkovo,45.3992,29.5936,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,43.4,7804,7804,3,Europe/Kyiv,FALSE,1804238775
+Nikolske,Nikolske,Volodarskoye|Volodars’ke|Kal’chik|Voladarskoye,47.2019,37.3128,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,23.3,7801,7801,3,Europe/Kyiv,FALSE,1804799035
+Rohatyn,Rohatyn,Rogatin,49.4167,24.6167,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,48.4,7797,7797,3,Europe/Kyiv,FALSE,1804693643
+Novoaidar,Novoaidar,Novoaydar,48.9717,39.0058,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,15.1,7773,7773,3,Europe/Kyiv,FALSE,1804157269
+Nemishayeve,Nemishayeve,Dachi Nemeshayevo|Nemishayevo|Nemeshayevo,50.5647,30.0936,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,64.2,7766,7766,3,Europe/Kyiv,FALSE,1804349294
+Panteleimonivka,Panteleimonivka,Panteleymonovka|Panteleimonowka|Panteleymonivka,48.2044,37.9783,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.1,7727,7727,3,Europe/Kyiv,FALSE,1804253635
+Kryve Ozero,Kryve Ozero,Krivoye Ozero,47.9453,30.3528,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,29.1,7717,7717,3,Europe/Kyiv,FALSE,1804153662
+Novi Petrivtsi,Novi Petrivtsi,Novye Petrovtsy|Novopetrovtsy|Novyye Petrovtsy,50.6231,30.4464,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,47.3,7700,7700,3,Europe/Kyiv,FALSE,1804559536
+Pochaiv,Pochaiv,Pochayuv Stary|Pochayev|Pochayiv,50.0028,25.5097,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,174.8,7691,7691,3,Europe/Kyiv,FALSE,1804933209
+Vasyshcheve,Vasyshcheve,Vasishchevo,49.8339,36.3303,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,132.3,7689,7689,3,Europe/Kyiv,FALSE,1804396990
+Dykanka,Dykanka,Dykan’ka|Dikan’ka,49.8206,34.5297,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,26.4,7662,7662,3,Europe/Kyiv,FALSE,1804455504
+Slovianoserbsk,Slovianoserbsk,Slavyanoserbsk|Slov”yanoserbs’k,48.6964,38.9817,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,44.4,7659,7659,3,Europe/Kyiv,FALSE,1804252008
+Velykyi Dalnyk,Velykyi Dalnyk,Velekyy Dal’nyk|Velikiy Dal’nik|Dal’nik|Bol’shoy Dal’nik,46.4658,30.5583,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,7655,7655,3,Europe/Kyiv,FALSE,1804629187
+Trostianets,Trostianets,Trostyanets’|Trostjanez,48.5167,29.2333,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,64.6,7655,7655,3,Europe/Kyiv,FALSE,1804190739
+Khoroshiv,Khoroshiv,Goroshki|Volodarsk|Volodarsk-Volynskiy|Volodarsk-Volynskyi|Kutuzov-Volodarsk,50.5956,28.4447,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,91.8,7644,7644,3,Europe/Kyiv,FALSE,1804364447
+Solone,Solone,Solënoye,48.2000,34.8625,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,22.5,7628,7628,3,Europe/Kyiv,FALSE,1804729650
+Vapniarka,Vapniarka,Vapnyarka|Wapnjarka|Vapnjarka,48.5333,28.7500,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,38.6,7612,7612,3,Europe/Kyiv,FALSE,1804161490
+Teresva,Teresva,Tereshva,48.0011,23.6917,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,93.8,7589,7589,3,Europe/Kyiv,FALSE,1804013705
+Novoselytsia,Novoselytsia,Noua Sulitsa|Sulitsa-Nova|Sulitsa-Noua|Suliţa|Novoselitsa|Novoselytsya,48.2167,26.2667,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,105.5,7588,7588,3,Europe/Kyiv,FALSE,1804491559
+Varva,Varva,,50.4950,32.7236,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,26.6,7581,7581,3,Europe/Kyiv,FALSE,1804859032
+Malynivka,Malynivka,Malinovka,49.7972,36.7139,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,38.1,7564,7564,3,Europe/Kyiv,FALSE,1804978359
+Velykyy Bereznyy,Velykyy Bereznyy,Velikiy Berëznyy|Vel’ke Berezne|Nagyberezna|Velký Berezný|Vel’ki-Berezni|Veliky Berezny,48.8936,22.4575,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,33.0,7559,7559,3,Europe/Kyiv,FALSE,1804345385
+Bereznehuvate,Bereznehuvate,Bereznegovata|Bereznegovataya|Bereznegovatoye,47.3114,32.8478,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,15.7,7552,7552,3,Europe/Kyiv,FALSE,1804879808
+Berehomet,Berehomet,Barhumet|Berkhomet-pe-Siret|Berkhomet|Berhomete pe Siret|Bergomet|Berhomet|Beregomet,48.1569,25.3056,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,58.2,7514,7514,3,Europe/Kyiv,FALSE,1804708449
+Seredyna-Buda,Seredyna-Buda,Iseredinabuda|Seredina-Buda,52.1858,34.0383,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,13.9,7500,7500,3,Europe/Kyiv,FALSE,1804897360
+Oleksandrivka,Oleksandrivka,Aleksandrovka,46.3294,30.6336,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,3896.0,7495,7495,2,Europe/Kyiv,FALSE,1804888180
+Klevan,Klevan,Klewań|Klevan’,50.7464,26.0217,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,74.3,7470,7470,3,Europe/Kyiv,FALSE,1804599111
+Krasnokutsk,Krasnokutsk,Krasnokuts’k|Krasnokutsk,50.0667,35.1667,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,minor,27.8,7455,7455,3,Europe/Kyiv,FALSE,1804179330
+Mankivka,Mankivka,Man’kovka|Man’kivka,48.9617,30.3419,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,35.0,7440,7440,3,Europe/Kyiv,FALSE,1804133660
+Avanhard,Avanhard,,46.4714,30.6150,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,7435,7435,3,Europe/Kyiv,FALSE,1804316210
+Beryslav,Beryslav,Berisslaw|Berislav,46.8333,33.4167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,30.2,7435,7435,3,Europe/Kyiv,FALSE,1804296510
+Romaniv,Romaniv,Romanov|Dzerzhyns’k|Dzerzhinsk|Dsershinsk,50.1492,27.9333,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,28.7,7416,7416,3,Europe/Kyiv,FALSE,1804841272
+Tsarychanka,Tsarychanka,Zaritschanka|Tsarichanka,48.9461,34.4781,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,28.0,7415,7415,3,Europe/Kyiv,FALSE,1804857276
+Pivdenne,Pivdenne,Pivdennoye|Yuzhnyy|Yuzhniy|Pivdennyy,49.8833,36.0667,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,7394,7394,3,Europe/Kyiv,FALSE,1804968695
+Troitske,Troitske,Troitsk|Troitskoye|Troyits’ke,49.9047,38.3017,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,12.0,7386,7386,3,Europe/Kyiv,TRUE,1804976189
+Mezhova,Mezhova,Mezhevaya|Grigor’yevka,48.2547,36.7228,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,53.4,7380,7380,3,Europe/Kyiv,FALSE,1804954191
+Vuhlehirsk,Vuhlehirsk,Chazepetowka|Uglegorsk|Khatsepetovka|Khatsapetovka|Chazepetrovka|Vuhlehirs’k,48.3100,38.2700,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,333.6,7372,7372,3,Europe/Kyiv,FALSE,1804926313
+Rzhyshchiv,Rzhyshchiv,Rzhishchëv,49.9611,31.0436,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,42.3,7359,7359,3,Europe/Kyiv,FALSE,1804173963
+Zarichne,Zarichne,Pogost-Zarechnyy|Pohost Zarzeczny|Pogost Zazhechny|Zarechnoye,51.8256,26.1428,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,25.6,7336,7336,3,Europe/Kyiv,FALSE,1804184172
+Borova,Borova,Borovaya,50.1733,30.1039,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,32.2,7316,7316,3,Europe/Kyiv,FALSE,1804220486
+Khodoriv,Khodoriv,Chodorów|Chodorov|Khodorov,49.4044,24.3122,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,64.1,7300,7300,3,Europe/Kyiv,FALSE,1804664914
+Desna,Desna,,50.9311,30.7569,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,17.1,7297,7297,4,Europe/Kyiv,FALSE,1804087322
+Yarmolyntsi,Yarmolyntsi,Yarmolintsy,49.1925,26.8397,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,28.7,7263,7263,3,Europe/Kyiv,FALSE,1804891962
+Vlasivka,Vlasivka,Vlasovka,49.1111,33.2833,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,11.9,7258,7258,4,Europe/Kyiv,FALSE,1804367858
+Lymanske,Lymanske,Sel’ts|Zel’tsy|Zel’ts|Limanskoye|Lymans’ke,46.6639,29.9708,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,42.0,7249,7249,3,Europe/Kyiv,TRUE,1804642983
+Shyriaieve,Shyriaieve,Sharayevo|Shyryayeve|Shiryayevo,47.3878,30.1911,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,17.6,7238,7238,3,Europe/Kyiv,FALSE,1804609043
+Myronivskyi,Myronivskyi,Mironovskiy|Myronivs’kyy,48.4667,38.2767,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,24.2,7221,7221,3,Europe/Kyiv,FALSE,1804301847
+Poninka,Poninka,Paninka,50.1853,27.5636,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,48.4,7189,7189,3,Europe/Kyiv,FALSE,1804913184
+Ripky,Ripky,Repki|Reoki,51.7994,31.0833,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,12.7,7174,7174,3,Europe/Kyiv,FALSE,1804035877
+Zorynsk,Zorynsk,Zorinsk|Yelënovka|Zoryns’k,48.4167,38.6167,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,154.8,7173,7173,3,Europe/Kyiv,FALSE,1804937430
+Artemivsk,Artemivsk,Artëmovsk|Artemivs’k,48.4389,38.7175,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,154.8,7162,7162,4,Europe/Kyiv,FALSE,1804988052
+Petrove,Petrove,Petrovo|Petrova,48.3425,33.2750,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,19.3,7150,7150,3,Europe/Kyiv,TRUE,1804851453
+Rokytne,Rokytne,Rakitnoye|Rokitno|Rakitno|Rokitino|Rokitnoye,51.2872,27.2103,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,23.6,7143,7143,3,Europe/Kyiv,FALSE,1804149305
+Shabo,Shabo,Şba|Shaba,46.1333,30.3833,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,36.9,7108,7108,3,Europe/Kyiv,FALSE,1804502180
+Isliam-Terek,Isliam-Terek,Kirovs’ke|Islam-Terek|Kirovskoye,45.2236,35.2053,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,minor,52.4,7067,7067,3,Europe/Simferopol,FALSE,1804434292
+Husiatyn,Husiatyn,Gusyatin|Husiatyn|Husyatyn,49.0706,26.1936,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,42.2,7034,7034,4,Europe/Kyiv,FALSE,1804842130
+Petropavlivka,Petropavlivka,Petropavlovka,48.4542,36.4403,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,43.4,7032,7032,3,Europe/Kyiv,FALSE,1804706658
+Chornomorske,Chornomorske,Chornomors’ke,46.5858,30.9414,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,81.0,7016,7016,3,Europe/Kyiv,FALSE,1804707312
+Sakhnovshchyna,Sakhnovshchyna,Sakhnovshchina,49.1500,35.8733,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,17.2,7010,7010,3,Europe/Kyiv,FALSE,1804646403
+Peresichna,Peresichna,Peresechnaya|Peresechnoye,50.0219,35.9817,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,6990,6990,3,Europe/Kyiv,FALSE,1804787813
+Kelmentsi,Kelmentsi,Kel’mentsi|Kel’mentsy|Chelmenţi,48.4633,26.8292,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,58.8,6985,6985,3,Europe/Kyiv,FALSE,1804318882
+Korets,Korets,Kozhets|Korets|Korzhets|Korzec,50.6172,27.1775,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,41.6,6984,6984,3,Europe/Kyiv,FALSE,1804921777
+Sosnytsia,Sosnytsia,Sosnitsa|Sosnytsya,51.5311,32.4997,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,18.9,6983,6983,3,Europe/Kyiv,FALSE,1804863982
+Sharhorod,Sharhorod,Shargorod,48.7500,28.0833,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,47.4,6982,6982,3,Europe/Kyiv,FALSE,1804714771
+Vorozhba,Vorozhba,,51.1714,34.2281,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,32.3,6972,6972,3,Europe/Kyiv,FALSE,1804005245
+Kazanka,Kazanka,Kazavka|Kazanko|Kazenka|Kanzanka,47.8381,32.8261,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,13.7,6972,6972,3,Europe/Kyiv,FALSE,1804556260
+Pryvillya,Pryvillya,Privol’noye|Privol’ye,49.0000,38.3000,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,26.0,6970,6970,3,Europe/Kyiv,FALSE,1804675799
+Shevchenkove,Shevchenkove,Shevchenkovo|Bulatselivka|Bulazelewka,49.6936,37.1736,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,20.2,6959,6959,3,Europe/Kyiv,FALSE,1804807683
+Tomakivka,Tomakivka,Tomakowka|Tomakovka,47.8167,34.7333,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,23.7,6957,6957,3,Europe/Kyiv,FALSE,1804681174
+Komyshany,Komyshany,Arnautka|Kamyshany,46.6364,32.1703,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,2352.9,6941,6941,2,Europe/Kyiv,FALSE,1804136852
+Turka,Turka,Turko,49.1575,23.0225,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,40.3,6925,6925,3,Europe/Kyiv,FALSE,1804118051
+Oleksiievo-Druzhkivka,Oleksiievo-Druzhkivka,Druzhovka|Druzhkovka|Drushkowka|Alekseyevo-Druzhkovka|Oleksiyevo-Druzhkivka,48.5806,37.6147,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,834.5,6924,6924,3,Europe/Kyiv,FALSE,1804593726
+Piskivka,Piskivka,Peskovskiv Zavod|Peskovka,50.7078,29.5950,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,143.7,6896,6896,3,Europe/Kyiv,FALSE,1804210534
+Chornobai,Chornobai,Chernobay|Chornobay,49.6744,32.3300,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,0.8,6878,6878,3,Europe/Kyiv,FALSE,1804482665
+Paniutyne,Paniutyne,Panyutina|Panyutino|Panyutyne,48.9369,36.2797,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,20.4,6869,6869,3,Europe/Kyiv,FALSE,1804760692
+Vilshany,Vilshany,Ol’shany|Olshani|Vil’shany,50.0522,35.8900,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,6865,6865,3,Europe/Kyiv,FALSE,1804459089
+Dobroslav,Dobroslav,Kominternovskoye|Antono-Kodintsevo|Antono-Kodintsovo|Kominternivske,46.8194,30.9417,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,81.0,6863,6863,3,Europe/Kyiv,FALSE,1804838478
+Chynadiyovo,Chynadiyovo,Chynadiyeve|Chynadiiovo|Chinadiyevo,48.4833,22.8333,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,104.0,6860,6860,3,Europe/Kyiv,FALSE,1804972856
+Nova Maiachka,Nova Maiachka,Bol’shaya Mayachka|Nova Mayachka|Novaya Mayachka,46.6031,33.2247,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,40.7,6811,6811,3,Europe/Kyiv,FALSE,1804163610
+Dovhe,Dovhe,Dolgoye|Dolha|Dovge|Dolga,48.3675,23.2869,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,145.5,6790,6790,4,Europe/Kyiv,FALSE,1804840829
+Velyki Komiaty,Velyki Komiaty,Velikiye Komyaty|Velyki Kom”yaty,48.2386,22.9789,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,55.1,6772,6772,4,Europe/Kyiv,FALSE,1804000314
+Voronizh,Voronizh,Voronezh-Glukhov|Voronezh,51.7767,33.4658,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,16.6,6769,6769,3,Europe/Kyiv,FALSE,1804763258
+Holmivskyi,Holmivskyi,Dolomit|Gol’movskiy|Hol’mivs’kyy,48.4006,38.0797,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,787.4,6750,6750,3,Europe/Kyiv,FALSE,1804325990
+Sofiivka,Sofiivka,Sofiyivka|Ssofijewka|Sofiewka|Sofiyevka|Sofijewka,48.0500,33.8667,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,15.0,6748,6748,3,Europe/Kyiv,TRUE,1804670946
+Hornostaivka,Hornostaivka,Gorostayevka|Hornostayivka|Gornostayevka,47.0056,33.7297,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,66.3,6745,6745,3,Europe/Kyiv,FALSE,1804346396
+Rozsoshentsi,Rozsoshentsi,,49.5406,34.5042,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,57.6,6731,6731,3,Europe/Kyiv,FALSE,1804263749
+Lozuvatka,Lozuvatka,Lozovatka,48.0610,33.2927,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,35.0,6730,6730,4,Europe/Kyiv,TRUE,1804728689
+Irshansk,Irshansk,Irshans’k|Irshansk,50.7536,28.7275,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,40.2,6718,6718,3,Europe/Kyiv,FALSE,1804262691
+Oleksandrivsk,Oleksandrivsk,Aleksandrovka|Aleksandrovsk|Oleksandrivs’k,48.5833,39.1833,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,59.0,6709,6709,3,Europe/Kyiv,FALSE,1804689452
+Novodruzhesk,Novodruzhesk,Novodruzheskoye|Novo-Druzhenka|Novodruzhesk|Novodruzhes’k,48.9634,38.3520,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1316.9,6705,6705,3,Europe/Kyiv,FALSE,1804032785
+Khorostkiv,Khorostkiv,Chorostków|Khorostkuv|Khorostkov,49.2333,25.9167,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,57.9,6703,6703,3,Europe/Kyiv,FALSE,1804417758
+Babai,Babai,Babay|Babai|Babayi,49.8969,36.1958,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,6688,6688,3,Europe/Kyiv,FALSE,1804624877
+Zboriv,Zboriv,Zboruv|Zborów|Zborov,49.6667,25.1500,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,44.0,6664,6664,3,Europe/Kyiv,FALSE,1804048612
+Lityn,Lityn,Litin,49.3250,28.0806,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,35.0,6658,6658,3,Europe/Kyiv,FALSE,1804831001
+Velyka Oleksandrivka,Velyka Oleksandrivka,Bol’shaya Aleksandrovka|Velikaya Aleksandrovka|Bolschaja Aleksandrowka,47.3247,33.3117,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,16.0,6654,6654,3,Europe/Kyiv,FALSE,1804454509
+Svesa,Svesa,Svessa,51.9475,33.9333,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,24.6,6644,6644,3,Europe/Kyiv,FALSE,1804568840
+Krasnopavlivka,Krasnopavlivka,Krasnopavlovka,49.1403,36.3236,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,20.4,6637,6637,3,Europe/Kyiv,FALSE,1804067873
+Novotroitske,Novotroitske,Seredneye|Novotroitskoye|Novotroyits’ke,47.7172,37.5761,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,6637,6637,3,Europe/Kyiv,FALSE,1804404135
+Karnaukhivka,Karnaukhivka,Karnaukhovsnoye|Karnaukhovskoye|Karnaukhovka,48.4714,34.7369,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,2070.0,6631,6631,2,Europe/Kyiv,FALSE,1804999181
+Staryi Sambir,Staryi Sambir,Stary Sambor|Staryy Sambir|Staryy Sambor,49.4431,23.0033,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,62.7,6630,6630,3,Europe/Kyiv,FALSE,1804927692
+Yemilchyne,Yemilchyne,Yemil’chyne|Yelmicheno|Yemil’chino|Emil’chino,50.8722,27.8078,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,14.5,6616,6616,3,Europe/Kyiv,FALSE,1804705000
+Nova Praha,Nova Praha,Novaya Praga,48.5683,32.9039,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,18.4,6593,6593,3,Europe/Kyiv,FALSE,1804701397
+Kopychyntsi,Kopychyntsi,Kopychintsa|Kopyczyńce|Kopychyn’tse|Kopychintsy|Kopychin’tse|Kopichintsy|Kopachintsy,49.1081,25.9128,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,57.9,6587,6587,3,Europe/Kyiv,FALSE,1804478197
+Pryazovske,Pryazovske,Pryazovs’ke|Vtoraya Pokrovka|Pokrovka|Priazovskoye,46.7272,35.6392,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,16.0,6578,6578,3,Europe/Kyiv,FALSE,1804246372
+Voronovytsia,Voronovytsia,Voronovitsa|Voronovytsya|Voronovitsy,49.1092,28.6875,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,88.3,6564,6564,3,Europe/Kyiv,FALSE,1804325211
+Bilokurakyne,Bilokurakyne,Belokurakino,49.5272,38.7708,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,12.2,6560,6560,3,Europe/Kyiv,FALSE,1804409906
+Ivanychi,Ivanychi,Ivanichi|Iwanicze|Ivaniche,50.6333,24.3500,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,45.9,6551,6551,3,Europe/Kyiv,FALSE,1804278290
+Tsuman,Tsuman,Suman’|Cumań|Tsuman’,50.8322,25.8861,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,43.1,6548,6548,3,Europe/Kyiv,FALSE,1804201398
+Kubei,Kubei,Kubey|Chervonoarmiys’ke|Gubei|Chervonoarmeyskoye|Cubei,45.7925,28.7475,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,51.2,6544,6544,4,Europe/Kyiv,FALSE,1804707148
+Bile,Bile,Beloye|Beloe,48.4936,39.0367,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,59.2,6512,6512,3,Europe/Kyiv,FALSE,1804664936
+Velikaya Berëzovitsa,Velikaya Berezovitsa,Berëzovitsa-Vel’ka,49.4964,25.6086,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,271.0,6503,6503,3,Europe/Kyiv,FALSE,1804510443
+Slatyne,Slatyne,Kuliki|Slatino|Posëlok Slatino,50.2108,36.1550,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,6483,6483,3,Europe/Kyiv,FALSE,1804831960
+Rozkishne,Rozkishne,Roskoshnoye|Tel’mana|Kozlyach’ye|Vasil’yevka|Imeni Tel’mana,48.4922,39.2719,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1137.8,6482,6482,3,Europe/Kyiv,FALSE,1804313076
+Perechyn,Perechyn,Perechin|Perečin,48.7342,22.4742,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,48.0,6477,6477,3,Europe/Kyiv,FALSE,1804641604
+Sudova Vyshnya,Sudova Vyshnya,Sondova Vishnya|Sądowa Wisznia|Sudovaya Vishna|Wisznia|Sudovaya Vishnya,49.7892,23.3722,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,67.0,6470,6470,3,Europe/Kyiv,FALSE,1804528042
+Drabiv,Drabiv,Drabov,49.9624,32.1497,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,28.1,6450,6450,3,Europe/Kyiv,FALSE,1804509195
+Vorzel,Vorzel,Dachi Vorzel’,50.5500,30.1500,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,1326.1,6441,6441,3,Europe/Kyiv,FALSE,1804749386
+Shepetivka,Shepetivka,Schepetowka|Shepetovka,50.1833,27.0667,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,minor,159.3,6373,6373,3,Europe/Kyiv,FALSE,1804965832
+Bilmak,Bilmak,Kuybyshevo|Kuybysheve|Kuibysheve,47.3633,36.6553,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,16.9,6358,6358,3,Europe/Kyiv,FALSE,1804062053
+Chervonohryhorivka,Chervonohryhorivka,Krasnogrigor’yevka|Chervonogrigorovka,47.6189,34.5058,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,26.9,6348,6348,3,Europe/Kyiv,FALSE,1804949409
+Ivano-Frankove,Ivano-Frankove,Yanuv|Janów|Ivana Franko|Imeni Ivana Franko|Yanov|Ivano-Frankovo,49.9197,23.7269,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,86.1,6346,6346,3,Europe/Kyiv,FALSE,1804846678
+Stavyshche,Stavyshche,Stavishche,49.3914,30.1917,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,31.8,6339,6339,3,Europe/Kyiv,FALSE,1804158768
+Mahdalynivka,Mahdalynivka,Magdalinowka Vtoraya|Magdalinowka Pervaya|Magdalinowka|Magdalinovka,48.9158,34.9183,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,20.5,6335,6335,3,Europe/Kyiv,FALSE,1804492501
+Vinkivtsi,Vinkivtsi,Von’kovtsy|Vin’kovtsy|Vin’kivtsi,49.0331,27.2336,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,34.3,6330,6330,3,Europe/Kyiv,FALSE,1804215542
+Turbiv,Turbiv,Turbov,49.3500,28.7167,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,37.8,6326,6326,3,Europe/Kyiv,FALSE,1804778127
+Volodymyrivka,Volodymyrivka,Vladimirovka,47.7272,37.4061,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,6325,6325,3,Europe/Kyiv,FALSE,1804897655
+Krasne,Krasne,Krasnoye,49.9139,24.6158,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,51.9,6308,6308,4,Europe/Kyiv,TRUE,1804198804
+Velyki Mosty,Velyki Mosty,Mosty Velikiye|Mosty Vel’ke|Bol’shiye Mosty|Velikiye Mosty,50.2400,24.1394,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,60.5,6298,6298,3,Europe/Kyiv,FALSE,1804908296
+Kamianka,Kamianka,Kam|Kamenka,48.0261,25.9036,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,110.9,6284,6284,3,Europe/Kyiv,FALSE,1804595162
+Teofipol,Teofipol,Teofipol’|Teotipol’,49.8419,26.4119,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,34.7,6284,6284,3,Europe/Kyiv,FALSE,1804133471
+Teplyk,Teplyk,Teplik,48.6594,29.7539,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,33.5,6280,6280,3,Europe/Kyiv,FALSE,1804611612
+Arbuzynka,Arbuzynka,Arbuzinka|Arbusinka,47.9067,31.3136,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,19.2,6266,6266,3,Europe/Kyiv,FALSE,1804637449
+Fontanka,Fontanka,Makagonka,46.5644,30.8586,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,81.0,6260,6260,4,Europe/Kyiv,FALSE,1804199815
+Novovorontsovka,Novovorontsovka,Novaya Vorontsovka,47.5000,33.9167,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,45.7,6248,6248,3,Europe/Kyiv,FALSE,1804087519
+Blahovishchenske,Blahovishchenske,Ulianovka,48.3197,30.2353,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,28.1,6232,6232,3,Europe/Kyiv,FALSE,1804644971
+Hvardiys’ke,Hvardiys'ke,Gvardeyskoye,48.7347,35.3292,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,6207,6207,3,Europe/Kyiv,FALSE,1804139174
+Halych,Halych,Halicz|Galich,49.1247,24.7286,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,251.2,6196,6196,3,Europe/Kyiv,FALSE,1804076203
+Kitsman,Kitsman,Kotsmen|Kotzman|Cozmeni|Cotman|Kozmeny|Kotsman|Kitsman’,48.4417,25.7600,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,114.0,6135,6135,3,Europe/Kyiv,FALSE,1804200590
+Petropavlivs’ka Borshchahivka,Petropavlivs'ka Borshchahivka,Borshchagovka|Petropavlovskaya Borshchagovka,50.4338,30.3286,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,244.7,6125,6125,3,Europe/Kyiv,FALSE,1804677587
+Budy,Budy,Budi,49.8919,36.0231,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,6104,6104,3,Europe/Kyiv,FALSE,1804750004
+Shklo,Shklo,Szkło,49.9503,23.5258,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,4.8,6103,6103,3,Europe/Kyiv,FALSE,1804620526
+Kushnytsia,Kushnytsia,Kušnice|Kushnitse|Kushnytsya|Kushnitsa,48.4517,23.2581,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,168.5,6100,6100,4,Europe/Kyiv,FALSE,1804260964
+Molochansk,Molochansk,Molochans’k|Molochansk,47.2072,35.5947,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,15.9,6099,6099,3,Europe/Kyiv,FALSE,1804015869
+Rodakove,Rodakove,Rodakovo,48.5567,39.0219,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,44.4,6099,6099,3,Europe/Kyiv,FALSE,1804000406
+Kehychivka,Kehychivka,Kegichyevka|Kegichëvka,49.2847,35.7597,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,25.8,6090,6090,3,Europe/Kyiv,FALSE,1804471104
+Partenit,Partenit,Frunsenkoye|Frunzenskoye,44.5764,34.3397,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,114.1,6089,6089,3,Europe/Simferopol,FALSE,1804010038
+Savran,Savran,Savran’,48.1289,30.0797,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,29.9,6074,6074,3,Europe/Kyiv,FALSE,1804151884
+Sutysky,Sutysky,Sutiski,49.0394,28.4194,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,45.2,6069,6069,3,Europe/Kyiv,FALSE,1804587551
+Skole,Skole,Skol’ye,49.0333,23.5167,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,31.9,6054,6054,3,Europe/Kyiv,FALSE,1804608803
+Starobesheve,Starobesheve,Staroye Beshevo|Starobyeshevo|Starobeshevo,47.7532,38.0316,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,37.6,6044,6044,3,Europe/Kyiv,FALSE,1804881992
+Ahrarne,Ahrarne,Agrarnoye,45.0147,34.0514,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,93.1,6034,6034,3,Europe/Simferopol,FALSE,1804651887
+Chutove,Chutove,Chutovo,49.7058,35.1611,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,25.3,6024,6024,3,Europe/Kyiv,FALSE,1804980672
+Balabyne,Balabyne,Balabino|Balabine,47.7442,35.2203,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,230.0,6010,6010,3,Europe/Kyiv,FALSE,1804159555
+Velyka Dobron,Velyka Dobron,Velikaya Dobron’|Velyka Dobron’,48.4181,22.3900,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,96.2,6000,6000,3,Europe/Kyiv,FALSE,1804655398
+Volodarka,Volodarka,,49.5200,29.9153,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,minor,25.3,5996,5996,3,Europe/Kyiv,FALSE,1804900113
+Hradyzk,Hradyzk,Hradyz’k|Gradizhsk,49.2297,33.1314,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,23.6,5962,5962,3,Europe/Kyiv,FALSE,1804557622
+Staryi Krym,Staryi Krym,Stary Krym|Staryy Krym,47.1597,37.4869,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1615.2,5887,5887,3,Europe/Kyiv,FALSE,1804825984
+Novoarkhanhelsk,Novoarkhanhelsk,Novoarkhanhel’s’k|Novoarkhangel’sk,48.6589,30.8186,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,17.7,5882,5882,3,Europe/Kyiv,FALSE,1804455884
+Murovani Kurylivtsi,Murovani Kurylivtsi,Murovanyye Kurilovtsy|Murovanye Kurilovtsy|Murovano-Kurilovtsy|Murovany-Kurilovtsy,48.7206,27.5200,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,27.2,5872,5872,3,Europe/Kyiv,FALSE,1804315108
+Ozerne,Ozerne,Ozërnoye,50.1814,28.7358,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,47.7,5851,5851,3,Europe/Kyiv,FALSE,1804191982
+Morshyn,Morshyn,Morshin|Morsztyn|Morszyn,49.1500,23.8667,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,82.7,5850,5850,3,Europe/Kyiv,FALSE,1804460530
+Verkhovyna,Verkhovyna,Zhab’ye|Żabie|Zhabeye|Verkhovina,48.1517,24.8136,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,23.5,5829,5829,3,Europe/Kyiv,FALSE,1804735406
+Chernihivka,Chernihivka,Tschernigowka|Chernigovka,47.1906,36.1986,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,12.6,5813,5813,3,Europe/Kyiv,FALSE,1804374922
+Milove,Milove,Melovoye|Melovoy,49.3778,40.1306,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,minor,13.1,5810,5810,3,Europe/Kyiv,FALSE,1804693253
+Bylbasivka,Bylbasivka,Bylbasovka|Belbasovka,48.8397,37.4981,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,24.6,5807,5807,3,Europe/Kyiv,FALSE,1804043052
+Iza,Iza,,48.2139,23.3286,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,127.0,5800,5800,3,Europe/Kyiv,FALSE,1804819133
+Veselynove,Veselynove,Veselinovo,47.3500,31.2333,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,17.5,5785,5785,3,Europe/Kyiv,FALSE,1804589490
+Semenivka,Semenivka,Semënovka,49.5950,33.1800,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,18.7,5776,5776,3,Europe/Kyiv,FALSE,1804752926
+Zelenivka,Zelenivka,Zelënovka,46.7178,32.6544,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,896.7,5775,5775,3,Europe/Kyiv,FALSE,1804033631
+Dobrovelychkivka,Dobrovelychkivka,Dobrovelichkovka,48.3833,31.1833,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,23.9,5763,5763,3,Europe/Kyiv,FALSE,1804695776
+Lyubeshiv,Lyubeshiv,Lyubashevo|Lyubeshev|Lyubeshuv|Lubieszów|Lyubeshov,51.7667,25.5000,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,25.5,5762,5762,3,Europe/Kyiv,FALSE,1804650970
+Hrebinky,Hrebinky,Grebënki,49.9564,30.1714,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,43.9,5749,5749,3,Europe/Kyiv,FALSE,1804204198
+Domanivka,Domanivka,Domanevka,47.6275,30.9786,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,16.6,5728,5728,3,Europe/Kyiv,FALSE,1804105147
+Sokilnyky,Sokilnyky,Sokol’niki|Sokil’nyky,49.7769,23.9614,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,121.5,5727,5727,4,Europe/Kyiv,FALSE,1804661324
+Chornukhyne,Chornukhyne,Chernukhino,48.3264,38.5156,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,154.8,5725,5725,3,Europe/Kyiv,FALSE,1804318533
+Kotsyubyns’ke,Kotsyubyns'ke,Kotsyubinskogo|Berkovets|Imeni Kotsyubinskogo|Kotsyubinskoye,50.4900,30.3347,Ukraine,UA,UKR,"Kyiv, Misto","Kyiv, Misto",UA-30,city,,3700.6,5709,5709,2,Europe/Kyiv,FALSE,1804009673
+Pobuzke,Pobuzke,Pobugskoye,48.1669,30.5972,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,26.3,5694,5694,3,Europe/Kyiv,FALSE,1804813335
+Turiys’k,Turiys'k,Turiysk|Tuzhisk|Turzysk|Turisk,51.0833,24.5333,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,21.3,5676,5676,3,Europe/Kyiv,FALSE,1804370991
+Novhorodka,Novhorodka,Novgorodka,48.3614,32.6564,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,14.4,5675,5675,3,Europe/Kyiv,FALSE,1804878250
+Oleksandriiske,Oleksandriiske,Dimitrovo|Dymytrove|Oleksandriys’ke,48.6050,32.9850,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,18.4,5672,5672,3,Europe/Kyiv,FALSE,1804996292
+Ladan,Ladan,Ladin,50.5178,32.5847,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,18.3,5671,5671,3,Europe/Kyiv,FALSE,1804370711
+Velyka Novosilka,Velyka Novosilka,Velikaya Novosëlka|Janisal|Bol’shoy Yanisol’|Bol’shay Yanisal’|Bol’shaya Yanisol’|Bol’shaya Novosëlka,47.8383,36.8350,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,27.2,5666,5666,3,Europe/Kyiv,FALSE,1804059913
+Shchyrets,Shchyrets,Szczerzec|Shirets|Shcherzhets|Shchezhets|Shchirets|Shchyrets’,49.6528,23.8561,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,121.5,5659,5659,3,Europe/Kyiv,FALSE,1804623299
+Oster,Oster,Ostjor|Ostër,50.9486,30.8811,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,17.1,5655,5655,3,Europe/Kyiv,FALSE,1804570315
+Velyki Kopani,Velyki Kopani,Bol’shoye Kopani|Bol’shiye Kopani|Velyki Kopany|Velikiye Kopani,46.4889,32.9744,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,40.7,5654,5654,3,Europe/Kyiv,FALSE,1804862415
+Holovanivsk,Holovanivsk,Golvanevsk|Golovanevsk|Holovanivs’k,48.3800,30.4472,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,29.4,5646,5646,3,Europe/Kyiv,FALSE,1804012530
+Horonda,Horonda,Goronda,48.3786,22.5681,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,104.0,5630,5630,4,Europe/Kyiv,FALSE,1804377785
+Dniprovske,Dniprovske,Dniprovs’ke|Dneprovskoye,48.5939,34.4214,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,5628,5628,3,Europe/Kyiv,FALSE,1804429860
+Shevchenkove,Shevchenkove,Karamagmed|Caramahmet|Karamakhmed|Shevchenkovo,45.5544,29.3358,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,56.8,5625,5625,3,Europe/Kyiv,FALSE,1804930107
+Liubymivka,Liubymivka,Lyubymivka|Lyubimovka,46.8103,33.5700,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,30.2,5611,5611,3,Europe/Kyiv,FALSE,1804280414
+Novodonetske,Novodonetske,Novodonetskoye|Novodonets’ke,48.6347,36.9822,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,18.5,5597,5597,3,Europe/Kyiv,FALSE,1804879844
+Dymer,Dymer,,50.7836,30.3081,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,47.3,5582,5582,3,Europe/Kyiv,FALSE,1804108101
+Savyntsi,Savyntsi,Savintsy|Sawinzy|Savintsi,49.3956,37.0567,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,40.0,5571,5571,3,Europe/Kyiv,FALSE,1804335153
+Broshniv-Osada,Broshniv-Osada,Broshnev|Oshnev-Osada|Broshnyuv|Broshnev-Osada,48.9994,24.1814,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,54.6,5557,5557,3,Europe/Kyiv,FALSE,1804816334
+Korop,Korop,,51.5667,32.9667,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,15.6,5545,5545,3,Europe/Kyiv,FALSE,1804393589
+Zoria,Zoria,Kamchiku|Camcic|Kamchik|Camcicu|Zorya|Zarya,45.9917,29.6989,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,31.6,5528,5528,4,Europe/Kyiv,FALSE,1804787057
+Tomashpil,Tomashpil,Tomashpol’|Tomashpil’,48.5450,28.5139,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,38.6,5527,5527,3,Europe/Kyiv,FALSE,1804676240
+Nova Borova,Nova Borova,Novaya Borovaya Rudnya|Novaya Borovaya,50.6906,28.6322,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,40.2,5517,5517,3,Europe/Kyiv,FALSE,1804878496
+Katerynopil,Katerynopil,Kal’niboloto|Ekaterinople|Yekaterinopol’|Malyj Jekaterinopol|Katerinopol’|Katerynopil’,48.9350,30.9811,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,33.1,5513,5513,3,Europe/Kyiv,FALSE,1804490794
+Nedryhayliv,Nedryhayliv,Nedrigaylov,50.8347,33.8769,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,20.9,5511,5511,3,Europe/Kyiv,FALSE,1804873110
+Hubynykha,Hubynykha,Gubinikha,48.8053,35.2581,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,5509,5509,3,Europe/Kyiv,FALSE,1804492198
+Rivne,Rivne,Rovnoye,48.2403,31.7492,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,24.7,5505,5505,4,Europe/Kyiv,FALSE,1804896838
+Stara Syniava,Stara Syniava,Staraya Sinyava|Stara Synyava,49.5958,27.6231,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,28.9,5501,5501,3,Europe/Kyiv,FALSE,1804751206
+Monastyryska,Monastyryska,Monastyriska|Monastezhiska|Monasterzyska|Monasterzhyska|Monastyrys’ka,49.0889,25.1694,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,minor,54.1,5492,5492,3,Europe/Kyiv,FALSE,1804932282
+Stepanivka,Stepanivka,Stepanovka,50.9400,34.6397,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,37.3,5490,5490,3,Europe/Kyiv,FALSE,1804445453
+Markivka,Markivka,Markowka|Novo-Markovka|Markovka,49.5239,39.5683,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,12.5,5480,5480,3,Europe/Kyiv,FALSE,1804466535
+Koreiz,Koreiz,Koreyiz|Koreiz,44.4331,34.0872,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,453.4,5455,5455,3,Europe/Simferopol,FALSE,1804842405
+Otyniia,Otyniia,Ottunia|Ottynia|Otynya|Ottynya|Otyniya,48.7333,24.8500,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,100.1,5444,5444,3,Europe/Kyiv,FALSE,1804899486
+Korzhi,Korzhi,,50.3342,31.3558,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,50.5,5436,5436,4,Europe/Kyiv,FALSE,1804586850
+Pulyny,Pulyny,Pulin|Chervonnoarmeysk|Chervonoarmeysk|Chervonoarmiys’k|Chervonoarmiisk,50.4664,28.2778,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,26.0,5411,5411,3,Europe/Kyiv,FALSE,1804090047
+Bilohiria,Bilohiria,Lyakhovtsy|Belogor’ye|Bilohir”ya,50.0050,26.4158,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,33.6,5406,5406,3,Europe/Kyiv,FALSE,1804775214
+Verkhnii Rohachyk,Verkhnii Rohachyk,Verkhniy Rogachik|Verkhniy Rohachyk,47.2528,34.3361,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,14.5,5404,5404,3,Europe/Kyiv,FALSE,1804000007
+Bryukhovychi,Bryukhovychi,Brzuchowice|Bzhukhovitse|Bryukhovichi,49.9039,23.9539,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,482.1,5400,5400,3,Europe/Kyiv,FALSE,1804250720
+Borova,Borova,Borovaya|Borowaja,49.3846,37.6331,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,18.2,5371,5371,3,Europe/Kyiv,TRUE,1804840169
+Shumsk,Shumsk,Shums’k|Szumsk|Shumskoye,50.1194,26.1167,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,36.7,5366,5366,3,Europe/Kyiv,FALSE,1804587292
+Horenka,Horenka,Gorenka,50.5569,30.3175,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,184.1,5358,5358,3,Europe/Kyiv,FALSE,1804037026
+Chudniv,Chudniv,Tschudnow|Chudnov,50.0528,28.1122,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,31.6,5357,5357,3,Europe/Kyiv,FALSE,1804716219
+Marshyntsi,Marshyntsi,Marshintsy|Marshenits’,48.2117,26.3031,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,105.5,5353,5353,3,Europe/Kyiv,FALSE,1804725805
+Chabany,Chabany,,50.3403,30.4228,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,5334,5334,3,Europe/Kyiv,FALSE,1804812423
+Popilnia,Popilnia,Popel’nya|Popel’naya|Poelnja|Popil’nya,49.9450,29.4597,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,30.3,5323,5323,3,Europe/Kyiv,FALSE,1804000199
+Pishchanka,Pishchanka,Peschanka|Peschanki|Pischanka,48.2000,28.8833,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,33.1,5322,5322,3,Europe/Kyiv,FALSE,1804713367
+Shatsk,Shatsk,Shatsk|Szack,51.4878,23.9297,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,22.0,5320,5320,3,Europe/Kyiv,FALSE,1804803288
+Hoshcha,Hoshcha,Goshcha|Hoszcza,50.5986,26.6753,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,48.5,5319,5319,3,Europe/Kyiv,FALSE,1804953745
+Mykolayivka,Mykolayivka,Nikolayevka,48.3823,36.3086,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,43.4,5318,5318,4,Europe/Kyiv,FALSE,1804853049
+Bratske,Bratske,Brats’ke|Bratskoye,47.8661,31.5733,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,16.0,5313,5313,3,Europe/Kyiv,FALSE,1804759367
+Velyka Mykhailivka,Velyka Mykhailivka,Velyka Mykhaylivka|Grosulovo|Prosulovo|Velikaya Mikhalovka|Velikaya Mikhaylovka,47.0789,29.8539,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,20.5,5303,5303,3,Europe/Kyiv,FALSE,1804560202
+Opishnya,Opishnya,Oposhnya,49.9569,34.6017,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,23.6,5292,5292,3,Europe/Kyiv,FALSE,1804067812
+Okny,Okny,Krasnyye Okny|Okna|Krasni Okny,47.5389,29.4617,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,18.4,5290,5290,3,Europe/Kyiv,FALSE,1804220056
+Rudky,Rudky,Rudki,49.6528,23.4869,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,72.4,5278,5278,3,Europe/Kyiv,FALSE,1804064806
+Komyshuvakha,Komyshuvakha,Kamyshevakha,47.7194,35.5247,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,26.6,5269,5269,3,Europe/Kyiv,FALSE,1804136927
+Pechenihy,Pechenihy,Pechenegi,49.8647,36.9322,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,22.5,5264,5264,3,Europe/Kyiv,FALSE,1804521996
+Velyka Bahachka,Velyka Bahachka,Velikaya Bagachka|Velikaya Bogachka|Bogachka,49.7881,33.7231,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,22.0,5261,5261,3,Europe/Kyiv,FALSE,1804000512
+Horodnytsia,Horodnytsia,Gorodnitsa|Horodnytsya,50.8064,27.3144,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,21.5,5256,5256,3,Europe/Kyiv,FALSE,1804313353
+Pechenizhyn,Pechenizhyn,Peczenizyn|Pechenizhin|Pechenezhin,48.5200,24.8800,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,130.5,5253,5253,3,Europe/Kyiv,FALSE,1804108726
+Serhiivka,Serhiivka,Sergiyivka|Sergeyevka-Bay|Serghieşte-Noui|Serhiyivka|Sergeyevka,46.0236,30.3744,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,36.9,5248,5248,3,Europe/Kyiv,FALSE,1804893322
+Stara Vyzhivka,Stara Vyzhivka,Staraya Vyzhevka|Stara Vyzhva|Staraya Vizhivka,51.4333,24.4333,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,27.0,5248,5248,3,Europe/Kyiv,FALSE,1804777880
+Novomykolayivka,Novomykolayivka,Novonikolayevka,47.9747,35.9069,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,minor,15.9,5238,5238,3,Europe/Kyiv,FALSE,1804000446
+Novohuivynske,Novohuivynske,Novoguyvinskoye|Novohuyvyns’ke,50.2064,28.6900,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,47.7,5236,5236,3,Europe/Kyiv,FALSE,1804826526
+Sokyrnytsia,Sokyrnytsia,Sokyrnytsya|Sokirnitsa,48.1242,23.3997,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,127.0,5217,5217,3,Europe/Kyiv,FALSE,1804236946
+Vashkivtsi,Vashkivtsi,Vashkouts|Văscăuţi|Vashkovtsy|Vashkoutsi,48.3753,25.4978,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,58.2,5215,5215,3,Europe/Kyiv,TRUE,1804772970
+Teple,Teple,Krasnodon|Krasnodonskiy,48.3328,39.5422,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1256.7,5201,5201,3,Europe/Kyiv,FALSE,1804053240
+Chemerivtsi,Chemerivtsi,Chemerovtsy|Chemirovtsy,49.0122,26.3531,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,42.2,5200,5200,3,Europe/Kyiv,FALSE,1804151097
+Sarata,Sarata,Serata,46.0333,29.6667,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,minor,31.6,5200,5200,3,Europe/Kyiv,FALSE,1804494812
+Oleksandrivka,Oleksandrivka,Aleksandrovka,47.6919,31.2689,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,,21.4,5200,5200,3,Europe/Kyiv,TRUE,1804176015
+Kalynivka,Kalynivka,Posëlok Vasil’kov|Kalinovka,50.2256,30.2319,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,43.9,5198,5198,3,Europe/Kyiv,TRUE,1804498654
+Busk,Busk,Bus’k|Busk,49.9667,24.6333,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,51.9,5188,5188,3,Europe/Kyiv,FALSE,1804314944
+Eskhar,Eskhar,,49.7969,36.5908,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,41.6,5163,5163,3,Europe/Kyiv,FALSE,1804898812
+Yalta,Yalta,,46.9625,37.2719,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,33.3,5159,5159,3,Europe/Kyiv,FALSE,1804774830
+Zakharivka,Zakharivka,Frunzovka|Zakharovka|Zakhar’yevka|Frunzivka,47.3319,29.7572,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,21.1,5142,5142,3,Europe/Kyiv,FALSE,1804837413
+Volovets,Volovets,Volovets’|Volovec|Volovets,48.7111,23.1883,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,minor,45.3,5128,5128,3,Europe/Kyiv,FALSE,1804363766
+Staromykhailivka,Staromykhailivka,Staromikhaylovka|Staromykhaylivka,47.9989,37.5836,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.2,5091,5091,3,Europe/Kyiv,FALSE,1804999193
+Kyrnasivka,Kyrnasivka,Kirnasovka|Kirnassowka,48.5911,28.9775,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,47.9,5087,5087,3,Europe/Kyiv,FALSE,1804475991
+Bratslav,Bratslav,Brazlaw,48.8147,28.9447,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,35.4,5062,5062,3,Europe/Kyiv,FALSE,1804117781
+Znamianka Druha,Znamianka Druha,Znamenka Vtoraya|Znam”yanka Druha,48.7144,32.5922,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,15.7,5038,5038,3,Europe/Kyiv,FALSE,1804753169
+Z·hurivka,Z.hurivka,Zgurovka,50.4976,31.7739,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,18.8,5036,5036,3,Europe/Kyiv,FALSE,1804554848
+Kolochava,Kolochava,Koločava|Nizhni Kolochava,48.4367,23.7336,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,40.7,5029,5029,3,Europe/Kyiv,FALSE,1804822781
+Klavdiyevo-Tarasove,Klavdiyevo-Tarasove,Dachi Klavdiyevo|Klavdiyevo-Tarasovo,50.5825,30.0053,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,64.2,5029,5029,3,Europe/Kyiv,FALSE,1804077716
+Ruska Lozova,Ruska Lozova,Russkaya Lozovaya|Lozovoye Russkoye|Rus’ka Lozova,50.1406,36.2794,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,5018,5018,3,Europe/Kyiv,FALSE,1804325753
+Bohdanivka,Bohdanivka,Bogdanovka,48.4989,36.1072,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,39.1,5016,5016,3,Europe/Kyiv,FALSE,1804713358
+Chechelnyk,Chechelnyk,Chel’nik|Chechel’nik|Chechel’nyk,48.2170,29.3500,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,6.3,5002,5002,3,Europe/Kyiv,FALSE,1804328583
+Novoozerne,Novoozerne,Novoozernoye,45.3858,33.1178,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,37.7,4998,4998,3,Europe/Simferopol,FALSE,1804983714
+Rozsypne,Rozsypne,Rassypnaya|Rassypnoye,48.1297,38.5656,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,90.7,4997,4997,3,Europe/Kyiv,FALSE,1804107738
+Lypova Dolyna,Lypova Dolyna,Lipovaya Dolina,50.5617,33.7853,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,minor,21.1,4991,4991,3,Europe/Kyiv,FALSE,1804460260
+Bilenke,Bilenke,Belen’koye,47.6239,35.0461,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,60.9,4976,4976,3,Europe/Kyiv,FALSE,1804029464
+Novyi Starodub,Novyi Starodub,Novy Starodub|Novo-Starodub|Novyy Starodub,48.5111,33.1672,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,19.3,4964,4964,4,Europe/Kyiv,FALSE,1804527669
+Korotych,Korotych,Korotich,49.9508,36.0344,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,4953,4953,3,Europe/Kyiv,FALSE,1804356528
+Stanislav,Stanislav,,46.5703,32.1475,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,48.5,4941,4941,3,Europe/Kyiv,FALSE,1804791927
+Kozacha Lopan,Kozacha Lopan,Kasatschja Lopan|Kozach’ya Lopan’|Kazach’ya Lopan’|Kozacha Lopan’,50.3319,36.1936,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,107.4,4935,4935,3,Europe/Kyiv,FALSE,1804250887
+Kulykivka,Kulykivka,Kulikowka|Kulikovka,51.3747,31.6436,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,15.9,4928,4928,3,Europe/Kyiv,FALSE,1804000066
+Zalizne,Zalizne,Artemovskii Ruo|Artema|Artëmovo|Imeni Artëma|Artemove,48.3750,37.8733,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,647.4,4928,4928,3,Europe/Kyiv,FALSE,1804717898
+Brusyliv,Brusyliv,Brusilov|Brussilow,50.2856,29.5225,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,21.9,4914,4914,3,Europe/Kyiv,FALSE,1804000170
+Prosyana,Prosyana,Prosyanoye|Prosyanaya,48.1169,36.3722,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,27.6,4907,4907,3,Europe/Kyiv,FALSE,1804450007
+Miusynsk,Miusynsk,Miusinsk|Miusyns’k,48.0756,38.8850,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,2.7,4830,4830,3,Europe/Kyiv,FALSE,1804278321
+Hoholiv,Hoholiv,Gogolev,50.5200,31.0292,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,51.4,4809,4809,4,Europe/Kyiv,FALSE,1804740242
+Dmytrivka,Dmytrivka,Deleni|Dumitreşti|Dumitreshti|Dumitresht’|Dimitrovka|Dimitreşti|Dmitriyevka|Dmitrovka,45.9667,28.9833,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,51.2,4806,4806,3,Europe/Kyiv,FALSE,1804891442
+Lozivskyi,Lozivskyi,Lozovskiy|Lozivs’kyy,48.5614,38.8822,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,44.4,4804,4804,3,Europe/Kyiv,FALSE,1804132583
+Novopokrovka,Novopokrovka,Novo-Pokrovskoye|Novo Pokrovzkoye,49.8333,36.5536,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,38.1,4795,4795,3,Europe/Kyiv,FALSE,1804519890
+Petropavlivka,Petropavlivka,Petrivka|Petrovka|Petropavlovka,48.8044,39.2628,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,25.2,4768,4768,3,Europe/Kyiv,FALSE,1804000328
+Kalyta,Kalyta,Kalita,50.7503,31.0264,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,51.4,4753,4753,3,Europe/Kyiv,FALSE,1804497163
+Talalaivka,Talalaivka,Talalayevka|Talalayivka,50.8372,33.1408,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,minor,18.4,4745,4745,3,Europe/Kyiv,FALSE,1804066571
+Luzhany,Luzhany,Luzheny|Lujeni,48.3631,25.7619,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,114.0,4744,4744,3,Europe/Kyiv,FALSE,1804689673
+Khotiv,Khotiv,Khotov,50.3333,30.4667,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,4737,4737,3,Europe/Kyiv,FALSE,1804262809
+Bilyky,Bilyky,Beliki,49.2583,34.2686,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,24.5,4736,4736,3,Europe/Kyiv,FALSE,1804266275
+Blahodatne,Blahodatne,Vilichi|Zhovtnevoye|Bilicze|Biliche|Zhovtnevoye|Zhovtneve,50.6625,24.2508,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,45.9,4714,4714,3,Europe/Kyiv,FALSE,1804470367
+Osypenko,Osypenko,Novospasskoye|Novospasovskaya|Novospasovka|Osipenko,46.9167,36.8189,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,14.8,4667,4667,3,Europe/Kyiv,FALSE,1804906185
+Voskresenske,Voskresenske,Voskresenskoye|Voskresens’ke|Gorokhovka,47.0150,32.1428,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,,32.3,4659,4659,3,Europe/Kyiv,FALSE,1804300600
+Vynohradove,Vynohradove,Vinogradnoye|Chalbasy|Vinogradovo,46.3694,32.9361,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,40.7,4636,4636,3,Europe/Kyiv,FALSE,1804538501
+Yelanets,Yelanets,Yelanets’,47.6958,31.8539,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,14.0,4636,4636,3,Europe/Kyiv,FALSE,1804022962
+Pavlysh,Pavlysh,Pavlichi,48.9203,33.3514,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,19.8,4632,4632,3,Europe/Kyiv,FALSE,1804991375
+Pniv,Pniv,Pniów|Pnyuv|Pnev,48.6106,24.5289,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,4620,4620,3,Europe/Kyiv,FALSE,1804346714
+Torchyn,Torchyn,Torczyn|Torchin,50.7658,25.0006,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,65.4,4601,4601,3,Europe/Kyiv,FALSE,1804595547
+Veliatyn,Veliatyn,Velyatyn|Velyatin,48.1094,23.3136,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,127.0,4576,4576,3,Europe/Kyiv,FALSE,1804487616
+Myropil,Myropil,Novyy Miropol’|Miropol’|Novy Miropol’|Myropil’,50.1083,27.6947,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,28.7,4576,4576,3,Europe/Kyiv,FALSE,1804574614
+Brailiv,Brailiv,Brailov,49.1069,28.1636,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,26.9,4574,4574,3,Europe/Kyiv,FALSE,1804353936
+Petrykivka,Petrykivka,Petrikovka,48.7167,34.6286,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,33.8,4567,4567,3,Europe/Kyiv,FALSE,1804505383
+Donske,Donske,Donskoye|Dons’ke,47.5161,37.5353,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,4562,4562,3,Europe/Kyiv,FALSE,1804303187
+Davydiv,Davydiv,Dawidów|Davydov|Davidov,49.7442,24.1381,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,121.5,4557,4557,3,Europe/Kyiv,FALSE,1804171116
+Dubivskyi,Dubivskyi,Vasil’yevka|Dubovskiy|Dubivs’kyy,48.0822,39.1569,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,18.1,4550,4550,3,Europe/Kyiv,FALSE,1804249015
+Olenivka,Olenivka,Jelenowka|Olenovka|Yelenovka,47.8314,37.6600,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,52.7,4549,4549,3,Europe/Kyiv,FALSE,1804223983
+Suvorove,Suvorove,Sichirlichitai-Nou|Shikirli-Kitay|Shekirlikatay|Regele Carol II|Sikirlikitay|Suvorovo,45.5819,28.9839,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,99.2,4548,4548,3,Europe/Kyiv,FALSE,1804000051
+Velykyi Rakovets,Velykyi Rakovets,Velykyy Rakovets’|Velikiy Rakovets,48.2600,23.1500,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,133.0,4545,4545,3,Europe/Kyiv,FALSE,1804270287
+Lyublynets’,Lyublynets',Lyublinets,51.1833,24.6203,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,21.3,4534,4534,3,Europe/Kyiv,FALSE,1804919917
+Vilshanka,Vilshanka,Olschanka|Ol’shanka|Vil’shanka,48.2328,30.8833,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,17.4,4526,4526,3,Europe/Kyiv,FALSE,1804747255
+Velykyi Liubin,Velykyi Liubin,Velikiy Lyuben’|Velikiy Lyubin’|Wielki Lubien|Lyuben’ Vel’ki|Lubień Wielki|Lubien,49.7239,23.7336,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,1.4,4516,4516,3,Europe/Kyiv,FALSE,1804742450
+Druzhba,Druzhba,Mikhaylovskiy Khutor|Khutor Mikhailovsky|Khutor Mikhaylovskiy|Mikhailovskaya Khutor,52.0486,33.9431,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,24.6,4504,4504,3,Europe/Kyiv,FALSE,1804284676
+Novooleksandrivka,Novooleksandrivka,,48.3454,34.9969,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,494.7,4502,4502,3,Europe/Kyiv,FALSE,1804569369
+Kobyzhcha,Kobyzhcha,Kobyzhchi,50.8167,31.5000,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,22.0,4498,4498,3,Europe/Kyiv,FALSE,1804155632
+Boromlya,Boromlya,,50.6204,34.9723,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,31.6,4490,4490,3,Europe/Kyiv,FALSE,1804511873
+Boikivske,Boikivske,Tel’manovo|Tel’manove|Ostgeym,47.4125,38.0181,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,minor,20.9,4461,4461,3,Europe/Kyiv,FALSE,1804182649
+Krynychky,Krynychky,Petrivske|Petrovskiy,48.1300,38.0322,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,30.7,4459,4459,4,Europe/Kyiv,FALSE,1804967228
+Nyzhni Sirohozy,Nyzhni Sirohozy,Nizhniye Serogozy,46.8419,34.3767,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,12.1,4451,4451,3,Europe/Kyiv,FALSE,1804645959
+Petrivka,Petrivka,Posëlok Petrovskogo|Petrovskogo|Petrovka,46.9097,30.7225,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,21.8,4435,4435,3,Europe/Kyiv,FALSE,1804564966
+Viitivka,Viitivka,Viytivka|Chapayevka|Voytovka,48.4225,29.5403,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,63.77,4434,4434,4,Europe/Kyiv,FALSE,1804676789
+Zavallia,Zavallia,Zavallya|Zaval’ye,48.2025,30.0144,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,29.9,4433,4433,4,Europe/Kyiv,FALSE,1804434083
+Boiany,Boiany,Boyany|Boyan|Bayan|Bayany|Boian,48.2667,26.1333,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,105.5,4425,4425,3,Europe/Kyiv,FALSE,1804640434
+Stepnohirsk,Stepnohirsk,Sukhoivanivs’ke|Sukhoivanovka|Sukhoivanovskoye|Sukhoyvanovka|Stepnogorsk,47.5872,35.3547,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,114.8,4420,4420,3,Europe/Kyiv,FALSE,1804676790
+Zabolottya,Zabolottya,Zabłocie|Zablot’ye|Zablotse|Zabolot’ye,51.6353,24.2442,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,37.9,4411,4411,3,Europe/Kyiv,FALSE,1804982958
+Znamenivka,Znamenivka,Znamenovka,48.6344,35.4561,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,4410,4410,4,Europe/Kyiv,FALSE,1804620596
+Berezna,Berezna,Beresna,51.5739,31.7850,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,24.8,4405,4405,3,Europe/Kyiv,FALSE,1804294398
+Svyatogorsk,Svyatogorsk,,49.0333,37.5667,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,24.6,4395,4395,3,Europe/Kyiv,FALSE,1804863876
+Bytkiv,Bytkiv,Bitkov|Bytkov|Bitkuv,48.6244,24.4858,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,138.4,4389,4389,3,Europe/Kyiv,FALSE,1804305262
+Krynychne,Krynychne,Chishma-Varuyt|Chishmyaua-Varuita|Cişmeaua-Văruită|Chishmya Veruyte|Chishma-Varuit|Krinichnoye,45.5358,28.6678,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,51.2,4348,4348,3,Europe/Kyiv,FALSE,1804010594
+Shyshaky,Shyshaky,Shishaki,49.8753,34.0075,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,25.7,4347,4347,3,Europe/Kyiv,FALSE,1804124060
+Novodarivka,Novodarivka,Dar’yevka|Novodar’yevka|Novo-Dar’yavka|Novodar”yivka,48.0772,39.4758,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,7.9,4344,4344,3,Europe/Kyiv,FALSE,1804438769
+Brylivka,Brylivka,Brilëvka,46.4222,33.1511,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,40.7,4339,4339,3,Europe/Kyiv,FALSE,1804118498
+Zaozerne,Zaozerne,Zaozërnoye|Yaly-Maynak|Peschanka,45.1606,33.2850,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,505.6,4332,4332,3,Europe/Simferopol,FALSE,1804644001
+Mliiv,Mliiv,Mleyev|Mleyevo,49.3475,31.5364,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,42.9,4330,4330,4,Europe/Kyiv,FALSE,1804769468
+Ivanivka,Ivanivka,Ivanovka|Iwanowka,46.7100,34.5497,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,10.7,4329,4329,3,Europe/Kyiv,FALSE,1804334915
+Ruzhyn,Ruzhyn,Ruzhin|Rushin,49.7167,29.2333,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,minor,25.5,4325,4325,3,Europe/Kyiv,FALSE,1804022237
+Yampil,Yampil,Yampol’,51.9425,33.7853,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,24.6,4324,4324,3,Europe/Kyiv,FALSE,1804496953
+Kompaniivka,Kompaniivka,Kompaniyivka|Kompaneyevka,48.2533,32.2053,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,14.2,4323,4323,3,Europe/Kyiv,FALSE,1804272188
+Lebedyn,Lebedyn,Lebedin,48.9642,31.5225,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,39.7,4323,4323,3,Europe/Kyiv,FALSE,1804522680
+Druzhba,Druzhba,Tribukhovtsy|Trybukhivtsi,49.0411,25.4600,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,77.1,4308,4308,3,Europe/Kyiv,FALSE,1804882603
+Almazna,Almazna,Almaznaya|Almaznoye,48.5167,38.5833,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1046.5,4301,4301,3,Europe/Kyiv,FALSE,1804659492
+Mostyska,Mostyska,Mos’tsiska|Mościska|Mostiska,49.7942,23.1525,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,67.0,4295,4295,3,Europe/Kyiv,FALSE,1804713391
+Dovbysh,Dovbysh,Markhlevsk,50.3714,27.9856,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,37.0,4288,4288,3,Europe/Kyiv,FALSE,1804789434
+Kolchyno,Kolchyno,Kolčino|Kol’chino|Kol’chyne,48.4750,22.7525,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,104.0,4283,4283,3,Europe/Kyiv,FALSE,1804835846
+Shabelkivka,Shabelkivka,Shabel’kovka|Shabel’kivka,48.7608,37.4881,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,1219.1,4267,4267,3,Europe/Kyiv,FALSE,1804627634
+Sursko-Lytovske,Sursko-Lytovske,Surs’ko-Lytovs’ke|Sursko-Litovskoye,48.3364,34.9355,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,65.8,4264,4264,4,Europe/Kyiv,FALSE,1804232807
+Dovzhok,Dovzhok,Dolzhok,48.6794,26.5264,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,43.2,4263,4263,4,Europe/Kyiv,FALSE,1804593821
+Serednye,Serednye,Seredneye|Seredne|Sredneye,48.5392,22.5122,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,96.2,4258,4258,3,Europe/Kyiv,FALSE,1804764643
+Novyi Kalyniv,Novyi Kalyniv,Novyy Kalyniv,49.5606,23.3044,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,72.4,4256,4256,3,Europe/Kyiv,FALSE,1804319376
+Cherkaske,Cherkaske,Cherkasskoye,48.7042,35.3833,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,4252,4252,3,Europe/Kyiv,FALSE,1804822530
+Vorokhta,Vorokhta,Worochta,48.2825,24.5628,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,4246,4246,3,Europe/Kyiv,FALSE,1804803160
+Orzhiv,Orzhiv,Orzhev,50.7511,26.1186,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,74.3,4230,4230,3,Europe/Kyiv,FALSE,1804782055
+Mykolaivka,Mykolaivka,Zhovtnevoye|Zhovtneve|Nikolayevka-Virivskaya|Nikolayevka-Virovskaya|Nikolayevka|Mykolayivka,50.9414,34.3786,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,32.3,4210,4210,3,Europe/Kyiv,FALSE,1804293990
+Obroshino,Obroshino,Obroshin,49.7853,23.8686,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,209.3,4186,4186,3,Europe/Kyiv,FALSE,1804239273
+Lyman,Lyman,Liman,49.5894,36.4700,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,50.0,4184,4184,4,Europe/Kyiv,FALSE,1804560712
+Marianske,Marianske,Mar’inskoye|Mar”yans’ke|Mar’yanskoye,47.5496,33.9382,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,45.7,4183,4183,3,Europe/Kyiv,FALSE,1804926181
+Krynychky,Krynychky,Krinichky|Krinichki,48.3686,34.4644,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,minor,20.1,4176,4176,3,Europe/Kyiv,FALSE,1804639930
+Lazeshchyna,Lazeshchyna,Laveshchina|Loveshchina|Lazeshchina,48.2692,24.4186,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,47.4,4174,4174,4,Europe/Kyiv,FALSE,1804375530
+Mezhyrich,Mezhyrich,Mezherichi|Mizhirich’|Mesheritschi|Mezhirich|Mezherich,48.5621,35.7731,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,39.1,4174,4174,4,Europe/Kyiv,FALSE,1804054856
+Dobromyl,Dobromyl,Dobromyl’|Dobromil’,49.5667,22.7833,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,62.7,4168,4168,3,Europe/Kyiv,FALSE,1804062943
+Hryshkivtsi,Hryshkivtsi,Grishkovtsy,49.9339,28.6078,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,66.2,4150,4150,3,Europe/Kyiv,FALSE,1804732928
+Ustynivka,Ustynivka,Ustipovka|Ustinovka,47.9536,32.5358,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,13.1,4142,4142,3,Europe/Kyiv,FALSE,1804827179
+Melioratyvne,Melioratyvne,Meliorativnoye,48.6186,35.4014,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,4140,4140,3,Europe/Kyiv,FALSE,1804250711
+Khorosheve,Khorosheve,Khoroshevo,49.8489,36.2361,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,142.8,4139,4139,3,Europe/Kyiv,FALSE,1804235310
+Dzyhivka,Dzyhivka,Dzygivka|Dzygovka,48.3500,28.3200,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,49.7,4132,4132,3,Europe/Kyiv,FALSE,1804774871
+Berezanka,Berezanka,Tiligulo-Berezanka|Suvorovo|Tiligulo-Berezannya,46.8550,31.3875,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,minor,18.7,4132,4132,3,Europe/Kyiv,FALSE,1804584533
+Auly,Auly,Romankovo,48.5450,34.4540,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,4127,4127,3,Europe/Kyiv,FALSE,1804065798
+Krykhivtsi,Krykhivtsi,Krikhovtsy|Krekhovtsy|Krekhovtse|Krokhovichi,48.9008,24.6662,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,615.6,4125,4125,3,Europe/Kyiv,FALSE,1804239682
+Zmiiv,Zmiiv,Gottvald|Zmiyev|Zmiev|Gotval’d|Zmiyiv,49.6944,36.3592,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,73.7,4109,4109,3,Europe/Kyiv,FALSE,1804969427
+Volodkova Divytsia,Volodkova Divytsia,Volod’kovo-Devitsa|Chervoni Partyzany|Krasnyye Partizany|Chervonyye Partizany,50.9436,31.7894,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,22.8,4107,4107,4,Europe/Kyiv,FALSE,1804406655
+Khyriv,Khyriv,Khyrov|Kolo Chyrowa|Chyrów|Khyruv,49.5333,22.8500,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,62.7,4104,4104,3,Europe/Kyiv,FALSE,1804396160
+Skala-Podil’s’ka,Skala-Podil's'ka,Skała|Skala-Podol’skaya,48.8500,26.2000,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,63.9,4094,4094,3,Europe/Kyiv,FALSE,1804193720
+Luhyny,Luhyny,Luginy,51.0783,28.3975,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,15.7,4077,4077,3,Europe/Kyiv,FALSE,1804989377
+Nova Ushytsia,Nova Ushytsia,Nova Ushytsya|Novaya Ushitsa,48.8350,27.2714,Ukraine,UA,UKR,Khmelnytska Oblast,Khmelnytska Oblast,UA-68,province,,34.0,4075,4075,3,Europe/Kyiv,FALSE,1804390581
+Velyka Pysarivka,Velyka Pysarivka,Bol’shaya Pisarevka|Velikaya Pisarevka,50.4261,35.4819,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,21.1,4073,4073,3,Europe/Kyiv,FALSE,1804230961
+Stepan,Stepan,,51.1283,26.3042,Ukraine,UA,UKR,Rivnenska Oblast,Rivnenska Oblast,UA-56,province,,54.1,4073,4073,3,Europe/Kyiv,FALSE,1804239142
+Delzhyler,Delzhyler,Deljiler|Dmytrivka|Del’zhiler|Deligiler|Dmitriyevka|Dmitrovka|Del’zhyler,45.8383,29.4844,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,30.9,4071,4071,4,Europe/Kyiv,FALSE,1804810279
+Syvaske,Syvaske,Rozhdestvenka|Rozhdestvenskoye|Syvas’ke|Sivashskoye,46.3850,34.5386,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,23.5,4068,4068,3,Europe/Kyiv,FALSE,1804687829
+Oleksandrivka,Oleksandrivka,Aleksandrovka|Kremennaya|Trudovoy Rudnik,47.9208,37.5750,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,58.2,4068,4068,3,Europe/Kyiv,TRUE,1804821976
+Kuty,Kuty,Kutty,48.2572,25.1672,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,81.7,4067,4067,3,Europe/Kyiv,FALSE,1804905442
+Hołoby,Holoby,Kholoby|Goloby,51.0842,25.0153,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,23.1,4058,4058,3,Europe/Kyiv,FALSE,1804675869
+Ralivka,Ralivka,Ralevka|Radlovichi,49.5081,23.2497,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,72.4,4058,4058,3,Europe/Kyiv,FALSE,1804852165
+Kolky,Kolky,Kolki,51.1000,25.6833,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,23.9,4057,4057,3,Europe/Kyiv,FALSE,1804777729
+Velyki Sorochyntsi,Velyki Sorochyntsi,Verkhniye Sorochintsy|Bol’shiye Sorochintsy|Velikiye Sorochintsy,50.0233,33.9425,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,19.7,4050,4050,3,Europe/Kyiv,FALSE,1804188888
+Novopillia,Novopillia,Novopillya,47.9539,33.5278,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,1504.1,4037,4037,3,Europe/Kyiv,FALSE,1804381256
+Vysokopillia,Vysokopillia,Vysokopillya|Vysokopol’ye,47.4942,33.5328,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,minor,20.0,4035,4035,3,Europe/Kyiv,FALSE,1804349002
+Toshkivka,Toshkivka,Ustinovka|Toshkovka|Toshkovskiy Rudnik|Toshkovskiy|Toshkovka|Rudnik Toshkovka,48.7797,38.5589,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,1.4,4031,4031,3,Europe/Kyiv,FALSE,1804063893
+Krasnorichenske,Krasnorichenske,Kabanje|Krasnorechenskoye|Kaban’ye|Kabanskoye|Kabane,49.2103,38.2075,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,22.8,4020,4020,3,Europe/Kyiv,FALSE,1804521098
+Hrushivka,Hrushivka,Grushëvka|Khutor Dubyanskogo|Khutor Dubyanskiy,51.0847,32.5524,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,26.5,4015,4015,4,Europe/Kyiv,FALSE,1804771173
+Adzhamka,Adzhamka,,48.5389,32.5347,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,,23.4,4010,4010,3,Europe/Kyiv,FALSE,1804545839
+Vyhoda,Vyhoda,Vygoda,46.6161,30.3989,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,67.7,4010,4010,4,Europe/Kyiv,FALSE,1804966785
+Tyvriv,Tyvriv,Tyvrov,49.0119,28.5039,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,minor,45.2,4006,4006,3,Europe/Kyiv,FALSE,1804643415
+Nyva Trudova,Nyva Trudova,,47.7338,33.6322,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,45.7,4004,4004,4,Europe/Kyiv,FALSE,1804000288
+Hrushivka,Hrushivka,Leninske|Grushevskiy Kut|Leninskoye,47.5838,34.0149,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,45.7,3998,3998,4,Europe/Kyiv,FALSE,1804801685
+Zabolotiv,Zabolotiv,Zablotov|Zablotuv|Zabolotov|Zabłotów,48.4694,25.2833,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,109.2,3998,3998,3,Europe/Kyiv,FALSE,1804000412
+Hnizdychiv,Hnizdychiv,Gnizdychuv|Gnizdichev|Gnezdychev,49.3372,24.1053,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,64.1,3983,3983,3,Europe/Kyiv,FALSE,1804075205
+Krynychne,Krynychne,Birjukowo|Krinichnaya|Biryukovo|Biryukovka|Biriukove,47.9500,39.7333,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,7.9,3981,3981,3,Europe/Kyiv,TRUE,1804086165
+Tairove,Tairove,Tayirove|Tairovo,46.3650,30.6467,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,127.1,3981,3981,3,Europe/Kyiv,FALSE,1804462390
+Suprunivka,Suprunivka,Suprunovka,49.5812,34.4270,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,57.6,3974,3974,4,Europe/Kyiv,FALSE,1804723226
+Bedevlia,Bedevlia,Bedevlya,48.0039,23.6642,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,93.8,3971,3971,3,Europe/Kyiv,FALSE,1804064928
+Dzhulynka,Dzhulynka,Dzhulinka,48.4417,29.7475,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,44.8,3953,3953,4,Europe/Kyiv,FALSE,1804775553
+Yerky,Yerky,Yerki,48.9825,30.9992,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,33.1,3949,3949,3,Europe/Kyiv,FALSE,1804000425
+Dnipriany,Dnipriany,Britany|Dnipryany|Dnepryany,46.7483,33.2664,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,30.2,3930,3930,3,Europe/Kyiv,FALSE,1804435803
+Novomykolaivka,Novomykolaivka,Novomykolayivka|Novonikolayevka,48.5528,34.3764,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,3927,3927,3,Europe/Kyiv,FALSE,1804202136
+Rubanivka,Rubanivka,Rubanovka,46.9953,34.1694,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,15.7,3927,3927,3,Europe/Kyiv,FALSE,1804514395
+Zaitseve,Zaitseve,Zaytsevo|Zaytseve,48.4292,38.0094,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,238.4,3919,3919,3,Europe/Kyiv,FALSE,1804141223
+Matviyivka,Matviyivka,Zeleny|Matveyevskiy|Matveyevka|Shëlokovyy,47.9026,35.3046,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,39.8,3902,3902,3,Europe/Kyiv,FALSE,1804834579
+Simeiz,Simeiz,Simonz|Semeiz|Simeyiz|Simeiz,44.4058,33.9900,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,1272.2,3901,3901,3,Europe/Simferopol,FALSE,1804462711
+Bohuslav,Bohuslav,Boguslav,48.4661,36.0287,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,29.6,3880,3880,4,Europe/Kyiv,FALSE,1804759153
+Stizhkivske,Stizhkivske,Stozhkovskoye|Stozhkovo|Stizhkivs’ke,48.1178,38.4592,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,13.5,3876,3876,3,Europe/Kyiv,FALSE,1804644548
+Radushne,Radushne,Radushnoye,47.8211,33.5050,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,35.0,3874,3874,3,Europe/Kyiv,FALSE,1804473400
+Rozhniativ,Rozhniativ,Rożniatów|Roznyatuv|Roznatov|Rozhnyativ|Rozhnyatuv|Rozhnyatov,48.9364,24.1547,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,minor,54.6,3874,3874,3,Europe/Kyiv,FALSE,1804666971
+Lokachi,Lokachi,Łokacze|Lokache,50.7383,24.6372,Ukraine,UA,UKR,Volynska Oblast,Volynska Oblast,UA-07,province,,30.0,3856,3856,3,Europe/Kyiv,FALSE,1804793280
+Onufriivka,Onufriivka,Onufriyivka|Onufriyevka,48.9044,33.4481,Ukraine,UA,UKR,Kirovohradska Oblast,Kirovohradska Oblast,UA-35,province,minor,19.8,3855,3855,3,Europe/Kyiv,FALSE,1804747674
+Dashiv,Dashiv,Dashev,49.0039,29.4389,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,40.2,3852,3852,3,Europe/Kyiv,FALSE,1804809573
+Solotvyn,Solotvyn,Sołotwina|Zolotvina|Solotvina|Solotvin,48.7050,24.4211,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,89.5,3850,3850,3,Europe/Kyiv,FALSE,1804486920
+Molodiia,Molodiia,Molodiya|Molodia|Plaiul Cosmin|Cosmin|Kosmin,48.2275,26.0239,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,110.9,3847,3847,3,Europe/Kyiv,FALSE,1804167505
+Klembivka,Klembivka,Klembovka,48.3894,28.4064,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,49.7,3842,3842,4,Europe/Kyiv,FALSE,1804003483
+Zarichchia,Zarichchia,Zarech’ye|Zarichchya|Zazheche,48.5164,24.6442,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,136.6,3841,3841,3,Europe/Kyiv,FALSE,1804979979
+Prymorske,Prymorske,Tsaritsyn Kut|Tsaritsin Kut|Podstepnoye|Primorskoye,47.6244,35.2942,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,70.3,3840,3840,3,Europe/Kyiv,FALSE,1804037636
+Holubivka,Holubivka,Golubovka|Kil’chen’,48.8861,35.3283,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,37.6,3836,3836,3,Europe/Kyiv,FALSE,1804757788
+Chkalovske,Chkalovske,Chkalovskoye|Chkalovs’ke,49.7172,36.9339,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,38.1,3833,3833,3,Europe/Kyiv,FALSE,1804221056
+Skalat,Skalat,,49.4333,25.9833,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,47.9,3833,3833,3,Europe/Kyiv,FALSE,1804072735
+Sofiivskyi,Sofiivskyi,Sofiyevskiy|Sofiyevka|Sofiyivs’kyy,48.2089,38.8836,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,18.1,3828,3828,3,Europe/Kyiv,FALSE,1804508988
+Pavliv,Pavliv,Pavluv|Pawłów|Pavlov,50.2625,24.5333,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,40.5,3828,3828,4,Europe/Kyiv,FALSE,1804705244
+Bilolutsk,Bilolutsk,Belolutsk|Belolutskaya|Biloluts’k,49.6992,39.0283,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,20.9,3825,3825,3,Europe/Kyiv,FALSE,1804488777
+Verbky,Verbky,Verbki,48.5911,35.8967,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,39.1,3822,3822,4,Europe/Kyiv,FALSE,1804902085
+Bilyi Kolodiaz,Bilyi Kolodiaz,Bely Kolodez’|Bely Kolodes|Byeli Kolodez|Belyy Kolodez’|Bilyy Kolodyaz’,50.2061,37.1097,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,25.6,3814,3814,3,Europe/Kyiv,FALSE,1804080265
+Bibrka,Bibrka,Bobrka,49.6167,24.2333,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,39.5,3810,3810,3,Europe/Kyiv,FALSE,1804860422
+Kalynivka,Kalynivka,Khutor Kalinovka|Kalinovka,50.5592,30.8211,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,51.4,3806,3806,3,Europe/Kyiv,FALSE,1804217612
+Vyzhnytsia,Vyzhnytsia,Viznits|Vijniţa|Vyzhnytsya|Vizhnitsa,48.2500,25.1917,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,minor,58.2,3803,3803,3,Europe/Kyiv,FALSE,1804940774
+Lazy,Lazy,,48.0581,23.6450,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,146.2,3801,3801,4,Europe/Kyiv,FALSE,1804774856
+Pavlivka,Pavlivka,Pavlovka,49.4411,28.4653,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,51.1,3798,3798,3,Europe/Kyiv,FALSE,1804225682
+Komarno,Komarno,,49.6306,23.7031,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,92.2,3794,3794,3,Europe/Kyiv,FALSE,1804560314
+Vendychany,Vendychany,Bendichany|Vendichany,48.6111,27.7853,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,35.5,3793,3793,3,Europe/Kyiv,FALSE,1804171356
+Poroshkovo,Poroshkovo,Poroshkov|Poroškov|Poroshkovoye|Poroshkove,48.6664,22.7514,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,48.0,3786,3786,3,Europe/Kyiv,FALSE,1804507744
+Chaplyne,Chaplyne,Chaplino,48.1278,36.2319,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,24.5,3783,3783,3,Europe/Kyiv,FALSE,1804786446
+Velykyi Burluk,Velykyi Burluk,Velikiy Burlok|Bolshoi Burlak|Bol’shoy Burluk|Velikiy Burluk|Velykyy Burluk,50.0497,37.3883,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,17.6,3772,3772,3,Europe/Kyiv,FALSE,1804553499
+Dmytrivka,Dmytrivka,Dmitriewka|Dmitriyevka|Dmitrievka|Dmitrovka,48.3887,36.1918,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,43.4,3772,3772,4,Europe/Kyiv,TRUE,1804207154
+Lypcha,Lypcha,Lipse|Lipsha|Lipša|Lipča|Lipcha,48.2628,23.3819,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,127.0,3769,3769,4,Europe/Kyiv,FALSE,1804154303
+Novosilky,Novosilky,Novoselki,50.3544,30.4544,Ukraine,UA,UKR,"Kyiv, Misto","Kyiv, Misto",UA-30,city,,278.6,3761,3761,3,Europe/Kyiv,FALSE,1804012893
+Medvyn,Medvyn,Medvin,49.3903,30.7847,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,43.0,3749,3749,4,Europe/Kyiv,FALSE,1804601309
+Nagachëv,Nagachev,Nagachuv|Nahaczów,50.0069,23.2806,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,86.1,3738,3738,3,Europe/Kyiv,FALSE,1804680479
+Dzhuryn,Dzhuryn,Dzhurin,48.6856,28.2947,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,47.4,3734,3734,3,Europe/Kyiv,FALSE,1804965279
+Nyzhnya Syrovatka,Nyzhnya Syrovatka,Nizhne Sirovatka|Nizhnyaya Syrovatka,50.7814,34.8382,Ukraine,UA,UKR,Sumska Oblast,Sumska Oblast,UA-59,province,,37.3,3717,3717,4,Europe/Kyiv,FALSE,1804056243
+Preobrazhenka,Preobrazhenka,,47.5784,35.8038,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,26.6,3710,3710,4,Europe/Kyiv,FALSE,1804360036
+Losynivka,Losynivka,Losinovka,50.8433,31.9139,Ukraine,UA,UKR,Chernihivska Oblast,Chernihivska Oblast,UA-74,province,,17.2,3706,3706,3,Europe/Kyiv,FALSE,1804936156
+Tereblia,Tereblia,Terebla|Tereblya,48.1114,23.5931,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,112.3,3705,3705,3,Europe/Kyiv,FALSE,1804330874
+Demydiv,Demydiv,Demidovo|Demidov,50.7272,30.3272,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,47.3,3702,3702,3,Europe/Kyiv,FALSE,1804740187
+Kuchurhan,Kuchurhan,Strasburg|Strassburg|Kuchukurgan|Kuchurgan,46.7236,29.9775,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,42.0,3700,3700,3,Europe/Kyiv,FALSE,1804023583
+Myhove,Myhove,Migovo|Mikhova|Migovoye,48.1500,25.3806,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,58.2,3693,3693,3,Europe/Kyiv,FALSE,1804480663
+Kashperivka,Kashperivka,Kashpirovka|Kashperovka,49.4311,29.6814,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,42.1,3689,3689,4,Europe/Kyiv,FALSE,1804426433
+Parkhomivka,Parkhomivka,Parkhomovka,50.1167,34.9833,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,27.8,3679,3679,4,Europe/Kyiv,FALSE,1804158452
+Melnytsia-Podilska,Melnytsia-Podilska,Mel’nytsya-Podil’s’ka|Mel’nitsa-Podol’skaya|Mel’nitsa|Mielnica,48.6061,26.1819,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,64.5,3676,3676,3,Europe/Kyiv,FALSE,1804960602
+Duliby,Duliby,,49.2306,23.8167,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,,82.7,3671,3671,4,Europe/Kyiv,FALSE,1804667977
+Zidky,Zidky,Zid’ki|Zvidki|Zid’ky,49.6983,36.4028,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,50.0,3669,3669,3,Europe/Kyiv,FALSE,1804762964
+Lyuten’ka,Lyuten'ka,,50.2108,34.0367,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,31.0,3665,3665,4,Europe/Kyiv,FALSE,1804069885
+Kamiani Potoky,Kamiani Potoky,Kamennyye Potoki|Kamennyye Potok|Kamenno-Pototskoye|Kam”yani Potoky,48.9900,33.5200,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,,41.9,3662,3662,3,Europe/Kyiv,FALSE,1804223715
+Kozatske,Kozatske,Kazatskaya|Kozats’ke|Kazatskoye,46.7839,33.3347,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,30.2,3653,3653,3,Europe/Kyiv,FALSE,1804107544
+Voskresenka,Voskresenka,Chapayevka|Imeni Tovarishcha Chapayeva|Imeni Chapayeva,47.4707,36.3570,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,28.7,3648,3648,3,Europe/Kyiv,FALSE,1804644534
+Novosvitlivka,Novosvitlivka,Novosvetlovka,48.4947,39.5036,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,19.1,3648,3648,3,Europe/Kyiv,FALSE,1804535554
+Peremyshliany,Peremyshliany,Przemysliane|Przemyślany|Pzhemyslyany|Przemyśiany|Peremyshlyany,49.6700,24.5594,Ukraine,UA,UKR,Lvivska Oblast,Lvivska Oblast,UA-46,province,minor,39.5,3645,3645,3,Europe/Kyiv,FALSE,1804664317
+Hranitne,Hranitne,Granitnoye|Staraya Karan’|Karan,47.4536,37.8675,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,20.9,3615,3615,3,Europe/Kyiv,FALSE,1804751711
+Oleksiivka,Oleksiivka,Oleksiyivka|Alekseyevka,47.5943,34.2377,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,26.9,3600,3600,4,Europe/Kyiv,TRUE,1804077095
+Luka-Meleshkivska,Luka-Meleshkivska,Luka-Meleshkovskaya|Luka Maleshkovskaya,49.1722,28.4906,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,88.3,3597,3597,4,Europe/Kyiv,FALSE,1804318061
+Yasynivka,Yasynivka,Yasinovka,48.1358,37.9303,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,956.6,3588,3588,3,Europe/Kyiv,FALSE,1804132677
+Ol’shanskoye,Ol'shanskoye,Dvoryanka|Ternovatoye|Ternovataya|Olshanskiy,47.1686,31.7525,Ukraine,UA,UKR,Mykolaivska Oblast,Mykolaivska Oblast,UA-48,province,,21.5,3582,3582,3,Europe/Kyiv,FALSE,1804336065
+Vashkivtsi,Vashkivtsi,Vashkovtsy|Vas’kovtsy|Văscăuţi|Vaskauts’,48.4058,27.1269,Ukraine,UA,UKR,Chernivetska Oblast,Chernivetska Oblast,UA-77,province,,84.6,3577,3577,3,Europe/Kyiv,FALSE,1804373476
+Novosilske,Novosilske,Satu-Nou|Satul Nou|Satunov|Novosil’s’ke|Novosel’skoye,45.3364,28.5797,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,63.6,3572,3572,3,Europe/Kyiv,FALSE,1804661488
+Tsybuliv,Tsybuliv,Tsybulevo|Tsybulev|Tsibulev|Tsybuliev,49.0700,29.8500,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,50.8,3568,3568,3,Europe/Kyiv,FALSE,1804052704
+Mikulintsy,Mikulintsy,Mikulintse|Mikulińce|Mikuliczyn,49.3881,25.6175,Ukraine,UA,UKR,Ternopilska Oblast,Ternopilska Oblast,UA-61,province,,54.3,3568,3568,4,Europe/Kyiv,FALSE,1804425797
+Osiy,Osiy,,48.3611,23.1194,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,87.0,3555,3555,4,Europe/Kyiv,FALSE,1804950174
+Mashivka,Mashivka,Mashevka,49.4444,34.8722,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,20.4,3548,3548,3,Europe/Kyiv,FALSE,1804437467
+Zatyshshia,Zatyshshia,Zatish’ye|Zatyshshya,47.3353,29.8708,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,21.1,3537,3537,3,Europe/Kyiv,FALSE,1804333324
+Dvorichna,Dvorichna,Dvuretshnaya|Dvurechnaya,49.8500,37.6667,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,15.0,3535,3535,3,Europe/Kyiv,FALSE,1804917384
+Verbivka,Verbivka,Verbovka,49.4883,36.8297,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,40.0,3515,3515,3,Europe/Kyiv,FALSE,1804088851
+Kryukivshchyna,Kryukivshchyna,Kryukovshchina,50.3683,30.3681,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,793.9,3509,3509,3,Europe/Kyiv,FALSE,1804327923
+Motovylivka,Motovylivka,Chervona Motovylivka,50.1550,30.0742,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,32.2,3499,3499,3,Europe/Kyiv,FALSE,1804000597
+Kobyletska Poliana,Kobyletska Poliana,Kobylecká Polana|Kobiletsa Polyana|Kobyleska Polyana|Kobylets’ka Polyana|Kobyletskaya Polyana,48.0575,24.0672,Ukraine,UA,UKR,Zakarpatska Oblast,Zakarpatska Oblast,UA-21,province,,47.4,3498,3498,3,Europe/Kyiv,FALSE,1804171130
+Shakhtarske,Shakhtarske,Shakhtars’ke,48.0497,39.5528,Ukraine,UA,UKR,Luhanska Oblast,Luhanska Oblast,UA-09,province,,643.5,3495,3495,3,Europe/Kyiv,FALSE,1804024458
+Maniava,Maniava,Manyava,48.6542,24.3700,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,83.1,3491,3491,3,Europe/Kyiv,FALSE,1804170237
+Komyshivka,Komyshivka,Khadzhi-Kurda|Hagi Curda|Kamyshevka|Kamyshovka,45.5147,29.1197,Ukraine,UA,UKR,Odeska Oblast,Odeska Oblast,UA-51,province,,99.2,3491,3491,3,Europe/Kyiv,FALSE,1804944722
+Rykove,Rykove,Budenovka|Budënnovka|Partyzany|Partizany,46.3308,34.7525,Ukraine,UA,UKR,Khersonska Oblast,Khersonska Oblast,UA-65,province,,52.9,3487,3487,3,Europe/Kyiv,FALSE,1804065538
+Ocheretyne,Ocheretyne,Ocheretino,48.2428,37.6106,Ukraine,UA,UKR,Donetska Oblast,Donetska Oblast,UA-14,province,,30.7,3474,3474,3,Europe/Kyiv,FALSE,1804155953
+Makhnivka,Makhnivka,Komsomol’skoye|Komsomol’s’ke|Komsomolske,49.7219,28.6769,Ukraine,UA,UKR,Vinnytska Oblast,Vinnytska Oblast,UA-05,province,,53.4,3467,3467,3,Europe/Kyiv,FALSE,1804199859
+Blyzniuky,Blyzniuky,Blisnezy|Staryye Bliznetsy|Bliznyuki|Bliznetsy|Blyznyuky,48.8567,36.5550,Ukraine,UA,UKR,Kharkivska Oblast,Kharkivska Oblast,UA-63,province,,12.5,3467,3467,3,Europe/Kyiv,FALSE,1804474343
+Kozelshchyna,Kozelshchyna,Kozel’shchina|Kozel’shchyna,49.2167,33.8500,Ukraine,UA,UKR,Poltavska Oblast,Poltavska Oblast,UA-53,province,minor,19.1,3464,3464,3,Europe/Kyiv,FALSE,1804847893
+Kyrylivka,Kyrylivka,Gorelaya|Azovskoye|Goreloye|Goreloe|Goryeole|Kirillovka|Gorelaia,46.3700,35.3667,Ukraine,UA,UKR,Zaporizka Oblast,Zaporizka Oblast,UA-23,province,,24.1,3464,3464,3,Europe/Kyiv,FALSE,1804323553
+Hora,Hora,Gora,50.3708,30.8617,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,80.5,3461,3461,4,Europe/Kyiv,FALSE,1804614259
+Pershotravensk,Pershotravensk,Pershotravens’k|Pershotravensk,50.2011,27.6339,Ukraine,UA,UKR,Zhytomyrska Oblast,Zhytomyrska Oblast,UA-18,province,,37.0,3452,3452,3,Europe/Kyiv,FALSE,1804675098
+Verkhniachka,Verkhniachka,Verkhnyachka|Verkhnyochka,48.8261,30.0372,Ukraine,UA,UKR,Cherkaska Oblast,Cherkaska Oblast,UA-71,province,,57.2,3447,3447,3,Europe/Kyiv,FALSE,1804848090
+Pushkarivka,Pushkarivka,Pushkarëvka,48.6525,34.2928,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,63.1,3443,3443,4,Europe/Kyiv,FALSE,1804922736
+Shchebetovka,Shchebetovka,Shebetovka|Otuzy|Otuz|Otus,44.9389,35.1578,Ukraine,UA,UKR,"Krym, Avtonomna Respublika","Krym, Avtonomna Respublika",UA-43,autonomous republic,,47.2,3442,3442,3,Europe/Simferopol,FALSE,1804049374
+Hvizd,Hvizd,Gvozd,48.6814,24.5439,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,3441,3441,3,Europe/Kyiv,FALSE,1804838259
+Novopavlivka,Novopavlivka,Novopavlovka,48.1376,36.7827,Ukraine,UA,UKR,Dnipropetrovska Oblast,Dnipropetrovska Oblast,UA-12,province,,18.8,3439,3439,4,Europe/Kyiv,TRUE,1804805504
+Sadzhavka,Sadzhavka,Sadzavka|Sazhovka,48.5694,24.7931,Ukraine,UA,UKR,Ivano-Frankivska Oblast,Ivano-Frankivska Oblast,UA-26,province,,65.7,3438,3438,3,Europe/Kyiv,FALSE,1804753924
+Mykhaylivka-Rubezhivka,Mykhaylivka-Rubezhivka,Mikhaylovka-Rubezhovka,50.5003,30.1458,Ukraine,UA,UKR,Kyivska Oblast,Kyivska Oblast,UA-32,province,,287.4,3430,3430,3,Europe/Kyiv,FALSE,1804441593

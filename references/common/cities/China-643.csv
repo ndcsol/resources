@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Yangjiaying,Yangjiaying,,32.8969,111.0935,China,CN,CHN,Hubei,Hubei,CN-HB,,,108.6,,,4,Asia/Shanghai,TRUE,1156495456
+Wangjia Xiaozhuchengcun,Wangjia Xiaozhuchengcun,,36.4449,119.3451,China,CN,CHN,Shandong,Shandong,CN-SD,,,397.5,,,3,Asia/Shanghai,FALSE,1156486427
+Sanchahecun,Sanchahecun,,32.2246,107.7958,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,36.4,,,4,Asia/Shanghai,FALSE,1156566326
+Sanchahecun,Sanchahecun,,36.1067,117.8555,China,CN,CHN,Shandong,Shandong,CN-SD,,,875.0,,,3,Asia/Shanghai,FALSE,1156469529
+Sanchahecun,Sanchahecun,,36.6282,119.2547,China,CN,CHN,Shandong,Shandong,CN-SD,,,727.2,,,3,Asia/Shanghai,TRUE,1156469528
+Sanchahecun,Sanchahecun,,36.0049,117.9052,China,CN,CHN,Shandong,Shandong,CN-SD,,,498.9,,,3,Asia/Shanghai,TRUE,1156469532
+Sanchahecun,Sanchahecun,,35.5455,117.4406,China,CN,CHN,Shandong,Shandong,CN-SD,,,347.1,,,3,Asia/Shanghai,TRUE,1156606058
+Sanchahecun,Sanchahecun,,35.3673,117.5121,China,CN,CHN,Shandong,Shandong,CN-SD,,,220.8,,,3,Asia/Shanghai,TRUE,1156469534
+Gousunjiacun,Gousunjiacun,,37.5989,120.5849,China,CN,CHN,Shandong,Shandong,CN-SD,,,510.0,,,3,Asia/Shanghai,FALSE,1156527025
+Sunjia Lifucun,Sunjia Lifucun,,36.6527,119.9095,China,CN,CHN,Shandong,Shandong,CN-SD,,,542.9,,,3,Asia/Shanghai,FALSE,1156516563
+Shabacun,Shabacun,,31.3762,118.1003,China,CN,CHN,Anhui,Anhui,CN-AH,,,611.4,,,3,Asia/Shanghai,FALSE,1156479952
+Shabacun,Shabacun,,30.4042,116.3650,China,CN,CHN,Anhui,Anhui,CN-AH,,,409.3,,,3,Asia/Shanghai,TRUE,1156181801
+Shabacun,Shabacun,Shaba,33.3611,117.4861,China,CN,CHN,Anhui,Anhui,CN-AH,,,265.8,,,3,Asia/Shanghai,TRUE,1156469283
+Shabacun,Shabacun,,30.8471,119.5341,China,CN,CHN,Anhui,Anhui,CN-AH,,,253.7,,,3,Asia/Shanghai,TRUE,1156287118
+Shabacun,Shabacun,Shaba,32.4804,117.9377,China,CN,CHN,Anhui,Anhui,CN-AH,,,214.6,,,3,Asia/Shanghai,TRUE,1156266610
+Shabacun,Shabacun,,32.8083,118.0323,China,CN,CHN,Anhui,Anhui,CN-AH,,,197.6,,,4,Asia/Shanghai,TRUE,1156133290
+Shuangshuiquancun,Shuangshuiquancun,,36.5969,117.6843,China,CN,CHN,Shandong,Shandong,CN-SD,,,253.9,,,3,Asia/Shanghai,FALSE,1156157260
+Liwangyuan,Liwangyuan,,25.5969,115.2051,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,59.8,,,4,Asia/Shanghai,FALSE,1156804247
+Yuqing,Yuqing,,31.6398,104.4950,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,370.3,,,3,Asia/Shanghai,FALSE,1156242386
+Yuqing,Yuqing,,31.7917,105.4470,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,58.2,,,4,Asia/Shanghai,TRUE,1156383025
+Yueluo,Yueluo,,28.3833,92.4605,China,CN,CHN,Tibet,Tibet,CN-XZ,,,22.3,,,4,Asia/Shanghai,FALSE,1156222499
+Yueluo,Yueluo,,29.3164,98.6778,China,CN,CHN,Tibet,Tibet,CN-XZ,,,8.1,,,5,Asia/Shanghai,TRUE,1156182836
+Chaoshuidong,Chaoshuidong,,32.0810,111.4977,China,CN,CHN,Hubei,Hubei,CN-HB,,,9.6,,,5,Asia/Shanghai,FALSE,1156244367
+Shuangyuancun,Shuangyuancun,,22.7685,111.1095,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,206.6,,,3,Asia/Shanghai,FALSE,1156536951
+Waigu,Waigu,,30.1221,119.3500,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,93.3,,,4,Asia/Shanghai,FALSE,1156150758
+Weitang Goumen,Weitang Goumen,,41.0718,117.5781,China,CN,CHN,Hebei,Hebei,CN-HE,,,110.9,,,4,Asia/Shanghai,FALSE,1156111503
+Xiaoshanxi,Xiaoshanxi,,24.7567,104.0060,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,238.7,,,3,Asia/Shanghai,FALSE,1156773045
+Haiyanchi,Haiyanchi,,27.3716,103.7450,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,2365.7,,,2,Asia/Shanghai,FALSE,1156528184
+Daxing,Daxing,,29.5465,105.5119,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,325.2,,,3,Asia/Shanghai,FALSE,1156143747
+Daxing,Daxing,,30.5039,107.7829,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,225.3,,,3,Asia/Shanghai,TRUE,1156087478
+Daxing,Daxing,,31.8371,108.7469,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,128.2,,,4,Asia/Shanghai,TRUE,1156638248
+Daxing,Daxing,,31.0070,108.0407,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,121.3,,,4,Asia/Shanghai,TRUE,1156063072
+Daxing,Daxing,,29.2583,106.8910,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,114.6,,,4,Asia/Shanghai,TRUE,1156041491
+Daxing,Daxing,,29.0208,108.8266,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,104.4,,,4,Asia/Shanghai,TRUE,1156330988
+Daxing,Daxing,,30.3884,108.3310,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,80.7,,,4,Asia/Shanghai,TRUE,1156246970
+Xi’aobaogangzi,Xi'aobaogangzi,,45.7498,124.5976,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,84.8,,,4,Asia/Shanghai,FALSE,1156308924
+Aremaili,Aremaili,,40.8308,80.3093,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,autonomous region,,259.4,,,3,Asia/Shanghai,FALSE,1156073795
+Aremaili,Aremaili,,39.2504,75.7884,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,172.0,,,4,Asia/Shanghai,TRUE,1156612511
+Bahacun,Bahacun,Baha,25.0192,107.6909,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,42.8,,,4,Asia/Shanghai,FALSE,1156566533
+Yanjia Sanshancun,Yanjia Sanshancun,,35.9675,118.9059,China,CN,CHN,Shandong,Shandong,CN-SD,,,383.6,,,3,Asia/Shanghai,FALSE,1156490409
+Banshanling,Banshanling,,26.0566,110.7410,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,116.1,,,4,Asia/Shanghai,FALSE,1156343779
+Banshanling,Banshanling,,25.8393,110.6560,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,89.9,,,4,Asia/Shanghai,TRUE,1156701412
+Zhuxi,Zhuxi,,30.9285,107.8405,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,441.3,,,3,Asia/Shanghai,FALSE,1156529463
+Zhuxi,Zhuxi,,31.6121,106.0810,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,201.2,,,3,Asia/Shanghai,TRUE,1156984720
+Juegan,Juegan,,28.0428,102.5448,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,30.2,,,4,Asia/Shanghai,FALSE,1156282953
+Houbuzicun,Houbuzicun,,35.9873,116.2636,China,CN,CHN,Shandong,Shandong,CN-SD,,,1031.3,,,3,Asia/Shanghai,FALSE,1156536209
+Houbuzicun,Houbuzicun,,35.7868,118.5804,China,CN,CHN,Shandong,Shandong,CN-SD,,,495.5,,,3,Asia/Shanghai,TRUE,1156536210
+Fangmashao,Fangmashao,,25.7690,102.8460,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,176.4,,,4,Asia/Shanghai,FALSE,1156111796
+Dacun,Dacun,,27.5347,112.2074,China,CN,CHN,Hunan,Hunan,CN-HN,,,489.6,,,3,Asia/Shanghai,FALSE,1156006478
+Dacun,Dacun,,25.2355,112.7103,China,CN,CHN,Hunan,Hunan,CN-HN,,,337.5,,,3,Asia/Shanghai,TRUE,1156392213
+Dacun,Dacun,,27.6876,110.3565,China,CN,CHN,Hunan,Hunan,CN-HN,,,277.3,,,3,Asia/Shanghai,TRUE,1156095390
+Dacun,Dacun,,27.9534,110.0602,China,CN,CHN,Hunan,Hunan,CN-HN,,,211.6,,,3,Asia/Shanghai,TRUE,1156238469
+Dacun,Dacun,,24.8451,111.7061,China,CN,CHN,Hunan,Hunan,CN-HN,,,207.4,,,3,Asia/Shanghai,TRUE,1156553409
+Dacun,Dacun,,25.7081,112.3314,China,CN,CHN,Hunan,Hunan,CN-HN,,,202.3,,,3,Asia/Shanghai,TRUE,1156881115
+Dacun,Dacun,,25.4534,113.6603,China,CN,CHN,Hunan,Hunan,CN-HN,,,156.2,,,4,Asia/Shanghai,TRUE,1156669308
+Dacun,Dacun,,29.2658,110.1579,China,CN,CHN,Hunan,Hunan,CN-HN,,,38.3,,,4,Asia/Shanghai,TRUE,1156031929
+Dacun,Dacun,,28.8139,110.2829,China,CN,CHN,Hunan,Hunan,CN-HN,,,23.8,,,4,Asia/Shanghai,TRUE,1156039664
+Dacun,Dacun,,25.5070,111.4749,China,CN,CHN,Hunan,Hunan,CN-HN,,,3.6,,,5,Asia/Shanghai,TRUE,1156000671
+Dacun,Dacun,,18.3236,109.3099,China,CN,CHN,Hainan,Hainan,CN-HI,,,544.6,,,3,Asia/Shanghai,FALSE,1156422148
+Dacun,Dacun,,19.4157,110.6196,China,CN,CHN,Hainan,Hainan,CN-HI,,,237.7,,,3,Asia/Shanghai,TRUE,1156108198
+Dacun,Dacun,Dahecun,19.5382,110.4170,China,CN,CHN,Hainan,Hainan,CN-HI,,,189.8,,,4,Asia/Shanghai,TRUE,1156829217
+Dacun,Dacun,Baishiling,19.5657,110.0974,China,CN,CHN,Hainan,Hainan,CN-HI,,,127.0,,,4,Asia/Shanghai,TRUE,1156803027
+Dacun,Dacun,,18.6375,110.0950,China,CN,CHN,Hainan,Hainan,CN-HI,,,32.9,,,4,Asia/Shanghai,TRUE,1156015217
+Dacun,Dacun,,18.5993,108.9437,China,CN,CHN,Hainan,Hainan,CN-HI,,,12.8,,,4,Asia/Shanghai,TRUE,1156097967
+Lishuicun,Lishuicun,,29.4068,119.9517,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1072.8,,,3,Asia/Shanghai,FALSE,1156398999
+Dacun,Dacun,,38.2917,116.3880,China,CN,CHN,Hebei,Hebei,CN-HE,,,546.1,,,3,Asia/Shanghai,FALSE,1156891710
+Dacun,Dacun,,36.9666,114.5240,China,CN,CHN,Hebei,Hebei,CN-HE,,,431.4,,,3,Asia/Shanghai,TRUE,1156350563
+Dongguang,Dongguang,,48.1137,126.8374,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,province,,88.7,,,4,Asia/Shanghai,FALSE,1156798010
+Dongguang,Dongguang,,46.9555,133.2451,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,1.1,,,5,Asia/Shanghai,TRUE,1156321755
+Dacun,Dacun,,35.9606,114.8250,China,CN,CHN,Henan,Henan,CN-HA,,,608.2,,,3,Asia/Shanghai,FALSE,1156207533
+Dacun,Dacun,,33.9999,111.0708,China,CN,CHN,Henan,Henan,CN-HA,,,441.0,,,3,Asia/Shanghai,TRUE,1156547035
+Dacun,Dacun,,35.8486,115.0160,China,CN,CHN,Henan,Henan,CN-HA,,,435.5,,,3,Asia/Shanghai,TRUE,1156193276
+Dacun,Dacun,,34.0886,112.1922,China,CN,CHN,Henan,Henan,CN-HA,,,124.0,,,4,Asia/Shanghai,TRUE,1156893623
+Dacun,Dacun,,34.1908,110.7878,China,CN,CHN,Henan,Henan,CN-HA,,,51.8,,,4,Asia/Shanghai,TRUE,1156050376
+Dong’ao,Dong'ao,,27.4898,114.9520,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,329.5,,,3,Asia/Shanghai,FALSE,1156163071
+Dong’ao,Dong'ao,,28.8610,118.0749,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,230.8,,,3,Asia/Shanghai,TRUE,1156254560
+Dong’ao,Dong'ao,,29.3391,114.6090,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,29.6,,,4,Asia/Shanghai,TRUE,1156181393
+Sidaohezi,Sidaohezi,,39.2912,121.8442,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,715.4,,,3,Asia/Shanghai,FALSE,1156402081
+Sidaohezi,Sidaohezi,,41.1750,124.1416,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,236.6,,,3,Asia/Shanghai,TRUE,1156141844
+Sidaohezi,Sidaohezi,Ssu-tao-ho-tzu,41.3453,125.2286,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,232.7,,,3,Asia/Shanghai,TRUE,1156486159
+Sidaohezi,Sidaohezi,,40.8052,119.0775,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,42.9,,,4,Asia/Shanghai,TRUE,1156459994
+Dacun,Dacun,,30.2214,110.4256,China,CN,CHN,Hubei,Hubei,CN-HB,,,105.7,,,4,Asia/Shanghai,FALSE,1156051177
+Dacun,Dacun,,29.9964,108.9371,China,CN,CHN,Hubei,Hubei,CN-HB,,,48.4,,,4,Asia/Shanghai,TRUE,1156261814
+Baiyangquanzi,Baiyangquanzi,,38.8349,101.1490,China,CN,CHN,Gansu,Gansu,CN-GS,,,104.2,,,4,Asia/Shanghai,FALSE,1156222112
+Qilingshanxincun,Qilingshanxincun,,22.8522,116.0747,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,1404.8,,,3,Asia/Shanghai,FALSE,1156596974
+Xichaoyanggou,Xichaoyanggou,,43.4350,125.0201,China,CN,CHN,Jilin,Jilin,CN-JL,,,204.4,,,3,Asia/Shanghai,FALSE,1156391394
+Xichaoyanggou,Xichaoyanggou,,43.7714,126.2532,China,CN,CHN,Jilin,Jilin,CN-JL,,,153.6,,,4,Asia/Shanghai,TRUE,1156688764
+Jinmatang,Jinmatang,Donghaipo,19.9461,110.9436,China,CN,CHN,Hainan,Hainan,CN-HI,,,96.1,,,4,Asia/Shanghai,FALSE,1156053484
+Huyangli,Huyangli,,25.0314,116.3793,China,CN,CHN,Fujian,Fujian,CN-FJ,,,718.2,,,3,Asia/Shanghai,FALSE,1156464589
+Huyangli,Huyangli,,24.7110,116.6206,China,CN,CHN,Fujian,Fujian,CN-FJ,,,119.4,,,4,Asia/Shanghai,TRUE,1156948674
+Hetaoyuancun,Hetaoyuancun,Hetaoyuan,36.2343,114.4375,China,CN,CHN,Hebei,Hebei,CN-HE,,,777.0,,,3,Asia/Shanghai,FALSE,1156035833
+Mengjia Guanzhuangcun,Mengjia Guanzhuangcun,,36.7679,118.7443,China,CN,CHN,Shandong,Shandong,CN-SD,,,662.7,,,3,Asia/Shanghai,FALSE,1156521150
+Mengjia Guanzhuangcun,Mengjia Guanzhuangcun,,36.3485,119.3513,China,CN,CHN,Shandong,Shandong,CN-SD,,,629.7,,,3,Asia/Shanghai,TRUE,1156521148
+Mengjia Guanzhuangcun,Mengjia Guanzhuangcun,,36.2905,119.2724,China,CN,CHN,Shandong,Shandong,CN-SD,,,629.7,,,3,Asia/Shanghai,TRUE,1156521147
+Mengjia Guanzhuangcun,Mengjia Guanzhuangcun,,36.2475,117.4865,China,CN,CHN,Shandong,Shandong,CN-SD,,,597.9,,,3,Asia/Shanghai,TRUE,1156521151
+Mengjia Guanzhuangcun,Mengjia Guanzhuangcun,,35.2601,119.2875,China,CN,CHN,Shandong,Shandong,CN-SD,,,408.3,,,3,Asia/Shanghai,TRUE,1156437660
+Dabei,Dabei,,27.4242,114.6320,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,606.3,,,3,Asia/Shanghai,FALSE,1156918838
+Dabei,Dabei,,25.9789,115.5296,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,353.9,,,3,Asia/Shanghai,TRUE,1156342444
+Dabei,Dabei,,25.7787,115.7228,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,339.0,,,3,Asia/Shanghai,TRUE,1156210491
+Dabei,Dabei,,25.6114,114.9866,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,182.5,,,4,Asia/Shanghai,TRUE,1156114683
+Dabei,Dabei,,26.0949,114.6200,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,169.5,,,4,Asia/Shanghai,TRUE,1156145144
+Dabei,Dabei,,25.8051,116.0720,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,82.3,,,4,Asia/Shanghai,TRUE,1156196087
+Wayaotou,Wayaotou,,24.3068,114.0017,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,108.3,,,4,Asia/Shanghai,FALSE,1156180851
+Daxibian,Daxibian,,27.1115,119.6371,China,CN,CHN,Fujian,Fujian,CN-FJ,,,402.3,,,3,Asia/Shanghai,FALSE,1156173502
+Tanliangshang,Tanliangshang,,33.8740,106.6841,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,28.1,,,4,Asia/Shanghai,FALSE,1156724763
+Kexilong,Kexilong,,31.5535,91.3506,China,CN,CHN,Tibet,Tibet,CN-XZ,,,12.6,,,4,Asia/Shanghai,FALSE,1156136924
+Heshangwan,Heshangwan,,35.3712,105.2542,China,CN,CHN,Gansu,Gansu,CN-GS,,,102.1,,,4,Asia/Shanghai,FALSE,1156299183
+Liufangtou,Liufangtou,,27.3090,111.3217,China,CN,CHN,Hunan,Hunan,CN-HN,,,424.5,,,3,Asia/Shanghai,FALSE,1156743134
+Liufangtou,Liufangtou,,27.1497,110.6008,China,CN,CHN,Hunan,Hunan,CN-HN,,,213.1,,,3,Asia/Shanghai,TRUE,1156576175
+Pengkengtang,Pengkengtang,,24.1109,115.5634,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,558.5,,,3,Asia/Shanghai,FALSE,1156242664
+Dongzhougao,Dongzhougao,,37.7373,116.1800,China,CN,CHN,Hebei,Hebei,CN-HE,,,468.5,,,3,Asia/Shanghai,FALSE,1156231266
+Dabei,Dabei,Ta-pei-p’u|Ta-pei-pao|Ta-pei-ch’a|Pei-ch’a|Ta-pei,44.1833,126.8667,China,CN,CHN,Jilin,Jilin,CN-JL,,,41.2,,,4,Asia/Shanghai,FALSE,1156150629
+Changla,Changla,,24.0297,112.8381,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,252.5,,,3,Asia/Shanghai,FALSE,1156677177
+Maotuanhulun,Maotuanhulun,Mao-t’u-hu-lun,37.6084,108.5194,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,142.0,,,4,Asia/Shanghai,FALSE,1156136333
+Litingbaicun,Litingbaicun,,36.6235,115.8605,China,CN,CHN,Shandong,Shandong,CN-SD,,,538.7,,,3,Asia/Shanghai,FALSE,1156495540
+Douying,Douying,Tou-ying,40.2167,115.6000,China,CN,CHN,Hebei,Hebei,CN-HE,,,75.1,,,4,Asia/Shanghai,FALSE,1156212683
+Ailingcun,Ailingcun,,29.8935,121.3377,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,556.7,,,3,Asia/Shanghai,FALSE,1156400670
+Meishecun,Meishecun,,31.2251,120.4277,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,495.8,,,3,Asia/Shanghai,FALSE,1156371661
+Liushuying,Liushuying,,32.8429,118.6640,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,199.0,,,4,Asia/Shanghai,FALSE,1156006436
+Nabi,Nabi,,23.8054,105.2370,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,153.5,,,4,Asia/Shanghai,FALSE,1156588185
+Nabi,Nabi,,23.5233,105.9100,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,70.1,,,4,Asia/Shanghai,TRUE,1156027191
+Nabi,Nabi,,24.0016,105.6400,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,47.4,,,4,Asia/Shanghai,TRUE,1156196036
+Nabi,Nabi,,22.3359,100.5340,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,29.4,,,4,Asia/Shanghai,TRUE,1156877702
+Liliuxianshengtun,Liliuxianshengtun,,46.5630,126.2297,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,159.1,,,4,Asia/Shanghai,FALSE,1156328491
+Fengshutou,Fengshutou,,23.6025,116.0181,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,2.0,,,5,Asia/Shanghai,FALSE,1156011692
+Baishuitang,Baishuitang,,25.1277,112.9066,China,CN,CHN,Hunan,Hunan,CN-HN,,,616.6,,,3,Asia/Shanghai,FALSE,1156278137
+Qinjiecun,Qinjiecun,,32.2907,120.3613,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,782.4,,,3,Asia/Shanghai,FALSE,1156359912
+Caijiazhuang,Caijiazhuang,,32.1953,119.9603,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,2478.4,,,2,Asia/Shanghai,FALSE,1156040324
+Caijiazhuang,Caijiazhuang,,32.2307,120.2798,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,1611.0,,,3,Asia/Shanghai,TRUE,1156111831
+Caijiazhuang,Caijiazhuang,,32.0948,119.7783,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,1027.4,,,3,Asia/Shanghai,TRUE,1156747927
+Caijiazhuang,Caijiazhuang,,32.5567,120.8878,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,374.2,,,3,Asia/Shanghai,TRUE,1156087725
+Caijiazhuang,Caijiazhuang,,32.4311,120.8980,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,318.3,,,3,Asia/Shanghai,TRUE,1156016255
+Luodan,Luodan,,19.0880,109.6950,China,CN,CHN,Hainan,Hainan,CN-HI,,,35.8,,,4,Asia/Shanghai,FALSE,1156541175
+Xiachangping,Xiachangping,,27.4584,110.0931,China,CN,CHN,Hunan,Hunan,CN-HN,,,63.3,,,4,Asia/Shanghai,FALSE,1156048128
+Qisha,Qisha,,22.8438,113.6138,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,5574.1,,,2,Asia/Shanghai,FALSE,1156340367
+Qisha,Qisha,,23.0167,113.5000,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,1780.9,,,3,Asia/Shanghai,TRUE,1156988695
+Qisha,Qisha,,22.0509,113.3285,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,152.2,,,4,Asia/Shanghai,TRUE,1156187542
+Bashan,Bashan,Chongren Xian|Hung-ch’i-chen|Ch’ung-jen-hsien-ch’eng|Baqiu|Ch’ung-jen|Ch’ung-jen-hsien|Tsungjen|Ts’un-jen|Bashan Zhen,27.7667,116.0514,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,minor,766.5,,,3,Asia/Shanghai,FALSE,1156362076
+Bashan,Bashan,,27.5749,115.9609,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,156.2,,,4,Asia/Shanghai,TRUE,1156026909
+Youkengyang,Youkengyang,Youkeng,26.5786,118.4357,China,CN,CHN,Fujian,Fujian,CN-FJ,,,35.2,,,4,Asia/Shanghai,FALSE,1156659205
+Bashancun,Bashancun,,32.5095,118.7563,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,322.4,,,3,Asia/Shanghai,FALSE,1156291813
+Xiaoshumidan,Xiaoshumidan,,25.8493,102.9700,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,194.0,,,4,Asia/Shanghai,FALSE,1156197774
+Saibu,Saibu,,30.2924,97.8831,China,CN,CHN,Tibet,Tibet,CN-XZ,,,4.4,,,5,Asia/Shanghai,FALSE,1156084508
+Yaogongcun,Yaogongcun,,44.8017,127.0268,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,196.3,,,4,Asia/Shanghai,FALSE,1156355126
+Andacun,Andacun,,29.9059,105.5020,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,266.1,,,3,Asia/Shanghai,FALSE,1156226443
+Dongdayaocun,Dongdayaocun,,35.7659,117.9510,China,CN,CHN,Shandong,Shandong,CN-SD,,,1633.2,,,3,Asia/Shanghai,FALSE,1156519965
+Ejing’ao,Ejing'ao,,27.9281,111.1007,China,CN,CHN,Hunan,Hunan,CN-HN,,,347.5,,,3,Asia/Shanghai,FALSE,1156097256
+Caoxicun,Caoxicun,,27.7152,120.4525,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,377.2,,,3,Asia/Shanghai,FALSE,1156387820
+Caoxicun,Caoxicun,,28.6354,120.3875,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,28.3,,,4,Asia/Shanghai,TRUE,1156383062
+Xinyun Liuzu,Xinyun Liuzu,,33.6840,120.0570,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,321.6,,,3,Asia/Shanghai,FALSE,1156520794
+Qianjinhe,Qianjinhe,,46.7144,127.1809,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,228.5,,,3,Asia/Shanghai,FALSE,1156300860
+Erjiedicun,Erjiedicun,,41.0044,121.2938,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,230.6,,,3,Asia/Shanghai,FALSE,1156054850
+Xiangbeicun,Xiangbeicun,,31.8861,121.7939,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,371.2,,,3,Asia/Shanghai,FALSE,1156369060
+Xiangbeicun,Xiangbeicun,,33.1197,120.5469,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,287.3,,,3,Asia/Shanghai,TRUE,1156365717
+Bolijuezi Houtun,Bolijuezi Houtun,,43.3546,126.2209,China,CN,CHN,Jilin,Jilin,CN-JL,,,45.2,,,4,Asia/Shanghai,FALSE,1156771849
+Waijia,Waijia,,28.2147,115.0991,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,203.8,,,3,Asia/Shanghai,FALSE,1156272534
+Huashuxia,Huashuxia,,27.1637,115.1770,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,738.3,,,3,Asia/Shanghai,FALSE,1156067176
+Huashuxia,Huashuxia,,27.3805,115.4743,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,488.7,,,3,Asia/Shanghai,TRUE,1156515003
+Huashuxia,Huashuxia,,27.1157,114.7491,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,196.2,,,4,Asia/Shanghai,TRUE,1156517421
+Huashuxia,Huashuxia,,26.4235,115.5436,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,174.7,,,4,Asia/Shanghai,TRUE,1156561022
+Xidifangzicun,Xidifangzicun,,47.7469,124.1202,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,19.8,,,4,Asia/Shanghai,FALSE,1156295992
+Wenfeng,Wenfeng,,29.7651,108.2799,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,87.6,,,4,Asia/Shanghai,FALSE,1156808584
+Yanlaicun,Yanlaicun,,25.0565,106.8034,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,17.3,,,4,Asia/Shanghai,FALSE,1156168469
+Yanding,Yanding,,25.1356,118.4172,China,CN,CHN,Fujian,Fujian,CN-FJ,,,1072.4,,,3,Asia/Shanghai,FALSE,1156682680
+Liangjiazicun,Liangjiazicun,,42.7119,123.3824,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,253.0,,,3,Asia/Shanghai,FALSE,1156419361
+Liangjiazicun,Liangjiazicun,,40.8108,119.6064,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,213.9,,,3,Asia/Shanghai,TRUE,1156073956
+Liangjiazicun,Liangjiazicun,,42.5247,123.8670,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,207.0,,,3,Asia/Shanghai,TRUE,1156345099
+Liangjiazicun,Liangjiazicun,,41.6636,122.2564,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,156.9,,,4,Asia/Shanghai,TRUE,1156027697
+Liangjiazicun,Liangjiazicun,,43.3020,123.9826,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,129.3,,,4,Asia/Shanghai,TRUE,1156420362
+Liangjiazicun,Liangjiazicun,,42.3963,122.1640,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,112.9,,,4,Asia/Shanghai,TRUE,1156357396
+Liangjiazicun,Liangjiazicun,,41.8562,121.7947,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,110.6,,,4,Asia/Shanghai,TRUE,1156424242
+Liangjiazicun,Liangjiazicun,,42.2107,122.5273,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,74.2,,,4,Asia/Shanghai,TRUE,1156226007
+Liangjiazicun,Liangjiazicun,,42.1428,121.4045,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,65.1,,,4,Asia/Shanghai,TRUE,1156343186
+Liangjiazicun,Liangjiazicun,,42.1620,122.3155,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,31.5,,,4,Asia/Shanghai,TRUE,1156359264
+Majiagouzi,Majiagouzi,,43.0052,124.2380,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,168.5,,,4,Asia/Shanghai,FALSE,1156798057
+Qianhanjiacun,Qianhanjiacun,,37.3568,117.5686,China,CN,CHN,Shandong,Shandong,CN-SD,,,372.4,,,3,Asia/Shanghai,FALSE,1156491564
+Xiaohuanxi,Xiaohuanxi,Hsiao-huan-hsi-ao,30.1961,122.1694,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,269.7,,,3,Asia/Shanghai,FALSE,1156255525
+Hejiu,Hejiu,,19.3552,109.7288,China,CN,CHN,Hainan,Hainan,CN-HI,,,80.9,,,4,Asia/Shanghai,FALSE,1156075828
+Sui’er Lekecun,Sui'er Lekecun,,41.7557,83.1646,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,38.3,,,4,Asia/Shanghai,FALSE,1156431166
+Liunanyaocun,Liunanyaocun,,40.4166,114.4087,China,CN,CHN,Hebei,Hebei,CN-HE,,,52.3,,,4,Asia/Shanghai,FALSE,1156560102
+Tai’an,Tai'an,,29.0768,117.1280,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,426.3,,,3,Asia/Shanghai,FALSE,1156492468
+Tai’an,Tai'an,,27.5752,115.4221,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,87.0,,,4,Asia/Shanghai,TRUE,1156952930
+Long’erhui,Long'erhui,,38.6369,110.9693,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,99.4,,,4,Asia/Shanghai,FALSE,1156273915
+Wangxiaozhang,Wangxiaozhang,,36.9873,107.1929,China,CN,CHN,Gansu,Gansu,CN-GS,,,14.2,,,4,Asia/Shanghai,FALSE,1156578054
+Tai’an,Tai'an,,31.3466,118.8467,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,2318.7,,,2,Asia/Shanghai,FALSE,1156488929
+Xianggangcun,Xianggangcun,,23.5917,116.4443,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,1498.2,,,3,Asia/Shanghai,FALSE,1156495524
+Xianggangcun,Xianggangcun,,23.0214,116.4771,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,840.9,,,3,Asia/Shanghai,TRUE,1156361687
+Heixiazigoucun,Heixiazigoucun,Heixiagou,42.1176,125.4220,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,57.5,,,4,Asia/Shanghai,FALSE,1156345141
+Jingzhuzhai,Jingzhuzhai,,24.9343,98.4621,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,175.0,,,4,Asia/Shanghai,FALSE,1156127760
+Chahan Aobao,Chahan Aobao,,41.4184,113.2747,China,CN,CHN,Inner Mongolia,Inner Mongolia,CN-NM,,,117.9,,,4,Asia/Shanghai,FALSE,1156207629
+Liangzijie,Liangzijie,,23.4656,105.0060,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,110.8,,,4,Asia/Shanghai,FALSE,1156548079
+Liangzijie,Liangzijie,,24.4465,98.3129,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,105.8,,,4,Asia/Shanghai,TRUE,1156047500
+Longtaicun,Longtaicun,,40.8201,122.6636,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,335.4,,,3,Asia/Shanghai,FALSE,1156333539
+Quanzi Langjunzhuangcun,Quanzi Langjunzhuangcun,,36.5707,119.2491,China,CN,CHN,Shandong,Shandong,CN-SD,,,964.3,,,3,Asia/Shanghai,FALSE,1156475242
+Rendong,Rendong,,22.1994,111.8508,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,997.5,,,3,Asia/Shanghai,FALSE,1156655279
+Chuanbutoucun,Chuanbutoucun,,28.6607,120.0966,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1550.6,,,3,Asia/Shanghai,FALSE,1156408180
+Chuanbutoucun,Chuanbutoucun,,29.3193,120.1565,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1157.9,,,3,Asia/Shanghai,TRUE,1156412845
+Zhaoshun,Zhaoshun,Zhaoshunying,41.5592,114.6728,China,CN,CHN,Hebei,Hebei,CN-HE,,,48.2,,,4,Asia/Shanghai,FALSE,1156054973
+Dazhanghe,Dazhanghe,,36.7211,109.2093,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,44.5,,,4,Asia/Shanghai,FALSE,1156989623
+Jingqiu Yicun,Jingqiu Yicun,,36.0554,119.0430,China,CN,CHN,Shandong,Shandong,CN-SD,,,343.3,,,3,Asia/Shanghai,FALSE,1156868489
+Qiangeng Jiabu,Qiangeng Jiabu,,35.1711,118.1818,China,CN,CHN,Shandong,Shandong,CN-SD,,,843.6,,,3,Asia/Shanghai,FALSE,1156470138
+Xingyicun,Xingyicun,,47.3187,125.5422,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,province,,101.0,,,4,Asia/Shanghai,FALSE,1156322658
+Xingyicun,Xingyicun,,46.8480,131.0235,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,59.6,,,4,Asia/Shanghai,TRUE,1156476333
+Xingyicun,Xingyicun,,47.2100,122.9313,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,58.2,,,4,Asia/Shanghai,TRUE,1156294683
+Xingyicun,Xingyicun,,49.4773,126.2438,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,6.4,,,5,Asia/Shanghai,TRUE,1156553601
+Liuheko,Liuheko,,33.1250,115.6250,China,CN,CHN,Anhui,Anhui,CN-AH,,,748.8,,,3,Asia/Shanghai,FALSE,1156125056
+Hejiacun,Hejiacun,,25.3910,110.3161,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,1172.5,,,3,Asia/Shanghai,FALSE,1156549035
+Xizhao,Xizhao,,35.5331,111.3398,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,346.9,,,3,Asia/Shanghai,FALSE,1156183299
+Xizhao,Xizhao,Hsi-chao,37.7167,112.8653,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,83.5,,,4,Asia/Shanghai,TRUE,1156972356
+Zhangdahuangtun,Zhangdahuangtun,,47.3888,127.1080,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,218.8,,,3,Asia/Shanghai,FALSE,1156301271
+Muguaqinggou,Muguaqinggou,,25.5854,99.2805,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,58.2,,,4,Asia/Shanghai,FALSE,1156599851
+Sanhechang,Sanhechang,,27.2013,106.9570,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,135.5,,,4,Asia/Shanghai,FALSE,1156756293
+Ligeng,Ligeng,,26.2293,116.9146,China,CN,CHN,Fujian,Fujian,CN-FJ,,,76.8,,,4,Asia/Shanghai,FALSE,1156460728
+Ximajian,Ximajian,,30.9706,119.1534,China,CN,CHN,Anhui,Anhui,CN-AH,,,405.1,,,3,Asia/Shanghai,FALSE,1156084996
+Nanshan,Nanshan,,27.8333,121.0167,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,687.3,,,3,Asia/Shanghai,FALSE,1156175716
+Nanshan,Nanshan,,28.3339,119.7972,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,406.3,,,3,Asia/Shanghai,TRUE,1156555278
+Nanshan,Nanshan,,29.8050,121.8661,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,260.1,,,3,Asia/Shanghai,TRUE,1156014154
+Nanshan,Nanshan,,29.3765,119.0797,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,235.9,,,3,Asia/Shanghai,TRUE,1156600310
+Nanshan,Nanshan,,27.8340,120.2685,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,75.6,,,4,Asia/Shanghai,TRUE,1156219691
+Yingmaotuo,Yingmaotuo,,41.5307,96.0473,China,CN,CHN,Gansu,Gansu,CN-GS,,,0.2,,,5,Asia/Shanghai,FALSE,1156539223
+Pantian Nongchang,Pantian Nongchang,,28.9280,117.6554,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,664.6,,,3,Asia/Shanghai,FALSE,1156047850
+Haogezhuangcun,Haogezhuangcun,,37.1596,121.1962,China,CN,CHN,Shandong,Shandong,CN-SD,,,248.2,,,3,Asia/Shanghai,FALSE,1156434071
+Damulin,Damulin,,24.8262,110.6070,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,208.9,,,3,Asia/Shanghai,FALSE,1156689528
+Minghu Shequ,Minghu Shequ,Minghu,24.9102,118.6062,China,CN,CHN,Fujian,Fujian,CN-FJ,,,8331.6,,,2,Asia/Shanghai,FALSE,1156432219
+Baicun,Baicun,,22.0777,110.8637,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,416.1,,,3,Asia/Shanghai,FALSE,1156558543
+Baicun,Baicun,,22.9526,112.1532,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,391.9,,,3,Asia/Shanghai,TRUE,1156580430
+Baicun,Baicun,,22.6270,112.4261,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,221.0,,,3,Asia/Shanghai,TRUE,1156209535
+Baicun,Baicun,,23.2217,112.0842,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,178.5,,,4,Asia/Shanghai,TRUE,1156580428
+Zhaoxian,Zhaoxian,,22.7710,114.8921,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,998.7,,,3,Asia/Shanghai,FALSE,1156695583
+Dabolicun,Dabolicun,,37.4276,117.4110,China,CN,CHN,Shandong,Shandong,CN-SD,,,399.8,,,3,Asia/Shanghai,FALSE,1156266713
+Shanglinfan,Shanglinfan,,28.6481,118.1135,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,376.9,,,3,Asia/Shanghai,FALSE,1156547600
+Baicun,Baicun,,35.0677,107.5150,China,CN,CHN,Gansu,Gansu,CN-GS,,,83.3,,,4,Asia/Shanghai,FALSE,1156234019
+Shixiqiao,Shixiqiao,Shih-hsi-ch’iao|Shih-ch’i-ch’iao,30.8833,118.3833,China,CN,CHN,Anhui,Anhui,CN-AH,,,725.1,,,3,Asia/Shanghai,FALSE,1156628627
+Dawuhaocun,Dawuhaocun,,44.9324,126.0007,China,CN,CHN,Jilin,Jilin,CN-JL,,,133.0,,,4,Asia/Shanghai,FALSE,1156555431
+Fufeng,Fufeng,,29.4983,117.0950,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,64.9,,,4,Asia/Shanghai,FALSE,1156174725
+Maotiaojing,Maotiaojing,,38.8269,103.9540,China,CN,CHN,Gansu,Gansu,CN-GS,,,3.8,,,5,Asia/Shanghai,FALSE,1156250966
+Da’erniao,Da'erniao,,27.8887,102.3605,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,177.7,,,4,Asia/Shanghai,FALSE,1156075484
+Bijixi,Bijixi,,36.3925,80.4776,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,12.1,,,4,Asia/Shanghai,FALSE,1156103155
+Dong’oucun,Dong'oucun,,25.6041,119.4813,China,CN,CHN,Fujian,Fujian,CN-FJ,,,2401.5,,,2,Asia/Shanghai,FALSE,1156438877
+Shubaixi,Shubaixi,,27.3705,104.0510,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,215.1,,,3,Asia/Shanghai,FALSE,1156170296
+Nanmushan,Nanmushan,,26.4028,110.3547,China,CN,CHN,Hunan,Hunan,CN-HN,,,411.4,,,3,Asia/Shanghai,FALSE,1156100723
+Nanmushan,Nanmushan,,27.4203,109.3839,China,CN,CHN,Hunan,Hunan,CN-HN,,,204.8,,,3,Asia/Shanghai,TRUE,1156342428
+Nanmushan,Nanmushan,,27.6402,110.2592,China,CN,CHN,Hunan,Hunan,CN-HN,,,60.4,,,4,Asia/Shanghai,TRUE,1156137732
+Nanmushan,Nanmushan,,27.0977,110.5250,China,CN,CHN,Hunan,Hunan,CN-HN,,,55.5,,,4,Asia/Shanghai,TRUE,1156987777
+Nanmushan,Nanmushan,,26.4081,109.3356,China,CN,CHN,Hunan,Hunan,CN-HN,,,54.4,,,4,Asia/Shanghai,TRUE,1156900244
+Nanmushan,Nanmushan,,28.8180,111.1153,China,CN,CHN,Hunan,Hunan,CN-HN,,,49.6,,,4,Asia/Shanghai,TRUE,1156895141
+Nanmushan,Nanmushan,,28.7867,110.4111,China,CN,CHN,Hunan,Hunan,CN-HN,,,45.2,,,4,Asia/Shanghai,TRUE,1156678743
+Nanmushan,Nanmushan,,26.3553,109.9035,China,CN,CHN,Hunan,Hunan,CN-HN,,,37.2,,,4,Asia/Shanghai,TRUE,1156124403
+Shuqi,Shuqi,,28.4426,102.6430,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,236.8,,,3,Asia/Shanghai,FALSE,1156046141
+Shitanmiao,Shitanmiao,,26.9339,112.8414,China,CN,CHN,Hunan,Hunan,CN-HN,,,305.8,,,3,Asia/Shanghai,FALSE,1156538293
+Yujiawa,Yujiawa,,37.2381,106.9840,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,5.9,,,5,Asia/Shanghai,FALSE,1156039591
+Baloucun,Baloucun,,36.2527,116.9299,China,CN,CHN,Shandong,Shandong,CN-SD,,,248.6,,,3,Asia/Shanghai,FALSE,1156509693
+Xiqiaotoubeicun,Xiqiaotoubeicun,,35.1568,117.0103,China,CN,CHN,Shandong,Shandong,CN-SD,,,769.6,,,3,Asia/Shanghai,FALSE,1156187898
+Baowan,Baowan,Baowancun,19.1142,109.0341,China,CN,CHN,Hainan,Hainan,CN-HI,,,160.5,,,4,Asia/Shanghai,FALSE,1156120601
+Baowan,Baowan,Pao-wan,18.7933,109.1097,China,CN,CHN,Hainan,Hainan,CN-HI,,,12.8,,,4,Asia/Shanghai,TRUE,1156719424
+Akesayigang,Akesayigang,,40.7841,80.8358,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,autonomous region,,0.0,,,5,Asia/Shanghai,FALSE,1156410089
+Balingtoucun,Balingtoucun,Balingtou|Pa-ling-tien,28.9528,121.4741,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,174.7,,,4,Asia/Shanghai,FALSE,1156792041
+Kuoleduo’erlima,Kuoleduo'erlima,,37.9258,77.6109,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,41.3,,,4,Asia/Shanghai,FALSE,1156558887
+Xiawucun,Xiawucun,,23.4731,116.7035,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,2317.3,,,2,Asia/Shanghai,FALSE,1156336829
+Xiawucun,Xiawucun,,25.2247,114.6843,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,136.9,,,4,Asia/Shanghai,TRUE,1156504742
+Pêxung,Pexung,Gongqi’emada|Baixiong,32.4000,92.7833,China,CN,CHN,Tibet,Tibet,CN-XZ,,,5.0,,,5,Asia/Shanghai,FALSE,1156505748
+Arika Jilega,Arika Jilega,,41.2092,82.8534,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,120.6,,,4,Asia/Shanghai,FALSE,1156578066
+Dundunquan,Dundunquan,,37.2441,104.2190,China,CN,CHN,Gansu,Gansu,CN-GS,,,15.4,,,4,Asia/Shanghai,FALSE,1156280062
+Wangmishan,Wangmishan,,32.7923,105.1820,China,CN,CHN,Gansu,Gansu,CN-GS,,,48.8,,,4,Asia/Shanghai,FALSE,1156990016
+Jialongcun,Jialongcun,,32.4753,118.5457,China,CN,CHN,Anhui,Anhui,CN-AH,,,361.2,,,3,Asia/Shanghai,FALSE,1156285468
+Zhongziyuan Shequ,Zhongziyuan Shequ,,46.3134,130.9684,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,36.7,,,4,Asia/Shanghai,FALSE,1156468410
+Yuanpo Xiacun,Yuanpo Xiacun,,36.0638,104.8600,China,CN,CHN,Gansu,Gansu,CN-GS,,,62.3,,,4,Asia/Shanghai,FALSE,1156954919
+Taishan,Taishan,,22.4874,112.6288,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,245.1,,,3,Asia/Shanghai,TRUE,1156463525
+Duikou,Duikou,,26.7797,104.3740,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,257.3,,,3,Asia/Shanghai,FALSE,1156885830
+Nü’erfen,Nu'erfen,,30.1579,105.8058,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,1586.3,,,3,Asia/Shanghai,FALSE,1156753679
+Taishan,Taishan,,27.4808,107.5122,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,97.4,,,4,Asia/Shanghai,FALSE,1156038445
+Wuchalucun,Wuchalucun,,32.7934,116.4021,China,CN,CHN,Anhui,Anhui,CN-AH,,,868.6,,,3,Asia/Shanghai,FALSE,1156065048
+Taishan,Taishan,,35.1002,104.9190,China,CN,CHN,Gansu,Gansu,CN-GS,,,78.9,,,4,Asia/Shanghai,FALSE,1156197596
+Taishan,Taishan,,34.0116,105.6992,China,CN,CHN,Gansu,Gansu,CN-GS,,,52.2,,,4,Asia/Shanghai,TRUE,1156946809
+Shihuishan,Shihuishan,,21.8881,109.8760,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,221.8,,,3,Asia/Shanghai,FALSE,1156175914
+Changgeng,Changgeng,,27.4098,117.9847,China,CN,CHN,Fujian,Fujian,CN-FJ,,,66.7,,,4,Asia/Shanghai,FALSE,1156192032
+Changgeng,Changgeng,,27.0320,117.3850,China,CN,CHN,Fujian,Fujian,CN-FJ,,,50.2,,,4,Asia/Shanghai,TRUE,1156244447
+Tiezhuangcun,Tiezhuangcun,,35.3012,115.3801,China,CN,CHN,Shandong,Shandong,CN-SD,,,627.8,,,3,Asia/Shanghai,FALSE,1156365699
+Tiezhuangcun,Tiezhuangcun,,37.5923,116.7019,China,CN,CHN,Shandong,Shandong,CN-SD,,,430.9,,,3,Asia/Shanghai,TRUE,1156464798
+Tiezhuangcun,Tiezhuangcun,,35.4939,116.2967,China,CN,CHN,Shandong,Shandong,CN-SD,,,418.3,,,3,Asia/Shanghai,TRUE,1156541085
+Wangquan Wobucun,Wangquan Wobucun,,42.9916,123.3795,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,66.1,,,4,Asia/Shanghai,FALSE,1156417941
+Fujiang,Fujiang,,26.4273,107.8100,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,73.0,,,4,Asia/Shanghai,FALSE,1156255605
+Dongjianshancun,Dongjianshancun,,43.3963,125.2942,China,CN,CHN,Jilin,Jilin,CN-JL,,,423.3,,,3,Asia/Shanghai,FALSE,1156611721
+Erdouchong,Erdouchong,,24.0658,110.8600,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,104.5,,,4,Asia/Shanghai,FALSE,1156860402
+Ezhou,Ezhou,,24.4352,109.6740,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,453.5,,,3,Asia/Shanghai,FALSE,1156107629
+Qiaowang,Qiaowang,,26.2281,108.1130,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,36.4,,,4,Asia/Shanghai,FALSE,1156114508
+Dongyanpo,Dongyanpo,,21.1018,110.2888,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,736.7,,,3,Asia/Shanghai,FALSE,1156936606
+Zhentao,Zhentao,,20.0448,110.6466,China,CN,CHN,Hainan,Hainan,CN-HI,,,236.9,,,3,Asia/Shanghai,FALSE,1156573649
+Sanjiaoling,Sanjiaoling,,23.5157,112.7997,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,212.8,,,3,Asia/Shanghai,FALSE,1156160105
+Sanjiaoling,Sanjiaoling,,24.9814,114.2782,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,161.3,,,4,Asia/Shanghai,TRUE,1156077881
+Liaonancun,Liaonancun,,23.9144,110.3790,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,108.8,,,4,Asia/Shanghai,FALSE,1156127484
+Ketaike Sareyicun,Ketaike Sareyicun,,41.2621,82.5272,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,157.9,,,4,Asia/Shanghai,FALSE,1156333312
+Sanjiaoling,Sanjiaoling,,21.7412,109.8810,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,439.3,,,3,Asia/Shanghai,FALSE,1156461273
+Xiapailou,Xiapailou,,33.0039,118.9680,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,231.9,,,3,Asia/Shanghai,FALSE,1156160017
+Luopi,Luopi,,23.8748,107.4480,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,94.1,,,4,Asia/Shanghai,FALSE,1156543604
+Dongfeng Shequ,Dongfeng Shequ,,21.9572,108.6219,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,2396.2,,,2,Asia/Shanghai,FALSE,1156541519
+Dongfeng Shequ,Dongfeng Shequ,,24.6950,108.0691,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,1144.1,,,3,Asia/Shanghai,TRUE,1156541521
+Dongfeng Shequ,Dongfeng Shequ,,23.3779,110.9104,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,441.9,,,3,Asia/Shanghai,TRUE,1156541517
+Dongfeng Shequ,Dongfeng Shequ,,24.3526,106.5703,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,264.0,,,3,Asia/Shanghai,TRUE,1156464879
+Dongfeng Shequ,Dongfeng Shequ,,22.4139,109.5549,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,248.6,,,3,Asia/Shanghai,TRUE,1156541523
+Panke,Panke,,35.7475,108.2411,China,CN,CHN,Gansu,Gansu,CN-GS,,,53.8,,,4,Asia/Shanghai,FALSE,1156135645
+Muping,Muping,,30.1228,111.5177,China,CN,CHN,Hubei,Hubei,CN-HB,,,317.7,,,3,Asia/Shanghai,FALSE,1156218878
+Shitangcun,Shitangcun,,22.2574,109.5298,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,432.0,,,3,Asia/Shanghai,FALSE,1156481213
+Shitangcun,Shitangcun,,22.5865,109.5057,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,311.7,,,3,Asia/Shanghai,TRUE,1156481211
+Shitangcun,Shitangcun,Shitang,23.3758,108.8189,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,250.3,,,3,Asia/Shanghai,TRUE,1156481216
+Shitangcun,Shitangcun,Shitang,26.2113,111.1666,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,241.2,,,3,Asia/Shanghai,TRUE,1156078356
+Caibang,Caibang,,31.1180,120.9439,China,CN,CHN,Shanghai,Shanghai,CN-SH,,,1024.1,,,3,Asia/Shanghai,FALSE,1156224106
+Ximenling,Ximenling,,23.5874,110.6350,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,363.5,,,3,Asia/Shanghai,FALSE,1156252254
+Leijiayuan,Leijiayuan,,32.9122,106.3090,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,493.9,,,3,Asia/Shanghai,FALSE,1156191676
+Leijiayuan,Leijiayuan,,33.5183,109.9456,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,236.8,,,3,Asia/Shanghai,TRUE,1156919021
+Leijiayuan,Leijiayuan,,34.0232,109.6239,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,73.6,,,4,Asia/Shanghai,TRUE,1156020115
+Tangwancun,Tangwancun,,32.5027,115.5039,China,CN,CHN,Anhui,Anhui,CN-AH,,,1260.1,,,3,Asia/Shanghai,FALSE,1156225057
+Tangwancun,Tangwancun,,31.2169,117.9562,China,CN,CHN,Anhui,Anhui,CN-AH,,,1114.3,,,3,Asia/Shanghai,TRUE,1156600519
+Tangwancun,Tangwancun,,30.9590,117.2658,China,CN,CHN,Anhui,Anhui,CN-AH,,,461.5,,,3,Asia/Shanghai,TRUE,1156291366
+Tangwancun,Tangwancun,,31.8852,115.9239,China,CN,CHN,Anhui,Anhui,CN-AH,,,307.2,,,3,Asia/Shanghai,TRUE,1156289134
+Tangwancun,Tangwancun,,33.0235,117.0499,China,CN,CHN,Anhui,Anhui,CN-AH,,,250.3,,,3,Asia/Shanghai,TRUE,1156458687
+Tangwancun,Tangwancun,,31.0416,116.7738,China,CN,CHN,Anhui,Anhui,CN-AH,,,96.6,,,4,Asia/Shanghai,TRUE,1156196058
+Zhaofucun,Zhaofucun,,44.9050,125.3742,China,CN,CHN,Jilin,Jilin,CN-JL,,,104.7,,,4,Asia/Shanghai,FALSE,1156079133
+Zhenhua,Zhenhua,,22.9921,109.7410,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,799.4,,,3,Asia/Shanghai,FALSE,1156607544
+Xisi Majia,Xisi Majia,,43.5834,124.0550,China,CN,CHN,Jilin,Jilin,CN-JL,,,76.5,,,4,Asia/Shanghai,FALSE,1156995541
+Jianmei,Jianmei,,24.7384,117.6033,China,CN,CHN,Fujian,Fujian,CN-FJ,,,117.7,,,4,Asia/Shanghai,FALSE,1156144585
+Zhenhua,Zhenhua,,22.7714,113.2750,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,4848.6,,,2,Asia/Shanghai,FALSE,1156161728
+Leijiayuan,Leijiayuan,,37.1413,110.9398,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,47.6,,,4,Asia/Shanghai,FALSE,1156282142
+Duntou,Duntou,,19.1588,108.6721,China,CN,CHN,Hainan,Hainan,CN-HI,,,1055.1,,,3,Asia/Shanghai,FALSE,1156131369
+Guanjia Wuji,Guanjia Wuji,,27.6469,103.6460,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,102.5,,,4,Asia/Shanghai,FALSE,1156888687
+Bantiankeng,Bantiankeng,,23.1783,111.9735,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,166.3,,,4,Asia/Shanghai,FALSE,1156598111
+Shitangcun,Shitangcun,,21.9230,110.9505,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,550.3,,,3,Asia/Shanghai,FALSE,1156573431
+Shitangcun,Shitangcun,,21.8853,111.2381,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,425.3,,,3,Asia/Shanghai,TRUE,1156573428
+Shitangcun,Shitangcun,,23.2233,112.3245,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,421.7,,,3,Asia/Shanghai,TRUE,1156573434
+Shitangcun,Shitangcun,,22.8285,112.4544,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,201.7,,,3,Asia/Shanghai,TRUE,1156573436
+Shitangcun,Shitangcun,,25.2233,114.3698,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,135.4,,,4,Asia/Shanghai,TRUE,1156573437
+Shitangcun,Shitangcun,,21.1814,110.0382,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,99.7,,,4,Asia/Shanghai,TRUE,1156481217
+Shitangcun,Shitangcun,,25.0815,113.5738,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,52.6,,,4,Asia/Shanghai,TRUE,1156573438
+Dazhangcun,Dazhangcun,,32.2517,120.1719,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,270.3,,,3,Asia/Shanghai,FALSE,1156362698
+Songjiaocun,Songjiaocun,,28.3562,121.6171,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1251.7,,,3,Asia/Shanghai,FALSE,1156389801
+ximiaolu,ximiaolu,Miao-lu,30.1994,121.1003,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,7667.6,,,2,Asia/Shanghai,FALSE,1156452290
+Bula,Bula,,25.0078,104.1590,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,193.4,,,4,Asia/Shanghai,FALSE,1156463056
+Bula,Bula,,24.0137,103.4522,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,175.7,,,4,Asia/Shanghai,TRUE,1156072092
+Bula,Bula,,23.6782,101.3830,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,54.3,,,4,Asia/Shanghai,TRUE,1156167857
+Nahuan,Nahuan,,23.8939,107.3890,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,94.1,,,4,Asia/Shanghai,FALSE,1156743177
+Nahuan,Nahuan,,24.1162,106.6250,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,42.6,,,4,Asia/Shanghai,TRUE,1156680017
+Wufengcun,Wufengcun,,24.8999,103.0641,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,327.2,,,3,Asia/Shanghai,FALSE,1156005334
+Zhuyucun,Zhuyucun,,34.3124,107.2055,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,927.6,,,3,Asia/Shanghai,FALSE,1156239147
+Xingshi,Xingshi,,27.2886,112.4395,China,CN,CHN,Hunan,Hunan,CN-HN,,,386.3,,,3,Asia/Shanghai,FALSE,1156134845
+Longtanwan,Longtanwan,,26.6082,101.3530,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,162.6,,,4,Asia/Shanghai,FALSE,1156235322
+Wanningzhuang,Wanningzhuang,,35.7487,111.3565,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,259.8,,,3,Asia/Shanghai,FALSE,1156945798
+Houde,Houde,,25.4573,118.2795,China,CN,CHN,Fujian,Fujian,CN-FJ,,,265.6,,,3,Asia/Shanghai,FALSE,1156264519
+Houde,Houde,,25.7732,117.6557,China,CN,CHN,Fujian,Fujian,CN-FJ,,,109.9,,,4,Asia/Shanghai,TRUE,1156450470
+Zhuyucun,Zhuyucun,,36.9961,116.7685,China,CN,CHN,Shandong,Shandong,CN-SD,,,448.9,,,3,Asia/Shanghai,FALSE,1156464510
+Zhaliping,Zhaliping,,25.4717,111.9508,China,CN,CHN,Hunan,Hunan,CN-HN,,,289.5,,,3,Asia/Shanghai,FALSE,1156124735
+Fangzhuping,Fangzhuping,,27.9643,106.7880,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,98.9,,,4,Asia/Shanghai,FALSE,1156921158
+Qishiqituanchang Sanlian,Qishiqituanchang Sanlian,,42.9992,80.8226,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,11.2,,,4,Asia/Shanghai,FALSE,1156425170
+Suojiao,Suojiao,,23.7434,105.1860,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,153.5,,,4,Asia/Shanghai,FALSE,1156243008
+Suojiao,Suojiao,,26.1330,100.7730,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,40.6,,,4,Asia/Shanghai,TRUE,1156143330
+Zaojia,Zaojia,,23.5637,107.7560,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,126.6,,,4,Asia/Shanghai,FALSE,1156119958
+Heshuigou,Heshuigou,,26.5156,102.3350,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,142.2,,,4,Asia/Shanghai,FALSE,1156888864
+Zhangcun Nanjie Shequ,Zhangcun Nanjie Shequ,,38.0477,114.9548,China,CN,CHN,Hebei,Hebei,CN-HE,,,618.6,,,3,Asia/Shanghai,FALSE,1156580522
+Liangchahecun,Liangchahecun,,33.9265,110.5238,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,83.7,,,4,Asia/Shanghai,FALSE,1156506376
+Langcun,Langcun,,30.8220,119.4059,China,CN,CHN,Anhui,Anhui,CN-AH,,,135.9,,,4,Asia/Shanghai,FALSE,1156748155
+Yanyingdianzicun,Yanyingdianzicun,,35.8168,118.2868,China,CN,CHN,Shandong,Shandong,CN-SD,,,260.8,,,3,Asia/Shanghai,FALSE,1156727518
+Shoushantun,Shoushantun,,43.1670,125.5239,China,CN,CHN,Jilin,Jilin,CN-JL,,,228.8,,,3,Asia/Shanghai,FALSE,1156291735
+Xingyangcun,Xingyangcun,,46.6245,127.2641,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,318.5,,,3,Asia/Shanghai,FALSE,1156331926
+Xingyangcun,Xingyangcun,,48.0232,125.4277,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,30.6,,,4,Asia/Shanghai,TRUE,1156320505
+Xingyangcun,Xingyangcun,,46.1751,133.1099,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,24.7,,,4,Asia/Shanghai,TRUE,1156324609
+Pingtucun,Pingtucun,,20.9018,110.0554,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,1848.6,,,3,Asia/Shanghai,FALSE,1156475711
+Qinhe,Qinhe,,23.1059,106.6840,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,153.0,,,4,Asia/Shanghai,FALSE,1156126392
+Miaoguo,Miaoguo,,36.0550,115.3709,China,CN,CHN,Henan,Henan,CN-HA,,,537.2,,,3,Asia/Shanghai,FALSE,1156266606
+Kongqueping,Kongqueping,,23.2021,101.1630,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,35.0,,,4,Asia/Shanghai,FALSE,1156028304
+Shiting,Shiting,,30.4571,106.3540,China,CN,CHN,Sichuan,Sichuan,CN-SC,province,,390.3,,,3,Asia/Shanghai,FALSE,1156035716
+Xiaohuangshe,Xiaohuangshe,,23.3733,115.5062,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,87.2,,,4,Asia/Shanghai,FALSE,1156162358
+Heshuncun,Heshuncun,Heshun,25.9281,118.3422,China,CN,CHN,Fujian,Fujian,CN-FJ,,,73.3,,,4,Asia/Shanghai,FALSE,1156071371
+Xichijiacun,Xichijiacun,,36.2454,119.7153,China,CN,CHN,Shandong,Shandong,CN-SD,,,1666.6,,,3,Asia/Shanghai,FALSE,1156507526
+Fentai,Fentai,,36.7918,107.2287,China,CN,CHN,Gansu,Gansu,CN-GS,,,35.2,,,4,Asia/Shanghai,FALSE,1156421730
+Tuowan Xiao’er Bagecun,Tuowan Xiao'er Bagecun,,37.1378,79.8913,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,2053.7,,,2,Asia/Shanghai,FALSE,1156300852
+Wushi’ertuan Wulian,Wushi'ertuan Wulian,,39.8777,79.1472,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,50.2,,,4,Asia/Shanghai,FALSE,1156331210
+Hemucun,Hemucun,Hemujing,23.5274,113.6273,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,909.2,,,3,Asia/Shanghai,FALSE,1156096136
+Hemucun,Hemucun,,22.0839,111.5609,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,306.0,,,3,Asia/Shanghai,TRUE,1156556321
+Hemucun,Hemucun,,21.8521,111.2622,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,255.8,,,3,Asia/Shanghai,TRUE,1156556320
+Hemucun,Hemucun,,22.9959,111.4426,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,82.0,,,4,Asia/Shanghai,TRUE,1156532373
+Longgang,Longgang,Qinshui|Tsin’shuy|Ch’in-shui-hsien|Ch’in-shui|Longgang Zhen|Qinshui Xian,35.6894,112.1580,China,CN,CHN,Shanxi,Shanxi,CN-SX,,minor,158.7,,,3,Asia/Shanghai,FALSE,1156270440
+Hemucun,Hemucun,,22.7875,111.2020,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,206.6,,,3,Asia/Shanghai,FALSE,1156580105
+Hemucun,Hemucun,,24.9021,109.1555,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,147.0,,,4,Asia/Shanghai,TRUE,1156460700
+Hemucun,Hemucun,,25.0566,111.3186,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,145.9,,,4,Asia/Shanghai,TRUE,1156532374
+Hemucun,Hemucun,,25.6247,111.1182,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,86.9,,,4,Asia/Shanghai,TRUE,1156532375
+Tenghai,Tenghai,,18.2706,109.7209,China,CN,CHN,Hainan,Hainan,CN-HI,,,354.9,,,3,Asia/Shanghai,FALSE,1156110133
+Miaocun,Miaocun,,24.8505,118.0022,China,CN,CHN,Fujian,Fujian,CN-FJ,,,320.4,,,3,Asia/Shanghai,FALSE,1156254583
+Longgang,Longgang,,31.3474,106.6560,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,548.7,,,3,Asia/Shanghai,FALSE,1156075164
+Longgang,Longgang,,32.2051,106.8226,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,125.5,,,4,Asia/Shanghai,TRUE,1156836439
+Longgang,Longgang,,31.0266,106.4960,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,113.6,,,4,Asia/Shanghai,TRUE,1156216661
+Hebaicun,Hebaicun,,37.6539,120.4986,China,CN,CHN,Shandong,Shandong,CN-SD,,,1230.8,,,3,Asia/Shanghai,FALSE,1156498071
+Shiting,Shiting,,37.6264,113.5855,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,747.9,,,3,Asia/Shanghai,FALSE,1156005735
+Longgang,Longgang,,30.9074,121.8548,China,CN,CHN,Shanghai,Shanghai,CN-SH,,,1189.2,,,3,Asia/Shanghai,FALSE,1156786501
+Sandun,Sandun,,30.8749,120.1712,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1680.3,,,3,Asia/Shanghai,FALSE,1156187665
+Shuaibu,Shuaibu,,35.7404,107.5880,China,CN,CHN,Gansu,Gansu,CN-GS,,,188.6,,,4,Asia/Shanghai,FALSE,1156280588
+Tuben,Tuben,,24.8898,109.1540,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,147.0,,,4,Asia/Shanghai,FALSE,1156011889
+Laojiecun,Laojiecun,,27.3983,103.0570,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,173.0,,,4,Asia/Shanghai,FALSE,1156380592
+Yingzuishang,Yingzuishang,,28.7734,107.5640,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,77.9,,,4,Asia/Shanghai,FALSE,1156085042
+Bianjiazhaicun,Bianjiazhaicun,,37.9150,114.8848,China,CN,CHN,Hebei,Hebei,CN-HE,,,823.6,,,3,Asia/Shanghai,FALSE,1156583190
+Chasangcun,Chasangcun,,33.3174,87.6553,China,CN,CHN,Tibet,Tibet,CN-XZ,,,1.4,,,5,Asia/Shanghai,FALSE,1156219634
+Cheba,Cheba,,30.6370,106.9590,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,126.8,,,4,Asia/Shanghai,FALSE,1156085251
+Cheba,Cheba,,32.5418,105.7300,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,50.8,,,4,Asia/Shanghai,TRUE,1156632433
+Liujingcun,Liujingcun,Liujingzi,48.0212,126.7627,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,171.8,,,4,Asia/Shanghai,FALSE,1156323649
+Shapinggang,Shapinggang,,27.4217,108.8370,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,71.9,,,4,Asia/Shanghai,FALSE,1156760139
+Langdanglingcun,Langdanglingcun,,31.2418,116.1446,China,CN,CHN,Anhui,Anhui,CN-AH,,,45.7,,,4,Asia/Shanghai,FALSE,1156521153
+Weitun,Weitun,,39.7557,121.6300,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,176.1,,,4,Asia/Shanghai,FALSE,1156019851
+Weitun,Weitun,,40.4777,120.2000,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,163.9,,,4,Asia/Shanghai,TRUE,1156019509
+Rigangcun,Rigangcun,,29.5174,90.1644,China,CN,CHN,Tibet,Tibet,CN-XZ,,,19.3,,,4,Asia/Shanghai,FALSE,1156504313
+Pipashu,Pipashu,,28.3243,105.2701,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,417.1,,,3,Asia/Shanghai,FALSE,1156885609
+Pipashu,Pipashu,,27.7884,105.6578,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,183.1,,,4,Asia/Shanghai,TRUE,1156196027
+Pipashu,Pipashu,,32.2191,104.7690,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,90.6,,,4,Asia/Shanghai,TRUE,1156057157
+Pipashu,Pipashu,,29.3231,102.6050,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,44.8,,,4,Asia/Shanghai,TRUE,1156101991
+Erfanggou,Erfanggou,,33.1699,110.1224,China,CN,CHN,Hubei,Hubei,CN-HB,,,139.8,,,4,Asia/Shanghai,FALSE,1156237993
+Keya,Keya,,33.9970,104.4928,China,CN,CHN,Gansu,Gansu,CN-GS,,,58.6,,,4,Asia/Shanghai,FALSE,1156227888
+Keya,Keya,,33.9031,103.7700,China,CN,CHN,Gansu,Gansu,CN-GS,,,15.5,,,4,Asia/Shanghai,TRUE,1156488867
+Subu,Subu,,30.5060,86.6510,China,CN,CHN,Tibet,Tibet,CN-XZ,,,1.2,,,5,Asia/Shanghai,FALSE,1156110114
+Shuitianwan,Shuitianwan,,30.1244,111.3999,China,CN,CHN,Hubei,Hubei,CN-HB,,,222.2,,,3,Asia/Shanghai,FALSE,1156018391
+Shuitianwan,Shuitianwan,,31.8190,111.1937,China,CN,CHN,Hubei,Hubei,CN-HB,,,213.1,,,3,Asia/Shanghai,TRUE,1156112115
+Shuitianwan,Shuitianwan,,31.7076,109.8806,China,CN,CHN,Hubei,Hubei,CN-HB,,,81.0,,,4,Asia/Shanghai,TRUE,1156208270
+Shuitianwan,Shuitianwan,,31.6535,111.6220,China,CN,CHN,Hubei,Hubei,CN-HB,,,55.9,,,4,Asia/Shanghai,TRUE,1156649563
+Yingyangpu,Yingyangpu,,35.7020,114.6272,China,CN,CHN,Henan,Henan,CN-HA,,,690.4,,,3,Asia/Shanghai,FALSE,1156823400
+Congba,Congba,,27.9517,106.6186,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,243.0,,,3,Asia/Shanghai,FALSE,1156742363
+Congba,Congba,,28.3645,106.5780,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,61.8,,,4,Asia/Shanghai,TRUE,1156591765
+Yinxianji,Yinxianji,Yin-hsien-chi|Tung-yin-hsien-chi,32.1381,116.5367,China,CN,CHN,Anhui,Anhui,CN-AH,,,476.6,,,3,Asia/Shanghai,FALSE,1156149089
+Zaoyuancun,Zaoyuancun,,32.9181,115.8441,China,CN,CHN,Anhui,Anhui,CN-AH,,,2282.0,,,2,Asia/Shanghai,FALSE,1156013622
+Zaoyuancun,Zaoyuancun,,32.8641,116.0345,China,CN,CHN,Anhui,Anhui,CN-AH,,,784.6,,,3,Asia/Shanghai,TRUE,1156434897
+Zaoyuancun,Zaoyuancun,,31.0599,118.0505,China,CN,CHN,Anhui,Anhui,CN-AH,,,331.0,,,3,Asia/Shanghai,TRUE,1156289669
+Zaoyuancun,Zaoyuancun,Zaoyuan,31.0027,118.6739,China,CN,CHN,Anhui,Anhui,CN-AH,,,196.7,,,4,Asia/Shanghai,TRUE,1156779102
+Gongtangcun,Gongtangcun,,24.5449,112.6855,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,89.9,,,4,Asia/Shanghai,FALSE,1156568607
+Yangma,Yangma,Yang-ma-ho|Yangmahe,30.4964,104.5040,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,548.8,,,3,Asia/Shanghai,FALSE,1156797500
+Yangma,Yangma,,31.9335,105.1450,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,138.7,,,4,Asia/Shanghai,TRUE,1156583616
+Congba,Congba,,33.6899,104.7497,China,CN,CHN,Gansu,Gansu,CN-GS,,,68.5,,,4,Asia/Shanghai,FALSE,1156148641
+Bokong,Bokong,,25.1702,105.5080,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,115.6,,,4,Asia/Shanghai,FALSE,1156879956
+Yangma,Yangma,,34.5890,108.1267,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,213.4,,,3,Asia/Shanghai,FALSE,1156270545
+Sanxingtun,Sanxingtun,,45.0541,126.0043,China,CN,CHN,Jilin,Jilin,CN-JL,,,518.0,,,3,Asia/Shanghai,FALSE,1156695272
+Yaochancun,Yaochancun,,28.8859,119.9325,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,939.2,,,3,Asia/Shanghai,FALSE,1156409120
+Jixiayang,Jixiayang,,27.4478,119.0456,China,CN,CHN,Fujian,Fujian,CN-FJ,,,50.8,,,4,Asia/Shanghai,FALSE,1156195295
+Jixiayang,Jixiayang,,26.1824,118.4889,China,CN,CHN,Fujian,Fujian,CN-FJ,,,32.8,,,4,Asia/Shanghai,TRUE,1156826411
+Niuchefan,Niuchefan,,31.4718,114.6557,China,CN,CHN,Hubei,Hubei,CN-HB,,,182.9,,,4,Asia/Shanghai,FALSE,1156241293
+Fujiazhai,Fujiazhai,,40.1999,115.3785,China,CN,CHN,Hebei,Hebei,CN-HE,,,115.5,,,4,Asia/Shanghai,FALSE,1156081831
+Shangkelang,Shangkelang,,27.7752,103.4830,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,117.5,,,4,Asia/Shanghai,FALSE,1156010910
+Gaoliushuhe,Gaoliushuhe,,35.9962,109.1962,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,35.4,,,4,Asia/Shanghai,FALSE,1156200809
+Nanshi Liangtoucun,Nanshi Liangtoucun,,36.9240,120.8639,China,CN,CHN,Shandong,Shandong,CN-SD,,,892.1,,,3,Asia/Shanghai,FALSE,1156493336
+Fujiazhai,Fujiazhai,,28.1809,110.0998,China,CN,CHN,Hunan,Hunan,CN-HN,,,98.0,,,4,Asia/Shanghai,FALSE,1156051578
+Eshan,Eshan,,23.4182,109.3850,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,234.3,,,3,Asia/Shanghai,FALSE,1156428968
+Shaojiaci,Shaojiaci,,31.3844,112.8616,China,CN,CHN,Hubei,Hubei,CN-HB,,,51.3,,,4,Asia/Shanghai,FALSE,1156825806
+Wujia Buzicun,Wujia Buzicun,,41.5726,123.8680,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,60.0,,,4,Asia/Shanghai,FALSE,1156341851
+Lianghezhuangcun,Lianghezhuangcun,,35.6171,115.9139,China,CN,CHN,Shandong,Shandong,CN-SD,,,685.2,,,3,Asia/Shanghai,FALSE,1156493119
+Zuoshi,Zuoshi,,26.1851,115.3469,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,338.6,,,3,Asia/Shanghai,FALSE,1156426294
+Wutiangou,Wutiangou,,32.3556,106.4880,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,30.4,,,4,Asia/Shanghai,FALSE,1156002017
+Shamian,Shamian,,23.1094,113.2394,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,38420.7,,,2,Asia/Shanghai,FALSE,1156377535
+Maqianpo,Maqianpo,,31.9555,107.4150,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,170.2,,,4,Asia/Shanghai,FALSE,1156410289
+Zhuanyuxia,Zhuanyuxia,,23.7231,107.0350,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,226.1,,,3,Asia/Shanghai,FALSE,1156164206
+Yanghuang,Yanghuang,,19.7861,109.8200,China,CN,CHN,Hainan,Hainan,CN-HI,,,210.0,,,3,Asia/Shanghai,FALSE,1156773751
+Dongbucun,Dongbucun,,36.3533,110.7973,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,38.5,,,4,Asia/Shanghai,FALSE,1156040103
+Mubeicun,Mubeicun,,40.6981,123.2221,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,65.6,,,4,Asia/Shanghai,FALSE,1156352201
+Cangxi,Cangxi,,28.3714,114.0679,China,CN,CHN,Hunan,Hunan,CN-HN,,,82.1,,,4,Asia/Shanghai,TRUE,1156016322
+Dong’erdaogou,Dong'erdaogou,,44.5718,124.7905,China,CN,CHN,Jilin,Jilin,CN-JL,,,177.8,,,4,Asia/Shanghai,FALSE,1156167023
+Huoshaowo,Huoshaowo,,26.4009,115.7936,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,317.7,,,3,Asia/Shanghai,FALSE,1156024942
+Bamudi,Bamudi,,40.7482,116.9732,China,CN,CHN,Hebei,Hebei,CN-HE,,,50.0,,,4,Asia/Shanghai,FALSE,1156139832
+Bamudi,Bamudi,,39.4727,114.8384,China,CN,CHN,Hebei,Hebei,CN-HE,,,23.3,,,4,Asia/Shanghai,TRUE,1156856142
+Bamudi,Bamudi,,40.8126,116.9295,China,CN,CHN,Hebei,Hebei,CN-HE,,,14.7,,,4,Asia/Shanghai,TRUE,1156749131
+Xililongtangcun,Xililongtangcun,,37.4262,117.0210,China,CN,CHN,Shandong,Shandong,CN-SD,,,446.9,,,3,Asia/Shanghai,FALSE,1156172853
+Mingliangcun,Mingliangcun,,28.6248,121.4656,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1912.4,,,3,Asia/Shanghai,FALSE,1156389833
+Houhecun,Houhecun,,36.0742,116.1945,China,CN,CHN,Shandong,Shandong,CN-SD,,,762.7,,,3,Asia/Shanghai,FALSE,1156472441
+Houhecun,Houhecun,,37.1499,120.0105,China,CN,CHN,Shandong,Shandong,CN-SD,,,573.9,,,3,Asia/Shanghai,TRUE,1156472444
+Houhecun,Houhecun,,37.6577,120.8191,China,CN,CHN,Shandong,Shandong,CN-SD,,,310.8,,,3,Asia/Shanghai,TRUE,1156472445
+Fengzhou,Fengzhou,P’ing-hsiang|Pingxiang|Qicun|Ch’i-tsun,37.0628,115.0247,China,CN,CHN,Hebei,Hebei,CN-HE,,,1641.1,,,3,Asia/Shanghai,FALSE,1156095855
+Xiaojiancun,Xiaojiancun,,44.8891,129.7978,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,85.2,,,4,Asia/Shanghai,FALSE,1156365829
+Qianjiulongquancun,Qianjiulongquancun,,36.2674,109.6233,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,12.5,,,4,Asia/Shanghai,FALSE,1156028095
+Jiulong,Jiulong,,22.3161,110.0020,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,1333.2,,,3,Asia/Shanghai,FALSE,1156037458
+Jiulong,Jiulong,,24.6702,110.7750,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,359.6,,,3,Asia/Shanghai,TRUE,1156768192
+Jiulong,Jiulong,,23.7129,109.6610,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,210.5,,,3,Asia/Shanghai,TRUE,1156033168
+Jiulong,Jiulong,Chiu-lung-ts’un,23.3520,108.6280,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,181.5,,,4,Asia/Shanghai,TRUE,1156219891
+Jiulong,Jiulong,,24.9004,109.0750,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,145.7,,,4,Asia/Shanghai,TRUE,1156466775
+Jiulong,Jiulong,,24.7324,108.7530,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,123.7,,,4,Asia/Shanghai,TRUE,1156585687
+Jiulong,Jiulong,,23.5396,108.9770,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,86.3,,,4,Asia/Shanghai,TRUE,1156281745
+Jiulong,Jiulong,,24.6357,107.1030,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,63.7,,,4,Asia/Shanghai,TRUE,1156249984
+Jiulong,Jiulong,,24.2847,109.5980,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,61.4,,,4,Asia/Shanghai,TRUE,1156172956
+Jiulong,Jiulong,,24.0786,108.9940,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,53.9,,,4,Asia/Shanghai,TRUE,1156707009
+Jiulong,Jiulong,,25.3093,108.7340,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,48.6,,,4,Asia/Shanghai,TRUE,1156003656
+Jiulong,Jiulong,,22.9889,108.3890,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,45.7,,,4,Asia/Shanghai,TRUE,1156341891
+Jiulong,Jiulong,,25.4563,108.6010,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,33.3,,,4,Asia/Shanghai,TRUE,1156197748
+Tianjiayaohong,Tianjiayaohong,,30.4372,112.6547,China,CN,CHN,Hubei,Hubei,CN-HB,,,616.6,,,3,Asia/Shanghai,FALSE,1156117890
+Xinhe Wudui,Xinhe Wudui,,47.7225,125.1346,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,76.7,,,4,Asia/Shanghai,FALSE,1156324454
+Fengqicun,Fengqicun,,23.4591,116.6861,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,3972.9,,,2,Asia/Shanghai,FALSE,1156996581
+Shihuichacun,Shihuichacun,,37.2959,109.2575,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,23.7,,,4,Asia/Shanghai,FALSE,1156008512
+Cuorong,Cuorong,,29.6490,100.6160,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,10.8,,,4,Asia/Shanghai,FALSE,1156184282
+Wangjia,Wangjia,,30.0736,120.6066,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,2393.6,,,2,Asia/Shanghai,FALSE,1156414772
+Wangjia,Wangjia,,29.9249,121.6638,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,2045.7,,,2,Asia/Shanghai,TRUE,1156493510
+Wangjia,Wangjia,,29.8687,121.7470,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1883.1,,,3,Asia/Shanghai,TRUE,1156665993
+Wangjia,Wangjia,,29.4643,119.2533,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1845.4,,,3,Asia/Shanghai,TRUE,1156249244
+Wangjia,Wangjia,,29.9407,121.9400,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1205.2,,,3,Asia/Shanghai,TRUE,1156083262
+Wangjia,Wangjia,,29.9966,120.2608,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1014.0,,,3,Asia/Shanghai,TRUE,1156196650
+Wangjia,Wangjia,,29.9758,119.9664,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,519.8,,,3,Asia/Shanghai,TRUE,1156038706
+Wangjia,Wangjia,,29.0275,119.2458,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,425.7,,,3,Asia/Shanghai,TRUE,1156970348
+Wangjia,Wangjia,,29.3747,120.1454,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,397.3,,,3,Asia/Shanghai,TRUE,1156253239
+Wangjia,Wangjia,,30.3903,119.8502,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,348.1,,,3,Asia/Shanghai,TRUE,1156225992
+Wangjia,Wangjia,,29.3264,121.9290,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,235.7,,,3,Asia/Shanghai,TRUE,1156134974
+Wangjia,Wangjia,,29.9567,119.6218,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,178.3,,,4,Asia/Shanghai,TRUE,1156055652
+Wangjia,Wangjia,,29.9149,119.4899,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,170.7,,,4,Asia/Shanghai,TRUE,1156246029
+Wangjia,Wangjia,,28.5013,118.4637,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,157.9,,,4,Asia/Shanghai,TRUE,1156887581
+Wangjia,Wangjia,,28.9447,118.3131,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,151.1,,,4,Asia/Shanghai,TRUE,1156181147
+Wangjia,Wangjia,,30.0560,119.7033,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,116.7,,,4,Asia/Shanghai,TRUE,1156235107
+Wangjia,Wangjia,,29.6405,119.3918,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,69.9,,,4,Asia/Shanghai,TRUE,1156173779
+Wangjia,Wangjia,,28.7956,119.1028,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,59.9,,,4,Asia/Shanghai,TRUE,1156880512
+Wangjia,Wangjia,,29.7831,119.2218,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,55.6,,,4,Asia/Shanghai,TRUE,1156945863
+Wangjia,Wangjia,,30.0641,121.5683,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,46.9,,,4,Asia/Shanghai,TRUE,1156044940
+Wangjia,Wangjia,,29.8283,119.3532,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,43.6,,,4,Asia/Shanghai,TRUE,1156050244
+Wangjia,Wangjia,,29.8481,119.4549,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,43.6,,,4,Asia/Shanghai,TRUE,1156430551
+Wangjia,Wangjia,,29.1473,118.6771,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,40.4,,,4,Asia/Shanghai,TRUE,1156082886
+Wangjia,Wangjia,,29.1986,118.7858,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,23.2,,,4,Asia/Shanghai,TRUE,1156957894
+Wangjia,Wangjia,,28.6747,118.9610,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,16.5,,,4,Asia/Shanghai,TRUE,1156258526
+Wangjia,Wangjia,,28.1701,119.4960,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,10.5,,,4,Asia/Shanghai,TRUE,1156948774
+Wangjia,Wangjia,,28.4311,118.6594,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,3.6,,,5,Asia/Shanghai,TRUE,1156629846
+Xiaojiangjiacun,Xiaojiangjiacun,,37.6913,120.5295,China,CN,CHN,Shandong,Shandong,CN-SD,,,596.8,,,3,Asia/Shanghai,FALSE,1156493907
+Xiaojiangjiacun,Xiaojiangjiacun,,35.0615,118.2358,China,CN,CHN,Shandong,Shandong,CN-SD,,,516.3,,,3,Asia/Shanghai,TRUE,1156493913
+Xiaojiangjiacun,Xiaojiangjiacun,,37.2094,120.6894,China,CN,CHN,Shandong,Shandong,CN-SD,,,494.5,,,3,Asia/Shanghai,TRUE,1156493908
+Xiaojiangjiacun,Xiaojiangjiacun,,37.3451,117.0378,China,CN,CHN,Shandong,Shandong,CN-SD,,,431.7,,,3,Asia/Shanghai,TRUE,1156456147
+Xiaojiangjiacun,Xiaojiangjiacun,,37.6884,120.6059,China,CN,CHN,Shandong,Shandong,CN-SD,,,423.5,,,3,Asia/Shanghai,TRUE,1156493909
+Xiaojiangjiacun,Xiaojiangjiacun,,37.4533,120.4977,China,CN,CHN,Shandong,Shandong,CN-SD,,,375.3,,,3,Asia/Shanghai,TRUE,1156493911
+Xiyangtingcun,Xiyangtingcun,,27.6808,120.1701,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,167.9,,,4,Asia/Shanghai,FALSE,1156374516
+Qiangang,Qiangang,,23.4441,116.5279,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,1490.4,,,3,Asia/Shanghai,FALSE,1156373730
+Xiayujia,Xiayujia,,26.2152,111.7807,China,CN,CHN,Hunan,Hunan,CN-HN,,,93.2,,,4,Asia/Shanghai,FALSE,1156116563
+Denglongshan,Denglongshan,,27.9573,107.5310,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,118.2,,,4,Asia/Shanghai,FALSE,1156788247
+Ciduoluo,Ciduoluo,,26.5012,104.8210,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,148.6,,,4,Asia/Shanghai,FALSE,1156506767
+Taisikan Kuduke,Taisikan Kuduke,,41.3923,82.9714,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,2.8,,,5,Asia/Shanghai,FALSE,1156556299
+Rongjiagoucun,Rongjiagoucun,,34.0844,109.2248,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,577.8,,,3,Asia/Shanghai,FALSE,1156128256
+Gemo Xincun,Gemo Xincun,,25.6572,103.1660,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,68.3,,,4,Asia/Shanghai,FALSE,1156021280
+Bianjiao,Bianjiao,,25.5470,105.8880,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,39.4,,,4,Asia/Shanghai,FALSE,1156102982
+Weishe,Weishe,,32.9555,119.9705,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,305.9,,,3,Asia/Shanghai,FALSE,1156910995
+Yaowanliang,Yaowanliang,,36.8484,107.6611,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,13.8,,,4,Asia/Shanghai,FALSE,1156983849
+Guduimiaocun,Guduimiaocun,,35.4071,116.1023,China,CN,CHN,Shandong,Shandong,CN-SD,,,1324.9,,,3,Asia/Shanghai,FALSE,1156470493
+Ma’anshan Shequ,Ma'anshan Shequ,,24.8246,111.2764,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,281.9,,,3,Asia/Shanghai,FALSE,1156499657
+Longdengtou,Longdengtou,Longdengbang,30.6814,121.2034,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,613.3,,,3,Asia/Shanghai,FALSE,1156675907
+Xuanhuacun,Xuanhuacun,,46.2913,125.5779,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,47.4,,,4,Asia/Shanghai,FALSE,1156327743
+Duanmu Lingzicun,Duanmu Lingzicun,,42.3310,123.9455,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,160.4,,,4,Asia/Shanghai,FALSE,1156275890
+Xiejiafang Kuangzi,Xiejiafang Kuangzi,,47.6104,122.1153,China,CN,CHN,Inner Mongolia,Inner Mongolia,CN-NM,,,6.1,,,5,Asia/Shanghai,FALSE,1156214843
+Aretiemu’erqi,Aretiemu'erqi,,41.0724,80.4858,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,154.4,,,4,Asia/Shanghai,FALSE,1156452595
+Xineicun,Xineicun,Xinei,24.9275,118.0631,China,CN,CHN,Fujian,Fujian,CN-FJ,,,490.6,,,3,Asia/Shanghai,FALSE,1156161983
+Xineicun,Xineicun,Xinei,24.2032,117.6146,China,CN,CHN,Fujian,Fujian,CN-FJ,,,39.0,,,4,Asia/Shanghai,TRUE,1156637479
+Caoxiacun,Caoxiacun,,27.5830,114.2280,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,118.1,,,4,Asia/Shanghai,FALSE,1156024292
+Zhengxiangcun,Zhengxiangcun,Cheng-hsiang|Zhengxiang,30.1213,121.1595,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1417.2,,,3,Asia/Shanghai,FALSE,1156364331
+Xiligu,Xiligu,,23.9146,103.7950,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,109.8,,,4,Asia/Shanghai,FALSE,1156141577
+Shijiekou,Shijiekou,,30.9936,119.7239,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,388.8,,,3,Asia/Shanghai,FALSE,1156493876
+Dongzhi,Dongzhi,,30.5562,120.4224,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1732.5,,,3,Asia/Shanghai,FALSE,1156372822
+Nongren,Nongren,,22.9441,107.2120,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,142.3,,,4,Asia/Shanghai,FALSE,1156119424
+Nongren,Nongren,,23.9914,107.8620,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,83.7,,,4,Asia/Shanghai,TRUE,1156398831
+Nongren,Nongren,,24.5203,107.5080,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,75.6,,,4,Asia/Shanghai,TRUE,1156505718
+Nongren,Nongren,,24.3293,107.2530,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,47.1,,,4,Asia/Shanghai,TRUE,1156844409
+Buguna,Buguna,,30.0757,91.6618,China,CN,CHN,Tibet,Tibet,CN-XZ,,,3.3,,,5,Asia/Shanghai,FALSE,1156076631
+Dongsuo,Dongsuo,,25.0285,107.6210,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,191.5,,,4,Asia/Shanghai,FALSE,1156171529
+Yizhongdui,Yizhongdui,,47.1805,128.1111,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,7.0,,,5,Asia/Shanghai,FALSE,1156301700
+Dengzhuba,Dengzhuba,,32.3068,105.5479,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,27.3,,,4,Asia/Shanghai,FALSE,1156133655
+Hepuzudi,Hepuzudi,,34.2684,119.5701,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,281.6,,,3,Asia/Shanghai,FALSE,1156927996
+Houliulingou,Houliulingou,,36.3510,109.2059,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,19.3,,,4,Asia/Shanghai,FALSE,1156993683
+Pilangcun,Pilangcun,,41.7084,82.9556,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,2484.9,,,2,Asia/Shanghai,FALSE,1156431179
+Dadaoshang,Dadaoshang,,39.7328,118.9125,China,CN,CHN,Hebei,Hebei,CN-HE,,,506.0,,,3,Asia/Shanghai,FALSE,1156006399
+Buguna,Buguna,,37.0090,84.2613,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,0.6,,,5,Asia/Shanghai,FALSE,1156965772
+Sijialu,Sijialu,,23.4846,104.3460,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,135.6,,,4,Asia/Shanghai,FALSE,1156583746
+Hekanping,Hekanping,,27.4215,101.2594,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,48.8,,,4,Asia/Shanghai,FALSE,1156031710
+Gongdaziyao,Gongdaziyao,,39.1134,106.2730,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,36.5,,,4,Asia/Shanghai,FALSE,1156078424
+Xiashan,Xiashan,,29.1187,104.2280,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,202.0,,,3,Asia/Shanghai,FALSE,1156121362
+Rongtong,Rongtong,,30.8650,94.7919,China,CN,CHN,Tibet,Tibet,CN-XZ,,,5.3,,,5,Asia/Shanghai,FALSE,1156446693
+Xiaojia Liangzi,Xiaojia Liangzi,,30.9152,109.7608,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,142.6,,,4,Asia/Shanghai,FALSE,1156223106
+Huangjiadong,Huangjiadong,,25.6772,111.9347,China,CN,CHN,Hunan,Hunan,CN-HN,,,325.3,,,3,Asia/Shanghai,FALSE,1156807372
+Huangjiadong,Huangjiadong,,28.8893,114.0459,China,CN,CHN,Hunan,Hunan,CN-HN,,,182.6,,,4,Asia/Shanghai,TRUE,1156830267
+Huangjiadong,Huangjiadong,,27.6699,110.5066,China,CN,CHN,Hunan,Hunan,CN-HN,,,111.2,,,4,Asia/Shanghai,TRUE,1156277001
+Huangjiadong,Huangjiadong,,27.4334,110.2823,China,CN,CHN,Hunan,Hunan,CN-HN,,,79.0,,,4,Asia/Shanghai,TRUE,1156555701
+Huangjiadong,Huangjiadong,,25.5199,113.9362,China,CN,CHN,Hunan,Hunan,CN-HN,,,64.7,,,4,Asia/Shanghai,TRUE,1156813898
+Womanong,Womanong,,31.7824,94.1589,China,CN,CHN,Tibet,Tibet,CN-XZ,,,6.7,,,5,Asia/Shanghai,FALSE,1156976091
+Womanong,Womanong,,28.4772,87.0264,China,CN,CHN,Tibet,Tibet,CN-XZ,,,3.9,,,5,Asia/Shanghai,TRUE,1156769712
+Xiaduilong,Xiaduilong,,25.2218,102.9710,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,40.6,,,4,Asia/Shanghai,FALSE,1156216617
+Xiaobaijiagou,Xiaobaijiagou,,36.9596,109.8550,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,51.8,,,4,Asia/Shanghai,FALSE,1156580279
+Yangjiahuicun,Yangjiahuicun,,39.5337,114.0253,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,36.8,,,4,Asia/Shanghai,FALSE,1156143914
+Lanfucun,Lanfucun,,21.4917,110.7629,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,5890.3,,,2,Asia/Shanghai,FALSE,1156578796
+Yujia Yuanzi,Yujia Yuanzi,,31.5545,106.3760,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,778.1,,,3,Asia/Shanghai,FALSE,1156807958
+Yujia Yuanzi,Yujia Yuanzi,,30.2778,106.2919,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,362.2,,,3,Asia/Shanghai,TRUE,1156639670
+Longtang,Longtang,,35.9917,112.9355,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,978.4,,,3,Asia/Shanghai,FALSE,1156645730
+Xiwumencun,Xiwumencun,,35.4843,117.5495,China,CN,CHN,Shandong,Shandong,CN-SD,,,227.9,,,3,Asia/Shanghai,FALSE,1156515283
+Sidao Yingzicun,Sidao Yingzicun,Sidaoyingzicun,40.8980,119.6679,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,159.8,,,4,Asia/Shanghai,FALSE,1156332814
+Miaobeicun,Miaobeicun,,40.8512,118.9095,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,46.0,,,4,Asia/Shanghai,FALSE,1156352794
+Miaobeicun,Miaobeicun,,41.9346,125.0610,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,36.8,,,4,Asia/Shanghai,TRUE,1156343336
+Balongmiao,Balongmiao,,33.5200,110.7483,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,249.9,,,3,Asia/Shanghai,FALSE,1156279253
+Maziba,Maziba,,25.9100,114.2440,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,110.8,,,4,Asia/Shanghai,FALSE,1156046352
+Yujia Yuanzi,Yujia Yuanzi,,33.0752,109.6350,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,174.6,,,4,Asia/Shanghai,FALSE,1156413519
+Taxidi,Taxidi,,25.3182,100.8350,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,83.0,,,4,Asia/Shanghai,FALSE,1156062455
+Jialu Fancun,Jialu Fancun,,28.6972,119.2844,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,52.6,,,4,Asia/Shanghai,FALSE,1156408956
+Majiayingzi Beigou,Majiayingzi Beigou,,41.6735,121.1001,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,58.7,,,4,Asia/Shanghai,FALSE,1156102072
+Miaoqiancun,Miaoqiancun,,30.0538,121.0493,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,672.9,,,3,Asia/Shanghai,FALSE,1156401450
+Miaoqiancun,Miaoqiancun,,29.6995,119.5553,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,231.4,,,3,Asia/Shanghai,TRUE,1156400114
+Miaoqiancun,Miaoqiancun,,30.5936,119.8449,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,103.5,,,4,Asia/Shanghai,TRUE,1156379952
+Kepeng,Kepeng,,31.7338,114.8354,China,CN,CHN,Henan,Henan,CN-HA,,,159.4,,,4,Asia/Shanghai,FALSE,1156298484
+Yuzui,Yuzui,,36.3926,108.2730,China,CN,CHN,Gansu,Gansu,CN-GS,,,15.8,,,4,Asia/Shanghai,FALSE,1156280962
+Lashu’ao,Lashu'ao,,26.9643,111.1890,China,CN,CHN,Hunan,Hunan,CN-HN,,,554.0,,,3,Asia/Shanghai,FALSE,1156013783
+Xicunzai,Xicunzai,,21.0712,110.3934,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,772.8,,,3,Asia/Shanghai,FALSE,1156940133
+Maiji,Maiji,,30.0299,93.0972,China,CN,CHN,Tibet,Tibet,CN-XZ,,,5.2,,,5,Asia/Shanghai,FALSE,1156166136
+Dagushan,Dagushan,,29.1231,105.8986,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,417.4,,,3,Asia/Shanghai,FALSE,1156161327
+Heishijiao,Heishijiao,,25.0404,112.1403,China,CN,CHN,Hunan,Hunan,CN-HN,,,51.9,,,4,Asia/Shanghai,FALSE,1156183041
+Tuanlin,Tuanlin,,28.6572,117.3692,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,140.6,,,4,Asia/Shanghai,FALSE,1156162014
+Xiaobaizui,Xiaobaizui,,40.1020,114.2741,China,CN,CHN,Hebei,Hebei,CN-HE,,,75.3,,,4,Asia/Shanghai,FALSE,1156953883
+Liushuidian,Liushuidian,,33.0333,113.7344,China,CN,CHN,Henan,Henan,CN-HA,,,252.8,,,3,Asia/Shanghai,FALSE,1156060084
+Jiaojingwei,Jiaojingwei,,23.0319,111.5044,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,82.0,,,4,Asia/Shanghai,FALSE,1156085617
+Guanzhao,Guanzhao,,26.6658,114.9492,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,144.9,,,4,Asia/Shanghai,FALSE,1156450781
+Caidaohecun,Caidaohecun,,35.3268,109.3566,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,55.9,,,4,Asia/Shanghai,FALSE,1156792155
+Sanjiantangcun,Sanjiantangcun,,32.9090,117.2403,China,CN,CHN,Anhui,Anhui,CN-AH,,,2011.4,,,2,Asia/Shanghai,FALSE,1156700566
+Yongfengjie Shequ,Yongfengjie Shequ,,31.2125,107.4923,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,15030.2,,,2,Asia/Shanghai,FALSE,1156569623
+Songxicun,Songxicun,,25.4873,113.5359,China,CN,CHN,Hunan,Hunan,CN-HN,,,111.7,,,4,Asia/Shanghai,FALSE,1156826844
+Pingtaoli,Pingtaoli,,33.5068,105.2313,China,CN,CHN,Gansu,Gansu,CN-GS,,,120.1,,,4,Asia/Shanghai,FALSE,1156049170
+Wenquanxu,Wenquanxu,,22.1884,112.7505,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,220.3,,,3,Asia/Shanghai,FALSE,1156731200
+Jinxing Wudui,Jinxing Wudui,,47.9247,124.9527,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,114.0,,,4,Asia/Shanghai,FALSE,1156323045
+Shimen Sunjiacun,Shimen Sunjiacun,,37.3288,120.3396,China,CN,CHN,Shandong,Shandong,CN-SD,,,402.3,,,3,Asia/Shanghai,FALSE,1156517379
+Citangdai,Citangdai,,32.0715,120.2598,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,651.4,,,3,Asia/Shanghai,FALSE,1156669661
+Jiage Suoyao,Jiage Suoyao,,40.1406,111.4342,China,CN,CHN,Inner Mongolia,Inner Mongolia,CN-NM,,,94.1,,,4,Asia/Shanghai,FALSE,1156901965
+Jiangxisheng Yongqiao Nongchang,Jiangxisheng Yongqiao Nongchang,,28.3942,116.4948,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,235.5,,,3,Asia/Shanghai,FALSE,1156200621
+Houwencun,Houwencun,Houwen,25.2814,119.1985,China,CN,CHN,Fujian,Fujian,CN-FJ,,,1412.1,,,3,Asia/Shanghai,FALSE,1156757731
+Sizhai,Sizhai,,24.2038,102.6938,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,1361.6,,,3,Asia/Shanghai,FALSE,1156829526
+Sizhai,Sizhai,,27.5904,103.9040,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,152.1,,,4,Asia/Shanghai,TRUE,1156536513
+Sizhai,Sizhai,,22.9744,103.8740,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,64.1,,,4,Asia/Shanghai,TRUE,1156240254
+Zhongjifan,Zhongjifan,,29.6726,114.9070,China,CN,CHN,Hubei,Hubei,CN-HB,,,106.9,,,4,Asia/Shanghai,FALSE,1156498992
+Zhangjia Youfang,Zhangjia Youfang,,32.0381,118.5814,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,341.1,,,3,Asia/Shanghai,FALSE,1156723280
+Jiatang,Jiatang,,24.7522,117.8050,China,CN,CHN,Fujian,Fujian,CN-FJ,,,129.8,,,4,Asia/Shanghai,FALSE,1156248174
+Jiatang,Jiatang,,26.1853,118.6943,China,CN,CHN,Fujian,Fujian,CN-FJ,,,45.2,,,4,Asia/Shanghai,TRUE,1156451526
+Meitaolun,Meitaolun,,26.1452,117.9581,China,CN,CHN,Fujian,Fujian,CN-FJ,,,56.2,,,4,Asia/Shanghai,FALSE,1156239419
+Caojia Zhangzi,Caojia Zhangzi,,41.0899,120.0050,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,69.6,,,4,Asia/Shanghai,FALSE,1156344179
+Xiashi Xianzi,Xiashi Xianzi,,36.1436,105.6220,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,59.9,,,4,Asia/Shanghai,FALSE,1156614454
+Weijizhai,Weijizhai,,27.1845,104.6850,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,243.7,,,3,Asia/Shanghai,FALSE,1156595048
+Dongwocun,Dongwocun,,26.3254,119.6990,China,CN,CHN,Fujian,Fujian,CN-FJ,,,455.6,,,3,Asia/Shanghai,FALSE,1156429331
+Dongwocun,Dongwocun,,25.4753,119.2219,China,CN,CHN,Fujian,Fujian,CN-FJ,,,256.0,,,3,Asia/Shanghai,TRUE,1156439086
+Qianhoucun,Qianhoucun,,35.4443,116.7886,China,CN,CHN,Shandong,Shandong,CN-SD,,,977.0,,,3,Asia/Shanghai,FALSE,1156478659
+Qianhoucun,Qianhoucun,,37.6963,116.8629,China,CN,CHN,Shandong,Shandong,CN-SD,,,417.6,,,3,Asia/Shanghai,TRUE,1156453280
+Qianhoucun,Qianhoucun,,37.3059,116.7349,China,CN,CHN,Shandong,Shandong,CN-SD,,,303.1,,,3,Asia/Shanghai,TRUE,1156453281
+Duitoushancun,Duitoushancun,,29.1522,119.7659,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,471.3,,,3,Asia/Shanghai,FALSE,1156407031
+Shangcaozhushan,Shangcaozhushan,,25.9883,111.5958,China,CN,CHN,Hunan,Hunan,CN-HN,,,196.1,,,4,Asia/Shanghai,FALSE,1156310565
+Shangjiadong,Shangjiadong,,22.2326,109.1650,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,288.0,,,3,Asia/Shanghai,FALSE,1156277050
+Shangjiadong,Shangjiadong,,24.5072,110.9050,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,101.3,,,4,Asia/Shanghai,TRUE,1156178694
+Yuzhugangcun,Yuzhugangcun,,23.4966,116.2307,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,2347.4,,,2,Asia/Shanghai,FALSE,1156234654
+Changshendi,Changshendi,,40.7822,116.0884,China,CN,CHN,Hebei,Hebei,CN-HE,,,41.9,,,4,Asia/Shanghai,FALSE,1156425307
+Qingjiaoping,Qingjiaoping,,24.0990,114.4371,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,56.6,,,4,Asia/Shanghai,FALSE,1156426606
+Qundaocun,Qundaocun,,19.9291,109.5529,China,CN,CHN,Hainan,Hainan,CN-HI,,,1182.8,,,3,Asia/Shanghai,FALSE,1156566236
+Linjia Weizi,Linjia Weizi,,46.6113,126.9476,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,180.6,,,4,Asia/Shanghai,FALSE,1156314819
+Linjia Weizi,Linjia Weizi,,47.4268,125.6191,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,95.6,,,4,Asia/Shanghai,TRUE,1156325919
+Linjia Weizi,Linjia Weizi,,46.9511,125.7054,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,34.4,,,4,Asia/Shanghai,TRUE,1156316312
+Taoshupingcun,Taoshupingcun,Taoshuping,37.1426,113.8624,China,CN,CHN,Hebei,Hebei,CN-HE,,,178.3,,,4,Asia/Shanghai,FALSE,1156239236
+Beibuyincun,Beibuyincun,,35.5547,117.6943,China,CN,CHN,Shandong,Shandong,CN-SD,,,1300.6,,,3,Asia/Shanghai,FALSE,1156533880
+Zhongqiao,Zhongqiao,,27.9439,120.6375,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1127.4,,,3,Asia/Shanghai,FALSE,1156155808
+Shanhecun,Shanhecun,Shanhe,28.4029,121.3967,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,2282.6,,,2,Asia/Shanghai,FALSE,1156993802
+Shanhecun,Shanhecun,,27.7587,120.4634,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,2276.7,,,2,Asia/Shanghai,TRUE,1156391946
+Shanhecun,Shanhecun,,29.0076,121.1696,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,174.0,,,4,Asia/Shanghai,TRUE,1156390912
+Shanhecun,Shanhecun,,29.3618,120.5391,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,103.0,,,4,Asia/Shanghai,TRUE,1156414861
+Sidaotai,Sidaotai,,40.6476,118.3032,China,CN,CHN,Hebei,Hebei,CN-HE,,,56.0,,,4,Asia/Shanghai,FALSE,1156090841
+Xigongqiaocun,Xigongqiaocun,,34.9373,117.2274,China,CN,CHN,Shandong,Shandong,CN-SD,,,1167.4,,,3,Asia/Shanghai,FALSE,1156880276
+Kuangjiadai,Kuangjiadai,,32.0538,119.8180,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,757.3,,,3,Asia/Shanghai,FALSE,1156844634
+Liwangxian Zhuangcun,Liwangxian Zhuangcun,,37.0149,115.6873,China,CN,CHN,Hebei,Hebei,CN-HE,,,1101.7,,,3,Asia/Shanghai,FALSE,1156582500
+Houyanzhifang,Houyanzhifang,,41.3402,124.4302,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,45.9,,,4,Asia/Shanghai,FALSE,1156089808
+Nansundiandong,Nansundiandong,,36.4615,115.2208,China,CN,CHN,Hebei,Hebei,CN-HE,,,718.0,,,3,Asia/Shanghai,FALSE,1156466432
+Longzhe,Longzhe,,23.7189,108.0250,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,122.2,,,4,Asia/Shanghai,FALSE,1156149898
+Longzhe,Longzhe,,23.2478,106.7700,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,100.5,,,4,Asia/Shanghai,TRUE,1156275832
+Longzhe,Longzhe,,23.6880,108.1950,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,7.5,,,5,Asia/Shanghai,TRUE,1156793591
+Huanhecun,Huanhecun,,30.4551,117.1391,China,CN,CHN,Anhui,Anhui,CN-AH,,,421.0,,,3,Asia/Shanghai,FALSE,1156388971
+Qingnian Nongchang,Qingnian Nongchang,,39.5047,121.8542,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,205.5,,,3,Asia/Shanghai,FALSE,1156220215
+Qingnian Nongchang,Qingnian Nongchang,,40.9867,120.9342,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,171.1,,,4,Asia/Shanghai,TRUE,1156197708
+Qingnian Nongchang,Qingnian Nongchang,,41.4978,124.2397,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,41.9,,,4,Asia/Shanghai,TRUE,1156250695
+Qingnian Nongchang,Qingnian Nongchang,,42.0611,123.3660,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,17.0,,,4,Asia/Shanghai,TRUE,1156362965
+Biansuncun,Biansuncun,,38.3327,117.3409,China,CN,CHN,Hebei,Hebei,CN-HE,,,609.3,,,3,Asia/Shanghai,FALSE,1156523655
+Shuiyuantou,Shuiyuantou,,30.2160,108.9332,China,CN,CHN,Hubei,Hubei,CN-HB,,,125.3,,,4,Asia/Shanghai,FALSE,1156064668
+Qinjiawan,Qinjiawan,,32.8616,105.8882,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,117.7,,,4,Asia/Shanghai,FALSE,1156938760
+Qinjiawan,Qinjiawan,,32.5947,109.5885,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,48.5,,,4,Asia/Shanghai,TRUE,1156527168
+Qinjiawan,Qinjiawan,,32.7966,107.3375,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,30.6,,,4,Asia/Shanghai,TRUE,1156379596
+Qinjiawan,Qinjiawan,,30.3514,104.7950,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,265.3,,,3,Asia/Shanghai,FALSE,1156595479
+Qinjiawan,Qinjiawan,,29.6607,104.2608,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,243.0,,,3,Asia/Shanghai,TRUE,1156069180
+Qinjiawan,Qinjiawan,,32.0621,107.4440,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,179.9,,,4,Asia/Shanghai,TRUE,1156117941
+Qinjiawan,Qinjiawan,,32.3671,107.4070,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,61.3,,,4,Asia/Shanghai,TRUE,1156442564
+Qinjiawan,Qinjiawan,,28.0258,103.4260,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,50.9,,,4,Asia/Shanghai,TRUE,1156949689
+Laihu,Laihu,,28.4101,104.6060,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,643.2,,,3,Asia/Shanghai,FALSE,1156197305
+Cuxicun,Cuxicun,Cuxi,24.1515,117.3045,China,CN,CHN,Fujian,Fujian,CN-FJ,,,216.9,,,3,Asia/Shanghai,FALSE,1156518581
+Huilucun,Huilucun,,20.3259,110.1841,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,5207.2,,,2,Asia/Shanghai,FALSE,1156550239
+Meifacun,Meifacun,,25.0644,118.1626,China,CN,CHN,Fujian,Fujian,CN-FJ,,,2273.2,,,2,Asia/Shanghai,FALSE,1156000327
+Danjiashan,Danjiashan,,26.8916,110.4784,China,CN,CHN,Hunan,Hunan,CN-HN,,,256.7,,,3,Asia/Shanghai,FALSE,1156153791
+Guangji,Guangji,,30.8947,103.9600,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,1732.8,,,3,Asia/Shanghai,FALSE,1156138530
+Guangji,Guangji,,31.2600,104.0617,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,738.5,,,3,Asia/Shanghai,TRUE,1156632255
+Guangji,Guangji,,30.2496,103.9230,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,211.7,,,3,Asia/Shanghai,TRUE,1156815433
+Guangji,Guangji,,30.0621,103.5670,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,187.2,,,4,Asia/Shanghai,TRUE,1156144627
+Lianhoucun,Lianhoucun,,34.5363,117.9947,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,967.5,,,3,Asia/Shanghai,FALSE,1156303758
+Houxu,Houxu,,37.3806,116.8000,China,CN,CHN,Shandong,Shandong,CN-SD,,,426.3,,,3,Asia/Shanghai,FALSE,1156268861
+Yuanzhai,Yuanzhai,,32.2831,112.8475,China,CN,CHN,Hubei,Hubei,CN-HB,,,338.7,,,3,Asia/Shanghai,FALSE,1156563880
+Hongta,Hongta,,39.2402,110.9953,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,30.3,,,4,Asia/Shanghai,FALSE,1156391863
+Fangcaohu Liuchang Sanlian,Fangcaohu Liuchang Sanlian,,44.5321,86.8227,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,69.4,,,4,Asia/Shanghai,FALSE,1156346979
+Liaoxu,Liaoxu,,30.4299,114.4477,China,CN,CHN,Hubei,Hubei,CN-HB,,,762.8,,,3,Asia/Shanghai,FALSE,1156177450
+Liaoxu,Liaoxu,,29.8162,116.0047,China,CN,CHN,Hubei,Hubei,CN-HB,,,270.6,,,3,Asia/Shanghai,TRUE,1156467267
+Chaqingaicun,Chaqingaicun,,32.2430,93.9919,China,CN,CHN,Tibet,Tibet,CN-XZ,,,7.8,,,5,Asia/Shanghai,FALSE,1156342464
+Maopingtou,Maopingtou,,32.8182,105.9335,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,125.3,,,4,Asia/Shanghai,FALSE,1156859435
+Jianiang,Jianiang,,23.0778,102.9158,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,122.3,,,4,Asia/Shanghai,FALSE,1156607494
+Guanyin,Guanyin,,27.8416,105.0339,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,381.4,,,3,Asia/Shanghai,FALSE,1156027271
+Guanyin,Guanyin,,24.0276,102.6564,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,104.2,,,4,Asia/Shanghai,TRUE,1156620365
+Donggucheng,Donggucheng,,24.4085,102.5720,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,535.4,,,3,Asia/Shanghai,FALSE,1156232250
+Shibaogang,Shibaogang,,28.7185,106.7030,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,522.4,,,3,Asia/Shanghai,FALSE,1156763719
+Baidiao,Baidiao,Baidiaomiaozu,28.0495,101.4593,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,24.2,,,4,Asia/Shanghai,FALSE,1156688163
+Qianlixingcun,Qianlixingcun,,34.9127,118.5366,China,CN,CHN,Shandong,Shandong,CN-SD,,,792.1,,,3,Asia/Shanghai,FALSE,1156594672
+Huangpotancun,Huangpotancun,,29.3687,120.7813,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,174.6,,,4,Asia/Shanghai,FALSE,1156414870
+Shannan Nongchang,Shannan Nongchang,,29.3194,91.5206,China,CN,CHN,Tibet,Tibet,CN-XZ,,,8.1,,,5,Asia/Shanghai,FALSE,1156175064
+Yuanpingzi,Yuanpingzi,,33.9580,106.7906,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,17.7,,,4,Asia/Shanghai,FALSE,1156886313
+Mianyuan,Mianyuan,,30.6072,118.2645,China,CN,CHN,Anhui,Anhui,CN-AH,,,171.7,,,4,Asia/Shanghai,FALSE,1156827509
+Qieluoguo,Qieluoguo,,28.2419,88.3488,China,CN,CHN,Tibet,Tibet,CN-XZ,,,2.8,,,5,Asia/Shanghai,FALSE,1156040106
+Beizhaojia Zhuangcun,Beizhaojia Zhuangcun,,37.7334,115.1424,China,CN,CHN,Hebei,Hebei,CN-HE,,,1048.3,,,3,Asia/Shanghai,FALSE,1156581244
+Xinu’er Shequcun,Xinu'er Shequcun,,36.0693,119.1998,China,CN,CHN,Shandong,Shandong,CN-SD,,,343.3,,,3,Asia/Shanghai,FALSE,1156535668
+Renjiadong,Renjiadong,,37.5726,114.3070,China,CN,CHN,Hebei,Hebei,CN-HE,,,308.5,,,3,Asia/Shanghai,FALSE,1156983113
+Halasitancun,Halasitancun,,38.0095,77.4571,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,231.5,,,3,Asia/Shanghai,FALSE,1156163909
+Xiaodong’ao,Xiaodong'ao,,33.4174,109.2840,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,65.5,,,4,Asia/Shanghai,FALSE,1156156320
+Jietancun,Jietancun,,28.4367,115.6085,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,378.8,,,3,Asia/Shanghai,FALSE,1156719599
+Houjiaxin Liangzi,Houjiaxin Liangzi,,43.3515,125.6809,China,CN,CHN,Jilin,Jilin,CN-JL,,,101.9,,,4,Asia/Shanghai,FALSE,1156574338
+Wanmatou,Wanmatou,,28.3796,110.8657,China,CN,CHN,Hunan,Hunan,CN-HN,,,107.6,,,4,Asia/Shanghai,FALSE,1156185487
+Dayang Dicun,Dayang Dicun,Dayangdi,25.7290,116.8972,China,CN,CHN,Fujian,Fujian,CN-FJ,,,16.9,,,4,Asia/Shanghai,FALSE,1156064720
+Longdang Pingzi,Longdang Pingzi,,28.0133,103.8520,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,87.3,,,4,Asia/Shanghai,FALSE,1156024134
+Shuanluquan,Shuanluquan,,35.2767,112.6345,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,98.6,,,4,Asia/Shanghai,FALSE,1156848782
+Hou’ejia,Hou'ejia,,41.4932,122.3792,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,94.7,,,4,Asia/Shanghai,FALSE,1156079154
+Mibu Daicun,Mibu Daicun,,36.2019,119.0836,China,CN,CHN,Shandong,Shandong,CN-SD,,,477.8,,,3,Asia/Shanghai,FALSE,1156509035
+Yinggeshi,Yinggeshi,,38.8778,121.3436,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,936.9,,,3,Asia/Shanghai,FALSE,1156470268
+Bianshucun,Bianshucun,,31.9333,119.9591,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,4212.3,,,2,Asia/Shanghai,FALSE,1156357181
+Fucao,Fucao,,28.8677,103.5352,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,243.7,,,3,Asia/Shanghai,FALSE,1156138191
+Chenxialong,Chenxialong,,25.8580,116.1610,China,CN,CHN,Fujian,Fujian,CN-FJ,,,60.3,,,4,Asia/Shanghai,FALSE,1156454809
+Qianyi’ancun,Qianyi'ancun,,34.8929,109.5658,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,574.6,,,3,Asia/Shanghai,FALSE,1156020771
+Leijia Wobucun,Leijia Wobucun,,42.5973,123.1519,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,131.0,,,4,Asia/Shanghai,FALSE,1156419034
+Leijia Wobucun,Leijia Wobucun,,42.5217,122.7503,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,99.0,,,4,Asia/Shanghai,TRUE,1156424214
+Shanshuzui,Shanshuzui,,28.6763,105.4337,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,255.8,,,3,Asia/Shanghai,FALSE,1156496068
+Mujing,Mujing,,26.9333,110.6078,China,CN,CHN,Hunan,Hunan,CN-HN,,,315.7,,,3,Asia/Shanghai,FALSE,1156257897
+Huangcaopocun,Huangcaopocun,,35.4051,117.6683,China,CN,CHN,Shandong,Shandong,CN-SD,,,518.3,,,3,Asia/Shanghai,FALSE,1156925137
+Huangcaopocun,Huangcaopocun,,35.5782,119.0143,China,CN,CHN,Shandong,Shandong,CN-SD,,,434.2,,,3,Asia/Shanghai,TRUE,1156168386
+Hongba,Hongba,,32.3913,120.5729,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,1465.7,,,3,Asia/Shanghai,FALSE,1156368971
+Ziyuan Shequ Dongsanlihecun,Ziyuan Shequ Dongsanlihecun,,37.2042,116.8338,China,CN,CHN,Shandong,Shandong,CN-SD,,,636.9,,,3,Asia/Shanghai,FALSE,1156495366
+Chenguangcun,Chenguangcun,Chenguang,31.2520,117.3080,China,CN,CHN,Anhui,Anhui,CN-AH,,,2461.3,,,2,Asia/Shanghai,FALSE,1156301314
+Chenguangcun,Chenguangcun,,31.9307,117.6259,China,CN,CHN,Anhui,Anhui,CN-AH,,,374.7,,,3,Asia/Shanghai,TRUE,1156096847
+Chenguangcun,Chenguangcun,,29.8594,117.6048,China,CN,CHN,Anhui,Anhui,CN-AH,,,33.3,,,4,Asia/Shanghai,TRUE,1156500482
+Wang’ercun,Wang'ercun,,24.1526,109.9660,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,195.7,,,4,Asia/Shanghai,FALSE,1156141390
+Wang’ercun,Wang'ercun,,23.8268,109.4320,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,184.0,,,4,Asia/Shanghai,TRUE,1156072340
+Mujing,Mujing,Shui-ching|Mu-ching|Shui-ching-chen|Shuijing,39.7500,118.9000,China,CN,CHN,Hebei,Hebei,CN-HE,,,438.2,,,3,Asia/Shanghai,FALSE,1156016442
+Mujing,Mujing,,39.5024,115.6367,China,CN,CHN,Hebei,Hebei,CN-HE,,,223.3,,,3,Asia/Shanghai,TRUE,1156462308
+Mujing,Mujing,,40.0853,114.8145,China,CN,CHN,Hebei,Hebei,CN-HE,,,63.8,,,4,Asia/Shanghai,TRUE,1156356316
+Xishi Mengou,Xishi Mengou,,40.4955,124.7660,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,88.3,,,4,Asia/Shanghai,FALSE,1156036862
+Da’erdao Hezicun,Da'erdao Hezicun,Da’erdaohezicun,41.2777,120.8687,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,98.5,,,4,Asia/Shanghai,FALSE,1156347951
+Dongdoufuliu,Dongdoufuliu,,34.4843,114.0733,China,CN,CHN,Henan,Henan,CN-HA,,,529.7,,,3,Asia/Shanghai,FALSE,1156321270
+Xituanying,Xituanying,,32.8418,119.6837,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,318.3,,,3,Asia/Shanghai,FALSE,1156545124
+Duanjiaogou,Duanjiaogou,,26.4104,102.2810,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,160.3,,,4,Asia/Shanghai,FALSE,1156539246
+Liudexintun,Liudexintun,,46.1893,127.9136,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,48.9,,,4,Asia/Shanghai,FALSE,1156344635
+Duanjia Goukoucun,Duanjia Goukoucun,,33.1601,109.0716,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,79.4,,,4,Asia/Shanghai,FALSE,1156304177
+Kuo’axi Boyi,Kuo'axi Boyi,,41.1939,80.1762,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,68.1,,,4,Asia/Shanghai,FALSE,1156456915
+Qixingcun,Qixingcun,,21.5839,110.9434,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,841.5,,,3,Asia/Shanghai,FALSE,1156573084
+Qixingcun,Qixingcun,,23.4785,113.3521,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,819.5,,,3,Asia/Shanghai,TRUE,1156104214
+Qixingcun,Qixingcun,,22.2028,113.1347,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,551.1,,,3,Asia/Shanghai,TRUE,1156573087
+Qixingcun,Qixingcun,,22.1045,111.7378,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,279.7,,,3,Asia/Shanghai,TRUE,1156573086
+Qixingcun,Qixingcun,,24.5657,112.1260,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,115.8,,,4,Asia/Shanghai,TRUE,1156837930
+Qixingcun,Qixingcun,,22.2036,111.3630,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,94.0,,,4,Asia/Shanghai,TRUE,1156573085
+Mengjiawancun,Mengjiawancun,,36.1903,109.3315,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,56.7,,,4,Asia/Shanghai,FALSE,1156451240
+Banmecun,Banmecun,Banme|Banyao,24.8894,107.1937,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,38.3,,,4,Asia/Shanghai,FALSE,1156231764
+Shuangdongcun,Shuangdongcun,,22.7948,111.6272,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,821.4,,,3,Asia/Shanghai,FALSE,1156564588
+Shuangdongcun,Shuangdongcun,,22.4333,110.9000,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,389.3,,,3,Asia/Shanghai,TRUE,1156564589
+Shuangdongcun,Shuangdongcun,,22.4296,111.6185,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,134.8,,,4,Asia/Shanghai,TRUE,1156564586
+Sunjiayoufang,Sunjiayoufang,,29.4416,109.4751,China,CN,CHN,Hunan,Hunan,CN-HN,,,433.4,,,3,Asia/Shanghai,FALSE,1156262003
+Mengjiawancun,Mengjiawancun,,37.4251,117.6718,China,CN,CHN,Shandong,Shandong,CN-SD,,,393.8,,,3,Asia/Shanghai,FALSE,1156966173
+Wutongya,Wutongya,,32.9816,107.5228,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,132.6,,,4,Asia/Shanghai,FALSE,1156106795
+Qujiacun,Qujiacun,,38.8767,121.1904,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,410.1,,,3,Asia/Shanghai,FALSE,1156418137
+Qujiacun,Qujiacun,,41.4622,123.0500,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,393.8,,,3,Asia/Shanghai,TRUE,1156008054
+Qujiacun,Qujiacun,,41.0423,122.2465,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,229.4,,,3,Asia/Shanghai,TRUE,1156002749
+Qujiacun,Qujiacun,,43.2158,123.9064,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,129.3,,,4,Asia/Shanghai,TRUE,1156420374
+Qujiacun,Qujiacun,,40.9190,123.5490,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,60.5,,,4,Asia/Shanghai,TRUE,1156348997
+Baila,Baila,,26.5279,99.3758,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,135.0,,,4,Asia/Shanghai,FALSE,1156203205
+Baila,Baila,,24.7527,100.0830,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,81.6,,,4,Asia/Shanghai,TRUE,1156083875
+Baila,Baila,,24.9884,101.8710,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,47.6,,,4,Asia/Shanghai,TRUE,1156115336
+Baila,Baila,,28.0159,98.3248,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,4.8,,,5,Asia/Shanghai,TRUE,1156373447
+Shuangdongcun,Shuangdongcun,,21.9462,109.7588,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,173.7,,,4,Asia/Shanghai,FALSE,1156466911
+Shuangdongcun,Shuangdongcun,,23.6932,111.3225,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,130.6,,,4,Asia/Shanghai,TRUE,1156466912
+Shangjia,Shangjia,,30.5472,110.1402,China,CN,CHN,Hubei,Hubei,CN-HB,,,106.6,,,4,Asia/Shanghai,FALSE,1156245973
+Zisa Gongma,Zisa Gongma,,34.3926,102.5700,China,CN,CHN,Gansu,Gansu,CN-GS,,,4.5,,,5,Asia/Shanghai,FALSE,1156662115
+Zhengshangcun,Zhengshangcun,,37.6897,120.8874,China,CN,CHN,Shandong,Shandong,CN-SD,,,269.0,,,3,Asia/Shanghai,FALSE,1156215327
+Hala Maotoucun,Hala Maotoucun,Hala Maotou,44.9134,122.7063,China,CN,CHN,Jilin,Jilin,CN-JL,,,14.4,,,4,Asia/Shanghai,FALSE,1156019265
+Laiyuancun,Laiyuancun,,26.7125,116.1011,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,155.2,,,4,Asia/Shanghai,FALSE,1156155504
+Qixingcun,Qixingcun,,25.2798,110.3058,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,10075.6,,,2,Asia/Shanghai,FALSE,1156475075
+Qixingcun,Qixingcun,,26.0215,110.8875,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,96.7,,,4,Asia/Shanghai,TRUE,1156452673
+Nantianshi,Nantianshi,,36.0778,114.7581,China,CN,CHN,Henan,Henan,CN-HA,,,1210.9,,,3,Asia/Shanghai,FALSE,1156684585
+Niyigong,Niyigong,,30.2861,100.5780,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,3.1,,,5,Asia/Shanghai,FALSE,1156824946
+Hepingqiu,Hepingqiu,,28.5053,120.7590,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,59.1,,,4,Asia/Shanghai,FALSE,1156350656
+Rimeicun,Rimeicun,,31.8695,96.2812,China,CN,CHN,Tibet,Tibet,CN-XZ,,,7.1,,,5,Asia/Shanghai,FALSE,1156408964
+Subeixi,Subeixi,,39.4924,75.9563,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,3988.3,,,2,Asia/Shanghai,FALSE,1156164919
+Subeixi,Subeixi,,42.9211,89.7329,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,139.2,,,4,Asia/Shanghai,TRUE,1156789562
+Subeixi,Subeixi,,42.6326,88.5674,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,23.1,,,4,Asia/Shanghai,TRUE,1156149633
+Subeixi,Subeixi,,40.5151,78.7638,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,7.3,,,5,Asia/Shanghai,TRUE,1156217488
+Wangbaoqiao,Wangbaoqiao,,25.7273,106.0850,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,223.1,,,3,Asia/Shanghai,FALSE,1156741027
+Wangshijiu,Wangshijiu,,28.3575,111.7124,China,CN,CHN,Hunan,Hunan,CN-HN,,,306.7,,,3,Asia/Shanghai,FALSE,1156181019
+Nayongtun,Nayongtun,,22.2245,106.7500,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,96.1,,,4,Asia/Shanghai,FALSE,1156455016
+Qipuwan,Qipuwan,,27.2096,112.5693,China,CN,CHN,Hunan,Hunan,CN-HN,,,365.9,,,3,Asia/Shanghai,FALSE,1156645403
+Zhongxiangzhuangcun,Zhongxiangzhuangcun,,35.0388,118.5350,China,CN,CHN,Shandong,Shandong,CN-SD,,,871.5,,,3,Asia/Shanghai,FALSE,1156511945
+Zuanluoling,Zuanluoling,,26.9362,116.1870,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,7.6,,,5,Asia/Shanghai,FALSE,1156303074
+Xinglongtun,Xinglongtun,,43.5072,125.6886,China,CN,CHN,Jilin,Jilin,CN-JL,,,364.7,,,3,Asia/Shanghai,FALSE,1156574567
+Xinglongtun,Xinglongtun,,44.3502,126.9721,China,CN,CHN,Jilin,Jilin,CN-JL,,,241.7,,,3,Asia/Shanghai,TRUE,1156852498
+Xinglongtun,Xinglongtun,,44.7371,125.2592,China,CN,CHN,Jilin,Jilin,CN-JL,,,152.2,,,4,Asia/Shanghai,TRUE,1156006174
+Xinglongtun,Xinglongtun,,43.1939,125.7961,China,CN,CHN,Jilin,Jilin,CN-JL,,,89.4,,,4,Asia/Shanghai,TRUE,1156835327
+Xinglongtun,Xinglongtun,,43.3236,126.3477,China,CN,CHN,Jilin,Jilin,CN-JL,,,72.2,,,4,Asia/Shanghai,TRUE,1156963625
+Xinglongtun,Xinglongtun,,43.7579,123.4877,China,CN,CHN,Jilin,Jilin,CN-JL,,,42.0,,,4,Asia/Shanghai,TRUE,1156091932
+Xinglongtun,Xinglongtun,,45.0093,123.4018,China,CN,CHN,Jilin,Jilin,CN-JL,,,28.7,,,4,Asia/Shanghai,TRUE,1156792295
+Guojiang Songduo,Guojiang Songduo,,33.5966,101.2884,China,CN,CHN,Qinghai,Qinghai,CN-QH,,,3.5,,,5,Asia/Shanghai,FALSE,1156137013
+Yuejiatun,Yuejiatun,,43.5654,124.2391,China,CN,CHN,Jilin,Jilin,CN-JL,,,279.8,,,3,Asia/Shanghai,FALSE,1156875550
+Yuejiatun,Yuejiatun,,43.8940,124.1961,China,CN,CHN,Jilin,Jilin,CN-JL,,,108.7,,,4,Asia/Shanghai,TRUE,1156160859
+Yuejiatun,Yuejiatun,,43.6690,125.6694,China,CN,CHN,Jilin,Jilin,CN-JL,,,78.7,,,4,Asia/Shanghai,TRUE,1156554679
+Dumiancun,Dumiancun,,22.3873,111.7413,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,155.6,,,4,Asia/Shanghai,FALSE,1156562686
+Shiluocun,Shiluocun,,30.8624,107.6180,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,185.6,,,4,Asia/Shanghai,FALSE,1156555976
+Yimin Shequ,Yimin Shequ,,25.9569,117.3505,China,CN,CHN,Fujian,Fujian,CN-FJ,,,203.7,,,3,Asia/Shanghai,FALSE,1156449534
+Changqing,Changqing,,25.8752,119.4265,China,CN,CHN,Fujian,Fujian,CN-FJ,,,714.5,,,3,Asia/Shanghai,FALSE,1156143105
+Diancun,Diancun,,26.5239,103.6500,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,356.4,,,3,Asia/Shanghai,FALSE,1156602103
+Xianmawan,Xianmawan,,34.9622,106.8907,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,716.4,,,3,Asia/Shanghai,FALSE,1156136900
+Yuhuangguan,Yuhuangguan,,33.1395,111.0105,China,CN,CHN,Hubei,Hubei,CN-HB,,,143.8,,,4,Asia/Shanghai,FALSE,1156049621
+Baihesi,Baihesi,,29.4805,105.3445,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,596.2,,,3,Asia/Shanghai,FALSE,1156867621
+Maojiawu,Maojiawu,,28.9956,113.3210,China,CN,CHN,Hunan,Hunan,CN-HN,,,371.6,,,3,Asia/Shanghai,FALSE,1156527899
+Liaotangcun,Liaotangcun,,34.4601,118.6359,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,290.6,,,3,Asia/Shanghai,FALSE,1156297336
+Kengli,Kengli,,24.1968,117.6362,China,CN,CHN,Fujian,Fujian,CN-FJ,,,193.7,,,4,Asia/Shanghai,FALSE,1156042536
+Kengli,Kengli,,26.2981,116.4999,China,CN,CHN,Fujian,Fujian,CN-FJ,,,179.0,,,4,Asia/Shanghai,TRUE,1156884630
+Kengli,Kengli,,26.4547,119.7799,China,CN,CHN,Fujian,Fujian,CN-FJ,,,149.8,,,4,Asia/Shanghai,TRUE,1156353059
+Kengli,Kengli,,25.1853,116.5620,China,CN,CHN,Fujian,Fujian,CN-FJ,,,116.6,,,4,Asia/Shanghai,TRUE,1156642657
+Kengli,Kengli,,26.5150,119.3688,China,CN,CHN,Fujian,Fujian,CN-FJ,,,108.2,,,4,Asia/Shanghai,TRUE,1156385729
+Kengli,Kengli,,25.9828,117.6759,China,CN,CHN,Fujian,Fujian,CN-FJ,,,104.5,,,4,Asia/Shanghai,TRUE,1156051885
+Kengli,Kengli,,25.8468,119.0682,China,CN,CHN,Fujian,Fujian,CN-FJ,,,94.9,,,4,Asia/Shanghai,TRUE,1156675563
+Kengli,Kengli,,25.6020,117.8835,China,CN,CHN,Fujian,Fujian,CN-FJ,,,64.2,,,4,Asia/Shanghai,TRUE,1156722912
+Kengli,Kengli,,27.3582,118.5499,China,CN,CHN,Fujian,Fujian,CN-FJ,,,47.9,,,4,Asia/Shanghai,TRUE,1156069314
+Kengli,Kengli,,27.3582,118.9931,China,CN,CHN,Fujian,Fujian,CN-FJ,,,33.6,,,4,Asia/Shanghai,TRUE,1156720336
+Songmukeng,Songmukeng,,29.7035,114.8275,China,CN,CHN,Hubei,Hubei,CN-HB,,,99.8,,,4,Asia/Shanghai,FALSE,1156795682
+Sijia Wopu,Sijia Wopu,,41.9455,117.4383,China,CN,CHN,Hebei,Hebei,CN-HE,,,73.3,,,4,Asia/Shanghai,FALSE,1156377206
+Lanpengxia,Lanpengxia,,28.5802,113.8636,China,CN,CHN,Hunan,Hunan,CN-HN,,,174.6,,,4,Asia/Shanghai,FALSE,1156385228
+Donglicun,Donglicun,,25.3007,116.4598,China,CN,CHN,Fujian,Fujian,CN-FJ,,,178.0,,,4,Asia/Shanghai,FALSE,1156456958
+Donglicun,Donglicun,Dongli,25.2380,118.2058,China,CN,CHN,Fujian,Fujian,CN-FJ,,,165.3,,,4,Asia/Shanghai,TRUE,1156003305
+Donglicun,Donglicun,Dongli,25.6374,118.1772,China,CN,CHN,Fujian,Fujian,CN-FJ,,,29.9,,,4,Asia/Shanghai,TRUE,1156061119
+Tanglugang Shi’erzu,Tanglugang Shi'erzu,,31.3920,119.7995,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,8426.7,,,2,Asia/Shanghai,FALSE,1156531429
+Tanglugang Shi’erzu,Tanglugang Shi'erzu,Tanglugang,31.9298,121.8053,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,371.2,,,3,Asia/Shanghai,TRUE,1156862963
+Pingxin,Pingxin,,30.9962,108.5433,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,120.6,,,4,Asia/Shanghai,FALSE,1156131215
+Beidangcun,Beidangcun,,33.7675,119.1109,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,357.1,,,3,Asia/Shanghai,FALSE,1156283114
+Chenqiao,Chenqiao,,30.3002,114.8938,China,CN,CHN,Hubei,Hubei,CN-HB,,,1024.1,,,3,Asia/Shanghai,FALSE,1156122209
+Dongxintun,Dongxintun,,42.8631,129.3415,China,CN,CHN,Jilin,Jilin,CN-JL,,,19.2,,,4,Asia/Shanghai,FALSE,1156135841
+Dongxintun,Dongxintun,,44.4377,122.5294,China,CN,CHN,Jilin,Jilin,CN-JL,,,4.9,,,5,Asia/Shanghai,TRUE,1156492550
+Wangjialaoba,Wangjialaoba,,36.8883,106.3245,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,69.9,,,4,Asia/Shanghai,FALSE,1156810648
+Lidalou,Lidalou,,34.0168,115.2720,China,CN,CHN,Henan,Henan,CN-HA,,,730.6,,,3,Asia/Shanghai,FALSE,1156774404
+Xiangluncun,Xiangluncun,,24.9226,117.9720,China,CN,CHN,Fujian,Fujian,CN-FJ,,,80.3,,,4,Asia/Shanghai,FALSE,1156432303
+Shangyun,Shangyun,,19.8740,110.5614,China,CN,CHN,Hainan,Hainan,CN-HI,,,44.0,,,4,Asia/Shanghai,FALSE,1156000466
+Yingtan,Yingtan,,23.6620,114.2420,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,159.4,,,4,Asia/Shanghai,FALSE,1156199912
+Shangsongtang,Shangsongtang,,26.9878,112.4727,China,CN,CHN,Hunan,Hunan,CN-HN,,,183.3,,,4,Asia/Shanghai,FALSE,1156814856
+Xintang’ao,Xintang'ao,,27.3959,112.8989,China,CN,CHN,Hunan,Hunan,CN-HN,,,298.5,,,3,Asia/Shanghai,FALSE,1156051952
+Xintang’ao,Xintang'ao,,27.3078,112.3329,China,CN,CHN,Hunan,Hunan,CN-HN,,,198.9,,,4,Asia/Shanghai,TRUE,1156745883
+Dongmalongtuancun,Dongmalongtuancun,,36.5128,120.1631,China,CN,CHN,Shandong,Shandong,CN-SD,,,446.4,,,3,Asia/Shanghai,FALSE,1156072671
+Maguodong,Maguodong,,30.0201,94.0372,China,CN,CHN,Tibet,Tibet,CN-XZ,,,2.2,,,5,Asia/Shanghai,FALSE,1156062915
+Lam’og,Lam'og,Lawu,31.9000,96.8000,China,CN,CHN,Qinghai,Qinghai,CN-QH,,,5.3,,,5,Asia/Shanghai,FALSE,1156104620
+Shangbianwan,Shangbianwan,,29.3859,104.8708,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,725.7,,,3,Asia/Shanghai,FALSE,1156852476
+Shangbianwan,Shangbianwan,,29.4726,103.8552,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,615.1,,,3,Asia/Shanghai,TRUE,1156405386
+Jiukongqiaocun,Jiukongqiaocun,,35.1366,116.6948,China,CN,CHN,Shandong,Shandong,CN-SD,,,856.8,,,3,Asia/Shanghai,FALSE,1156513090
+Jianshancun,Jianshancun,,30.3275,120.5298,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1388.1,,,3,Asia/Shanghai,FALSE,1156379894
+Jianshancun,Jianshancun,Jianshan,28.6741,121.1778,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,1113.3,,,3,Asia/Shanghai,TRUE,1156322536
+Jianshancun,Jianshancun,,28.1891,121.2175,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,794.1,,,3,Asia/Shanghai,TRUE,1156387100
+Jianshancun,Jianshancun,,30.6096,119.6103,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,603.0,,,3,Asia/Shanghai,TRUE,1156046427
+Jianshancun,Jianshancun,,29.2493,119.4136,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,390.4,,,3,Asia/Shanghai,TRUE,1156400011
+Jianshancun,Jianshancun,,30.3508,120.7936,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,361.2,,,3,Asia/Shanghai,TRUE,1156379677
+Jianshancun,Jianshancun,,29.2221,120.7199,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,331.3,,,3,Asia/Shanghai,TRUE,1156384983
+Jianshancun,Jianshancun,,28.5753,120.0299,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,253.8,,,3,Asia/Shanghai,TRUE,1156406326
+Jianshancun,Jianshancun,,29.1773,121.1867,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,56.1,,,4,Asia/Shanghai,TRUE,1156392523
+Xuezhai,Xuezhai,,33.6791,112.9540,China,CN,CHN,Henan,Henan,CN-HA,,,640.5,,,3,Asia/Shanghai,FALSE,1156173422
+Xuezhai,Xuezhai,,34.5897,114.2365,China,CN,CHN,Henan,Henan,CN-HA,,,233.2,,,3,Asia/Shanghai,TRUE,1156180467
+Xuezhai,Xuezhai,,35.0713,112.3514,China,CN,CHN,Henan,Henan,CN-HA,,,105.0,,,4,Asia/Shanghai,TRUE,1156059574
+Bachong,Bachong,,27.7697,113.0694,China,CN,CHN,Hunan,Hunan,CN-HN,,,213.1,,,3,Asia/Shanghai,FALSE,1156170109
+Huodongcun,Huodongcun,,35.4272,116.4771,China,CN,CHN,Shandong,Shandong,CN-SD,,,937.6,,,3,Asia/Shanghai,FALSE,1156538176
+Decun,Decun,,22.4238,110.9470,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,389.3,,,3,Asia/Shanghai,FALSE,1156574717
+Jijiaxu,Jijiaxu,,32.0971,120.1188,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,433.2,,,3,Asia/Shanghai,FALSE,1156813297
+Caohe,Caohe,,36.0259,106.1035,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,140.3,,,4,Asia/Shanghai,FALSE,1156341013
+Caohe,Caohe,,37.9120,106.0370,China,CN,CHN,Ningxia,Ningxia,CN-NX,,,71.1,,,4,Asia/Shanghai,TRUE,1156240284
+Fanjiagou,Fanjiagou,,33.1429,110.7788,China,CN,CHN,Hubei,Hubei,CN-HB,,,162.5,,,4,Asia/Shanghai,FALSE,1156538418
+Fanjiagou,Fanjiagou,,32.7415,110.8866,China,CN,CHN,Hubei,Hubei,CN-HB,,,95.8,,,4,Asia/Shanghai,TRUE,1156735398
+Fanjiagou,Fanjiagou,,32.7422,110.3977,China,CN,CHN,Hubei,Hubei,CN-HB,,,59.3,,,4,Asia/Shanghai,TRUE,1156118242
+Fanjiagou,Fanjiagou,,33.0523,110.2853,China,CN,CHN,Hubei,Hubei,CN-HB,,,57.2,,,4,Asia/Shanghai,TRUE,1156177082
+Fanjiagou,Fanjiagou,,31.9873,110.0187,China,CN,CHN,Hubei,Hubei,CN-HB,,,34.6,,,4,Asia/Shanghai,TRUE,1156595031
+Fanjiagou,Fanjiagou,,34.7417,113.2661,China,CN,CHN,Henan,Henan,CN-HA,,,1294.3,,,3,Asia/Shanghai,FALSE,1156303684
+Fanjiagou,Fanjiagou,,31.9923,113.9301,China,CN,CHN,Henan,Henan,CN-HA,,,94.9,,,4,Asia/Shanghai,TRUE,1156611340
+Zengshoucun,Zengshoucun,,45.3599,125.9541,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,385.6,,,3,Asia/Shanghai,FALSE,1156314771
+Zengshoucun,Zengshoucun,,45.8079,126.3363,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,240.7,,,3,Asia/Shanghai,TRUE,1156328709
+Fanjiagou,Fanjiagou,,40.2196,118.6135,China,CN,CHN,Hebei,Hebei,CN-HE,,,453.3,,,3,Asia/Shanghai,FALSE,1156363659
+Fanjiagou,Fanjiagou,,40.7628,116.0126,China,CN,CHN,Hebei,Hebei,CN-HE,,,33.7,,,4,Asia/Shanghai,TRUE,1156577464
+Fanjiagou,Fanjiagou,,40.9533,116.7077,China,CN,CHN,Hebei,Hebei,CN-HE,,,22.7,,,4,Asia/Shanghai,TRUE,1156628407
+Tianpingcun,Tianpingcun,,43.0789,126.6471,China,CN,CHN,Jilin,Jilin,CN-JL,,,110.0,,,4,Asia/Shanghai,FALSE,1156750695
+Bianyagen,Bianyagen,,36.7966,108.4042,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,31.9,,,4,Asia/Shanghai,FALSE,1156239763
+Chuntingcun,Chuntingcun,,35.0940,114.9655,China,CN,CHN,Shandong,Shandong,CN-SD,,,513.5,,,3,Asia/Shanghai,FALSE,1156280888
+Chuntingcun,Chuntingcun,,35.6353,116.8981,China,CN,CHN,Shandong,Shandong,CN-SD,,,490.0,,,3,Asia/Shanghai,TRUE,1156493754
+Kuku Maiticun,Kuku Maiticun,,37.0768,80.1162,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,831.3,,,3,Asia/Shanghai,FALSE,1156330266
+Yangyayao,Yangyayao,,36.4655,109.0488,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,22.2,,,4,Asia/Shanghai,FALSE,1156193508
+Baizhudongtun,Baizhudongtun,,24.5197,106.7304,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,76.4,,,4,Asia/Shanghai,FALSE,1156462936
+Baizhudongtun,Baizhudongtun,,24.6764,106.4488,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,63.5,,,4,Asia/Shanghai,TRUE,1156462937
+Wangjia Kangcun,Wangjia Kangcun,,35.3043,119.0789,China,CN,CHN,Shandong,Shandong,CN-SD,,,370.3,,,3,Asia/Shanghai,FALSE,1156437804
+Kong’ou,Kong'ou,,28.9785,85.6319,China,CN,CHN,Tibet,Tibet,CN-XZ,,,2.1,,,5,Asia/Shanghai,FALSE,1156540360
+Houjiatian,Houjiatian,,28.9110,106.9700,China,CN,CHN,Chongqing,Chongqing,CN-CQ,,,63.4,,,4,Asia/Shanghai,FALSE,1156812386
+Tangweng,Tangweng,,23.1124,112.0028,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,166.3,,,4,Asia/Shanghai,FALSE,1156266038
+Houdiaozhuangcun,Houdiaozhuangcun,,36.2466,119.6867,China,CN,CHN,Shandong,Shandong,CN-SD,,,1666.6,,,3,Asia/Shanghai,FALSE,1156305585
+Liangdongcun,Liangdongcun,,22.0414,111.5620,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,317.9,,,3,Asia/Shanghai,FALSE,1156557613
+Liangdongcun,Liangdongcun,,24.3005,114.0853,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,310.0,,,3,Asia/Shanghai,TRUE,1156557618
+Liangdongcun,Liangdongcun,,22.0975,111.2057,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,259.6,,,3,Asia/Shanghai,TRUE,1156557611
+Liangdongcun,Liangdongcun,,22.3350,112.3533,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,158.9,,,4,Asia/Shanghai,TRUE,1156557614
+Liangdongcun,Liangdongcun,,22.3963,110.8100,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,156.8,,,4,Asia/Shanghai,TRUE,1156557612
+Liangdongcun,Liangdongcun,,24.1116,113.8782,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,72.8,,,4,Asia/Shanghai,TRUE,1156557615
+Liangdongcun,Liangdongcun,,24.4023,112.1393,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,28.0,,,4,Asia/Shanghai,TRUE,1156567593
+Sanyu,Sanyu,,23.4193,109.0430,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,136.0,,,4,Asia/Shanghai,FALSE,1156915710
+Xuejiacun,Xuejiacun,,29.8573,121.4881,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,3782.3,,,2,Asia/Shanghai,FALSE,1156400566
+Yugang,Yugang,,35.1269,117.2015,China,CN,CHN,Shandong,Shandong,CN-SD,,,914.9,,,3,Asia/Shanghai,FALSE,1156504316
+Shamutang,Shamutang,,26.4134,111.6912,China,CN,CHN,Hunan,Hunan,CN-HN,,,319.7,,,3,Asia/Shanghai,FALSE,1156061707
+Shamutang,Shamutang,,26.3399,110.8225,China,CN,CHN,Hunan,Hunan,CN-HN,,,112.4,,,4,Asia/Shanghai,TRUE,1156628167
+Chenjiayan,Chenjiayan,,29.0669,110.6207,China,CN,CHN,Hunan,Hunan,CN-HN,,,63.4,,,4,Asia/Shanghai,FALSE,1156499060
+Hejia Xiaodai,Hejia Xiaodai,,32.1556,119.8707,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,989.6,,,3,Asia/Shanghai,FALSE,1156008690
+Yousheng,Yousheng,,27.3050,111.9675,China,CN,CHN,Hunan,Hunan,CN-HN,,,561.4,,,3,Asia/Shanghai,FALSE,1156377077
+Liangdongcun,Liangdongcun,,35.5977,106.6370,China,CN,CHN,Gansu,Gansu,CN-GS,,,143.4,,,4,Asia/Shanghai,FALSE,1156277719
+Tangweng,Tangweng,,25.9023,107.8820,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,248.6,,,3,Asia/Shanghai,FALSE,1156042224
+Tangweng,Tangweng,,25.1329,108.1050,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,53.4,,,4,Asia/Shanghai,FALSE,1156119936
+Xixinzhuang,Xixinzhuang,,40.0294,117.7503,China,CN,CHN,Hebei,Hebei,CN-HE,,,760.3,,,3,Asia/Shanghai,FALSE,1156650203
+Xixinzhuang,Xixinzhuang,,38.6472,116.0060,China,CN,CHN,Hebei,Hebei,CN-HE,,,715.6,,,3,Asia/Shanghai,TRUE,1156689591
+Xixinzhuang,Xixinzhuang,,38.7015,115.3530,China,CN,CHN,Hebei,Hebei,CN-HE,,,653.5,,,3,Asia/Shanghai,TRUE,1156402243
+Xixinzhuang,Xixinzhuang,,39.2758,116.2240,China,CN,CHN,Hebei,Hebei,CN-HE,,,626.4,,,3,Asia/Shanghai,TRUE,1156158870
+Xixinzhuang,Xixinzhuang,,37.5485,115.9860,China,CN,CHN,Hebei,Hebei,CN-HE,,,409.0,,,3,Asia/Shanghai,TRUE,1156256399
+Xixinzhuang,Xixinzhuang,Hsi-hsin-chuang,37.4503,116.0890,China,CN,CHN,Hebei,Hebei,CN-HE,,,375.5,,,3,Asia/Shanghai,TRUE,1156516238
+Xixinzhuang,Xixinzhuang,,39.5590,118.5754,China,CN,CHN,Hebei,Hebei,CN-HE,,,358.7,,,3,Asia/Shanghai,TRUE,1156188993
+Xixinzhuang,Xixinzhuang,,40.4004,114.8028,China,CN,CHN,Hebei,Hebei,CN-HE,,,67.5,,,4,Asia/Shanghai,TRUE,1156245651
+Pangjiataoyuancun,Pangjiataoyuancun,,35.7653,119.8491,China,CN,CHN,Shandong,Shandong,CN-SD,,,321.5,,,3,Asia/Shanghai,FALSE,1156555584
+Xixinzhuang,Xixinzhuang,,34.1672,113.4114,China,CN,CHN,Henan,Henan,CN-HA,,,1202.9,,,3,Asia/Shanghai,FALSE,1156128873
+Xixinzhuang,Xixinzhuang,,35.1873,113.6356,China,CN,CHN,Henan,Henan,CN-HA,,,980.2,,,3,Asia/Shanghai,TRUE,1156150939
+Xixinzhuang,Xixinzhuang,,34.1806,114.0770,China,CN,CHN,Henan,Henan,CN-HA,,,760.7,,,3,Asia/Shanghai,TRUE,1156142636
+Xixinzhuang,Xixinzhuang,,35.5078,115.2564,China,CN,CHN,Henan,Henan,CN-HA,,,596.9,,,3,Asia/Shanghai,TRUE,1156142664
+Xixinzhuang,Xixinzhuang,,35.0320,114.2506,China,CN,CHN,Henan,Henan,CN-HA,,,565.8,,,3,Asia/Shanghai,TRUE,1156965647
+Xixinzhuang,Xixinzhuang,,35.5444,114.8600,China,CN,CHN,Henan,Henan,CN-HA,,,513.9,,,3,Asia/Shanghai,TRUE,1156236801
+Xixinzhuang,Xixinzhuang,,33.2527,112.8383,China,CN,CHN,Henan,Henan,CN-HA,,,199.0,,,4,Asia/Shanghai,TRUE,1156512798
+Lantian,Lantian,,26.0955,105.1780,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,290.7,,,3,Asia/Shanghai,FALSE,1156009589
+Lantian,Lantian,,25.9153,105.2200,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,182.6,,,4,Asia/Shanghai,TRUE,1156098406
+Lantian,Lantian,,27.6712,105.9940,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,182.1,,,4,Asia/Shanghai,TRUE,1156045887
+Lantian,Lantian,,27.4512,108.3970,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,111.6,,,4,Asia/Shanghai,TRUE,1156269557
+Lantian,Lantian,,27.2975,108.6639,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,67.2,,,4,Asia/Shanghai,TRUE,1156034055
+Lazai,Lazai,,24.1661,108.9440,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,140.0,,,4,Asia/Shanghai,FALSE,1156940556
+Lazai,Lazai,,24.3998,107.9670,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,120.1,,,4,Asia/Shanghai,TRUE,1156143779
+Bitan,Bitan,,21.0159,109.8486,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,354.1,,,3,Asia/Shanghai,FALSE,1156060365
+Menlouzi,Menlouzi,,31.3748,113.1344,China,CN,CHN,Hubei,Hubei,CN-HB,,,122.2,,,4,Asia/Shanghai,FALSE,1156300328
+Qigang,Qigang,,29.1222,112.0058,China,CN,CHN,Hunan,Hunan,CN-HN,,,210.7,,,3,Asia/Shanghai,FALSE,1156100145
+Tanji,Tanji,,21.5663,108.1340,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,227.1,,,3,Asia/Shanghai,FALSE,1156284365
+Beidihezi,Beidihezi,,41.8075,117.9401,China,CN,CHN,Hebei,Hebei,CN-HE,,,39.4,,,4,Asia/Shanghai,FALSE,1156240592
+Qilongqiao,Qilongqiao,,29.3177,104.6809,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,248.4,,,3,Asia/Shanghai,FALSE,1156340117
+Zouyangcun,Zouyangcun,Zouyang,26.5377,119.0062,China,CN,CHN,Fujian,Fujian,CN-FJ,,,103.3,,,4,Asia/Shanghai,FALSE,1156107544
+Zouyangcun,Zouyangcun,Zouyang,26.6294,119.2814,China,CN,CHN,Fujian,Fujian,CN-FJ,,,41.2,,,4,Asia/Shanghai,TRUE,1156871855
+Wusiman Milapu,Wusiman Milapu,,41.1264,86.9253,China,CN,CHN,Xinjiang,Xinjiang,CN-XJ,,,8.7,,,5,Asia/Shanghai,FALSE,1156030466
+Chengdong,Chengdong,,32.5140,120.1789,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,3607.9,,,2,Asia/Shanghai,FALSE,1156086931
+Chengdong,Chengdong,,32.0739,118.6290,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,2636.3,,,2,Asia/Shanghai,TRUE,1156157707
+Chengdong,Chengdong,,32.5408,120.4800,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,1465.7,,,3,Asia/Shanghai,TRUE,1156368970
+Chengdong,Chengdong,,34.4693,117.9699,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,13.1,,,4,Asia/Shanghai,TRUE,1156302055
+Yiketecun,Yiketecun,,49.9493,125.7815,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,14.3,,,4,Asia/Shanghai,FALSE,1156320769
+Shaowan,Shaowan,,37.0201,107.7211,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,19.3,,,4,Asia/Shanghai,FALSE,1156119323
+Sanrencun,Sanrencun,,23.1699,112.4415,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,189.0,,,4,Asia/Shanghai,FALSE,1156573093
+Longhecun,Longhecun,,39.7981,121.6440,China,CN,CHN,Liaoning,Liaoning,CN-LN,,,176.1,,,4,Asia/Shanghai,FALSE,1156419745
+Chengdong,Chengdong,,24.9944,114.5028,China,CN,CHN,Jiangxi,Jiangxi,CN-JX,,,106.0,,,4,Asia/Shanghai,FALSE,1156574893
+Longshengzhencun,Longshengzhencun,,31.9640,114.5089,China,CN,CHN,Henan,Henan,CN-HA,,,258.5,,,3,Asia/Shanghai,FALSE,1156188457
+Caoyuanzi,Caoyuanzi,,29.1425,101.3926,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,3.2,,,5,Asia/Shanghai,FALSE,1156156606
+Xinxiaojia,Xinxiaojia,,25.5151,111.7453,China,CN,CHN,Hunan,Hunan,CN-HN,,,278.5,,,3,Asia/Shanghai,FALSE,1156585840
+Mifenglingcun,Mifenglingcun,,28.0249,119.0917,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,48.5,,,4,Asia/Shanghai,FALSE,1156377627
+Weinancun,Weinancun,,34.7000,112.7106,China,CN,CHN,Henan,Henan,CN-HA,,,870.9,,,3,Asia/Shanghai,FALSE,1156050983
+Wangjia Maidao,Wangjia Maidao,,36.0720,120.4338,China,CN,CHN,Shandong,Shandong,CN-SD,,,1065.9,,,3,Asia/Shanghai,FALSE,1156538445
+Wenchajie,Wenchajie,,24.2423,101.1800,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,92.3,,,4,Asia/Shanghai,FALSE,1156242556
+Shangkashui,Shangkashui,,24.5353,114.8004,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,106.5,,,4,Asia/Shanghai,FALSE,1156501094
+Jianglianpucun,Jianglianpucun,,28.8442,118.4247,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,60.0,,,4,Asia/Shanghai,FALSE,1156399392
+Hejiatian,Hejiatian,,28.1458,107.3110,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,177.3,,,4,Asia/Shanghai,FALSE,1156957987
+Hejiatian,Hejiatian,,28.3307,105.8900,China,CN,CHN,Guizhou,Guizhou,CN-GZ,,,42.4,,,4,Asia/Shanghai,TRUE,1156086833
+Niuxin Dingzicun,Niuxin Dingzicun,,44.0860,127.0662,China,CN,CHN,Jilin,Jilin,CN-JL,,,58.0,,,4,Asia/Shanghai,FALSE,1156053800
+Huazishui,Huazishui,,40.0634,115.8937,China,CN,CHN,Beijing,Beijing,CN-BJ,,,33.9,,,4,Asia/Shanghai,FALSE,1156090429
+Lashan,Lashan,,24.0769,117.5617,China,CN,CHN,Fujian,Fujian,CN-FJ,,,158.5,,,4,Asia/Shanghai,FALSE,1156035678
+Moshi,Moshi,,34.0436,112.6646,China,CN,CHN,Henan,Henan,CN-HA,,,291.6,,,3,Asia/Shanghai,FALSE,1156991346
+Mila,Mila,,27.7833,106.1990,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,194.1,,,4,Asia/Shanghai,FALSE,1156228008
+Mila,Mila,,26.9007,101.5886,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,54.0,,,4,Asia/Shanghai,TRUE,1156076154
+Pozhou,Pozhou,,23.2563,106.9940,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,156.3,,,4,Asia/Shanghai,FALSE,1156281548
+Pozhou,Pozhou,,22.9970,106.7140,China,CN,CHN,Guangxi,Guangxi,CN-GX,,,113.2,,,4,Asia/Shanghai,TRUE,1156081787
+Moshi,Moshi,,27.6048,111.5535,China,CN,CHN,Hunan,Hunan,CN-HN,,,399.6,,,3,Asia/Shanghai,FALSE,1156257753
+Moshi,Moshi,,26.7403,110.5644,China,CN,CHN,Hunan,Hunan,CN-HN,,,370.5,,,3,Asia/Shanghai,TRUE,1156292744
+Moshi,Moshi,,26.9659,110.8589,China,CN,CHN,Hunan,Hunan,CN-HN,,,347.8,,,3,Asia/Shanghai,TRUE,1156666673
+Moshi,Moshi,,26.4754,110.0974,China,CN,CHN,Hunan,Hunan,CN-HN,,,124.2,,,4,Asia/Shanghai,TRUE,1156782591
+Moshi,Moshi,,26.5356,109.7801,China,CN,CHN,Hunan,Hunan,CN-HN,,,44.1,,,4,Asia/Shanghai,TRUE,1156775873
+Moshi,Moshi,Moshiyuan,26.0890,112.1476,China,CN,CHN,Hunan,Hunan,CN-HN,,,39.7,,,4,Asia/Shanghai,TRUE,1156989766
+Shizuicun,Shizuicun,,37.1948,120.3308,China,CN,CHN,Shandong,Shandong,CN-SD,,,193.0,,,4,Asia/Shanghai,FALSE,1156479111
+Shuangyanjingcun,Shuangyanjingcun,,37.5349,117.9228,China,CN,CHN,Shandong,Shandong,CN-SD,,,472.0,,,3,Asia/Shanghai,FALSE,1156113923
+Gaoyangshan,Gaoyangshan,,27.3781,120.4608,China,CN,CHN,Zhejiang,Zhejiang,CN-ZJ,,,40.4,,,4,Asia/Shanghai,FALSE,1156099944
+Majiaji,Majiaji,,37.3822,116.7640,China,CN,CHN,Shandong,Shandong,CN-SD,,,448.7,,,3,Asia/Shanghai,FALSE,1156059304
+Zhouxingcun,Zhouxingcun,,34.5366,108.5675,China,CN,CHN,Shaanxi,Shaanxi,CN-SN,,,506.8,,,3,Asia/Shanghai,FALSE,1156076736
+Dahula,Dahula,,21.9365,100.5310,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,118.7,,,4,Asia/Shanghai,FALSE,1156289038
+Wangjiaqiao,Wangjiaqiao,,25.0873,102.6700,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,3266.3,,,2,Asia/Shanghai,FALSE,1156004423
+Hou’aoguan,Hou'aoguan,,29.9176,113.1215,China,CN,CHN,Hubei,Hubei,CN-HB,,,128.6,,,4,Asia/Shanghai,FALSE,1156293193
+Erchang Wudui,Erchang Wudui,,39.3145,118.3932,China,CN,CHN,Hebei,Hebei,CN-HE,,,257.5,,,3,Asia/Shanghai,FALSE,1156273233
+Xiluoqi,Xiluoqi,,52.5833,124.4000,China,CN,CHN,Heilongjiang,Heilongjiang,CN-HL,,,4.5,,,5,Asia/Shanghai,FALSE,1156725011
+Shuangzhucun,Shuangzhucun,,30.8997,116.2611,China,CN,CHN,Anhui,Anhui,CN-AH,,,281.8,,,3,Asia/Shanghai,FALSE,1156335283
+Chabulang,Chabulang,,28.5500,100.8667,China,CN,CHN,Sichuan,Sichuan,CN-SC,,,6.5,,,5,Asia/Shanghai,FALSE,1156994061
+Zhucheng,Zhucheng,,32.4386,118.7228,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,620.1,,,3,Asia/Shanghai,FALSE,1156709928
+Zhucheng,Zhucheng,,33.9040,118.4280,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,619.5,,,3,Asia/Shanghai,TRUE,1156088949
+Mazhuang Xiaoqu,Mazhuang Xiaoqu,,34.0121,116.6697,China,CN,CHN,Anhui,Anhui,CN-AH,,,847.4,,,3,Asia/Shanghai,FALSE,1156731697
+Houyuanji,Houyuanji,,38.0956,113.4838,China,CN,CHN,Shanxi,Shanxi,CN-SX,,,468.8,,,3,Asia/Shanghai,FALSE,1156772674
+Hengzihe Linchang,Hengzihe Linchang,,42.1466,127.8355,China,CN,CHN,Jilin,Jilin,CN-JL,,,12.3,,,4,Asia/Shanghai,FALSE,1156229193
+Pozikeng,Pozikeng,,23.8572,116.5444,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,72.9,,,4,Asia/Shanghai,FALSE,1156055034
+Gaoducun,Gaoducun,,33.4789,118.6351,China,CN,CHN,Jiangsu,Jiangsu,CN-JS,,,517.3,,,3,Asia/Shanghai,FALSE,1156313327
+Fuqingcun,Fuqingcun,,28.1440,103.6090,China,CN,CHN,Yunnan,Yunnan,CN-YN,,,169.0,,,4,Asia/Shanghai,FALSE,1156161111
+Shangrongshu,Shangrongshu,,24.6221,115.9389,China,CN,CHN,Guangdong,Guangdong,CN-GD,,,159.5,,,4,Asia/Shanghai,FALSE,1156507484
+Kengweicun,Kengweicun,,24.6548,118.6144,China,CN,CHN,Fujian,Fujian,CN-FJ,,,3025.2,,,2,Asia/Shanghai,FALSE,1156338770
+Kengweicun,Kengweicun,Kengwei,24.7617,118.4850,China,CN,CHN,Fujian,Fujian,CN-FJ,,,2073.8,,,2,Asia/Shanghai,TRUE,1156499430
+Kengweicun,Kengweicun,,24.9942,118.8806,China,CN,CHN,Fujian,Fujian,CN-FJ,,,1620.4,,,3,Asia/Shanghai,TRUE,1156152288
