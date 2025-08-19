@@ -1,0 +1,907 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Satsop,Satsop,,47.0223,-123.4737,United States,US,USA,Washington,Washington,US-WA,state,,42.2,768,768,3,America/Los_Angeles,FALSE,1840018445
+Paris Villa,Paris Villa,,39.0648,-75.5288,United States,US,USA,Delaware,Delaware,US-DE,state,,986.8,,,4,America/New_York,FALSE,1840045557
+Santa Teresa,Santa Teresa,,31.8701,-106.6714,United States,US,USA,New Mexico,New Mexico,US-NM,state,,279.0,6396,6396,3,America/Denver,FALSE,1840019414
+Santa Venetia,Santa Venetia,,38.0056,-122.5033,United States,US,USA,California,California,US-CA,state,,398.9,3785,3785,3,America/Los_Angeles,FALSE,1840018887
+Middletown,Middletown,,40.1790,-74.9059,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,937.9,45886,45886,3,America/New_York,FALSE,1840152880
+Larone,Larone,,44.6815,-69.7250,United States,US,USA,Maine,Maine,US-ME,state,,36.7,,,4,America/New_York,FALSE,1840065817
+Everett,Everett,,32.0277,-89.8223,United States,US,USA,Mississippi,Mississippi,US-MS,state,,8.1,,,5,America/Chicago,FALSE,1840074818
+London Village,London Village,,39.0696,-75.5308,United States,US,USA,Delaware,Delaware,US-DE,state,,723.0,,,4,America/New_York,FALSE,1840045556
+Lincoln Mills,Lincoln Mills,,44.9551,-69.2762,United States,US,USA,Maine,Maine,US-ME,state,,20.7,,,4,America/New_York,FALSE,1840065819
+Litchfield Plains,Litchfield Plains,,44.1506,-69.9300,United States,US,USA,Maine,Maine,US-ME,state,,20.5,,,4,America/New_York,FALSE,1840065820
+Little Canada,Little Canada,,46.2950,-68.1873,United States,US,USA,Maine,Maine,US-ME,state,,0.0,,,5,America/New_York,FALSE,1840065821
+Gibsonia,Gibsonia,,40.6322,-79.9684,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,288.7,2876,2876,3,America/New_York,FALSE,1840026467
+Richland,Richland,,40.4490,-75.3362,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,259.3,13867,13867,3,America/New_York,FALSE,1840152881
+Fuhrmans Mill,Fuhrmans Mill,,39.7582,-76.9239,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,82.3,,,4,America/New_York,FALSE,1840102954
+Woodruff,Woodruff,,45.8946,-89.6912,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,171.3,628,628,3,America/Chicago,FALSE,1840025295
+Goshute,Goshute,,39.8761,-114.0000,United States,US,USA,Utah,Utah,US-UT,state,,11.5,,,4,America/Denver,FALSE,1840037193
+Plumstead,Plumstead,,40.3878,-75.1164,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,198.1,13936,13936,3,America/New_York,FALSE,1840152882
+Georgetown,Georgetown,,37.5355,-112.0549,United States,US,USA,Utah,Utah,US-UT,state,,0.5,,,5,America/Denver,FALSE,1840114413
+Garfield,Garfield,,40.7272,-112.1658,United States,US,USA,Utah,Utah,US-UT,state,,0.0,,,5,America/Denver,FALSE,1840114411
+Fruitland,Fruitland,,40.2127,-110.8396,United States,US,USA,Utah,Utah,US-UT,state,,8.8,,,5,America/Denver,FALSE,1840037192
+Frisco,Frisco,,38.4564,-113.2589,United States,US,USA,Utah,Utah,US-UT,state,,0.0,,,5,America/Denver,FALSE,1840114410
+Fort Johnson,Fort Johnson,,37.7791,-113.0322,United States,US,USA,Utah,Utah,US-UT,state,,37.4,,,4,America/Denver,FALSE,1840114409
+Flux,Flux,,40.6813,-112.5547,United States,US,USA,Utah,Utah,US-UT,state,,0.0,,,5,America/Denver,FALSE,1840114408
+Floy,Floy,,38.9244,-109.9360,United States,US,USA,Utah,Utah,US-UT,state,,0.0,,,5,America/Denver,FALSE,1840114407
+The Heath,The Heath,,38.9071,-75.4580,United States,US,USA,Delaware,Delaware,US-DE,state,,468.8,,,4,America/New_York,FALSE,1840045561
+Richmondale,Richmondale,,41.6373,-75.4816,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,332.0,,,4,America/New_York,FALSE,1840101006
+Richvale,Richvale,,40.2806,-77.7750,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,19.2,,,4,America/New_York,FALSE,1840101007
+Rico,Rico,,40.5501,-79.0200,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,7.8,,,5,America/New_York,FALSE,1840101008
+Riddle Crossroads,Riddle Crossroads,,41.2003,-79.8442,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,19.3,,,4,America/New_York,FALSE,1840101009
+Stockley,Stockley,,38.6409,-75.3399,United States,US,USA,Delaware,Delaware,US-DE,state,,54.5,,,4,America/New_York,FALSE,1840045364
+Bacon Level,Bacon Level,,33.1287,-85.2908,United States,US,USA,Alabama,Alabama,US-AL,state,,6.8,,,5,America/Chicago,FALSE,1840042207
+Skyline Bel Aire Estates,Skyline Bel Aire Estates,,32.3204,-110.8895,United States,US,USA,Arizona,Arizona,US-AZ,state,,685.4,,,4,America/Phoenix,FALSE,1840038568
+Bailey Crossroads,Bailey Crossroads,,31.1910,-85.5938,United States,US,USA,Alabama,Alabama,US-AL,state,,8.0,,,5,America/Chicago,FALSE,1840042208
+Cunningham,Cunningham,,33.4265,-95.3574,United States,US,USA,Texas,Texas,US-TX,state,,18.7,,,4,America/Chicago,FALSE,1840036413
+Cundiff,Cundiff,,33.3168,-97.9984,United States,US,USA,Texas,Texas,US-TX,state,,10.0,,,5,America/Chicago,FALSE,1840036412
+Ball Flat,Ball Flat,,34.0179,-85.7339,United States,US,USA,Alabama,Alabama,US-AL,state,,2.6,,,5,America/Chicago,FALSE,1840042210
+Cedar Valley,Cedar Valley,,41.7264,-91.2466,United States,US,USA,Iowa,Iowa,US-IA,state,,58.0,,,4,America/Chicago,FALSE,1840057302
+Rutland,Rutland,,42.8789,-89.3501,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,24.2,,,4,America/Chicago,FALSE,1840124079
+Salmo,Salmo,,46.7813,-90.8652,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,18.7,,,4,America/Chicago,FALSE,1840124087
+Brewers,Brewers,,36.7714,-88.4389,United States,US,USA,Kentucky,Kentucky,US-KY,state,,42.7,,,4,America/Chicago,FALSE,1840059978
+Mount Olivet,Mount Olivet,,40.0192,-80.6951,United States,US,USA,West Virginia,West Virginia,US-WV,state,,190.9,,,4,America/New_York,FALSE,1840121107
+Graveltown,Graveltown,,36.3512,-85.9636,United States,US,USA,Tennessee,Tennessee,US-TN,state,,13.2,,,4,America/Chicago,FALSE,1840109780
+East Hebron,East Hebron,,43.6934,-71.7695,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,46.3,,,4,America/New_York,FALSE,1840079616
+Forest Home,Forest Home,,35.9759,-86.9269,United States,US,USA,Tennessee,Tennessee,US-TN,state,,67.4,,,4,America/Chicago,FALSE,1840109699
+Sperry Chalets,Sperry Chalets,,48.6050,-113.7857,United States,US,USA,Montana,Montana,US-MT,state,,0.0,,,5,America/Denver,FALSE,1840078367
+Capioma,Capioma,,39.7767,-95.8203,United States,US,USA,Kansas,Kansas,US-KS,state,,5.1,,,5,America/Chicago,FALSE,1840058523
+Whistler,Whistler,,31.6971,-88.8045,United States,US,USA,Mississippi,Mississippi,US-MS,state,,20.1,,,4,America/Chicago,FALSE,1840074561
+Woodlawn,Woodlawn,,39.7833,-95.8647,United States,US,USA,Kansas,Kansas,US-KS,state,,2.2,,,5,America/Chicago,FALSE,1840058524
+White Rock,White Rock,,36.2207,-82.1332,United States,US,USA,Tennessee,Tennessee,US-TN,state,,9.7,,,5,America/New_York,FALSE,1840112316
+Whitehead Hill,Whitehead Hill,,36.2279,-82.1574,United States,US,USA,Tennessee,Tennessee,US-TN,state,,56.1,,,4,America/New_York,FALSE,1840112317
+Ashley,Ashley,,39.4045,-80.6759,United States,US,USA,West Virginia,West Virginia,US-WV,state,,6.3,,,5,America/New_York,FALSE,1840121973
+Ashland,Ashland,,37.4084,-81.3526,United States,US,USA,West Virginia,West Virginia,US-WV,state,,28.9,,,4,America/New_York,FALSE,1840121972
+Robscott Manor,Robscott Manor,,39.6571,-75.7469,United States,US,USA,Delaware,Delaware,US-DE,state,,1753.9,,,4,America/New_York,FALSE,1840045562
+Arnold Hill,Arnold Hill,,38.8834,-79.8637,United States,US,USA,West Virginia,West Virginia,US-WV,state,,100.4,,,4,America/New_York,FALSE,1840121966
+Arnoldsburg,Arnoldsburg,,38.7890,-81.1276,United States,US,USA,West Virginia,West Virginia,US-WV,state,,85.0,,,4,America/New_York,FALSE,1840121967
+Arvondale,Arvondale,,38.6945,-80.2665,United States,US,USA,West Virginia,West Virginia,US-WV,state,,1.2,,,5,America/New_York,FALSE,1840121970
+Artie,Artie,,37.9326,-81.3596,United States,US,USA,West Virginia,West Virginia,US-WV,state,,79.0,,,4,America/New_York,FALSE,1840121969
+Stoneman Lake,Stoneman Lake,,34.7814,-111.5126,United States,US,USA,Arizona,Arizona,US-AZ,state,,9.5,,,5,America/Phoenix,FALSE,1840038481
+Laquin,Laquin,,41.6323,-76.6508,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1.7,,,5,America/New_York,FALSE,1840103258
+Wellsona,Wellsona,,35.6972,-120.6935,United States,US,USA,California,California,US-CA,state,,84.9,,,4,America/Los_Angeles,FALSE,1840046028
+Judson,Judson,,40.5039,-86.2714,United States,US,USA,Indiana,Indiana,US-IN,state,,19.7,,,4,America/Indiana/Indianapolis,FALSE,1840152884
+Fenns,Fenns,,39.4575,-85.7978,United States,US,USA,Indiana,Indiana,US-IN,state,,15.8,,,4,America/Indiana/Indianapolis,FALSE,1840054691
+Fenn Haven,Fenn Haven,,37.9314,-86.7567,United States,US,USA,Indiana,Indiana,US-IN,state,,159.7,,,4,America/Chicago,FALSE,1840054690
+Rocky Brook Park,Rocky Brook Park,,39.0512,-76.9969,United States,US,USA,Maryland,Maryland,US-MD,state,,786.0,,,4,America/New_York,FALSE,1840067885
+Rocky Hook,Rocky Hook,,38.4840,-75.9274,United States,US,USA,Maryland,Maryland,US-MD,state,,2.2,,,5,America/New_York,FALSE,1840067886
+Rockland,Rockland,,39.4015,-76.6677,United States,US,USA,Maryland,Maryland,US-MD,state,,242.8,,,4,America/New_York,FALSE,1840067882
+Lorentz,Lorentz,,39.0109,-80.3023,United States,US,USA,West Virginia,West Virginia,US-WV,state,,53.6,,,4,America/New_York,FALSE,1840038150
+Loop,Loop,,38.5734,-81.6357,United States,US,USA,West Virginia,West Virginia,US-WV,state,,42.4,,,4,America/New_York,FALSE,1840121057
+Crompton Hill,Crompton Hill,,39.6559,-87.4192,United States,US,USA,Indiana,Indiana,US-IN,state,,89.6,,,4,America/Indiana/Indianapolis,FALSE,1840054537
+Nicolville,Nicolville,,43.6747,-92.8782,United States,US,USA,Minnesota,Minnesota,US-MN,state,,83.8,,,4,America/Chicago,FALSE,1840071488
+Elmhurst,Elmhurst,,45.0583,-89.1843,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,4.9,,,5,America/Chicago,FALSE,1840123667
+Wilkinsonville,Wilkinsonville,,42.1751,-71.7203,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,361.1,,,4,America/New_York,FALSE,1840069156
+Tasseltop,Tasseltop,,42.0223,-71.7190,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,180.7,,,4,America/New_York,FALSE,1840069154
+Elmore,Elmore,,43.5750,-88.3029,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,90.0,,,4,America/Chicago,FALSE,1840123668
+Striggersville,Striggersville,,36.4423,-82.9904,United States,US,USA,Tennessee,Tennessee,US-TN,state,,73.6,,,4,America/New_York,FALSE,1840109057
+Mount Berry,Mount Berry,,34.2751,-85.1833,United States,US,USA,Georgia,Georgia,US-GA,state,,68.4,,,4,America/New_York,FALSE,1840048131
+Chattahoochee Plantation,Chattahoochee Plantation,,33.9418,-84.4133,United States,US,USA,Georgia,Georgia,US-GA,state,,685.9,,,4,America/New_York,FALSE,1840048130
+West Portal,West Portal,,40.1611,-111.2505,United States,US,USA,Utah,Utah,US-UT,state,,0.0,,,5,America/Denver,FALSE,1840114649
+Meadow,Meadow,,45.5292,-102.2163,United States,US,USA,South Dakota,South Dakota,US-SD,state,,2.1,,,5,America/Denver,FALSE,1840035881
+Halls,Halls,,34.2984,-84.9399,United States,US,USA,Georgia,Georgia,US-GA,state,,63.1,,,4,America/New_York,FALSE,1840029188
+Cokesbury,Cokesbury,,36.3488,-78.3042,United States,US,USA,North Carolina,North Carolina,US-NC,state,,59.3,,,4,America/New_York,FALSE,1840152888
+Cokers Crossroads,Cokers Crossroads,,35.4063,-77.8422,United States,US,USA,North Carolina,North Carolina,US-NC,state,,168.0,,,4,America/New_York,FALSE,1840089616
+Big Hill,Big Hill,,36.6496,-81.6373,United States,US,USA,Virginia,Virginia,US-VA,state,,12.8,,,4,America/New_York,FALSE,1840116545
+Patoka,Patoka,,35.0734,-90.3112,United States,US,USA,Arkansas,Arkansas,US-AR,state,,14.1,,,4,America/Chicago,FALSE,1840039650
+El Rancho,El Rancho,,42.2680,-105.0477,United States,US,USA,Wyoming,Wyoming,US-WY,state,,10.7,16,16,3,America/Denver,FALSE,1840152889
+Culberson,Culberson,,34.9917,-84.1677,United States,US,USA,North Carolina,North Carolina,US-NC,state,,72.3,,,4,America/New_York,FALSE,1840032910
+Elm,Elm,,42.3767,-83.3313,United States,US,USA,Michigan,Michigan,US-MI,state,,31.9,,,4,America/Detroit,FALSE,1840127379
+Ellington,Ellington,,43.5539,-83.3213,United States,US,USA,Michigan,Michigan,US-MI,state,,35.7,,,4,America/Detroit,FALSE,1840127378
+Elmwood,Elmwood,,43.5847,-83.2833,United States,US,USA,Michigan,Michigan,US-MI,state,,15.2,,,4,America/Detroit,FALSE,1840127380
+Emerson,Emerson,,46.5564,-85.0293,United States,US,USA,Michigan,Michigan,US-MI,state,,2.8,,,5,America/Detroit,FALSE,1840127382
+Epsilon,Epsilon,,45.3628,-84.8020,United States,US,USA,Michigan,Michigan,US-MI,state,,34.6,,,4,America/Detroit,FALSE,1840127383
+Eureka Place,Eureka Place,,43.1864,-85.2031,United States,US,USA,Michigan,Michigan,US-MI,state,,16.3,,,4,America/Detroit,FALSE,1840127385
+Eugene,Eugene,,43.2923,-84.7069,United States,US,USA,Michigan,Michigan,US-MI,state,,13.1,,,4,America/Detroit,FALSE,1840127384
+Tower Hill Number One,Tower Hill Number One,,39.9506,-79.8770,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,67.4,,,4,America/New_York,FALSE,1840101492
+Tower Hill Number Two,Tower Hill Number Two,,39.9673,-79.8962,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,250.1,,,4,America/New_York,FALSE,1840101493
+La Trappe,La Trappe,,40.1304,-74.9791,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1259.5,,,4,America/New_York,FALSE,1840100013
+Modena,Modena,,44.4575,-91.7965,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,44.7,,,4,America/Chicago,FALSE,1840123900
+Annville,Annville,,40.3325,-76.5077,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1149.3,4829,4829,3,America/New_York,FALSE,1840005426
+Bethel,Bethel,,40.4485,-76.4200,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,58.1,5208,5208,4,America/New_York,FALSE,1840152892
+Meacham,Meacham,,36.1326,-89.3484,United States,US,USA,Tennessee,Tennessee,US-TN,state,,23.7,,,4,America/Chicago,FALSE,1840110137
+Frewen,Frewen,,41.6552,-108.0629,United States,US,USA,Wyoming,Wyoming,US-WY,state,,0.0,,,5,America/Denver,FALSE,1840126040
+Fry,Fry,,42.8675,-106.1333,United States,US,USA,Wyoming,Wyoming,US-WY,state,,9.0,,,5,America/Denver,FALSE,1840126041
+Fossil,Fossil,,41.8161,-110.7241,United States,US,USA,Wyoming,Wyoming,US-WY,state,,0.1,,,5,America/Denver,FALSE,1840126038
+Foster,Foster,,42.6730,-105.3080,United States,US,USA,Wyoming,Wyoming,US-WY,state,,0.7,,,5,America/Denver,FALSE,1840126039
+Garrett,Garrett,,42.1133,-105.6100,United States,US,USA,Wyoming,Wyoming,US-WY,state,,0.3,,,5,America/Denver,FALSE,1840126042
+Skeetersville,Skeetersville,,39.3643,-77.8156,United States,US,USA,West Virginia,West Virginia,US-WV,state,,67.4,,,4,America/New_York,FALSE,1840123161
+Weavertown,Weavertown,,40.3059,-75.7521,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,110.7,,,4,America/New_York,FALSE,1840152893
+Rankin,Rankin,,32.1429,-110.8381,United States,US,USA,Arizona,Arizona,US-AZ,state,,5.7,,,5,America/Phoenix,FALSE,1840034662
+Clark,Clark,,42.1245,-79.0984,United States,US,USA,New York,New York,US-NY,state,,39.0,,,4,America/New_York,FALSE,1840083292
+Fieldsons Crossroads,Fieldsons Crossroads,,39.7901,-79.9403,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,57.7,,,4,America/New_York,FALSE,1840099324
+West Union,West Union,,39.2137,-87.6666,United States,US,USA,Illinois,Illinois,US-IL,state,,42.1,197,197,3,America/Chicago,FALSE,1840025612
+Fiddlergreen,Fiddlergreen,,41.7462,-79.5417,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,13.2,,,4,America/New_York,FALSE,1840099321
+Fiddlers Green,Fiddlers Green,,40.3715,-78.6595,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,290.6,,,4,America/New_York,FALSE,1840099322
+Fiedler,Fiedler,,40.9048,-77.3908,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,25.5,,,4,America/New_York,FALSE,1840099323
+Brooks,Brooks,,38.7742,-90.0901,United States,US,USA,Illinois,Illinois,US-IL,state,,275.1,,,4,America/Chicago,FALSE,1840051050
+Vilas,Vilas,,37.6542,-95.5864,United States,US,USA,Kansas,Kansas,US-KS,state,,7.7,,,5,America/Chicago,FALSE,1840030202
+Weaversville,Weaversville,,40.6887,-75.4538,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,268.7,,,4,America/New_York,FALSE,1840101661
+Collier Place,Collier Place,,42.5791,-116.2404,United States,US,USA,Idaho,Idaho,US-ID,state,,0.0,,,5,America/Boise,FALSE,1840050806
+Comical Turn,Comical Turn,,42.5613,-116.1445,United States,US,USA,Idaho,Idaho,US-ID,state,,0.0,,,5,America/Boise,FALSE,1840050807
+Conda,Conda,,42.7283,-111.5324,United States,US,USA,Idaho,Idaho,US-ID,state,,0.0,,,5,America/Boise,FALSE,1840024519
+Weedville,Weedville,,33.6139,-112.2154,United States,US,USA,Arizona,Arizona,US-AZ,state,,996.7,,,4,America/Phoenix,FALSE,1840025541
+Hartmansville,Hartmansville,,39.3220,-79.1550,United States,US,USA,West Virginia,West Virginia,US-WV,state,,53.7,,,4,America/New_York,FALSE,1840120970
+Clifty,Clifty,,36.9953,-87.1478,United States,US,USA,Kentucky,Kentucky,US-KY,state,,111.0,,,4,America/Chicago,FALSE,1840030409
+Waukenabo,Waukenabo,,46.7400,-93.6002,United States,US,USA,Minnesota,Minnesota,US-MN,state,,6.7,,,5,America/Chicago,FALSE,1840071568
+South Middleton,South Middleton,,40.1324,-77.1642,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,128.5,16226,16226,3,America/New_York,FALSE,1840152898
+Brookland,Brookland,,38.9912,-76.8200,United States,US,USA,Maryland,Maryland,US-MD,state,,604.3,,,4,America/New_York,FALSE,1840068394
+Brooke Manor,Brooke Manor,,38.7771,-77.0030,United States,US,USA,Maryland,Maryland,US-MD,state,,1581.4,,,4,America/New_York,FALSE,1840068393
+Broadwater Estates,Broadwater Estates,,38.7415,-77.0128,United States,US,USA,Maryland,Maryland,US-MD,state,,556.4,,,4,America/New_York,FALSE,1840068392
+Broadview,Broadview,,38.8126,-76.9266,United States,US,USA,Maryland,Maryland,US-MD,state,,1352.2,,,4,America/New_York,FALSE,1840068391
+Heaton,Heaton,,35.5481,-100.8088,United States,US,USA,Texas,Texas,US-TX,state,,0.7,,,5,America/Chicago,FALSE,1840033141
+Heckville,Heckville,,33.7548,-101.6652,United States,US,USA,Texas,Texas,US-TX,state,,3.4,,,5,America/Chicago,FALSE,1840036871
+Simpson Crossroads,Simpson Crossroads,,34.2976,-84.8002,United States,US,USA,Georgia,Georgia,US-GA,state,,56.8,,,4,America/New_York,FALSE,1840048472
+Shell Bluff,Shell Bluff,,33.1479,-81.8979,United States,US,USA,Georgia,Georgia,US-GA,state,,14.6,,,4,America/New_York,FALSE,1840048467
+Scrutchins,Scrutchins,,31.8643,-84.1966,United States,US,USA,Georgia,Georgia,US-GA,state,,3.3,,,5,America/New_York,FALSE,1840048466
+Headsville,Headsville,,31.2613,-96.4958,United States,US,USA,Texas,Texas,US-TX,state,,0.1,,,5,America/Chicago,FALSE,1840113660
+Shewmake,Shewmake,,32.5141,-83.0346,United States,US,USA,Georgia,Georgia,US-GA,state,,27.1,,,4,America/New_York,FALSE,1840048468
+Smiths Crossroads,Smiths Crossroads,,32.8376,-84.9341,United States,US,USA,Georgia,Georgia,US-GA,state,,13.0,,,4,America/New_York,FALSE,1840048475
+Hedwigs Hill,Hedwigs Hill,,30.6657,-99.1120,United States,US,USA,Texas,Texas,US-TX,state,,3.4,,,5,America/Chicago,FALSE,1840036872
+Mayoworth,Mayoworth,,43.8319,-106.7920,United States,US,USA,Wyoming,Wyoming,US-WY,state,,0.6,,,5,America/Denver,FALSE,1840034507
+Cameron,Cameron,,46.6057,-116.5721,United States,US,USA,Idaho,Idaho,US-ID,state,,10.6,,,4,America/Los_Angeles,FALSE,1840050455
+Dixon Springs,Dixon Springs,,37.3845,-88.6687,United States,US,USA,Illinois,Illinois,US-IL,state,,12.3,,,4,America/Chicago,FALSE,1840051145
+Stark,Stark,,47.1255,-114.5051,United States,US,USA,Montana,Montana,US-MT,state,,0.2,,,5,America/Denver,FALSE,1840078330
+Bellona,Bellona,,42.7570,-77.0147,United States,US,USA,New York,New York,US-NY,state,,72.1,,,4,America/New_York,FALSE,1840083010
+Bellona Station,Bellona Station,,42.7465,-77.0419,United States,US,USA,New York,New York,US-NY,state,,6.7,,,5,America/New_York,FALSE,1840083011
+Crossroads,Crossroads,,41.7124,-112.1422,United States,US,USA,Utah,Utah,US-UT,state,,97.9,,,4,America/Denver,FALSE,1840114321
+Dedham,Dedham,,44.6934,-68.5818,United States,US,USA,Maine,Maine,US-ME,state,,16.0,1630,1630,4,America/New_York,FALSE,1840052793
+Deer Isle,Deer Isle,,44.2289,-68.6720,United States,US,USA,Maine,Maine,US-ME,state,,30.2,2324,2324,4,America/New_York,FALSE,1840052794
+Dayton,Dayton,,43.5461,-70.5729,United States,US,USA,Maine,Maine,US-ME,state,,48.0,2227,2227,4,America/New_York,FALSE,1840066204
+Deblois,Deblois,,44.7269,-67.9865,United States,US,USA,Maine,Maine,US-ME,state,,0.1,48,48,5,America/New_York,FALSE,1840052792
+Damariscotta,Damariscotta,,44.0345,-69.4921,United States,US,USA,Maine,Maine,US-ME,state,,70.1,2257,2257,4,America/New_York,FALSE,1840052791
+Danforth,Danforth,,45.6270,-67.8382,United States,US,USA,Maine,Maine,US-ME,state,,4.5,636,636,4,America/New_York,FALSE,1840013718
+Cyr,Cyr,,47.0910,-67.9940,United States,US,USA,Maine,Maine,US-ME,state,,0.0,54,54,5,America/New_York,FALSE,1840066200
+Dallas,Dallas,,44.9927,-70.5755,United States,US,USA,Maine,Maine,US-ME,state,,3.0,303,303,4,America/New_York,FALSE,1840066201
+West Bridport,West Bridport,,43.9567,-73.3960,United States,US,USA,Vermont,Vermont,US-VT,state,,15.7,,,4,America/New_York,FALSE,1840115169
+Wenlock,Wenlock,,44.7764,-71.7531,United States,US,USA,Vermont,Vermont,US-VT,state,,1.4,,,5,America/New_York,FALSE,1840115168
+West Settlement,West Settlement,,44.6201,-72.7212,United States,US,USA,Vermont,Vermont,US-VT,state,,1.0,,,5,America/New_York,FALSE,1840115170
+West Waterford,West Waterford,,44.3576,-71.9556,United States,US,USA,Vermont,Vermont,US-VT,state,,9.0,,,5,America/New_York,FALSE,1840115172
+West Tinmouth,West Tinmouth,,43.4190,-73.1193,United States,US,USA,Vermont,Vermont,US-VT,state,,18.3,,,4,America/New_York,FALSE,1840115171
+Willow Point,Willow Point,,44.0226,-73.4001,United States,US,USA,Vermont,Vermont,US-VT,state,,0.0,,,5,America/New_York,FALSE,1840115174
+Whitneyville,Whitneyville,,42.7940,-72.7429,United States,US,USA,Vermont,Vermont,US-VT,state,,9.2,,,5,America/New_York,FALSE,1840115173
+Bellingham,Bellingham,,42.0777,-71.4741,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,358.4,17025,17025,3,America/New_York,FALSE,1840053544
+Avon,Avon,,42.1267,-71.0492,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,425.6,4730,4730,3,America/New_York,FALSE,1840053543
+Cohasset,Cohasset,,42.2363,-70.8189,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,328.8,8330,8330,3,America/New_York,FALSE,1840053546
+Braintree,Braintree,,42.2039,-71.0022,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,1596.4,38748,38748,3,America/New_York,FALSE,1840132398
+Swampscott,Swampscott,,42.4757,-70.9068,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,1932.5,15125,15125,3,America/New_York,FALSE,1840053540
+Salisbury,Salisbury,,42.8465,-70.8616,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,230.6,9182,9182,3,America/New_York,FALSE,1840053539
+West Newbury,West Newbury,,42.7939,-70.9691,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,129.8,4521,4521,4,America/New_York,FALSE,1840053542
+Topsfield,Topsfield,,42.6373,-70.9425,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,212.0,6532,6532,3,America/New_York,FALSE,1840053541
+Linton,Linton,,33.8334,-86.8014,United States,US,USA,Alabama,Alabama,US-AL,state,,65.4,,,4,America/Chicago,FALSE,1840041346
+Dover,Dover,,42.2366,-71.2842,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,150.5,5886,5886,4,America/New_York,FALSE,1840053548
+Numa,Numa,,29.9769,-91.8918,United States,US,USA,Louisiana,Louisiana,US-LA,state,,359.2,,,4,America/Chicago,FALSE,1840063925
+Oak Forest,Oak Forest,,29.6316,-90.9329,United States,US,USA,Louisiana,Louisiana,US-LA,state,,83.7,,,4,America/Chicago,FALSE,1840063926
+Leeco,Leeco,,37.7109,-83.6949,United States,US,USA,Kentucky,Kentucky,US-KY,state,,10.2,,,4,America/New_York,FALSE,1840062882
+Oakshire Manor,Oakshire Manor,,29.6469,-90.7568,United States,US,USA,Louisiana,Louisiana,US-LA,state,,1670.5,,,4,America/Chicago,FALSE,1840063929
+Thomastown,Thomastown,,38.0082,-79.8406,United States,US,USA,Virginia,Virginia,US-VA,state,,179.7,,,4,America/New_York,FALSE,1840119470
+Thornburg,Thornburg,,38.1335,-77.5217,United States,US,USA,Virginia,Virginia,US-VA,state,,89.0,,,4,America/New_York,FALSE,1840119472
+Thompsons,Thompsons,,36.7668,-79.1170,United States,US,USA,Virginia,Virginia,US-VA,state,,18.8,,,4,America/New_York,FALSE,1840119471
+Tipers,Tipers,,37.8449,-76.3713,United States,US,USA,Virginia,Virginia,US-VA,state,,27.9,,,4,America/New_York,FALSE,1840119473
+Grandfather,Grandfather,,36.0987,-81.8482,United States,US,USA,North Carolina,North Carolina,US-NC,state,,7.7,,,5,America/New_York,FALSE,1840033009
+Warden,Warden,,32.5376,-91.4971,United States,US,USA,Louisiana,Louisiana,US-LA,state,,19.9,,,4,America/Chicago,FALSE,1840031096
+East Barre,East Barre,,43.1870,-78.1503,United States,US,USA,New York,New York,US-NY,state,,9.0,,,5,America/New_York,FALSE,1840083555
+East Bay Park,East Bay Park,,43.2920,-76.8950,United States,US,USA,New York,New York,US-NY,state,,103.1,,,4,America/New_York,FALSE,1840083556
+Hibernia,Hibernia,,33.8860,-81.5854,United States,US,USA,South Carolina,South Carolina,US-SC,state,,16.8,,,4,America/New_York,FALSE,1840106931
+Shiprock,Shiprock,,36.7924,-108.7005,United States,US,USA,New Mexico,New Mexico,US-NM,state,,236.5,8275,8275,3,America/Denver,FALSE,1840018988
+Gibbtown,Gibbtown,,46.4136,-108.5557,United States,US,USA,Montana,Montana,US-MT,state,,27.3,,,4,America/Denver,FALSE,1840077980
+Pinegrove,Pinegrove,,46.8802,-113.9032,United States,US,USA,Montana,Montana,US-MT,state,,314.0,,,4,America/Denver,FALSE,1840078291
+Reads Mill,Reads Mill,,33.8732,-85.9016,United States,US,USA,Alabama,Alabama,US-AL,state,,22.1,,,4,America/Chicago,FALSE,1840042968
+Rawls,Rawls,,31.4532,-86.4811,United States,US,USA,Alabama,Alabama,US-AL,state,,8.5,,,5,America/Chicago,FALSE,1840042967
+Rash,Rash,,34.8740,-85.8950,United States,US,USA,Alabama,Alabama,US-AL,state,,33.8,,,4,America/Chicago,FALSE,1840042966
+Ramah,Ramah,,31.6124,-87.1375,United States,US,USA,Alabama,Alabama,US-AL,state,,1.9,,,5,America/Chicago,FALSE,1840042964
+Quinsey,Quinsey,,32.9496,-86.4644,United States,US,USA,Alabama,Alabama,US-AL,state,,0.0,,,5,America/Chicago,FALSE,1840042963
+Pruitton,Pruitton,,34.9904,-87.6095,United States,US,USA,Alabama,Alabama,US-AL,state,,18.0,,,4,America/Chicago,FALSE,1840042962
+Red Eagle,Red Eagle,,33.0846,-87.1322,United States,US,USA,Alabama,Alabama,US-AL,state,,10.8,,,4,America/Chicago,FALSE,1840042969
+Plummer,Plummer,,47.3301,-116.8849,United States,US,USA,Idaho,Idaho,US-ID,state,,354.4,1158,1158,3,America/Los_Angeles,FALSE,1840019851
+Fluffy Landing,Fluffy Landing,,30.4310,-86.1361,United States,US,USA,Florida,Florida,US-FL,state,,80.8,,,4,America/Chicago,FALSE,1840046709
+Bucktown,Bucktown,,35.2701,-88.1950,United States,US,USA,Tennessee,Tennessee,US-TN,state,,34.5,,,4,America/Chicago,FALSE,1840109411
+Fox Creek,Fox Creek,,37.0656,-106.2014,United States,US,USA,Colorado,Colorado,US-CO,state,,7.9,,,5,America/Denver,FALSE,1840044110
+Cañon,Canon,,37.0433,-106.1459,United States,US,USA,Colorado,Colorado,US-CO,state,,10.8,,,4,America/Denver,FALSE,1840044109
+Walcksville,Walcksville,,40.8693,-75.6557,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,126.7,,,4,America/New_York,FALSE,1840101618
+Randolph Hill,Randolph Hill,,44.3881,-71.2784,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,16.3,,,4,America/New_York,FALSE,1840079873
+Lyme,Lyme,,41.3965,-72.3438,United States,US,USA,Connecticut,Connecticut,US-CT,state,,45.3,,,4,America/New_York,FALSE,1840045037
+Litchfield,Litchfield,,41.7413,-73.1931,United States,US,USA,Connecticut,Connecticut,US-CT,state,,203.7,,,3,America/New_York,FALSE,1840004769
+Lisbon,Lisbon,,41.6014,-72.0141,United States,US,USA,Connecticut,Connecticut,US-CT,state,,61.9,,,4,America/New_York,FALSE,1840045035
+Ledyard,Ledyard,,41.4400,-72.0167,United States,US,USA,Connecticut,Connecticut,US-CT,state,,77.9,,,4,America/New_York,FALSE,1840045034
+Marlborough,Marlborough,,41.6331,-72.4547,United States,US,USA,Connecticut,Connecticut,US-CT,state,,157.3,,,4,America/New_York,FALSE,1840035317
+Mansfield,Mansfield,,41.7892,-72.2287,United States,US,USA,Connecticut,Connecticut,US-CT,state,,160.3,,,4,America/New_York,FALSE,1840045040
+Madison,Madison,,41.3398,-72.6278,United States,US,USA,Connecticut,Connecticut,US-CT,state,,330.9,,,3,America/New_York,FALSE,1840045038
+Walbert,Walbert,,40.6112,-75.5682,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,30.1,,,4,America/New_York,FALSE,1840101617
+Peacock,Peacock,,38.9737,-77.2533,United States,US,USA,Virginia,Virginia,US-VA,state,,255.6,,,4,America/New_York,FALSE,1840119278
+Russellville,Russellville,,33.9204,-100.6896,United States,US,USA,Texas,Texas,US-TX,state,,0.0,,,5,America/Chicago,FALSE,1840033519
+Seitzville,Seitzville,,39.8301,-76.7619,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,63.4,,,4,America/New_York,FALSE,1840103823
+Minnehaha,Minnehaha,,34.1634,-112.4074,United States,US,USA,Arizona,Arizona,US-AZ,state,,0.0,,,5,America/Phoenix,FALSE,1840038421
+Taunton Lake,Taunton Lake,,39.8507,-74.8488,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,596.1,,,4,America/New_York,FALSE,1840081423
+Stiefeltown,Stiefeltown,,33.5524,-81.7957,United States,US,USA,South Carolina,South Carolina,US-SC,state,,339.5,,,4,America/New_York,FALSE,1840107164
+Stomp Springs,Stomp Springs,,34.4699,-81.7343,United States,US,USA,South Carolina,South Carolina,US-SC,state,,12.1,,,4,America/New_York,FALSE,1840107165
+Stone Park,Stone Park,,32.7802,-80.0165,United States,US,USA,South Carolina,South Carolina,US-SC,state,,938.7,,,4,America/New_York,FALSE,1840107167
+Stone Lake,Stone Lake,,34.8740,-82.3804,United States,US,USA,South Carolina,South Carolina,US-SC,state,,1027.4,,,4,America/New_York,FALSE,1840107166
+Stono Station,Stono Station,,32.7610,-80.1059,United States,US,USA,South Carolina,South Carolina,US-SC,state,,90.9,,,4,America/New_York,FALSE,1840107168
+Stratford Forest,Stratford Forest,,34.9365,-82.4548,United States,US,USA,South Carolina,South Carolina,US-SC,state,,248.4,,,4,America/New_York,FALSE,1840107169
+Sedwicks Mill,Sedwicks Mill,,41.1648,-79.7848,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,12.2,,,4,America/New_York,FALSE,1840103817
+Carolina Meadows,Carolina Meadows,,35.8597,-79.0179,United States,US,USA,North Carolina,North Carolina,US-NC,state,,563.8,576,576,3,America/New_York,FALSE,1840152905
+Cushing,Cushing,,35.4261,-120.6041,United States,US,USA,California,California,US-CA,state,,140.3,,,4,America/Los_Angeles,FALSE,1840130971
+Cushenbury,Cushenbury,,34.3539,-116.8584,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840130970
+Crystal Cove,Crystal Cove,,33.5753,-117.8414,United States,US,USA,California,California,US-CA,state,,284.6,,,4,America/Los_Angeles,FALSE,1840130968
+Crome,Crome,,35.4416,-119.2001,United States,US,USA,California,California,US-CA,state,,3.0,,,5,America/Los_Angeles,FALSE,1840130967
+Cuesta-by-the-Sea,Cuesta-by-the-Sea,,35.3183,-120.8468,United States,US,USA,California,California,US-CA,state,,1895.6,,,4,America/Los_Angeles,FALSE,1840130969
+Crest Park,Crest Park,,34.2339,-117.1964,United States,US,USA,California,California,US-CA,state,,259.1,,,4,America/Los_Angeles,FALSE,1840130966
+Cox,Cox,,33.8389,-114.7727,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840130965
+Holly Springs,Holly Springs,,30.8971,-93.8841,United States,US,USA,Texas,Texas,US-TX,state,,19.0,,,4,America/Chicago,FALSE,1840112714
+Oaks,Oaks,,32.7999,-89.9770,United States,US,USA,Mississippi,Mississippi,US-MS,state,,7.9,,,5,America/Chicago,FALSE,1840075056
+Verdi,Verdi,,38.9917,-97.5031,United States,US,USA,Kansas,Kansas,US-KS,state,,2.2,,,5,America/Chicago,FALSE,1840030238
+Muddy Fork,Muddy Fork,,34.1359,-93.8949,United States,US,USA,Arkansas,Arkansas,US-AR,state,,5.2,,,5,America/Chicago,FALSE,1840040541
+Mount Pisgah,Mount Pisgah,,41.1509,-74.7652,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,58.1,,,4,America/New_York,FALSE,1840081085
+Oakton,Oakton,,34.4954,-79.0489,United States,US,USA,North Carolina,North Carolina,US-NC,state,,21.9,,,4,America/New_York,FALSE,1840088577
+Thomure,Thomure,,38.0039,-90.0596,United States,US,USA,Missouri,Missouri,US-MO,state,,58.1,,,4,America/Chicago,FALSE,1840077083
+East Shoreham,East Shoreham,,43.8603,-73.2529,United States,US,USA,Vermont,Vermont,US-VT,state,,7.5,,,5,America/New_York,FALSE,1840114795
+Eden,Eden,,32.9612,-109.8954,United States,US,USA,Arizona,Arizona,US-AZ,state,,34.0,,,4,America/Phoenix,FALSE,1840018516
+Chulafinnee,Chulafinnee,,33.5454,-85.6488,United States,US,USA,Alabama,Alabama,US-AL,state,,48.5,,,4,America/Chicago,FALSE,1840043338
+Christiana,Christiana,,33.3773,-85.6402,United States,US,USA,Alabama,Alabama,US-AL,state,,10.8,,,4,America/Chicago,FALSE,1840043337
+Trail,Trail,,36.7681,-92.2957,United States,US,USA,Missouri,Missouri,US-MO,state,,2.6,,,5,America/Chicago,FALSE,1840077089
+Epworth,Epworth,,38.0706,-88.1061,United States,US,USA,Illinois,Illinois,US-IL,state,,4.4,,,5,America/Chicago,FALSE,1840051189
+Greenfield Bend,Greenfield Bend,,35.6828,-87.2731,United States,US,USA,Tennessee,Tennessee,US-TN,state,,3.4,,,5,America/Chicago,FALSE,1840109792
+Marsh Run,Marsh Run,,40.2001,-76.8136,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,18.9,,,4,America/New_York,FALSE,1840100268
+Spirit,Spirit,,48.8296,-117.6505,United States,US,USA,Washington,Washington,US-WA,state,,0.6,,,5,America/Los_Angeles,FALSE,1840120655
+South Center,South Center,,41.4764,-86.6400,United States,US,USA,Indiana,Indiana,US-IN,state,,55.8,130,130,4,America/Chicago,FALSE,1840055643
+Nelsonville,Nelsonville,,36.0701,-91.4265,United States,US,USA,Arkansas,Arkansas,US-AR,state,,3.9,,,5,America/Chicago,FALSE,1840038735
+West Sumner,West Sumner,,44.3648,-70.4576,United States,US,USA,Maine,Maine,US-ME,state,,32.2,,,4,America/New_York,FALSE,1840065572
+West Trenton,West Trenton,,44.4356,-68.3970,United States,US,USA,Maine,Maine,US-ME,state,,40.7,,,4,America/New_York,FALSE,1840065573
+Loudville,Loudville,,43.9287,-69.4309,United States,US,USA,Maine,Maine,US-ME,state,,0.0,,,5,America/New_York,FALSE,1840065056
+Sand Run,Sand Run,,39.5151,-82.2374,United States,US,USA,Ohio,Ohio,US-OH,state,,13.7,,,4,America/New_York,FALSE,1840094918
+Highfalls,Highfalls,,31.0985,-85.7999,United States,US,USA,Alabama,Alabama,US-AL,state,,7.4,,,5,America/Chicago,FALSE,1840042570
+Las Dos,Las Dos,,35.7617,-106.0306,United States,US,USA,New Mexico,New Mexico,US-NM,state,,7.3,,,5,America/Denver,FALSE,1840082586
+Las Dispensas,Las Dispensas,,35.7453,-105.3597,United States,US,USA,New Mexico,New Mexico,US-NM,state,,0.8,,,5,America/Denver,FALSE,1840082585
+Las Colonias,Las Colonias,,35.3745,-106.4856,United States,US,USA,New Mexico,New Mexico,US-NM,state,,281.1,,,4,America/Denver,FALSE,1840082584
+Terrebonne,Terrebonne,,47.8325,-96.1334,United States,US,USA,Minnesota,Minnesota,US-MN,state,,1.3,,,5,America/Chicago,FALSE,1840031905
+Selma,Selma,,34.4454,-79.3745,United States,US,USA,South Carolina,South Carolina,US-SC,state,,21.2,,,4,America/New_York,FALSE,1840107259
+Hilyer,Hilyer,,32.9815,-84.9930,United States,US,USA,Georgia,Georgia,US-GA,state,,299.8,,,4,America/New_York,FALSE,1840048054
+Wamba,Wamba,,33.5060,-94.1288,United States,US,USA,Texas,Texas,US-TX,state,,43.6,,,4,America/Chicago,FALSE,1840112851
+Balliettsville,Balliettsville,,40.6784,-75.5738,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,385.7,,,4,America/New_York,FALSE,1840098410
+Ardonia,Ardonia,,41.6759,-74.0726,United States,US,USA,New York,New York,US-NY,state,,283.3,,,4,America/New_York,FALSE,1840082900
+Balsinger,Balsinger,,39.8962,-79.7989,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,150.7,,,4,America/New_York,FALSE,1840098412
+Moscow,Moscow,,32.7101,-88.8001,United States,US,USA,Mississippi,Mississippi,US-MS,state,,3.4,,,5,America/Chicago,FALSE,1840074330
+Hilliard,Hilliard,,33.8146,-87.3764,United States,US,USA,Alabama,Alabama,US-AL,state,,8.8,,,5,America/Chicago,FALSE,1840042573
+Major,Major,,37.5579,-79.3700,United States,US,USA,Virginia,Virginia,US-VA,state,,42.6,,,4,America/New_York,FALSE,1840116633
+Brooks Acres,Brooks Acres,,34.8348,-87.5053,United States,US,USA,Alabama,Alabama,US-AL,state,,166.4,,,4,America/Chicago,FALSE,1840040895
+Brooks,Brooks,,31.4818,-86.6850,United States,US,USA,Alabama,Alabama,US-AL,state,,8.0,,,5,America/Chicago,FALSE,1840023709
+North Paynesville,North Paynesville,,46.5641,-89.1157,United States,US,USA,Michigan,Michigan,US-MI,state,,2.2,,,5,America/Detroit,FALSE,1840127877
+Mentz,Mentz,,43.0414,-76.6320,United States,US,USA,New York,New York,US-NY,state,,43.4,1902,1902,4,America/New_York,FALSE,1840087663
+Mendon,Mendon,,42.9859,-77.5479,United States,US,USA,New York,New York,US-NY,state,,88.9,9089,9089,4,America/New_York,FALSE,1840058299
+Maryland,Maryland,,42.5423,-74.8580,United States,US,USA,New York,New York,US-NY,state,,12.1,1645,1645,4,America/New_York,FALSE,1840058294
+Martinsburg,Martinsburg,,43.7291,-75.5284,United States,US,USA,New York,New York,US-NY,state,,6.3,1234,1234,4,America/New_York,FALSE,1840058292
+Marshall,Marshall,,42.9671,-75.3862,United States,US,USA,New York,New York,US-NY,state,,26.4,2246,2246,4,America/New_York,FALSE,1840058291
+Marlborough,Marlborough,,41.6337,-73.9904,United States,US,USA,New York,New York,US-NY,state,,138.0,8748,8748,4,America/New_York,FALSE,1840087655
+Mayfield,Mayfield,,43.1248,-74.2600,United States,US,USA,New York,New York,US-NY,state,,40.7,6155,6155,4,America/New_York,FALSE,1840004309
+Massena,Massena,,44.9609,-74.8339,United States,US,USA,New York,New York,US-NY,state,,108.1,12421,12421,3,America/New_York,FALSE,1840004058
+Masonville,Masonville,,42.2308,-75.3455,United States,US,USA,New York,New York,US-NY,state,,8.0,1118,1118,4,America/New_York,FALSE,1840058295
+Pricedale,Pricedale,,31.2905,-90.2948,United States,US,USA,Mississippi,Mississippi,US-MS,state,,25.0,,,4,America/Chicago,FALSE,1840032405
+Elmira Camp,Elmira Camp,,39.4964,-94.1577,United States,US,USA,Missouri,Missouri,US-MO,state,,24.8,,,4,America/Chicago,FALSE,1840075692
+Hall Mill,Hall Mill,,34.7834,-85.3558,United States,US,USA,Georgia,Georgia,US-GA,state,,16.9,,,4,America/New_York,FALSE,1840049973
+Hallwood,Hallwood,,33.2471,-83.3632,United States,US,USA,Georgia,Georgia,US-GA,state,,10.3,,,4,America/New_York,FALSE,1840049974
+Keys,Keys,,39.8815,-76.5361,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,134.9,,,4,America/New_York,FALSE,1840099937
+Nina Station,Nina Station,,30.3052,-91.8412,United States,US,USA,Louisiana,Louisiana,US-LA,state,,93.3,,,4,America/Chicago,FALSE,1840129315
+Lund,Lund,,44.5397,-92.2060,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,31.2,,,4,America/Chicago,FALSE,1840123852
+Lunds,Lunds,,44.6994,-88.5454,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,21.3,,,4,America/Chicago,FALSE,1840037979
+Huddle,Huddle,,36.8487,-81.0362,United States,US,USA,Virginia,Virginia,US-VA,state,,2.8,,,5,America/New_York,FALSE,1840117090
+Blue,Blue,,38.9251,-85.0047,United States,US,USA,Indiana,Indiana,US-IN,state,,17.7,,,4,America/New_York,FALSE,1840054329
+Saint Marks,Saint Marks,,38.3056,-86.8180,United States,US,USA,Indiana,Indiana,US-IN,state,,74.8,,,4,America/Indiana/Vincennes,FALSE,1840055560
+Pettisville,Pettisville,,41.5324,-84.2231,United States,US,USA,Ohio,Ohio,US-OH,state,,214.2,528,528,3,America/New_York,FALSE,1840026268
+Griggs,Griggs,,44.6062,-122.8715,United States,US,USA,Oregon,Oregon,US-OR,state,,24.3,,,4,America/Los_Angeles,FALSE,1840097969
+Purcell,Purcell,,40.6383,-104.6016,United States,US,USA,Colorado,Colorado,US-CO,state,,0.7,,,5,America/Denver,FALSE,1840044387
+Refuge Mission,Refuge Mission,,35.3851,-79.9564,United States,US,USA,North Carolina,North Carolina,US-NC,state,,35.7,,,4,America/New_York,FALSE,1840089301
+Redmesa,Redmesa,,37.0944,-108.1704,United States,US,USA,Colorado,Colorado,US-CO,state,,26.9,,,4,America/Denver,FALSE,1840028536
+Hodgesville,Hodgesville,,39.0659,-80.1942,United States,US,USA,West Virginia,West Virginia,US-WV,state,,63.2,,,4,America/New_York,FALSE,1840038141
+Orrs,Orrs,,33.4812,-84.3388,United States,US,USA,Georgia,Georgia,US-GA,state,,225.2,,,4,America/New_York,FALSE,1840131451
+Orange Grove Estates,Orange Grove Estates,,32.3212,-111.0407,United States,US,USA,Arizona,Arizona,US-AZ,state,,2413.3,,,4,America/Phoenix,FALSE,1840037201
+Tucson National Estates,Tucson National Estates,,32.3531,-111.0257,United States,US,USA,Arizona,Arizona,US-AZ,state,,700.4,,,4,America/Phoenix,FALSE,1840037203
+Utevak,Utevak,,31.7023,-111.7496,United States,US,USA,Arizona,Arizona,US-AZ,state,,0.7,,,5,America/Phoenix,FALSE,1840037204
+Verboort,Verboort,,45.5496,-123.0868,United States,US,USA,Oregon,Oregon,US-OR,state,,89.8,,,4,America/Los_Angeles,FALSE,1840098216
+Claryville,Claryville,,38.9140,-84.4095,United States,US,USA,Kentucky,Kentucky,US-KY,state,,180.4,3364,3364,3,America/New_York,FALSE,1840030406
+Jewell,Jewell,,38.7548,-76.6186,United States,US,USA,Maryland,Maryland,US-MD,state,,122.7,,,4,America/New_York,FALSE,1840066783
+Tipton,Tipton,,38.2590,-80.9890,United States,US,USA,West Virginia,West Virginia,US-WV,state,,26.8,,,4,America/New_York,FALSE,1840121276
+Clearwater,Clearwater,,33.5038,-81.9100,United States,US,USA,South Carolina,South Carolina,US-SC,state,,313.4,3403,3403,3,America/New_York,FALSE,1840013721
+Ironsides,Ironsides,,38.4918,-77.1597,United States,US,USA,Maryland,Maryland,US-MD,state,,59.9,,,4,America/New_York,FALSE,1840066782
+Norway,Norway,,44.2284,-70.6065,United States,US,USA,Maine,Maine,US-ME,state,,43.8,5113,5113,4,America/New_York,FALSE,1840052938
+Wellfleet by the Sea,Wellfleet by the Sea,,41.9298,-69.9786,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,2.5,,,5,America/New_York,FALSE,1840068599
+Green Hill,Green Hill,,36.2349,-86.5733,United States,US,USA,Tennessee,Tennessee,US-TN,state,,752.5,6773,6773,3,America/Chicago,FALSE,1840013350
+Oakland,Oakland,,44.5595,-69.7328,United States,US,USA,Maine,Maine,US-ME,state,,94.0,6260,6260,4,America/New_York,FALSE,1840052940
+Old Adobe,Old Adobe,,35.7377,-120.6999,United States,US,USA,California,California,US-CA,state,,42.2,,,4,America/Los_Angeles,FALSE,1840131198
+Oakfield,Oakfield,,46.0807,-68.1037,United States,US,USA,Maine,Maine,US-ME,state,,7.2,656,656,4,America/New_York,FALSE,1840052939
+Oak Park,Oak Park,,40.2517,-80.9987,United States,US,USA,Ohio,Ohio,US-OH,state,,55.0,,,4,America/New_York,FALSE,1840092777
+Oakview,Oakview,,40.6939,-84.2102,United States,US,USA,Ohio,Ohio,US-OH,state,,256.2,,,4,America/New_York,FALSE,1840092779
+Odell,Odell,,40.1509,-81.4768,United States,US,USA,Ohio,Ohio,US-OH,state,,31.0,,,4,America/New_York,FALSE,1840092780
+Olive Branch,Olive Branch,,39.0840,-84.2252,United States,US,USA,Ohio,Ohio,US-OH,state,,142.4,,,4,America/New_York,FALSE,1840034125
+Opperman,Opperman,,39.8906,-81.6007,United States,US,USA,Ohio,Ohio,US-OH,state,,33.6,,,4,America/New_York,FALSE,1840092781
+Gulf Gate Estates,Gulf Gate Estates,,27.2574,-82.5073,United States,US,USA,Florida,Florida,US-FL,state,,1248.6,,,3,America/New_York,FALSE,1840029040
+Kodak,Kodak,,35.9745,-83.6268,United States,US,USA,Tennessee,Tennessee,US-TN,state,,141.6,,,4,America/New_York,FALSE,1840110000
+Hathaway,Hathaway,,30.3496,-92.6715,United States,US,USA,Louisiana,Louisiana,US-LA,state,,22.6,,,4,America/Chicago,FALSE,1840030845
+Ko Ko,Ko Ko,,35.4790,-89.2717,United States,US,USA,Tennessee,Tennessee,US-TN,state,,16.3,,,4,America/Chicago,FALSE,1840110001
+Jacktown,Jacktown,,38.5521,-76.0427,United States,US,USA,Maryland,Maryland,US-MD,state,,42.4,,,4,America/New_York,FALSE,1840068358
+Orlando,Orlando,,38.8712,-80.5937,United States,US,USA,West Virginia,West Virginia,US-WV,state,,13.8,,,4,America/New_York,FALSE,1840038193
+Akela,Akela,,32.2459,-107.4056,United States,US,USA,New Mexico,New Mexico,US-NM,state,,0.2,,,5,America/Denver,FALSE,1840082442
+Proctors corner,Proctors corner,,42.2551,-71.9648,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,67.3,,,4,America/New_York,FALSE,1840069020
+Tolley Town,Tolley Town,,36.1907,-82.2179,United States,US,USA,Tennessee,Tennessee,US-TN,state,,36.2,,,4,America/New_York,FALSE,1840112302
+Loma,Loma,,47.9511,-110.4887,United States,US,USA,Montana,Montana,US-MT,state,,9.1,81,81,3,America/Denver,FALSE,1840017321
+Ludlow,Ludlow,,42.1921,-72.4580,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,296.5,20883,20883,3,America/New_York,FALSE,1840053449
+Lime Rock,Lime Rock,,41.9337,-73.3893,United States,US,USA,Connecticut,Connecticut,US-CT,state,,37.4,,,4,America/New_York,FALSE,1840044584
+North Landgrove,North Landgrove,,43.2598,-72.8487,United States,US,USA,Vermont,Vermont,US-VT,state,,17.2,,,4,America/New_York,FALSE,1840115235
+Gay,Gay,,35.2915,-83.2732,United States,US,USA,North Carolina,North Carolina,US-NC,state,,39.6,,,4,America/New_York,FALSE,1840089245
+Tendal,Tendal,,32.4324,-91.3668,United States,US,USA,Louisiana,Louisiana,US-LA,state,,16.7,,,4,America/Chicago,FALSE,1840031090
+Nash,Nash,,48.4778,-97.5245,United States,US,USA,North Dakota,North Dakota,US-ND,state,,2.6,7,7,3,America/Chicago,FALSE,1840023769
+Elgin,Elgin,,34.6724,-80.7215,United States,US,USA,South Carolina,South Carolina,US-SC,state,,229.0,2882,2882,3,America/New_York,FALSE,1840152916
+Elfers,Elfers,,28.2140,-82.7230,United States,US,USA,Florida,Florida,US-FL,state,,1377.5,13296,13296,3,America/New_York,FALSE,1840013122
+Eglin AFB,Eglin AFB,,30.4592,-86.5499,United States,US,USA,Florida,Florida,US-FL,state,,351.9,2759,2759,3,America/Chicago,FALSE,1840073828
+Edisto,Edisto,,33.4777,-80.8999,United States,US,USA,South Carolina,South Carolina,US-SC,state,,139.6,1904,1904,3,America/New_York,FALSE,1840035843
+Edgewater,Edgewater,,33.5287,-86.9572,United States,US,USA,Alabama,Alabama,US-AL,state,,263.9,793,793,3,America/Chicago,FALSE,1840013093
+Edgard,Edgard,,30.0362,-90.5460,United States,US,USA,Louisiana,Louisiana,US-LA,state,,39.1,1154,1154,3,America/Chicago,FALSE,1840013107
+Eden Isle,Eden Isle,,30.2268,-89.8043,United States,US,USA,Louisiana,Louisiana,US-LA,state,,1091.9,8588,8588,3,America/Chicago,FALSE,1840031150
+Eastwood,Eastwood,,32.5607,-93.5625,United States,US,USA,Louisiana,Louisiana,US-LA,state,,257.2,4229,4229,3,America/Chicago,FALSE,1840013100
+Bethsaida,Bethsaida,,33.0357,-94.1880,United States,US,USA,Texas,Texas,US-TX,state,,21.4,,,4,America/Chicago,FALSE,1840114133
+Shamrock,Shamrock,,39.8853,-103.8163,United States,US,USA,Colorado,Colorado,US-CO,state,,0.1,,,5,America/Denver,FALSE,1840043908
+Woodrow,Woodrow,,39.9883,-103.5916,United States,US,USA,Colorado,Colorado,US-CO,state,,1.1,,,5,America/Denver,FALSE,1840027395
+Clark,Clark,,35.4404,-83.0738,United States,US,USA,North Carolina,North Carolina,US-NC,state,,92.1,,,4,America/New_York,FALSE,1840089599
+Clarrissa,Clarrissa,,36.0132,-82.1171,United States,US,USA,North Carolina,North Carolina,US-NC,state,,29.2,,,4,America/New_York,FALSE,1840089601
+Falcon,Falcon,,26.6381,-99.0956,United States,US,USA,Texas,Texas,US-TX,state,,283.9,,,4,America/Chicago,FALSE,1840036229
+Pike,Pike,,44.0309,-72.0081,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,24.7,,,4,America/New_York,FALSE,1840079859
+Fayville,Fayville,,43.1470,-74.1204,United States,US,USA,New York,New York,US-NY,state,,66.8,,,4,America/New_York,FALSE,1840083718
+Wible Orchard,Wible Orchard,,35.3177,-119.0212,United States,US,USA,California,California,US-CA,state,,3278.4,,,4,America/Los_Angeles,FALSE,1840131392
+White River Summer Home Tract,White River Summer Home Tract,,35.8494,-118.6270,United States,US,USA,California,California,US-CA,state,,0.1,,,5,America/Los_Angeles,FALSE,1840131391
+White River,White River,,35.8111,-118.8429,United States,US,USA,California,California,US-CA,state,,0.6,,,5,America/Los_Angeles,FALSE,1840131390
+White Heather,White Heather,,34.5203,-118.3067,United States,US,USA,California,California,US-CA,state,,129.1,,,4,America/Los_Angeles,FALSE,1840131389
+Rankin,Rankin,,42.9145,-83.7505,United States,US,USA,Michigan,Michigan,US-MI,state,,86.2,,,4,America/Detroit,FALSE,1840071187
+Mill Bridge,Mill Bridge,,35.6468,-80.6373,United States,US,USA,North Carolina,North Carolina,US-NC,state,,27.7,,,4,America/New_York,FALSE,1840088518
+Henrietta,Henrietta,,40.2625,-78.2977,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,52.1,214,214,3,America/New_York,FALSE,1840099684
+Holters Crossing,Holters Crossing,,40.9721,-77.7242,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,124.6,114,114,3,America/New_York,FALSE,1840152921
+Ironville,Ironville,,40.6586,-78.2155,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,59.2,0,0,3,America/New_York,FALSE,1840152922
+Juniata Gap,Juniata Gap,,40.5518,-78.4332,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,437.3,598,598,3,America/New_York,FALSE,1840099888
+Kimberton,Kimberton,,40.1306,-75.5743,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,362.1,448,448,3,America/New_York,FALSE,1840035044
+Larke,Larke,,40.4250,-78.2086,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,11.2,50,50,3,America/New_York,FALSE,1840100049
+Leamersville,Leamersville,,40.3742,-78.4312,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,151.6,17,17,3,America/New_York,FALSE,1840100077
+Linds Crossing,Linds Crossing,,40.4389,-78.3198,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,103.6,151,151,3,America/New_York,FALSE,1840100122
+New Landing,New Landing,,32.5130,-81.2304,United States,US,USA,South Carolina,South Carolina,US-SC,state,,1.1,,,5,America/New_York,FALSE,1840107040
+Myrtle Island,Myrtle Island,,32.2119,-80.8648,United States,US,USA,South Carolina,South Carolina,US-SC,state,,311.3,,,4,America/New_York,FALSE,1840107038
+Ned Swamp,Ned Swamp,,33.8718,-79.1312,United States,US,USA,South Carolina,South Carolina,US-SC,state,,64.4,,,4,America/New_York,FALSE,1840107039
+Nesmith,Nesmith,,33.6591,-79.5134,United States,US,USA,South Carolina,South Carolina,US-SC,state,,7.7,,,5,America/New_York,FALSE,1840035776
+Pewaukee West,Pewaukee West,,43.0747,-88.3309,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,252.6,,,4,America/Chicago,FALSE,1840123994
+Victory Center,Victory Center,,43.2070,-88.0826,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,30.4,,,4,America/Chicago,FALSE,1840124199
+Victory Heights,Victory Heights,,42.5428,-89.0907,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,52.5,,,4,America/Chicago,FALSE,1840124200
+Skinners,Skinners,,38.6991,-120.9952,United States,US,USA,California,California,US-CA,state,,2842.3,,,4,America/Los_Angeles,FALSE,1840130669
+Sims,Sims,,41.0718,-122.3550,United States,US,USA,California,California,US-CA,state,,1.2,,,5,America/Los_Angeles,FALSE,1840130668
+Simms,Simms,,37.7980,-121.0952,United States,US,USA,California,California,US-CA,state,,57.1,,,4,America/Los_Angeles,FALSE,1840130667
+Waldheim,Waldheim,,30.5563,-90.0120,United States,US,USA,Louisiana,Louisiana,US-LA,state,,31.7,,,4,America/Chicago,FALSE,1840129381
+Windy Arm,Windy Arm,,47.9909,-123.6007,United States,US,USA,Washington,Washington,US-WA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840120703
+Coryville,Coryville,,41.8826,-78.3984,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,38.0,,,4,America/New_York,FALSE,1840034911
+Costello,Costello,,41.5934,-78.0594,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,29.1,,,4,America/New_York,FALSE,1840098927
+Cottage,Cottage,,40.6209,-77.9844,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,15.3,,,4,America/New_York,FALSE,1840098928
+Medway,Medway,,38.0136,-101.8824,United States,US,USA,Kansas,Kansas,US-KS,state,,2.5,,,5,America/Denver,FALSE,1840059853
+Cottage Grove,Cottage Grove,,41.0942,-80.3176,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,55.3,,,4,America/New_York,FALSE,1840098929
+Bayside,Bayside,,43.0515,-70.8676,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,126.9,,,4,America/New_York,FALSE,1840079505
+Sublimity City,Sublimity City,,37.0945,-84.0835,United States,US,USA,Kentucky,Kentucky,US-KY,state,,390.7,,,4,America/New_York,FALSE,1840063070
+Cheddar,Cheddar,,34.5782,-82.4962,United States,US,USA,South Carolina,South Carolina,US-SC,state,,83.7,,,4,America/New_York,FALSE,1840106297
+Mayhew,Mayhew,,45.7133,-94.1108,United States,US,USA,Minnesota,Minnesota,US-MN,state,,10.5,,,4,America/Chicago,FALSE,1840071476
+Denmark,Denmark,,43.9044,-75.6110,United States,US,USA,New York,New York,US-NY,state,,20.2,2650,2650,4,America/New_York,FALSE,1840058042
+Pebble,Pebble,,34.2865,-87.5464,United States,US,USA,Alabama,Alabama,US-AL,state,,16.8,,,4,America/Chicago,FALSE,1840043441
+Garfield,Garfield,,43.6352,-111.9639,United States,US,USA,Idaho,Idaho,US-ID,state,,110.2,,,4,America/Boise,FALSE,1840050399
+Shacklett,Shacklett,,36.1248,-87.0981,United States,US,USA,Tennessee,Tennessee,US-TN,state,,34.3,,,4,America/Chicago,FALSE,1840110551
+Rhea,Rhea,,36.0142,-94.4030,United States,US,USA,Arkansas,Arkansas,US-AR,state,,40.0,,,4,America/Chicago,FALSE,1840001744
+Rio Vista,Rio Vista,,35.2906,-91.4710,United States,US,USA,Arkansas,Arkansas,US-AR,state,,1.2,,,5,America/Chicago,FALSE,1840040706
+Bonnefoy,Bonnefoy,,38.3605,-120.7510,United States,US,USA,California,California,US-CA,state,,28.1,,,4,America/Los_Angeles,FALSE,1840130032
+Bonnie View,Bonnie View,,39.3824,-122.6850,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840130033
+Bonanza Springs,Bonanza Springs,,38.8643,-122.6869,United States,US,USA,California,California,US-CA,state,,40.2,,,4,America/Los_Angeles,FALSE,1840130029
+Bonetti,Bonetti,,38.6746,-120.4546,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840130030
+Bonilla,Bonilla,,38.2780,-122.4378,United States,US,USA,California,California,US-CA,state,,145.9,,,4,America/Los_Angeles,FALSE,1840130031
+Bolsa Knolls,Bolsa Knolls,,36.7338,-121.6380,United States,US,USA,California,California,US-CA,state,,890.5,,,4,America/Los_Angeles,FALSE,1840130027
+Bombay,Bombay,,38.6868,-121.4802,United States,US,USA,California,California,US-CA,state,,92.7,,,4,America/Los_Angeles,FALSE,1840130028
+Organ,Organ,,32.4251,-106.6025,United States,US,USA,New Mexico,New Mexico,US-NM,state,,43.9,98,98,3,America/Denver,FALSE,1840025086
+Oasis,Oasis,,32.9277,-107.3164,United States,US,USA,New Mexico,New Mexico,US-NM,state,,21.4,116,116,3,America/Denver,FALSE,1840025051
+Nara Visa,Nara Visa,,35.6068,-103.1043,United States,US,USA,New Mexico,New Mexico,US-NM,state,,8.0,146,146,3,America/Denver,FALSE,1840024944
+Nambe,Nambe,,35.8984,-105.9667,United States,US,USA,New Mexico,New Mexico,US-NM,state,,96.1,2165,2165,3,America/Denver,FALSE,1840024915
+Newkirk,Newkirk,,35.0635,-104.2715,United States,US,USA,New Mexico,New Mexico,US-NM,state,,0.0,0,0,3,America/Denver,FALSE,1840024978
+Navajo Dam,Navajo Dam,,36.8339,-107.6460,United States,US,USA,New Mexico,New Mexico,US-NM,state,,10.6,330,330,3,America/Denver,FALSE,1840024851
+North Hurley,North Hurley,,32.7198,-108.1285,United States,US,USA,New Mexico,New Mexico,US-NM,state,,23.0,91,91,3,America/Denver,FALSE,1840025074
+Nogal,Nogal,,33.5382,-105.7119,United States,US,USA,New Mexico,New Mexico,US-NM,state,,5.2,103,103,3,America/Denver,FALSE,1840025029
+North San Ysidro,North San Ysidro,,35.4747,-105.5661,United States,US,USA,New Mexico,New Mexico,US-NM,state,,35.9,214,214,3,America/Denver,FALSE,1840024921
+North Light Plant,North Light Plant,,36.8670,-108.0330,United States,US,USA,New Mexico,New Mexico,US-NM,state,,127.9,716,716,4,America/Denver,FALSE,1840040159
+Ramseytown,Ramseytown,,36.0007,-82.3574,United States,US,USA,North Carolina,North Carolina,US-NC,state,,7.8,,,5,America/New_York,FALSE,1840090449
+Stewarts Point,Stewarts Point,,38.6519,-123.3992,United States,US,USA,California,California,US-CA,state,,2.0,,,5,America/Los_Angeles,FALSE,1840046191
+Stanfield Hill,Stanfield Hill,,39.3424,-121.3330,United States,US,USA,California,California,US-CA,state,,4.5,,,5,America/Los_Angeles,FALSE,1840046190
+Squab,Squab,,38.1971,-122.2775,United States,US,USA,California,California,US-CA,state,,20.1,,,4,America/Los_Angeles,FALSE,1840046189
+Spyrock,Spyrock,,39.8765,-123.4439,United States,US,USA,California,California,US-CA,state,,0.1,,,5,America/Los_Angeles,FALSE,1840046188
+South Coyote,South Coyote,,37.1988,-121.7216,United States,US,USA,California,California,US-CA,state,,47.9,,,4,America/Los_Angeles,FALSE,1840046187
+Tipperary,Tipperary,,41.1136,-93.1544,United States,US,USA,Iowa,Iowa,US-IA,state,,2.8,,,5,America/Chicago,FALSE,1840057555
+Solyo,Solyo,,37.6094,-121.2644,United States,US,USA,California,California,US-CA,state,,3.8,,,5,America/Los_Angeles,FALSE,1840046186
+Soapweed,Soapweed,,38.8418,-120.6780,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840046185
+Young,Young,,30.9980,-89.3692,United States,US,USA,Mississippi,Mississippi,US-MS,state,,17.0,,,4,America/Chicago,FALSE,1840075471
+Stomar,Stomar,,37.3619,-121.0458,United States,US,USA,California,California,US-CA,state,,24.2,,,4,America/Los_Angeles,FALSE,1840046193
+Stewartville,Stewartville,,37.9463,-121.8486,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840046192
+Bearskin,Bearskin,,35.0541,-78.4367,United States,US,USA,North Carolina,North Carolina,US-NC,state,,44.7,,,4,America/New_York,FALSE,1840088896
+Dominion,Dominion,,40.1430,-105.1269,United States,US,USA,Colorado,Colorado,US-CO,state,,1.1,,,5,America/Denver,FALSE,1840043693
+Rockwood,Rockwood,,38.0556,-84.4563,United States,US,USA,Kentucky,Kentucky,US-KY,state,,2042.2,,,4,America/New_York,FALSE,1840060532
+Ozona,Ozona,,28.0695,-82.7757,United States,US,USA,Florida,Florida,US-FL,state,,1128.6,,,4,America/New_York,FALSE,1840046910
+Cedar,Cedar,,42.5938,-114.7056,United States,US,USA,Idaho,Idaho,US-ID,state,,14.4,,,4,America/Boise,FALSE,1840050465
+Cassadaga,Cassadaga,,28.9664,-81.2359,United States,US,USA,Florida,Florida,US-FL,state,,266.8,,,4,America/New_York,FALSE,1840028648
+Shearersburg,Shearersburg,,40.6151,-79.6542,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,171.6,,,4,America/New_York,FALSE,1840101218
+Heart Bar Campground,Heart Bar Campground,,34.1586,-116.7867,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840129587
+Tall Timber Camp,Tall Timber Camp,,38.0735,-120.1724,United States,US,USA,California,California,US-CA,state,,178.0,,,4,America/Los_Angeles,FALSE,1840129586
+Glasgow,Glasgow,,40.9409,-91.7804,United States,US,USA,Iowa,Iowa,US-IA,state,,19.0,,,4,America/Chicago,FALSE,1840029629
+Meadow Vista,Meadow Vista,,39.0029,-121.0303,United States,US,USA,California,California,US-CA,state,,262.4,3589,3589,3,America/Los_Angeles,FALSE,1840018815
+Castle Harmony,Castle Harmony,,44.9412,-69.5084,United States,US,USA,Maine,Maine,US-ME,state,,7.1,,,5,America/New_York,FALSE,1840065661
+Dardanelle,Dardanelle,,38.3410,-119.8338,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840018231
+Silverhill,Silverhill,,30.5455,-87.7506,United States,US,USA,Alabama,Alabama,US-AL,state,,218.6,711,711,3,America/Chicago,FALSE,1840018194
+Devonshire,Devonshire,,39.5426,-74.6674,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,95.7,,,4,America/New_York,FALSE,1840080686
+Louisville,Louisville,,39.4487,-76.9239,United States,US,USA,Maryland,Maryland,US-MD,state,,82.2,,,4,America/New_York,FALSE,1840066632
+Windcrest Park,Windcrest Park,,43.0378,-76.2955,United States,US,USA,New York,New York,US-NY,state,,618.6,,,4,America/New_York,FALSE,1840085968
+Winchester,Winchester,,42.8648,-78.7867,United States,US,USA,New York,New York,US-NY,state,,1967.3,,,4,America/New_York,FALSE,1840085966
+Lewis Center,Lewis Center,,40.1984,-83.0102,United States,US,USA,Ohio,Ohio,US-OH,state,,191.1,,,4,America/New_York,FALSE,1840034178
+Wincoma,Wincoma,,40.9034,-73.4257,United States,US,USA,New York,New York,US-NY,state,,614.6,,,4,America/New_York,FALSE,1840085967
+Allendale,Allendale,,43.6763,-116.8749,United States,US,USA,Idaho,Idaho,US-ID,state,,3.8,,,5,America/Boise,FALSE,1840050411
+Lemoyne,Lemoyne,,41.4959,-83.4741,United States,US,USA,Ohio,Ohio,US-OH,state,,181.5,,,4,America/New_York,FALSE,1840093168
+Winthrop,Winthrop,,41.3618,-72.4887,United States,US,USA,Connecticut,Connecticut,US-CT,state,,92.2,,,4,America/New_York,FALSE,1840044800
+Millen Bay,Millen Bay,,44.1692,-76.2438,United States,US,USA,New York,New York,US-NY,state,,100.1,,,4,America/New_York,FALSE,1840084572
+Cambria,Cambria,,35.5520,-121.0838,United States,US,USA,California,California,US-CA,state,,267.2,5825,5825,3,America/Los_Angeles,FALSE,1840017806
+Peveto,Peveto,,30.1358,-93.8199,United States,US,USA,Texas,Texas,US-TX,state,,45.2,,,4,America/Chicago,FALSE,1840113279
+Elliott,Elliott,,38.3095,-76.0069,United States,US,USA,Maryland,Maryland,US-MD,state,,90.6,21,21,3,America/New_York,FALSE,1840024641
+Guadalupe,Guadalupe,,37.0953,-106.0256,United States,US,USA,Colorado,Colorado,US-CO,state,,11.5,,,4,America/Denver,FALSE,1840044111
+Balltown,Balltown,,41.6015,-79.1723,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,0.1,,,5,America/New_York,FALSE,1840104282
+Elamville,Elamville,,31.6677,-85.6563,United States,US,USA,Alabama,Alabama,US-AL,state,,16.7,,,4,America/Chicago,FALSE,1840041090
+Silver,Silver,,33.6779,-80.3573,United States,US,USA,South Carolina,South Carolina,US-SC,state,,29.8,,,4,America/New_York,FALSE,1840106454
+Ernstville,Ernstville,,39.6304,-78.0239,United States,US,USA,Maryland,Maryland,US-MD,state,,99.9,20,20,3,America/New_York,FALSE,1840024398
+Edgewater,Edgewater,,38.9373,-76.5572,United States,US,USA,Maryland,Maryland,US-MD,state,,1152.1,8928,8928,3,America/New_York,FALSE,1840024528
+Tea,Tea,,38.3000,-91.3965,United States,US,USA,Missouri,Missouri,US-MO,state,,10.6,,,4,America/Chicago,FALSE,1840076199
+Thompson,Thompson,,39.1887,-91.9830,United States,US,USA,Missouri,Missouri,US-MO,state,,28.4,,,4,America/Chicago,FALSE,1840076200
+Whetstone,Whetstone,,46.3932,-117.8969,United States,US,USA,Washington,Washington,US-WA,state,,1.9,,,5,America/Los_Angeles,FALSE,1840120115
+Whelan,Whelan,,46.7841,-117.1166,United States,US,USA,Washington,Washington,US-WA,state,,1.5,,,5,America/Los_Angeles,FALSE,1840120114
+Whitlow,Whitlow,,46.7213,-117.1502,United States,US,USA,Washington,Washington,US-WA,state,,254.5,,,4,America/Los_Angeles,FALSE,1840120117
+Whitcomb,Whitcomb,,45.8654,-119.7848,United States,US,USA,Washington,Washington,US-WA,state,,1.7,,,5,America/Los_Angeles,FALSE,1840120116
+Westwood,Westwood,,47.6190,-122.5757,United States,US,USA,Washington,Washington,US-WA,state,,240.9,,,4,America/Los_Angeles,FALSE,1840120113
+Wilcox,Wilcox,,46.8099,-117.4905,United States,US,USA,Washington,Washington,US-WA,state,,1.6,,,5,America/Los_Angeles,FALSE,1840120118
+Broom Hill,Broom Hill,,38.4490,-85.8775,United States,US,USA,Indiana,Indiana,US-IN,state,,22.9,,,4,America/Kentucky/Louisville,FALSE,1840054379
+Eldon,Eldon,,47.5454,-123.0460,United States,US,USA,Washington,Washington,US-WA,state,,9.9,,,5,America/Los_Angeles,FALSE,1840037764
+Maple Island,Maple Island,,42.0634,-86.1772,United States,US,USA,Michigan,Michigan,US-MI,state,,331.0,,,4,America/Detroit,FALSE,1840070989
+Ruby,Ruby,,33.6948,-90.2279,United States,US,USA,Mississippi,Mississippi,US-MS,state,,0.1,,,5,America/Chicago,FALSE,1840075114
+DeArmanville,DeArmanville,,33.6265,-85.7514,United States,US,USA,Alabama,Alabama,US-AL,state,,153.9,,,4,America/Chicago,FALSE,1840027608
+Rufus,Rufus,,32.1782,-89.7806,United States,US,USA,Mississippi,Mississippi,US-MS,state,,4.9,,,5,America/Chicago,FALSE,1840075116
+Freestone,Freestone,,38.3724,-122.9156,United States,US,USA,California,California,US-CA,state,,73.5,,,4,America/Los_Angeles,FALSE,1840130230
+Wells Creek,Wells Creek,,40.0379,-78.9947,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,125.3,,,4,America/New_York,FALSE,1840102022
+Skeetrock,Skeetrock,,37.2221,-82.4138,United States,US,USA,Virginia,Virginia,US-VA,state,,18.0,,,4,America/New_York,FALSE,1840116688
+Wagner,Wagner,,47.8790,-121.9365,United States,US,USA,Washington,Washington,US-WA,state,,240.1,,,4,America/Los_Angeles,FALSE,1840120685
+Beaty Crossroads,Beaty Crossroads,,34.6956,-85.6694,United States,US,USA,Alabama,Alabama,US-AL,state,,82.1,,,4,America/Chicago,FALSE,1840041897
+Luton,Luton,,42.3397,-96.2264,United States,US,USA,Iowa,Iowa,US-IA,state,,21.8,,,4,America/Chicago,FALSE,1840029652
+Decorra,Decorra,,40.7278,-90.9701,United States,US,USA,Illinois,Illinois,US-IL,state,,9.4,,,5,America/Chicago,FALSE,1840052029
+Stewart,Stewart,,32.9112,-87.7061,United States,US,USA,Alabama,Alabama,US-AL,state,,8.8,,,5,America/Chicago,FALSE,1840042069
+Dailey,Dailey,,40.2389,-87.9475,United States,US,USA,Illinois,Illinois,US-IL,state,,9.9,,,5,America/Chicago,FALSE,1840052023
+Damascus,Damascus,,42.3722,-89.7062,United States,US,USA,Illinois,Illinois,US-IL,state,,11.6,,,4,America/Chicago,FALSE,1840052024
+Damon,Damon,,40.0831,-90.8301,United States,US,USA,Illinois,Illinois,US-IL,state,,1.3,,,5,America/Chicago,FALSE,1840052025
+Danley,Danley,,38.0956,-90.1157,United States,US,USA,Illinois,Illinois,US-IL,state,,3.1,,,5,America/Chicago,FALSE,1840052026
+Danway,Danway,,41.4325,-88.6917,United States,US,USA,Illinois,Illinois,US-IL,state,,14.0,,,4,America/Chicago,FALSE,1840052027
+Darrow,Darrow,,40.7189,-87.6031,United States,US,USA,Illinois,Illinois,US-IL,state,,2.5,,,5,America/Chicago,FALSE,1840052028
+Cienega,Cienega,,34.0211,-118.3284,United States,US,USA,California,California,US-CA,state,,4069.6,,,4,America/Los_Angeles,FALSE,1840130951
+Cimarron,Cimarron,,36.2986,-119.8137,United States,US,USA,California,California,US-CA,state,,26.1,,,4,America/Los_Angeles,FALSE,1840130952
+Cima,Cima,,35.2378,-115.4992,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840019102
+Citro,Citro,,36.3927,-119.0245,United States,US,USA,California,California,US-CA,state,,17.2,,,4,America/Los_Angeles,FALSE,1840130953
+Reedsburg,Reedsburg,,40.8087,-82.1068,United States,US,USA,Ohio,Ohio,US-OH,state,,79.0,,,4,America/New_York,FALSE,1840093205
+Holston Valley,Holston Valley,,36.5657,-82.0696,United States,US,USA,Tennessee,Tennessee,US-TN,state,,31.7,,,4,America/New_York,FALSE,1840112404
+Holy Hill,Holy Hill,,36.4798,-81.8223,United States,US,USA,Tennessee,Tennessee,US-TN,state,,203.5,,,4,America/New_York,FALSE,1840112405
+Dixboro,Dixboro,,42.3123,-83.6561,United States,US,USA,Michigan,Michigan,US-MI,state,,250.4,,,4,America/Detroit,FALSE,1840031590
+Coulter,Coulter,,41.0106,-79.0753,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,6.6,,,5,America/New_York,FALSE,1840102695
+Coudley,Coudley,,41.0720,-78.2389,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,7.8,,,5,America/New_York,FALSE,1840102694
+Covalt,Covalt,,39.8226,-78.1450,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,15.3,,,4,America/New_York,FALSE,1840102697
+Horse Creek,Horse Creek,,45.2575,-92.5833,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,24.2,,,4,America/Chicago,FALSE,1840123763
+Courtneys Mills,Courtneys Mills,,41.1131,-80.0742,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,42.5,,,4,America/New_York,FALSE,1840102696
+Coverts,Coverts,,40.9945,-80.4162,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,10.5,,,4,America/New_York,FALSE,1840102699
+Cooksville,Cooksville,,32.9837,-88.3589,United States,US,USA,Mississippi,Mississippi,US-MS,state,,5.6,,,5,America/Chicago,FALSE,1840074762
+Covert,Covert,,41.7490,-76.8530,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,18.5,,,4,America/New_York,FALSE,1840102698
+Camp Swift,Camp Swift,,30.1885,-97.2933,United States,US,USA,Texas,Texas,US-TX,state,,220.8,6908,6908,3,America/Chicago,FALSE,1840018243
+Coyne Lock,Coyne Lock,,39.7673,-76.2738,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,22.0,,,4,America/New_York,FALSE,1840102701
+Pisgah,Pisgah,,38.5462,-77.1347,United States,US,USA,Maryland,Maryland,US-MD,state,,70.1,,,4,America/New_York,FALSE,1840031287
+Pinto,Pinto,,39.5698,-78.8392,United States,US,USA,Maryland,Maryland,US-MD,state,,65.5,,,4,America/New_York,FALSE,1840066661
+West Millbury,West Millbury,,42.1712,-71.8037,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,157.2,,,4,America/New_York,FALSE,1840069104
+Stafford Springs,Stafford Springs,,31.9049,-88.9334,United States,US,USA,Mississippi,Mississippi,US-MS,state,,5.3,,,5,America/Chicago,FALSE,1840032437
+Rocky Hill,Rocky Hill,,41.2295,-74.3532,United States,US,USA,New York,New York,US-NY,state,,29.0,,,4,America/New_York,FALSE,1840085144
+Sloan,Sloan,,40.3020,-87.4761,United States,US,USA,Indiana,Indiana,US-IN,state,,5.3,,,5,America/Indiana/Indianapolis,FALSE,1840055631
+Blackford,Blackford,,37.4484,-87.9347,United States,US,USA,Kentucky,Kentucky,US-KY,state,,38.4,,,4,America/Chicago,FALSE,1840030390
+Blackjoe,Blackjoe,,36.8618,-83.2818,United States,US,USA,Kentucky,Kentucky,US-KY,state,,217.9,,,4,America/New_York,FALSE,1840059954
+Gem,Gem,,39.6640,-81.4262,United States,US,USA,Ohio,Ohio,US-OH,state,,14.2,,,4,America/New_York,FALSE,1840093674
+Coosa,Coosa,,32.8424,-89.4223,United States,US,USA,Mississippi,Mississippi,US-MS,state,,2.9,,,5,America/Chicago,FALSE,1840074763
+Galetown,Galetown,,41.2664,-82.9966,United States,US,USA,Ohio,Ohio,US-OH,state,,46.1,,,4,America/New_York,FALSE,1840093672
+Garden Isle,Garden Isle,,41.0070,-82.0185,United States,US,USA,Ohio,Ohio,US-OH,state,,16.5,,,4,America/New_York,FALSE,1840093673
+Fort Fizzle,Fort Fizzle,,40.4928,-82.0929,United States,US,USA,Ohio,Ohio,US-OH,state,,9.7,,,5,America/New_York,FALSE,1840093668
+Fruitdale,Fruitdale,,39.3017,-83.3396,United States,US,USA,Ohio,Ohio,US-OH,state,,17.6,,,4,America/New_York,FALSE,1840034228
+Beyer,Beyer,,40.7865,-79.2011,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,54.8,,,4,America/New_York,FALSE,1840098508
+Dale Acres,Dale Acres,,35.1237,-85.2458,United States,US,USA,Tennessee,Tennessee,US-TN,state,,1094.6,,,4,America/New_York,FALSE,1840109563
+Beverly Hills,Beverly Hills,,39.9596,-75.2788,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,4077.1,,,4,America/New_York,FALSE,1840098506
+Hooks Mill,Hooks Mill,,37.7146,-79.9126,United States,US,USA,Virginia,Virginia,US-VA,state,,2.4,,,5,America/New_York,FALSE,1840116604
+Nine Mile,Nine Mile,,29.7169,-85.1213,United States,US,USA,Florida,Florida,US-FL,state,,0.1,,,5,America/New_York,FALSE,1840047634
+Niles,Niles,,29.7872,-85.2741,United States,US,USA,Florida,Florida,US-FL,state,,0.0,,,5,America/New_York,FALSE,1840047633
+Nixon,Nixon,,30.3224,-85.4513,United States,US,USA,Florida,Florida,US-FL,state,,163.4,,,4,America/Chicago,FALSE,1840047636
+Ninemile Bend,Ninemile Bend,,26.6778,-80.5409,United States,US,USA,Florida,Florida,US-FL,state,,0.0,,,5,America/New_York,FALSE,1840047635
+Nowatney,Nowatney,,28.0739,-82.4468,United States,US,USA,Florida,Florida,US-FL,state,,4695.7,,,4,America/New_York,FALSE,1840047637
+Oak Knoll,Oak Knoll,,27.5117,-82.2776,United States,US,USA,Florida,Florida,US-FL,state,,0.0,,,5,America/New_York,FALSE,1840047639
+Ocheesee,Ocheesee,,30.5758,-85.0169,United States,US,USA,Florida,Florida,US-FL,state,,4.6,,,5,America/Chicago,FALSE,1840047641
+Ocala Ridge,Ocala Ridge,,29.1933,-82.2137,United States,US,USA,Florida,Florida,US-FL,state,,845.9,,,4,America/New_York,FALSE,1840047640
+Lair,Lair,,38.3420,-84.3077,United States,US,USA,Kentucky,Kentucky,US-KY,state,,141.5,,,4,America/New_York,FALSE,1840030490
+Kelawea,Kelawea,,20.8826,-156.6713,United States,US,USA,Hawaii,Hawaii,US-HI,state,,1879.5,,,4,Pacific/Honolulu,FALSE,1840050129
+Sugar Hill,Sugar Hill,,40.1523,-80.3101,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,116.4,,,4,America/New_York,FALSE,1840101400
+Parhams,Parhams,,34.4268,-83.2404,United States,US,USA,Georgia,Georgia,US-GA,state,,30.5,,,4,America/New_York,FALSE,1840049358
+Park City,Park City,,34.9456,-85.2669,United States,US,USA,Georgia,Georgia,US-GA,state,,480.4,,,4,America/New_York,FALSE,1840049359
+Paoli,Paoli,,34.0923,-83.0915,United States,US,USA,Georgia,Georgia,US-GA,state,,21.6,,,4,America/New_York,FALSE,1840049356
+Pardue Mill,Pardue Mill,,34.5923,-83.5852,United States,US,USA,Georgia,Georgia,US-GA,state,,92.1,,,4,America/New_York,FALSE,1840049357
+Fayville,Fayville,,43.0062,-73.1115,United States,US,USA,Vermont,Vermont,US-VT,state,,0.0,,,5,America/New_York,FALSE,1840115198
+Fordsbush,Fordsbush,,42.9595,-74.7421,United States,US,USA,New York,New York,US-NY,state,,40.6,,,4,America/New_York,FALSE,1840083770
+Parkers,Parkers,,32.6999,-81.8098,United States,US,USA,Georgia,Georgia,US-GA,state,,6.3,,,5,America/New_York,FALSE,1840049361
+Forest,Forest,,44.9020,-73.7560,United States,US,USA,New York,New York,US-NY,state,,40.7,,,4,America/New_York,FALSE,1840083771
+Van Reeds Mill,Van Reeds Mill,,40.3656,-75.9941,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,79.9,,,4,America/New_York,FALSE,1840104060
+Vankirk,Vankirk,,40.1209,-80.2428,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,103.8,,,4,America/New_York,FALSE,1840104061
+Valley Glenn,Valley Glenn,,40.3451,-76.6158,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,81.7,,,4,America/New_York,FALSE,1840104056
+Valcourt,Valcourt,,41.1162,-80.1181,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,15.5,,,4,America/New_York,FALSE,1840104054
+Valley Falls,Valley Falls,,40.1118,-75.0546,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1131.7,,,4,America/New_York,FALSE,1840104055
+Vawter,Vawter,,41.9262,-76.4063,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,13.3,,,4,America/New_York,FALSE,1840104062
+Furnace Ford,Furnace Ford,,39.2432,-77.4394,United States,US,USA,Maryland,Maryland,US-MD,state,,8.8,,,5,America/New_York,FALSE,1840067259
+Gaither,Gaither,,39.3615,-76.9930,United States,US,USA,Maryland,Maryland,US-MD,state,,327.4,,,4,America/New_York,FALSE,1840067260
+Frogeye,Frogeye,,38.0276,-75.6902,United States,US,USA,Maryland,Maryland,US-MD,state,,8.0,,,5,America/New_York,FALSE,1840067253
+Frostown,Frostown,,39.4832,-77.5894,United States,US,USA,Maryland,Maryland,US-MD,state,,69.6,,,4,America/New_York,FALSE,1840067254
+Fuller,Fuller,,39.4137,-77.4703,United States,US,USA,Maryland,Maryland,US-MD,state,,1197.5,,,4,America/New_York,FALSE,1840067255
+Fullerton,Fullerton,,39.3718,-76.5111,United States,US,USA,Maryland,Maryland,US-MD,state,,984.0,,,4,America/New_York,FALSE,1840067256
+Furnace,Furnace,,39.5834,-76.4952,United States,US,USA,Maryland,Maryland,US-MD,state,,146.2,,,4,America/New_York,FALSE,1840152936
+Furnace Branch,Furnace Branch,,39.1815,-76.6136,United States,US,USA,Maryland,Maryland,US-MD,state,,665.6,,,4,America/New_York,FALSE,1840031341
+Rich Hill,Rich Hill,,36.4732,-80.9901,United States,US,USA,North Carolina,North Carolina,US-NC,state,,36.0,,,4,America/New_York,FALSE,1840090479
+Rhyne,Rhyne,,35.2940,-80.9734,United States,US,USA,North Carolina,North Carolina,US-NC,state,,528.2,,,4,America/New_York,FALSE,1840090475
+Spicer,Spicer,,44.5868,-122.9487,United States,US,USA,Oregon,Oregon,US-OR,state,,12.3,,,4,America/Los_Angeles,FALSE,1840097466
+Ricefield,Ricefield,,34.3660,-78.3958,United States,US,USA,North Carolina,North Carolina,US-NC,state,,35.3,,,4,America/New_York,FALSE,1840090477
+Riceville,Riceville,,35.6326,-82.4701,United States,US,USA,North Carolina,North Carolina,US-NC,state,,119.5,,,4,America/New_York,FALSE,1840090478
+Crucible,Crucible,,39.9479,-79.9657,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,108.2,323,323,3,America/New_York,FALSE,1840026587
+Defiance,Defiance,,40.1599,-78.2319,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,205.3,396,396,3,America/New_York,FALSE,1840026524
+Rollins Mills,Rollins Mills,,44.7295,-69.1456,United States,US,USA,Maine,Maine,US-ME,state,,18.7,,,4,America/New_York,FALSE,1840065928
+Foot of Ten,Foot of Ten,,40.4181,-78.4615,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,367.2,550,550,3,America/New_York,FALSE,1840026414
+Crenshaw,Crenshaw,,41.2488,-78.7541,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,107.9,306,306,3,America/New_York,FALSE,1840026338
+Crown,Crown,,41.3916,-79.2634,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,34.0,223,223,3,America/New_York,FALSE,1840026327
+Baltimore Hill,Baltimore Hill,,34.8368,-86.5422,United States,US,USA,Alabama,Alabama,US-AL,state,,208.1,,,4,America/Chicago,FALSE,1840042212
+Baltic,Baltic,,31.6518,-86.0041,United States,US,USA,Alabama,Alabama,US-AL,state,,0.8,,,5,America/Chicago,FALSE,1840042211
+Mount Washington,Mount Washington,,39.0994,-94.4663,United States,US,USA,Missouri,Missouri,US-MO,state,,1381.8,,,4,America/Chicago,FALSE,1840075902
+Mount Zion,Mount Zion,,37.0134,-92.6610,United States,US,USA,Missouri,Missouri,US-MO,state,,19.0,,,4,America/Chicago,FALSE,1840075903
+Hawley,Hawley,,36.7531,-98.0192,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,3.4,,,5,America/Chicago,FALSE,1840096424
+Ridgeport,Ridgeport,,39.0456,-86.8036,United States,US,USA,Indiana,Indiana,US-IN,state,,23.7,,,4,America/Indiana/Indianapolis,FALSE,1840055948
+Oliver Crossroads,Oliver Crossroads,,34.3846,-79.2637,United States,US,USA,South Carolina,South Carolina,US-SC,state,,9.4,,,5,America/New_York,FALSE,1840107636
+Ora,Ora,,34.5818,-81.9956,United States,US,USA,South Carolina,South Carolina,US-SC,state,,36.6,,,4,America/New_York,FALSE,1840107638
+Kennedy Meadows,Kennedy Meadows,,36.0076,-118.1099,United States,US,USA,California,California,US-CA,state,,6.2,93,93,5,America/Los_Angeles,FALSE,1840042238
+Wren,Wren,,33.9718,-88.5998,United States,US,USA,Mississippi,Mississippi,US-MS,state,,27.3,,,4,America/Chicago,FALSE,1840074575
+Alaska,Alaska,,39.4703,-86.6414,United States,US,USA,Indiana,Indiana,US-IN,state,,24.2,,,4,America/Indiana/Indianapolis,FALSE,1840054190
+Yale,Yale,,36.8457,-77.2875,United States,US,USA,Virginia,Virginia,US-VA,state,,9.2,,,5,America/New_York,FALSE,1840037301
+Yanceyville,Yanceyville,,37.9382,-77.9822,United States,US,USA,Virginia,Virginia,US-VA,state,,29.8,,,4,America/New_York,FALSE,1840116351
+Shadyside,Shadyside,,37.3979,-75.9122,United States,US,USA,Virginia,Virginia,US-VA,state,,24.6,,,4,America/New_York,FALSE,1840116348
+Shadow,Shadow,,37.3493,-76.2966,United States,US,USA,Virginia,Virginia,US-VA,state,,33.8,,,4,America/New_York,FALSE,1840116346
+Shadwell,Shadwell,,38.0129,-78.3956,United States,US,USA,Virginia,Virginia,US-VA,state,,17.9,,,4,America/New_York,FALSE,1840037299
+Wrights Fork,Wrights Fork,,37.9546,-77.3108,United States,US,USA,Virginia,Virginia,US-VA,state,,11.5,,,4,America/New_York,FALSE,1840116350
+Wylliesburg,Wylliesburg,,36.8554,-78.5903,United States,US,USA,Virginia,Virginia,US-VA,state,,16.2,,,4,America/New_York,FALSE,1840037300
+Shannon Hill,Shannon Hill,,37.8818,-78.0383,United States,US,USA,Virginia,Virginia,US-VA,state,,43.6,,,4,America/New_York,FALSE,1840116349
+Williamsport Station,Williamsport Station,,39.5829,-77.8139,United States,US,USA,Maryland,Maryland,US-MD,state,,49.4,,,4,America/New_York,FALSE,1840066703
+Loretto,Loretto,,38.2604,-75.6816,United States,US,USA,Maryland,Maryland,US-MD,state,,48.5,,,4,America/New_York,FALSE,1840067572
+Elza,Elza,,36.0526,-84.2030,United States,US,USA,Tennessee,Tennessee,US-TN,state,,83.7,,,4,America/New_York,FALSE,1840109646
+San Pedro,San Pedro,,32.0834,-111.4882,United States,US,USA,Arizona,Arizona,US-AZ,state,,1.1,,,5,America/Phoenix,FALSE,1840024611
+Plainview,Plainview,,39.8936,-105.2764,United States,US,USA,Colorado,Colorado,US-CO,state,,5.9,,,5,America/Denver,FALSE,1840043818
+Judy Gap,Judy Gap,,38.7068,-79.4645,United States,US,USA,West Virginia,West Virginia,US-WV,state,,7.4,,,5,America/New_York,FALSE,1840121833
+Tipperary,Tipperary,,40.1917,-92.7099,United States,US,USA,Missouri,Missouri,US-MO,state,,14.8,,,4,America/Chicago,FALSE,1840077085
+Timber,Timber,,37.3631,-91.4265,United States,US,USA,Missouri,Missouri,US-MO,state,,1.3,,,5,America/Chicago,FALSE,1840077084
+Toronto,Toronto,,38.0036,-92.5255,United States,US,USA,Missouri,Missouri,US-MO,state,,8.9,,,5,America/Chicago,FALSE,1840077088
+Oleona,Oleona,,41.5562,-77.7017,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,7.1,,,5,America/New_York,FALSE,1840104479
+Tulip,Tulip,,39.3428,-92.1571,United States,US,USA,Missouri,Missouri,US-MO,state,,2.8,,,5,America/Chicago,FALSE,1840077090
+Duane Center,Duane Center,,44.6595,-74.2640,United States,US,USA,New York,New York,US-NY,state,,2.4,,,5,America/New_York,FALSE,1840083522
+Cordova,Cordova,,42.4492,-79.3542,United States,US,USA,New York,New York,US-NY,state,,263.4,,,4,America/New_York,FALSE,1840083391
+Aliceton,Aliceton,,37.5909,-85.0300,United States,US,USA,Kentucky,Kentucky,US-KY,state,,12.5,,,4,America/New_York,FALSE,1840059899
+Coreys,Coreys,,44.2195,-74.3159,United States,US,USA,New York,New York,US-NY,state,,18.7,,,4,America/New_York,FALSE,1840083392
+Berlin,Berlin,,44.2097,-72.6040,United States,US,USA,Vermont,Vermont,US-VT,state,,30.6,2859,2859,4,America/New_York,FALSE,1840115316
+Bethel,Bethel,,43.8503,-72.6728,United States,US,USA,Vermont,Vermont,US-VT,state,,15.7,1850,1850,4,America/New_York,FALSE,1840070384
+Benson,Benson,,43.7125,-73.3079,United States,US,USA,Vermont,Vermont,US-VT,state,,6.7,764,764,4,America/New_York,FALSE,1840070382
+Berkshire,Berkshire,,44.9699,-72.7582,United States,US,USA,Vermont,Vermont,US-VT,state,,15.2,1636,1636,4,America/New_York,FALSE,1840070383
+Bradford,Bradford,,44.0109,-72.1579,United States,US,USA,Vermont,Vermont,US-VT,state,,36.3,2791,2791,4,America/New_York,FALSE,1840070389
+Braintree,Braintree,,43.9693,-72.7203,United States,US,USA,Vermont,Vermont,US-VT,state,,9.4,940,940,4,America/New_York,FALSE,1840115321
+Bloomfield,Bloomfield,,44.8120,-71.6446,United States,US,USA,Vermont,Vermont,US-VT,state,,2.5,255,255,4,America/New_York,FALSE,1840070387
+Bolton,Bolton,,44.3991,-72.8769,United States,US,USA,Vermont,Vermont,US-VT,state,,9.6,1043,1043,4,America/New_York,FALSE,1840070388
+Brandon,Brandon,,43.7995,-73.0800,United States,US,USA,Vermont,Vermont,US-VT,state,,40.0,4114,4114,4,America/New_York,FALSE,1840070390
+Brattleboro,Brattleboro,,42.8619,-72.6145,United States,US,USA,Vermont,Vermont,US-VT,state,,146.5,12162,12162,3,America/New_York,FALSE,1840070391
+Sherwood Acres,Sherwood Acres,,38.5362,-75.1455,United States,US,USA,Delaware,Delaware,US-DE,state,,283.6,,,4,America/New_York,FALSE,1840045440
+Drake,Drake,,34.4727,-79.6670,United States,US,USA,South Carolina,South Carolina,US-SC,state,,2.0,,,5,America/New_York,FALSE,1840106839
+Archville,Archville,,41.1218,-73.8612,United States,US,USA,New York,New York,US-NY,state,,69.6,,,4,America/New_York,FALSE,1840033841
+Arena,Arena,,42.1156,-74.7374,United States,US,USA,New York,New York,US-NY,state,,0.9,,,5,America/New_York,FALSE,1840082901
+Red Row,Red Row,,35.5262,-87.1936,United States,US,USA,Tennessee,Tennessee,US-TN,state,,207.8,,,4,America/Chicago,FALSE,1840110454
+Lamar,Lamar,,39.2561,-97.5748,United States,US,USA,Kansas,Kansas,US-KS,state,,4.0,,,5,America/Chicago,FALSE,1840059680
+Argusville,Argusville,,42.7906,-74.5190,United States,US,USA,New York,New York,US-NY,state,,22.8,,,4,America/New_York,FALSE,1840082902
+Douglas,Douglas,,34.6649,-80.8095,United States,US,USA,South Carolina,South Carolina,US-SC,state,,49.1,,,4,America/New_York,FALSE,1840106837
+Winkler,Winkler,,39.4817,-96.8317,United States,US,USA,Kansas,Kansas,US-KS,state,,0.2,,,5,America/Chicago,FALSE,1840059678
+Union Furnace,Union Furnace,,40.6128,-78.1631,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,12.0,,,4,America/New_York,FALSE,1840101542
+Union Grove,Union Grove,,40.1507,-76.0236,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,119.1,,,4,America/New_York,FALSE,1840101543
+Life,Life,,35.6145,-88.4787,United States,US,USA,Tennessee,Tennessee,US-TN,state,,24.8,,,4,America/Chicago,FALSE,1840110064
+Lasita,Lasita,,39.4089,-96.9425,United States,US,USA,Kansas,Kansas,US-KS,state,,0.3,,,5,America/Chicago,FALSE,1840059677
+Wilson,Wilson,,43.4860,-110.8937,United States,US,USA,Wyoming,Wyoming,US-WY,state,,21.9,1303,1303,3,America/Denver,FALSE,1840018612
+Wheat Sheaf,Wheat Sheaf,,40.1626,-74.7988,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,647.3,,,4,America/New_York,FALSE,1840101756
+Plumwood,Plumwood,,40.0088,-83.4147,United States,US,USA,Ohio,Ohio,US-OH,state,,172.7,278,278,3,America/New_York,FALSE,1840026576
+Chiltonville,Chiltonville,,41.9376,-70.6286,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,328.0,,,4,America/New_York,FALSE,1840069731
+Pancoastburg,Pancoastburg,,39.6240,-83.2642,United States,US,USA,Ohio,Ohio,US-OH,state,,48.2,65,65,3,America/New_York,FALSE,1840026629
+Raymond,Raymond,,40.3350,-83.4635,United States,US,USA,Ohio,Ohio,US-OH,state,,47.2,155,155,3,America/New_York,FALSE,1840026496
+Radnor,Radnor,,40.3852,-83.1459,United States,US,USA,Ohio,Ohio,US-OH,state,,89.5,167,167,3,America/New_York,FALSE,1840026521
+Pulaski,Pulaski,,41.5108,-84.5079,United States,US,USA,Ohio,Ohio,US-OH,state,,106.8,114,114,3,America/New_York,FALSE,1840026277
+Pink,Pink,,38.7854,-81.2201,United States,US,USA,West Virginia,West Virginia,US-WV,state,,8.3,,,5,America/New_York,FALSE,1840122976
+Carr Creek,Carr Creek,,37.2312,-82.9679,United States,US,USA,Kentucky,Kentucky,US-KY,state,,16.9,,,4,America/New_York,FALSE,1840060008
+Richmond Dale,Richmond Dale,,39.2042,-82.8121,United States,US,USA,Ohio,Ohio,US-OH,state,,326.6,423,423,3,America/New_York,FALSE,1840026659
+Fall River Mills,Fall River Mills,,41.0069,-121.4401,United States,US,USA,California,California,US-CA,state,,98.8,678,678,3,America/Los_Angeles,FALSE,1840017492
+Fall City,Fall City,,47.5717,-121.9133,United States,US,USA,Washington,Washington,US-WA,state,,274.5,2018,2018,3,America/Los_Angeles,FALSE,1840017342
+Falcon Village,Falcon Village,,26.5652,-99.1341,United States,US,USA,Texas,Texas,US-TX,state,,38.9,0,0,3,America/Chicago,FALSE,1840018314
+Farmington,Farmington,,37.9299,-121.0044,United States,US,USA,California,California,US-CA,state,,16.9,111,111,3,America/Los_Angeles,FALSE,1840017605
+Flush,Flush,,39.2944,-96.4406,United States,US,USA,Kansas,Kansas,US-KS,state,,4.6,,,5,America/Chicago,FALSE,1840059683
+Fallon Station,Fallon Station,,39.4150,-118.7165,United States,US,USA,Nevada,Nevada,US-NV,state,,127.4,938,938,4,America/Los_Angeles,FALSE,1840073918
+Fallon,Fallon,,46.8373,-105.1270,United States,US,USA,Montana,Montana,US-MT,state,,27.4,360,360,3,America/Denver,FALSE,1840017367
+High Bridge Estates,High Bridge Estates,,38.9804,-76.7769,United States,US,USA,Maryland,Maryland,US-MD,state,,1036.8,,,4,America/New_York,FALSE,1840068462
+Ladysmith,Ladysmith,,39.2714,-97.1845,United States,US,USA,Kansas,Kansas,US-KS,state,,1.8,,,5,America/Chicago,FALSE,1840059682
+Winthrop Highlands,Winthrop Highlands,,42.3876,-70.9717,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,4839.9,,,4,America/New_York,FALSE,1840069514
+Franconia,Franconia,,45.3702,-92.6916,United States,US,USA,Minnesota,Minnesota,US-MN,state,,18.4,,,4,America/Chicago,FALSE,1840071412
+Wahoo,Wahoo,,39.4551,-80.2267,United States,US,USA,West Virginia,West Virginia,US-WV,state,,146.3,,,4,America/New_York,FALSE,1840123329
+Pleasant Mills,Pleasant Mills,,40.7778,-84.8422,United States,US,USA,Indiana,Indiana,US-IN,state,,113.4,139,139,4,America/Indiana/Indianapolis,FALSE,1840055419
+Pleasant Lake,Pleasant Lake,,41.5753,-85.0161,United States,US,USA,Indiana,Indiana,US-IN,state,,479.7,810,810,4,America/Indiana/Indianapolis,FALSE,1840030002
+Athertonville,Athertonville,,37.6356,-85.6041,United States,US,USA,Kentucky,Kentucky,US-KY,state,,42.9,,,4,America/New_York,FALSE,1840030370
+Forest Park,Forest Park,,41.1923,-75.7849,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,239.8,,,4,America/New_York,FALSE,1840099372
+Maricopa Colony,Maricopa Colony,,33.3626,-112.2267,United States,US,USA,Arizona,Arizona,US-AZ,state,,43.3,615,615,4,America/Phoenix,FALSE,1840042770
+Lower Santan Village,Lower Santan Village,,33.1427,-111.7853,United States,US,USA,Arizona,Arizona,US-AZ,state,,21.0,226,226,4,America/Phoenix,FALSE,1840042769
+Sacaton Flats Village,Sacaton Flats Village,,33.0559,-111.6590,United States,US,USA,Arizona,Arizona,US-AZ,state,,22.4,385,385,4,America/Phoenix,FALSE,1840042786
+Sacate Village,Sacate Village,,33.1416,-111.9811,United States,US,USA,Arizona,Arizona,US-AZ,state,,22.3,171,171,4,America/Phoenix,FALSE,1840042772
+Santa Cruz,Santa Cruz,,33.2327,-112.1594,United States,US,USA,Arizona,Arizona,US-AZ,state,,21.1,89,89,3,America/Phoenix,FALSE,1840025878
+Sweet Water Village,Sweet Water Village,,33.1274,-111.8424,United States,US,USA,Arizona,Arizona,US-AZ,state,,55.0,114,114,4,America/Phoenix,FALSE,1840042801
+Stotonic Village,Stotonic Village,,33.1528,-111.8167,United States,US,USA,Arizona,Arizona,US-AZ,state,,35.5,470,470,4,America/Phoenix,FALSE,1840042796
+Wet Camp Village,Wet Camp Village,,33.1413,-111.9004,United States,US,USA,Arizona,Arizona,US-AZ,state,,14.4,171,171,4,America/Phoenix,FALSE,1840042806
+Upper Santan Village,Upper Santan Village,,33.1152,-111.7419,United States,US,USA,Arizona,Arizona,US-AZ,state,,42.0,733,733,4,America/Phoenix,FALSE,1840042802
+Donner Crossroads,Donner Crossroads,,41.4278,-80.3803,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,130.7,,,4,America/New_York,FALSE,1840102277
+Lawrence,Lawrence,,32.3251,-89.2328,United States,US,USA,Mississippi,Mississippi,US-MS,state,,44.2,,,4,America/Chicago,FALSE,1840075361
+Wilderness,Wilderness,,36.7889,-91.1921,United States,US,USA,Missouri,Missouri,US-MO,state,,1.5,,,5,America/Chicago,FALSE,1840032222
+College Station,College Station,,34.7057,-92.2297,United States,US,USA,Arkansas,Arkansas,US-AR,state,,81.1,230,230,3,America/Chicago,FALSE,1840013083
+Birch Creek,Birch Creek,,45.2028,-87.6112,United States,US,USA,Michigan,Michigan,US-MI,state,,13.3,,,4,America/Menominee,FALSE,1840070521
+Birch Beach,Birch Beach,,43.2020,-82.5124,United States,US,USA,Michigan,Michigan,US-MI,state,,288.6,,,4,America/Detroit,FALSE,1840070520
+Glendale,Glendale,,30.8630,-86.1144,United States,US,USA,Florida,Florida,US-FL,state,,67.7,,,4,America/Chicago,FALSE,1840028685
+West Patterson,West Patterson,,41.5101,-73.6307,United States,US,USA,New York,New York,US-NY,state,,110.0,,,4,America/New_York,FALSE,1840087009
+Coveytown,Coveytown,,41.5467,-76.4538,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,10.0,,,5,America/New_York,FALSE,1840102700
+Craig,Craig,,41.5554,-75.6641,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,24.7,,,4,America/New_York,FALSE,1840102703
+Crabapple,Crabapple,,39.9198,-80.4753,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,7.0,,,5,America/New_York,FALSE,1840102702
+Imperial Estates,Imperial Estates,,35.9895,-84.0963,United States,US,USA,Tennessee,Tennessee,US-TN,state,,860.3,,,4,America/New_York,FALSE,1840109942
+Cressey,Cressey,,37.4210,-120.6557,United States,US,USA,California,California,US-CA,state,,79.0,360,360,3,America/Los_Angeles,FALSE,1840022557
+Pilot Hill,Pilot Hill,,38.8349,-121.0144,United States,US,USA,California,California,US-CA,state,,116.8,,,4,America/Los_Angeles,FALSE,1840028004
+Oldport,Oldport,,41.9948,-83.2866,United States,US,USA,Michigan,Michigan,US-MI,state,,221.2,,,4,America/Detroit,FALSE,1840071100
+Olive Center,Olive Center,,42.9142,-86.0814,United States,US,USA,Michigan,Michigan,US-MI,state,,71.0,,,4,America/Detroit,FALSE,1840071101
+Fork,Fork,,34.2882,-79.2753,United States,US,USA,South Carolina,South Carolina,US-SC,state,,55.5,,,4,America/New_York,FALSE,1840107585
+Dumplin Mill,Dumplin Mill,,35.9973,-83.5635,United States,US,USA,Tennessee,Tennessee,US-TN,state,,19.2,,,4,America/New_York,FALSE,1840111497
+Akers,Akers,,30.2902,-90.4018,United States,US,USA,Louisiana,Louisiana,US-LA,state,,14.1,,,4,America/Chicago,FALSE,1840063349
+Actis,Actis,,34.9586,-118.1487,United States,US,USA,California,California,US-CA,state,,13.2,,,4,America/Los_Angeles,FALSE,1840045950
+Eridu,Eridu,,30.3019,-83.7471,United States,US,USA,Florida,Florida,US-FL,state,,11.8,,,4,America/New_York,FALSE,1840028674
+Lingshire,Lingshire,,46.8411,-111.4075,United States,US,USA,Montana,Montana,US-MT,state,,0.0,,,5,America/Denver,FALSE,1840078267
+Pilibos Ranch,Pilibos Ranch,,36.6836,-120.5143,United States,US,USA,California,California,US-CA,state,,1.6,,,5,America/Los_Angeles,FALSE,1840045909
+Griminger,Griminger,,38.7196,-120.4102,United States,US,USA,California,California,US-CA,state,,0.0,,,5,America/Los_Angeles,FALSE,1840130270
+Blaine Hill,Blaine Hill,,40.2737,-79.8750,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,417.8,,,4,America/New_York,FALSE,1840035277
+Pennwood,Pennwood,,39.1273,-75.5130,United States,US,USA,Delaware,Delaware,US-DE,state,,1026.4,,,4,America/New_York,FALSE,1840045700
+Buckton,Buckton,,44.7384,-74.7871,United States,US,USA,New York,New York,US-NY,state,,20.5,,,4,America/New_York,FALSE,1840087022
+Helemano,Helemano,,21.5362,-158.0194,United States,US,USA,Hawaii,Hawaii,US-HI,state,,2767.7,3334,3334,2,Pacific/Honolulu,FALSE,1840152937
+Seaview,Seaview,,19.4067,-154.9214,United States,US,USA,Hawaii,Hawaii,US-HI,state,,135.0,230,230,4,Pacific/Honolulu,FALSE,1840152938
+Volcano Golf Course,Volcano Golf Course,,19.4424,-155.2789,United States,US,USA,Hawaii,Hawaii,US-HI,state,,414.6,996,996,3,Pacific/Honolulu,FALSE,1840152939
+South Lakes,South Lakes,,61.5874,-149.3160,United States,US,USA,Alaska,Alaska,US-AK,state,,317.2,6414,6414,3,America/Anchorage,FALSE,1840152940
+North Lakes,North Lakes,,61.6191,-149.3110,United States,US,USA,Alaska,Alaska,US-AK,state,,255.9,10262,10262,3,America/Anchorage,FALSE,1840152941
+Eareckson Station,Eareckson Station,,52.7213,174.1110,United States,US,USA,Alaska,Alaska,US-AK,state,,11.7,166,166,4,America/Adak,FALSE,1840152942
+Pensacola Station,Pensacola Station,,30.3541,-87.3050,United States,US,USA,Florida,Florida,US-FL,state,,223.6,5015,5015,3,America/Chicago,FALSE,1840152943
+Liberty Triangle,Liberty Triangle,,29.0760,-82.2191,United States,US,USA,Florida,Florida,US-FL,state,,489.2,23112,23112,3,America/New_York,FALSE,1840152944
+Old Miakka,Old Miakka,,27.3199,-82.2777,United States,US,USA,Florida,Florida,US-FL,state,,50.0,1578,1578,4,America/New_York,FALSE,1840152945
+Marco Shores-Hammock Bay,Marco Shores-Hammock Bay,,25.9964,-81.6889,United States,US,USA,Florida,Florida,US-FL,state,,268.7,617,617,3,America/New_York,FALSE,1840152946
+Hurlburt Field,Hurlburt Field,,30.4289,-86.6989,United States,US,USA,Florida,Florida,US-FL,state,,106.4,2780,2780,4,America/Chicago,FALSE,1840152947
+Silver Springs Shores East,Silver Springs Shores East,,29.0496,-81.8875,United States,US,USA,Florida,Florida,US-FL,state,,57.0,1126,1126,4,America/New_York,FALSE,1840152948
+Francestown,Francestown,,42.9895,-71.8141,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,53.1,129,129,3,America/New_York,FALSE,1840152949
+New Boston,New Boston,,42.9781,-71.6937,United States,US,USA,New Hampshire,New Hampshire,US-NH,state,,160.9,215,215,3,America/New_York,FALSE,1840152950
+Danby,Danby,,43.3452,-72.9946,United States,US,USA,Vermont,Vermont,US-VT,state,,96.2,178,178,3,America/New_York,FALSE,1840152951
+Bolton,Bolton,,44.3742,-72.8859,United States,US,USA,Vermont,Vermont,US-VT,state,,32.8,37,37,3,America/New_York,FALSE,1840152952
+Pownal,Pownal,,42.7653,-73.2355,United States,US,USA,Vermont,Vermont,US-VT,state,,418.7,556,556,3,America/New_York,FALSE,1840152953
+Jamaica,Jamaica,,43.0975,-72.7784,United States,US,USA,Vermont,Vermont,US-VT,state,,34.2,68,68,3,America/New_York,FALSE,1840152954
+Grafton,Grafton,,43.1706,-72.6084,United States,US,USA,Vermont,Vermont,US-VT,state,,32.9,87,87,3,America/New_York,FALSE,1840152955
+Middletown Springs,Middletown Springs,,43.4865,-73.1232,United States,US,USA,Vermont,Vermont,US-VT,state,,85.1,153,153,3,America/New_York,FALSE,1840152956
+Wardsboro,Wardsboro,,43.0435,-72.7889,United States,US,USA,Vermont,Vermont,US-VT,state,,101.3,98,98,3,America/New_York,FALSE,1840152957
+Chittenden,Chittenden,,43.7039,-72.9494,United States,US,USA,Vermont,Vermont,US-VT,state,,122.4,156,156,3,America/New_York,FALSE,1840152958
+New Haven,New Haven,,44.1266,-73.1510,United States,US,USA,Vermont,Vermont,US-VT,state,,24.3,168,168,3,America/New_York,FALSE,1840152959
+Pawlet,Pawlet,,43.3481,-73.1743,United States,US,USA,Vermont,Vermont,US-VT,state,,46.1,303,303,3,America/New_York,FALSE,1840152960
+Londonderry,Londonderry,,43.2278,-72.8083,United States,US,USA,Vermont,Vermont,US-VT,state,,93.8,68,68,3,America/New_York,FALSE,1840152961
+Bakersfield,Bakersfield,,44.7821,-72.8032,United States,US,USA,Vermont,Vermont,US-VT,state,,164.4,443,443,3,America/New_York,FALSE,1840152962
+Algiers,Algiers,,42.8182,-72.5771,United States,US,USA,Vermont,Vermont,US-VT,state,,134.2,226,226,4,America/New_York,FALSE,1840152963
+Sheffield,Sheffield,,44.5996,-72.1160,United States,US,USA,Vermont,Vermont,US-VT,state,,116.4,194,194,3,America/New_York,FALSE,1840152964
+Peacham,Peacham,,44.3296,-72.1725,United States,US,USA,Vermont,Vermont,US-VT,state,,56.1,224,224,3,America/New_York,FALSE,1840152965
+Lyndon,Lyndon,,44.5154,-72.0134,United States,US,USA,Vermont,Vermont,US-VT,state,,220.8,116,116,3,America/New_York,FALSE,1840152966
+Westford,Westford,,44.6079,-73.0113,United States,US,USA,Vermont,Vermont,US-VT,state,,67.4,203,203,3,America/New_York,FALSE,1840152967
+Weston,Weston,,43.2904,-72.7922,United States,US,USA,Vermont,Vermont,US-VT,state,,25.4,39,39,3,America/New_York,FALSE,1840152968
+Proctor,Proctor,,43.6691,-73.0405,United States,US,USA,Vermont,Vermont,US-VT,state,,173.4,1652,1652,3,America/New_York,FALSE,1840152969
+Townshend,Townshend,,43.0470,-72.6692,United States,US,USA,Vermont,Vermont,US-VT,state,,71.4,170,170,3,America/New_York,FALSE,1840152970
+Hartford Village,Hartford Village,,43.6638,-72.3364,United States,US,USA,Vermont,Vermont,US-VT,state,,158.1,479,479,4,America/New_York,FALSE,1840152971
+Lincoln,Lincoln,,44.1028,-72.9937,United States,US,USA,Vermont,Vermont,US-VT,state,,42.4,259,259,3,America/New_York,FALSE,1840152972
+Lunenburg,Lunenburg,,44.4570,-71.6803,United States,US,USA,Vermont,Vermont,US-VT,state,,52.0,342,342,3,America/New_York,FALSE,1840152973
+Sutton,Sutton,,44.6290,-72.0277,United States,US,USA,Vermont,Vermont,US-VT,state,,33.6,155,155,3,America/New_York,FALSE,1840152974
+Huntington,Huntington,,44.3274,-72.9892,United States,US,USA,Vermont,Vermont,US-VT,state,,276.5,589,589,3,America/New_York,FALSE,1840152975
+Underhill Flats,Underhill Flats,,44.5232,-72.9463,United States,US,USA,Vermont,Vermont,US-VT,state,,335.6,650,650,3,America/New_York,FALSE,1840152976
+Stamford,Stamford,,42.7595,-73.0562,United States,US,USA,Vermont,Vermont,US-VT,state,,38.4,533,533,3,America/New_York,FALSE,1840152977
+South Hero,South Hero,,44.6479,-73.3017,United States,US,USA,Vermont,Vermont,US-VT,state,,57.8,162,162,3,America/New_York,FALSE,1840152978
+Castleton Four Corners,Castleton Four Corners,,43.6105,-73.2104,United States,US,USA,Vermont,Vermont,US-VT,state,,141.6,780,780,4,America/New_York,FALSE,1840152979
+Whitingham,Whitingham,,42.7892,-72.8834,United States,US,USA,Vermont,Vermont,US-VT,state,,70.0,109,109,3,America/New_York,FALSE,1840152980
+Wolcott,Wolcott,,44.5476,-72.4617,United States,US,USA,Vermont,Vermont,US-VT,state,,74.1,171,171,3,America/New_York,FALSE,1840152981
+Oakfield,Oakfield,,46.1020,-68.1518,United States,US,USA,Maine,Maine,US-ME,state,,48.7,427,427,3,America/New_York,FALSE,1840152982
+Bradley,Bradley,,44.9127,-68.6246,United States,US,USA,Maine,Maine,US-ME,state,,167.8,884,884,3,America/New_York,FALSE,1840152983
+Sabattus,Sabattus,,44.1210,-70.1070,United States,US,USA,Maine,Maine,US-ME,state,,341.2,621,621,3,America/New_York,FALSE,1840152984
+Danforth,Danforth,,45.6595,-67.8682,United States,US,USA,Maine,Maine,US-ME,state,,73.9,474,474,3,America/New_York,FALSE,1840152985
+Grand Isle,Grand Isle,,47.3065,-68.1552,United States,US,USA,Maine,Maine,US-ME,state,,138.4,222,222,3,America/Moncton,FALSE,1840152986
+Turner,Turner,,44.2581,-70.2580,United States,US,USA,Maine,Maine,US-ME,state,,143.5,541,541,3,America/New_York,FALSE,1840152987
+Bethel,Bethel,,44.4038,-70.7863,United States,US,USA,Maine,Maine,US-ME,state,,133.0,561,561,3,America/New_York,FALSE,1840152988
+Patten,Patten,,46.0043,-68.4427,United States,US,USA,Maine,Maine,US-ME,state,,73.8,380,380,3,America/New_York,FALSE,1840152989
+Mattawamkeag,Mattawamkeag,,45.5177,-68.3523,United States,US,USA,Maine,Maine,US-ME,state,,58.6,431,431,3,America/New_York,FALSE,1840152990
+Greene,Greene,,44.1898,-70.1418,United States,US,USA,Maine,Maine,US-ME,state,,141.5,950,950,3,America/New_York,FALSE,1840152991
+Kingfield,Kingfield,,44.9582,-70.1592,United States,US,USA,Maine,Maine,US-ME,state,,63.8,601,601,3,America/New_York,FALSE,1840152992
+Vanceboro,Vanceboro,,45.5674,-67.4293,United States,US,USA,Maine,Maine,US-ME,state,,82.8,154,154,3,America/New_York,FALSE,1840152993
+Milbridge,Milbridge,,44.5343,-67.8903,United States,US,USA,Maine,Maine,US-ME,state,,101.4,481,481,3,America/New_York,FALSE,1840152994
+South Berwick,South Berwick,,43.2321,-70.7963,United States,US,USA,Maine,Maine,US-ME,state,,485.9,3453,3453,3,America/New_York,FALSE,1840152995
+Jonesport,Jonesport,,44.5338,-67.6152,United States,US,USA,Maine,Maine,US-ME,state,,175.1,723,723,3,America/New_York,FALSE,1840152996
+Island Falls,Island Falls,,46.0081,-68.2648,United States,US,USA,Maine,Maine,US-ME,state,,104.6,342,342,3,America/New_York,FALSE,1840152997
+Rangeley,Rangeley,,44.9643,-70.6467,United States,US,USA,Maine,Maine,US-ME,state,,84.4,568,568,3,America/New_York,FALSE,1840152998
+Lisbon,Lisbon,,44.0289,-70.1076,United States,US,USA,Maine,Maine,US-ME,state,,388.1,3470,3470,3,America/New_York,FALSE,1840152999
+Veazie,Veazie,,44.8407,-68.7134,United States,US,USA,Maine,Maine,US-ME,state,,238.6,1869,1869,3,America/New_York,FALSE,1840153000
+Corinna,Corinna,,44.9223,-69.2628,United States,US,USA,Maine,Maine,US-ME,state,,100.8,556,556,3,America/New_York,FALSE,1840153001
+Cornish,Cornish,,43.8005,-70.7994,United States,US,USA,Maine,Maine,US-ME,state,,141.8,1115,1115,3,America/New_York,FALSE,1840153002
+Walworth,Walworth,,43.1396,-77.2793,United States,US,USA,New York,New York,US-NY,state,,227.8,865,865,3,America/New_York,FALSE,1840153003
+Westford,Westford,,42.6511,-74.8005,United States,US,USA,New York,New York,US-NY,state,,20.7,88,88,3,America/New_York,FALSE,1840153004
+Fallsburg,Fallsburg,,41.7343,-74.6112,United States,US,USA,New York,New York,US-NY,state,,228.7,1996,1996,3,America/New_York,FALSE,1840153005
+Marcy,Marcy,,43.1373,-75.2680,United States,US,USA,New York,New York,US-NY,state,,177.8,791,791,3,America/New_York,FALSE,1840153006
+Jefferson,Jefferson,,42.4813,-74.6062,United States,US,USA,New York,New York,US-NY,state,,51.8,143,143,3,America/New_York,FALSE,1840153007
+Danby,Danby,,42.3567,-76.4817,United States,US,USA,New York,New York,US-NY,state,,35.5,318,318,3,America/New_York,FALSE,1840153008
+White Lake,White Lake,,43.5408,-75.1473,United States,US,USA,New York,New York,US-NY,state,,21.5,114,114,3,America/New_York,FALSE,1840153009
+New Baltimore,New Baltimore,,42.4489,-73.7941,United States,US,USA,New York,New York,US-NY,state,,102.4,466,466,3,America/New_York,FALSE,1840153010
+De Witt,De Witt,,43.0300,-76.0819,United States,US,USA,New York,New York,US-NY,state,,670.4,11261,11261,3,America/New_York,FALSE,1840153011
+Clifton Knolls-Mill Creek,Clifton Knolls-Mill Creek,,42.8482,-73.8082,United States,US,USA,New York,New York,US-NY,state,,965.7,3962,3962,3,America/New_York,FALSE,1840153012
+Gray,Gray,,40.6576,-78.2521,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,22.3,102,102,3,America/New_York,FALSE,1840153013
+Nottingham,Nottingham,,39.7509,-76.0258,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,174.1,1460,1460,3,America/New_York,FALSE,1840153014
+Carlisle Barracks,Carlisle Barracks,,40.2101,-77.1730,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1344.6,583,583,3,America/New_York,FALSE,1840153015
+Maxatawny,Maxatawny,,40.5413,-75.6919,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,60.0,64,64,3,America/New_York,FALSE,1840153016
+Frankstown,Frankstown,,40.4444,-78.3558,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,71.2,47,47,3,America/New_York,FALSE,1840153017
+Cheltenham Village,Cheltenham Village,,40.0632,-75.0934,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,2609.9,1849,1849,2,America/New_York,FALSE,1840153018
+Jugtown,Jugtown,,40.3363,-78.3270,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,13.9,15,15,4,America/New_York,FALSE,1840153019
+Millerstown,Millerstown,,40.2771,-78.3029,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,28.0,0,0,3,America/New_York,FALSE,1840153020
+Vicksburg,Vicksburg,,40.3698,-78.4158,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,177.8,74,74,3,America/New_York,FALSE,1840153021
+Spring Drive Mobile Home Park,Spring Drive Mobile Home Park,,40.3071,-78.3301,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1088.7,195,195,3,America/New_York,FALSE,1840153022
+Beavertown,Beavertown,,40.3737,-78.2370,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,28.7,23,23,3,America/New_York,FALSE,1840153023
+Bala Cynwyd,Bala Cynwyd,,40.0116,-75.2283,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1520.8,9020,9020,3,America/New_York,FALSE,1840153024
+Wayne,Wayne,,40.0409,-75.3945,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,1288.5,7088,7088,3,America/New_York,FALSE,1840153025
+Ski Gap,Ski Gap,,40.3160,-78.5174,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,45.0,38,38,4,America/New_York,FALSE,1840153026
+Chadds Ford,Chadds Ford,,39.8742,-75.6040,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,223.5,1300,1300,3,America/New_York,FALSE,1840153027
+Westwood,Westwood,,40.3331,-78.9537,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,443.6,1480,1480,3,America/New_York,FALSE,1840153028
+Red Hill,Red Hill,,40.5296,-78.4356,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,57.5,187,187,3,America/New_York,FALSE,1840153029
+Marshallton,Marshallton,,39.9496,-75.6781,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,506.4,597,597,3,America/New_York,FALSE,1840153030
+Unionville,Unionville,,39.8977,-75.7304,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,326.1,722,722,3,America/New_York,FALSE,1840153031
+Bald Eagle,Bald Eagle,,40.7262,-78.1902,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,96.6,161,161,3,America/New_York,FALSE,1840153032
+Frazer,Frazer,,40.0374,-75.5560,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,674.6,3695,3695,3,America/New_York,FALSE,1840153033
+Newburg,Newburg,,40.5214,-78.4217,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,705.9,227,227,3,America/New_York,FALSE,1840153034
+Penn State Berks,Penn State Berks,,40.3612,-75.9760,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,773.6,834,834,3,America/New_York,FALSE,1840153035
+Fredericksburg,Fredericksburg,,40.3103,-78.2862,United States,US,USA,Pennsylvania,Pennsylvania,US-PA,state,,108.2,145,145,4,America/New_York,FALSE,1840153036
+Mount Tabor,Mount Tabor,,40.8717,-74.4759,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,1663.5,1116,1116,3,America/New_York,FALSE,1840153037
+Bedminster,Bedminster,,40.6745,-74.6592,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,115.1,1386,1386,3,America/New_York,FALSE,1840153038
+Lakeside-Beebe Run,Lakeside-Beebe Run,,39.4522,-75.2497,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,313.9,176,176,3,America/New_York,FALSE,1840153039
+Deerfield Street,Deerfield Street,,39.5212,-75.2421,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,11.0,50,50,4,America/New_York,FALSE,1840153040
+Marlboro,Marlboro,,39.4860,-75.3215,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,72.0,75,75,3,America/New_York,FALSE,1840153041
+Greenwich,Greenwich,,39.3910,-75.3432,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,76.8,167,167,3,America/New_York,FALSE,1840153042
+Union,Union,,40.6966,-74.2693,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,2859.3,2974,2974,2,America/New_York,FALSE,1840153043
+Springfield,Springfield,,40.7060,-74.3130,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,1454.2,1461,1461,3,America/New_York,FALSE,1840153044
+Lower Berkshire Valley,Lower Berkshire Valley,,40.9132,-74.6104,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,180.3,471,471,3,America/New_York,FALSE,1840153045
+Rutgers University-Livingston Campus,Rutgers University-Livingston Campus,,40.5198,-74.4403,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,743.1,2571,2571,3,America/New_York,FALSE,1840153046
+Hillsborough,Hillsborough,,40.5069,-74.6523,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,1055.0,21865,21865,3,America/New_York,FALSE,1840153047
+Bridgewater Center,Bridgewater Center,,40.6037,-74.6445,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,404.1,6106,6106,3,America/New_York,FALSE,1840153048
+Rutgers University-Busch Campus,Rutgers University-Busch Campus,,40.5214,-74.4654,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,2103.4,6663,6663,2,America/New_York,FALSE,1840153049
+Cranford,Cranford,,40.6548,-74.3053,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,1823.7,1728,1728,3,America/New_York,FALSE,1840153050
+Ampere North,Ampere North,,40.7758,-74.1918,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,3282.1,5164,5164,2,America/New_York,FALSE,1840153051
+Cumberland-Hesstown,Cumberland-Hesstown,,39.3641,-74.9284,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,31.4,207,207,4,America/New_York,FALSE,1840153052
+Silver Lake,Silver Lake,,39.4675,-75.2408,United States,US,USA,New Jersey,New Jersey,US-NJ,state,,386.8,1433,1433,3,America/New_York,FALSE,1840153053
+Brown Station,Brown Station,,38.8539,-76.7978,United States,US,USA,Maryland,Maryland,US-MD,state,,228.4,3648,3648,3,America/New_York,FALSE,1840153054
+Ten Mile Creek,Ten Mile Creek,,39.2267,-77.3101,United States,US,USA,Maryland,Maryland,US-MD,state,,77.1,1156,1156,4,America/New_York,FALSE,1840153055
+Hutchison,Hutchison,,38.9636,-77.4110,United States,US,USA,Virginia,Virginia,US-VA,state,,4888.5,6947,6947,2,America/New_York,FALSE,1840153056
+Big Stone Gap East,Big Stone Gap East,,36.8785,-82.7444,United States,US,USA,Virginia,Virginia,US-VA,state,,529.0,656,656,3,America/New_York,FALSE,1840153057
+Schooner Bay,Schooner Bay,,37.7630,-75.7680,United States,US,USA,Virginia,Virginia,US-VA,state,,62.7,47,47,4,America/New_York,FALSE,1840153058
+Great Falls Crossing,Great Falls Crossing,,38.9808,-77.3256,United States,US,USA,Virginia,Virginia,US-VA,state,,946.7,1462,1462,3,America/New_York,FALSE,1840153059
+Innovation,Innovation,,38.7539,-77.5248,United States,US,USA,Virginia,Virginia,US-VA,state,,185.8,1389,1389,4,America/New_York,FALSE,1840153060
+Difficult Run,Difficult Run,,38.9016,-77.3471,United States,US,USA,Virginia,Virginia,US-VA,state,,480.8,10434,10434,3,America/New_York,FALSE,1840153061
+Sully Square,Sully Square,,38.9183,-77.4248,United States,US,USA,Virginia,Virginia,US-VA,state,,1246.0,2560,2560,3,America/New_York,FALSE,1840153062
+Bull Run,Bull Run,,38.8396,-77.4897,United States,US,USA,Virginia,Virginia,US-VA,state,,200.9,7504,7504,3,America/New_York,FALSE,1840153063
+Braddock,Braddock,,38.8308,-77.3565,United States,US,USA,Virginia,Virginia,US-VA,state,,385.1,6360,6360,3,America/New_York,FALSE,1840153064
+Union Mill,Union Mill,,38.7978,-77.3815,United States,US,USA,Virginia,Virginia,US-VA,state,,166.3,4302,4302,3,America/New_York,FALSE,1840153065
+Camp Barrett,Camp Barrett,,38.5198,-77.4441,United States,US,USA,Virginia,Virginia,US-VA,state,,84.8,1506,1506,4,America/New_York,FALSE,1840153066
+Harrisburg,Harrisburg,,40.8873,-81.2300,United States,US,USA,Ohio,Ohio,US-OH,state,,48.9,224,224,3,America/New_York,FALSE,1840153067
+Hidden Lakes,Hidden Lakes,,40.5479,-82.7632,United States,US,USA,Ohio,Ohio,US-OH,state,,18.6,,,3,America/New_York,FALSE,1840153068
+Lincoln Heights,Lincoln Heights,,40.7673,-82.4795,United States,US,USA,Ohio,Ohio,US-OH,state,,498.5,687,687,3,America/New_York,FALSE,1840153069
+Salem Heights,Salem Heights,,40.9031,-80.8871,United States,US,USA,Ohio,Ohio,US-OH,state,,101.9,176,176,3,America/New_York,FALSE,1840153070
+Shiloh,Shiloh,,39.8159,-84.2317,United States,US,USA,Ohio,Ohio,US-OH,state,,1039.1,10539,10539,3,America/New_York,FALSE,1840153071
+Lakewood,Lakewood,,39.3235,-88.8981,United States,US,USA,Illinois,Illinois,US-IL,state,,18.4,19,19,3,America/Chicago,FALSE,1840153072
+Kingston,Kingston,,39.8198,-91.0274,United States,US,USA,Illinois,Illinois,US-IL,state,,24.5,118,118,3,America/Chicago,FALSE,1840153073
+Campbell's Island,Campbell's Island,,41.5407,-90.4300,United States,US,USA,Illinois,Illinois,US-IL,state,,355.0,417,417,3,America/Chicago,FALSE,1840153074
+Rest Haven,Rest Haven,,41.2577,-88.1311,United States,US,USA,Illinois,Illinois,US-IL,state,,281.5,499,499,3,America/Chicago,FALSE,1840153075
+Lowpoint,Lowpoint,,40.8729,-89.3138,United States,US,USA,Illinois,Illinois,US-IL,state,,185.9,156,156,4,America/Chicago,FALSE,1840153076
+Stratford Downtown,Stratford Downtown,,41.1989,-73.1276,United States,US,USA,Connecticut,Connecticut,US-CT,state,,1204.7,1949,1949,3,America/New_York,FALSE,1840153077
+Redding Center,Redding Center,,41.3067,-73.3831,United States,US,USA,Connecticut,Connecticut,US-CT,state,,144.6,258,258,4,America/New_York,FALSE,1840153078
+Sherman,Sherman,,41.5746,-73.4957,United States,US,USA,Connecticut,Connecticut,US-CT,state,,75.2,33,33,3,America/New_York,FALSE,1840153079
+Lakes East,Lakes East,,41.3314,-73.4911,United States,US,USA,Connecticut,Connecticut,US-CT,state,,620.2,1457,1457,3,America/New_York,FALSE,1840153080
+Cornwall,Cornwall,,41.8443,-73.3327,United States,US,USA,Connecticut,Connecticut,US-CT,state,,56.8,83,83,3,America/New_York,FALSE,1840153081
+Bridgewater,Bridgewater,,41.5347,-73.3646,United States,US,USA,Connecticut,Connecticut,US-CT,state,,176.2,142,142,3,America/New_York,FALSE,1840153082
+Westport Village,Westport Village,,41.1428,-73.3609,United States,US,USA,Connecticut,Connecticut,US-CT,state,,809.2,2668,2668,3,America/New_York,FALSE,1840153083
+Trumbull Center,Trumbull Center,,41.2415,-73.1836,United States,US,USA,Connecticut,Connecticut,US-CT,state,,699.7,10335,10335,3,America/New_York,FALSE,1840153084
+Taylor Corners,Taylor Corners,,41.4464,-73.5288,United States,US,USA,Connecticut,Connecticut,US-CT,state,,437.8,566,566,3,America/New_York,FALSE,1840153085
+Staples,Staples,,41.1508,-73.3283,United States,US,USA,Connecticut,Connecticut,US-CT,state,,639.2,7200,7200,3,America/New_York,FALSE,1840153086
+Darien Downtown,Darien Downtown,,41.0768,-73.4699,United States,US,USA,Connecticut,Connecticut,US-CT,state,,576.7,1177,1177,3,America/New_York,FALSE,1840153087
+Route 7 Gateway,Route 7 Gateway,,41.3171,-73.4746,United States,US,USA,Connecticut,Connecticut,US-CT,state,,574.6,1009,1009,3,America/New_York,FALSE,1840153088
+New Canaan,New Canaan,,41.1420,-73.4905,United States,US,USA,Connecticut,Connecticut,US-CT,state,,1710.5,6863,6863,3,America/New_York,FALSE,1840153089
+Weston,Weston,,41.2033,-73.3788,United States,US,USA,Connecticut,Connecticut,US-CT,state,,205.3,797,797,3,America/New_York,FALSE,1840153090
+Long Hill,Long Hill,,41.2666,-73.2283,United States,US,USA,Connecticut,Connecticut,US-CT,state,,988.1,8279,8279,3,America/New_York,FALSE,1840153091
+Lakes West,Lakes West,,41.3350,-73.5130,United States,US,USA,Connecticut,Connecticut,US-CT,state,,391.1,1358,1358,3,America/New_York,FALSE,1840153092
+Poplar Plains,Poplar Plains,,41.1714,-73.3771,United States,US,USA,Connecticut,Connecticut,US-CT,state,,517.1,1431,1431,3,America/New_York,FALSE,1840153093
+Bayfront,Bayfront,,46.6235,-90.7898,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,32.2,119,119,4,America/Chicago,FALSE,1840153094
+Mission,Mission,,44.3454,-90.7631,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,254.1,369,369,3,America/Chicago,FALSE,1840153095
+Sand Pillow,Sand Pillow,,44.3313,-90.7637,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,131.6,245,245,4,America/Chicago,FALSE,1840153096
+Jolmaville,Jolmaville,,46.4330,-90.7498,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,3.2,103,103,4,America/Chicago,FALSE,1840153097
+Paac Ciinak,Paac Ciinak,,44.8579,-89.1550,United States,US,USA,Wisconsin,Wisconsin,US-WI,state,,25.5,66,66,4,America/Chicago,FALSE,1840153098
+Arrowhead Beach,Arrowhead Beach,,36.2266,-76.7021,United States,US,USA,North Carolina,North Carolina,US-NC,state,,784.2,1243,1243,3,America/New_York,FALSE,1840153099
+Roberdel,Roberdel,,34.9774,-79.7459,United States,US,USA,North Carolina,North Carolina,US-NC,state,,118.2,202,202,4,America/New_York,FALSE,1840153100
+Oak Bluffs,Oak Bluffs,,41.4551,-70.5657,United States,US,USA,Massachusetts,Massachusetts,US-MA,state,,324.4,1521,1521,3,America/New_York,FALSE,1840153101
+Halls,Halls,,36.0817,-83.9344,United States,US,USA,Tennessee,Tennessee,US-TN,state,,435.4,9955,9955,3,America/New_York,FALSE,1840153102
+Oak Grove,Oak Grove,,35.3594,-92.9598,United States,US,USA,Arkansas,Arkansas,US-AR,state,,8.9,87,87,3,America/Chicago,FALSE,1840153103
+Antioch,Antioch,,32.6790,-85.0577,United States,US,USA,Georgia,Georgia,US-GA,state,,91.3,605,605,3,America/New_York,FALSE,1840153104
+Buckhead,Buckhead,,31.8613,-81.2623,United States,US,USA,Georgia,Georgia,US-GA,state,,680.9,4815,4815,3,America/New_York,FALSE,1840153105
+Wyboo,Wyboo,,33.5613,-80.2148,United States,US,USA,South Carolina,South Carolina,US-SC,state,,97.7,3786,3786,4,America/New_York,FALSE,1840153106
+Pine Ridge,Pine Ridge,,34.3927,-80.1679,United States,US,USA,South Carolina,South Carolina,US-SC,state,,108.9,640,640,3,America/New_York,FALSE,1840153107
+New Orleans Station,New Orleans Station,,29.8314,-90.0211,United States,US,USA,Louisiana,Louisiana,US-LA,state,,215.4,2900,2900,3,America/Chicago,FALSE,1840153108
+Dorseyville,Dorseyville,,30.1773,-91.1614,United States,US,USA,Louisiana,Louisiana,US-LA,state,,269.5,120,120,3,America/Chicago,FALSE,1840153109
+Lakeview,Lakeview,,34.9874,-90.1395,United States,US,USA,Mississippi,Mississippi,US-MS,state,,696.9,394,394,3,America/Chicago,FALSE,1840153110
+Johnson Prairie,Johnson Prairie,,36.0791,-94.9759,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,10.7,135,135,4,America/Chicago,FALSE,1840153111
+Caney,Caney,,35.8352,-94.8421,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,13.7,401,401,4,America/Chicago,FALSE,1840153112
+Cave Spring,Cave Spring,,35.7292,-94.7577,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,6.0,76,76,5,America/Chicago,FALSE,1840153113
+Pumpkin Hollow,Pumpkin Hollow,,36.0008,-94.8370,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,2.6,99,99,5,America/Chicago,FALSE,1840153114
+Tonkawa Tribal Housing,Tonkawa Tribal Housing,,36.6697,-97.2662,United States,US,USA,Oklahoma,Oklahoma,US-OK,state,,317.0,344,344,3,America/Chicago,FALSE,1840153115
+Stockton Bend,Stockton Bend,,32.4750,-97.7611,United States,US,USA,Texas,Texas,US-TX,state,,363.4,592,592,3,America/Chicago,FALSE,1840153116
+Palmer,Palmer,,26.0703,-97.6342,United States,US,USA,Texas,Texas,US-TX,state,,523.4,1523,1523,3,America/Chicago,FALSE,1840153117
+Southwest Sandhill,Southwest Sandhill,,31.5570,-102.9066,United States,US,USA,Texas,Texas,US-TX,state,,58.9,1124,1124,4,America/Chicago,FALSE,1840153118
+Becenti,Becenti,,35.8123,-108.1708,United States,US,USA,New Mexico,New Mexico,US-NM,state,,113.2,275,275,3,America/Denver,FALSE,1840153119
+Mount Taylor,Mount Taylor,,35.1241,-107.8075,United States,US,USA,New Mexico,New Mexico,US-NM,state,,40.3,199,199,4,America/Denver,FALSE,1840153120
+Purty Rock,Purty Rock,,35.4903,-108.8954,United States,US,USA,New Mexico,New Mexico,US-NM,state,,122.9,2,2,4,America/Denver,FALSE,1840153121
+La Madera,La Madera,,35.2345,-106.3340,United States,US,USA,New Mexico,New Mexico,US-NM,state,,11.9,403,403,3,America/Denver,FALSE,1840153122
+Arroyo Hondo,Arroyo Hondo,,35.6103,-105.9450,United States,US,USA,New Mexico,New Mexico,US-NM,state,,27.9,229,229,3,America/Denver,FALSE,1840153123
+Conejo,Conejo,,35.6287,-105.9423,United States,US,USA,New Mexico,New Mexico,US-NM,state,,109.7,541,541,4,America/Denver,FALSE,1840153124
+Santa Fe Foothills,Santa Fe Foothills,,35.6279,-105.8980,United States,US,USA,New Mexico,New Mexico,US-NM,state,,34.8,747,747,4,America/Denver,FALSE,1840153125
+Catalpa Canyon,Catalpa Canyon,,35.4942,-108.7206,United States,US,USA,New Mexico,New Mexico,US-NM,state,,6.9,126,126,4,America/Denver,FALSE,1840153126
+Encantado,Encantado,,35.7934,-105.9111,United States,US,USA,New Mexico,New Mexico,US-NM,state,,11.1,77,77,4,America/Denver,FALSE,1840153127
+La Cueva,La Cueva,,35.5776,-105.7339,United States,US,USA,New Mexico,New Mexico,US-NM,state,,34.9,694,694,3,America/Denver,FALSE,1840153128
+Crestview,Crestview,,35.4878,-108.8574,United States,US,USA,New Mexico,New Mexico,US-NM,state,,57.2,193,193,4,America/Denver,FALSE,1840153129
+Sagar,Sagar,,35.2474,-108.7670,United States,US,USA,New Mexico,New Mexico,US-NM,state,,65.3,316,316,4,America/Denver,FALSE,1840153130
+Haystack,Haystack,,35.3612,-107.9340,United States,US,USA,New Mexico,New Mexico,US-NM,state,,15.8,174,174,4,America/Denver,FALSE,1840153131
+Kirtland AFB,Kirtland AFB,,35.0497,-106.5599,United States,US,USA,New Mexico,New Mexico,US-NM,state,,271.9,3837,3837,3,America/Denver,FALSE,1840153132
+El Morro Valley,El Morro Valley,,35.0362,-108.3225,United States,US,USA,New Mexico,New Mexico,US-NM,state,,2.3,60,60,3,America/Denver,FALSE,1840153133
+Valencia,Valencia,,35.5780,-105.7908,United States,US,USA,New Mexico,New Mexico,US-NM,state,,21.4,86,86,3,America/Denver,FALSE,1840153134
+Mountain View,Mountain View,,35.0046,-108.3979,United States,US,USA,New Mexico,New Mexico,US-NM,state,,12.5,67,67,3,America/Denver,FALSE,1840153135
+South River,South River,,36.7892,-108.0600,United States,US,USA,New Mexico,New Mexico,US-NM,state,,71.7,1584,1584,3,America/Denver,FALSE,1840153136
+Clear Lake,Clear Lake,,45.6933,-97.3572,United States,US,USA,South Dakota,South Dakota,US-SD,state,,39.5,100,100,3,America/Chicago,FALSE,1840153137
+Sapphire Ridge,Sapphire Ridge,,46.8866,-110.2522,United States,US,USA,Montana,Montana,US-MT,state,,14.3,20,20,4,America/Denver,FALSE,1840153138
+Four Square Mile,Four Square Mile,,39.6808,-104.8880,United States,US,USA,Colorado,Colorado,US-CO,state,,3061.3,21420,21420,2,America/Denver,FALSE,1840153139
+Hobble Creek,Hobble Creek,,40.2084,-111.4859,United States,US,USA,Utah,Utah,US-UT,state,,40.7,226,226,3,America/Denver,FALSE,1840153140
+Timberline-Fernwood,Timberline-Fernwood,,35.3168,-111.5507,United States,US,USA,Arizona,Arizona,US-AZ,state,,105.4,2685,2685,4,America/Phoenix,FALSE,1840153141
+Yuma Proving Ground,Yuma Proving Ground,,32.8652,-114.4369,United States,US,USA,Arizona,Arizona,US-AZ,state,,89.8,313,313,4,America/Phoenix,FALSE,1840153142
+Tucson Mountains,Tucson Mountains,,32.2822,-111.0773,United States,US,USA,Arizona,Arizona,US-AZ,state,,163.9,11171,11171,3,America/Phoenix,FALSE,1840153143
+Fairview,Fairview,,45.4583,-123.7927,United States,US,USA,Oregon,Oregon,US-OR,state,,423.8,495,495,3,America/Los_Angeles,FALSE,1840153144
+Tehaleh,Tehaleh,,47.1165,-122.1824,United States,US,USA,Washington,Washington,US-WA,state,,258.2,5846,5846,3,America/Los_Angeles,FALSE,1840153145
+Jones Valley,Jones Valley,,40.6999,-122.2405,United States,US,USA,California,California,US-CA,state,,58.2,969,969,3,America/Los_Angeles,FALSE,1840153146
+Twin Lakes,Twin Lakes,,38.1695,-119.3422,United States,US,USA,California,California,US-CA,state,,8.1,87,87,3,America/Los_Angeles,FALSE,1840153147
+Lakeside,Lakeside,,35.2347,-119.0829,United States,US,USA,California,California,US-CA,state,,300.6,1405,1405,3,America/Los_Angeles,FALSE,1840153148
+Wautec,Wautec,,41.3543,-123.8623,United States,US,USA,California,California,US-CA,state,,2.8,17,17,5,America/Los_Angeles,FALSE,1840153149
+Woodville Farm Labor Camp,Woodville Farm Labor Camp,,36.0832,-119.1479,United States,US,USA,California,California,US-CA,state,,226.1,425,425,3,America/Los_Angeles,FALSE,1840153150
+Elfin Forest,Elfin Forest,,33.0812,-117.1775,United States,US,USA,California,California,US-CA,state,,113.5,595,595,3,America/Los_Angeles,FALSE,1840153151
+Alta Sierra,Alta Sierra,,35.7292,-118.5493,United States,US,USA,California,California,US-CA,state,,9.9,26,26,3,America/Los_Angeles,FALSE,1840153152
+Happy Valley,Happy Valley,,40.4662,-122.4207,United States,US,USA,California,California,US-CA,state,,126.5,5532,5532,3,America/Los_Angeles,FALSE,1840153153
+Petaluma Center,Petaluma Center,,38.2506,-122.7888,United States,US,USA,California,California,US-CA,state,,279.4,849,849,3,America/Los_Angeles,FALSE,1840153154
+Lockwood,Lockwood,,38.4867,-120.6035,United States,US,USA,California,California,US-CA,state,,35.2,495,495,3,America/Los_Angeles,FALSE,1840153155
+Centerville,Centerville,,40.5430,-122.4638,United States,US,USA,California,California,US-CA,state,,105.7,2204,2204,3,America/Los_Angeles,FALSE,1840153156
+Kep'el,Kep'el,,41.2842,-123.8190,United States,US,USA,California,California,US-CA,state,,2.0,19,19,5,America/Los_Angeles,FALSE,1840153157
+El Monte Mobile Village,El Monte Mobile Village,,36.5471,-119.4251,United States,US,USA,California,California,US-CA,state,,155.4,118,118,3,America/Los_Angeles,FALSE,1840153158
+Fort Hunter Liggett,Fort Hunter Liggett,,36.0019,-121.2381,United States,US,USA,California,California,US-CA,state,,121.4,874,874,4,America/Los_Angeles,FALSE,1840153159
+Cottonwood,Cottonwood,,35.3464,-118.9851,United States,US,USA,California,California,US-CA,state,,2753.7,2802,2802,2,America/Los_Angeles,FALSE,1840153160
+Fairfax,Fairfax,,35.3469,-118.9339,United States,US,USA,California,California,US-CA,state,,720.0,1776,1776,3,America/Los_Angeles,FALSE,1840153161
+El Centro Naval Air Facility,El Centro Naval Air Facility,,32.8252,-115.6681,United States,US,USA,California,California,US-CA,state,,49.7,539,539,4,America/Los_Angeles,FALSE,1840153162
+Eastern Goleta Valley,Eastern Goleta Valley,,34.4448,-119.7879,United States,US,USA,California,California,US-CA,state,,687.8,29563,29563,3,America/Los_Angeles,FALSE,1840153163
+University of California-Santa Barbara,University of California-Santa Barbara,,34.4151,-119.8568,United States,US,USA,California,California,US-CA,state,,3401.5,11441,11441,2,America/Los_Angeles,FALSE,1840153164
+Bancroft,Bancroft,,45.7020,-67.9748,United States,US,USA,Maine,Maine,US-ME,state,,0.0,,,5,America/New_York,FALSE,1840153167

@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Vladimirovka,Vladimirovka,,55.0260,30.0277,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.0,,,4,Europe/Minsk,TRUE,1112423106
+Bol’shiye Bakshty,Bol'shiye Bakshty,,54.1904,27.2844,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112310215
+Likhachy,Likhachy,Likhache|Likhachi,53.9409,24.1768,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112526614
+Luchyn,Luchyn,Luchin|Luchina,53.0133,30.0167,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112610570
+Oboz,Oboz,,52.5266,28.0118,Belarus,BY,BLR,Minsk,Minsk,BY-HM,city,,15.4,,,4,Europe/Minsk,FALSE,1112533173
+Kuklichy,Kuklichy,Kuklicze|Kukliche|Kuklichi,52.8328,24.5205,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,4,Europe/Minsk,FALSE,1112488948
+Bumazhkovo,Bumazhkovo,,52.7094,28.9014,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,8.9,,,5,Europe/Minsk,FALSE,1112453239
+Shaury,Shaury,,55.3390,30.5875,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112704450
+Shaury,Shaury,,55.6498,27.1216,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,TRUE,1112358281
+Virok,Virok,,55.6223,30.6554,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112585155
+Chyrvonaya Shvabawka,Chyrvonaya Shvabawka,Chervonnaya Shvabovka|Chirvonnaya Shvabovka,54.2810,28.1617,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112000160
+Volynezh,Volynezh,,53.4056,32.2168,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112472092
+Verkhovaya,Verkhovaya,,53.6660,32.4486,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,6.3,,,5,Europe/Moscow,FALSE,1112945686
+Malyye Smolyantsy,Malyye Smolyantsy,Smolyantsy,54.8322,29.1709,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112104554
+Klubcha,Klubcha,,53.8120,29.1202,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112661567
+Zamshany,Zamshany,,55.8072,28.0761,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,FALSE,1112000291
+Teslino,Teslino,,52.8075,27.5518,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112622490
+Grushchany,Grushchany,,52.9940,24.3663,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112524713
+Murava,Murava,Murawa,52.6430,24.2232,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112739920
+Pron’ki,Pron'ki,,54.8215,26.7049,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112900759
+Yuzikha,Yuzikha,,55.2700,27.3536,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,13.3,,,4,Europe/Minsk,FALSE,1112782114
+Progon,Progon,,54.4785,27.5948,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112728412
+Zhel’tsy,Zhel'tsy,,55.6253,29.3843,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112150448
+Dzyerawnaya,Dzyerawnaya,Derevna|Derevnaya|Derevnoye,53.6986,26.5646,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.5,,,4,Europe/Minsk,FALSE,1112235540
+Gar’kovo,Gar'kovo,,54.9249,30.2516,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.4,,,4,Europe/Minsk,FALSE,1112298722
+Maloye Vysokoye,Maloye Vysokoye,,54.4979,30.0273,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112643785
+Biyuti,Biyuti,,54.9921,26.9966,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112339185
+Krivosel’tsy,Krivosel'tsy,,55.7649,27.0124,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112198437
+Krivosel’tsy,Krivosel'tsy,Krivosel’tsevo,55.9330,27.6920,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,TRUE,1112476992
+Yekaterinopol’ye,Yekaterinopol'ye,Yekaterinopl’ye,53.4368,32.4400,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,FALSE,1112606637
+Hrytsavyets,Hrytsavyets,Gritsevets,53.0414,25.8683,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112000429
+Zakiy,Zakiy,,52.0706,23.8644,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112324129
+Pyachkovichi,Pyachkovichi,,53.9469,31.3749,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112268769
+Lazovitsa,Lazovitsa,Lozovitsa,53.5617,32.0163,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112287989
+Karnilovka,Karnilovka,Kornilovka,54.2309,29.7088,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.1,,,4,Europe/Minsk,FALSE,1112202079
+Mazheychino,Mazheychino,,55.1935,28.8236,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112216360
+Korenishetsy,Korenishetsy,Koreniszcze|Korenishche,54.7370,27.2657,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112528211
+Meshichi,Meshichi,Meshytse,53.7832,26.6503,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.5,,,4,Europe/Minsk,FALSE,1112690943
+Gora,Gora,Goryane,55.4153,28.3248,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112489221
+Gora,Gora,,54.6272,29.3533,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,TRUE,1112815459
+Gora,Gora,,55.3680,30.5708,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,TRUE,1112588186
+Gora,Gora,,55.1098,28.8324,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,TRUE,1112776731
+Gora,Gora,,55.5333,29.8667,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,TRUE,1112356895
+Alenovichi,Alenovichi,,54.5383,29.9192,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112067808
+Kaplanovka,Kaplanovka,,53.3472,29.5757,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112196994
+Kukhty,Kukhty,Kuchty,55.2524,27.7362,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112651706
+Prysno,Prysno,Prisno,52.6687,30.9867,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,10.3,,,4,Europe/Minsk,FALSE,1112468149
+Dovkni,Dovkni,,53.9290,25.3402,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112777927
+Dovkni,Dovkni,,54.0499,25.4522,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,TRUE,1112803295
+Goroshki,Goroshki,,53.5543,24.3187,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112896469
+Il’ichëvka,Il'ichevka,,54.9680,30.3388,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112763738
+Novosëlki Vtoryye,Novoselki Vtoryye,,53.9903,30.2539,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112753098
+Prokhorovo,Prokhorovo,,55.9295,28.6347,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112186678
+Trapalava,Trapalava,Trepalovo,54.3066,26.5663,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112879891
+Sychëvo,Sychevo,,53.1911,26.6327,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,43.5,,,4,Europe/Minsk,FALSE,1112223767
+Mazki,Mazki,,53.9034,29.6459,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,FALSE,1112672993
+Novosëlki Vtoryye,Novoselki Vtoryye,,54.1006,27.0861,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112122018
+Ozerishche,Ozerishche,,53.4084,28.5605,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112418752
+Telyaki,Telyaki,,54.8965,26.7949,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112704769
+Tsynnoye,Tsynnoye,Tsinnoye,54.4047,27.7324,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112610705
+Rasput’ye,Rasput'ye,,53.5604,27.6702,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112692606
+Smal’ki,Smal'ki,,55.2500,29.6500,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112009753
+Smal’ki,Smal'ki,Smol’ki,55.4720,29.9250,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,TRUE,1112827023
+Shchitno,Shchitno,Shchytno,52.7828,24.9344,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112099883
+Kovali,Kovali,,55.6676,29.3824,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112010318
+Kovali,Kovali,Kowale|Kovale,55.0240,26.2504,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112270921
+Kovali,Kovali,,55.0492,27.0343,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112408982
+Kovali,Kovali,,55.2048,27.3125,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112046995
+Kovali,Kovali,,54.9069,30.3339,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,TRUE,1112078640
+Kovali,Kovali,,54.8246,29.9099,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,TRUE,1112458480
+Kovali,Kovali,,55.5946,29.6334,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,TRUE,1112558668
+Podeguti,Podeguti,,54.2885,25.4404,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112536467
+Turki,Turki,,53.0402,29.6050,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112533615
+Repinshchina,Repinshchina,,55.2508,29.1655,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112860924
+Pozhartsy,Pozhartsy,,54.9951,27.0237,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112276484
+Podles’ye,Podles'ye,,52.9007,25.1452,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112642835
+Selevtsy,Selevtsy,,54.1271,26.7976,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112745464
+Pereki,Pereki,,55.7301,28.4996,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,17.4,,,4,Europe/Minsk,FALSE,1112875024
+Yakelevshina,Yakelevshina,,54.4461,26.0698,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112528953
+Posëlok Lapichi,Poselok Lapichi,,53.4271,28.4896,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112052167
+Posëlok Kamenka,Poselok Kamenka,,54.1440,29.6561,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.1,,,4,Europe/Minsk,FALSE,1112500562
+Novadzyevyatkavichy,Novadzyevyatkavichy,Novodevyatkovichi,52.9146,25.1628,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112552986
+Ostrovo,Ostrovo,,54.5209,26.5709,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112020642
+Ostrovo,Ostrovo,,53.7705,24.9319,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,25.6,,,4,Europe/Minsk,TRUE,1112000563
+Ostrovo,Ostrovo,,53.6831,24.3352,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,TRUE,1112191899
+Ostrovo,Ostrovo,,53.9033,25.5999,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,TRUE,1112000494
+Maloyedy,Maloyedy,,53.1640,26.4790,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,38.1,,,4,Europe/Minsk,FALSE,1112445126
+Kazimershchyzna,Kazimershchyzna,Kazimierszczyzna,55.2000,27.4500,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112275689
+Vayshin,Vayshin,,53.4833,28.3667,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,23.8,,,4,Europe/Minsk,FALSE,1112693522
+Rusakovo,Rusakovo,,52.9807,25.4034,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112235280
+Sokolyanka,Sokolyanka,,54.4601,29.4329,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.7,,,4,Europe/Minsk,FALSE,1112000335
+Shchitov,Shchitov,,52.1167,30.2500,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112554035
+Gorodishche,Gorodishche,,52.7929,30.6045,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112453880
+Gorodishche,Gorodishche,,52.2771,28.8881,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,9.1,,,5,Europe/Minsk,TRUE,1112523744
+Gorodishche,Gorodishche,,51.8188,30.3222,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,6.0,,,5,Europe/Minsk,TRUE,1112241326
+Mogilitsa,Mogilitsa,,52.7764,25.5977,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,17.4,,,4,Europe/Minsk,FALSE,1112459750
+Lobki,Lobki,,52.2011,30.4769,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112299251
+Popely,Popely,,55.3457,28.2412,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112177772
+Valeyshi,Valeyshi,,53.8795,24.8008,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112041371
+Pahranichnaya,Pahranichnaya,Pogranichnaya,52.4528,23.3690,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112020204
+Masyuny,Masyuny,,54.2415,25.5197,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112726531
+Novyy Dvor,Novyy Dvor,,53.8533,27.3581,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112996099
+Zazavodka,Zazavodka,Zavodka,55.4111,29.3495,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112721128
+Parnëvka,Parnevka,,54.7485,29.1213,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112985818
+Lobzha,Lobzha,,53.5975,31.7800,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112217527
+Akhanyany,Akhanyany,Okhonyany,53.4395,25.6115,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112272559
+Podles’ye,Podles'ye,,53.3043,29.3993,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112910384
+Podles’ye,Podles'ye,Podlesny|Podlesnyy,53.4574,30.1450,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112760612
+Podles’ye,Podles'ye,,53.5711,30.1411,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112027901
+Hlukhi,Hlukhi,Glukhi,53.6477,30.0754,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112766546
+Krasnobudskiy,Krasnobudskiy,,52.5880,30.4462,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112924913
+Vosava,Vosava,Osovo,52.4749,27.8708,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112577747
+Vesëlaya Dubrava,Veselaya Dubrava,,53.5266,32.4864,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,FALSE,1112669972
+Podoby,Podoby,,55.4705,27.2368,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112014695
+Remeniki,Remeniki,,54.1705,25.8951,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112070348
+Turna Vyalikaya,Turna Vyalikaya,Turna|Turna Bol’shaya,52.2744,23.7810,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112307648
+Gorodets,Gorodets,Horocziec|Gorodzets,52.0419,27.0902,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112426270
+Zerchenitsy,Zerchenitsy,Zerchenichi,55.2005,28.3571,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112653990
+Morozovichi,Morozovichi,,52.2924,23.5266,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112510290
+Morozovichi,Morozovichi,Morozowicze|Morozoviche,52.0381,26.2768,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,TRUE,1112107524
+Syelishcha,Syelishcha,Selishche,53.6604,25.9820,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112047017
+Novaya Mezenovka,Novaya Mezenovka,Novaya Mezenevka|Novaya Mezinovka|Novaya Mazenovka,53.5253,26.9824,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.1,,,4,Europe/Minsk,FALSE,1112583901
+Velikoye Pole,Velikoye Pole,,53.4003,28.3986,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112831758
+Velikoye Pole,Velikoye Pole,,54.0225,26.8164,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,TRUE,1112305577
+Velikiy Mokh,Velikiy Mokh,,52.7197,30.5985,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112614899
+Rabava,Rabava,Ryabovo,55.3514,30.8292,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112363552
+Maloye Goloshëvo,Maloye Goloshevo,,54.4000,30.0333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112827509
+Stolpishche,Stolpishche,,52.5683,30.4006,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112310189
+Voroshily,Voroshily,,53.9843,27.2145,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112437276
+Tomilova Gora,Tomilova Gora,,52.8227,27.5468,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112226514
+Zaazyor’ye,Zaazyor'ye,Zaozër’ye,54.9921,28.6536,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112496469
+Gavrany,Gavrany,Govrany|Gavrony,55.5357,26.6658,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112307346
+Strelki,Strelki,,55.1428,29.6781,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112884041
+Bol’si,Bol'si,,54.1240,25.2294,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112229407
+Yurovo,Yurovo,,55.3469,29.5494,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112757478
+Bol’shoye Zapotoch’ye,Bol'shoye Zapotoch'ye,Zapotoch’ye,53.7175,29.8935,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112937887
+Borisovka,Borisovka,,53.6334,24.5521,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112000391
+Borisovka,Borisovka,,53.9478,26.1692,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,TRUE,1112456981
+Simkovichi,Simkovichi,,53.6751,26.8590,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.5,,,4,Europe/Minsk,FALSE,1112109608
+Shostakovo,Shostakovo,Szostakowo|Shestakovo,52.3714,23.5603,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112507788
+Vyaderëvo,Vyaderevo,,55.1529,29.9081,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112130507
+Malyy Krushnikovskiy,Malyy Krushnikovskiy,,53.6398,29.8878,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112514206
+Boltichi,Boltichi,,53.5430,26.3852,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,FALSE,1112212770
+Zabel’ye,Zabel'ye,,55.0073,29.1132,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,TRUE,1112365763
+Antonov,Antonov,,52.2320,31.3593,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,23.7,,,4,Europe/Minsk,FALSE,1112187580
+Trukhanovichi,Trukhanovichi,,53.4628,25.3014,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112537298
+Chervona Gora,Chervona Gora,Posëlok Chervona Gora,54.7000,27.7333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112717012
+Cherenki,Cherenki,,55.2658,28.0595,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112885890
+Cherenki,Cherenki,,55.1319,26.9075,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112106048
+Poludovshchina,Poludovshchina,,54.1398,25.9626,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112803081
+Schastlivaya Zhizn’,Schastlivaya Zhizn',,54.7259,28.7707,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112174505
+Zhilikhovo,Zhilikhovo,,52.9549,27.0705,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112531352
+Vydemki,Vydemki,,55.1333,30.6333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112735406
+Ponizhniki,Ponizhniki,Ponizniki,55.7152,27.7446,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112804959
+Bol’shiye Gorokhovishchi,Bol'shiye Gorokhovishchi,Bol’shoye Gorokhovishche|Bol’shoye Gorokhovishe,53.6196,27.4053,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112038735
+Druyka,Druyka,,55.7332,27.3144,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112999973
+Lyakhovshchina,Lyakhovshchina,,52.8599,26.6594,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,FALSE,1112223138
+Gorodno,Gorodno,,55.1501,29.8238,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112925702
+Cherenka,Cherenka,Cheronka,55.3230,27.6140,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112040907
+Cherenka,Cherenka,,55.3139,27.7004,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,TRUE,1112599100
+Cherenka,Cherenka,Cherëmka,55.4148,29.3632,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112729774
+Khromyye,Khromyye,,55.2502,27.6108,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112536706
+Bogdyuki,Bogdyuki,,52.3229,23.8721,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,35.7,,,4,Europe/Minsk,FALSE,1112688339
+Gayëvka,Gayevka,,53.7250,27.1895,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112425178
+Pakhomlevichi,Pakhomlevichi,,54.7886,28.9760,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112068189
+Randovka,Randovka,,52.4312,30.7891,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,FALSE,1112203706
+Mazulëvshchina,Mazulevshchina,,53.8668,26.7013,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112794328
+Yetishki,Yetishki,,55.1345,26.4811,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.2,,,4,Europe/Minsk,FALSE,1112588660
+Gusentsy,Gusentsy,,52.9987,25.8375,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112806854
+Ivanovshchina,Ivanovshchina,,54.6479,30.8143,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112476597
+Ivanovshchina,Ivanovshchina,Ivanovshchyzna|Iwanow-Szczyzna,55.0357,27.8398,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112441014
+Bolotnitsa,Bolotnitsa,,55.8053,30.3150,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112518514
+Polubochki,Polubochki,,53.4069,25.4423,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112729778
+Sosnovshchina,Sosnovshchina,,54.6336,27.4298,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112308112
+Sosnovshchina,Sosnovshchina,,53.6347,28.7018,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.2,,,4,Europe/Minsk,TRUE,1112771242
+Sushino,Sushino,,55.2771,28.5125,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112370210
+Belin,Belin,,52.0521,25.2130,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112950351
+Zelenitsa,Zelenitsa,,53.4603,29.5850,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112911887
+Litvinki,Litvinki,,55.0999,26.7705,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112207071
+Osovlyane,Osovlyane,Osovlyany|Asawlyany,53.3814,24.7242,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.1,,,4,Europe/Minsk,FALSE,1112671178
+Novyya Navasyolki,Novyya Navasyolki,Novyye Novosëlki,53.3089,26.6893,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,43.5,,,4,Europe/Minsk,FALSE,1112332779
+Malaya Borovka,Malaya Borovka,,53.8671,30.4354,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,3051.0,,,2,Europe/Minsk,FALSE,1112645620
+Malaya Borovka,Malaya Borovka,,53.6614,30.2717,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112555616
+Saveyki,Saveyki,,55.4142,26.6033,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112768847
+Saveyki,Saveyki,,55.6541,28.3293,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,TRUE,1112653663
+Poroyst’,Poroyst',,54.1771,25.2337,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112415674
+Rassvetnaya,Rassvetnaya,,52.5673,30.9056,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,FALSE,1112231871
+Dvinosa,Dvinosa,,54.5638,27.6858,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112678104
+Yablonovo,Yablonovo,,52.8694,27.1433,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112354662
+Ratamka,Ratamka,Ratomka,53.9404,27.3444,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112644292
+Sutki,Sutki,,52.2657,25.1896,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112079553
+Aleksandriya,Aleksandriya,Nizhneye Aleksandrovo,54.9196,30.2033,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.6,,,4,Europe/Minsk,FALSE,1112009149
+Aleksandriya,Aleksandriya,,54.6542,31.1948,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,TRUE,1112024060
+Zubkovichi,Zubkovichi,Zubkovichy,53.9587,25.8472,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112399388
+Novyye Falichi,Novyye Falichi,,53.0849,28.4639,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.7,,,4,Europe/Minsk,FALSE,1112809848
+Brozha,Brozha,Broja,52.9601,29.1153,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112714927
+Shabunëvka,Shabunevka,,53.6345,26.9822,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112978554
+Kolesniki,Kolesniki,,55.2624,27.7193,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112933423
+Kolesniki,Kolesniki,,55.6304,27.3121,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.6,,,4,Europe/Minsk,TRUE,1112335027
+Kolesniki,Kolesniki,,55.5195,27.4794,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,TRUE,1112313116
+Kalinino,Kalinino,,53.6564,31.7077,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,40.4,,,4,Europe/Minsk,FALSE,1112809938
+Kolbasichi,Kolbasichi,,52.1833,29.2333,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,20.4,,,4,Europe/Minsk,FALSE,1112042700
+Roviny,Roviny,Raviny,53.5483,26.1308,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,FALSE,1112514770
+Roviny,Roviny,Raviny,53.4143,26.0381,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,TRUE,1112568276
+Kolotovino,Kolotovino,Kolotovina,53.9415,31.8297,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,13.6,,,4,Europe/Minsk,FALSE,1112708153
+Kalinino,Kalinino,,53.7374,27.5544,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112044918
+Kalinino,Kalinino,Kalinina,53.6364,27.3893,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,TRUE,1112483998
+Kalinino,Kalinino,Kalinina,53.5885,28.2180,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,TRUE,1112916157
+Kalinino,Kalinino,,52.9182,26.9080,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,TRUE,1112775948
+Kalinino,Kalinino,,53.8502,28.7478,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,TRUE,1112985867
+Kalinino,Kalinino,,53.8041,28.8417,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,TRUE,1112561714
+Pokuti,Pokuti,,53.9209,26.7880,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112520554
+Yevlashi,Yevlashi,,53.6353,24.5723,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112203051
+Gal’kovshchina,Gal'kovshchina,,55.9871,28.1340,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,FALSE,1112313262
+Shnury,Shnury,Shkury|Sznury,54.2945,26.8740,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112912915
+Kusochek,Kusochek,,53.1039,30.3628,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112444821
+Golotyl’tsy,Golotyl'tsy,,55.1940,26.6918,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112140796
+Yakovichi,Yakovichi,,54.3543,26.5336,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112678418
+Zimnik,Zimnik,,52.6521,30.8622,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112501509
+Terebuliny,Terebuliny,,52.6301,29.3322,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,8.9,,,5,Europe/Minsk,FALSE,1112685327
+Ploskoye,Ploskoye,,54.0059,28.6432,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112792227
+Ploskoye,Ploskoye,Ploskaya,53.5446,27.1802,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,39.3,,,4,Europe/Minsk,TRUE,1112523480
+Dubrolezh,Dubrolezh,,53.2090,30.7527,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,13.7,,,4,Europe/Minsk,FALSE,1112927842
+Korotkiye,Korotkiye,,54.6175,26.9773,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112680512
+Popërezh’ye,Poperezh'ye,Podberez’ye,54.4740,28.3126,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112827283
+Gotevichi,Gotevichi,Hatsyevichi,53.2235,24.2509,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,56.2,,,4,Europe/Minsk,FALSE,1112744688
+Vzmost’ye,Vzmost'ye,,54.8500,28.3667,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112024758
+Shelkovshchina,Shelkovshchina,,54.8698,29.2625,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112576079
+Mikitsk,Mikitsk,Mikitssk,52.2751,25.3967,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112093101
+Montyaki,Montyaki,Montsyaki,52.9721,24.7649,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.4,,,4,Europe/Minsk,FALSE,1112816290
+Tolochkov,Tolochkov,,53.1808,29.8085,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112671109
+Lapino,Lapino,Łapiny|Lapine,55.8177,27.1976,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112883399
+Lapino,Lapino,,55.2045,30.7668,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,TRUE,1112069533
+Zaluzhen’ye,Zaluzhen'ye,,55.2056,29.0655,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112578199
+Redisheno,Redisheno,Radishino|Redysheno,54.1398,30.6400,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112125417
+Novaya Guta,Novaya Guta,,52.7200,30.8593,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112000254
+Bykovshchina,Bykovshchina,,55.4360,28.4050,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112788371
+Bykovshchina,Bykovshchina,,55.0698,27.9476,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,TRUE,1112198726
+Bogdanovka,Bogdanovka,,54.4450,30.0131,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112081078
+Soltanovka,Soltanovka,Saltanovka,53.8001,30.2587,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112931185
+Svyatsilavichy,Svyatsilavichy,Svetilovichi,52.7936,31.3209,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,10.3,,,4,Europe/Minsk,FALSE,1112761329
+Kubarki,Kubarki,,55.0359,26.9677,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112659443
+Bushevka,Bushevka,,52.3770,29.9311,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112498868
+Bushevka,Bushevka,,52.5808,30.4074,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,TRUE,1112884085
+Haradzyechna,Haradzyechna,Gorodechna|Gorodechno,52.4235,24.3099,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112065105
+Staraya Volotova,Staraya Volotova,Volovo|Volotova,52.4594,31.0427,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,1759.2,,,3,Europe/Minsk,FALSE,1112021860
+Dobrush,Dobrush,,52.1776,30.7233,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,TRUE,1112060084
+Nozhnitsy,Nozhnitsy,,55.8772,29.3874,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112363359
+Koz’i Gorki,Koz'i Gorki,,55.6088,28.8260,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112386165
+Osinki,Osinki,,53.5956,31.5289,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.0,,,4,Europe/Minsk,FALSE,1112670548
+Novaya Guta,Novaya Guta,,53.6928,25.5742,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112455333
+Sokoloyti,Sokoloyti,,54.7198,26.1738,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112207407
+Zakrosnitsa,Zakrosnitsa,,52.2415,24.5083,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112698443
+Luzhasna,Luzhasna,Luzhesna|Luzhesno,55.2548,30.1415,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112509813
+Ryzhkovka,Ryzhkovka,,53.6486,30.5176,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112407131
+Skryshevo,Skryshevo,,53.7320,26.0280,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112197947
+Vagarovshchina,Vagarovshchina,,54.9825,30.8502,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112371329
+Shcheglovka,Shcheglovka,,53.2386,32.2114,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112629508
+Kozubets,Kozubets,,54.4176,28.9094,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,FALSE,1112610712
+Novyye Zalyutichi,Novyye Zalyutichi,,52.3984,27.5694,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112436181
+Boriski,Boriski,,54.2868,27.5112,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112374547
+Lopatyche,Lopatyche,Łopatycze,52.9000,26.4167,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.8,,,4,Europe/Minsk,FALSE,1112235627
+Boroviki,Boroviki,,52.0758,29.2745,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,78.0,,,4,Europe/Minsk,FALSE,1112759948
+Drabavichy,Drabavichy,Drabovichi,53.3286,25.2688,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112768020
+Berëza,Bereza,,52.2920,24.3738,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112855380
+Dragunovo,Dragunovo,,55.8879,28.9760,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112830202
+Mal’kovshchina,Mal'kovshchina,,55.4799,29.5552,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112305504
+Zaozër’ye,Zaozer'ye,,53.5548,31.2748,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.0,,,4,Europe/Minsk,FALSE,1112444238
+Zaozer'ye,Zaozer'ye,,53.2912,31.2297,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112000509
+Goduni,Goduni,,52.6393,29.1049,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,8.9,,,5,Europe/Minsk,FALSE,1112619301
+Boroviki,Boroviki,,52.9360,25.2745,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112382517
+Boroviki,Boroviki,Baraviki,53.5226,25.4771,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,TRUE,1112069931
+Boroviki,Boroviki,,54.0652,25.7629,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,TRUE,1112141122
+Boroviki,Boroviki,,52.8957,24.4035,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,TRUE,1112618125
+Vlasovichi,Vlasovichi,,52.9310,24.8572,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112417059
+Sigeyevka,Sigeyevka,,53.0929,32.1665,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112900136
+Margel’ki,Margel'ki,Margele,54.9074,25.8624,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112943283
+Spasskoye,Spasskoye,,54.5686,30.0559,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,51.7,,,4,Europe/Minsk,FALSE,1112484619
+Spasskoye,Spasskoye,,55.5304,28.9977,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,TRUE,1112639195
+Spasskoye,Spasskoye,,55.3615,29.4176,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112946716
+Lipava,Lipava,Lipovo,52.1980,24.6005,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112766415
+Mar’yanpol’ye,Mar'yanpol'ye,,55.3632,28.5578,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112642437
+Mar’yanpol’ye,Mar'yanpol'ye,,55.2338,28.4130,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,TRUE,1112438654
+Mar’yanpol’ye,Mar'yanpol'ye,,55.6811,26.9343,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,TRUE,1112207299
+Gornopol’ye,Gornopol'ye,,55.3328,28.7355,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112443325
+Sadovshchina,Sadovshchina,,54.3616,28.5091,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112092772
+Sadovshchina,Sadovshchina,,53.8011,26.9839,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,TRUE,1112473177
+Berendishki,Berendishki,,54.5096,25.8261,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112905459
+Sakovichy,Sakovichy,Sakovichi,52.7337,27.6124,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112238327
+Otoki,Otoki,,55.4443,27.7011,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112575073
+Otoki,Otoki,,55.1093,28.9617,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,TRUE,1112924478
+Netech’,Netech',Netsech,53.8909,25.4241,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112744195
+Byarozki,Byarozki,Berëzki,52.3938,31.1026,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,FALSE,1112109796
+Padsoltava,Padsoltava,Potsoltovo|Podsoltovo|Potoltsovo,54.0947,31.4702,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112517186
+Obolyany,Obolyany,,55.5389,26.7282,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112723098
+Solodukhi,Solodukhi,,55.8241,30.1601,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112632284
+Atolin,Atolin,,53.3167,25.9152,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112146005
+Palitsy,Palitsy,,54.9922,29.5072,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112006696
+Kamenshchina,Kamenshchina,,54.2267,29.9558,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.1,,,4,Europe/Minsk,FALSE,1112680152
+Kuntorovka,Kuntorovka,Kongurovka|Konturovka,52.5847,31.0361,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,10.3,,,4,Europe/Minsk,FALSE,1112290611
+Suknevichi,Suknevichi,,54.4435,26.4543,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112367214
+Kharitony,Kharitony,,52.1490,23.8649,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112921497
+Krasnyy,Krasnyy,,53.3714,32.1630,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112732654
+Krasnyy,Krasnyy,,53.6911,30.6133,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,13.3,,,4,Europe/Minsk,TRUE,1112736013
+Krasnyy,Krasnyy,,53.6991,31.3529,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.0,,,4,Europe/Minsk,TRUE,1112614801
+Krasnyy,Krasnyy,,53.4942,32.5664,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,TRUE,1112741597
+Krasnyy,Krasnyy,,52.8383,28.6303,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.1,,,5,Europe/Minsk,TRUE,1112283544
+Arguny,Arguny,,55.0667,30.5000,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112421817
+Luzhnaya,Luzhnaya,,54.3751,29.7646,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112161721
+Komintern,Komintern,,53.9220,30.3831,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,3051.0,,,2,Europe/Minsk,FALSE,1112094803
+Zaduboch’ye,Zaduboch'ye,,52.7500,27.3833,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112036381
+Lakinovtsy,Lakinovtsy,,55.4700,27.2187,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112517001
+Vigushki,Vigushki,,54.0288,25.7461,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112966322
+Bol’kovshchizna,Bol'kovshchizna,,54.8726,26.4530,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112377493
+Petrikany,Petrikany,,54.0559,25.4964,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112802383
+Letkovshchina,Letkovshchina,,53.1095,27.4066,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112269769
+Letkovshchina,Letkovshchina,,53.2507,27.1124,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,TRUE,1112005191
+Sivoshin,Sivoshin,,55.7000,28.5833,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,29.2,,,4,Europe/Minsk,FALSE,1112611575
+Khar’ki,Khar'ki,,54.5400,27.3401,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112120607
+Matarova,Matarova,Motorovo,53.7404,27.8607,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112141940
+Novoye Lyadno,Novoye Lyadno,,54.9155,28.7208,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112876832
+Posëlok Rossokhi,Poselok Rossokhi,,53.3724,32.0276,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112731338
+Aleshnya,Aleshnya,,53.2297,30.6647,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112011723
+Staroye Syalo,Staroye Syalo,Stara Ves’|Staroye Selo,53.1805,24.9307,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.4,,,4,Europe/Minsk,FALSE,1112096939
+Bobovishche,Bobovishche,,52.6963,26.8072,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,FALSE,1112041855
+Studyanka,Studyanka,,53.5755,27.1550,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112059705
+Shalygi,Shalygi,,54.1404,26.8600,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112391539
+Bychkovo,Bychkovo,,55.2758,27.5043,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,18.9,,,4,Europe/Minsk,FALSE,1112507395
+Bychkovo,Bychkovo,Byenkovo,55.1529,30.5699,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,TRUE,1112990991
+Rezy,Rezy,,53.5850,24.7484,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112000443
+Kopani,Kopani,,53.7181,30.7340,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.9,,,4,Europe/Minsk,FALSE,1112469269
+Pilyushovshchina,Pilyushovshchina,,55.7138,27.3523,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112470487
+Zhivun’,Zhivun',,52.6865,28.4330,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.4,,,4,Europe/Minsk,FALSE,1112704422
+Lopunovo,Lopunovo,,55.3683,27.8550,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112774483
+Baboviki,Baboviki,Boboviki,55.6269,29.0797,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112971176
+Kosiche Vel’ke,Kosiche Vel'ke,Kosicze Wielkie|Kosice|Kosichi Bol’shiye|Bol’shiye Kosichi,52.1347,23.8212,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112233957
+Ovsemirov,Ovsemirov,,51.9708,26.5376,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112397960
+Zoyevka,Zoyevka,,53.1938,32.3636,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,FALSE,1112335867
+Krasnaya Sloboda,Krasnaya Sloboda,Sloboda|Chirvonaya Sloboda|Durnaya,54.5861,30.8368,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112615751
+Krasnaya Sloboda,Krasnaya Sloboda,,54.4171,30.8060,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,TRUE,1112023923
+Vetche,Vetche,,54.9629,28.3504,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112585289
+Norytsa,Norytsa,Noritsa,55.0753,27.3355,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112177268
+Maloye Zaluzh’ye,Maloye Zaluzh'ye,,54.0435,27.9877,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,75.5,,,4,Europe/Minsk,FALSE,1112087324
+Mil’ki,Mil'ki,,55.5159,27.3191,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112429062
+Lozhane,Lozhane,,55.2233,28.4335,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.6,,,4,Europe/Minsk,FALSE,1112529824
+Prazdniki,Prazdniki,,52.9757,24.2146,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112469397
+Bol’shiye Barsuchiny,Bol'shiye Barsuchiny,Barsuchiny,54.4653,29.4462,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112806649
+Chizhevshchina,Chizhevshchina,,55.4383,26.5926,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112014633
+Polkhuny,Polkhuny,Polłchuny,55.0234,26.4256,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112414999
+Chizhëvshchina,Chizhevshchina,Chizhevshchizna,52.1661,24.1588,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,35.7,,,4,Europe/Minsk,FALSE,1112872512
+Golovachi,Golovachi,Golovichi,53.0595,26.1936,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.8,,,4,Europe/Minsk,FALSE,1112702601
+Volovtsy,Volovtsy,Volkovtsy,54.4157,30.6911,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,33.1,,,4,Europe/Minsk,FALSE,1112629345
+Pawstyn’,Pawstyn',Povstyn’,52.9778,27.8117,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112366288
+Aleksandrovka,Aleksandrovka,,52.3601,26.1832,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112714937
+Aleksandrovka,Aleksandrovka,,52.4599,24.2125,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,TRUE,1112181162
+Zamosh’ye Pervoye,Zamosh'ye Pervoye,Zamosh’ye,55.3222,28.4432,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112442742
+Zamosh’ye Pervoye,Zamosh'ye Pervoye,,55.1690,28.5175,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,TRUE,1112118833
+Plaksy,Plaksy,,55.0016,26.9619,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112298962
+Serkovka,Serkovka,,53.4358,30.8628,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.8,,,5,Europe/Minsk,FALSE,1112947586
+Prokhody,Prokhody,,52.4425,23.6660,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112368392
+Prokhody,Prokhody,,51.9979,24.0682,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,TRUE,1112034971
+Khat’kovo,Khat'kovo,Khot’kovo,54.3048,30.0272,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112823996
+Solomenka,Solomenka,,53.2348,29.1044,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112260465
+Suprunovichi,Suprunovichi,,53.1448,26.3901,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,41.5,,,4,Europe/Minsk,FALSE,1112774878
+Mirnaya,Mirnaya,,55.3673,29.8997,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112681531
+Lyazhenka,Lyazhenka,Khutor Lyazhenka,53.6088,30.5468,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112512779
+Malaya Lyutinka,Malaya Lyutinka,Lyutinka,54.0090,26.7707,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112282412
+Zaruzhan’ye,Zaruzhan'ye,,54.9701,28.9937,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112540780
+Shostaki,Shostaki,,53.1333,27.0333,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112114498
+Chemerichnoye,Chemerichnoye,,53.3679,27.2769,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.7,,,4,Europe/Minsk,FALSE,1112357572
+Korevichi,Korevichi,Karevichy,53.7492,24.7227,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112671633
+Korevichi,Korevichi,,53.0445,24.4260,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,TRUE,1112329780
+Kolotovka,Kolotovka,,53.0667,29.9500,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112444835
+Melekhovichi,Melekhovichi,,53.2498,26.1252,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112503284
+Skvarchytsy,Skvarchytsy,Skvarchitsy,53.0676,25.9654,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112104608
+Pestuny,Pestuny,,55.4482,27.3686,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112954279
+Pestuny,Pestuny,,55.5623,27.6808,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,TRUE,1112089167
+Posëlok Guta,Poselok Guta,Guta,53.8812,29.5733,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,FALSE,1112749869
+Leshchënka,Leshchenka,,53.2280,29.6252,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112176545
+Leshchenka,Leshchenka,,53.3846,31.5608,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112994712
+Malyutino,Malyutino,,55.8085,29.1925,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112746502
+Baravitsa,Baravitsa,Borovitsa,53.3344,29.5683,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112624568
+Bogushevo,Bogushevo,,53.8328,27.3087,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112305460
+Podberëzy,Podberezy,,54.5750,26.2159,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112865611
+Rudenka,Rudenka,Rudenki,53.7544,29.1484,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112686330
+Podlazniki,Podlazniki,,55.1917,30.0175,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112507117
+Repovichi,Repovichi,,53.3148,23.7885,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.8,,,4,Europe/Minsk,FALSE,1112509410
+Baydaki,Baydaki,,53.9158,27.2436,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112881096
+Malinniki,Malinniki,,53.0483,29.4585,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112256902
+Tsyesnavaya Pyeshaya,Tsyesnavaya Pyeshaya,Ciesnowa|Chesnovaya|Tsesnova|Tsesneva|Tesnovaya Pervaya,53.8172,26.6931,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.5,,,4,Europe/Minsk,FALSE,1112693434
+Syalyets,Syalyets,Selets,52.7502,30.6375,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112285344
+Stanchinenty,Stanchinenty,,54.7516,26.3610,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112750280
+Tanyezhytsy,Tanyezhytsy,Tanezhitsy|Tenezhitsy,52.9053,27.3095,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112429228
+Khvoyenshchina,Khvoyenshchina,,53.7337,28.4092,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.2,,,4,Europe/Minsk,FALSE,1112983152
+Batareya,Batareya,,52.3609,24.9719,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,45.8,,,4,Europe/Minsk,FALSE,1112338747
+Gorodniki,Gorodniki,,54.3723,25.8623,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112830474
+Mnyuta Druhoye,Mnyuta Druhoye,Mnyuto Drugoye,55.2578,27.9537,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112122273
+Burki,Burki,,51.8107,30.1834,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,6.0,,,5,Europe/Minsk,FALSE,1112447104
+Lyakhovka,Lyakhovka,,54.1480,30.1327,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112109422
+Lyakhovka,Lyakhovka,,53.8003,29.5103,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,TRUE,1112980325
+Gayevtsy,Gayevtsy,,54.2536,26.7502,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112960236
+Gayevtsy,Gayevtsy,,54.3225,26.5503,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,TRUE,1112862473
+Andreyevtsy,Andreyevtsy,Andrzejowce|Andzheyëvtse,54.6768,26.3777,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,30.4,,,4,Europe/Minsk,FALSE,1112328644
+Vyselka Rogachi,Vyselka Rogachi,,53.6500,23.6763,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112886440
+Zaleshany,Zaleshany,,52.5000,23.7095,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112172643
+Staychenka,Staychenka,Staychenko,53.9131,29.3102,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112644771
+Syalyets,Syalyets,Selets,53.6677,25.4239,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112489858
+Syalyets,Syalyets,Selets,53.5952,25.8755,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,TRUE,1112825458
+Margoytsy,Margoytsy,Morgoytsy,54.6732,29.6256,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112819167
+Bol’shoy Mikhaylov,Bol'shoy Mikhaylov,,54.0877,30.2514,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112378642
+Dedovka Malaya,Dedovka Malaya,,52.4838,24.0199,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.1,,,4,Europe/Minsk,FALSE,1112034004
+Malyeykawshchyna,Malyeykawshchyna,Maleykovshchina,53.9163,25.3052,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112822065
+Plotnitsa,Plotnitsa,Płotnica,52.0459,26.6440,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112763035
+Zhuravlëvka,Zhuravlevka,,52.1925,31.2313,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,FALSE,1112923876
+Gerdushki,Gerdushki,,54.0337,26.0907,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112077889
+Dzyevyatki,Dzyevyatki,Dzeventki|Devyatki,52.3479,24.1847,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112761886
+Nayda,Nayda,,52.1614,28.0549,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112624736
+Osinuvka,Osinuvka,Osinówka,54.6833,26.5333,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112311020
+Byal’kowshchyna,Byal'kowshchyna,Bel’kovshchina,55.7863,27.9879,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,FALSE,1112229168
+Astreyki,Astreyki,,53.2788,27.2118,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112070017
+Malyye Lyady,Malyye Lyady,,53.7917,28.0890,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,75.5,,,4,Europe/Minsk,FALSE,1112333429
+Zavidovka,Zavidovka,Tavpyga Zavidovka,53.7595,32.1572,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,TRUE,1112279080
+Zavidovka,Zavidovka,,53.5780,32.2967,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,TRUE,1112174943
+Svitichi,Svitichi,Svityche,52.3212,23.3960,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112878436
+Uzniki,Uzniki,,53.9072,31.5392,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112090960
+Uzniki,Uzniki,Sloboda,53.4531,30.5422,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112401373
+Nadzyozhyna,Nadzyozhyna,Nadëzhino,55.1512,30.9264,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112693708
+Tsyganki,Tsyganki,,54.8646,29.8284,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112589700
+Zaozër’ye,Zaozer'ye,Zajeziorze|Zazezhe,54.3579,27.0644,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112771661
+Zaozër’ye,Zaozer'ye,,54.7027,26.8859,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,TRUE,1112413820
+Zaozër’ye,Zaozer'ye,,54.1827,27.8719,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,TRUE,1112800129
+Samuylavichy Dol’nyya,Samuylavichy Dol'nyya,Samuylovichi Dol’nyye|Nizhniye Samuylovichi|Samoyloviche Dol’ne,53.3113,24.6938,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.1,,,4,Europe/Minsk,FALSE,1112040346
+Lapichy,Lapichy,Lapitschi|Lapichi,53.4354,28.5376,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112298053
+Bahushova,Bahushova,Bogushëvo,55.3573,28.4122,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112244514
+Volosachi,Volosachi,,53.1152,26.3532,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.8,,,4,Europe/Minsk,FALSE,1112859988
+Sitino,Sitino,,55.7419,30.1895,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112337275
+Roskosh’,Roskosh',,53.6630,26.1052,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112929593
+Buraki Vtoryye,Buraki Vtoryye,,55.2333,28.7667,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112650037
+Garokhavishchy,Garokhavishchy,Gorokhovishchi,52.6158,29.2768,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,8.9,,,5,Europe/Minsk,FALSE,1112315906
+Leoshki,Leoshki,,55.7428,27.1624,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112884282
+Kritskiye,Kritskiye,,55.3802,29.4543,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112605866
+Shumovka,Shumovka,,53.5463,32.0229,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112845243
+Sazany,Sazany,,53.3385,32.1564,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112999979
+Yasenevka,Yasenevka,,53.2267,28.9501,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112587245
+Malyye Bordinichi,Malyye Bordinichi,,53.8545,30.9682,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.9,,,4,Europe/Minsk,FALSE,1112425342
+Dybali,Dybali,,55.1412,29.2425,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112000155
+Kladi,Kladi,,54.3039,28.9757,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,FALSE,1112838497
+Sidorovtsy,Sidorovtsy,Sidorovtse,53.9463,26.9747,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112942582
+Mazury,Mazury,,52.2023,24.3120,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112414150
+Mazury,Mazury,,52.2889,24.6921,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,TRUE,1112138419
+Vyatchyn,Vyatchyn,Vetchin|Vitchiny,52.4465,28.1629,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112208047
+Yasen’,Yasen',,54.8747,26.1317,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112034163
+Vesnik,Vesnik,,53.6127,29.7466,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,FALSE,1112104359
+Grivki,Grivki,,53.5391,23.8999,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112750437
+Sobolevka,Sobolevka,Sobolevka Lapina,53.5367,32.1879,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112781671
+Pribytkovo,Pribytkovo,,55.6449,30.2705,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112854945
+Roganovichi,Roganovichi,Krasnaya Zvezda,54.8557,29.1932,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112530093
+Budachi,Budachi,,54.6994,28.0549,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112099539
+Bol’kovo,Bol'kovo,,54.8628,26.4295,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112268850
+Narbuty,Narbuty,,54.4851,26.1145,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112090982
+Narbuty,Narbuty,,54.0788,25.8159,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,TRUE,1112157242
+Karbanovshchina,Karbanovshchina,Karbanovshchina Pervaya,54.3828,27.6812,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112180212
+Ostrov,Ostrov,,53.6085,32.0975,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112146542
+Ostrov,Ostrov,,53.1499,28.3697,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,TRUE,1112577421
+Stan’kovichi,Stan'kovichi,,52.4513,23.6824,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112077181
+Rabun’,Rabun',,54.5032,27.1525,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112394844
+Plisa,Plisa,Plissa,54.0501,28.1930,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,75.5,,,4,Europe/Minsk,FALSE,1112535650
+Plisa,Plisa,Pliska,54.3677,29.3213,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,TRUE,1112433115
+Tatarshchizna,Tatarshchizna,Tatarshchina|Tatarshchyna,53.9684,25.0852,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112937615
+Belaya Voda,Belaya Voda,Byala Voda|Biała Woda,54.8933,26.1390,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112914085
+Bobyli,Bobyli,Bobyle|Babuli,55.4500,27.0000,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112295343
+Khutora Borki,Khutora Borki,Borki,51.8500,29.0167,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,27.3,,,4,Europe/Minsk,FALSE,1112095254
+Glebovo,Glebovo,,54.4878,30.7983,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112256431
+Zabrod’ye,Zabrod'ye,,53.1480,26.1427,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112988835
+Posëlok Domanovo,Poselok Domanovo,Khutor Domanovo,53.0223,29.2648,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112433183
+Slabodka,Slabodka,Slobodki|Slobodka|Slobudka,55.6880,27.1838,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112364607
+Dubrovno,Dubrovno,,55.4724,28.9512,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112232454
+Bystritsa,Bystritsa,,55.2809,28.3944,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112232781
+Zbarovichi,Zbarovichi,,54.1156,27.3231,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112599902
+Goreliki,Goreliki,,54.3305,29.9173,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112464033
+Goreliki,Goreliki,,54.9771,30.6545,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,TRUE,1112137280
+Kvoshch,Kvoshch,,53.1647,30.3300,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112695286
+Rusinawtsy,Rusinawtsy,Rusinovtse|Rusinovtsy,53.5283,24.3222,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.1,,,4,Europe/Minsk,FALSE,1112663463
+Kadishki,Kadishki,Kadzishki,53.8160,25.0665,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112866380
+Zarech’ye,Zarech'ye,,52.5397,25.0339,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,45.8,,,4,Europe/Minsk,FALSE,1112939465
+Zarech’ye,Zarech'ye,,52.4146,24.9181,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,45.8,,,4,Europe/Minsk,TRUE,1112901214
+Zarech’ye,Zarech'ye,,52.3374,23.2950,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,TRUE,1112593063
+Zarech’ye,Zarech'ye,,53.0712,26.1392,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.8,,,4,Europe/Minsk,TRUE,1112300385
+Zarech’ye,Zarech'ye,Zarzeche,52.8746,25.4915,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,17.4,,,4,Europe/Minsk,TRUE,1112922156
+Zarech’ye,Zarech'ye,,52.5293,24.2567,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,TRUE,1112615405
+Mel’,Mel',,54.6475,26.4096,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112210093
+Rowkavichy,Rowkavichy,Rovkovichi,52.8466,30.7736,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,12.1,,,4,Europe/Minsk,FALSE,1112208033
+Vekantsy,Vekantsy,,54.1213,25.2550,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112723392
+Komsomol’sk,Komsomol'sk,,52.5773,30.3094,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112614622
+Tsatski,Tsatski,,53.7232,25.2249,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112996840
+Zarechitsk,Zarechitsk,,54.8898,27.9620,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112197613
+Bastyn’,Bastyn',Bostyng|Bostyn’,52.3916,26.7565,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,25.1,,,4,Europe/Minsk,FALSE,1112240121
+Polonaya,Polonaya,,53.5980,26.0500,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,FALSE,1112929583
+Mel’niki,Mel'niki,,54.9200,26.6270,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112051585
+Medvedovka,Medvedovka,Medvedorka,54.8818,28.4647,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112897975
+Slobodka-Gushchinskaya,Slobodka-Gushchinskaya,Gushchinskaya Slobodka,55.1308,28.4293,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112944748
+Lastovichi,Lastovichi,,55.1206,27.7681,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112816284
+Videyki,Videyki,Vidzeyki,53.0910,24.1280,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112172507
+Lesok,Lesok,,52.4171,23.4198,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112793703
+Iwnaya,Iwnaya,Ivnaya,53.1035,25.5918,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.5,,,4,Europe/Minsk,FALSE,1112362771
+Gorodechno,Gorodechno,,54.2268,26.4708,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112569132
+Ponara,Ponara,Panary|Panari|Ponara Wielka|Ponary,54.3758,26.2472,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112556468
+Balashi,Balashi,Bolashi,55.3779,30.7887,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112924582
+Andreyenki,Andreyenki,,55.7048,29.8891,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112000270
+Papkovichy,Papkovichy,Popkovichi,53.5710,25.7907,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112987633
+Zakharovshchina,Zakharovshchina,,55.0853,26.9290,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112341873
+Fëdorovka,Fedorovka,,53.7349,32.3241,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112257579
+Fëdorovka,Fedorovka,,53.2760,32.1615,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,TRUE,1112064176
+Fëdorovka,Fedorovka,,53.3308,32.0744,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,TRUE,1112246987
+Fëdorovka,Fedorovka,,53.3860,31.4299,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112661366
+Sidorovka,Sidorovka,,54.3925,30.5768,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112312672
+Knyazhitsa,Knyazhitsa,,55.1801,30.0242,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112158264
+Usvitsa,Usvitsa,Usvitsa Pervaya,55.2923,29.0750,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112926072
+Otrub,Otrub,,54.6190,28.0217,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112933524
+Medyuki,Medyuki,Mledyuki|Mledzyuki|Mledziuki,55.5238,26.8366,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112094521
+Zashibin,Zashibin,,53.2500,28.6333,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112442974
+Ivan’ki,Ivan'ki,,55.6081,28.0293,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112699521
+Luzhkovo,Luzhkovo,,53.8868,28.1206,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,75.5,,,4,Europe/Minsk,FALSE,1112178200
+Pyadan’,Pyadan',Pyadon’,54.5593,28.0874,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112731886
+Ivan’,Ivan',,52.9995,27.4475,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112107255
+Filippovichskiy,Filippovichskiy,,52.9820,26.9394,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112652935
+Halowchytsy,Halowchytsy,Golovchitsy,51.7204,29.3331,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,7.0,,,5,Europe/Minsk,FALSE,1112909360
+Glinyanki,Glinyanki,,52.3107,24.1876,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112985228
+Pasyelichy,Pasyelichy,Poselichi,51.8679,30.0576,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,9.4,,,5,Europe/Minsk,FALSE,1112604381
+Khominichi,Khominichi,,54.7223,29.7593,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112259089
+Lipovitsa,Lipovitsa,,53.3898,30.5461,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112056651
+Zalesnaya,Zalesnaya,,52.9281,24.2455,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112212289
+Koroby,Koroby,Koraby,54.2802,25.9833,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112773794
+Knyazishchevo,Knyazishchevo,,54.1476,31.5094,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112333554
+Farnyy Konets,Farnyy Konets,Farny Kanyets,53.6080,24.9666,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112376201
+Samaravichy,Samaravichy,Samarovichi|Samaroviche,53.2091,24.7553,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.4,,,4,Europe/Minsk,FALSE,1112224019
+Podgornyye,Podgornyye,,55.6836,27.4266,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112000154
+Lyakhi,Lyakhi,,54.9251,30.1908,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,13.1,,,4,Europe/Minsk,FALSE,1112353279
+Lyakhi,Lyakhi,,55.1975,28.8440,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,TRUE,1112147796
+Vidly,Vidly,,55.0208,26.7105,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112148455
+Vorotynshchina,Vorotynshchina,,53.8300,30.0575,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112175795
+Tur’yevo,Tur'yevo,,54.7507,30.0181,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112288473
+Starinki Vtoryye,Starinki Vtoryye,Starzynki|Starinki|Stazhynki,54.7240,27.0309,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,13.8,,,4,Europe/Minsk,FALSE,1112865330
+Sevryuki,Sevryuki,,53.8891,24.8887,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112084940
+Milyuntsy,Milyuntsy,Milyun’tse,55.5295,26.7675,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112991925
+Dosovichi,Dosovichi,,53.7276,30.0601,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112921410
+Babichy,Babichy,Babichi,52.2895,30.0020,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112446455
+Brol’niki,Brol'niki,Brol’niki,53.6267,25.9803,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112868007
+Lys’kovo,Lys'kovo,Lyskova,55.6508,30.5669,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112953533
+Yasyutevichi,Yasyutevichi,,53.7228,27.0697,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112733640
+Nagorniki,Nagorniki,,53.4056,25.3831,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112613872
+Kazhary,Kazhary,Kozhary,54.7381,29.0382,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112836574
+Khmeli,Khmeli,,52.3167,23.3333,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112272727
+Karachuny,Karachuny,,53.7289,27.0432,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112019756
+Posëlok Kolyadichi,Poselok Kolyadichi,,53.8084,27.5823,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112856112
+Zakopanka,Zakopanka,,53.1127,27.2530,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112923196
+Makary,Makary,,55.4678,29.8791,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112109759
+Chistopol’ye,Chistopol'ye,,55.8265,27.9227,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,FALSE,1112660541
+Ryabtsevshchina,Ryabtsevshchina,Ryabtevshchina,53.5798,27.1442,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112501441
+Markovshchina,Markovshchina,,53.5167,29.3333,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,FALSE,1112464777
+Staryye Ranchitsy,Staryye Ranchitsy,,55.0217,29.4841,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112842356
+Surawni,Surawni,Bol’shiye Surovni|Bol’shiye Suravni|Surovni,55.5358,29.5848,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,4,Europe/Minsk,FALSE,1112550058
+Prudishche,Prudishche,,55.0500,30.8333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112902004
+Prudishche,Prudishche,,54.9664,27.2846,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112855056
+Markovshchina,Markovshchina,,53.5152,28.2294,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112154382
+Padkraichy,Padkraichy,Podkraiche|Podkraichi|Podkraychi,52.4343,24.7158,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,22.2,,,4,Europe/Minsk,FALSE,1112592498
+Mayshuli,Mayshuli,,55.6205,26.9515,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112749327
+Yazhgi,Yazhgi,,54.5317,26.3329,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112297685
+Kozhushki,Kozhushki,,53.0223,27.1672,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112227192
+Sertislavl’,Sertislavl',,54.1954,30.7054,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112140561
+Pogranichnoye,Pogranichnoye,,54.2052,27.3354,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112106109
+Malyye Dikovichi,Malyye Dikovichi,,52.0038,26.1115,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112768228
+Ol’shany,Ol'shany,,55.1665,28.8160,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112790346
+Dubovyy Log,Dubovyy Log,,53.2886,30.7370,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.8,,,5,Europe/Minsk,FALSE,1112574067
+Shaprony,Shaprony,,54.8500,29.8000,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112128882
+Dvor-Babcha,Dvor-Babcha,,55.0242,28.8479,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112220782
+Vorob’i,Vorob'i,,55.4379,28.5415,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112706554
+Vorob’i,Vorob'i,,55.2447,27.6664,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,TRUE,1112476393
+Mezhenets,Mezhenets,,53.8891,29.8568,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,FALSE,1112508636
+Rogalevo,Rogalevo,,55.7225,27.4520,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112000070
+Soly,Soly,,53.6545,23.8725,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,5353.2,,,2,Europe/Minsk,FALSE,1112007943
+Soly,Soly,,54.5159,26.1810,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,TRUE,1112734320
+Manchiki,Manchiki,,52.8328,24.8386,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112157050
+Poluyany,Poluyany,,54.9473,26.9779,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112398633
+Omelishche,Omelishche,,53.4627,28.5532,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112105962
+Krasnoleski,Krasnoleski,,52.3667,24.5833,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112822966
+Bol’shevik,Bol'shevik,,53.2781,30.1950,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,FALSE,1112471641
+Starintsy,Starintsy,,55.0880,30.2791,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112611762
+Kamenistoye,Kamenistoye,Kameniste|Kamyanistaye,53.7578,24.1102,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112948326
+Urechcha Pyershaye,Urechcha Pyershaye,Urech’ye Pervoye,53.4323,30.8571,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.8,,,5,Europe/Minsk,FALSE,1112791749
+Kopti,Kopti,,53.3843,25.0656,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112792435
+Krutaya Gora,Krutaya Gora,,53.1806,29.7019,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112023416
+Korenëvo,Korenevo,,54.4830,27.4116,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112506722
+Mitskevichi,Mitskevichi,Nitskeviche|Mickiewicze,54.4923,26.5938,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112588947
+Mitskevichi,Mitskevichi,,53.7101,23.7157,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,TRUE,1112802244
+Obrub,Obrub,,55.2116,28.1701,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112362010
+Lamy,Lamy,,53.0692,29.2292,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,383.0,,,3,Europe/Minsk,FALSE,1112890160
+Voytekhovo,Voytekhovo,,54.9294,27.0517,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112193561
+Melyuzino,Melyuzino,,55.4322,29.9823,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112329447
+Chikovka,Chikovka,Shchukovka,53.6037,30.8340,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.1,,,4,Europe/Minsk,FALSE,1112169921
+Malyya Shastaki,Malyya Shastaki,Malyye Shestaki,53.2380,25.4205,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,34.8,,,4,Europe/Minsk,FALSE,1112000040
+Pil’niki,Pil'niki,,53.5366,29.6829,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,13.9,,,4,Europe/Minsk,FALSE,1112661837
+Kayshovka,Kayshovka,Kayshovki,53.4598,26.1272,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,FALSE,1112183387
+Lemno,Lemno,Lemna,55.9333,28.5167,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112538365
+Mizulichi,Mizulichi,Mizyulichi|Mizulicze|Mizuliche,54.7717,26.4925,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112452728
+Khodosy,Khodosy,,52.1775,24.1725,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,35.7,,,4,Europe/Minsk,FALSE,1112470107
+Khodosy,Khodosy,,52.4710,23.7304,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,TRUE,1112445457
+Sosnovskiy,Sosnovskiy,,53.7818,31.5744,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,40.4,,,4,Europe/Minsk,FALSE,1112214510
+Sosnovskiy,Sosnovskiy,,53.3006,31.4094,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112701004
+Sosnovskiy,Sosnovskiy,,53.3613,31.5552,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112104497
+Belundi,Belundi,Byalundze|Belundzi,53.9196,25.5282,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112758603
+Karpeki,Karpeki,,55.4525,28.9731,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112090129
+Sanakli,Sanakli,,54.7793,25.8641,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112639366
+Gal’chevka,Gal'chevka,,53.1987,28.7181,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112200478
+Malaya Kaplitsa,Malaya Kaplitsa,,53.6951,23.9397,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112829894
+Nahuyevichy,Nahuyevichy,Naguyëvichi,53.1301,25.4683,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112620765
+Fil’yanovo,Fil'yanovo,,54.4030,28.1002,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112114223
+Vanel’ki,Vanel'ki,,53.5269,24.5478,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112489339
+Bryukhovtsy,Bryukhovtsy,,54.6372,30.6770,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112297779
+Babayevichi,Babayevichi,Babayeviche,53.0374,26.6374,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,26.1,,,4,Europe/Minsk,FALSE,1112474441
+Ostankovichi,Ostankovichi,,52.4672,29.5422,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,44.2,,,4,Europe/Minsk,FALSE,1112891570
+Bol’shiye Konyushany,Bol'shiye Konyushany,,53.7504,25.3314,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112355434
+Burtsy,Burtsy,,55.1805,27.6842,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112000224
+Vishnyewka,Vishnyewka,Vishnyuvka|Vishnëvka,53.1487,24.6845,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.4,,,4,Europe/Minsk,FALSE,1112523647
+Chërnyy Bor,Chernyy Bor,,54.5559,26.3646,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112821533
+Plyanta,Plyanta,,52.3248,24.5470,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112734161
+Plyanta,Plyanta,,52.3626,23.7698,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,TRUE,1112010168
+Plyanta,Plyanta,,52.3209,23.4113,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,TRUE,1112910136
+Teresino,Teresino,,53.7951,29.4260,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112606359
+Sasanishki,Sasanishki,,54.7864,26.0390,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112099681
+Chapayevskiy,Chapayevskiy,,51.8117,28.5028,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,7.2,,,5,Europe/Minsk,FALSE,1112402259
+Pudino,Pudino,,53.7651,25.5295,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112271260
+Voytekhovo,Voytekhovo,Voytsekhovo,52.8446,28.7055,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.1,,,5,Europe/Minsk,FALSE,1112598179
+Staryye Dvoryaninovichi,Staryye Dvoryaninovichi,Dvoryaninovichi,53.1508,29.5071,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112567313
+Zapolos’ye,Zapolos'ye,,55.6985,27.4662,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112142975
+Lipnitsa,Lipnitsa,Novaya Lipnitsa,53.6508,29.1338,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,FALSE,1112358835
+Dubrawka,Dubrawka,Dubrovka,53.2852,32.4564,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,FALSE,1112952806
+Lipovka,Lipovka,,53.2285,27.9552,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.7,,,4,Europe/Minsk,FALSE,1112492586
+Krasnasyel’ski,Krasnasyel'ski,Krasne Selo|Krasnoye Selo|Krasnosel’skiy,53.2649,24.4240,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,56.2,,,4,Europe/Minsk,FALSE,1112841013
+Dvoryshcha,Dvoryshcha,Dvorishche,53.7998,27.2368,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112697626
+Chapyalyeva,Chapyalyeva,Chepelëvo,53.0518,25.3955,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112940695
+Stëkhovo,Stekhovo,,54.0625,29.6324,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,FALSE,1112993319
+Zhabyki,Zhabyki,,54.6569,30.6705,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112940076
+Zalyesawtsy,Zalyesawtsy,Zalesovtsy,53.5055,25.8594,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112149316
+Niva,Niva,,52.2630,25.7903,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.0,,,4,Europe/Minsk,FALSE,1112687535
+Syaglovo,Syaglovo,,54.5315,30.5551,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112666714
+Surazh,Surazh,,54.0459,25.5848,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112590521
+Podrovnoye,Podrovnoye,,52.2450,30.3869,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112559910
+Svirinovka,Svirinovka,,51.9270,29.1152,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,78.0,,,4,Europe/Minsk,FALSE,1112999754
+Voronovka,Voronovka,,53.1556,31.9068,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112233144
+Lipnevichi,Lipnevichi,,54.5627,27.0617,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112000280
+Posëlok Khlusovo,Poselok Khlusovo,Khlusovo,54.5930,30.4337,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112796641
+Ramyel’,Ramyel',Romel’|Remel’,52.0407,27.3396,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112195176
+Kuklyany,Kuklyany,Kuklany,55.1098,26.4844,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112212779
+Neseno,Neseno,Nesino,54.9933,28.9603,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112452706
+Kul’shichi,Kul'shichi,,53.8794,26.8085,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112371482
+Bol’shoye Zaprud’ye,Bol'shoye Zaprud'ye,,54.2468,26.4512,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112213722
+Bruzgi,Bruzgi,Bryuzgi,53.5553,23.6817,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112971495
+Podzamche,Podzamche,,53.5483,24.7307,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112000432
+Miklashi,Miklashi,,53.4449,25.4498,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112162023
+Trusok,Trusok,,53.2828,32.2575,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,FALSE,1112118245
+Khavsty,Khavsty,Khausty,54.4881,26.5669,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112440901
+Kresty,Kresty,,55.8131,29.1539,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112980260
+Filippovtsy,Filippovtsy,,55.0350,26.6752,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112891371
+Yeremeyevichi,Yeremeyevichi,Yeremeichi,53.7485,25.2037,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112279961
+Dvorishche,Dvorishche,,54.6536,28.8416,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112394782
+Dvorishche,Dvorishche,,54.8286,28.7187,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,TRUE,1112570675
+Dvorishche,Dvorishche,,55.4771,27.4689,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.9,,,4,Europe/Minsk,TRUE,1112367407
+Dvorishche,Dvorishche,Dvorishcha,55.5597,26.7227,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,TRUE,1112844324
+Dvorishche,Dvorishche,,55.5273,27.3963,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.4,,,4,Europe/Minsk,TRUE,1112344360
+Dvorishche,Dvorishche,Dvorzyshche,55.6093,28.0768,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,TRUE,1112137446
+Dvorishche,Dvorishche,,55.5047,28.1909,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,TRUE,1112974059
+Dvorishche,Dvorishche,,55.1283,29.4219,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112628401
+Dvorishche,Dvorishche,,55.3036,29.7551,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112275002
+Dvorishche,Dvorishche,,55.4171,29.5453,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112322961
+Dvorishche,Dvorishche,,55.3337,29.6736,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112517851
+Dvorishche,Dvorishche,,55.9407,28.9034,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,TRUE,1112929117
+Keloyti,Keloyti,Keloytsi,54.1096,25.8699,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112634242
+Rakshyna,Rakshyna,Rakoyeshchina|Rakovshchina|Rakshino,54.0395,31.2796,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112960240
+Chyrvonaya Zorka,Chyrvonaya Zorka,Krasnaya Zor’ka,52.1737,27.9000,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112240784
+Zarybino,Zarybino,,54.9148,28.8354,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112320256
+Zarnitsa,Zarnitsa,,52.3006,31.2177,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,23.7,,,4,Europe/Minsk,FALSE,1112033201
+Krugloye,Krugloye,,52.5632,24.9928,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,45.8,,,4,Europe/Minsk,FALSE,1112124557
+Krugloye,Krugloye,,52.3751,26.2983,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,TRUE,1112027873
+Krugloye,Krugloye,,52.5750,24.5600,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,TRUE,1112474259
+Luchinovka,Luchinovka,,55.1144,30.5164,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112236441
+Rzhawka Pyershaya,Rzhawka Pyershaya,Rzhavka|Rzhavka Pervaya,53.3984,30.7962,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.8,,,5,Europe/Minsk,FALSE,1112490553
+Lyakhova,Lyakhova,,55.2167,30.5667,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112742627
+Malyye Uglyany,Malyye Uglyany,,54.2434,29.5820,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.1,,,4,Europe/Minsk,FALSE,1112553426
+Utkany,Utkany,Utkonys,54.1989,25.5316,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112072521
+Sivki,Sivki,,52.2300,23.2838,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112956314
+Dolki,Dolki,,52.8377,24.9393,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112353496
+Dobropol’ye,Dobropol'ye,,54.9883,29.8019,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.4,,,4,Europe/Minsk,FALSE,1112160247
+Podvarantsy,Podvarantsy,Podvorantsy,54.0759,25.2337,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112833075
+Podvarantsy,Podvarantsy,Podvorantsy|Podvorantse|Podworance,54.7999,26.1368,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,TRUE,1112907487
+Bol’shiye Spory,Bol'shiye Spory,,55.0495,26.7814,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112628947
+Tver’yantsy,Tver'yantsy,,55.4238,26.7054,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112601256
+Isyerna,Isyerna,Iserno|Iserna,52.9031,27.6376,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112935829
+Vyerbavichy,Vyerbavichy,Verbovichi,51.7159,29.5094,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,7.0,,,5,Europe/Minsk,FALSE,1112096527
+Peredelki,Peredelki,,55.4833,30.1333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112335851
+Levkovo,Levkovo,,54.3901,27.1801,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112036360
+Usovo,Usovo,Usowo,55.2688,27.9548,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112883479
+Voznovshchina,Voznovshchina,Vozkovshchina|Voznovshchyzna,54.8326,27.5850,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112467337
+Lovtsevichi,Lovtsevichi,,54.2589,27.3679,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112248493
+Barvichi,Barvichi,Barovichi,53.7199,25.3541,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112299245
+Hyez·haly,Hyez.haly,Gezgaly,53.5999,25.3725,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112460310
+Kupcheli,Kupcheli,Kupczele|Kupchele,55.5779,26.8286,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112981472
+Syarhyeyevichy,Syarhyeyevichy,Sergeyevichi,53.4963,27.7525,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112926586
+Naharodavichy,Naharodavichy,Nogorodovichi,53.5809,25.3739,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112313508
+Kobylichi,Kobylichi,,53.0000,29.1833,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112618839
+Mil’tsei,Mil'tsei,,54.6198,26.1935,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.1,,,4,Europe/Minsk,FALSE,1112406913
+Lipniki,Lipniki,,52.1885,24.5687,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,41.3,,,4,Europe/Minsk,FALSE,1112778762
+Lipniki,Lipniki,,52.1792,25.2311,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,TRUE,1112480430
+Lipniki,Lipniki,,52.4688,26.1831,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,TRUE,1112565375
+Chervonaya Niva,Chervonaya Niva,Krasnaya Niva,53.0466,27.3245,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112273382
+Shchipachi,Shchipachi,,55.5290,30.8195,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112450155
+Kobylichi,Kobylichi,,53.4667,27.8500,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112868915
+Girdevka,Girdevka,Hirdzyewka,53.5637,24.7551,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112116100
+Shtokovtsy,Shtokovtsy,,55.7471,27.1824,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112310688
+Tyaplyaki,Tyaplyaki,Teplyaki,54.9037,29.9223,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112063684
+Borovitsa,Borovitsa,,53.7707,29.3419,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112560821
+Babichi,Babichi,,52.3546,23.7335,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112172323
+Dudchino,Dudchino,Dutchino,55.0643,28.6885,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112413485
+Dudchino,Dudchino,,55.9068,29.1499,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,TRUE,1112515239
+Putyatino,Putyatino,Putyatina,54.4970,30.9582,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112023004
+Lazduny Pyershyya,Lazduny Pyershyya,Lazduny,53.9657,25.9720,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112725063
+Podgor’ye,Podgor'ye,,53.7293,28.0724,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.2,,,4,Europe/Minsk,FALSE,1112704513
+Zaslavki,Zaslavki,,55.0832,28.9428,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112260136
+Olenishchevka,Olenishchevka,Alyenishchawka,53.7310,24.5696,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112260038
+Mal’kovka,Mal'kovka,,53.6922,31.4958,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,40.4,,,4,Europe/Minsk,FALSE,1112234309
+Mal’kovka,Mal'kovka,Mal’kova,53.9482,31.2462,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,TRUE,1112495122
+Selovshchina,Selovshchina,,52.5473,24.9187,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,45.8,,,4,Europe/Minsk,FALSE,1112181541
+Gukoly,Gukoly,,55.7887,30.1991,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112186814
+Valishcha,Valishcha,Valishche,52.4019,25.9458,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112484893
+Krasnyy Pakhar’,Krasnyy Pakhar',,53.5759,28.2195,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112622578
+Krasnyy Pakhar’,Krasnyy Pakhar',,54.0915,29.4038,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,TRUE,1112274800
+Leshchatka,Leshchatka,,54.0433,26.6515,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112642773
+Zarechnaya Sloboda,Zarechnaya Sloboda,,54.8653,29.1703,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112289995
+Chervonaya Niva,Chervonaya Niva,Chervyakov,53.3956,29.1270,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,FALSE,1112887525
+Syalyets,Syalyets,Selets,54.2786,30.6744,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,24.9,,,4,Europe/Minsk,FALSE,1112106777
+Syalyets,Syalyets,Selets,53.8831,31.7867,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,TRUE,1112662335
+Syalyets,Syalyets,Selets-Kholopeyev|Selets,53.3879,30.3951,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112282926
+Krasnyy Pakhar’,Krasnyy Pakhar',,53.2861,29.3832,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112051472
+Krasnyy Pakhar’,Krasnyy Pakhar',,54.0139,29.8603,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,TRUE,1112637217
+Krasnyy Pakhar’,Krasnyy Pakhar',,53.2512,30.1753,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112668388
+Krasnyy Pakhar’,Krasnyy Pakhar',,53.4599,30.2442,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112290883
+Golënki,Golenki,Galënki,54.1775,31.2463,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,24.9,,,4,Europe/Minsk,FALSE,1112126927
+Pyatrovichy,Pyatrovichy,Petrovichi,53.8341,27.9580,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,75.5,,,4,Europe/Minsk,FALSE,1112698085
+Divnovo,Divnovo,,54.1226,30.6096,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112379943
+Zatrosten’ye,Zatrosten'ye,,55.5402,29.1081,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112448839
+Dvorchany,Dvorchany,,55.0156,26.2631,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112937203
+Dvorchany,Dvorchany,Dworczany,55.8066,27.8961,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.9,,,5,Europe/Minsk,TRUE,1112007898
+Parnya,Parnya,,53.1842,30.1017,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112219325
+Paraf’yanovo,Paraf'yanovo,Paraf’yanov|Parafianowo|Poraf’yanovo|Parafianovo|Paraf’anovo|Parafjanowo|Parafianów|Parafyanuv,54.8913,27.5761,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,4,Europe/Minsk,FALSE,1112154035
+Rusachki,Rusachki,Rusaczki,54.6904,27.2717,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112392564
+Boshnya,Boshnya,,52.0272,25.5473,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.0,,,4,Europe/Minsk,FALSE,1112562559
+Omel’no,Omel'no,,53.0223,29.6788,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.4,,,4,Europe/Minsk,FALSE,1112618587
+Rostsyevichy,Rostsyevichy,Rostseviche|Rostevichi,53.0785,24.9173,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,15.4,,,4,Europe/Minsk,FALSE,1112765144
+Bogatyrëvo,Bogatyrevo,Bogatyrëvka,53.8473,27.4017,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112193752
+Akhova,Akhova,Okhovo,52.1897,25.9218,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112248567
+Pnevichi,Pnevichi,,54.4527,30.8196,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112245809
+Molotovki,Molotovki,Molotovka,53.9042,29.5908,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.9,,,4,Europe/Minsk,FALSE,1112300394
+Vysokaya Hara,Vysokaya Hara,Vysokaya Gora,53.9567,29.2314,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,4,Europe/Minsk,FALSE,1112728195
+Skorinichi,Skorinichi,,53.8072,27.4939,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112344284
+Kazakovka,Kazakovka,,53.2975,31.0532,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.5,,,5,Europe/Minsk,FALSE,1112944270
+Malyye Gayany,Malyye Gayany,Chajna Mała|Hajany Małe,54.1646,27.5956,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.6,,,4,Europe/Minsk,FALSE,1112716016
+Bakhiry,Bakhiry,Bakhiri|Bachiry,55.3500,27.7000,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,FALSE,1112341432
+Terbeshovo,Terbeshovo,,55.1835,29.7870,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112240887
+Romashki,Romashki,Ramashki,53.5657,24.4922,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112386966
+Haradzyets,Haradzyets,Gorodets,54.2115,30.4142,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112498267
+Haradzyets,Haradzyets,Gorodets,53.4035,29.4949,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,TRUE,1112820576
+Zheremets,Zheremets,,53.8846,28.8039,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112186136
+Mirny,Mirny,Mirnyy,53.0388,25.9767,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112375982
+Chernichka Vtoraya,Chernichka Vtoraya,,54.9668,28.0278,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112505188
+Rubaniki,Rubaniki,,55.1412,28.7629,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112913792
+Razhanka,Razhanka,Różanka|Ruzhanka|Rozhanka|Posëlok Rozhanka,53.5360,24.7365,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112727532
+Pekotino,Pekotino,,55.6014,28.1062,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112854493
+Yasmen’,Yasmen',,52.6536,30.2976,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112484918
+Poles’ye,Poles'ye,,55.5460,27.0860,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112349584
+Shalashino,Shalashino,,55.5599,28.6945,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112787599
+Shalashino,Shalashino,,54.6511,30.6079,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,TRUE,1112993973
+Posëlok Imeni Kalinina,Poselok Imeni Kalinina,Kalinina,53.9500,27.7833,Belarus,BY,BLR,Minsk,Minsk,BY-HM,city,,61.2,,,4,Europe/Minsk,FALSE,1112578610
+Sal’niki,Sal'niki,,54.2482,30.6380,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.2,,,4,Europe/Minsk,FALSE,1112314908
+Kozigorka,Kozigorka,,54.5529,29.8335,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112483793
+Leyki,Leyki,Lyayki,53.7119,24.6371,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,19.3,,,4,Europe/Minsk,FALSE,1112198670
+Lezhnevka,Lezhnevka,,53.7506,30.2010,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112844052
+Dvartsy,Dvartsy,Dvortse|Dvortsy,52.4514,23.9710,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,20.9,,,4,Europe/Minsk,FALSE,1112484334
+Gorodenka,Gorodenka,,54.7889,28.1706,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112445082
+Chizhevichi,Chizhevichi,,54.5080,27.0444,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112157504
+Chizhevichi,Chizhevichi,,53.0589,27.1515,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,TRUE,1112555493
+Volozhino,Volozhino,,55.2230,27.0249,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,FALSE,1112517292
+Grebenëvo,Grebenevo,,54.6048,30.2145,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112439604
+Luzhi,Luzhi,,54.7440,26.9270,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112714768
+Dorzhy,Dorzhy,Dorzhi,53.7610,25.3869,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112200107
+Belorus’,Belorus',,51.9833,30.0167,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,9.4,,,5,Europe/Minsk,FALSE,1112890066
+Shelepki,Shelepki,,53.1800,23.9819,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.2,,,4,Europe/Minsk,FALSE,1112552827
+Bagrinovo,Bagrinovo,,54.5835,30.3093,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112786298
+Virishche,Virishche,,53.6193,26.1679,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,16.3,,,4,Europe/Minsk,FALSE,1112587075
+Srednyaya,Srednyaya,Sredneye,54.2285,27.4026,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112101150
+Brilëvka,Brilevka,,53.6143,29.8135,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,FALSE,1112717720
+Kameyshi,Kameyshi,,53.6285,26.8839,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,19.5,,,4,Europe/Minsk,FALSE,1112254961
+Pavlovka,Pavlovka,,53.9892,30.4097,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112649646
+Pavlovka,Pavlovka,,53.9415,30.8921,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.9,,,4,Europe/Minsk,TRUE,1112926406
+Pavlovka,Pavlovka,,53.4062,32.4471,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,10.8,,,4,Europe/Minsk,TRUE,1112744256
+Pusto-Mstizh Malyy,Pusto-Mstizh Malyy,Pusto-Mstizh,54.5000,28.2167,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112891555
+Lagi,Lagi,,54.6432,30.2127,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112766233
+Lagi,Lagi,,54.9783,28.3534,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,TRUE,1112723793
+Rudnitskiy Les,Rudnitskiy Les,,53.2428,30.0378,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112908999
+Dorogovitsa,Dorogovitsa,Dorgovitsa,53.2381,27.0442,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.5,,,4,Europe/Minsk,FALSE,1112960686
+Rachkovichi,Rachkovichi,,52.9818,27.2910,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112573900
+Ustizër’ye,Ustizer'ye,,54.6797,26.3236,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112701603
+Karpitskiye,Karpitskiye,,54.7500,30.5167,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,84.8,,,4,Europe/Minsk,FALSE,1112744497
+Mikshevichi,Mikshevichi,,54.1431,25.5393,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112635438
+Kobyl’niki,Kobyl'niki,,54.0167,25.3333,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,80.2,,,4,Europe/Minsk,FALSE,1112487784
+Kobyl’niki,Kobyl'niki,,53.4000,25.7833,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,TRUE,1112959994
+Khvoyevo,Khvoyevo,,53.2439,26.3781,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,43.5,,,4,Europe/Minsk,FALSE,1112186386
+Bukatovo,Bukatovo,,54.0898,26.2211,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,FALSE,1112142081
+Trostyanka,Trostyanka,,52.3712,25.9538,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112391991
+Germanovshchizna,Germanovshchizna,Germanovshchina,55.3358,26.6274,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.2,,,4,Europe/Minsk,FALSE,1112000182
+Kusevshchyzna,Kusevshchyzna,Kusiewszczyzna,54.9333,26.7167,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112430497
+Mogil’no,Mogil'no,,52.0562,26.9391,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112088755
+Dikovo,Dikovo,,52.7021,30.4033,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112247112
+Skorinovichi,Skorinovichi,,54.2628,26.5666,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112382625
+Topory,Topory,,55.7333,28.8667,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112166188
+Vetsenyuvka,Vetsenyuvka,,52.9232,25.2878,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,42.5,,,4,Europe/Minsk,FALSE,1112095546
+Zelenovka,Zelenovka,,52.5913,30.4116,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112025023
+Kustar’,Kustar',,53.1822,30.5986,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112090990
+Buyantsy,Buyantsy,,54.6399,26.4616,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112882541
+Malyy Krasnik,Malyy Krasnik,,52.7159,24.1807,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112256008
+Kapyl’shchyna,Kapyl'shchyna,Kopyl’shchyzna|Kopyl’shchina,55.3225,27.6962,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112400199
+Fesevka,Fesevka,,54.6335,30.9592,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112972626
+Verbniki,Verbniki,,53.7067,27.4731,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112334487
+Osobino,Osobino,Osobin,52.6339,30.8611,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112302861
+Goroshkov,Goroshkov,Goroshkovo,52.2852,30.4911,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112096861
+Dzyetkavichy,Dzyetkavichy,Dzyatkoviche|Dziatkowicze|Dedkovichi|Detkovichi,52.3154,24.8150,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112100244
+Oleshishki,Oleshishki,,54.3595,26.2993,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112521747
+Osmolovo,Osmolovo,,53.1607,26.6577,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,43.5,,,4,Europe/Minsk,FALSE,1112951452
+Kobayly,Kobayly,,54.9950,26.8712,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112447208
+Drochava,Drochava,Drochëvo,51.6036,23.9865,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,FALSE,1112824522
+Charasy,Charasy,Cheres|Czeress|Cheressy|Cheresy|Cheress,55.6232,27.7069,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112084933
+Gavryushi,Gavryushi,,55.6092,29.8590,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112878482
+Levoye,Levoye,,55.3759,28.3607,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112918041
+Leshchinskiye,Leshchinskiye,,53.9908,31.8500,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.1,,,5,Europe/Minsk,FALSE,1112364583
+Olëshki,Oleshki,,54.8390,26.3625,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112925184
+Olëshki,Oleshki,,54.7694,27.4066,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,TRUE,1112199057
+Gizuny,Gizuny,,55.6491,27.5949,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112626036
+Ozëry,Ozery,,54.2171,30.0033,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.1,,,4,Europe/Minsk,FALSE,1112541572
+Ozëry,Ozery,,53.1020,29.6403,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,TRUE,1112875038
+Liberpol’,Liberpol',,52.8119,24.7187,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112254568
+Leshchinskiye,Leshchinskiye,Leszczynskie|Leshchyn’ske,54.9354,26.7688,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112477245
+Zagorane,Zagorane,,52.9992,24.4108,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112471131
+Vyalikiya Yakawchytsy,Vyalikiya Yakawchytsy,Yakovchitse|Yakovchitsy|Bol’shiye Yakovchitsy,52.2393,24.1281,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,35.7,,,4,Europe/Minsk,FALSE,1112324052
+Aferovshchina,Aferovshchina,Oferovshchina,55.0916,28.3628,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112601031
+Cherëmukha,Cheremukha,Cheremkha,55.4040,29.7181,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112619889
+Volod’kovshchina,Volod'kovshchina,,54.4090,25.8359,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,23.2,,,4,Europe/Minsk,FALSE,1112502435
+Selishche,Selishche,,52.0591,25.0223,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112908644
+Rusaki,Rusaki,,55.1983,27.5686,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112000013
+Rusaki,Rusaki,,55.1167,27.7500,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,TRUE,1112487905
+Rusaki,Rusaki,,55.1822,26.7982,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112377396
+Rusaki,Rusaki,,55.0052,26.5923,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.3,,,4,Europe/Minsk,TRUE,1112515934
+Rusaki,Rusaki,,55.0683,30.1589,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,TRUE,1112381742
+Vysokiy Bereg,Vysokiy Bereg,,54.4947,28.7253,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112162132
+Proshyka,Proshyka,Proshitsa|Proshika,54.4875,29.1478,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,FALSE,1112435149
+Antonovka,Antonovka,,51.9354,29.1390,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,78.0,,,4,Europe/Minsk,FALSE,1112945431
+Antonovka,Antonovka,,52.7272,29.7994,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,48.9,,,4,Europe/Minsk,TRUE,1112405456
+Antonovka,Antonovka,,52.9817,30.1476,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,48.9,,,4,Europe/Minsk,TRUE,1112513429
+Antonovka,Antonovka,,52.2431,31.2327,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,23.7,,,4,Europe/Minsk,TRUE,1112935279
+Antonovka,Antonovka,,52.1644,29.2838,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,20.4,,,4,Europe/Minsk,TRUE,1112125676
+Antonovka,Antonovka,,52.9173,30.6597,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,TRUE,1112660647
+Gornostay,Gornostay,,55.2689,28.0417,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112303716
+Vyazovka,Vyazovka,,53.2359,29.5842,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112563292
+Malaya Lyubshchina,Malaya Lyubshchina,Maloye Lyubshino,55.3908,30.6617,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112300956
+Gabrilëvo,Gabrilevo,,54.4747,29.4720,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112000241
+Kruglitsa,Kruglitsa,,52.7776,26.3611,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,16.1,,,4,Europe/Minsk,FALSE,1112513045
+Tsesino,Tsesino,,53.7655,27.6505,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112478212
+Rogi-Iletskiy,Rogi-Iletskiy,Iletskiy,52.1429,31.1756,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,36.7,,,4,Europe/Minsk,FALSE,1112114383
+Khizova,Khizova,,54.9574,29.5140,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112568046
+Terlyuki,Terlyuki,,54.9676,26.6676,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112581297
+Pronskoye,Pronskoye,,55.0143,30.8569,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112945907
+Novaya Tukhin’,Novaya Tukhin',Novaya Tukhinya,54.6534,30.8410,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,FALSE,1112616292
+Smolyakovo,Smolyakovo,,53.8065,30.3845,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112690518
+Laplino,Laplino,,55.0456,27.6741,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.8,,,5,Europe/Minsk,FALSE,1112691589
+Adampol’,Adampol',,53.6335,26.0451,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112408185
+Powbyerah,Powbyerah,Polbereg,53.7176,25.9301,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112012122
+Tratsevichi,Tratsevichi,Trantsevichi,53.3554,26.1319,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112913702
+Posëlok Dubravy,Poselok Dubravy,,54.0989,27.1302,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,94.6,,,4,Europe/Minsk,FALSE,1112245941
+Vorob’yëvshchina,Vorob'yevshchina,,54.1921,28.8402,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,59.9,,,4,Europe/Minsk,FALSE,1112118895
+Koziy Rog,Koziy Rog,,52.7461,30.3504,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112989026
+Hrytskyevichy,Hrytskyevichy,Gritskevichi|Grytskeviche,53.1396,26.4148,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,43.5,,,4,Europe/Minsk,FALSE,1112612854
+Chernilovo,Chernilovo,,54.0724,31.5646,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,FALSE,1112397208
+Vitki,Vitki,Vitekl’|Vit’ki,53.5591,24.0311,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,21.6,,,4,Europe/Minsk,FALSE,1112958393
+Franopol’ye,Franopol'ye,,54.1273,25.4105,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112010615
+Yas’kawshchyna,Yas'kawshchyna,Yas’kovshchina,55.1027,30.9170,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.0,,,5,Europe/Minsk,FALSE,1112390496
+Sharibovka,Sharibovka,Sharybovka|Sharybawka,52.7769,30.5358,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,18.2,,,4,Europe/Minsk,FALSE,1112860980
+Osinovka,Osinovka,,54.1836,31.0296,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,18.9,,,4,Europe/Minsk,FALSE,1112116710
+Osinovka,Osinovka,,53.3677,32.1060,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.6,,,4,Europe/Minsk,TRUE,1112243683
+Osinovka,Osinovka,,54.1369,31.3571,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.3,,,4,Europe/Minsk,TRUE,1112362058
+Osinovka,Osinovka,Osipovka|Malaya Shishkova,53.3185,31.1576,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,9.8,,,5,Europe/Minsk,TRUE,1112863574
+Osinovka,Osinovka,,53.5649,29.1311,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,7.4,,,5,Europe/Minsk,TRUE,1112077138
+Zaroy,Zaroy,,53.5472,32.0760,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,15.0,,,4,Europe/Minsk,FALSE,1112274320
+Vyerkhni Tsyerabyazhow,Vyerkhni Tsyerabyazhow,Verkhniy Terebezhov,51.8357,26.7266,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,21.8,,,4,Europe/Minsk,FALSE,1112110441
+Novyy Sinin,Novyy Sinin,,53.8188,29.9586,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112908348
+Gladyshi,Gladyshi,,52.8469,25.0966,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,17.2,,,4,Europe/Minsk,FALSE,1112764068
+Malyya Lyeznyavichy,Malyya Lyeznyavichy,Malyye Leznevichi,53.5728,25.7599,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112287147
+Khrabryy,Khrabryy,,52.2263,30.3851,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112890672
+Shëlkovo,Shelkovo,,55.4363,28.8677,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112982383
+Brinëvo,Brinevo,,52.2539,28.0030,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112002986
+Mal’ki,Mal'ki,,55.7321,27.4027,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,FALSE,1112418699
+Dolgobor’ye,Dolgobor'ye,,55.8176,28.8563,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,4.5,,,5,Europe/Minsk,FALSE,1112976054
+Pletyashi,Pletyashi,,54.9416,26.7437,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112098249
+Kazaki,Kazaki,,55.2535,29.9194,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112370652
+Kazaki,Kazaki,Kozaki,55.4124,27.4352,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,12.2,,,4,Europe/Minsk,TRUE,1112495889
+Skachok,Skachok,Skachëk,53.3648,29.6177,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112621721
+Zavelev’ye,Zavelev'ye,,52.2095,25.0390,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112595423
+Bol’shaya Sloboda,Bol'shaya Sloboda,,54.3288,29.1091,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,FALSE,1112136197
+Voynilikha,Voynilikha,,54.0509,25.9176,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,11.4,,,4,Europe/Minsk,FALSE,1112014491
+Verkhneye Chernikhovo,Verkhneye Chernikhovo,Chernikhovo|Chernikhov|Verkhneye Chernikovo,53.2444,26.2488,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112635816
+Uzen’kiy,Uzen'kiy,,53.2500,29.8475,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,24.9,,,4,Europe/Minsk,FALSE,1112121460
+Trubyatino,Trubyatino,,52.8355,28.2488,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.4,,,4,Europe/Minsk,FALSE,1112349876
+Lyadziny,Lyadziny,Lediny|Lyadiny,53.3149,25.4775,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,14.9,,,4,Europe/Minsk,FALSE,1112968664
+Kapustichi,Kapustichi,Kapus’tsiche|Kapuścicze,54.7880,27.2332,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,FALSE,1112897774
+Nizkiye,Nizkiye,,55.4760,30.5175,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112594553
+Paraf”yanava,Paraf'yanava,Posëlok Paraf’yanovo|Paraf’yanovo,54.8766,27.6101,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112998382
+Norkuny,Norkuny,,53.9094,24.7671,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112000367
+Vatslavovo,Vatslavovo,,55.0545,28.7464,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,8.2,,,5,Europe/Minsk,FALSE,1112037179
+Belaye Balota,Belaye Balota,Beloye Boloto,52.4203,30.4601,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,35.4,,,4,Europe/Minsk,FALSE,1112512588
+Livanovo,Livanovo,,54.3688,29.0982,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.6,,,5,Europe/Minsk,FALSE,1112358185
+Medvedsk,Medvedsk,,54.9484,29.0876,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112312444
+Degtyari,Degtyari,,55.1998,27.6861,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,19.1,,,4,Europe/Minsk,FALSE,1112156757
+Degtyari,Degtyari,Degtyary|Dzekhtsyary,55.5345,27.0685,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,TRUE,1112173852
+Degtyari,Degtyari,,54.8255,27.6563,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112150984
+Mayëvka,Mayevka,,53.6020,29.0322,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,9.3,,,5,Europe/Minsk,FALSE,1112999903
+Konashevo,Konashevo,Konishevo,54.6837,30.0038,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.1,,,4,Europe/Minsk,FALSE,1112691298
+Navozy,Navozy,Nawozy,52.8500,26.6833,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,16.1,,,4,Europe/Minsk,FALSE,1112212517
+Staraya Aleshkovka,Staraya Aleshkovka,Ol’shëvka|Staraya Ol’shevka|Staraya Oleshkovka,51.8360,30.5049,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.1,,,4,Europe/Minsk,FALSE,1112939874
+Sokolyanka,Sokolyanka,,53.8667,27.5833,Belarus,BY,BLR,Minsk,Minsk,BY-HM,city,,9615.1,,,2,Europe/Minsk,FALSE,1112247913
+Bakhmetovka,Bakhmetovka,Bachmetówka,54.1878,27.3622,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112771832
+Myshkavichy,Myshkavichy,Myshkovichi|Khutora Mishkovskiye|Mishkovskiye,53.2172,29.5120,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112428622
+Kapatsevichy,Kapatsevichy,Kopatsevichi,52.6307,27.3796,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112251940
+Posëlok Progress,Poselok Progress,,53.1807,28.9875,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,12.2,,,4,Europe/Minsk,FALSE,1112059623
+Kal’niki,Kal'niki,,54.9087,28.6156,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112000106
+Vitchinskaya Rudnya,Vitchinskaya Rudnya,Rudnya Vitchinskaya|Rudnya,52.3987,28.1398,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,11.5,,,4,Europe/Minsk,FALSE,1112525901
+Apelyanovichi,Apelyanovichi,,52.9090,24.6847,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112427627
+Uzbor’ye,Uzbor'ye,,54.0400,27.7190,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,61.2,,,4,Europe/Minsk,FALSE,1112412014
+Luchki,Luchki,,55.1392,29.7479,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.7,,,4,Europe/Minsk,FALSE,1112033155
+Katichev,Katichev,Podgornyy|Novyy Katichev,51.4360,30.4826,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,6.0,,,5,Europe/Minsk,FALSE,1112657246
+Glyadovichi,Glyadovichi,,52.8893,28.3613,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.7,,,4,Europe/Minsk,FALSE,1112961660
+Otor,Otor,Otar,52.9623,30.9135,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,12.1,,,4,Europe/Minsk,FALSE,1112097369
+Staryye Velichkovichi,Staryye Velichkovichi,Wieleczkowicze Stare,52.6587,27.2504,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,52.4,,,4,Europe/Minsk,FALSE,1112933439
+Dobasna,Dobasna,Dobysno|Dobysna|Dobosna|Staraya Dobosna,53.2014,29.6780,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112056108
+Teplukhi,Teplukhi,Teplukha,53.3434,28.6658,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,23.7,,,4,Europe/Minsk,FALSE,1112095636
+Kapustino,Kapustino,,54.3854,27.2923,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,17.3,,,4,Europe/Minsk,FALSE,1112343028
+Kapustino,Kapustino,Kapus’tski|Kapuścin,54.0634,26.5539,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,TRUE,1112533529
+Zhamchuzhny,Zhamchuzhny,Zhemchuzhnyy,53.1344,25.8731,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,18.9,,,4,Europe/Minsk,FALSE,1112107601
+Laznishche,Laznishche,,51.8013,28.5169,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,7.2,,,5,Europe/Minsk,FALSE,1112788605
+Maksimkovo,Maksimkovo,,54.3761,30.0345,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112160587
+Kapustino,Kapustino,,53.2677,29.5900,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,14.0,,,4,Europe/Minsk,FALSE,1112718709
+Pogirshchino,Pogirshchino,,55.3756,29.1308,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,FALSE,1112976601
+Valyewka,Valyewka,Valuvka|Walówka|Valevka,53.4626,25.8877,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,24.6,,,4,Europe/Minsk,FALSE,1112067244
+Goloshëvka,Goloshevka,,54.4836,30.0928,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.7,,,4,Europe/Minsk,FALSE,1112222439
+Belaya Tserkov’,Belaya Tserkov',,54.6439,29.3004,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112158682
+Chersk,Chersk,,51.7091,23.6962,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112254559
+Berniki,Berniki,,55.1637,30.3941,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112208646
+Bakany,Bakany,,55.5717,30.0584,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,6.7,,,5,Europe/Minsk,FALSE,1112940993
+Klishi,Klishi,,55.1106,29.9325,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,14.2,,,4,Europe/Minsk,FALSE,1112571538
+Krapivnitsa,Krapivnitsa,Kropivnitsa,52.9494,24.2969,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,9.9,,,5,Europe/Minsk,FALSE,1112725893
+Koloniya Plyanta,Koloniya Plyanta,Plyanta,52.2667,23.6000,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,24.5,,,4,Europe/Minsk,FALSE,1112607232
+Peredovets,Peredovets,,52.7283,31.5598,Belarus,BY,BLR,Homyel’skaya Voblasts’,Homyel'skaya Voblasts',BY-HO,region,,10.3,,,4,Europe/Minsk,FALSE,1112778731
+Kholop’ya,Kholop'ya,,52.7301,25.3499,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,17.4,,,4,Europe/Minsk,FALSE,1112553823
+Imeni Stalina,Imeni Stalina,,53.9089,30.2478,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,22.5,,,4,Europe/Minsk,FALSE,1112395637
+Imeni Stalina,Imeni Stalina,,53.3239,30.4536,Belarus,BY,BLR,Mahilyowskaya Voblasts’,Mahilyowskaya Voblasts',BY-MA,region,,11.8,,,4,Europe/Minsk,TRUE,1112219381
+Poroslyany,Poroslyany,,52.6148,24.4015,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.0,,,4,Europe/Minsk,FALSE,1112609077
+Adamovo,Adamovo,,53.2188,27.6718,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,47.2,,,4,Europe/Minsk,FALSE,1112505150
+Adamovo,Adamovo,Adamowo,54.1378,26.3126,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.1,,,4,Europe/Minsk,TRUE,1112737289
+Baraviki,Baraviki,Borowiki|Boroviki,52.5150,26.9425,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,25.1,,,4,Europe/Minsk,FALSE,1112761832
+Lonitsa,Lonitsa,,55.6459,28.9604,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,FALSE,1112159010
+Imeni Stalina,Imeni Stalina,Posëlok Imeni Stalina,53.8167,27.2500,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,50.3,,,4,Europe/Minsk,FALSE,1112976174
+Gralëva,Graleva,,55.3000,30.3333,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,FALSE,1112524909
+Gorbachi,Gorbachi,,52.6978,27.9699,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,15.4,,,4,Europe/Minsk,FALSE,1112497634
+Syedcha,Syedcha,Sedcha,53.6711,27.7475,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112189303
+Zavyersha,Zavyersha,Zavershi|Zavershe|Zaversh’ye,52.2825,25.3659,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,19.0,,,4,Europe/Minsk,FALSE,1112828897
+Morgi,Morgi,,53.5482,27.9900,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,25.3,,,4,Europe/Minsk,FALSE,1112549148
+Morgi,Morgi,,54.6845,27.0712,Belarus,BY,BLR,Minskaya Voblasts’,Minskaya Voblasts',BY-MI,region,,12.5,,,4,Europe/Minsk,TRUE,1112543965
+Chernovo Vtoroye,Chernovo Vtoroye,,52.0758,26.3444,Belarus,BY,BLR,Brestskaya Voblasts’,Brestskaya Voblasts',BY-BR,region,,15.2,,,4,Europe/Minsk,FALSE,1112821460
+Gorovyye,Gorovyye,,55.5662,28.5701,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,937.1,,,3,Europe/Minsk,FALSE,1112760515
+Gorovyye,Gorovyye,,55.3864,29.0937,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,TRUE,1112767022
+Gorovyye,Gorovyye,,55.2909,28.7444,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,TRUE,1112669082
+Gorovyye,Gorovyye,Gorovyye Vtoriye,55.3755,29.1036,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,33.7,,,4,Europe/Minsk,TRUE,1112000447
+Gorovyye,Gorovyye,,55.0014,30.2190,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.0,,,4,Europe/Minsk,TRUE,1112341405
+Gorovyye,Gorovyye,,55.7826,27.1335,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,11.3,,,4,Europe/Minsk,TRUE,1112528054
+Gorovyye,Gorovyye,,55.5899,28.1221,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.2,,,4,Europe/Minsk,TRUE,1112333921
+Gorovyye,Gorovyye,,55.0982,29.5442,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.1,,,5,Europe/Minsk,TRUE,1112709959
+Stipiny,Stipiny,,54.8543,25.9895,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,12.8,,,4,Europe/Minsk,FALSE,1112839301
+Zarya,Zarya,,54.6978,29.2037,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,20.5,,,4,Europe/Minsk,FALSE,1112371881
+Zarya,Zarya,,55.8003,28.1853,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,9.5,,,5,Europe/Minsk,TRUE,1112567488
+Ul’yanovka,Ul'yanovka,Ikonki,54.8937,28.9712,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,15.7,,,4,Europe/Minsk,FALSE,1112860526
+Ul’yanovka,Ul'yanovka,,55.2325,29.2353,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.7,,,4,Europe/Minsk,TRUE,1112033474
+Puzeli,Puzeli,,54.0909,24.8280,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,17.0,,,4,Europe/Minsk,FALSE,1112428083
+Rotkovichi,Rotkovichi,,54.4903,26.6428,Belarus,BY,BLR,Hrodzyenskaya Voblasts’,Hrodzyenskaya Voblasts',BY-HR,region,,33.1,,,4,Europe/Minsk,FALSE,1112757251
+Voron’ki,Voron'ki,,55.6982,27.7692,Belarus,BY,BLR,Vitsyebskaya Voblasts’,Vitsyebskaya Voblasts',BY-VI,region,,10.3,,,4,Europe/Minsk,FALSE,1112479617

@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Lagos,Lagos,Logos|Eko,6.4550,3.3841,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,8462.4,16637000,16637000,1,Africa/Lagos,FALSE,1566593751
+Abuja,Abuja,,9.0667,7.4833,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,primary,150.3,3770000,107169,1,Africa/Lagos,FALSE,1566342270
+Ibadan,Ibadan,,7.3964,3.9167,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,admin,828.1,3552000,2550593,1,Africa/Lagos,FALSE,1566366407
+Awka,Awka,Akwa,6.2069,7.0678,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,admin,824.1,2171900,301657,1,Africa/Lagos,FALSE,1566560581
+Kano,Kano,Cano,12.0000,8.5167,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,admin,4198.4,2095000,2095000,1,Africa/Lagos,FALSE,1566422868
+Port Harcourt,Port Harcourt,,4.8242,7.0336,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,admin,9236.1,1865000,1148665,1,Africa/Lagos,FALSE,1566070649
+Nneyi-Umuleri,Nneyi-Umuleri,Umuleri,6.3333,6.8333,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,,607.7,1500000,1500000,1,Africa/Lagos,FALSE,1566349733
+Onitsha,Onitsha,Onicha,6.1667,6.7833,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,minor,607.7,1483000,1483000,1,Africa/Lagos,FALSE,1566593483
+Maiduguri,Maiduguri,Maidugari|Maidiguri,11.8333,13.1500,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,admin,1823.5,1197497,1197497,1,Africa/Lagos,FALSE,1566540296
+Aba,Aba,,5.1167,7.3667,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,minor,3615.2,1160000,1160000,1,Africa/Lagos,FALSE,1566262000
+Benin City,Benin City,Bénin|Benim,6.3333,5.6222,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,admin,952.8,1147188,1147188,1,Africa/Lagos,FALSE,1566080151
+Shagamu,Shagamu,Sagamu,6.8333,3.6500,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,minor,412.7,1132270,1132270,1,Africa/Lagos,FALSE,1566202131
+Ikare,Ikare,Ikare-Akoko,7.5167,5.7500,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,minor,624.1,1099931,1099931,1,Africa/Lagos,FALSE,1566683694
+Ogbomoso,Ogbomoso,Ogbomosho|Ogbomocho,8.1333,4.2500,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,1575.8,1032000,1032000,1,Africa/Lagos,FALSE,1566373448
+Mushin,Mushin,Mushin Halt,6.5333,3.3500,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,55023.5,935400,935400,2,Africa/Lagos,FALSE,1566329100
+Owerri,Owerri,,5.4850,7.0350,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,admin,8731.8,908109,908109,2,Africa/Lagos,FALSE,1566679132
+Abeokuta,Abeokuta,,7.1608,3.3483,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,admin,1011.3,888924,888924,2,Africa/Lagos,FALSE,1566979497
+Ikeja,Ikeja,,6.6000,3.3500,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,admin,9419.1,861300,861300,2,Africa/Lagos,FALSE,1566486388
+Akure,Akure,Akuce,7.2500,5.1950,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,admin,855.6,847903,847903,2,Africa/Lagos,FALSE,1566568277
+Ilorin,Ilorin,Illorin,8.5000,4.5500,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,admin,1108.0,847582,847582,2,Africa/Lagos,FALSE,1566480168
+Kaduna,Kaduna,,10.5167,7.4333,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,admin,1763.5,760084,760084,2,Africa/Lagos,FALSE,1566368729
+Osogbo,Osogbo,Oshogbo|Eshogbo,7.7667,4.5667,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,admin,1602.4,731000,731000,2,Africa/Lagos,FALSE,1566395088
+Enugu,Enugu,Enuga,6.4528,7.5111,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,admin,1287.4,715774,715774,2,Africa/Lagos,FALSE,1566212729
+Bauchi,Bauchi,Yakubu|Yakoba,10.3158,9.8442,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,admin,273.9,693700,693700,2,Africa/Lagos,FALSE,1566483284
+Lokoja,Lokoja,Lairdstown|Zokoja,7.8019,6.7442,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,admin,217.6,692050,692050,2,Africa/Lagos,FALSE,1566772925
+Agege,Agege,,6.6219,3.3258,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,10691.6,683600,683600,2,Africa/Lagos,FALSE,1566564887
+Jalingo,Jalingo,,8.9000,11.3667,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,admin,78.0,660213,660213,2,Africa/Lagos,FALSE,1566732241
+Jos,Jos,,9.9167,8.8903,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,admin,1614.2,622802,622802,2,Africa/Lagos,FALSE,1566773679
+Somolu,Somolu,Shomolu,6.5408,3.3872,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,40917.8,597400,597400,2,Africa/Lagos,FALSE,1566609760
+Uyo,Uyo,,5.0333,7.9275,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,admin,1187.6,554906,429900,2,Africa/Lagos,FALSE,1566061694
+Ile-Ife,Ile-Ife,Ife,7.4667,4.5667,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,280.3,501952,501952,2,Africa/Lagos,FALSE,1566756897
+Ado-Ekiti,Ado-Ekiti,Ado,7.6211,5.2214,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,admin,1524.7,446749,446749,2,Africa/Lagos,FALSE,1566196391
+Sokoto,Sokoto,Socoto,13.0622,5.2339,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,admin,2950.1,427760,427760,2,Africa/Lagos,FALSE,1566574518
+Ugep,Ugep,,5.8000,8.0833,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,minor,430.0,420000,420000,2,Africa/Lagos,FALSE,1566000091
+Zaria,Zaria,,11.0667,7.7000,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,minor,725.0,408198,408198,2,Africa/Lagos,FALSE,1566287704
+Yola,Yola,,9.2300,12.4600,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,admin,472.7,392854,392854,2,Africa/Lagos,FALSE,1566782065
+Nnewi,Nnewi,Newi,6.0167,6.9167,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,minor,4500.0,391227,391227,2,Africa/Lagos,FALSE,1566097410
+Gwoza,Gwoza,,11.0861,13.6914,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,134.8,388600,388600,2,Africa/Lagos,FALSE,1566834535
+Saki,Saki,Shaki,8.6667,3.4000,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,102.6,388225,388225,2,Africa/Lagos,FALSE,1566404680
+Oyo,Oyo,,7.8500,3.9330,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,159.3,386723,386723,2,Africa/Lagos,FALSE,1566930579
+Ilesa,Ilesa,Ilesha,7.6167,4.7167,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,2523.8,384334,384334,2,Africa/Lagos,FALSE,1566937414
+Gusau,Gusau,,12.1500,6.6667,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,admin,113.9,383162,383162,2,Africa/Lagos,FALSE,1566383682
+Warri,Warri,,5.5167,5.7500,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,minor,914.5,363382,363382,2,Africa/Lagos,FALSE,1566325734
+Umuahia,Umuahia,Umuahia-Ibeku,5.5333,7.4833,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,admin,1416.5,359230,359230,2,Africa/Lagos,FALSE,1566217980
+Gwagwalada,Gwagwalada,Gwagwaldda,8.9392,7.0758,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,minor,334.0,346000,346000,2,Africa/Lagos,FALSE,1566419265
+Lafia,Lafia,Lafia Beriberi,8.4917,8.5167,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,admin,180.2,330712,330712,2,Africa/Lagos,FALSE,1566042542
+Okene,Okene,Okeni,7.5500,6.2333,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,minor,976.4,320260,320260,2,Africa/Lagos,FALSE,1566909987
+Katsina,Katsina,,12.9889,7.6008,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,admin,2242.7,318459,318459,2,Africa/Lagos,FALSE,1566777297
+Minna,Minna,,9.6139,6.5569,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,admin,4322.7,304113,304113,2,Africa/Lagos,FALSE,1566285237
+Kaura Namoda,Kaura Namoda,,12.6000,6.5897,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,minor,324.2,281367,281367,2,Africa/Lagos,FALSE,1566455111
+Nguru,Nguru,N’gourou,12.8792,10.4525,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,minor,295.4,270632,270632,2,Africa/Lagos,FALSE,1566737779
+Gombe,Gombe,,10.2904,11.1700,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,admin,183.7,270366,270366,2,Africa/Lagos,FALSE,1566855445
+Hong,Hong,,10.2317,12.9303,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,minor,100.8,260900,260900,2,Africa/Lagos,FALSE,1566033629
+Ondo,Ondo,,7.0833,4.8333,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,minor,202.3,257005,257005,2,Africa/Lagos,FALSE,1566993724
+Sapele,Sapele,,5.9000,5.6667,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,minor,605.9,242652,242652,2,Africa/Lagos,FALSE,1566310893
+Iseyin,Iseyin,,7.9667,3.6000,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,156.0,236000,236000,2,Africa/Lagos,FALSE,1566714777
+Damboa,Damboa,Dumboa,11.1500,12.7500,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,57.1,233500,233500,2,Africa/Lagos,FALSE,1566264329
+Ijebu-Ode,Ijebu-Ode,,6.8208,3.9208,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,minor,1159.7,222653,222653,2,Africa/Lagos,FALSE,1566495747
+Owo,Owo,,7.1961,5.5864,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,minor,217.1,222262,222262,2,Africa/Lagos,FALSE,1566833788
+Osisioma,Osisioma,,5.1497,7.3303,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,minor,1109.3,219632,219632,2,Africa/Lagos,FALSE,1566203950
+Apapa,Apapa,,6.4500,3.3667,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,10301.0,217362,217362,2,Africa/Lagos,FALSE,1566625487
+Kuje,Kuje,,8.8822,7.2203,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,minor,129.0,212100,212100,2,Africa/Lagos,FALSE,1566591024
+Burutu,Burutu,,5.3500,5.5167,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,minor,185.2,209666,209666,2,Africa/Lagos,FALSE,1566686777
+Kukawa,Kukawa,Koukawa|Koukaoua,12.9167,13.5667,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,72.5,203864,203864,2,Africa/Lagos,FALSE,1566891739
+Mai’Adua,Mai'Adua,Maiaduwa|Maiadua,13.1906,8.2117,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,minor,381.0,201178,201178,2,Africa/Lagos,FALSE,1566695464
+Isanlu,Isanlu,Isanlu-Itedo,8.1667,5.8000,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,minor,145.7,200000,200000,2,Africa/Lagos,FALSE,1566562770
+Baure,Baure,,12.7833,8.7667,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,minor,279.2,197425,197425,2,Africa/Lagos,FALSE,1566183701
+Iwo,Iwo,,7.6333,4.1833,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,25.4,191377,191377,2,Africa/Lagos,FALSE,1566462707
+Malumfashi,Malumfashi,,11.8000,7.6167,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,minor,271.4,182920,182920,2,Africa/Lagos,FALSE,1566616936
+Epe,Epe,Epeh,6.5833,3.9833,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,188.0,181409,181409,2,Africa/Lagos,FALSE,1566461573
+Inisa,Inisa,,7.9833,4.6500,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,727.5,180533,180533,2,Africa/Lagos,FALSE,1566568743
+Ikot Ekpene,Ikot Ekpene,,5.1833,7.7167,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,minor,1233.4,180500,180500,2,Africa/Lagos,FALSE,1566150661
+Funtua,Funtua,Puntua,11.5204,7.3200,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,minor,700.0,180475,180475,2,Africa/Lagos,FALSE,1566877863
+Calabar,Calabar,,4.9767,8.3383,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,admin,297.0,179392,179392,2,Africa/Lagos,FALSE,1566495489
+Biu,Biu,,10.6111,12.1950,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,83.9,176072,176072,2,Africa/Lagos,FALSE,1566675681
+Ada,Ada,,7.8956,4.7094,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,1535.3,174152,174152,2,Africa/Lagos,FALSE,1566487740
+Bida,Bida,,9.0804,6.0100,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,minor,5711.0,173849,173849,2,Africa/Lagos,FALSE,1566468363
+Makurdi,Makurdi,Makurdu,7.7333,8.5000,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,admin,208.4,170925,170925,2,Africa/Lagos,FALSE,1566873994
+Offa,Offa,,8.1470,4.7200,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,minor,346.1,166112,166112,2,Africa/Lagos,FALSE,1566192714
+Ede,Ede,Edde,7.7389,4.4361,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,484.4,159866,159866,2,Africa/Lagos,FALSE,1566336253
+Kisi,Kisi,Kishi,9.0833,3.8500,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,179.2,155510,155510,2,Africa/Lagos,FALSE,1566512059
+Zango,Zango,,12.9333,8.5333,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,minor,257.5,154743,154743,2,Africa/Lagos,FALSE,1566483135
+Dutse,Dutse,Dutsi,11.7011,9.3419,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,admin,396.5,153000,153000,2,Africa/Lagos,FALSE,1566855083
+Ipokia,Ipokia,,6.5333,2.8500,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,minor,239.2,150426,150426,2,Africa/Lagos,FALSE,1566918556
+Auchi,Auchi,,7.0667,6.2667,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,minor,296.4,150000,150000,2,Africa/Lagos,FALSE,1566873539
+Asaba,Asaba,,6.1833,6.7333,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,admin,558.2,149603,149603,2,Africa/Lagos,FALSE,1566322425
+Numan,Numan,,9.4669,12.0328,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,minor,175.6,141200,141200,2,Africa/Lagos,FALSE,1566815415
+Igboho,Igboho,,8.8333,3.7500,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,minor,176.6,136772,136772,2,Africa/Lagos,FALSE,1566640824
+Ipetumodu,Ipetumodu,Ipetymodu,7.5070,4.4447,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,144.0,135000,135000,2,Africa/Lagos,FALSE,1566155015
+Idanre,Idanre,,7.0922,5.1322,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,67.4,129024,129024,2,Africa/Lagos,FALSE,1566785839
+Mubi,Mubi,,10.2667,13.2667,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,minor,208.8,128900,128900,2,Africa/Lagos,FALSE,1566265170
+Abaji,Abaji,,8.4756,6.9433,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,minor,134.9,127900,127900,2,Africa/Lagos,FALSE,1566650592
+Gashua,Gashua,,12.8681,11.0464,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,minor,145.4,125100,125100,2,Africa/Lagos,FALSE,1566925429
+Unwana,Unwana,,5.8625,7.9486,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,781.5,120000,120000,2,Africa/Lagos,FALSE,1566334848
+Bama,Bama,,11.5189,13.6842,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,42.5,118121,118121,2,Africa/Lagos,FALSE,1566590565
+Ilobu,Ilobu,,7.8400,4.4860,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,minor,2585.5,118097,118097,2,Africa/Lagos,FALSE,1566604971
+Nsukka,Nsukka,Nsukka Town,6.8567,7.3958,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,minor,909.3,111017,111017,2,Africa/Lagos,FALSE,1566882360
+Itele,Itele,,6.7667,4.0625,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,77.2,110196,110196,2,Africa/Lagos,TRUE,1566450486
+Nkpor,Nkpor,,6.1500,6.8333,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,,1853.7,109377,109377,2,Africa/Lagos,FALSE,1566172737
+Birnin Kebbi,Birnin Kebbi,,12.4504,4.1999,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,admin,326.6,108164,108164,2,Africa/Lagos,FALSE,1566191812
+Azare,Azare,,11.6742,10.1911,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,minor,234.1,105687,105687,2,Africa/Lagos,FALSE,1566322480
+Kontagora,Kontagora,,10.4030,5.4730,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,minor,118.6,98763,98763,3,Africa/Lagos,FALSE,1566599231
+Wukari,Wukari,Ukari,7.8704,9.7800,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,minor,93.9,92933,92933,3,Africa/Lagos,FALSE,1566025302
+Damaturu,Damaturu,,11.7444,11.9611,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,admin,37.2,88014,88014,2,Africa/Lagos,FALSE,1566897107
+Potiskum,Potiskum,Putuskum,11.7104,11.0800,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,minor,150.6,86002,86002,3,Africa/Lagos,FALSE,1566461523
+Keffi,Keffi,,8.8464,7.8733,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,minor,868.0,85911,85911,3,Africa/Lagos,FALSE,1566364417
+Idah,Idah,,7.0978,6.7433,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,minor,110.9,79815,79815,3,Africa/Lagos,FALSE,1566566689
+Ikom,Ikom,,6.0833,8.6167,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,minor,40.3,79103,79103,3,Africa/Lagos,FALSE,1566375153
+Iperu,Iperu,,6.9143,3.6632,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,160.0,78412,78412,3,Africa/Lagos,FALSE,1566848833
+Iju,Iju,,6.6107,3.0857,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,909.6,75000,75000,3,Africa/Lagos,FALSE,1566694893
+Igbanke,Igbanke,Igbaki,6.3869,6.1647,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,115.0,68500,68500,3,Africa/Lagos,FALSE,1566776421
+Otukpo,Otukpo,Oturkpo,7.1904,8.1300,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,minor,298.2,68220,68220,3,Africa/Lagos,FALSE,1566465153
+Chibok,Chibok,Chibuk,10.8697,12.8467,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,49.0,66105,66105,3,Africa/Lagos,FALSE,1566191891
+Ipele,Ipele,,7.1333,5.6667,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,337.0,57000,57000,3,Africa/Lagos,FALSE,1566772510
+Oke-Mesi,Oke-Mesi,Oke Mesi|Oke Messi,7.8167,4.9167,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,393.4,56000,56000,3,Africa/Lagos,FALSE,1566922020
+Ikot Okoro,Ikot Okoro,,4.9000,7.7167,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,576.1,50000,50000,3,Africa/Lagos,FALSE,1566577228
+Itapa-Ekiti,Itapa-Ekiti,Itapa,7.8131,5.3844,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,440.9,42509,42509,3,Africa/Lagos,FALSE,1566000321
+Kumo,Kumo,,10.0431,11.2183,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,minor,183.7,35712,35712,3,Africa/Lagos,FALSE,1566501095
+Ikot Abasi,Ikot Abasi,Opobo|Egwanga,4.5704,7.5600,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,minor,637.1,34911,34911,3,Africa/Lagos,TRUE,1566812706
+Ire,Ire,,7.9361,4.7250,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,1230.3,32336,32336,3,Africa/Lagos,FALSE,1566894359
+Choba,Choba,Isioba,4.8906,6.9033,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,434.8,27253,27253,3,Africa/Lagos,FALSE,1566302729
+Okuta,Okuta,,9.2199,3.2005,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,29.6,26589,26589,3,Africa/Lagos,FALSE,1566074252
+Koko,Koko,,11.4232,4.5170,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,180.2,25792,25792,3,Africa/Lagos,TRUE,1566646210
+Zungeru,Zungeru,,9.8128,6.1558,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,69.2,24447,24447,3,Africa/Lagos,FALSE,1566658964
+Tegina,Tegina,,10.0706,6.1906,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,24037,24037,3,Africa/Lagos,FALSE,1566672639
+Jebba,Jebba,Djebba,9.1539,4.8119,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,102.5,22411,22411,3,Africa/Lagos,FALSE,1566859918
+Aiyetoro Gbede,Aiyetoro Gbede,Aiyetoro,7.9833,6.0000,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,193.8,15000,15000,3,Africa/Lagos,FALSE,1566150800
+Amawom,Amawom,,5.4667,7.5667,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,850.4,15000,15000,3,Africa/Lagos,FALSE,1566956703
+Orlu,Orlu,Awlu,5.7837,7.0333,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,minor,1681.3,9351,9351,3,Africa/Lagos,FALSE,1566062510
+Bena,Bena,,11.2867,5.9433,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,117.4,8361,8361,4,Africa/Lagos,FALSE,1566870524
+Saminaka,Saminaka,Samunakar|Rahama,10.4000,8.6833,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,minor,219.9,7165,7165,3,Africa/Lagos,FALSE,1566984724
+Baro,Baro,Barbo,8.5833,6.4167,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,6059,6059,4,Africa/Lagos,FALSE,1566903261
+Imota,Imota,Imawte,6.6639,3.6700,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,5117.0,4240,4240,2,Africa/Lagos,FALSE,1566527100
+Obuohia,Obuohia,,5.4342,7.6081,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,850.4,4000,4000,3,Africa/Lagos,FALSE,1566867757
+Umudike,Umudike,,5.4667,7.5500,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,850.4,2687,2687,3,Africa/Lagos,FALSE,1566906920
+Isiala Oboro,Isiala Oboro,Isiala,5.4042,7.5683,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,minor,850.4,682,682,3,Africa/Lagos,FALSE,1566381974
+Gabo,Gabo,,7.5917,9.2757,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,185.5,,,4,Africa/Lagos,FALSE,1566330785
+Tungan Dogo Bakomi,Tungan Dogo Bakomi,,10.7649,4.3439,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,27.2,,,4,Africa/Lagos,FALSE,1566392202
+Yoli,Yoli,,10.2419,10.0112,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,194.5,,,4,Africa/Lagos,FALSE,1566571764
+Ochinebe,Ochinebe,,7.0731,8.2953,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,282.4,,,3,Africa/Lagos,FALSE,1566263880
+Are,Are,,7.0952,3.5581,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,258.2,,,3,Africa/Lagos,FALSE,1566096348
+Tseukende,Tseukende,,7.5386,8.4739,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,101.8,,,4,Africa/Lagos,FALSE,1566430257
+Jimbom,Jimbom,,10.3565,10.6283,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,90.3,,,4,Africa/Lagos,FALSE,1566549368
+Aja,Aja,,6.3165,8.3857,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,176.1,,,4,Africa/Lagos,FALSE,1566219643
+Ukpulugu,Ukpulugu,,6.3789,7.6040,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,272.0,,,3,Africa/Lagos,FALSE,1566754404
+Latayo,Latayo,,7.5586,3.7650,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566430980
+Dauyo,Dauyo,,11.2409,11.1063,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,115.3,,,4,Africa/Lagos,FALSE,1566829595
+Mogono,Mogono,,12.2309,11.8065,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,27.6,,,4,Africa/Lagos,FALSE,1566551157
+Alawode,Alawode,,7.9204,3.3165,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,534.6,,,3,Africa/Lagos,FALSE,1566612044
+Alawode,Alawode,,8.0707,4.4743,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,274.8,,,3,Africa/Lagos,TRUE,1566005314
+Alawode,Alawode,,8.5143,4.0881,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,TRUE,1566005848
+Ase,Ase,,5.3990,6.3420,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566352220
+Ngelzarma,Ngelzarma,Ngelzerma,11.6848,11.6201,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,96.7,,,4,Africa/Lagos,FALSE,1566350808
+Todi,Todi,,9.7500,11.1500,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,352.4,,,3,Africa/Lagos,FALSE,1566413074
+Kwachimin,Kwachimin,,7.1583,8.5735,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566058040
+Tseakpera,Tseakpera,,7.2452,9.2118,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566866764
+Erure,Erure,,5.5516,5.6216,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,914.5,,,3,Africa/Lagos,FALSE,1566354655
+Wuro Kudou,Wuro Kudou,,10.4250,10.8216,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,90.3,,,4,Africa/Lagos,FALSE,1566808141
+Madawun,Madawun,,12.1098,11.0308,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,95.1,,,4,Africa/Lagos,FALSE,1566178462
+Iffia,Iffia,,5.8715,5.0938,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,130.4,,,4,Africa/Lagos,FALSE,1566173845
+Eko-Akhaluavbalu,Eko-Akhaluavbalu,,6.8162,6.3123,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,309.0,,,3,Africa/Lagos,FALSE,1566000170
+Achalla-Owa-Olo,Achalla-Owa-Olo,,6.4533,7.2551,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,405.0,,,3,Africa/Lagos,FALSE,1566360602
+Azuwa,Azuwa,,6.1136,6.1674,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,472.3,,,3,Africa/Lagos,FALSE,1566359267
+Zandan,Zandan,,11.3465,9.8923,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,197.6,,,4,Africa/Lagos,FALSE,1566277711
+Gaba,Gaba,,9.2850,7.4231,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,976.8,,,3,Africa/Lagos,FALSE,1566495494
+Tebo,Tebo,,7.1804,4.2973,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,218.2,,,3,Africa/Lagos,FALSE,1566002777
+Gaulire,Gaulire,,9.1827,12.3885,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566483534
+Amagu,Amagu,,5.9541,7.6923,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,716.6,,,3,Africa/Lagos,FALSE,1566192953
+Amagu,Amagu,,6.5504,7.1337,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,377.9,,,3,Africa/Lagos,TRUE,1566955522
+Latula,Latula,,8.1252,3.7628,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,158.0,,,4,Africa/Lagos,FALSE,1566252786
+Dzwafu-Tifi,Dzwafu-Tifi,,9.0166,6.1899,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,111.0,,,4,Africa/Lagos,FALSE,1566112071
+Bajo,Bajo,,7.5624,9.4276,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,176.0,,,4,Africa/Lagos,FALSE,1566172842
+Unguwan Gudalai,Unguwan Gudalai,,11.2510,8.8865,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,328.7,,,3,Africa/Lagos,FALSE,1566852038
+Ilye,Ilye,,7.1737,8.5491,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566159509
+Okpoto,Okpoto,,7.3189,6.4079,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,173.6,,,4,Africa/Lagos,FALSE,1566993783
+Iza,Iza,Issga|Isza,11.3853,13.6894,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,180.5,,,4,Africa/Lagos,FALSE,1566591091
+Budokubokiri,Budokubokiri,Ibudokubokiri,4.6978,6.8936,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,471.6,,,3,Africa/Lagos,FALSE,1566172686
+Okpoto,Okpoto,,6.3614,7.8639,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,244.6,,,3,Africa/Lagos,FALSE,1566010456
+Kermi,Kermi,Kurmi,11.5731,11.2602,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,103.3,,,4,Africa/Lagos,FALSE,1566485319
+Igbatim,Igbatim,,7.3648,9.3394,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566819297
+Ugbo-Obi,Ugbo-Obi,,6.3628,6.6083,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,379.4,,,3,Africa/Lagos,FALSE,1566166080
+Ungua Ganji,Ungua Ganji,,12.6569,8.7352,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,300.5,,,3,Africa/Lagos,FALSE,1566075775
+Garin Abba,Garin Abba,,8.5543,10.9727,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,FALSE,1566796619
+Anghara,Anghara,,5.7010,7.1679,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,3554.7,,,2,Africa/Lagos,FALSE,1566288946
+Tunga Runtuwa,Tunga Runtuwa,,11.4483,4.2145,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,74.5,,,4,Africa/Lagos,FALSE,1566993001
+Nyiongo,Nyiongo,,7.5886,8.2409,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,147.6,,,4,Africa/Lagos,FALSE,1566755566
+Mbaamandev,Mbaamandev,,7.1508,9.0362,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566951611
+Ojinato,Ojinato,,6.2580,7.2340,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,506.5,,,3,Africa/Lagos,FALSE,1566352728
+Ghana,Ghana,Omiekiri,4.4779,6.1271,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,167.1,,,4,Africa/Lagos,FALSE,1566969695
+Ghana,Ghana,Gbana,7.2592,8.9922,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566116508
+Igbodoko,Igbodoko,,6.4465,4.7585,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,453.5,,,3,Africa/Lagos,FALSE,1566413602
+Kaimari,Kaimari,,11.3092,12.3901,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,57.1,,,4,Africa/Lagos,FALSE,1566880730
+Gauraye,Gauraye,,12.7078,8.3535,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,336.9,,,3,Africa/Lagos,FALSE,1566496917
+Dandadu,Dandadu,,8.4729,10.7597,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,FALSE,1566952991
+Ikem-Nkwe,Ikem-Nkwe,Ikem-Nkwor,6.8193,7.7438,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,243.9,,,3,Africa/Lagos,FALSE,1566730786
+Agigbigi,Agigbigi,,6.3000,5.5500,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,2063.9,,,2,Africa/Lagos,FALSE,1566653927
+Olupele,Olupele,,7.3662,4.2935,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,714.2,,,3,Africa/Lagos,FALSE,1566002794
+Mokunwaje,Mokunwaje,,6.3365,4.8247,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,299.8,,,3,Africa/Lagos,FALSE,1566516682
+Hoton,Hoton,,9.2173,8.8313,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,174.2,,,4,Africa/Lagos,FALSE,1566277569
+Pamo,Pamo,,8.1430,4.0588,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566004860
+Darpi,Darpi,,10.3046,12.1541,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566356439
+Mbongirga,Mbongirga,,9.9717,12.2910,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566007425
+Ibili,Ibili,,10.5500,5.3167,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,118.6,,,4,Africa/Lagos,FALSE,1566618537
+Kakan,Kakan,,7.1817,8.2376,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,109.2,,,4,Africa/Lagos,FALSE,1566449662
+Meori,Meori,,13.2626,10.5065,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,41.3,,,4,Africa/Lagos,FALSE,1566406304
+Marafa,Marafa,,8.6316,4.8951,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,707.8,,,3,Africa/Lagos,FALSE,1566668607
+Darkanyo,Darkanyo,,9.6980,12.2640,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566007614
+Sheshau,Sheshau,,10.7053,13.1658,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,103.5,,,4,Africa/Lagos,FALSE,1566869879
+Dekuku,Dekuku,,7.0340,8.8287,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566484068
+Bukaru,Bukaru,,8.9827,3.3678,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,29.6,,,4,Africa/Lagos,FALSE,1566814363
+Shadugh,Shadugh,,8.3500,11.9667,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,136.0,,,4,Africa/Lagos,FALSE,1566986958
+Ogbo,Ogbo,,6.7753,3.9236,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,358.7,,,3,Africa/Lagos,FALSE,1566559109
+Anum,Anum,,7.3269,8.9124,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566017563
+Anum,Anum,,7.3823,8.9701,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,TRUE,1566896798
+Anum,Anum,,7.1858,8.5162,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,TRUE,1566793159
+Anum,Anum,,7.6194,9.0429,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,TRUE,1566417665
+Anum,Anum,,7.4681,8.9440,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,TRUE,1566674998
+Agelaga,Agelaga,,7.0968,8.8008,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566060899
+Gaidau,Gaidau,Gardau,13.6658,5.3014,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,317.9,,,3,Africa/Lagos,FALSE,1566732626
+Ntanante,Ntanante,Ntamante,6.4238,8.7499,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,93.9,,,4,Africa/Lagos,FALSE,1566454047
+Aguetiti II,Aguetiti II,,5.8444,6.6361,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566368695
+Ovwo,Ovwo,Owo,5.4748,5.9478,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,424.7,,,3,Africa/Lagos,FALSE,1566759991
+Dilpalma Karemi,Dilpalma Karemi,,10.3178,12.8666,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,90.9,,,4,Africa/Lagos,FALSE,1566379449
+Masole,Masole,,7.2224,4.8053,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,202.3,,,3,Africa/Lagos,FALSE,1566005240
+Segpe,Segpe,,4.5524,5.8183,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,196.8,,,4,Africa/Lagos,FALSE,1566132259
+Wende Ade,Wende Ade,,7.0425,8.5083,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566632940
+Wuro Ahmadu,Wuro Ahmadu,,10.0685,12.9705,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,90.9,,,4,Africa/Lagos,FALSE,1566786588
+Olobawa,Olobawa,Qlobawa,12.6302,4.8943,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,154.9,,,4,Africa/Lagos,FALSE,1566385238
+Damawa,Damawa,,11.8465,9.6081,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,230.2,,,3,Africa/Lagos,FALSE,1566164425
+Juma,Juma,,12.8778,8.4658,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,360.8,,,3,Africa/Lagos,FALSE,1566463927
+Pii,Pii,,7.8742,9.2755,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,93.9,,,4,Africa/Lagos,FALSE,1566924427
+Onipakala,Onipakala,,7.0874,3.4104,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,258.2,,,3,Africa/Lagos,FALSE,1566002466
+Elekoto,Elekoto,,8.7949,4.2314,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,FALSE,1566249296
+Makporu,Makporu,,11.9777,4.1169,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,176.5,,,4,Africa/Lagos,FALSE,1566507728
+Juma,Juma,,10.8333,7.7833,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,200.4,,,3,Africa/Lagos,FALSE,1566748767
+Ikpukum,Ikpukum,,7.3954,8.6051,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,101.8,,,4,Africa/Lagos,FALSE,1566791402
+Magazu,Magazu,,11.9116,6.9539,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,FALSE,1566370126
+Igoli,Igoli,,6.6652,8.7979,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,257.6,,,3,Africa/Lagos,FALSE,1566649978
+Kashiramu,Kashiramu,Kashirmo,10.5462,7.7559,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,133.6,,,4,Africa/Lagos,FALSE,1566202844
+Darabioju,Darabioju,,7.4461,4.3442,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,218.2,,,3,Africa/Lagos,FALSE,1566002717
+Baba-Akim,Baba-Akim,,4.8469,5.4834,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,233.9,,,3,Africa/Lagos,FALSE,1566355425
+Wuro Hassana,Wuro Hassana,,9.0349,12.2013,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566508988
+Kala Tuma,Kala Tuma,,4.5876,6.9290,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,471.6,,,3,Africa/Lagos,FALSE,1566623921
+Sheme,Sheme,,12.3999,8.2403,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,251.1,,,3,Africa/Lagos,FALSE,1566851361
+Karewa Jauro Gorga,KarewaJauroGorga,,9.7578,12.8689,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,66.3,,,4,Africa/Lagos,FALSE,1566006348
+Kpokiti,Kpokiti,,5.6306,5.6252,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,914.5,,,3,Africa/Lagos,FALSE,1566097688
+Ekrerhavbe,Ekrerhavbe,Ekresame,5.5607,5.9213,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,598.9,,,3,Africa/Lagos,FALSE,1566713776
+Utaji,Utaji,,7.1697,8.5929,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566775165
+Tudun Fulani,Tudun Fulani,,10.3638,8.7042,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,219.9,,,3,Africa/Lagos,FALSE,1566379746
+Muhura,Muhura,,10.3579,13.4746,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,323.3,,,3,Africa/Lagos,FALSE,1566000848
+Lenfagi,Lenfagi,,9.2315,5.6680,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,84.4,,,4,Africa/Lagos,FALSE,1566590724
+Ona-Epe,Ona-Epe,,7.1421,4.7873,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,202.3,,,3,Africa/Lagos,FALSE,1566005176
+Keminini,Keminini,,4.6000,6.3167,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,373.6,,,3,Africa/Lagos,FALSE,1566776306
+Waya,Waya,,7.6547,3.8253,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566888824
+Dugon Kurmi,DugonKurmi,,8.6548,8.9960,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,123.0,,,4,Africa/Lagos,FALSE,1566007488
+Udula,Udula,,7.4542,8.8656,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,300.6,,,3,Africa/Lagos,FALSE,1566813470
+Fale,Fale,,8.9075,9.8782,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,38.2,,,4,Africa/Lagos,FALSE,1566602022
+Numbupi,Numbupi,,9.5647,6.5977,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,147.0,,,4,Africa/Lagos,FALSE,1566643822
+Odo,Odo,,7.2918,4.9378,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,801.6,,,3,Africa/Lagos,FALSE,1566005025
+Odo,Odo,,7.5416,4.8221,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,202.3,,,3,Africa/Lagos,FALSE,1566486867
+Ungwan Sha 1,Ungwan Sha 1,,11.6237,7.9816,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,506.0,,,3,Africa/Lagos,FALSE,1566999650
+Kware,Kware,,12.5500,4.4333,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,252.7,,,3,Africa/Lagos,FALSE,1566387305
+Kware,Kware,,10.4510,8.1916,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,121.6,,,4,Africa/Lagos,FALSE,1566336221
+Odo,Odo,,7.6089,3.9342,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,689.6,,,3,Africa/Lagos,FALSE,1566497507
+Dildar,Dildar,,10.0725,12.9937,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,90.9,,,4,Africa/Lagos,FALSE,1566867053
+Masagafu,Masagafu,,9.1023,6.1247,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,,,4,Africa/Lagos,FALSE,1566091183
+Mai Hula,Mai Hula,,7.1648,10.8289,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,27.3,,,4,Africa/Lagos,FALSE,1566868729
+Para Hussara,Para Hussara,,10.4998,13.2395,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.5,,,4,Africa/Lagos,FALSE,1566177071
+Dugua,Dugua,,11.6404,3.9905,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566420489
+Oko Lemo,Oko Lemo,,6.8833,3.1667,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,139.2,,,4,Africa/Lagos,FALSE,1566852535
+Bako,Bako,,8.9175,7.0721,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,1666.3,,,3,Africa/Lagos,FALSE,1566007481
+Moyan,Moyan,,8.6595,4.1659,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.5,,,4,Africa/Lagos,FALSE,1566530473
+Aro,Aro,,7.2952,4.2789,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,795.9,,,3,Africa/Lagos,FALSE,1566003216
+Aro,Aro,,7.3942,4.2770,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,714.2,,,3,Africa/Lagos,TRUE,1566003167
+Aro,Aro,,7.8167,4.4500,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,376.5,,,3,Africa/Lagos,TRUE,1566811534
+Aro,Aro,,7.7500,4.2667,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,331.0,,,3,Africa/Lagos,TRUE,1566912298
+Aro,Aro,,7.5380,4.5497,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,240.1,,,3,Africa/Lagos,TRUE,1566001885
+Mamo,Mamo,,7.3075,8.9558,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566125050
+Mamo,Mamo,,7.5589,8.0903,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,147.6,,,4,Africa/Lagos,TRUE,1566427125
+Jimaku,Jimaku,,9.8457,5.8420,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,37.4,,,4,Africa/Lagos,FALSE,1566213988
+Kpenwe,Kpenwe,,7.4884,10.0943,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,128.6,,,4,Africa/Lagos,FALSE,1566959941
+Adeniji,Adeniji,,7.5419,3.8531,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,689.6,,,3,Africa/Lagos,FALSE,1566109526
+Adeniji,Adeniji,,7.8098,3.3094,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,288.1,,,3,Africa/Lagos,TRUE,1566828222
+Adeniji,Adeniji,,7.5250,3.3720,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,222.6,,,3,Africa/Lagos,TRUE,1566746364
+Adeniji,Adeniji,,7.4693,3.7228,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,TRUE,1566652988
+Damudanaka,Damudanaka,,10.5087,12.2506,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566905517
+Aiyekoto,Aiyekoto,,8.4329,4.3739,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,117.9,,,4,Africa/Lagos,FALSE,1566001356
+Ungwar Ashen,Ungwar Ashen,,9.3207,11.2058,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566125962
+Agenor,Agenor,,7.1306,8.5513,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566203142
+Agenor,Agenor,,7.2749,8.3329,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,101.8,,,4,Africa/Lagos,TRUE,1566808694
+Inigu,Inigu,,5.6904,5.8726,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,794.4,,,3,Africa/Lagos,FALSE,1566389098
+Owa-Nta,Owa-Nta,,6.2357,6.1860,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,491.8,,,3,Africa/Lagos,FALSE,1566925396
+Ilogbo,Ilogbo,,6.7221,3.1619,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,909.6,,,3,Africa/Lagos,FALSE,1566596900
+Ekreka,Ekreka,,5.5322,6.1632,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,454.3,,,3,Africa/Lagos,FALSE,1566862559
+Maidalar,Maidalar,,12.6992,11.6845,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,45.2,,,4,Africa/Lagos,FALSE,1566793852
+Sabon Rijia Maidaji,Sabon Rijia Maidaji,,12.2916,3.9095,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,185.8,,,4,Africa/Lagos,FALSE,1566295823
+Kwankwaso,Kwankwaso,,11.8509,8.3960,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,803.5,,,3,Africa/Lagos,FALSE,1566954687
+Misau,Misau,,11.3137,10.4666,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,minor,335.3,,,3,Africa/Lagos,FALSE,1566143423
+Duwo,Duwo,,10.5812,10.6903,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,87.7,,,4,Africa/Lagos,FALSE,1566416553
+Balu Argungun,Balu Argungun,,12.0386,3.9522,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,232.8,,,3,Africa/Lagos,FALSE,1566299461
+Leho Bulama Birngin,Leho Bulama Birngin,,10.6545,12.7910,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,103.5,,,4,Africa/Lagos,FALSE,1566850187
+Ilogbo,Ilogbo,,8.0000,4.2667,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,214.9,,,3,Africa/Lagos,FALSE,1566328815
+Mainasara,Mainasara,,9.4291,6.0858,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,,,4,Africa/Lagos,FALSE,1566317345
+Misau,Misau,,10.3769,12.0764,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,122.3,,,4,Africa/Lagos,FALSE,1566318579
+Kombani,Kombani,,10.0464,11.0167,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,183.7,,,4,Africa/Lagos,FALSE,1566398895
+Bala,Bala,Bela,12.6374,5.1884,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,183.3,,,4,Africa/Lagos,FALSE,1566050769
+Gbokolu,Gbokolu,,6.8667,3.0667,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,1720.0,,,3,Africa/Lagos,FALSE,1566269208
+Dooki,Dooki,,7.5123,9.0173,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566947498
+Tsegbagir,Tsegbagir,,7.1686,9.1714,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566691431
+Ekpemi,Ekpemi,,7.4561,5.8625,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,531.8,,,3,Africa/Lagos,FALSE,1566543623
+Kurawa,Kurawa,,13.5201,6.3636,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,144.5,,,4,Africa/Lagos,FALSE,1566067220
+Bugirdi,Bugirdi,,10.4594,10.6175,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,90.3,,,4,Africa/Lagos,FALSE,1566964189
+Balogun Mini,Balogun Mini,,7.1326,4.1299,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,514.5,,,3,Africa/Lagos,FALSE,1566003359
+Abule-Apata,Abule-Apata,Abule Apata,7.6521,3.2593,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,125.6,,,4,Africa/Lagos,FALSE,1566609383
+Gang Telani,GangTelani,,8.4203,11.6540,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,36.7,,,4,Africa/Lagos,FALSE,1566008219
+Capenta Camp,Capenta Camp,,5.4352,6.3682,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,335.8,,,3,Africa/Lagos,FALSE,1566168236
+Momo,Momo,,8.2162,4.5098,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566007508
+Momo,Momo,,11.9277,7.4797,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,291.7,,,3,Africa/Lagos,FALSE,1566484013
+Pastor,Pastor,,7.1458,4.6167,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,293.4,,,3,Africa/Lagos,FALSE,1566004754
+Ipasa,Ipasa,,7.9167,4.4167,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,274.8,,,3,Africa/Lagos,FALSE,1566453578
+Wuro Jatau,WuroJatau,,8.3289,11.2377,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,FALSE,1566006816
+Daakanu,Daakanu,,8.5341,12.0719,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.1,,,4,Africa/Lagos,FALSE,1566513815
+Gbomo,Gbomo,,6.7931,3.5974,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,644.7,,,3,Africa/Lagos,FALSE,1566500590
+Unguwar Danya,Unguwar Danya,,12.4175,9.2383,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,133.4,,,4,Africa/Lagos,FALSE,1566725446
+Nwaorieubi,Nwaorieubi,Nworieubi|Nwaorie-Ubi,5.5818,7.0165,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,minor,1894.6,,,3,Africa/Lagos,FALSE,1566244182
+Nditi,Nditi,Ndiri,5.2214,7.4263,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,767.2,,,3,Africa/Lagos,FALSE,1566015420
+Ivwitapere,Ivwitapere,,5.4761,6.0337,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,598.9,,,3,Africa/Lagos,FALSE,1566475712
+Amoje,Amoje,,7.3188,3.4190,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566713442
+Kongoro,Kongoro,,10.9148,9.1774,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,115.8,,,4,Africa/Lagos,FALSE,1566630839
+Taraku,Taraku,,7.3179,10.1895,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,128.6,,,4,Africa/Lagos,FALSE,1566083842
+Okparantaba,Okparantaba,,4.5333,6.3833,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,233.8,,,3,Africa/Lagos,FALSE,1566027193
+Lancawa,Lancawa,Langawa,11.5588,11.2514,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,103.3,,,4,Africa/Lagos,FALSE,1566402891
+Ungwan Dan Gada,Ungwan Dan Gada,,11.6580,7.6422,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,304.1,,,3,Africa/Lagos,FALSE,1566514039
+Jengbari,Jengbari,,8.5910,11.7586,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,FALSE,1566690804
+Alafiaro,Alafiaro,Alafiyaru|Alafiyarou,9.7607,3.3684,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,29.6,,,4,Africa/Lagos,FALSE,1566842062
+Lakanla,Lakanla,,9.0420,4.8954,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,101.3,,,4,Africa/Lagos,FALSE,1566007970
+Ajebamijoko,Ajebamijoko,,7.1193,4.9711,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,336.3,,,3,Africa/Lagos,FALSE,1566004838
+Uvwiamuge,Uvwiamuge,Ovwiammuge,5.5580,5.8836,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,598.9,,,3,Africa/Lagos,FALSE,1566483475
+Biemekiri,Biemekiri,,4.6047,7.0803,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,1761.0,,,3,Africa/Lagos,FALSE,1566693189
+Amarata,Amarata,Amarara,4.9281,6.2882,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,746.7,,,3,Africa/Lagos,FALSE,1566662287
+Obonukwa,Obonukwa,,5.1861,7.5607,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,990.6,,,3,Africa/Lagos,FALSE,1566102442
+Bansara,Bansara,,6.4462,8.5521,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,257.6,,,3,Africa/Lagos,FALSE,1566858166
+Balajan Bula-Kabu,Balajan Bula-Kabu,,10.8753,12.7840,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,75.3,,,4,Africa/Lagos,FALSE,1566669110
+Angwan-Pa,Angwan-Pa,,9.3606,7.7468,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,161.0,,,4,Africa/Lagos,FALSE,1566063481
+Farausa,Farausa,,9.7064,12.9877,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,66.3,,,4,Africa/Lagos,FALSE,1566007392
+Wuro Kala,Wuro Kala,,9.2591,11.5343,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,77.8,,,4,Africa/Lagos,FALSE,1566196869
+Wuro Kala,Wuro Kala,,8.7203,11.4684,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,TRUE,1566725344
+Apanpa,Apanpa,,7.5361,3.8075,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566744974
+Ladang,Ladang,,12.8667,4.4833,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,116.7,,,4,Africa/Lagos,FALSE,1566218446
+Uhuda Ngodo,Uhuda Ngodo,,5.9186,7.4081,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,529.6,,,3,Africa/Lagos,FALSE,1566486065
+Tibang,Tibang,,8.7869,11.1462,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566545695
+Dansire,Dansire,,12.3472,8.1342,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,251.1,,,3,Africa/Lagos,FALSE,1566197048
+Badaria Karimi,Badaria Karimi,,12.2990,4.1889,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,185.8,,,4,Africa/Lagos,FALSE,1566001505
+Kaska,Kaska,,13.2541,10.9281,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,41.3,,,4,Africa/Lagos,FALSE,1566318764
+Jape,Jape,,7.3433,9.0853,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566581952
+Jape,Jape,,7.5212,9.8434,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,TRUE,1566414483
+Ajau,Ajau,,8.4380,7.3742,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,66.3,,,4,Africa/Lagos,FALSE,1566008237
+Omoecheigbo,Omoecheigbo,,5.0492,6.9642,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,434.8,,,3,Africa/Lagos,FALSE,1566172048
+Yimilarin Bulayani,Yimilarin Bulayani,Yimilarin Bula Mute Gana|Yimilarin Bulayan,10.6347,13.0034,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,103.5,,,4,Africa/Lagos,FALSE,1566596012
+Idulaka,Idulaka,,6.1527,6.0754,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,115.0,,,4,Africa/Lagos,FALSE,1566720060
+Chumun,Chumun,,9.5167,11.9167,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,145.8,,,4,Africa/Lagos,FALSE,1566664471
+Manomawa,Manomawa,,12.5502,8.0768,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,331.1,,,3,Africa/Lagos,FALSE,1566146586
+Ago Osakwe,Ago Osakwe,,6.3500,5.5500,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,4559.6,,,2,Africa/Lagos,FALSE,1566235233
+Jauro Bamvo,Jauro Bamvo,,8.9029,11.3170,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566518163
+Idain-Gbegodo,Idain-Gbegodo,Idain Isaga|Idain-Ishaga,6.5255,3.0512,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,909.6,,,3,Africa/Lagos,FALSE,1566901567
+Dan Kulia,Dan Kulia,,12.6741,8.6897,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,649.3,,,3,Africa/Lagos,FALSE,1566469343
+Ijurin,Ijurin,,7.8870,5.1134,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,914.8,,,3,Africa/Lagos,FALSE,1566516662
+Gora,Gora,,11.4873,4.7133,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.2,,,4,Africa/Lagos,FALSE,1566021230
+Gora,Gora,,9.7932,8.5065,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,182.3,,,4,Africa/Lagos,FALSE,1566869814
+Gora,Gora,,9.4781,7.8639,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,161.0,,,4,Africa/Lagos,TRUE,1566777505
+Gora,Gora,,9.8493,7.8033,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,82.2,,,4,Africa/Lagos,TRUE,1566125831
+Dogere,Dogere,Dogari|Lugeri,8.9176,3.0771,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,29.6,,,4,Africa/Lagos,FALSE,1566953223
+Wulade,Wulade,,11.0384,13.7840,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,180.5,,,4,Africa/Lagos,FALSE,1566106817
+Igbe,Igbe,,7.5270,5.7847,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,624.1,,,3,Africa/Lagos,FALSE,1566719784
+Wuro Aiwa,Wuro Aiwa,,8.7396,12.3342,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,139.2,,,4,Africa/Lagos,FALSE,1566260208
+Gora,Gora,,12.4722,8.3824,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,480.0,,,3,Africa/Lagos,FALSE,1566194903
+Gora,Gora,,11.9129,7.6653,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,414.9,,,3,Africa/Lagos,TRUE,1566557607
+Gora,Gora,,11.6074,7.4587,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,334.8,,,3,Africa/Lagos,TRUE,1566252771
+Gora,Gora,,12.3582,7.3419,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,205.1,,,3,Africa/Lagos,TRUE,1566035391
+Gora,Gora,,12.3518,7.2563,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,205.1,,,3,Africa/Lagos,TRUE,1566868560
+Lawore,Lawore,,7.8000,3.8500,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,FALSE,1566562892
+Lawore,Lawore,,7.8490,4.0442,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,TRUE,1566008434
+Lawore,Lawore,,7.5020,3.4937,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,222.6,,,3,Africa/Lagos,TRUE,1566536786
+Wuro Bedan,Wuro Bedan,,9.0238,11.0729,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566105135
+Iboju,Iboju,Ibeju|Okun Ibeju,6.4228,3.5294,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,2932.7,,,2,Africa/Lagos,FALSE,1566698357
+Luru,Luru,,9.5950,12.2808,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,116.1,,,4,Africa/Lagos,FALSE,1566007900
+Obo,Obo,,7.3394,8.1090,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,298.2,,,3,Africa/Lagos,FALSE,1566161294
+Yargoje,Yargoje,,11.8694,7.4756,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,253.8,,,3,Africa/Lagos,FALSE,1566078111
+Kunjiel,Kunjiel,,10.2870,11.2871,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,191.6,,,4,Africa/Lagos,FALSE,1566067685
+Azerbua,Azerbua,,7.8112,9.1441,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,158.4,,,4,Africa/Lagos,FALSE,1566687904
+Ago-Barnabas,Ago-Barnabas,,7.1268,4.9722,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,336.3,,,3,Africa/Lagos,FALSE,1566004840
+Dusawa,Dusawa,Dusuwa,11.8903,11.7404,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,89.6,,,4,Africa/Lagos,FALSE,1566942842
+Tsetim,Tsetim,,7.1320,8.6049,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566879677
+Tsetim,Tsetim,,7.6388,9.6073,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,TRUE,1566108926
+Guidan Nahiru,Guidan Nahiru,Gidan Nahiru,12.2850,6.6893,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,226.4,,,3,Africa/Lagos,FALSE,1566538136
+Nkpanghe,Nkpanghe,,6.4030,8.5811,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,257.6,,,3,Africa/Lagos,FALSE,1566693851
+Ogunloko,Ogunloko,,8.8786,4.3860,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,FALSE,1566238585
+Igan,Igan,,6.8372,4.0568,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,601.8,,,3,Africa/Lagos,FALSE,1566000351
+Wuro Lawan,Wuro Lawan,,8.1058,10.7124,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,FALSE,1566837082
+Apiapum,Apiapum,,5.9991,8.2848,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,222.3,,,3,Africa/Lagos,FALSE,1566425479
+Umuanyi,Umuanyi,,5.8439,7.4123,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,505.1,,,3,Africa/Lagos,FALSE,1566325531
+Igbaruku,Igbaruku,,8.2500,5.5833,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,180.4,,,4,Africa/Lagos,FALSE,1566000021
+Gidan Hashimu,Gidan Hashimu,Hashimu,11.3333,7.6667,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,403.2,,,3,Africa/Lagos,FALSE,1566445804
+Budo-Ekun,Budo-Ekun,,8.1162,4.5265,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566006877
+Idoso,Idoso,,6.4635,4.8604,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,265.3,,,3,Africa/Lagos,FALSE,1566004483
+Garko,Garko,,8.4836,10.6717,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,FALSE,1566430229
+Garko,Garko,,8.2268,10.5354,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,TRUE,1566043263
+Garko,Garko,,7.8500,11.0000,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,TRUE,1566799810
+Pelemi,Pelemi,,8.5500,6.6333,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,61.4,,,4,Africa/Lagos,FALSE,1566000426
+Kadandani,Kadandani,,12.7453,7.6785,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,493.2,,,3,Africa/Lagos,FALSE,1566669734
+Gelawa,Gelawa,,11.2260,4.5099,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,180.2,,,4,Africa/Lagos,FALSE,1566459016
+Gelawa,Gelawa,,11.2503,4.6517,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,129.0,,,4,Africa/Lagos,TRUE,1566079515
+Gelawa,Gelawa,,11.3936,4.7397,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,129.0,,,4,Africa/Lagos,TRUE,1566403122
+Pekan,Pekan,Ipekun,8.4025,4.2894,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566419428
+Tsema,Tsema,,10.2671,13.3828,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,323.3,,,3,Africa/Lagos,FALSE,1566801228
+Bunge,Bunge,,12.8622,5.4532,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,244.3,,,3,Africa/Lagos,FALSE,1566543391
+Lakati,Lakati,,9.7000,12.1833,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566293222
+Opu Onongi,Opu Onongi,,4.5065,6.6887,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,167.1,,,4,Africa/Lagos,FALSE,1566947734
+Kafin Madaki,Kafin Madaki,Madaki|L. Makaki|Keffin Madaki,10.6856,9.7631,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,minor,81.9,,,3,Africa/Lagos,FALSE,1566275589
+Uma,Uma,,8.0833,7.2833,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,66.3,,,4,Africa/Lagos,FALSE,1566087420
+Obor Ovoro,Obor Ovoro,,5.3560,7.2652,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,1779.1,,,3,Africa/Lagos,FALSE,1566271857
+Akwu,Akwu,,7.8690,8.0616,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,139.2,,,4,Africa/Lagos,FALSE,1566449198
+Akinyoye,Akinyoye,,7.0270,4.6286,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,511.2,,,3,Africa/Lagos,FALSE,1566004742
+Mallam Bature,Mallam Bature,,11.6531,8.2110,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,502.6,,,3,Africa/Lagos,FALSE,1566120521
+Ukaa,Ukaa,,8.4203,8.8631,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,176.0,,,4,Africa/Lagos,FALSE,1566486539
+Zakun-Bello,Zakun-Bello,,8.7318,7.6813,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,120.7,,,4,Africa/Lagos,FALSE,1566007843
+Abar-Ossimilli,Abar-Ossimilli,,5.9558,6.6951,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566235486
+Gwoza,Gwoza,,7.7355,9.7345,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,93.9,,,4,Africa/Lagos,FALSE,1566548744
+Runtuwa Usman,Runtuwa Usman,,11.4457,4.2115,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,74.5,,,4,Africa/Lagos,FALSE,1566176050
+Esuk Oron,Esuk Oron,,4.8029,8.2534,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,1931.8,,,3,Africa/Lagos,FALSE,1566451046
+Duwa,Duwa,,13.3325,5.4504,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,346.9,,,3,Africa/Lagos,FALSE,1566165094
+Tungan Isaka,Tungan Isaka,,11.5263,4.0639,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,74.5,,,4,Africa/Lagos,FALSE,1566600982
+Doop,Doop,,8.9636,9.0953,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,123.0,,,4,Africa/Lagos,FALSE,1566753712
+Sheba,Sheba,Ileia,11.7173,4.3070,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,178.6,,,4,Africa/Lagos,FALSE,1566930126
+Majen-Waya,Majen-Waya,,12.5425,7.6948,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,442.3,,,3,Africa/Lagos,FALSE,1566084659
+Tsegbor,Tsegbor,,7.0107,9.1746,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566327547
+Irtwande,Irtwande,,7.1954,8.5290,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566710914
+Umuenwelum,Umuenwelum,Umuenwelu,6.3589,6.7499,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,,341.8,,,3,Africa/Lagos,FALSE,1566042672
+Yatayi,Yatayi,,9.6486,6.5064,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,3039.7,,,2,Africa/Lagos,FALSE,1566181359
+Badanda,Badanda,,9.1920,12.5971,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,777.8,,,3,Africa/Lagos,FALSE,1566003914
+Birchi Sugune,Birchi Sugune,,12.2408,7.2257,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,213.3,,,3,Africa/Lagos,FALSE,1566917670
+Gyungu,Gyungu,,7.3430,8.7451,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566487895
+Gyungu,Gyungu,,7.3735,8.4877,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,101.8,,,4,Africa/Lagos,TRUE,1566174277
+Matsira,Matsira,,9.9332,10.1699,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,83.4,,,4,Africa/Lagos,FALSE,1566999832
+Gumundi,Gumundi,Dogon Daji,12.4189,3.7862,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,58.4,,,4,Africa/Lagos,FALSE,1566662444
+Dogon Dinia,Dogon Dinia,,9.7638,8.7281,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,190.5,,,4,Africa/Lagos,FALSE,1566920243
+Agboku,Agboku,,8.2568,4.5625,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566008198
+Asang,Asang,,4.9326,7.8758,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,1409.8,,,3,Africa/Lagos,FALSE,1566819459
+Yar Kurashe,Yar Kurashe,,12.3331,9.1446,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,170.5,,,4,Africa/Lagos,FALSE,1566720723
+Tafiyau,Tafiyau,Unguwan Tafiyau,10.7433,8.2083,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,174.0,,,4,Africa/Lagos,FALSE,1566073086
+Ojeleye,Ojeleye,,7.2643,4.0594,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1336.2,,,3,Africa/Lagos,FALSE,1566002412
+Ojeleye,Ojeleye,,7.6580,3.4344,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,222.6,,,3,Africa/Lagos,TRUE,1566006097
+Chibakur,Chibakur,Chukorkir,10.7376,12.2511,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,83.9,,,4,Africa/Lagos,FALSE,1566597219
+Ego-Soitan,Ego-Soitan,Ego Soitan,7.2780,3.5772,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566435495
+Ngabelani,Ngabelani,,8.8481,11.9632,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.1,,,4,Africa/Lagos,FALSE,1566226857
+Iyoule,Iyoule,,7.3371,8.8864,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566997671
+Tayal,Tayal,,9.3413,11.8810,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,116.1,,,4,Africa/Lagos,FALSE,1566925393
+Agburu-Uke,Agburu-Uke,,5.0495,7.4328,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,712.6,,,3,Africa/Lagos,FALSE,1566374993
+Ewhoekone,Ewhoekone,,5.3177,6.3678,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566761311
+Gangare,Gangare,,9.9135,8.8977,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,1614.2,,,3,Africa/Lagos,FALSE,1566305502
+Bakalambani,Bakalambani,Puissa Bani,10.7666,4.0834,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,27.2,,,4,Africa/Lagos,FALSE,1566601035
+Lanzai,Lanzai,,11.4342,10.8063,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,156.5,,,4,Africa/Lagos,FALSE,1566933707
+Owa-Oyibu,Owa-Oyibu,Owa Oyiebu,6.1827,6.1990,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,minor,555.0,,,3,Africa/Lagos,FALSE,1566957891
+Obosokoto,Obosokoto,,7.2165,3.5819,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566765015
+Gidan Karauku,Gidan Karauku,Gidan Karauko|Keraku,10.2667,6.2833,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,FALSE,1566306275
+Gidan Sarikin-Hauma,Gidan Sarikin-Hauma,,10.6480,6.0342,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,54.5,,,4,Africa/Lagos,FALSE,1566173786
+Nimbia,Nimbia,,9.5087,8.5717,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,242.5,,,3,Africa/Lagos,FALSE,1566694039
+Bokamgbene,Bokamgbene,Bokumogbene,4.6287,5.7223,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,196.8,,,4,Africa/Lagos,FALSE,1566921354
+Eziama,Eziama,,6.3788,7.2466,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,405.0,,,3,Africa/Lagos,FALSE,1566308348
+Tungan Gajere,Tungan Gajere,,9.2320,7.2141,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,985.7,,,3,Africa/Lagos,FALSE,1566987654
+Aje,Aje,Ajayi,7.6500,4.1167,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,975.4,,,3,Africa/Lagos,FALSE,1566177169
+Aje,Aje,,7.5333,4.2833,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,415.2,,,3,Africa/Lagos,TRUE,1566227898
+Haan,Haan,,7.0676,8.6408,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566375420
+Azuogu,Azuogu,Azuago,4.8433,7.3993,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,567.1,,,3,Africa/Lagos,FALSE,1566546100
+Gozarki,Gozarki,,12.1874,8.1276,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,718.6,,,3,Africa/Lagos,FALSE,1566060057
+Aje,Aje,,7.4254,4.1319,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,2353.7,,,2,Africa/Lagos,FALSE,1566003451
+Aje,Aje,,7.3260,4.0636,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1336.2,,,3,Africa/Lagos,TRUE,1566002286
+Aje,Aje,,7.3538,4.0082,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1336.2,,,3,Africa/Lagos,TRUE,1566002247
+Aje,Aje,,7.5500,3.9667,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,689.6,,,3,Africa/Lagos,TRUE,1566668320
+Aje,Aje,Bemiro,8.0180,4.2207,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,214.9,,,3,Africa/Lagos,TRUE,1566646677
+Aje,Aje,,8.2791,4.2798,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,TRUE,1566836539
+Jindu,Jindu,,7.7291,8.4750,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,559.0,,,3,Africa/Lagos,FALSE,1566229440
+Hijelije,Hijelije,,12.3227,14.3938,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,282.5,,,3,Africa/Lagos,FALSE,1566837996
+Obosokoto,Obosokoto,Obospkoto,7.3117,3.7601,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566536907
+Kulli,Kulli,,11.2333,4.3000,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,74.5,,,4,Africa/Lagos,FALSE,1566678521
+Ogbesse-Ise,Ogbesse-Ise,,7.4559,5.3285,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,508.5,,,3,Africa/Lagos,FALSE,1566092233
+Goroduku,Goroduku,,11.9491,3.7039,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566880851
+Beta,Beta,,11.2741,8.8995,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,328.7,,,3,Africa/Lagos,FALSE,1566872182
+Jigalta,Jigalta,,12.6236,13.2748,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,62.9,,,4,Africa/Lagos,FALSE,1566248900
+Kartyo,Kartyo,,7.1667,8.8367,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566822215
+Nduragina,Nduragina,,10.4557,12.0895,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,122.3,,,4,Africa/Lagos,FALSE,1566000830
+Bantun,Bantun,,7.1903,3.5658,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566537568
+Ezere,Ezere,,5.7408,7.5257,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,505.1,,,3,Africa/Lagos,FALSE,1566323628
+Showoshi,Showoshi,Sowashe,11.0921,4.6804,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,129.0,,,4,Africa/Lagos,FALSE,1566935148
+Kpoi,Kpoi,,9.3935,11.5361,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566630062
+Kanawa,Kanawa,,9.2578,11.3679,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566216460
+Ekpe Obio,Ekpe Obio,,5.0125,7.8797,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,2541.3,,,2,Africa/Lagos,FALSE,1566960744
+Tungan Alwaji,Tungan Alwaji,,11.6883,3.7250,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566000398
+Kajola,Kajola,,8.1315,4.7236,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,1354.2,,,3,Africa/Lagos,FALSE,1566006669
+Kajola,Kajola,,8.0684,4.5499,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,292.9,,,3,Africa/Lagos,TRUE,1566006668
+Kajola,Kajola,,8.3500,5.1667,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,87.4,,,4,Africa/Lagos,TRUE,1566666631
+Ago-Ajayi,Ago-Ajayi,,6.4595,4.8383,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,265.3,,,3,Africa/Lagos,FALSE,1566004393
+Uchin,Uchin,,8.2608,8.5243,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,222.8,,,3,Africa/Lagos,FALSE,1566005545
+Pulikanari,Pulikanari,,8.1529,11.9921,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,16.6,,,4,Africa/Lagos,FALSE,1566006788
+Molabere,Molabere,,7.2115,4.2890,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,218.2,,,3,Africa/Lagos,FALSE,1566003161
+Gbedam,Gbedam,,8.8268,9.1520,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,123.0,,,4,Africa/Lagos,FALSE,1566541026
+Ohokobe Ndume,Ohokobe Ndume,Ohokobe,5.5094,7.5121,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,1416.5,,,3,Africa/Lagos,FALSE,1566878195
+Zauro,Zauro,Zauru,9.6132,8.2905,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,182.3,,,4,Africa/Lagos,FALSE,1566373263
+Siluko,Siluko,,6.5359,5.1600,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,70.3,,,4,Africa/Lagos,FALSE,1566135096
+Omuo-Oke,Omuo-Oke,,7.7682,5.7471,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,942.4,,,3,Africa/Lagos,FALSE,1566772734
+Hatuwa,Hatuwa,,11.0979,4.5081,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,173.1,,,4,Africa/Lagos,FALSE,1566873557
+Agbayagbene,Agbayagbene,,5.2012,6.1130,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,511.7,,,3,Africa/Lagos,FALSE,1566685017
+Tsenumba,Tsenumba,,7.6484,8.2953,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,147.6,,,4,Africa/Lagos,FALSE,1566757932
+Ukana,Ukana,,7.5813,9.8977,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,128.6,,,4,Africa/Lagos,FALSE,1566001175
+Anini,Anini,Anyinyi,9.3744,6.5085,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.6,,,4,Africa/Lagos,FALSE,1566605260
+Marwa,Marwa,,11.0011,7.8429,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,203.0,,,3,Africa/Lagos,FALSE,1566698247
+Okagye,Okagye,,7.7154,8.6692,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,559.0,,,3,Africa/Lagos,FALSE,1566814406
+Emiajiya,Emiajiya,,9.3266,5.9629,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,,,4,Africa/Lagos,FALSE,1566356890
+Kemenji,Kemenji,,9.6948,3.9025,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,23.4,,,4,Africa/Lagos,FALSE,1566735867
+Arowosaiye-Iju,Arowosaiye-Iju,Arowosaiye Iju,8.5309,4.0640,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566669268
+Araromi-Aperin,Araromi-Aperin,Araromi Aperin|Araromi,7.1711,4.0348,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1336.2,,,3,Africa/Lagos,FALSE,1566200929
+Shiuba,Shiuba,Ashisha,10.3833,6.0667,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,FALSE,1566251557
+Emijiko,Emijiko,,9.1521,6.2309,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,111.0,,,4,Africa/Lagos,FALSE,1566241021
+Emijiko,Emijiko,,9.0282,6.0804,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,84.4,,,4,Africa/Lagos,TRUE,1566791204
+Shellim,Shellim,,11.6639,10.5344,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,234.1,,,3,Africa/Lagos,FALSE,1566654848
+Mubako,Mubako,,9.5924,13.0008,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566513996
+Iwalere,Iwalere,,6.4473,4.6867,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,453.5,,,3,Africa/Lagos,FALSE,1566004360
+Gurbutu,Gurbutu,,12.0437,10.5825,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,148.8,,,4,Africa/Lagos,FALSE,1566180344
+Tungan Tudo,Tungan Tudo,,13.0515,4.6776,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,70.0,,,4,Africa/Lagos,FALSE,1566686371
+Mnza,Mnza,,7.9722,8.4752,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,105.7,,,4,Africa/Lagos,FALSE,1566058028
+Samban Daji,Samban Daji,,9.4648,8.0890,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,546.0,,,3,Africa/Lagos,FALSE,1566193985
+Amuegbedi,Amuegbedi,,5.7658,5.7132,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,618.6,,,3,Africa/Lagos,FALSE,1566000112
+Oku,Oku,,7.2551,6.2722,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,173.6,,,4,Africa/Lagos,FALSE,1566919696
+Kudiri,Kudiri,,8.5978,4.3573,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566005961
+Hyera,Hyera,,10.4717,12.3086,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566999513
+Ogabo,Ogabo,,6.0030,8.1785,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,265.5,,,3,Africa/Lagos,FALSE,1566560642
+Yolde Dubbi,YoldeDubbi,Yolde Bubbi,9.7951,12.0207,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,415.9,,,3,Africa/Lagos,FALSE,1566007808
+Swate,Swate,Kigbera,10.8767,3.8784,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,27.2,,,4,Africa/Lagos,FALSE,1566345740
+Tse-Achura,Tse-Achura,,7.5997,8.1086,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,147.6,,,4,Africa/Lagos,FALSE,1566998879
+Jeba-Jaba,Jeba-Jaba,,9.9751,13.2299,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,304.7,,,3,Africa/Lagos,FALSE,1566073974
+Ajulaiye,Ajulaiye,,7.9713,4.1757,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,214.9,,,3,Africa/Lagos,FALSE,1566007847
+Lapai,Lapai,Badeji|Badeggi,9.0444,6.5709,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,minor,61.4,,,3,Africa/Lagos,FALSE,1566669031
+Lapai,Lapai,,9.5252,6.5044,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,147.0,,,4,Africa/Lagos,TRUE,1566276105
+Ndot,Ndot,,4.9003,7.5018,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,856.3,,,3,Africa/Lagos,FALSE,1566543962
+Ndot,Ndot,,4.9825,7.7014,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,712.0,,,3,Africa/Lagos,TRUE,1566344373
+Isu,Isu,,5.1390,7.0200,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,680.5,,,3,Africa/Lagos,FALSE,1566000562
+Dagu,Dagu,,11.1617,9.7599,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,276.8,,,3,Africa/Lagos,FALSE,1566473409
+Uran Gashi,Uran Gashi,,10.9807,6.0303,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,54.5,,,4,Africa/Lagos,FALSE,1566000107
+Ibreda,Ibreda,Ibredu,7.4773,6.9607,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,156.4,,,4,Africa/Lagos,FALSE,1566846026
+Oyewo,Oyewo,Oyewaw,6.5667,3.6000,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,5913.1,,,2,Africa/Lagos,FALSE,1566123358
+Umu-Aguwa,Umu-Aguwa,,5.4763,6.9653,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,511.1,,,3,Africa/Lagos,FALSE,1566113484
+Kodong-Jauro,Kodong-Jauro,,9.1985,11.5575,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,77.8,,,4,Africa/Lagos,FALSE,1566351531
+Dangangan,Dangangan,,8.2926,4.5619,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566006549
+Doushoful,Doushoful,,9.2049,10.8593,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566717075
+Owevwe,Owevwe,Agbasa|Agbassa,5.5087,6.0546,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,598.9,,,3,Africa/Lagos,FALSE,1566911803
+Luga Chamba,Luga Chamba,,8.8500,12.5833,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566110078
+Labinji,Labinji,,12.7008,8.9535,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,300.5,,,3,Africa/Lagos,FALSE,1566587396
+Kyaa,Kyaa,,7.1975,8.6846,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566039192
+Gomoti,Gomoti,,9.6333,11.8167,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,145.8,,,4,Africa/Lagos,FALSE,1566192559
+Nbuku,Nbuku,,12.9960,7.8360,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,340.5,,,3,Africa/Lagos,FALSE,1566628039
+Garin Maliam Yabbalo,Garin Maliam Yabbalo,,9.8263,10.9259,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,83.4,,,4,Africa/Lagos,FALSE,1566506870
+Ganza,Ganza,,13.4174,5.8432,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,171.8,,,4,Africa/Lagos,FALSE,1566116740
+Gidan Umaru,Gidan Umaru,,10.1871,6.1678,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,FALSE,1566465100
+Gidan Umaru,Gidan Umaru,,10.2203,6.4234,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,71.0,,,4,Africa/Lagos,TRUE,1566630284
+Ojure,Ojure,,8.8687,8.6907,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,91.1,,,4,Africa/Lagos,FALSE,1566007880
+Bula Mastafa,Bula Mastafa,,11.6192,14.0419,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,95.6,,,4,Africa/Lagos,FALSE,1566762823
+Bula Mastafa,Bula Mastafa,,11.4990,14.1336,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,95.6,,,4,Africa/Lagos,TRUE,1566142665
+Alapa Koro,Alapa Koro,,8.6339,4.3879,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566005812
+Kamafun,Kamafun,Gbaikho,9.4097,10.8948,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566714891
+Gidan Gutiya,Gidan Gutiya,,13.8009,5.4345,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,317.9,,,3,Africa/Lagos,FALSE,1566216891
+Ughoton,Ughoton,,6.1667,5.3667,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,95.1,,,4,Africa/Lagos,FALSE,1566243373
+Okokete,Okokete,Okoketti,7.1000,7.0667,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,110.9,,,4,Africa/Lagos,FALSE,1566213866
+Irelli,Irelli,,7.1167,6.2990,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,296.4,,,3,Africa/Lagos,FALSE,1566769601
+Ndader,Ndader,,8.6780,10.8157,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,FALSE,1566017740
+New Gidan Kwaso,New Gidan Kwaso,,9.5346,7.5020,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,161.0,,,4,Africa/Lagos,FALSE,1566443364
+Gangwaso Daudu,Gangwaso Daudu,,8.8195,12.0046,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.1,,,4,Africa/Lagos,FALSE,1566486345
+Obo-Ukana Iba,Obo-Ukana Iba,,5.0867,7.7095,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,1011.3,,,3,Africa/Lagos,FALSE,1566141468
+Cegiri,Cegiri,,11.3349,4.3417,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,74.5,,,4,Africa/Lagos,FALSE,1566307985
+Ohekelem,Ohekelem,,5.3366,7.2351,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,398.0,,,3,Africa/Lagos,FALSE,1566897317
+Mpambeku,Mpambeku,Mpumbeku,6.5319,8.8567,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,257.6,,,3,Africa/Lagos,FALSE,1566031672
+Ozizza,Ozizza,,5.8873,7.9740,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,810.7,,,3,Africa/Lagos,FALSE,1566718082
+Lagh,Lagh,,7.1359,9.0577,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,199.9,,,4,Africa/Lagos,FALSE,1566895449
+Kwara,Kwara,,12.3337,6.2849,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,56.9,,,4,Africa/Lagos,FALSE,1566113853
+Gidan Tata,Gidan Tata,Tata|Jenta|Janta,8.5364,9.0034,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,123.0,,,4,Africa/Lagos,FALSE,1566789048
+Saior,Saior,,7.7739,8.2515,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,147.6,,,4,Africa/Lagos,FALSE,1566414719
+Chigwanya,Chigwanya,Chikwamia,10.2176,6.8730,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,71.0,,,4,Africa/Lagos,FALSE,1566160012
+Dem,Dem,,7.3812,8.8521,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566204173
+Dem,Dem,,7.0261,9.1472,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,TRUE,1566077901
+Dem,Dem,,7.2261,9.3711,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,TRUE,1566723749
+Ushim,Ushim,Ushini,8.2283,7.7431,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,48.7,,,4,Africa/Lagos,FALSE,1566936580
+Ilemiya,Ilemiya,,7.6889,5.3063,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,518.4,,,3,Africa/Lagos,FALSE,1566725397
+Ahaba,Ahaba,,5.3795,7.5456,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,850.4,,,3,Africa/Lagos,FALSE,1566521902
+Ahaba,Ahaba,,5.7188,7.5587,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,468.0,,,3,Africa/Lagos,TRUE,1566061273
+Pagun,Pagun,,7.4611,4.0177,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,863.4,,,3,Africa/Lagos,FALSE,1566297742
+Oviri,Oviri,,5.8444,5.7226,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,611.5,,,3,Africa/Lagos,FALSE,1566267684
+Mopin,Mopin,,6.6677,3.1845,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,909.6,,,3,Africa/Lagos,FALSE,1566051886
+Jauro Kusin,Jauro Kusin,,8.9025,11.4148,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,1090.0,,,3,Africa/Lagos,FALSE,1566758531
+Jauro Kusin,Jauro Kusin,,8.7732,11.3042,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,TRUE,1566635466
+Po,Po,,7.0993,8.0810,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,298.2,,,3,Africa/Lagos,FALSE,1566316667
+Asala,Asala,,7.3815,4.1300,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,940.4,,,3,Africa/Lagos,FALSE,1566003439
+Bomadi Camp,Bomadi Camp,,5.5166,6.5247,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566988148
+Guguwa,Guguwa,,10.5818,4.6947,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.6,,,4,Africa/Lagos,FALSE,1566635304
+Guguwa,Guguwa,,10.5667,4.6833,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.6,,,4,Africa/Lagos,TRUE,1566607707
+Kware,Kware,,9.3327,11.0786,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566430193
+Yenegwe,Yenegwe,,5.0163,6.3952,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,750.3,,,3,Africa/Lagos,FALSE,1566001042
+Ikorodu,Ikorodu,,6.6153,3.5069,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,minor,2253.3,,,2,Africa/Lagos,FALSE,1566774136
+Ogunsekan,Ogunsekan,,8.7833,4.4616,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,FALSE,1566903742
+Bademateni,Bademateni,,8.3003,7.4183,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,54.9,,,4,Africa/Lagos,FALSE,1566893737
+Ipesin,Ipesin,,6.7261,3.9688,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,1372.2,,,3,Africa/Lagos,FALSE,1566396456
+Ojudo,Ojudo,,7.6167,4.4333,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,500.9,,,3,Africa/Lagos,FALSE,1566862298
+Oyelakun,Oyelakun,,7.3297,3.8298,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566131397
+Rumana,Rumana,,10.6667,7.1822,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,116.0,,,4,Africa/Lagos,FALSE,1566550936
+Garin Sarki,Garin Sarki,,8.6356,10.7761,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,61.1,,,4,Africa/Lagos,FALSE,1566040810
+Kafat,Kafat,,8.7659,7.4364,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,196.6,,,4,Africa/Lagos,FALSE,1566008230
+Komini,Komini,,7.8500,4.4500,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,1808.2,,,3,Africa/Lagos,FALSE,1566293588
+Tartila,Tartila,,13.5058,5.6262,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,171.8,,,4,Africa/Lagos,FALSE,1566537374
+Dankalwa,Dankalwa,Dankalwar,11.7445,12.1854,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,57.3,,,4,Africa/Lagos,FALSE,1566499776
+Yankya,Yankya,,7.2096,8.9054,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,265.4,,,3,Africa/Lagos,FALSE,1566771505
+Abuochiche,Abuochiche,Abuochichi,6.6913,8.9434,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,minor,492.8,,,3,Africa/Lagos,FALSE,1566517369
+Tungan,Tungan,,9.4812,6.6913,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.6,,,4,Africa/Lagos,FALSE,1566281205
+Tungan,Tungan,Tungan Dada,9.9972,6.3897,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,TRUE,1566126599
+Gbasakun,Gbasakun,,9.4954,5.8709,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,69.2,,,4,Africa/Lagos,FALSE,1566701630
+Kweri,Kweri,Kwari,11.6167,9.5833,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,322.4,,,3,Africa/Lagos,FALSE,1566537706
+Ungwan Maikore,Ungwan Maikore,,11.0149,8.1428,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,203.0,,,3,Africa/Lagos,FALSE,1566021201
+Liiam,Liiam,Lijam,7.6805,9.7788,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,93.9,,,4,Africa/Lagos,FALSE,1566510451
+Bargu,Bargu,,10.8649,7.6678,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,185.3,,,4,Africa/Lagos,FALSE,1566585790
+Gang Pokani,Gang Pokani,,8.3167,12.1167,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,136.0,,,4,Africa/Lagos,FALSE,1566789550
+Ewela-Olomopo,Ewela-Olomopo,,7.2915,3.0268,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,145.1,,,4,Africa/Lagos,FALSE,1566001573
+Oke-Ami,Oke-Ami,,8.1941,4.6689,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,292.9,,,3,Africa/Lagos,FALSE,1566007804
+Erinje-Ekeji,Erinje-Ekeji,,6.4029,4.7554,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,453.5,,,3,Africa/Lagos,FALSE,1566549790
+Ikei,Ikei,,4.3106,6.3624,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,167.1,,,4,Africa/Lagos,FALSE,1566557993
+Kara,Kara,,6.7333,11.3667,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,67.6,,,4,Africa/Lagos,FALSE,1566420829
+Ungwan Daudu,Ungwan Daudu,,11.6310,7.8519,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,437.0,,,3,Africa/Lagos,FALSE,1566445676
+Ungwan Daudu,Ungwan Daudu,,11.2657,7.0007,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,62.0,,,4,Africa/Lagos,TRUE,1566297769
+Mindi Pella,Mindi Pella,,10.4508,12.3982,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566610892
+Iornyor,Iornyor,,7.0863,8.8516,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566842249
+Emadaoja,Emadaoja,,5.4334,5.8158,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,1633.4,,,3,Africa/Lagos,FALSE,1566088610
+Filele,Filele,Felelen Buzu,7.8518,6.7241,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,87.0,,,4,Africa/Lagos,FALSE,1566739320
+Ajakaiye,Ajakaiye,,8.4742,4.1846,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566005372
+Rafin Kiriya,Rafin Kiriya,,11.4790,4.5354,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,180.2,,,4,Africa/Lagos,FALSE,1566828256
+Gbeleju-Oke,Gbeleju-Oke,Gbeleju Oke|Gbeleju,6.3453,4.9717,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,265.3,,,3,Africa/Lagos,FALSE,1566205227
+Madari,Madari,,12.5415,13.7766,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,88.9,,,4,Africa/Lagos,FALSE,1566242283
+Ungwan Daudu,Ungwan Daudu,Anguwan Daudu,10.9032,7.4816,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,185.3,,,4,Africa/Lagos,FALSE,1566373813
+Yauran,Yauran,,11.4594,7.9913,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,370.1,,,3,Africa/Lagos,FALSE,1566052717
+Tyogo,Tyogo,,7.2508,9.2638,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566304674
+Mayo Njim,Mayo Njim,,7.4333,11.3000,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,15.7,,,4,Africa/Lagos,FALSE,1566637731
+Tunkunawa,Tunkunawa,,12.2292,8.6738,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,849.4,,,3,Africa/Lagos,FALSE,1566904964
+Kugwa,Kugwa,,7.6401,8.8777,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,308.5,,,3,Africa/Lagos,FALSE,1566503314
+Ungwan Daudu,Ungwan Daudu,,11.3460,7.7805,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,532.9,,,3,Africa/Lagos,FALSE,1566935952
+Obon Ebot,Obon Ebot,,4.9386,7.5640,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,856.3,,,3,Africa/Lagos,FALSE,1566512369
+Akinseloyin,Akinseloyin,,6.4513,4.5074,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,123.9,,,4,Africa/Lagos,FALSE,1566004345
+Oligiri,Oligiri,,7.4458,4.3640,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,218.2,,,3,Africa/Lagos,FALSE,1566002808
+Goniri,Goniri,,11.4845,12.3126,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,62.0,,,4,Africa/Lagos,FALSE,1566188255
+Goniri,Goniri,,12.9922,11.7327,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,51.9,,,4,Africa/Lagos,TRUE,1566281746
+Goniri,Goniri,,13.0710,10.9476,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,41.3,,,4,Africa/Lagos,TRUE,1566015368
+Tsekiman,Tsekiman,,7.2217,9.3722,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566085231
+Koka,Koka,,11.9720,7.1025,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,FALSE,1566164433
+Yamari,Yamari,,10.6975,12.1541,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,83.9,,,4,Africa/Lagos,FALSE,1566155370
+Obeagu-Ezza Ohu,Obeagu-Ezza Ohu,,6.4696,8.0928,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,408.5,,,3,Africa/Lagos,FALSE,1566259364
+Ungwan Adada,Ungwan Adada,,11.8619,7.5889,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,253.8,,,3,Africa/Lagos,FALSE,1566435742
+Ago-Woli,Ago-Woli,,6.4165,4.7846,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,453.5,,,3,Africa/Lagos,FALSE,1566004436
+Bong,Bong,,7.1633,10.2392,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,54.9,,,4,Africa/Lagos,FALSE,1566611004
+Ubo,Ubo,,7.1986,8.8809,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,265.1,,,3,Africa/Lagos,FALSE,1566734318
+Tudu,Tudu,Unguwar Tudu,12.3630,6.5045,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,226.4,,,3,Africa/Lagos,FALSE,1566483588
+Tudu,Tudu,,12.0496,6.8213,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,TRUE,1566643659
+Tudu,Tudu,,11.8430,6.8617,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,TRUE,1566526111
+Olube,Olube,,7.1747,3.9929,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,415.3,,,3,Africa/Lagos,FALSE,1566564778
+Kanti,Kanti,,9.4540,11.6537,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,145.8,,,4,Africa/Lagos,FALSE,1566796605
+Ajibade,Ajibade,Ajibawde,7.5689,3.8864,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,689.6,,,3,Africa/Lagos,FALSE,1566437214
+Ajibade,Ajibade,,7.6639,3.7922,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,TRUE,1566435058
+Ajibade,Ajibade,,7.8472,4.0590,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,TRUE,1566006270
+Ajibade,Ajibade,,7.7333,3.7333,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,281.4,,,3,Africa/Lagos,TRUE,1566278255
+Bapi,Bapi,,7.9670,9.8749,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,93.9,,,4,Africa/Lagos,FALSE,1566011179
+Kusotaci,Kusotaci,,9.0820,5.9286,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,,,4,Africa/Lagos,FALSE,1566829357
+Akasia Akpo Camp,Akasia Akpo Camp,,5.7280,6.6072,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566747337
+Arikia,Arikia,,8.8167,8.6833,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,176.0,,,4,Africa/Lagos,FALSE,1566102669
+Ejeketa,Ejeketa,,5.8234,5.8354,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,576.6,,,3,Africa/Lagos,FALSE,1566040501
+Tewure,Tewure,,8.3227,4.2114,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566393384
+Gabasawa,Gabasawa,,12.1781,8.9140,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,500.2,,,3,Africa/Lagos,FALSE,1566593726
+Ajibade,Ajibade,,7.2328,2.9305,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,145.1,,,4,Africa/Lagos,FALSE,1566002764
+Lanamu Camp,Lanamu Camp,,6.6000,6.0484,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,86.9,,,4,Africa/Lagos,FALSE,1566770783
+Tokar,Tokar,,10.3380,12.0838,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,105.1,,,4,Africa/Lagos,FALSE,1566099907
+Nwanu,Nwanu,,6.4943,8.2393,Nigeria,NG,NGA,Ebonyi,Ebonyi,NG-EB,state,,317.1,,,3,Africa/Lagos,FALSE,1566806042
+Gidan Musa,Gidan Musa,,10.1725,6.1471,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,FALSE,1566537355
+Gidan Musa,Gidan Musa,,9.7387,6.8512,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,78.8,,,4,Africa/Lagos,TRUE,1566828172
+Ungwan Dangaragi,Ungwan Dangaragi,,11.3616,7.0285,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,316.8,,,3,Africa/Lagos,FALSE,1566833394
+Dandi,Dandi,,12.6837,8.6681,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,329.8,,,3,Africa/Lagos,FALSE,1566730996
+Wamako,Wamako,Wamakka|Wamakko,13.0305,5.1043,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,minor,474.5,,,3,Africa/Lagos,FALSE,1566314506
+Gidan Musa,Gidan Musa,,7.9635,8.0209,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,48.7,,,4,Africa/Lagos,FALSE,1566594420
+Izide,Izide,Izide-N-Ame,6.4619,5.1369,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,70.3,,,4,Africa/Lagos,FALSE,1566412740
+Orogun,Orogun,,8.3364,4.5783,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566007424
+Orogun,Orogun,,9.0458,4.8064,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,TRUE,1566567591
+Orogun,Orogun,,9.0667,4.8333,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,TRUE,1566008488
+Alamindu,Alamindu,,8.8656,12.0598,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.1,,,4,Africa/Lagos,FALSE,1566844504
+Eobiri,Eobiri,,5.1891,6.1315,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,511.7,,,3,Africa/Lagos,FALSE,1566122689
+Kashiotu,Kashiotu,,6.5237,8.8522,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,257.6,,,3,Africa/Lagos,FALSE,1566178753
+Abinyon,Abinyon,Abinyom,6.2032,8.5376,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,120.9,,,4,Africa/Lagos,FALSE,1566217796
+Orgen,Orgen,,7.6547,9.7370,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,FALSE,1566055883
+Dan Janku,Dan Janku,,12.0467,7.7028,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,295.3,,,3,Africa/Lagos,FALSE,1566170844
+Kaor,Kaor,,7.7646,9.1092,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,185.5,,,4,Africa/Lagos,FALSE,1566068569
+Dalame,Dalame,,11.1097,12.3867,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,57.1,,,4,Africa/Lagos,FALSE,1566758441
+Ramuda Buga Hill,Ramuda Buga Hill,,11.6698,4.7923,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,67.6,,,4,Africa/Lagos,FALSE,1566822841
+Ganwojidda,Ganwojidda,,8.4667,11.4500,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,FALSE,1566356855
+Totunba,Totunba,,7.0035,4.0358,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,514.5,,,3,Africa/Lagos,FALSE,1566003297
+Kawuzoko,Kawuzoko,,9.0851,11.7172,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,99.8,,,4,Africa/Lagos,FALSE,1566739581
+Gidan Jatto,Gidan Jatto,,10.3996,7.4549,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,116.0,,,4,Africa/Lagos,FALSE,1566509609
+Aba Ala,Aba Ala,,5.0440,7.4868,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,712.6,,,3,Africa/Lagos,FALSE,1566053731
+Tekke,Tekke,,13.5849,5.8864,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,175.4,,,4,Africa/Lagos,FALSE,1566725301
+Gombewa,Gombewa,,10.5997,13.0443,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,103.5,,,4,Africa/Lagos,FALSE,1566489553
+Sabon-Gida,Sabon-Gida,,8.7000,7.0025,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,229.2,,,3,Africa/Lagos,FALSE,1566358054
+Gbaj,Gbaj,Gbaji,6.4088,2.8755,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,802.4,,,3,Africa/Lagos,FALSE,1566281081
+Onisokun,Onisokun,,7.9538,4.5208,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,274.8,,,3,Africa/Lagos,FALSE,1566002151
+Okengwe,Okengwe,,7.5488,6.1917,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,452.7,,,3,Africa/Lagos,FALSE,1566880712
+Moba,Moba,,6.4267,3.1032,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,5680.0,,,2,Africa/Lagos,FALSE,1566894522
+Moba,Moba,Mobba,6.4501,3.4847,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,2932.7,,,2,Africa/Lagos,TRUE,1566062690
+Wuro Hamadu,Wuro Hamadu,,8.8403,11.4050,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566638192
+Tortia,Tortia,,7.5200,9.6495,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,FALSE,1566722376
+Adeseko,Adeseko,,7.4273,3.7482,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,FALSE,1566004103
+Old Okolonpo,Old Okolonpo,,9.1525,3.9462,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,23.4,,,4,Africa/Lagos,FALSE,1566004035
+Ungwan Hausa,Ungwan Hausa,,11.4895,6.5085,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,56.9,,,4,Africa/Lagos,FALSE,1566983139
+Kumpani,Kumpani,,11.7225,7.1618,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,171.5,,,4,Africa/Lagos,FALSE,1566386184
+Kurbagayi,Kurbagayi,Kurbagay,10.4716,11.7773,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,117.8,,,4,Africa/Lagos,FALSE,1566247599
+Tungan Doleh,Tungan Doleh,,13.0416,4.7868,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,116.7,,,4,Africa/Lagos,FALSE,1566364254
+Rumu,Rumu,,9.4735,10.9131,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,42.4,,,4,Africa/Lagos,FALSE,1566356498
+Lebo,Lebo,,8.8333,12.6833,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566654821
+Shahahiru,Shahahiru,,10.4729,12.4381,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566034186
+Gangara,Gangara,,11.3958,6.0284,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,56.9,,,4,Africa/Lagos,FALSE,1566380020
+Gangara,Gangara,,12.0916,6.3735,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,56.9,,,4,Africa/Lagos,TRUE,1566531533
+Akwa,Akwa,,5.9117,7.0113,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,,1588.9,,,3,Africa/Lagos,FALSE,1566099855
+Garin Bingel,Garin Bingel,,11.6693,11.2355,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,591.9,,,3,Africa/Lagos,FALSE,1566136468
+Kushi,Kushi,,9.9075,6.9967,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,78.8,,,4,Africa/Lagos,FALSE,1566808195
+Korongelen Bula-Burakar,Korongelen Bula-Burakar,,10.8628,12.7082,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,75.3,,,4,Africa/Lagos,FALSE,1566150597
+Surimi,Surimi,,11.5333,5.9000,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,117.4,,,4,Africa/Lagos,FALSE,1566640254
+Surimi,Surimi,,11.5663,5.8163,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,117.4,,,4,Africa/Lagos,TRUE,1566953416
+Umu Anunu,Umu Anunu,Anunu,5.2354,7.5047,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,712.6,,,3,Africa/Lagos,FALSE,1566000261
+Izikhiri,Izikhiri,Iguazogbar|Iguozogbar,6.3872,5.9992,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,86.9,,,4,Africa/Lagos,FALSE,1566778708
+Bazaya,Bazaya,,11.5552,14.3223,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,95.6,,,4,Africa/Lagos,FALSE,1566493340
+Tsegbayer,Tsegbayer,,7.8105,9.4630,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,FALSE,1566298825
+Tsenyamkume,Tsenyamkume,,7.6914,9.1615,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,185.5,,,4,Africa/Lagos,FALSE,1566311006
+Ikot Udo,Ikot Udo,,5.2266,7.9140,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,945.5,,,3,Africa/Lagos,FALSE,1566340491
+Ise-Abuato,Ise-Abuato,,5.5519,6.5310,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566332423
+Olosan,Olosan,,7.0352,4.7176,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,511.2,,,3,Africa/Lagos,FALSE,1566005125
+Olosan,Olosan,,7.0369,4.9674,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,336.3,,,3,Africa/Lagos,TRUE,1566004692
+Fakale,Fakale,Faleke,6.7059,3.5608,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,644.7,,,3,Africa/Lagos,FALSE,1566000576
+Kuonubogbene,Kuonubogbene,,5.2151,6.2123,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,344.6,,,3,Africa/Lagos,FALSE,1566618943
+Olosan,Olosan,,7.4112,3.6229,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566700424
+Takuri,Takuri,,12.5835,9.0474,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,133.4,,,4,Africa/Lagos,FALSE,1566193797
+Yupe,Yupe,,8.6667,12.6500,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,139.2,,,4,Africa/Lagos,FALSE,1566459879
+Buki,Buki,,11.7091,3.6845,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566841075
+Payi,Payi,,7.3636,4.2685,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,714.2,,,3,Africa/Lagos,FALSE,1566002797
+Yauwarawa,Yauwarawa,,13.1582,5.1839,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,288.6,,,3,Africa/Lagos,FALSE,1566477622
+Olosan,Olosan,,8.1193,4.3929,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,274.8,,,3,Africa/Lagos,FALSE,1566005520
+Olosan,Olosan,,8.2446,4.3370,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,274.8,,,3,Africa/Lagos,TRUE,1566005476
+Olosan,Olosan,,8.4245,4.1581,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,TRUE,1566318884
+Kudan,Kudan,,9.1731,6.7798,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,202.1,,,3,Africa/Lagos,FALSE,1566455999
+Wam,Wam,,7.6323,9.8898,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,114.0,,,4,Africa/Lagos,FALSE,1566882148
+Annua,Annua,,10.5254,4.6049,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.6,,,4,Africa/Lagos,FALSE,1566135226
+Awazakiri,Awazakiri,,4.4160,6.3097,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,167.1,,,4,Africa/Lagos,FALSE,1566860031
+Ungwan Barmo,Ungwan Barmo,,11.5987,7.2834,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,171.5,,,4,Africa/Lagos,FALSE,1566985641
+Twaki,Twaki,,8.9000,6.0333,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,84.4,,,4,Africa/Lagos,FALSE,1566263445
+Igbo Ifa,Igbo Ifa,,7.8044,4.6785,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,1535.3,,,3,Africa/Lagos,FALSE,1566002659
+Esukpai,Esukpai,Esuk Akpai,5.4034,8.0600,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,202.8,,,3,Africa/Lagos,FALSE,1566437747
+Kubaje Jauro Salatu,Kubaje Jauro Salatu,,10.0007,13.1295,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,66.3,,,4,Africa/Lagos,FALSE,1566718719
+Zhedinyi,Zhedinyi,,10.1376,12.9839,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,90.9,,,4,Africa/Lagos,FALSE,1566616172
+Anguwan Bako,AnguwanBako,,8.9505,7.4387,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,1693.0,,,3,Africa/Lagos,FALSE,1566006403
+Olle,Olle,,8.0500,6.1167,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,80.0,,,4,Africa/Lagos,FALSE,1566042908
+Wurisato,Wurisato,Wurisatu,10.3790,10.9992,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,183.7,,,4,Africa/Lagos,FALSE,1566846198
+Zoho,Zoho,,7.3488,8.7810,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566292675
+Abaro,Abaro,,9.4335,8.5699,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,172.3,,,4,Africa/Lagos,FALSE,1566873500
+Girnashe,Girnashe,,13.2067,6.2566,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,109.2,,,4,Africa/Lagos,FALSE,1566482865
+Hantsu,Hantsu,,12.2211,9.5972,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,305.1,,,3,Africa/Lagos,FALSE,1566252295
+Ajido,Ajido,,7.1703,9.4249,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566311800
+Udele,Udele,,7.1860,9.3320,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566345717
+Tidowo,Tidowo,Tido|Lido,6.8960,4.0989,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,77.2,,,4,Africa/Lagos,FALSE,1566356969
+Eko-Ewuh,Eko-Ewuh,Eko,6.7684,6.2376,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,595.6,,,3,Africa/Lagos,FALSE,1566972330
+Laskuri,Laskuri,,11.8082,13.3856,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,56.1,,,4,Africa/Lagos,FALSE,1566181550
+Ijavie,Ijavie,,6.5067,2.9325,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,802.4,,,3,Africa/Lagos,FALSE,1566003556
+Nok,Nok,,9.5000,8.0167,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,546.0,,,3,Africa/Lagos,FALSE,1566139702
+Chimi,Chimi,,10.5989,13.2888,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,103.5,,,4,Africa/Lagos,FALSE,1566442580
+Daram,Daram,,9.9851,13.1522,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,66.3,,,4,Africa/Lagos,FALSE,1566271966
+Gurjia,Gurjia,Gurjiaji|Gurijiaji,11.3827,11.5285,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,96.7,,,4,Africa/Lagos,FALSE,1566055491
+Kungie,Kungie,,9.1063,7.9603,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,120.7,,,4,Africa/Lagos,FALSE,1566521729
+Sogaolu,Sogaolu,,7.2792,3.3953,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566002599
+Dingare,Dingare,,10.1581,12.5280,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,102.2,,,4,Africa/Lagos,FALSE,1566327406
+Wuro Alkali,Wuro Alkali,,8.8995,11.7879,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,212.8,,,3,Africa/Lagos,FALSE,1566384740
+Agudu,Agudu,,7.5571,9.4682,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566557515
+Bwara,Bwara,Gwara,9.8333,12.3833,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,66.3,,,4,Africa/Lagos,FALSE,1566521372
+Nwave,Nwave,,7.1531,8.5267,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,219.8,,,3,Africa/Lagos,FALSE,1566236571
+Tankari,Tankari,,13.5060,5.4389,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,317.9,,,3,Africa/Lagos,FALSE,1566070211
+Tsependa,Tsependa,,7.5075,9.8512,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566553138
+Igbogila,Igbogila,,6.6072,3.2589,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,13723.5,,,2,Africa/Lagos,FALSE,1566954677
+Kita,Kita,,9.9005,12.2803,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566006341
+Arogunjo,Arogunjo,,7.4570,4.6522,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,1158.1,,,3,Africa/Lagos,FALSE,1566004656
+Bodenu,Bodenu,,10.0265,11.9826,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,415.9,,,3,Africa/Lagos,FALSE,1566040923
+Ogundijo,Ogundijo,,7.3876,4.3996,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,240.1,,,3,Africa/Lagos,FALSE,1566636858
+Folu,Folu,,6.3867,4.2082,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,402.3,,,3,Africa/Lagos,FALSE,1566743434
+Beli-Shuti,Beli-Shuti,Beli Shuti,9.1842,12.6378,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,777.8,,,3,Africa/Lagos,FALSE,1566004080
+Ago-Ijo,Ago-Ijo,,6.4293,4.5964,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,299.8,,,3,Africa/Lagos,FALSE,1566279871
+Egbon-Orita,Egbon-Orita,,6.8030,2.7864,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,492.4,,,3,Africa/Lagos,FALSE,1566003584
+Uzogbon,Uzogbon,,6.7504,6.4614,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,189.0,,,4,Africa/Lagos,FALSE,1566346914
+Agadangba,Agadangba,,6.4659,2.9107,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,802.4,,,3,Africa/Lagos,FALSE,1566003305
+Ukambu,Ukambu,,8.9667,8.6833,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,91.1,,,4,Africa/Lagos,FALSE,1566959178
+Igbubuzi,Igbubuzi,Igbubezi|Ubueze,6.8747,5.8731,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,203.1,,,3,Africa/Lagos,FALSE,1566765964
+Tudun Aya,Tudun Aya,,13.7328,5.4203,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,317.9,,,3,Africa/Lagos,FALSE,1566889892
+Ungwan Dan Tagwaye,Ungwan Dan Tagwaye,,11.3986,7.1807,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,507.9,,,3,Africa/Lagos,FALSE,1566669962
+Asemoke,Asemoke,,5.6500,6.6000,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,98.6,,,4,Africa/Lagos,FALSE,1566859756
+Tyona,Tyona,,7.1764,9.3970,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566528631
+Elegburu,Elegburu,,8.7393,4.4581,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,FALSE,1566005912
+Dam,Dam,,7.4529,3.3177,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,354.4,,,3,Africa/Lagos,FALSE,1566001641
+Aketi,Aketi,,7.7184,10.0188,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,57.9,,,4,Africa/Lagos,FALSE,1566046997
+Ushil,Ushil,,7.4517,8.9785,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566456578
+Odo Lagaye,Odo Lagaye,Legaye,6.7333,3.9833,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,1372.2,,,3,Africa/Lagos,FALSE,1566980548
+Marake,Marake,Maraki,12.4136,8.6264,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,411.3,,,3,Africa/Lagos,FALSE,1566528065
+Akon,Akon,Akani,4.7655,6.4973,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,652.1,,,3,Africa/Lagos,FALSE,1566961034
+Ndatoraki,Ndatoraki,,9.5290,6.0328,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,112.2,,,4,Africa/Lagos,FALSE,1566157098
+Okorom,Okorom,,6.4508,9.0643,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,100.4,,,4,Africa/Lagos,FALSE,1566040634
+Marake,Marake,,11.9845,7.3986,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,253.8,,,3,Africa/Lagos,FALSE,1566532076
+Kedabi,Kedabi,,9.3532,11.9098,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,116.1,,,4,Africa/Lagos,FALSE,1566760030
+Rezun,Rezun,,11.8940,6.8730,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,FALSE,1566669299
+Ojoaje,Ojoaje,,7.5410,4.6040,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,181.1,,,4,Africa/Lagos,FALSE,1566001890
+Lade,Lade,,9.4728,6.2075,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,111.0,,,4,Africa/Lagos,FALSE,1566059528
+Lade,Lade,,8.7667,5.6167,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,56.1,,,4,Africa/Lagos,TRUE,1566617074
+Gogdi,Gogdi,,9.6667,10.0333,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,82.4,,,4,Africa/Lagos,FALSE,1566331598
+Zangwa,Zangwa,,7.2664,9.2837,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566498403
+Tungan-Mogaji,Tungan-Mogaji,,12.0750,4.9509,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,67.6,,,4,Africa/Lagos,FALSE,1566046907
+Zongon Konbi Jauro Shuaibu,Zongon Konbi Jauro Shuaibu,,8.8034,11.0499,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566726716
+Kanawa,Kanawa,,11.2346,8.9990,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,115.8,,,4,Africa/Lagos,FALSE,1566029128
+Dobelli,Dobelli,,9.2870,12.4493,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,116.1,,,4,Africa/Lagos,FALSE,1566400667
+Ndem Iyere,Ndem Iyere,,5.1939,7.8312,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,763.7,,,3,Africa/Lagos,FALSE,1566806895
+Lofa,Lofa,,12.5932,5.4240,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,80.0,,,4,Africa/Lagos,FALSE,1566867769
+Tamana,Tamana,,11.2107,11.1863,Nigeria,NG,NGA,Gombe,Gombe,NG-GO,state,,115.3,,,4,Africa/Lagos,FALSE,1566279510
+Ikyobua,Ikyobua,,7.5579,9.5651,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,FALSE,1566858370
+Wuro Buba Gaori,WuroBubaGaori,,9.5115,12.4964,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,201.8,,,3,Africa/Lagos,FALSE,1566006426
+Dada,Dada,,9.5404,10.3876,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,82.4,,,4,Africa/Lagos,FALSE,1566409164
+Gidan Alugoy,Gidan Alugoy,,9.7769,6.8766,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,78.8,,,4,Africa/Lagos,FALSE,1566732499
+Kanawa,Kanawa,,11.5226,7.4911,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,334.8,,,3,Africa/Lagos,FALSE,1566692740
+Kanawa,Kanawa,,12.2615,7.3032,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,213.3,,,3,Africa/Lagos,TRUE,1566000100
+Adesiyan,Adesiyan,,7.2022,3.9610,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,415.3,,,3,Africa/Lagos,FALSE,1566659076
+Adesiyan,Adesiyan,,7.5333,3.6833,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,TRUE,1566193258
+Adesiyan,Adesiyan,,7.3375,3.8255,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,TRUE,1566959793
+Ago-Oyelusi,Ago-Oyelusi,,6.3483,4.9024,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,330.4,,,3,Africa/Lagos,FALSE,1566004089
+Akwukwu-Akumazi,Akwukwu-Akumazi,Akuku|Akuku-Akumazi,6.2843,6.3427,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,555.0,,,3,Africa/Lagos,FALSE,1566675207
+Ichakwagh,Ichakwagh,,7.4271,8.8372,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566577842
+Ikot Ewo,Ikot Ewo,,5.4197,8.0578,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,202.8,,,3,Africa/Lagos,FALSE,1566690423
+Omin-Digbolu,Omin-Digbolu,,7.0736,3.9642,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,514.5,,,3,Africa/Lagos,FALSE,1566004095
+Udapa,Udapa,,7.1173,8.2139,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,298.2,,,3,Africa/Lagos,FALSE,1566000736
+Magumeri,Magumeri,,12.1145,12.8262,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,minor,43.4,,,3,Africa/Lagos,FALSE,1566242206
+Lani,Lani,,11.5689,4.4180,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,180.2,,,4,Africa/Lagos,FALSE,1566568305
+Damasak,Damasak,,13.1042,11.4421,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,51.9,,,4,Africa/Lagos,FALSE,1566066553
+Tseajia,Tseajia,,7.4572,9.4702,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566093266
+Zehi,Zehi,,10.9772,8.9100,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,115.8,,,4,Africa/Lagos,FALSE,1566710072
+Botan,Botan,,8.9667,5.7667,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,322.5,,,3,Africa/Lagos,FALSE,1566391030
+Umuatugbuoma,Umuatugbuoma,,6.3462,7.4783,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,783.6,,,3,Africa/Lagos,FALSE,1566896345
+Rumirigo,Rumirigo,,10.6037,13.0303,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,103.5,,,4,Africa/Lagos,FALSE,1566818837
+Tsamai,Tsamai,Tsamia,13.5607,5.9390,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,144.5,,,4,Africa/Lagos,FALSE,1566916661
+Gwache,Gwache,,7.6046,8.9046,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,308.5,,,3,Africa/Lagos,FALSE,1566310586
+Laganso,Laganso,,8.7478,12.3594,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,139.2,,,4,Africa/Lagos,FALSE,1566393984
+Antere,Antere,,6.7333,11.0167,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,67.6,,,4,Africa/Lagos,FALSE,1566443783
+Dorobawa,Dorobawa,,9.2932,12.0091,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,116.1,,,4,Africa/Lagos,FALSE,1566255998
+Sungdung,Sungdung,,10.5832,12.1390,Nigeria,NG,NGA,Borno,Borno,NG-BO,state,,92.2,,,4,Africa/Lagos,FALSE,1566369811
+Tsechebe,Tsechebe,,7.6922,9.6128,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,214.4,,,3,Africa/Lagos,FALSE,1566708926
+Ntak,Ntak,,4.8912,7.7005,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,576.1,,,3,Africa/Lagos,FALSE,1566846409
+Alluwa,Alluwa,,9.4652,8.7078,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,242.5,,,3,Africa/Lagos,FALSE,1566012408
+Tignon,Tignon,,9.5333,11.6833,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,145.8,,,4,Africa/Lagos,FALSE,1566186446
+Bukul,Bukul,,11.3196,11.7302,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,62.0,,,4,Africa/Lagos,FALSE,1566838252
+Dawaki,Dawaki,,9.7226,8.4150,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,182.3,,,4,Africa/Lagos,FALSE,1566215561
+Barsawa,Barsawa,,12.8667,5.0833,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,211.3,,,3,Africa/Lagos,FALSE,1566912003
+Lawa,Lawa,,13.1000,11.0211,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,41.3,,,4,Africa/Lagos,FALSE,1566619384
+Adaha,Adaha,,8.0667,6.7833,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,116.8,,,4,Africa/Lagos,FALSE,1566851310
+Igbabele,Igbabele,,4.3209,6.2106,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,167.1,,,4,Africa/Lagos,FALSE,1566831275
+Rafia Island,Rafia Island,,10.8269,4.7153,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,55.8,,,4,Africa/Lagos,FALSE,1566182771
+Tungan Dogo,Tungan Dogo,,10.2012,4.6229,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.6,,,4,Africa/Lagos,FALSE,1566851742
+Sanbe,Sanbe,,8.8230,11.3983,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566659202
+Isaguna,Isaguna,,7.5900,3.9914,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,689.6,,,3,Africa/Lagos,FALSE,1566681509
+Song,Song,,9.8267,12.6238,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,minor,66.3,,,3,Africa/Lagos,FALSE,1566985345
+Adulo,Adulo,,7.4370,8.9379,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566141648
+Kambe,Kambe,,7.3167,8.8064,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566222788
+Abia,Abia,,5.5342,7.8893,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,637.4,,,3,Africa/Lagos,FALSE,1566000387
+Egbelu,Egbelu,,5.3620,7.1221,Nigeria,NG,NGA,Imo,Imo,NG-IM,state,,398.0,,,3,Africa/Lagos,FALSE,1566811860
+Ofoniama,Ofoniama,,5.1584,6.3667,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,293.9,,,3,Africa/Lagos,FALSE,1566898910
+Ogunmola Gudugbu,OgunmolaGudugbu,,7.7713,3.9935,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,FALSE,1566008401
+Togoyo,Togoyo,,12.2108,10.3037,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,174.9,,,4,Africa/Lagos,FALSE,1566726232
+Onoli,Onoli,,6.0514,7.4732,Nigeria,NG,NGA,Enugu,Enugu,NG-EN,state,,641.2,,,3,Africa/Lagos,FALSE,1566559554
+Osuk Ita,Osuk Ita,,5.0914,7.9976,Nigeria,NG,NGA,Akwa Ibom,Akwa Ibom,NG-AK,state,,630.6,,,3,Africa/Lagos,FALSE,1566073749
+Sangere Dakan,Sangere Dakan,,8.5435,11.1510,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,36.7,,,4,Africa/Lagos,FALSE,1566050980
+Barre,Barre,,12.7944,8.9270,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,413.2,,,3,Africa/Lagos,FALSE,1566559026
+Latoro,Latoro,,6.7500,3.6000,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,644.7,,,3,Africa/Lagos,FALSE,1566872749
+Dangau,Dangau,Unguwar Dangau,12.2940,6.7136,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,226.4,,,3,Africa/Lagos,FALSE,1566174486
+Idese,Idese,,7.1969,2.9352,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,145.1,,,4,Africa/Lagos,FALSE,1566094764
+Chido,Chido,Chida,11.8363,7.0077,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,196.0,,,4,Africa/Lagos,FALSE,1566665340
+Kanwa,Kanwa,,11.9500,9.4500,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,281.8,,,3,Africa/Lagos,FALSE,1566637957
+Chubu,Chubu,,9.1332,8.2176,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,172.3,,,4,Africa/Lagos,FALSE,1566159527
+Inyonkp,Inyonkp,,4.4370,7.4383,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,1789.1,,,3,Africa/Lagos,FALSE,1566039520
+Badage,Badage,,12.2724,9.1391,Nigeria,NG,NGA,Jigawa,Jigawa,NG-JI,state,,286.2,,,3,Africa/Lagos,FALSE,1566828159
+Usha,Usha,,7.2007,9.1523,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,198.8,,,4,Africa/Lagos,FALSE,1566804091
+Usha,Usha,,7.9340,7.8278,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,139.2,,,4,Africa/Lagos,TRUE,1566001091
+Usha,Usha,,7.1537,9.4603,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,TRUE,1566243025
+Yaul,Yaul,,8.9642,12.4187,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566995265
+Paza Baba,Paza Baba,,8.8500,12.6500,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566816434
+Afo-Ukwu,Afo-Ukwu,,5.7209,7.6297,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,468.0,,,3,Africa/Lagos,FALSE,1566953262
+Wasali,Wasali,,11.6837,3.7831,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566581792
+Yaran,Yaran,,9.7333,12.2667,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566104826
+Mshi,Mshi,,7.1089,8.8037,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,235.5,,,3,Africa/Lagos,FALSE,1566756895
+Ungwan Kawari,Ungwan Kawari,,11.8000,7.9333,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,796.0,,,3,Africa/Lagos,FALSE,1566019379
+Gomlar,Gomlar,,9.4263,9.7971,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,82.4,,,4,Africa/Lagos,FALSE,1566583248
+Kerenku,Kerenku,,7.4600,8.7815,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566706270
+Olaho,Olaho,Yalao,13.3871,5.2093,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,346.9,,,3,Africa/Lagos,FALSE,1566543618
+Awaye,Awaye,,7.4635,3.4155,Nigeria,NG,NGA,Ogun,Ogun,NG-OG,state,,122.0,,,4,Africa/Lagos,FALSE,1566059247
+Efue,Efue,,8.5136,4.3311,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566184024
+Agbenu-Obe,Agbenu-Obe,,7.4510,4.4305,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,240.1,,,3,Africa/Lagos,FALSE,1566003114
+Apatyo,Apatyo,,7.4213,8.7720,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566197397
+Kwongoma,Kwongoma,,10.4838,6.4637,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,83.7,,,4,Africa/Lagos,FALSE,1566174270
+Ikpyila,Ikpyila,,7.0076,8.8617,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566669440
+Awaye,Awaye,,8.2545,4.0800,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,122.2,,,4,Africa/Lagos,FALSE,1566567797
+Obinago,Obinago,Obilago,5.8668,7.5455,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,615.3,,,3,Africa/Lagos,FALSE,1566713376
+Idowu Abidiosa,IdowuAbidiosa,,7.5861,3.5069,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,222.6,,,3,Africa/Lagos,FALSE,1566008160
+Akiri,Akiri,,8.3833,9.3333,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,63.9,,,4,Africa/Lagos,FALSE,1566401969
+Kuye,Kuye,Aba-Kuye,7.2615,4.0374,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1336.2,,,3,Africa/Lagos,FALSE,1566951017
+Kuye,Kuye,,7.4154,3.7931,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,151.8,,,4,Africa/Lagos,TRUE,1566602439
+Wulmi,Wulmi,,9.2920,9.4387,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,144.1,,,4,Africa/Lagos,FALSE,1566451402
+Ango,Ango,,11.1646,8.1502,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,324.9,,,3,Africa/Lagos,FALSE,1566592620
+Kaaun,Kaaun,,7.0501,9.4667,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,121.7,,,4,Africa/Lagos,FALSE,1566111700
+Gidan Zamai,Gidan Zamai,,10.2410,6.0322,Nigeria,NG,NGA,Niger,Niger,NG-NI,state,,82.1,,,4,Africa/Lagos,FALSE,1566954350
+Yaneyer,Yaneyer,Yoneyer,7.2562,9.0794,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566256366
+Ikuata,Ikuata,,6.4142,3.3557,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,3266.7,,,2,Africa/Lagos,FALSE,1566363340
+Ikuata,Ikuata,Ikawta,6.4473,3.5496,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,2932.7,,,2,Africa/Lagos,TRUE,1566676945
+Bulumbukut,Bulumbukut,,13.5576,5.9299,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,144.5,,,4,Africa/Lagos,FALSE,1566578299
+Dakwara,Dakwara,,11.9144,7.9491,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,796.0,,,3,Africa/Lagos,FALSE,1566220048
+Agidigbene,Agidigbene,,4.7804,6.1297,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,196.8,,,4,Africa/Lagos,FALSE,1566853683
+Ago Ogba,Ago Ogba,Ago-Ogba,6.4807,4.8942,Nigeria,NG,NGA,Ondo,Ondo,NG-ON,state,,265.3,,,3,Africa/Lagos,FALSE,1566679826
+Olomogbene,Olomogbene,Otomogbene,5.5302,5.5985,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,914.5,,,3,Africa/Lagos,FALSE,1566132151
+Allaguerno,Allaguerno,Alagarno,12.3279,11.2406,Nigeria,NG,NGA,Yobe,Yobe,NG-YO,state,,96.0,,,4,Africa/Lagos,FALSE,1566709976
+Tukorugbene,Tukorugbene,,4.9402,5.5534,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,233.9,,,3,Africa/Lagos,FALSE,1566874005
+Igbo Orioke,Igbo Orioke,,7.8044,4.7101,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,343.0,,,3,Africa/Lagos,FALSE,1566002662
+Magamin Diddi,Magamin Diddi,,12.6487,6.2912,Nigeria,NG,NGA,Zamfara,Zamfara,NG-ZA,state,,137.3,,,4,Africa/Lagos,FALSE,1566910619
+Ekede,Ekede,,7.8421,3.9975,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,1473.2,,,3,Africa/Lagos,FALSE,1566006657
+Iyoki,Iyoki,,5.0407,8.2116,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,267.8,,,3,Africa/Lagos,FALSE,1566499827
+Unguwar Jaja,Unguwar Jaja,Jaja,10.1128,9.1402,Nigeria,NG,NGA,Bauchi,Bauchi,NG-BA,state,,75.8,,,4,Africa/Lagos,FALSE,1566798072
+Ajebandele-Fadehan,Ajebandele-Fadehan,,7.1005,4.5837,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,293.4,,,3,Africa/Lagos,FALSE,1566004733
+Agaji,Agaji,,10.6199,8.6434,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,162.9,,,4,Africa/Lagos,FALSE,1566672914
+Daksami,Daksami,,8.4713,11.9441,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,136.0,,,4,Africa/Lagos,FALSE,1566008050
+Naha,Naha,,11.7107,3.6977,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,101.4,,,4,Africa/Lagos,FALSE,1566834328
+Mallam Dabo,Mallam Dabo,,8.8106,11.2945,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,53.9,,,4,Africa/Lagos,FALSE,1566110060
+Yang Karemi,Yang Karemi,,10.1002,12.2282,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,135.8,,,4,Africa/Lagos,FALSE,1566858058
+Ungwan Golo,Ungwan Golo,Golo,11.2080,8.1084,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,324.9,,,3,Africa/Lagos,FALSE,1566537611
+Oniye,Oniye,,7.4957,3.5099,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,222.6,,,3,Africa/Lagos,FALSE,1566003729
+Fogolawa,Fogolawa,Fagolawa|Fogolama|Fagalama,12.3189,8.6784,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,411.3,,,3,Africa/Lagos,FALSE,1566284232
+Bakanti,Bakanti,,8.8333,12.6500,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,72.3,,,4,Africa/Lagos,FALSE,1566668234
+Kyernum,Kyernum,,7.0191,9.1611,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,227.3,,,3,Africa/Lagos,FALSE,1566020025
+Kyernum,Kyernum,,7.2869,9.4500,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,TRUE,1566434678
+Afanyo,Afanyo,,7.5394,9.2983,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,185.5,,,4,Africa/Lagos,FALSE,1566621158
+Pambo,Pambo,,8.7571,4.4164,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,50.7,,,4,Africa/Lagos,FALSE,1566006116
+Ebuwana,Ebuwana,,5.7808,7.8749,Nigeria,NG,NGA,Abia,Abia,NG-AB,state,,701.2,,,3,Africa/Lagos,FALSE,1566215748
+Sitti,Sitti,Sitti,11.2831,8.7828,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,328.7,,,3,Africa/Lagos,FALSE,1566242027
+Arokpa,Arokpa,,6.2942,8.5633,Nigeria,NG,NGA,Cross River,Cross River,NG-CR,state,,120.9,,,4,Africa/Lagos,FALSE,1566240044
+Edewo,Edewo,,6.4833,5.4000,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,70.3,,,4,Africa/Lagos,FALSE,1566837123
+Agbongbon,Agbongbon,,7.3499,4.3720,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,218.2,,,3,Africa/Lagos,FALSE,1566003029
+Gidan Giwa,Gidan Giwa,,7.7196,9.7537,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,93.9,,,4,Africa/Lagos,FALSE,1566700413
+Gidan Giwa,Gidan Giwa,Giwa,7.1918,10.6991,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,27.3,,,4,Africa/Lagos,TRUE,1566657705
+Akonon,Akonon,,9.2690,8.4868,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,172.3,,,4,Africa/Lagos,FALSE,1566023484
+Ungwan Liman,Ungwan Liman,,11.4846,7.3519,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,700.0,,,3,Africa/Lagos,FALSE,1566154760
+Ungwan Liman,Ungwan Liman,Angwan Liman,11.2667,7.3333,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,611.0,,,3,Africa/Lagos,TRUE,1566436544
+Ungwan Liman,Ungwan Liman,,11.4089,7.2060,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,507.9,,,3,Africa/Lagos,TRUE,1566703287
+Ungwan Liman,Ungwan Liman,,11.3378,7.1266,Nigeria,NG,NGA,Katsina,Katsina,NG-KT,state,,316.8,,,3,Africa/Lagos,TRUE,1566718950
+Bello,Bello,,7.7017,3.9625,Nigeria,NG,NGA,Oyo,Oyo,NG-OY,state,,284.1,,,3,Africa/Lagos,FALSE,1566108920
+Hure,Hure,,8.1000,9.3167,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,63.9,,,4,Africa/Lagos,FALSE,1566603921
+Ungwan Liman,Ungwan Liman,,11.5430,7.8202,Nigeria,NG,NGA,Kano,Kano,NG-KN,state,,437.0,,,3,Africa/Lagos,FALSE,1566564244
+Tse Changa,Tse Changa,,7.4432,9.4974,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,126.0,,,4,Africa/Lagos,FALSE,1566551433
+Ungwan Liman,Ungwan Liman,Anguwan Liman,10.5706,7.4545,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,6249.6,,,2,Africa/Lagos,FALSE,1566184114
+Gegu,Gegu,,8.2500,6.8333,Nigeria,NG,NGA,Kogi,Kogi,NG-KO,state,,116.8,,,4,Africa/Lagos,FALSE,1566068164
+Unguwa Kangarro,Unguwa Kangarro,,9.7202,7.7661,Nigeria,NG,NGA,Kaduna,Kaduna,NG-KD,state,,82.2,,,4,Africa/Lagos,FALSE,1566219922
+Gulani,Gulani,Ogulagha II|Ogula|Gula,5.3622,5.3255,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,185.2,,,4,Africa/Lagos,FALSE,1566726375
+Layi,Layi,,8.7221,9.2340,Nigeria,NG,NGA,Plateau,Plateau,NG-PL,state,,123.0,,,4,Africa/Lagos,FALSE,1566130617
+Igbo,Igbo,,6.4500,3.4167,Nigeria,NG,NGA,Lagos,Lagos,NG-LA,state,,2932.7,,,2,Africa/Lagos,FALSE,1566335443
+Ribochi,Ribochi,,8.4439,7.0069,Nigeria,NG,NGA,Nasarawa,Nasarawa,NG-NA,state,,196.6,,,4,Africa/Lagos,FALSE,1566480014
+Darushi,Darushi,,8.4389,11.8929,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,136.0,,,4,Africa/Lagos,FALSE,1566007592
+Bangai Musa,Bangai Musa,,12.1752,3.8566,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,232.8,,,3,Africa/Lagos,FALSE,1566297361
+Bello,Bello,,7.9167,4.4500,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,274.8,,,3,Africa/Lagos,FALSE,1566809892
+Erereghakiri,Erereghakiri,,4.3628,6.3858,Nigeria,NG,NGA,Bayelsa,Bayelsa,NG-BY,state,,167.1,,,4,Africa/Lagos,FALSE,1566906658
+Gonan Goli,Gonan Goli,,11.3667,4.9333,Nigeria,NG,NGA,Kebbi,Kebbi,NG-KE,state,,93.2,,,4,Africa/Lagos,FALSE,1566844758
+Feru Umaru,Feru Umaru,,10.0976,12.5878,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,102.2,,,4,Africa/Lagos,FALSE,1566553571
+Tungan Pa,Tungan Pa,,9.0295,7.2104,Nigeria,NG,NGA,Federal Capital Territory,Federal Capital Territory,NG-FC,capital territory,,1693.0,,,3,Africa/Lagos,FALSE,1566488134
+Ubaka,Ubaka,,9.1986,11.7230,Nigeria,NG,NGA,Adamawa,Adamawa,NG-AD,state,,77.8,,,4,Africa/Lagos,FALSE,1566259093
+Okepete-Olori,Okepete-Olori,,8.5336,4.3867,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,117.9,,,4,Africa/Lagos,FALSE,1566006163
+Gidan Ajia,Gidan Ajia,,13.7634,5.4107,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,317.9,,,3,Africa/Lagos,FALSE,1566229982
+Tse-Agije,Tse-Agije,,7.5840,8.0773,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,221.2,,,3,Africa/Lagos,FALSE,1566436949
+Kanshio,Kanshio,,7.6850,8.5361,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,559.0,,,3,Africa/Lagos,FALSE,1566085587
+Ode,Ode,,6.4154,6.7081,Nigeria,NG,NGA,Anambra,Anambra,NG-AN,state,,341.8,,,3,Africa/Lagos,FALSE,1566688239
+Kencinkecin,Kencinkecin,,13.5215,5.9622,Nigeria,NG,NGA,Sokoto,Sokoto,NG-SO,state,,144.5,,,4,Africa/Lagos,FALSE,1566671917
+Ereguru,Ereguru,,7.7378,4.9648,Nigeria,NG,NGA,Ekiti,Ekiti,NG-EK,state,,732.9,,,3,Africa/Lagos,FALSE,1566003207
+Akungwe,Akungwe,,7.1081,8.7425,Nigeria,NG,NGA,Benue,Benue,NG-BE,state,,280.6,,,3,Africa/Lagos,FALSE,1566094258
+Okeawon,Okeawon,,7.9000,4.4167,Nigeria,NG,NGA,Osun,Osun,NG-OS,state,,274.8,,,3,Africa/Lagos,FALSE,1566193423
+Umu-Chetu,Umu-Chetu,,4.9718,6.9051,Nigeria,NG,NGA,Rivers,Rivers,NG-RI,state,,434.8,,,3,Africa/Lagos,FALSE,1566341596
+Erhomeghwu,Erhomeghwu,,5.6780,5.9932,Nigeria,NG,NGA,Delta,Delta,NG-DE,state,,794.4,,,3,Africa/Lagos,FALSE,1566880067
+Uziegbe,Uziegbe,,6.6732,6.0816,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,365.2,,,3,Africa/Lagos,FALSE,1566038616
+Opepwe,Opepwe,Okpekpe,7.1994,6.4730,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,173.6,,,4,Africa/Lagos,FALSE,1566487177
+Kinikini,Kinikini,,9.4981,3.7202,Nigeria,NG,NGA,Kwara,Kwara,NG-KW,state,,29.6,,,4,Africa/Lagos,FALSE,1566003865
+Eguro,Eguro,Eguroe,6.6824,6.5154,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,189.0,,,4,Africa/Lagos,FALSE,1566602915
+Sorve,Sorve,,7.6212,9.8483,Nigeria,NG,NGA,Taraba,Taraba,NG-TA,state,,86.8,,,4,Africa/Lagos,FALSE,1566492309
+Iguelenebue,Iguelenebue,,6.3500,5.9333,Nigeria,NG,NGA,Edo,Edo,NG-ED,state,,86.9,,,4,Africa/Lagos,FALSE,1566206741

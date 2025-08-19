@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Casablanca,Casablanca,Ad Dār al Bayḑā’|Anfa|Casa Branca|Dar-el-Beida|Ed Dār el Baida,33.5333,-7.5833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,admin,9112.0,3499000,3499000,1,Africa/Casablanca,FALSE,1504175315
+Fès,Fes,Fez|Fes,34.0433,-5.0033,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,admin,3475.2,1112072,1112072,1,Africa/Casablanca,FALSE,1504861997
+Marrakech,Marrakech,Maraksh|Marrakesh|Merrakex|Morocco City,31.6300,-8.0089,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,admin,4204.3,966987,966987,2,Africa/Casablanca,FALSE,1504172585
+Tangier,Tangier,Tangeri|Tingis|Tanger-Assilah|Tanger,35.7767,-5.8039,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,admin,4751.6,947952,947952,2,Africa/Casablanca,FALSE,1504861504
+Sale,Sale,Sallee|Sali|Salé|Sla,34.0333,-6.8000,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,24223.2,850403,850403,2,Africa/Casablanca,FALSE,1504989034
+Rabat,Rabat,Ar Ribāţ,34.0209,-6.8416,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,primary,4853.5,572717,572717,1,Africa/Casablanca,FALSE,1504023252
+Meknès,Meknes,Mekinez,33.8950,-5.5547,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1406.6,520428,520428,2,Africa/Casablanca,FALSE,1504333193
+Oujda-Angad,Oujda-Angad,Oudja|Oudjda|Ouja|Oujda,34.6867,-1.9114,Morocco,MA,MAR,Oriental,Oriental,MA-02,,admin,5127.1,494252,494252,2,Africa/Casablanca,FALSE,1504891036
+Kenitra,Kenitra,Lyautey|Khenifra|Al Qunayţirah|Port Laoti|Ville de Kenitra|Port-Lyautey|Mina Hassan Tani,34.2500,-6.5833,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,663.5,431282,431282,2,Africa/Casablanca,FALSE,1504534876
+Agadir,Agadir,Agadair|Agadir Ighir|Irhir|Santa Cruz|Agadir-Ida-Ou-Tanane,30.4333,-9.6000,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,admin,9530.4,421844,421844,2,Africa/Casablanca,FALSE,1504116858
+Tétouan,Tetouan,Tetuán|Sidi Al Mandri|Al Azhar|Taţwān|Tetouan,35.5667,-5.3667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,7437.0,380787,380787,2,Africa/Casablanca,FALSE,1504709141
+Taourirt,Taourirt,,34.4169,-2.8850,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,7685.9,321876,321876,2,Africa/Casablanca,FALSE,1504648957
+Temara,Temara,Kasba Temara,33.9267,-6.9122,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,9341.8,313510,313510,2,Africa/Casablanca,FALSE,1504016606
+Safi,Safi,Asfi,32.2833,-9.2333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,9073.8,308508,308508,2,Africa/Casablanca,FALSE,1504000717
+Khénifra,Khenifra,,32.9394,-5.6675,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,4789.4,228567,117510,2,Africa/Casablanca,FALSE,1504143530
+El Jadid,El Jadid,Al Jadida|Mazagan|Al Yadida,33.2333,-8.5000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,6943.2,220181,220181,2,Africa/Casablanca,FALSE,1504964063
+Laâyoune,Laayoune,La’Youn|Al Ayoun|Aiun|El Aaiún|El Aium|Laayoune|Ejbei Uad el Aabd|Aaiún|Aaium|El Aiún,27.1536,-13.2033,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0.5,217732,217732,2,Africa/El_Aaiun,FALSE,1504000319
+Mohammedia,Mohammedia,Fedhala|Mohammadia|Fedala|Fdala|Faḑālah|Al Muḩammadīyah|Sedala,33.6833,-7.3833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,6069.5,208612,208612,2,Africa/Casablanca,FALSE,1504542634
+Kouribga,Kouribga,Kourigha|Khouribja|Kouriga|Khouribga,32.8833,-6.9167,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,3773.0,196196,196196,2,Africa/Casablanca,FALSE,1504325928
+Béni Mellal,Beni Mellal,Beni-Mellal-Centre|Beni Mellal,32.3394,-6.3608,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,admin,5219.7,192676,192676,2,Africa/Casablanca,FALSE,1504131639
+Ait Melloul,Ait Melloul,,30.3342,-9.4972,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,4296.2,171847,171847,2,Africa/Casablanca,FALSE,1504134516
+Nador,Nador,Villa Nador,35.1667,-2.9333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,3675.0,161726,161726,2,Africa/Casablanca,FALSE,1504811178
+Taza,Taza,,34.2167,-4.0167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,4012.3,148456,148456,2,Africa/Casablanca,FALSE,1504405154
+Settat,Settat,,33.0000,-7.6167,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,3697.4,142250,142250,2,Africa/Casablanca,FALSE,1504720478
+Barrechid,Barrechid,Berrechid|Bev-rechid,33.2667,-7.5833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,9322.9,136634,136634,2,Africa/Casablanca,FALSE,1504194885
+Al Khmissat,Al Khmissat,Khemisset|Kimisset,33.8167,-6.0667,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,7534.1,131542,131542,2,Africa/Casablanca,FALSE,1504079907
+Inezgane,Inezgane,Insgane|Imezgane,30.3658,-9.5381,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,11519.6,130333,130333,2,Africa/Casablanca,FALSE,1504786674
+Ksar El Kebir,Ksar El Kebir,El Ksar El Kbir|El Ksar El Kebir|Alcazquivir|Alcazarquivir|Alcazarquebir,35.0090,-5.9000,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,9720.6,126617,126617,2,Africa/Casablanca,FALSE,1504230428
+My Drarga,My Drarga,,30.3800,-9.4800,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,216.0,126512,126512,2,Africa/Casablanca,FALSE,1504399163
+Larache,Larache,Al ‘Arā’īsh|Lavache|El Aaraich,35.1833,-6.1500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,1950.8,125008,125008,2,Africa/Casablanca,FALSE,1504637172
+Guelmim,Guelmim,Goulimine,28.9833,-10.0667,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,admin,2646.9,118318,118318,2,Africa/Casablanca,FALSE,1504110861
+Berkane,Berkane,Berkán|Berkawe,34.9167,-2.3167,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,7561.5,109237,109237,2,Africa/Casablanca,FALSE,1504282363
+Ad Dakhla,Ad Dakhla,Dakhla|Factoria Villa Cisneros|Dakhlah|Villa Cisneros|Ad - Dakhla|Villa Cisneras,23.7081,-15.9456,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,region,,352.6,106277,106277,2,Africa/El_Aaiun,FALSE,1504999983
+Bouskoura,Bouskoura,,33.4489,-7.6486,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,554.0,103026,103026,2,Africa/Casablanca,FALSE,1504503306
+Al Fqih Ben Çalah,Al Fqih Ben Calah,Fkih Ben Salah,32.5000,-6.5333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,7827.2,102019,102019,2,Africa/Casablanca,FALSE,1504975687
+Oued Zem,Oued Zem,,32.8667,-6.5667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,6519.9,95267,95267,2,Africa/Casablanca,FALSE,1504098746
+Sidi Slimane,Sidi Slimane,Sidi Sliman|Sidi Slamain,34.2600,-5.9200,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,4287.9,92989,92989,2,Africa/Casablanca,FALSE,1504101128
+Errachidia,Errachidia,Er Rachidia|Ksar es Souk|Ar-rachidia,31.9319,-4.4244,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,admin,3647.4,92374,92374,2,Africa/Casablanca,FALSE,1504005759
+Guercif,Guercif,Garsif,34.2333,-3.3667,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,5239.4,90880,90880,2,Africa/Casablanca,FALSE,1504842310
+Oulad Teïma,Oulad Teima,Ouled Teima,30.4000,-9.2167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,3207.9,89387,89387,2,Africa/Casablanca,FALSE,1504278611
+Ben Guerir,Ben Guerir,Benguerir,32.2300,-7.9500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,5512.2,88626,88626,2,Africa/Casablanca,FALSE,1504909564
+Wislane,Wislane,Ouislane,30.2250,-8.3801,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,6.0,87910,87910,3,Africa/Casablanca,FALSE,1504929490
+Tiflet,Tiflet,,33.8931,-6.3069,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,609.2,86709,86709,3,Africa/Casablanca,FALSE,1504661999
+Lqoliaa,Lqoliaa,,30.2908,-9.4661,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,945.5,83235,83235,3,Africa/Casablanca,FALSE,1504675410
+Taroudannt,Taroudannt,Tarudant,30.4710,-8.8806,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1019.9,80149,80149,3,Africa/Casablanca,FALSE,1504415764
+Sefrou,Sefrou,Sefrú,33.8300,-4.8300,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1344.9,79887,79887,3,Africa/Casablanca,FALSE,1504820285
+Essaouira,Essaouira,Magador|Es Suira|Mogador|Mogadar|Aş Şuwayrah,31.5131,-9.7697,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,866.3,77966,77966,3,Africa/Casablanca,FALSE,1504845522
+Fnidq,Fnidq,Castillejos|Los Castillejos|Fnides|Fnideq|Fnidek,35.8500,-5.3500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,2720.0,77436,77436,2,Africa/Casablanca,FALSE,1504670555
+Ait Ali,Ait Ali,,30.1765,-9.4886,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,250.5,76646,76646,3,Africa/Casablanca,FALSE,1504009062
+Sidi Qacem,Sidi Qacem,Petitjean|Pettijean|Sīdī Qāsim|Sidi Kacem,34.2167,-5.7000,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,4332.9,75672,75672,2,Africa/Casablanca,FALSE,1504300626
+Tiznit,Tiznit,,29.7167,-9.7167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1111.4,74699,74699,3,Africa/Casablanca,FALSE,1504399838
+Moulay Abdallah,Moulay Abdallah,,33.1978,-8.5883,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,3677.5,74671,74671,2,Africa/Casablanca,FALSE,1504563452
+Tan-Tan,Tan-Tan,,28.4333,-11.1000,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.7,73209,73209,3,Africa/Casablanca,FALSE,1504164174
+Warzat,Warzat,Aït Ouarzazate|Ouarzazat|Ouarzazate|Ouorzazate|Ouarzazte,30.9167,-6.9167,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,233.0,71067,71067,3,Africa/Casablanca,FALSE,1504381507
+Youssoufia,Youssoufia,Louis Gentil,32.2500,-8.5333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,4001.9,67628,67628,2,Africa/Casablanca,FALSE,1504459034
+Sa’ada,Sa'ada,,31.6210,-8.1303,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,388.2,67086,67086,3,Africa/Casablanca,FALSE,1504926324
+Martil,Martil,Río Martín|Wād Martīn|Rio Martine,35.6167,-5.2667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,2620.0,64355,64355,2,Africa/Casablanca,FALSE,1504341023
+Aïn Harrouda,Ain Harrouda,Aïn el Harrouda,33.6372,-7.4483,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,8029.4,62420,62420,2,Africa/Casablanca,FALSE,1504718611
+Souq Sebt Oulad Nemma,Souq Sebt Oulad Nemma,Souk Sebt des Oulad Nemâa|Souk es Sebt|Es Sebt,32.2948,-6.7007,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,5282.1,60076,60076,2,Africa/Casablanca,FALSE,1504194496
+Skhirate,Skhirate,Skhirat|Aç Çkhirat|Kasba Skira|Minaret de Skhirat,33.8500,-7.0300,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1328.3,59775,59775,3,Africa/Casablanca,FALSE,1504664899
+Ouezzane,Ouezzane,Ouazzane|Uazán|Wazzan|Quazzane,34.8000,-5.5833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,5487.8,59606,59606,2,Africa/Casablanca,FALSE,1504736892
+Sidi Yahya Zaer,Sidi Yahya Zaer,Sidi Yahya des Zaër|Sidi Yahya|Sidi Yahia az Za’er|Sidi Yahia|Sidi Yahia Zaer|Sidi Yahia des Zaër|Sidi Yahia Zaïre,33.7105,-6.8831,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,2380.1,57790,57790,2,Africa/Casablanca,FALSE,1504365068
+Benslimane,Benslimane,Camp Boulhaut|Bouhault|Ben Slimán|Boulhaut|O Ben Slimane|Boulhout,33.6167,-7.1167,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,1042.1,57101,57101,3,Africa/Casablanca,FALSE,1504790296
+Semara,Semara,Smara|Esmara|Smar,26.7394,-11.6703,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0.0,57035,57035,3,Africa/El_Aaiun,FALSE,1504999984
+Al Hoceïma,Al Hoceima,Al Huceima|Villa Sanjurjo|Al Ḩusaymāt|Alhucemas|Villa Alhucemas|Alhacemas,35.2472,-3.9322,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,4494.1,56716,56716,2,Africa/Casablanca,FALSE,1504990575
+Beni Enzar,Beni Enzar,Beni Ensar|Beni Anzar,35.2667,-2.9333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1043.6,56582,56582,3,Africa/Casablanca,FALSE,1504616684
+M’diq,M'diq,El Medik|El Rincon|Rincón del Medik|Rincón de Medik|Rincon de El Medik|Rincon|Ricon el Medik|Mdic|Al Mediq|M’dia|Rincón el Madik|M’dik|Mdiq,35.6858,-5.3253,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,1140.3,56227,56227,3,Africa/Casablanca,FALSE,1504774869
+Sidi Bennour,Sidi Bennour,,32.6500,-8.4333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,90.8,55815,55815,3,Africa/Casablanca,FALSE,1504893162
+Midalt,Midalt,Midelt,32.6800,-4.7300,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,4678.2,55304,55304,2,Africa/Casablanca,FALSE,1504279379
+Douar Ain Chkef,Douar Ain Chkef,Aïn Chkeff|Aïn Chkef,33.9619,-5.0813,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,255.8,54477,54477,3,Africa/Casablanca,FALSE,1504020762
+Azrou,Azrou,,33.4417,-5.2247,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,5400.8,54350,54350,2,Africa/Casablanca,FALSE,1504585311
+El Kelaa des Srarhna,El Kelaa des Srarhna,Kelaa Des Srarhna|El Kelaa des Srharna|Kelaa,32.0481,-7.4083,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,6235.6,51404,51404,2,Africa/Casablanca,FALSE,1504846488
+Ain El Aouda,Ain El Aouda,Aïn el Apuda|Aïn el Aouda|’Aïn al ’Awda|’Aïn el ’Aouda,33.8111,-6.7922,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,2490.8,49816,49816,2,Africa/Casablanca,FALSE,1504400263
+Beni Yakhlef,Beni Yakhlef,Saint-Jean de Fedala|Louizia|Ellouizia|Elluoizia|Al Luwayzīyah|Al Lwiziya,33.6555,-7.3221,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,2492.9,48338,48338,2,Africa/Casablanca,FALSE,1504512130
+Ad Darwa,Ad Darwa,Derroua|Deroua,33.4167,-7.5333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,1669.5,47719,47719,3,Africa/Casablanca,FALSE,1504000451
+Al Aaroui,Al Aaroui,Monte ’Arrouit|Mont-Arruit|Mont Arrouit|Mont-Aroui|Monte Arruit,35.0029,-3.0311,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1750.2,47599,47599,3,Africa/Casablanca,FALSE,1504779155
+Qasbat Tadla,Qasbat Tadla,Kasba Tadla|Kasbah Tadla|Tadla,32.6000,-6.2667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,4299.5,47343,47343,2,Africa/Casablanca,FALSE,1504612704
+Boujad,Boujad,,32.7667,-6.4000,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,6095.9,46893,46893,2,Africa/Casablanca,FALSE,1504259447
+Tinajdad,Tinajdad,Tindjad|Tindjadj|Tinjdad|Tinejdad|Tinejad,31.5000,-5.0167,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,258.3,43999,43999,3,Africa/Casablanca,FALSE,1504176217
+Jerada,Jerada,Djerada,34.3117,-2.1636,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2396.5,43506,43506,2,Africa/Casablanca,FALSE,1504230609
+Douar Bni Malek,Douar Bni Malek,Beni Mallek|Beni Malek|Douar Beni Malek,34.7800,-5.6425,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,103.0,43282,43282,3,Africa/Casablanca,FALSE,1504252777
+Chefchaouene,Chefchaouene,Chaouèn|Ech Chaouene|Ville de Chechaouèn|Chechaouene|Chauen|Xexauen|Xauen|Scheschauen|Chichaouene|Chechaouèn,35.1714,-5.2697,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,1034.5,42786,42786,3,Africa/Casablanca,FALSE,1504471687
+Mrirt,Mrirt,Djemaa de Mrirt|Souk Jemaa de Mrirt|Ej Jemâ de Mrirt|Jemaa del Mrirt|Jemâ de Mrirt|Jemaa de Mrirt,33.1667,-5.5667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,4049.0,42730,42730,2,Africa/Casablanca,FALSE,1504917091
+Cabo Bojador,Cabo Bojador,Boujdour|Cape Blanc,26.1333,-14.5000,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,97.0,42651,42651,3,Africa/El_Aaiun,FALSE,1504003884
+Sidi Mohamed Lahmar,Sidi Mohamed Lahmar,,34.7167,-6.2667,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,297.7,42637,42637,3,Africa/Casablanca,FALSE,1504538713
+Tineghir,Tineghir,Tinrhir|Tinghir|Tinerhir,31.5147,-5.5328,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,494.3,42044,42044,3,Africa/Casablanca,FALSE,1504760525
+El Aïoun,El Aioun,Al ’Youn|El Aïoun Sidi Mellouk|Aioun Sidi Mellouk,34.5852,-2.5056,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2947.1,41832,41832,2,Africa/Casablanca,FALSE,1504312724
+Azemmour,Azemmour,Azzegour|Azimur,33.2878,-8.3422,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,9761.4,40920,40920,2,Africa/Casablanca,FALSE,1504675793
+Temsia,Temsia,,30.3600,-9.4140,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,3194.2,40780,40780,2,Africa/Casablanca,FALSE,1504419242
+Zoumi,Zoumi,Zumi,34.8000,-5.3500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,159.2,40661,40661,3,Africa/Casablanca,FALSE,1504309761
+Douar Laouamra,Douar Laouamra,Laouamra|El Aouamra,31.8000,-8.7167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.9,40605,40605,3,Africa/Casablanca,FALSE,1504542773
+Zagora,Zagora,,30.3306,-5.8381,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,2184.4,40067,40067,2,Africa/Casablanca,FALSE,1504579638
+Ait Ourir,Ait Ourir,Tleta des Ait Ourir|Et Tleta|Ait Urir|Aït Ourir,31.5644,-7.6628,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,3176.0,39108,39108,2,Africa/Casablanca,FALSE,1504763448
+Sidi Bibi,Sidi Bibi,Sidi Bidi,30.2333,-9.5333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,218.7,39042,39042,3,Africa/Casablanca,FALSE,1504682772
+Aziylal,Aziylal,Azilal|Asila|Arilal|Asilal,31.9669,-6.5694,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,4712.7,38520,38520,2,Africa/Casablanca,FALSE,1504084050
+Sidi Yahia El Gharb,Sidi Yahia El Gharb,Sidi Yahia del Garb|Sidi Yahia el Rharb|Sidi Yahya du Rharb|Sïdi Yaya du Rhanb|Sidi Yanya du Rharb|Sidi Yahia al Gharb,34.3058,-6.3058,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,2284.7,37979,37979,2,Africa/Casablanca,FALSE,1504994850
+Biougra,Biougra,,30.2144,-9.3708,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,3793.3,37933,37933,2,Africa/Casablanca,FALSE,1504630552
+Taounate,Taounate,Tawnat|Taounat,34.5358,-4.6400,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,628.4,37616,37616,3,Africa/Casablanca,FALSE,1504565730
+Bouznika,Bouznika,Kasba bou Znika|Bouzhika|Bouzniqa,33.7897,-7.1575,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,351.9,37238,37238,3,Africa/Casablanca,FALSE,1504766743
+Aourir,Aourir,,30.4833,-9.6333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,17.3,36948,36948,3,Africa/Casablanca,FALSE,1504616385
+Zaïo,Zaio,Toumiat Zaïo|Tumiat|Tumiat Zaio,34.9333,-2.7333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,3003.9,35806,35806,2,Africa/Casablanca,FALSE,1504831853
+Aguelmous,Aguelmous,Aguelmouss,33.1500,-5.8333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1639.0,35626,35626,3,Africa/Casablanca,FALSE,1504241696
+El Hajeb,El Hajeb,,33.6928,-5.3711,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,3896.3,35282,35282,2,Africa/Casablanca,FALSE,1504718907
+Dabouziya,Dabouziya,,33.3064,-8.3548,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,223.3,34607,34607,3,Africa/Casablanca,FALSE,1504001026
+Mnasra,Mnasra,Menacra|Douar Menasra|Menasra,34.7667,-5.5167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,89.0,34429,34429,3,Africa/Casablanca,FALSE,1504815098
+Zeghanghane,Zeghanghane,Segangane|Segangan,35.1500,-3.0000,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,4072.2,34025,34025,2,Africa/Casablanca,FALSE,1504260154
+Imzouren,Imzouren,Imzoûrene|Einzorene|Aïn Zorèn|Imsouren|Izourene|Einzoren|Eimoren|Amzourhèn-Khémis-Mrabtèn,35.1500,-3.8500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,1862.3,33852,33852,3,Africa/Casablanca,FALSE,1504878608
+Oulad Zemam,Oulad Zemam,Oulad Zmam,32.3500,-6.6333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,338.6,33652,33652,3,Africa/Casablanca,FALSE,1504396811
+Ben Ahmed,Ben Ahmed,Benahmed|Kasba Ben Ahmed,33.0655,-7.2464,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,800.6,33105,33105,3,Africa/Casablanca,FALSE,1504202051
+Tit Mellil,Tit Mellil,,33.5533,-7.4822,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,3892.6,32782,32782,2,Africa/Casablanca,FALSE,1504892729
+Arbaoua,Arbaoua,Arbaua,34.9000,-5.9167,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,189.2,32690,32690,3,Africa/Casablanca,FALSE,1504079088
+Douar Oulad Hssine,Douar Oulad Hssine,Oulad Hassine|Douar Oulad Hassine|Ben Hassen,33.0680,-8.5107,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,35.6,32130,32130,3,Africa/Casablanca,FALSE,1504473203
+Bahharet Oulad Ayyad,Bahharet Oulad Ayyad,,34.7702,-6.3047,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,170.9,31860,31860,3,Africa/Casablanca,FALSE,1504139256
+Mechraa Bel Ksiri,Mechraa Bel Ksiri,Mechrá Belqsiri|Mechra-bel-Kairi|Mechra al Ksiri|Ksiri,34.5600,-5.9500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,3760.4,31497,31497,2,Africa/Casablanca,FALSE,1504646910
+Mograne,Mograne,Morhane|El Mograne|Morhrane|El Morhrane|El Moghrane,34.4167,-6.4333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,187.0,31292,31292,3,Africa/Casablanca,FALSE,1504174936
+Dar Ould Zidouh,Dar Ould Zidouh,Dar Oulad Zidouh|Dar-Oould-Zidouh,32.3167,-6.9000,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,929.7,31170,31170,3,Africa/Casablanca,FALSE,1504900512
+Asilah,Asilah,Arzīlah|Arzila|Arsila|Arcila|Ville d’Arcila|Aṣīla|Arcilas,35.4667,-6.0333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,863.7,31147,31147,3,Africa/Casablanca,FALSE,1504676037
+Al ’Attawia,Al 'Attawia,Attaouia ech Châïbia|Ahl Attaouia|‘Attawiya Ach-Ch‘aïbiya|Attaouia|Attaouiya ech Chaïbiya|Attawya Ach Chaïbiya,31.8347,-7.3125,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1485.4,30315,30315,3,Africa/Casablanca,FALSE,1504496327
+Demnat,Demnat,Demnot|Demnate,31.7311,-7.0361,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,2911.1,29504,29504,2,Africa/Casablanca,FALSE,1504747424
+Lalla Mimouna,Lalla Mimouna,Lalla miouna-adachra|Lal-la Mimuna,34.8500,-6.0669,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1021.0,29479,29479,3,Africa/Casablanca,FALSE,1504801532
+Fritissa,Fritissa,Oulad-Jerrar,33.6167,-3.5500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,15.6,29460,29460,3,Africa/Casablanca,FALSE,1504842954
+Arfoud,Arfoud,Erfoud,31.4361,-4.2328,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,3446.0,29279,29279,2,Africa/Casablanca,FALSE,1504190665
+Tameslouht,Tameslouht,Tamesloht|Tameslout,31.5000,-8.1000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1218.2,28978,28978,3,Africa/Casablanca,FALSE,1504936367
+Bou Arfa,Bou Arfa,Bordj de Bou Arfa|Buarfa,32.5309,-1.9650,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,3519.1,28846,28846,2,Africa/Casablanca,FALSE,1504454457
+Sidi Smai’il,Sidi Smai'il,Zaouia Sidi Smain|Sidi Smaïne|Sidi-Smaïn|Sidi Smaïl,32.8167,-8.5000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,5258.2,28733,28733,2,Africa/Casablanca,FALSE,1504182456
+Taza,Taza,Bab Taza,35.0639,-5.2025,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,57.7,28713,28713,3,Africa/Casablanca,FALSE,1504253957
+Souk et Tnine Jorf el Mellah,Souk et Tnine Jorf el Mellah,Et Tnine Jorf el Mellah|El Zoco el Tenin de Yorf el-lah|Souk et Tnine Djorf el Mellah|Jorf-el-Melha,34.4833,-5.5169,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1626.3,28681,28681,3,Africa/Casablanca,FALSE,1504332951
+Mehdya,Mehdya,Plage|Mehdiya|Mehdia-Plage|Mehdia|Mehdaia|Mahdia Plage|Mendiya-Plage|Plage de Mehdia|Mehediya|Mehedia|Mehdya-Port|Media,34.2597,-6.6500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,3080.7,28636,28636,2,Africa/Casablanca,FALSE,1504438304
+Oulad Hammou,Oulad Hammou,,33.2499,-8.3346,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,67.6,28449,28449,3,Africa/Casablanca,FALSE,1504007795
+Douar Oulad Aj-jabri,Douar Oulad Aj-jabri,Oulad Jabri|Oulad Djabri,32.2567,-6.7839,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,250.0,28438,28438,3,Africa/Casablanca,FALSE,1504025075
+Aïn Taoujdat,Ain Taoujdat,Aïn Taoudjat|Aït Taoujdate|Aïn Taoujdate|Aïn Taoujat|Aïn Taoudjad,33.9333,-5.2167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2739.9,28288,28288,2,Africa/Casablanca,FALSE,1504497923
+Dar Bel Hamri,Dar Bel Hamri,Dar Bel Amri|Bel Hamri,34.1889,-5.9697,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,94.7,28156,28156,3,Africa/Casablanca,FALSE,1504221505
+Chichaoua,Chichaoua,Mzala Chichaoua|Chichaua,31.5333,-8.7667,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1679.7,27869,27869,3,Africa/Casablanca,FALSE,1504125569
+Tahla,Tahla,Tahala|El Ayba Tahalla,34.0500,-4.4200,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2368.5,27729,27729,2,Africa/Casablanca,FALSE,1504092591
+Bellaa,Bellaa,,30.0314,-9.5542,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,601.6,27699,27699,3,Africa/Casablanca,FALSE,1504167169
+Oulad Yaïch,Oulad Yaich,Oulad Yaiche|Ouled Aïch,32.4167,-6.3333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1296.7,27476,27476,3,Africa/Casablanca,FALSE,1504233317
+Ksebia,Ksebia,Kcebia|Ksebiya,34.2933,-6.1594,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,83.9,27059,27059,3,Africa/Casablanca,FALSE,1504059620
+Ourika Wawrmas,Ourika Wawrmas,Ourika|Ouanka Ouaourmas|Ouaourmas|Ouanka Wawrmas,30.7167,-6.5333,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,6.6,26990,26990,3,Africa/Casablanca,FALSE,1504021700
+Tamorot,Tamorot,Zoco es Sebtz de Tamorot|Tamorote,34.9333,-4.7833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,128.5,26748,26748,3,Africa/Casablanca,FALSE,1504592587
+Moulay Bousselham,Moulay Bousselham,Moulay Bou Selham,34.8786,-6.2933,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1515.2,26608,26608,3,Africa/Casablanca,FALSE,1504188471
+Iheddadene,Iheddadene,Theddadene,35.1500,-2.9667,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2082.6,26582,26582,2,Africa/Casablanca,FALSE,1504836101
+Sabaa Aiyoun,Sabaa Aiyoun,,33.9000,-5.3667,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,636.9,26277,26277,3,Africa/Casablanca,FALSE,1504462212
+Bourdoud,Bourdoud,,34.5922,-4.5492,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,135.5,26236,26236,3,Africa/Casablanca,FALSE,1504015338
+Aït Faska,Ait Faska,Douar Aït Faska,31.5058,-7.7161,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,267.5,26210,26210,3,Africa/Casablanca,FALSE,1504886930
+Rich,Rich,,32.2583,-4.5056,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,646.9,25992,25992,3,Africa/Casablanca,FALSE,1504005566
+Boureït,Boureit,Bouret|Bab-Berret,34.9833,-4.9167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,416.1,25872,25872,3,Africa/Casablanca,FALSE,1504130214
+Lamzoudia,Lamzoudia,Douar Mzoudia|Mzoudia|Mzouda,31.5833,-8.4833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,36.4,25674,25674,3,Africa/Casablanca,FALSE,1504553058
+Oulad Said,Oulad Said,,32.6320,-8.8456,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,97.6,25650,25650,3,Africa/Casablanca,TRUE,1504360657
+Missour,Missour,Misour|Mrabtines de Missour|Mrabtine de Missour,33.0500,-3.9833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,3008.2,25584,25584,2,Africa/Casablanca,FALSE,1504694053
+Ain Aicha,Ain Aicha,Ain Alcha|Aïn Aïcha,34.4833,-4.7000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,89.6,25417,25417,3,Africa/Casablanca,FALSE,1504818592
+Zawyat ech Cheïkh,Zawyat ech Cheikh,Zaouia ech Cheïkh|Zouiat ech Cheïkh,32.6414,-5.9206,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,3012.1,25388,25388,2,Africa/Casablanca,FALSE,1504071186
+Bouknadel,Bouknadel,Sidi Bouqnadel|Sidi Bou Knadel|Buknadel|Bou Knadel,34.1333,-6.7333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1257.8,25255,25255,3,Africa/Casablanca,FALSE,1504368806
+El Ghiate,El Ghiate,Et Tnine Khyat|Tnine Rhiate|Et Tnine Riate|Et Tnine Riat,32.0331,-9.1625,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,97.8,25162,25162,3,Africa/Casablanca,FALSE,1504222954
+Safsaf,Safsaf,,34.5581,-6.0078,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,180.1,25075,25075,3,Africa/Casablanca,FALSE,1504872939
+Ouaoula,Ouaoula,El Arba d’Aauala|Arba de Ouaouila|Arba-Ouaoula|El Arba Ouaoula,31.8667,-6.7500,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,111.4,24790,24790,3,Africa/Casablanca,FALSE,1504340462
+Douar Olad. Salem,Douar Olad. Salem,Ouled salem|Oulad Salem|Douar Oulad Salem,32.8739,-8.8588,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,117.5,24775,24775,3,Africa/Casablanca,FALSE,1504813232
+Oulad Tayeb,Oulad Tayeb,,33.9598,-4.9954,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2624.4,24594,24594,2,Africa/Casablanca,FALSE,1504027412
+Ain Dfali,Ain Dfali,,34.5990,-5.5488,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,103.5,24521,24521,3,Africa/Casablanca,FALSE,1504618863
+Echemmaia Est,Echemmaia Est,Kasba el Chemaïa|Chemaïa,32.0786,-8.6325,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,663.6,24303,24303,3,Africa/Casablanca,FALSE,1504437117
+Oulad Barhil,Oulad Barhil,Oulad Barrehil|Oulad Ber Rehil|Oulad Abbou|Ksar Oulad Abbou,30.6408,-8.4750,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1559.6,24288,24288,3,Africa/Casablanca,FALSE,1504160582
+Douar ’Ayn Dfali,Douar 'Ayn Dfali,Aïne Éfaïli|Aïn Dfali,33.9500,-4.4500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,80.7,24241,24241,3,Africa/Casablanca,FALSE,1504477105
+Bir Jdid,Bir Jdid,Bir Jedid Chavent|Bir Jdid Chavent|Bir Jedíd Saint-Hubert,33.3737,-8.0002,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,7112.0,24136,24136,2,Africa/Casablanca,FALSE,1504415482
+Setti Fatma,Setti Fatma,Zaouia Sti Fatma|Setti Fadma|Sette Fatna,31.2256,-7.6758,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,85.0,24129,24129,3,Africa/Casablanca,FALSE,1504468462
+Skoura,Skoura,Skoura des Ahl el Oust,31.0606,-6.5556,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,200.0,24055,24055,3,Africa/Casablanca,FALSE,1504320897
+Douar Ouled Ayad,Douar Ouled Ayad,Ouled Ayad|Oulad Aïed|Oulad Aïad|Douar Oulad Ayad,32.2000,-6.7975,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,56.9,23818,23818,3,Africa/Casablanca,FALSE,1504223555
+Zawyat an Nwaçer,Zawyat an Nwacer,Nwaçer|Nouaseur|Nouaceur,33.3611,-7.6114,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,254.2,23802,23802,3,Africa/Casablanca,FALSE,1504451401
+Khenichet-sur Ouerrha,Khenichet-sur Ouerrha,Jenichet|Khenichet Sur Ouerrha|Khenichet|Khemichet,34.4333,-5.6667,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,189.0,23707,23707,3,Africa/Casablanca,FALSE,1504817862
+Ayt Mohamed,Ayt Mohamed,Aït M’Hamed|Douar Aït Mohammed|Aït Mohamed,32.5667,-6.9833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,33.8,23696,23696,3,Africa/Casablanca,FALSE,1504703331
+Gueznaia,Gueznaia,Gzennaïa|Sgouennaia|Badriouene|Gzanaïa,35.7066,-5.9088,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,462.5,23601,23601,3,Africa/Casablanca,FALSE,1504255211
+Oulad Hassoune,Oulad Hassoune,,31.6503,-7.8361,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,304.4,23475,23475,3,Africa/Casablanca,FALSE,1504841903
+Bni Frassen,Bni Frassen,,34.3833,-4.3833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,112.7,23429,23429,3,Africa/Casablanca,FALSE,1504574079
+Douar Imoukkane,Douar Imoukkane,Imukan|Imoukane,35.0298,-4.8125,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,175.6,23132,23132,3,Africa/Casablanca,FALSE,1504341644
+Tnine Lgharbia,Tnine Lgharbia,Tnine Rharbâa|Souk et Tnine Gharbia|Et Tnine Rharbia|Et Tnine Gharbia|Et Tnine el Rharbia,32.5719,-8.8568,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,97.4,23074,23074,3,Africa/Casablanca,FALSE,1504401185
+Tighedouine,Tighedouine,,31.4236,-7.5208,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,267.5,22971,22971,3,Africa/Casablanca,FALSE,1504874700
+Alnif,Alnif,,31.1167,-5.1667,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,127.4,22724,22724,3,Africa/Casablanca,FALSE,1504225472
+Sidi Lmokhtar,Sidi Lmokhtar,Sidi Mokhtar|Sidi Moktar|Sidi Mojtar|Zaouia Sidi Moktar,31.5700,-9.0100,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,3100.8,22714,22714,2,Africa/Casablanca,FALSE,1504925399
+Souk Tlet El Gharb,Souk Tlet El Gharb,Souk et Tleta du Rharb|Et Tleta|Souk Tleta Gharb|Souk-Tleta-du-Rharb|Souq et Tléta du Gharb,34.6211,-6.1336,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,119.9,22554,22554,3,Africa/Casablanca,FALSE,1504595315
+Arbi’a Tighadwiyn,Arbi'a Tighadwiyn,Arba’ Tighedouine|Arba’ Tighedouiîne,31.4279,-7.5253,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,70.0,22353,22353,3,Africa/Casablanca,FALSE,1504625035
+Had Oulad Issa,Had Oulad Issa,El Had Oulad Aïssa|El Had des Oulad Aïssa|Had Oulad Aïssa|Souk el Had|Had-des-Oulad-Aïssa,32.9519,-8.6982,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,119.9,21779,21779,3,Africa/Casablanca,FALSE,1504891592
+Tidili Masfiywat,Tidili Masfiywat,Tidili Mesfioua,31.4667,-7.6167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,144.2,21706,21706,3,Africa/Casablanca,FALSE,1504563620
+Sidi Ifni,Sidi Ifni,Ifni|Sidifni,29.3833,-10.1667,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,1519.2,21618,21618,3,Africa/Casablanca,FALSE,1504270532
+Tamgrout,Tamgrout,Tamegrout,30.2667,-5.6667,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,31.7,21603,21603,3,Africa/Casablanca,FALSE,1504571275
+Selouane,Selouane,Zelouane|Zelouan|Zeluán|Zelaun,35.0667,-2.9333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,585.2,21570,21570,3,Africa/Casablanca,FALSE,1504039594
+Amizmiz,Amizmiz,Amismiz|Amimiz,31.2167,-8.2500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,353.4,21445,21445,3,Africa/Casablanca,FALSE,1504971543
+Afourar,Afourar,Afourer|Afouraire,32.2167,-6.5000,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,863.8,21382,21382,3,Africa/Casablanca,FALSE,1504710376
+Asni,Asni,,31.2500,-7.9833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,89.5,21244,21244,3,Africa/Casablanca,FALSE,1504093117
+Tabount,Tabount,,30.8800,-6.9100,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,2629.5,21198,21198,2,Africa/Casablanca,FALSE,1504000158
+Imi n’Oulaoun,Imi n'Oulaoun,,31.4224,-6.5641,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,33.0,21061,21061,3,Africa/Casablanca,FALSE,1504402350
+Saka,Saka,,34.6167,-3.4167,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,13.6,21048,21048,3,Africa/Casablanca,FALSE,1504711196
+Bni Rzine,Bni Rzine,,35.0108,-4.7262,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,140.6,20904,20904,3,Africa/Casablanca,FALSE,1504313733
+El Gara,El Gara,El-Guara|Boucheron,33.2819,-7.2319,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,2760.0,20855,20855,2,Africa/Casablanca,FALSE,1504734362
+Sidi Abdelkader,Sidi Abdelkader,,33.0494,-8.6886,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,193.6,20854,20854,3,Africa/Casablanca,FALSE,1504001212
+Imi-n-Tanout,Imi-n-Tanout,Kasba Kahira|Imi-N-Tanoute|Imi n’Tanout,31.1600,-8.8500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1196.9,20837,20837,3,Africa/Casablanca,FALSE,1504593970
+Sidi Chiker,Sidi Chiker,Zaouia Sidi Chiker,31.7453,-8.7069,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.9,20658,20658,3,Africa/Casablanca,FALSE,1504682316
+Sidi Rahal,Sidi Rahal,,33.7897,-7.1575,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,875.3,20628,20628,3,Africa/Casablanca,FALSE,1504637195
+Station des Essais M.V.A.,Station des Essais M.V.A.,Boughriba,34.9352,-2.4306,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,83.7,20513,20513,3,Africa/Casablanca,FALSE,1504298109
+Reçani,Recani,Rissani|Risani,31.2859,-4.2751,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,93.2,20469,20469,3,Africa/Casablanca,FALSE,1504410951
+Aïn Cheggag,Ain Cheggag,Ecole d’Aïn Chegag,33.8833,-5.0333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,111.4,20456,20456,3,Africa/Casablanca,FALSE,1504540865
+Sidi Jaber,Sidi Jaber,Sidi Jabeur,32.3833,-6.4167,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,167.2,20432,20432,3,Africa/Casablanca,FALSE,1504230672
+Jdour,Jdour,Idour,32.1269,-8.7633,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,74.9,20239,20239,3,Africa/Casablanca,FALSE,1504892254
+Douar Lamrabih,Douar Lamrabih,Oulad Rbah|Oulad Mrâbah|Lamrabih|Douar Oulad Rbah|Ouled Ziane Tefaine|Oulad Ziane|Douar Oulad Ziane,34.8167,-5.8167,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,138.5,20187,20187,3,Africa/Casablanca,FALSE,1504888923
+El Ksiba,El Ksiba,Ksiba|Kasba Aït Youdi|Aït Yakoub,32.5681,-6.0308,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1960.5,20001,20001,3,Africa/Casablanca,FALSE,1504390061
+Sidi Taibi,Sidi Taibi,,34.1917,-6.6845,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,1106.7,19979,19979,3,Africa/Casablanca,FALSE,1504376928
+’Ali Ben Sliman,'Ali Ben Sliman,Sidi Ali Bou Slimane|Ali ben Slimane|Ouled Sidi Ali Ben Slimane,31.9100,-7.2100,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,141.8,19977,19977,3,Africa/Casablanca,FALSE,1504127885
+Tarhzirt,Tarhzirt,Tagzirt|Taghzirt,32.4333,-6.1833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,116.2,19936,19936,3,Africa/Casablanca,FALSE,1504643080
+Aït Tamlil,Ait Tamlil,Aït Tamellil|Asif Ait Tamellil,31.4800,-6.9400,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,36.2,19930,19930,3,Africa/Casablanca,FALSE,1504250838
+Had Zraqtane,Had Zraqtane,Had-Zerekten|Zerektene|Zerekten|Zerkten|Had Zerektene,31.4500,-7.4000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,56.1,19926,19926,3,Africa/Casablanca,FALSE,1504613352
+El Mansouria,El Mansouria,Al Mançouriya|Mansouria|Minaret de Mansuria|Kasba Mansouriah|Mansouriah,33.7500,-7.3000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,242.9,19853,19853,3,Africa/Casablanca,FALSE,1504714536
+Oulad Embarek,Oulad Embarek,Ulad Embarek|Oulad Mbarek,32.2833,-6.4667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1400.2,19774,19774,3,Africa/Casablanca,FALSE,1504452976
+Oulad Fraj,Oulad Fraj,El Had|Had Oulad Frej|Had des Oulad Frej|Had Ouled Frej Centre|Oulad Frej|Souk el Had,32.9667,-8.2333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,3050.3,19752,19752,2,Africa/Casablanca,FALSE,1504478947
+Jnane Bouih,Jnane Bouih,,32.0308,-8.7894,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,68.9,19706,19706,3,Africa/Casablanca,FALSE,1504889186
+Ahfir,Ahfir,Martimprey du Kiss,34.9514,-2.1025,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2885.0,19630,19630,2,Africa/Casablanca,FALSE,1504027251
+Ait Bousarane,Ait Bousarane,,31.7318,-7.0876,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,149.7,19501,19501,3,Africa/Casablanca,FALSE,1504791291
+Ait Bouziyane,Ait Bouziyane,,33.8167,-5.2749,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,94.0,19501,19501,3,Africa/Casablanca,FALSE,1504248874
+Oulad Salmane,Oulad Salmane,,34.3356,-6.4604,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,190.6,19488,19488,3,Africa/Casablanca,FALSE,1504113014
+Douar Ait Sidi Daoud,Douar Ait Sidi Daoud,,31.6347,-7.6444,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,185.4,19286,19286,3,Africa/Casablanca,FALSE,1504024368
+Al Brouj,Al Brouj,El Borouj|El Borch,32.5050,-7.1927,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,1936.6,19235,19235,3,Africa/Casablanca,FALSE,1504448147
+Sidi Redouane,Sidi Redouane,Redouane|Sidi Reduan,34.6833,-5.4500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,151.3,19169,19169,3,Africa/Casablanca,FALSE,1504580531
+Zaouïa Aït Ishak,Zaouia Ait Ishak,Zawyat Aït Ishaq|Aït Issehak|Aït Ishak|Aït Shak|Zaouia Aït Ishak|Zaouia Aït Issehak|Ait Isehak|Ait Ichek|Zawyat Aït Ishag,32.7600,-5.7233,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,664.0,19133,19133,3,Africa/Casablanca,FALSE,1504322304
+Imouzzer Kandar,Imouzzer Kandar,Imouzzer du Kandar|Immouzer|Imouzzer,33.7300,-5.0100,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1064.4,19125,19125,3,Africa/Casablanca,FALSE,1504932203
+Douar Toulal,Douar Toulal,Dar Toulal|Toulal,33.8951,-5.6021,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,4001.9,19077,19077,2,Africa/Casablanca,FALSE,1504858900
+Ait Ben Daoudi,Ait Ben Daoudi,,31.6345,-7.6440,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,185.4,18976,18976,3,Africa/Casablanca,FALSE,1504718613
+Beni Zouli,Beni Zouli,,30.4839,-5.8619,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,63.6,18941,18941,3,Africa/Casablanca,FALSE,1504549752
+Oulmes,Oulmes,Oulmès-Les Thermes,33.4450,-6.0011,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,76.4,18786,18786,3,Africa/Casablanca,FALSE,1504050150
+Karia Ba Mohamed,Karia Ba Mohamed,Karia Ba Mohammed,34.3667,-5.2000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,472.3,18762,18762,3,Africa/Casablanca,FALSE,1504442421
+Tata,Tata,Tatta,29.7428,-7.9725,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,2.6,18611,18611,3,Africa/Casablanca,FALSE,1504497241
+Jbabra,Jbabra,,34.4314,-4.9642,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,133.8,18592,18592,3,Africa/Casablanca,FALSE,1504581289
+Tamri,Tamri,,30.6950,-9.8250,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,61.8,18577,18577,3,Africa/Casablanca,FALSE,1504501049
+Sebt Gzoula,Sebt Gzoula,Es Sebt Gzoula|Es Sebt|Sebt-Gzoula|Gzoula|Sebt des Gzoula,32.1167,-9.0833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,805.0,18543,18543,3,Africa/Casablanca,FALSE,1504003595
+Chouafa,Chouafa,,34.9468,-6.1667,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,182.3,18436,18436,3,Africa/Casablanca,FALSE,1504440228
+Foum el Anser,Foum el Anser,Foum el Annseur|Foum el Anseur,32.3718,-6.2613,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,105.6,18412,18412,3,Africa/Casablanca,FALSE,1504049816
+Assa,Assa,Zaouia Assa,28.6086,-9.4269,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,1.0,18367,18367,3,Africa/Casablanca,FALSE,1504311835
+Lamrasla,Lamrasla,,32.0247,-8.9153,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,132.9,18335,18335,3,Africa/Casablanca,FALSE,1504000483
+Aït Bouchta,Ait Bouchta,Aït Boustata,35.1056,-3.8503,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,97.4,18271,18271,3,Africa/Casablanca,FALSE,1504367001
+Bni Bouayach,Bni Bouayach,,35.0986,-3.8397,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,516.0,18271,18271,3,Africa/Casablanca,FALSE,1504579713
+Ikniwn,Ikniwn,Aknioun|Iknioune|Iknioun,31.1736,-5.6733,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,14.9,18235,18235,3,Africa/Casablanca,FALSE,1504281850
+Bouarouss,Bouarouss,Bou Arous,34.3667,-4.8167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,125.8,18147,18147,3,Africa/Casablanca,FALSE,1504643537
+Ghouazi,Ghouazi,Rhouazi,34.4667,-5.3000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,101.9,18081,18081,3,Africa/Casablanca,FALSE,1504717727
+Sidi Allal Tazi,Sidi Allal Tazi,Sidi ’Allal Tazi|Allal Tazi,34.5197,-6.3236,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,641.5,18055,18055,3,Africa/Casablanca,FALSE,1504240446
+Douar Oulad Mbarek,Douar Oulad Mbarek,Oulad Mbarek|Douar Ouled Mbarek,34.2833,-4.3167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,112.7,17747,17747,3,Africa/Casablanca,FALSE,1504643299
+Laatatra,Laatatra,,32.6315,-8.4148,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,153.2,17593,17593,3,Africa/Casablanca,FALSE,1504800245
+Aït Majdane,Ait Majdane,,31.8514,-6.9658,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,92.0,17572,17572,3,Africa/Casablanca,FALSE,1504617199
+Sahel,Sahel,,34.9667,-4.5500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,79.4,17496,17496,3,Africa/Casablanca,FALSE,1504781617
+Dar Chaifat,Dar Chaifat,Dar Charfaï|Dar ech Chafi|Dar Chafï|Dar Chafaï|Dar Chaffaï,32.5500,-7.5000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,68.8,17454,17454,3,Africa/Casablanca,FALSE,1504290821
+Awlouz,Awlouz,Aoulouz|Dar Caïd,30.7000,-8.1500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,216.6,17409,17409,3,Africa/Casablanca,FALSE,1504521135
+Milla’ab,Milla'ab,Ksar Melaâb|Mellab,31.4737,-4.7424,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,15.1,17360,17360,3,Africa/Casablanca,FALSE,1504537795
+Ketama,Ketama,,34.9158,-4.5686,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,204.1,17351,17351,3,Africa/Casablanca,FALSE,1504947642
+Galaz,Galaz,Golaz,34.5500,-4.8000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,115.6,17333,17333,3,Africa/Casablanca,FALSE,1504676326
+Chouafaa,Chouafaa,El Chouafeh|Chouafaê,34.7667,-6.0500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,116.5,17202,17202,3,Africa/Casablanca,FALSE,1504441282
+Tagounite,Tagounite,Tagounit|Tagoudit,29.9585,-5.9151,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,10.0,17103,17103,3,Africa/Casablanca,FALSE,1504500189
+Sidi Yakoub,Sidi Yakoub,Sidi Yacoub|Douar Sidi Yakoub,31.6667,-7.0667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,92.7,17054,17054,3,Africa/Casablanca,FALSE,1504968095
+Knemis Dades,Knemis Dades,,31.3090,-6.0280,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,59.5,17045,17045,3,Africa/Casablanca,FALSE,1504000136
+Oulad Amrane,Oulad Amrane,,32.2833,-9.2333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,98.5,16979,16979,3,Africa/Casablanca,FALSE,1504791859
+Qal’at Mgouna,Qal'at Mgouna,El Kelaa des Mgouna|Qala’at Mgouna|El Kelaa|Kelaat Mgouna,31.2414,-6.1283,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,791.1,16956,16956,3,Africa/Casablanca,FALSE,1504989758
+Douar Lamjaara,Douar Lamjaara,Mahjara|Mjara,34.6147,-5.2887,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,252.2,16899,16899,3,Africa/Casablanca,FALSE,1504061051
+Ratba,Ratba,,34.7833,-4.9333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,99.5,16825,16825,3,Africa/Casablanca,FALSE,1504991654
+Sidi Lamine,Sidi Lamine,,32.9000,-6.0500,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,21.1,16808,16808,3,Africa/Casablanca,FALSE,1504670404
+Ouaouzgane,Ouaouzgane,,35.0167,-4.5167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,77.1,16772,16772,3,Africa/Casablanca,FALSE,1504425512
+Ribat Al Khayr,Ribat Al Khayr,Ribat el Kheir|Ribat al Kheir,33.8200,-4.4100,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1556.9,16739,16739,3,Africa/Casablanca,FALSE,1504387842
+Agourai,Agourai,Agouraï,33.6333,-5.5833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1001.6,16651,16651,3,Africa/Casablanca,FALSE,1504734608
+Sidi Ettiji,Sidi Ettiji,,32.1717,-8.8686,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,78.9,16649,16649,3,Africa/Casablanca,FALSE,1504984837
+Douar Tabouda,Douar Tabouda,Tabouda de l’Ouerrha|Tabouda,34.7167,-5.1333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,127.3,16618,16618,3,Africa/Casablanca,FALSE,1504107473
+Zirara,Zirara,,32.3500,-8.5333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,114.1,16606,16606,3,Africa/Casablanca,FALSE,1504681558
+Mensora,Mensora,El Mensoura,34.8356,-4.9655,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,154.1,16559,16559,3,Africa/Casablanca,FALSE,1504316721
+Tamallalt,Tamallalt,Tamelit ej Jedid|Tamelelt el Jedid|Tamelelte el Djedid|Kasba Tamlalt el Djedid|Tamelet el Djedid|Tamelet ej Jdid|Tamelelt|Tamelelt Jdida,31.8289,-7.5261,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,713.4,16539,16539,3,Africa/Casablanca,FALSE,1504009378
+Goulmima,Goulmima,Goulmina|Guelmina,31.6944,-4.9592,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,2113.7,16419,16419,2,Africa/Casablanca,FALSE,1504139417
+Outat Oulad Al Haj,Outat Oulad Al Haj,Outat Oulad el Hajj|Outat el Hajj|Outat el Hadj|Outat el Haj,33.3333,-3.6833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1603.7,16388,16388,3,Africa/Casablanca,FALSE,1504806480
+Sebt Aït Saghiouchen,Sebt Ait Saghiouchen,Sebt Aït Seghouchen,34.0122,-4.5536,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,57.6,16362,16362,3,Africa/Casablanca,FALSE,1504600750
+’Ayn Bni Mathar,'Ayn Bni Mathar,Beni Mattar Ahel Ras-el-Ain|Ras el Aïn des Beni Mathar|Berguent|Aïn Beni Mathar,34.0889,-2.0247,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,4.1,16289,16289,3,Africa/Casablanca,FALSE,1504845272
+Timezgana,Timezgana,Et Tnine de Timesgana,34.5833,-4.7333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,136.4,16172,16172,3,Africa/Casablanca,FALSE,1504420273
+Talsint,Talsint,Talsinnt,32.5398,-3.4408,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1090.2,16166,16166,3,Africa/Casablanca,FALSE,1504691780
+Al Qbab,Al Qbab,Kebbab|El Kebab|El Kbab,32.7333,-5.5167,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1722.8,16157,16157,3,Africa/Casablanca,FALSE,1504689479
+Bni Tajjit,Bni Tajjit,Tadjit|Beni Tajjite|Beni Tajit|Beni Tadjit,32.2833,-3.4833,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2.6,16149,16149,3,Africa/Casablanca,FALSE,1504670713
+Zegzel,Zegzel,Zegzal,34.8407,-2.3543,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,106.1,16137,16137,3,Africa/Casablanca,FALSE,1504844688
+Douar Azla,Douar Azla,Azla,35.5564,-5.2453,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,238.5,16128,16128,3,Africa/Casablanca,FALSE,1504601982
+Masmouda,Masmouda,,34.7862,-5.7078,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,83.5,16106,16106,3,Africa/Casablanca,FALSE,1504193768
+Ait Yaazem,Ait Yaazem,,33.7333,-5.5833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2016.0,16091,16091,2,Africa/Casablanca,FALSE,1504697698
+Bouchabel,Bouchabel,,34.3833,-5.0167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,122.3,16084,16084,3,Africa/Casablanca,FALSE,1504000782
+Bni Quolla,Bni Quolla,,34.7380,-5.5441,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,89.0,16049,16049,3,Africa/Casablanca,FALSE,1504770766
+Bou Djeniba,Bou Djeniba,Bou Jniba|Bou Jeniba,32.9000,-6.7833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,2836.4,16030,16030,2,Africa/Casablanca,FALSE,1504676510
+Khat Azakane,Khat Azakane,,32.2226,-9.1343,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,80.7,16014,16014,3,Africa/Casablanca,FALSE,1504377421
+Sidi Azzouz,Sidi Azzouz,Douar Sidi Azzouz,31.7667,-7.6667,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,122.4,16001,16001,3,Africa/Casablanca,FALSE,1504893148
+Zemrane,Zemrane,Douar Zemrane,31.6700,-7.4400,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,128.8,15996,15996,3,Africa/Casablanca,FALSE,1504983059
+Caidat Sidi Boubker El Haj,Caidat Sidi Boubker El Haj,,34.9148,-6.0735,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,210.3,15990,15990,3,Africa/Casablanca,FALSE,1504131696
+L’Oulja,L'Oulja,,34.2894,-4.9481,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,102.7,15956,15956,3,Africa/Casablanca,FALSE,1504438935
+Ras el Oued,Ras el Oued,Rass el Ma,34.1500,-4.0000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,31.3,15949,15949,3,Africa/Casablanca,TRUE,1504000629
+Haddada,Haddada,,34.2236,-6.5111,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,84.8,15898,15898,3,Africa/Casablanca,FALSE,1504933242
+Sidi Allal el Bahraoui,Sidi Allal el Bahraoui,Sidi-Allal-Bahraoui,33.9830,-6.4170,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,26.3,15866,15866,3,Africa/Casablanca,TRUE,1504503519
+Tamazouzt,Tamazouzt,Tamazouzte,31.3833,-8.3833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,52.6,15846,15846,3,Africa/Casablanca,FALSE,1504120032
+Ras El Oued,Ras El Oued,,34.3390,-4.5558,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,102.8,15778,15778,3,Africa/Casablanca,FALSE,1504323676
+Aïn Mediouna,Ain Mediouna,’Aïn Medjouna,34.5000,-4.5500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,156.0,15770,15770,3,Africa/Casablanca,FALSE,1504603767
+Sebt Bni Smith,Sebt Bni Smith,,35.1373,-4.7107,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,150.8,15577,15577,3,Africa/Casablanca,FALSE,1504877940
+Skhour Rehamna,Skhour Rehamna,Skhour des Rehamna|Les Skhour des Rehamna|Souk El Arba des Skour|Souk el Arba des Skhour,32.4833,-7.9167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,686.9,15479,15479,3,Africa/Casablanca,FALSE,1504150525
+Al Hammam,Al Hammam,El Hammam,33.1868,-5.6225,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,16.6,15438,15438,3,Africa/Casablanca,FALSE,1504972770
+Ezzhiliga,Ezzhiliga,Christian,33.3000,-6.5333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,470.6,15430,15430,3,Africa/Casablanca,FALSE,1504882785
+Anazzou,Anazzou,Andour|Anezzou|Anzou,30.6333,-8.0500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,23.4,15429,15429,3,Africa/Casablanca,FALSE,1504693352
+Tendrara,Tendrara,Aïn Tendrara,33.0500,-2.0000,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1.2,15390,15390,3,Africa/Casablanca,FALSE,1504340310
+Aç-çahrij,Ac-cahrij,Sahrij|Sahriz|Zaouia Chary,31.8000,-7.1400,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,291.5,15385,15385,3,Africa/Casablanca,FALSE,1504655221
+Moul El Bergui,Moul El Bergui,Moul Bergui|Zaouia Moul el Bergui,32.5113,-8.9849,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,93.5,15342,15342,3,Africa/Casablanca,FALSE,1504152809
+Aïn Jemaa,Ain Jemaa,Aïn ej Jemâa|Aïn Jema|Aïn Djemâa,34.0333,-5.8000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,44.6,15265,15265,3,Africa/Casablanca,FALSE,1504158964
+Tazert,Tazert,Tazzerte|Tazrarte|Tazzarte,31.6597,-7.4092,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,70.9,15243,15243,3,Africa/Casablanca,FALSE,1504394144
+Souk Et-Tleta des Oulad Hamdane,Souk Et-Tleta des Oulad Hamdane,Et Tleta des Oulad Hamdane|Ouled Hamdane|Souk et Tleta des Oulad Hamdane|Et Tleta des Oulad Hamdene,33.1047,-8.2495,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,67.6,15205,15205,3,Africa/Casablanca,FALSE,1504163979
+Tirhassaline,Tirhassaline,Mammar|Tighassaline|Mâama|Dechra Maamar,32.7833,-5.6500,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1434.9,15204,15204,3,Africa/Casablanca,FALSE,1504798306
+Douar El Arbaa Bou Quorra,Douar El Arbaa Bou Quorra,Qal’at Bouqorra,34.7490,-5.1982,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,165.1,15165,15165,3,Africa/Casablanca,FALSE,1504563622
+Oulad Bou Rahmoun,Oulad Bou Rahmoun,Ouled Bourahmouns,32.2954,-6.6668,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,263.3,15113,15113,3,Africa/Casablanca,FALSE,1504264037
+Mellila,Mellila,,33.3833,-7.1333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,80.7,15081,15081,3,Africa/Casablanca,FALSE,1504008725
+Sabbah,Sabbah,,33.8036,-7.0372,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,230.2,15029,15029,3,Africa/Casablanca,FALSE,1504883472
+Midar,Midar,Azib de Midar|El Arba de Midar|Arba Laazib Midar|Soko Arbaa Laazib Midar,34.9500,-3.5333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,153.4,15021,15021,3,Africa/Casablanca,FALSE,1504267844
+Esbiaat,Esbiaat,,32.2044,-8.5608,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,56.4,14986,14986,3,Africa/Casablanca,FALSE,1504764211
+Douar Souk L‘qolla,Douar Souk L`qolla,Souk el Kolla|Mexerali|Mexerah|Mesrah,35.0718,-5.5702,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,49.5,14965,14965,3,Africa/Casablanca,FALSE,1504031338
+Tabant,Tabant,Tabannt,31.6581,-6.4200,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,32.7,14963,14963,3,Africa/Casablanca,FALSE,1504160916
+’Tlat Bni Oukil,'Tlat Bni Oukil,Et Tleta|Souk el Tleta|Souk et Tleta|Tleta|Et Tleta des Beni Oukil|Souk Tleta des Beni-Oukil,32.5770,-6.8400,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,33.8,14960,14960,3,Africa/Casablanca,FALSE,1504789319
+Sidi Zouine,Sidi Zouine,Sidi-Zouina|Zaouia nta Sidi Zouine|Sidi Zuin,31.6706,-8.3508,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,3244.4,14954,14954,2,Africa/Casablanca,FALSE,1504333871
+Oued Jdida,Oued Jdida,,33.9333,-5.3667,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,216.7,14935,14935,3,Africa/Casablanca,FALSE,1504052620
+Gourrama,Gourrama,,32.3333,-4.0833,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,41.3,14927,14927,3,Africa/Casablanca,FALSE,1504780592
+Aghbal,Aghbal,,34.9394,-2.1272,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,101.6,14908,14908,3,Africa/Casablanca,FALSE,1504000927
+Nzalat Laadam,Nzalat Laadam,Nzalet el Adam|Nzalet el Adame|Nzala el Adhem|N’Zalet el Aâdam,32.1000,-7.9500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,24.9,14838,14838,3,Africa/Casablanca,FALSE,1504318940
+Ighrem n’Ougdal,Ighrem n'Ougdal,Jghern nougdal|Irherm n’Ougdal,31.2333,-7.4333,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,33.0,14804,14804,3,Africa/Casablanca,FALSE,1504078159
+Bni Darkoul,Bni Darkoul,El Koub|El Cob|El Kob|El Kaoub,35.0563,-5.0688,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,214.4,14779,14779,3,Africa/Casablanca,FALSE,1504747977
+Driouch,Driouch,Dar Drius|Dar Driuch,34.9833,-3.3833,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,577.7,14741,14741,3,Africa/Casablanca,FALSE,1504125393
+Douar Oulad Driss,Douar Oulad Driss,Ouled Drissa|Oulad Driss,31.9039,-8.3024,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,29.6,14716,14716,3,Africa/Casablanca,FALSE,1504141138
+Oulad Driss,Oulad Driss,,31.9996,-8.2276,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,29.6,14716,14716,3,Africa/Casablanca,TRUE,1504026756
+Mediouna,Mediouna,,33.4500,-7.5100,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,4625.1,14712,14712,2,Africa/Casablanca,FALSE,1504371270
+Ifrane,Ifrane,,33.5333,-5.1167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,844.1,14659,14659,3,Africa/Casablanca,FALSE,1504656119
+Wawizaght,Wawizaght,Ouaouizert|Uauizart|Ouaouizarhte|Ouaouizarht,32.1586,-6.3550,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,995.7,14570,14570,3,Africa/Casablanca,FALSE,1504619132
+Ayt ’Attou ou L’Arbi,Ayt 'Attou ou L'Arbi,Ait Imour|Aït Immour|Bled Aït Immour,31.5456,-8.2967,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,91.6,14544,14544,3,Africa/Casablanca,FALSE,1504796196
+Madagh,Madagh,Madarh,35.0133,-2.3397,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1006.7,14486,14486,3,Africa/Casablanca,FALSE,1504000835
+Boula’wane,Boula'wane,Kasha Bou Laouane|Kasba Bou Laouane|Boulaouane|Guaouar Boulaouane,32.8607,-8.0530,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,104.4,14485,14485,3,Africa/Casablanca,FALSE,1504484491
+Tagalft,Tagalft,Taguelft|Tagelft,32.2389,-6.1238,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,40.0,14423,14423,3,Africa/Casablanca,FALSE,1504338163
+Ourtzagh,Ourtzagh,Ourtzarh,34.5500,-4.9333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,92.2,14381,14381,3,Africa/Casablanca,FALSE,1504945412
+Sidi Azzouz,Sidi Azzouz,,34.5411,-5.7516,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,83.5,14356,14356,3,Africa/Casablanca,FALSE,1504816748
+Zaouiat Moulay Bouchta El Khammar,Zaouiat Moulay Bouchta El Khammar,Moulay Bouchta,34.4833,-5.1167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,79.1,14347,14347,3,Africa/Casablanca,FALSE,1504234234
+Ihaddadene,Ihaddadene,,31.2000,-9.6500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,93.4,14345,14345,3,Africa/Casablanca,FALSE,1504932139
+Ait Yazza,Ait Yazza,Aït Lazza|Aït Yazza|Yazza,30.5063,-8.7931,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1604.6,14259,14259,3,Africa/Casablanca,FALSE,1504675685
+Ben Taieb,Ben Taieb,Ben Tieb|Ben-Tib,35.0837,-3.4696,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,949.2,14257,14257,3,Africa/Casablanca,FALSE,1504783487
+Tafrant,Tafrant,Tafrannt de l’Ouerrha|Tafrannt|Tafrant de l’Ouerrha|Tafrant Ouergha|Tafrant Wargha,34.6250,-5.1242,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,143.8,14246,14246,3,Africa/Casablanca,FALSE,1504722056
+Bou Izakarn,Bou Izakarn,Bou Izakaren|Bu Isacarn|Bou Izakarene,29.1667,-9.7333,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,18.9,14228,14228,3,Africa/Casablanca,FALSE,1504787076
+Douar Hammadi,Douar Hammadi,Sidi Hammadi|Douar Sidi Hammadi,31.6090,-8.4604,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,36.4,14227,14227,3,Africa/Casablanca,FALSE,1504604687
+Bezou,Bezou,Bzou Aghbalou|Bzou,32.0833,-7.0500,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,491.4,14072,14072,3,Africa/Casablanca,FALSE,1504408285
+Talwat,Talwat,Telouet|Dar Kaid el Glaoui|Telouète|Teluet,31.2883,-7.2372,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,20.3,14060,14060,3,Africa/Casablanca,FALSE,1504140319
+Sidi Abdelkarim,Sidi Abdelkarim,,33.1869,-7.2333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,134.1,14037,14037,3,Africa/Casablanca,FALSE,1504411270
+Temsamane,Temsamane,,35.1167,-3.6333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,521.4,13920,13920,3,Africa/Casablanca,FALSE,1504304960
+Oulad Chikh,Oulad Chikh,,32.8544,-7.5386,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,68.4,13866,13866,3,Africa/Casablanca,FALSE,1504262708
+Toulal,Toulal,Toula,32.3036,-3.9861,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,11.8,13852,13852,3,Africa/Casablanca,FALSE,1504925224
+Khmis Sidi al ’Aydi,Khmis Sidi al 'Aydi,Sidi el Aïdi,33.1228,-7.6219,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,67.8,13839,13839,3,Africa/Casablanca,FALSE,1504059482
+Arbaa Laaounate,Arbaa Laaounate,Aounate|Aounat|El Arba des Aounat|Arba Aounate|El Arba el Aounate|Arbaa du Aounates|Souk el Arba el Aounate|El Khemis el Aounat|El Arba el Aounata,32.7446,-8.1942,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,119.8,13793,13793,3,Africa/Casablanca,FALSE,1504711140
+Douar Lehgagcha,Douar Lehgagcha,El Agagcha|Douar el Agagcha|Laâgagcha,32.5500,-8.7167,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,144.3,13748,13748,3,Africa/Casablanca,FALSE,1504017254
+Mqam at Tolba,Mqam at Tolba,,34.0173,-6.2500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,60.8,13503,13503,3,Africa/Casablanca,FALSE,1504020296
+Targuist,Targuist,,34.9500,-4.3000,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,2277.7,13390,13390,2,Africa/Casablanca,FALSE,1504459578
+Kissane Ltouqi,Kissane Ltouqi,Kissane|Beni Kissane el Soufla|Beni Kissane el Oulya|Beni Kissane,34.6000,-5.0833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,126.5,13390,13390,3,Africa/Casablanca,FALSE,1504247609
+Tounfit,Tounfit,Tounfite-centre|Tounfite,32.4667,-5.2333,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,1141.5,13297,13297,3,Africa/Casablanca,FALSE,1504650500
+Reggada,Reggada,Er Reggada|Souk-el-Had de Reggada,29.5205,-9.6664,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,37.8,13284,13284,3,Africa/Casablanca,FALSE,1504921230
+Sebt Labrikiyne,Sebt Labrikiyne,Sebt des Brikyine|Sebt de Brikiine|Es Sebt de Brikiine|Es Sebt de Brikiin|Es Sebt|Souk es Sebt,32.2944,-8.0722,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,48.5,13225,13225,3,Africa/Casablanca,FALSE,1504100244
+El Kansera,El Kansera,El Kansera du Beth|Al Kansera|El-Kannsera,34.0419,-5.9272,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,53.1,13209,13209,3,Africa/Casablanca,FALSE,1504142817
+Douar Sidi Laaroussi,Douar Sidi Laaroussi,,31.8450,-9.1586,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,49.1,13202,13202,3,Africa/Casablanca,FALSE,1504954714
+Zayda,Zayda,Kasba Zaïda|Zeïda|Zaida,32.8167,-4.9500,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,1053.2,13181,13181,3,Africa/Casablanca,FALSE,1504467977
+Asjen,Asjen,Azjene|Azjèn|Asjene,34.8500,-5.6167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,73.6,13139,13139,3,Africa/Casablanca,FALSE,1504066835
+Bhalil,Bhalil,Behalil|Bahlil,33.8500,-4.8667,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1887.5,12997,12997,3,Africa/Casablanca,FALSE,1504827842
+Ksar Sghir,Ksar Sghir,Seguer|Alcazar Zegouer|Alcazar|Ksar es Sghir|Alcazarseguer|Ksar es Srhir|Alcazar Zeguer|Qaṣr al-Saghir|Qṣar es-Seghir,35.8419,-5.5586,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,106.0,12997,12997,3,Africa/Casablanca,FALSE,1504919377
+Sebt Bni Garfett,Sebt Bni Garfett,Beni Zarfet|Beni Gorfet|Sebt des Beni Zarfet|Es Sebt|Zoco el Sebt de Beni Gorfet|Bni Garfett|Souk-Sebt-des-Beni-Zarfet,35.2500,-5.8333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,57.0,12994,12994,3,Africa/Casablanca,FALSE,1504641834
+Bou Fekrane,Bou Fekrane,,33.7667,-5.4833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2311.4,12941,12941,2,Africa/Casablanca,FALSE,1504146532
+Bni Khloug,Bni Khloug,,32.6500,-7.3833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,82.3,12930,12930,3,Africa/Casablanca,FALSE,1504624308
+Douar Oulad Youssef,Douar Oulad Youssef,,32.4807,-6.3769,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,116.7,12804,12804,3,Africa/Casablanca,FALSE,1504001351
+Kasba Tanora,Kasba Tanora,Tanorha,32.4751,-6.1498,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,107.4,12783,12783,3,Africa/Casablanca,FALSE,1504367360
+Aghbala,Aghbala,Arbala|Arhabala|Arhbala,32.4833,-5.6333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,821.5,12781,12781,3,Africa/Casablanca,FALSE,1504000722
+Tizgane,Tizgane,,35.4136,-5.0696,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,125.2,12773,12773,3,Africa/Casablanca,FALSE,1504806808
+Zag,Zag,,28.0167,-9.3333,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.1,12763,12763,3,Africa/Casablanca,FALSE,1504746689
+Oulad Rahmoun,Oulad Rahmoun,,32.3278,-6.5006,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,305.4,12720,12720,3,Africa/Casablanca,FALSE,1504810043
+Laamarna,Laamarna,,31.8944,-8.9842,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,67.1,12717,12717,3,Africa/Casablanca,FALSE,1504140780
+Bou Adel,Bou Adel,,34.5428,-4.5075,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,319.8,12684,12684,3,Africa/Casablanca,FALSE,1504793576
+Aït Youssef Ou Ali,Ait Youssef Ou Ali,Youssef Ou Ali,31.9833,-5.7833,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.1,12673,12673,3,Africa/Casablanca,FALSE,1504087117
+Ahermoumou,Ahermoumou,,33.8184,-4.4106,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,54.0,12654,12654,3,Africa/Casablanca,FALSE,1504332158
+El Menzel,El Menzel,El Mennzel,33.8389,-4.5458,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,2237.6,12641,12641,2,Africa/Casablanca,FALSE,1504965368
+Souakene,Souakene,Souakèn,35.1167,-5.9500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,186.3,12632,12632,3,Africa/Casablanca,FALSE,1504734379
+Teroual,Teroual,Terual|Taroual,34.6667,-5.2667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,188.5,12621,12621,3,Africa/Casablanca,FALSE,1504418024
+Tamsaout,Tamsaout,,29.5333,-8.8500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,5.0,12610,12610,3,Africa/Casablanca,FALSE,1504846802
+Oulad Ouchchih,Oulad Ouchchih,Oulad Ouchich,35.0939,-5.9454,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,190.1,12608,12608,3,Africa/Casablanca,FALSE,1504064976
+Ounagha,Ounagha,Oumara|Ounarha|Ounara,31.5333,-9.5500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,255.7,12461,12461,3,Africa/Casablanca,FALSE,1504589161
+Boumia,Boumia,,32.7228,-5.1053,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,2385.7,12444,12444,2,Africa/Casablanca,FALSE,1504947716
+Oulad Fares,Oulad Fares,,35.5167,-5.9333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,105.0,12341,12341,3,Africa/Casablanca,FALSE,1504046403
+Oulad Aïssa,Oulad Aissa,,30.5580,-8.6140,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,159.1,12331,12331,3,Africa/Casablanca,TRUE,1504718030
+Jaidte Lbatma,Jaidte Lbatma,Jaïdat el Zatma|Jaïdat|El Betma|Douar el Betma,31.6806,-7.7281,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,206.0,12330,12330,3,Africa/Casablanca,FALSE,1504017587
+Boumalne,Boumalne,Bou Malem,31.4236,-6.0722,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,186.9,12328,12328,3,Africa/Casablanca,FALSE,1504840361
+Nkheila,Nkheila,,32.9239,-7.0692,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,71.4,12306,12306,3,Africa/Casablanca,TRUE,1504638850
+Aj Jourf,Aj Jourf,Djorf|Oulad Rhanem ej Jorf|Jorf,31.4903,-4.4014,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,6.1,12302,12302,3,Africa/Casablanca,FALSE,1504982069
+Ar Rommani,Ar Rommani,Marchand|Romani|Rommani|Ar Rummān,33.5333,-6.6167,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,2218.8,12297,12297,2,Africa/Casablanca,FALSE,1504782261
+Ain Kansara,Ain Kansara,Douar Aïn Kansara|Kansara|Aïn Kansara|’Aïn Kansara,34.1500,-4.8314,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,58.4,12291,12291,3,Africa/Casablanca,FALSE,1504724133
+Guisser,Guisser,,32.7667,-7.5000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,713.6,12289,12289,3,Africa/Casablanca,FALSE,1504348253
+Gharbia,Gharbia,Had Rharbia|El Had des Gharbia,35.5153,-5.9306,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,105.0,12274,12274,3,Africa/Casablanca,FALSE,1504656773
+Oulad Hamdane,Oulad Hamdane,,32.3736,-8.5395,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,57.0,12252,12252,3,Africa/Casablanca,FALSE,1504871479
+Malloussa,Malloussa,Maloussa|Melousa|Melusa|Melloussa,35.7333,-5.6333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,94.9,12250,12250,3,Africa/Casablanca,FALSE,1504867364
+Tahannawt,Tahannawt,Tahannout|Tahanaoute|Tahanaut|Tahanaout|Tahnaout,31.3514,-7.9508,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1293.2,12102,12102,3,Africa/Casablanca,FALSE,1504266057
+Mayate,Mayate,Maïat,32.2667,-7.5167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.2,12101,12101,3,Africa/Casablanca,FALSE,1504516626
+Steha,Steha,,35.3646,-4.9306,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,133.4,12034,12034,3,Africa/Casablanca,FALSE,1504350850
+Al Fayd,Al Fayd,El Faïd,30.6167,-8.2167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,26.3,12011,12011,3,Africa/Casablanca,FALSE,1504770478
+Oulad Daoud,Oulad Daoud,Douar Oulad Daoud,34.4058,-4.6939,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,118.5,11978,11978,3,Africa/Casablanca,FALSE,1504977021
+Ain Beida,Ain Beida,Aïn Beïda,31.5850,-8.6080,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,35.5,11978,11978,3,Africa/Casablanca,FALSE,1504673651
+Souq Jamaa Fdalate,Souq Jamaa Fdalate,Fedalate|El Djemâ|El Djeama|Souq aj Jem’a-Fedalat|El Jema|Souk el Jemaa,33.5911,-7.2792,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,95.2,11966,11966,3,Africa/Casablanca,FALSE,1504280232
+Sidi Yahia,Sidi Yahia,,30.4969,-8.8211,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1633.7,11955,11955,3,Africa/Casablanca,FALSE,1504503193
+Aït I’yach,Ait I'yach,,32.6667,-4.9556,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,23.9,11946,11946,3,Africa/Casablanca,FALSE,1504002583
+Matmata,Matmata,,34.1000,-4.5500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,66.6,11928,11928,3,Africa/Casablanca,FALSE,1504966128
+Tizi Nisly,Tizi Nisly,Tizi n’Isly|Tizi-Nisly,32.4667,-5.7667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,33.8,11918,11918,3,Africa/Casablanca,FALSE,1504779871
+Zemamra,Zemamra,El Khemis|Khmis Village|El Khemis des Zemamra|Khemis des Zemamra|Souk el Khemis-des Zemamra,32.6215,-8.7023,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,1437.1,11896,11896,3,Africa/Casablanca,FALSE,1504256384
+Oulad Amrane el Mekki,Oulad Amrane el Mekki,Ulad Aaman el Crota|Oulad Amrane el Krota|Oulad Amrane,35.2167,-5.9667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,132.0,11866,11866,3,Africa/Casablanca,FALSE,1504220156
+El Arba Des Bir Lenni,El Arba Des Bir Lenni,El Arba des Beni Lent|Beni Lent|Beni Lennt|El Arbaa des Beni Lennt,34.3272,-4.2039,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,130.5,11866,11866,3,Africa/Casablanca,FALSE,1504816982
+Tiddas,Tiddas,Tedders,33.5665,-6.2659,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,378.3,11831,11831,3,Africa/Casablanca,FALSE,1504837627
+Toualet,Toualet,,32.7333,-7.1833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,65.5,11815,11815,3,Africa/Casablanca,FALSE,1504141379
+Sidi Amer El Hadi,Sidi Amer El Hadi,Srafah|Tnine Srafah|Tnine-Serafa|Douar Srafah|Tnine-Serafah|Dar Srafah|Esserafh,34.7992,-5.8394,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,133.7,11814,11814,3,Africa/Casablanca,FALSE,1504103648
+Tifni,Tifni,,31.6281,-6.9444,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,49.0,11760,11760,3,Africa/Casablanca,FALSE,1504629455
+Tamezmout,Tamezmout,Tamzmout|Tamazmout,30.8075,-6.1142,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,18.3,11697,11697,3,Africa/Casablanca,FALSE,1504920011
+Moulay Driss Zerhoun,Moulay Driss Zerhoun,Moulay-Idriss du Zarhoun|Moulay Idriss|Moulay Idris,34.0542,-5.5272,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,210.0,11615,11615,3,Africa/Casablanca,FALSE,1504880171
+Oulad Friha,Oulad Friha,,32.6108,-7.6250,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,70.3,11581,11581,3,Africa/Casablanca,FALSE,1504629949
+Oulad Hamdane,Oulad Hamdane,Ouled Hadam|Ouled Hamdan,32.3333,-6.3667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,5199.0,11577,11577,2,Africa/Casablanca,FALSE,1504839995
+Derdara,Derdara,Dardara,35.1103,-5.2872,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,71.4,11547,11547,3,Africa/Casablanca,FALSE,1504274445
+Sidi Kasem,Sidi Kasem,Zouïet Sidi Kacem|Zouia Sidi Kacem,35.5339,-5.2183,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,81.5,11537,11537,3,Africa/Casablanca,FALSE,1504343854
+Taïneste,Taineste,,34.5573,-4.1360,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,95.1,11530,11530,3,Africa/Casablanca,FALSE,1504640576
+Al M’aziz,Al M'aziz,El Maâziz|Maaziz,33.6667,-6.3167,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,221.7,11502,11502,3,Africa/Casablanca,FALSE,1504103308
+Dzouz,Dzouz,,31.8900,-7.3200,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,96.4,11501,11501,3,Africa/Casablanca,FALSE,1504484074
+Bouabout,Bouabout,Bouaboute,31.2667,-9.1833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,74.2,11494,11494,3,Africa/Casablanca,FALSE,1504119259
+Tawnza,Tawnza,Taounza,32.0944,-6.6025,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,82.2,11488,11488,3,Africa/Casablanca,FALSE,1504959614
+Douar Trougout,Douar Trougout,Soko el Arbaa de Trugut|Atroukoute|Atrukut|El Arba de Trougout|Zoco Arbaa Trugut|Trugut|Zoco el Arbaa,35.1800,-3.7700,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,99.7,11458,11458,3,Africa/Casablanca,FALSE,1504618230
+Ahlaf,Ahlaf,,33.2833,-7.2000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,38.0,11451,11451,3,Africa/Casablanca,FALSE,1504239196
+Sidi Moussa Ben Ali,Sidi Moussa Ben Ali,Souq al Had-Sidi Moussa Ben Ali,33.5594,-7.3817,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,201.2,11445,11445,3,Africa/Casablanca,FALSE,1504600250
+El Khemis des Beni Chegdal,El Khemis des Beni Chegdal,Souk el Khemis des Beni Chegdal|Beni Chegdal|El Khemis,32.4441,-6.9551,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,53.1,11444,11444,3,Africa/Casablanca,FALSE,1504549116
+Amdel,Amdel,Ahdil,31.5617,-8.8944,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,26.4,11438,11438,3,Africa/Casablanca,FALSE,1504656724
+Ain Legdah,Ain Legdah,,34.1667,-4.5000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,73.4,11422,11422,3,Africa/Casablanca,FALSE,1504429679
+Laqraqra,Laqraqra,El Kraker|El Krakra,32.4333,-7.4333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,25.6,11419,11419,3,Africa/Casablanca,FALSE,1504203728
+Douar Sgarta,Douar Sgarta,Hiadna|Douar el Hiadna|Lahyadna|El Haïdna,32.1667,-7.6333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,49.7,11387,11387,3,Africa/Casablanca,FALSE,1504288503
+Lahfayr,Lahfayr,,30.5700,-8.4878,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,121.7,11374,11374,3,Africa/Casablanca,FALSE,1504992138
+Boudenib,Boudenib,Boudenib Centre,31.9497,-3.6078,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,2146.8,11373,11373,2,Africa/Casablanca,FALSE,1504858254
+Tilmi,Tilmi,,31.8189,-5.7718,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,18.4,11372,11372,3,Africa/Casablanca,FALSE,1504580420
+Douar Oulad Naoual,Douar Oulad Naoual,Oulad Noual|Oulad Naoual|Oulad Nawal,34.4936,-5.7108,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,75.5,11371,11371,3,Africa/Casablanca,FALSE,1504215350
+Lamsabih,Lamsabih,El Msabih|M’sâbih|Douar el Msabih,32.2933,-8.6889,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,87.6,11339,11339,3,Africa/Casablanca,FALSE,1504233689
+Ouaklim Oukider,Ouaklim Oukider,Ouaklim|Wakline,31.4500,-5.5500,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,21.5,11338,11338,3,Africa/Casablanca,FALSE,1504219729
+Jem’at Oulad ’Abbou,Jem'at Oulad 'Abbou,Sūq Jum‘ah Awlād ‘Abbū|Souk-Jemad-Oulad-Abbou|Souk-Jemaâ-Oulad-Abbou|Souk Jemaa des Oulad Abbou|Foucault|Souk Jemaa des Oulad Arbou|Foucald|Foucauld,33.1156,-7.9333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,185.5,11299,11299,3,Africa/Casablanca,FALSE,1504650087
+Lafrayta,Lafrayta,Dar Ben Feida|Dar Freila|El Had Freita|Had Fraïta|Had-Fraita|Al Had-Fraïta|El Had des Fraïta,31.9167,-7.2500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,141.8,11298,11298,3,Africa/Casablanca,FALSE,1504011173
+Commune Sidi Youssef Ben Ahmed,Commune Sidi Youssef Ben Ahmed,,33.7861,-4.8152,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,84.6,11292,11292,3,Africa/Casablanca,FALSE,1504774244
+El Ghourdane,El Ghourdane,Douar el Rhoudrane|Ghoudrane|El Rhoudrane,32.3205,-8.7637,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,87.6,11291,11291,3,Africa/Casablanca,FALSE,1504617504
+Jamaat Shaim,Jamaat Shaim,Ej Jemâ Sahim|El Jema Sahim|Jemaa-Shaïm|Jema Sahim|Souk el Jema Sahim|El Djema Sahim|El Djemaa Sahim,32.3486,-8.8431,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,388.0,11251,11251,3,Africa/Casablanca,FALSE,1504695746
+Touama,Touama,Oulad Touama|El Touama,31.5339,-7.4872,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,104.0,11243,11243,3,Africa/Casablanca,FALSE,1504529527
+Sidi Abdellah Ben Taazizt,Sidi Abdellah Ben Taazizt,,34.0019,-5.3695,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,130.7,11227,11227,3,Africa/Casablanca,FALSE,1504278658
+Iygli,Iygli,Igli,29.5001,-9.0501,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,14.3,11197,11197,3,Africa/Casablanca,FALSE,1504318474
+Tissa,Tissa,L’Arba de Tissa|El Arbaa de Tissa|Village de Tissa,35.0228,-4.1408,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,1172.4,11195,11195,3,Africa/Casablanca,FALSE,1504017756
+Douar Jwalla,Douar Jwalla,Joualla|Ej-Joualla|Douar Jouaila|El Jouala|Douar el Joualla,31.8900,-7.4400,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,86.8,11168,11168,3,Africa/Casablanca,FALSE,1504383482
+Boujediane,Boujediane,Bou Hedyane,35.1114,-5.7823,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,59.0,11166,11166,3,Africa/Casablanca,FALSE,1504110188
+Douar Ain Maatouf,Douar Ain Maatouf,,34.4352,-4.5566,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,102.8,11165,11165,3,Africa/Casablanca,FALSE,1504798283
+Zaouiet Says,Zaouiet Says,Zaouia de Saïs|Zaouiet Saïs|Zaouit Saïss|Zaouiet Saïss,32.7931,-8.6506,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,108.1,11160,11160,3,Africa/Casablanca,FALSE,1504180910
+Iazizatene,Iazizatene,,35.2544,-3.1150,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,161.4,11131,11131,3,Africa/Casablanca,FALSE,1504122645
+Kariat Ben Aouda,Kariat Ben Aouda,Karia Aouda|Karia ben Audda|Karia Ben Aouda,34.7667,-5.9500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,92.4,11087,11087,3,Africa/Casablanca,FALSE,1504991922
+Farkhâna,Farkhana,,35.2833,-3.0167,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1034.5,10994,10994,3,Africa/Casablanca,FALSE,1504047941
+Takad Sahel,Takad Sahel,Takat|Takate|Takkat,30.2500,-9.5500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,218.7,10968,10968,3,Africa/Casablanca,FALSE,1504426241
+Timahdit,Timahdit,Timhadit|Timhadite,33.2369,-5.0600,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,651.8,10945,10945,3,Africa/Casablanca,FALSE,1504460788
+Bni Drar,Bni Drar,Beni Drar,34.8578,-1.9928,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1740.2,10934,10934,3,Africa/Casablanca,FALSE,1504593239
+Figuig,Figuig,Figuiq,32.1167,-1.2269,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,54.4,10872,10872,3,Africa/Casablanca,FALSE,1504487887
+Imi Mokorn,Imi Mokorn,Imi Mgourn,30.1675,-9.2322,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,61.3,10748,10748,3,Africa/Casablanca,FALSE,1504588665
+Douar Bouchfaa,Douar Bouchfaa,Bouchefaa|Douar Bouchefaa|Bouchetaa,34.1014,-4.2939,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,71.8,10724,10724,3,Africa/Casablanca,FALSE,1504240184
+Tanant,Tanant,Tanannt,31.8667,-6.9500,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,68.1,10706,10706,3,Africa/Casablanca,FALSE,1504879588
+Arbaa Sahel,Arbaa Sahel,,29.5993,-9.8770,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,46.7,10705,10705,3,Africa/Casablanca,FALSE,1504199672
+Taouloukoult,Taouloukoult,Taoulokoult|Zaouia Taouloukoult,31.2167,-9.0833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,74.6,10682,10682,3,Africa/Casablanca,FALSE,1504583141
+Agdz,Agdz,Agoz|Ksar Agdz,30.6978,-6.4497,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,6.6,10681,10681,3,Africa/Casablanca,FALSE,1504481123
+Sebt Ait Ikkou,Sebt Ait Ikkou,Sebt des Aït Ikkou|Sebt-Aït-Ikkou|Es Sebt,33.6686,-6.1372,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,26.8,10676,10676,3,Africa/Casablanca,FALSE,1504653022
+Lamhadi,Lamhadi,Douar el Mohadi|Mohadi|El Mohadi|Lemhadi,32.3000,-9.0167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,90.6,10651,10651,3,Africa/Casablanca,FALSE,1504208121
+Hetane,Hetane,,32.8403,-6.8025,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,51.4,10618,10618,3,Africa/Casablanca,FALSE,1504001674
+Itzer,Itzer,,32.8833,-5.0500,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,413.2,10613,10613,3,Africa/Casablanca,FALSE,1504216124
+Toundout,Toundout,Toundoute,31.2667,-6.5833,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,16.2,10606,10606,3,Africa/Casablanca,FALSE,1504645333
+Abadou,Abadou,,31.5797,-7.3122,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,117.0,10602,10602,3,Africa/Casablanca,FALSE,1504229584
+Aïn Zora,Ain Zora,Ain Zohra|Aine Zehra|Ain Zorah,34.6600,-3.5300,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,34.6,10601,10601,3,Africa/Casablanca,FALSE,1504442402
+Aït Hani,Ait Hani,Aït Ani,31.7786,-5.4555,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,15.4,10587,10587,3,Africa/Casablanca,FALSE,1504963024
+Tamanar,Tamanar,,31.0000,-9.6667,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,150.9,10584,10584,3,Africa/Casablanca,FALSE,1504600694
+Had Laaounate,Had Laaounate,El Had des Aounat|Souk el Had des Aounat|Souk el Had|El Had|Had des Aounate|Matrann,32.6128,-8.2256,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,106.0,10580,10580,3,Africa/Casablanca,FALSE,1504308918
+Tourza,Tourza,Tagragra|Tiugsa|Tiourhza,29.4778,-10.0158,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,33.9,10577,10577,3,Africa/Casablanca,FALSE,1504097455
+Amtar,Amtar,Amter|Dar Mter|M’Ter,35.2385,-4.7943,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,101.6,10574,10574,3,Africa/Casablanca,FALSE,1504617084
+Mokrisset,Mokrisset,Mokhisset|Mokhrisset,34.9100,-5.3536,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,76.7,10545,10545,3,Africa/Casablanca,FALSE,1504941621
+Tilougguit,Tilougguit,Tilougguite|Tilougguite centre|Tillouguit n’Aït Isha,32.0333,-6.2000,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,24.1,10544,10544,3,Africa/Casablanca,FALSE,1504513715
+Sidi Bousber,Sidi Bousber,Sidi Bousbeur,34.5667,-5.3667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,172.2,10528,10528,3,Africa/Casablanca,FALSE,1504787633
+Souq Sebt Says,Souq Sebt Says,Es Sebt|Sebt Saïs|Sebt es Saïss|Souk es Sebt|Es Sebt de Saïs,32.7773,-8.6433,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,135.2,10488,10488,3,Africa/Casablanca,FALSE,1504725186
+Sidi Abdallah,Sidi Abdallah,Ouled Abdellah,32.5783,-7.8108,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,44.8,10481,10481,3,Africa/Casablanca,FALSE,1504890231
+Sidi Boushab,Sidi Boushab,,30.0740,-9.2790,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,55.1,10438,10438,3,Africa/Casablanca,FALSE,1504333059
+Zawyat Ahançal,Zawyat Ahancal,Zawyat Ahancal|Zaouia Ahansal|Zaouia Ahanesal,31.8325,-6.1056,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,11.4,10435,10435,3,Africa/Casablanca,FALSE,1504237708
+Awfouss,Awfouss,Centre d’Aoufous|Aoufouss|Aoufous|Aoûtouss,31.6833,-4.1667,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,9.2,10424,10424,3,Africa/Casablanca,FALSE,1504561866
+Oulad Slim,Oulad Slim,Sidi Mohammed Ben Ahmed,32.7775,-7.7725,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,37.4,10410,10410,3,Africa/Casablanca,FALSE,1504468299
+Oued Amlil,Oued Amlil,,34.2000,-4.2833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,738.8,10405,10405,3,Africa/Casablanca,FALSE,1504286809
+Brikcha,Brikcha,Douar Brikcha|Brickcha,34.9667,-5.5833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,53.0,10399,10399,3,Africa/Casablanca,FALSE,1504666840
+Douar Echbanat,Douar Echbanat,Chbanate|Chebanat|Douar Chebanat,34.2140,-5.3508,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,112.0,10371,10371,3,Africa/Casablanca,FALSE,1504340049
+Tnine Sidi Lyamani,Tnine Sidi Lyamani,Sidi Iamani|Et Tnine de Sidi Amar|Et Tnine|Tenin Sidi Lameni|Tnine de Sidi el Yamani|El Tzenin,35.3700,-5.9700,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,236.4,10365,10365,3,Africa/Casablanca,FALSE,1504028221
+Beni Oulid,Beni Oulid,,34.5897,-4.4514,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,100.9,10324,10324,3,Africa/Casablanca,FALSE,1504501654
+Aghbalou n’Kerdous,Aghbalou n'Kerdous,Arhbalou-n-Kerdous|Aghbalou|Ksar Aghbalou|Arhbalou|Arhbalou-n-Kerdouss,31.6767,-5.2976,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,12.1,10313,10313,3,Africa/Casablanca,FALSE,1504201813
+Bounaamane,Bounaamane,Souk-Sebt de Bou-Naamane|Bou Naâmane|Bou Namane|Souk ej Jem’a n Bou N’amâne|Souq aj Jam’a n Bou Na’mane,29.5283,-9.8044,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,50.4,10310,10310,3,Africa/Casablanca,FALSE,1504463740
+Jaqma,Jaqma,,33.2920,-7.4400,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,74.5,10306,10306,3,Africa/Casablanca,FALSE,1504002032
+Dar Si Aissa,Dar Si Aissa,Sidi-Aïssa|Oulad Ali Ben Aïssa|Dar el Caïd Sidi Aïssa|Dar Sidi Aïssa|Douar Sidi Aïssa|Dar Essi Aïssa,32.4199,-8.9080,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,95.8,10266,10266,3,Africa/Casablanca,FALSE,1504931442
+Sgamna,Sgamna,,32.7342,-7.2025,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,65.5,10245,10245,3,Africa/Casablanca,FALSE,1504088334
+Ksar Lmajaz,Ksar Lmajaz,,35.8428,-5.5586,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,106.0,10237,10237,3,Africa/Casablanca,FALSE,1504167905
+Douar Mzoura,Douar Mzoura,Mzoura,34.3167,-5.9333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,363.2,10194,10194,3,Africa/Casablanca,FALSE,1504336708
+Jemaat Oulad Mhamed,Jemaat Oulad Mhamed,El Jema|El Djemâ|Souk el Jemâ|Oulad Mohammed,33.0938,-7.0519,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,34.0,10187,10187,3,Africa/Casablanca,FALSE,1504791929
+Msila,Msila,,35.2000,-5.5667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,47.6,10153,10153,3,Africa/Casablanca,FALSE,1504170765
+Aïn Zohra,Ain Zohra,Aïn Johra,34.1000,-6.3500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,44.6,10151,10151,3,Africa/Casablanca,FALSE,1504551981
+Za’roura,Za'roura,Zaaroura|Zaarora|Dar Daued,35.2167,-5.6667,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,48.9,10137,10137,3,Africa/Casablanca,FALSE,1504534822
+La’tamna,La'tamna,,31.9100,-7.3400,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,184.0,10063,10063,3,Africa/Casablanca,FALSE,1504778865
+Jafra,Jafra,Zaouia Jafra|Jafre|Jaâfra,31.5145,-8.7555,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,127.5,10060,10060,3,Africa/Casablanca,FALSE,1504134756
+Taghbalt,Taghbalt,Tarhbalt,30.6200,-5.3500,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,11.1,10054,10054,3,Africa/Casablanca,FALSE,1504290154
+Bou’nane,Bou'nane,Bou Anane,32.0275,-3.0400,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2.3,10035,10035,3,Africa/Casablanca,FALSE,1504957509
+Zaggota,Zaggota,,34.1667,-5.5333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,77.8,10032,10032,3,Africa/Casablanca,FALSE,1504666777
+Tarhjicht,Tarhjicht,Taghjicht|Tarhjijt|Tagjīst|Tarjicht,29.0564,-9.4281,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,1.5,9988,9988,3,Africa/Casablanca,FALSE,1504845971
+Kenafif,Kenafif,Khenafif|Lakhnafif,30.4167,-9.0333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,343.7,9936,9936,3,Africa/Casablanca,FALSE,1504378442
+Dar El Kebdani,Dar El Kebdani,Alcazaba de Quebdani|Dar Quebdani|Kasba Kebdani|Dar Kebdani|Quebdani|Kebdani,35.1203,-3.3322,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,595.3,9911,9911,3,Africa/Casablanca,FALSE,1504332737
+Sidi Rahhal,Sidi Rahhal,Sidi Rahal|Zaouia Sidi Rahhal|Zaouia Sidi Rahal|Zaouia Sidi Rahkal,31.6667,-7.4833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,540.3,9906,9906,3,Africa/Casablanca,FALSE,1504761731
+Kourimat,Kourimat,Sebt-Korimate|Korimate|Kourimate|El Jemâ|El Djemâ,31.4500,-9.3167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,49.0,9897,9897,3,Africa/Casablanca,FALSE,1504079071
+Ech Chaïbat,Ech Chaibat,Douar ech Chaïbat|Chaïbate,31.6000,-7.8500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,289.2,9877,9877,3,Africa/Casablanca,FALSE,1504590724
+Foum Jam’a,Foum Jam'a,Souk de Foum Jemaa|Foum Jem‘a|Foum ej Jemâa,31.9600,-6.9800,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,931.6,9873,9873,3,Africa/Casablanca,FALSE,1504414947
+Douar Snada,Douar Snada,Senada|Snada|Sanadat,35.0667,-4.2167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,53.1,9870,9870,4,Africa/Casablanca,FALSE,1504701788
+Boudinar,Boudinar,Ain Boudinar|Budinar,35.1500,-3.6333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,107.9,9863,9863,3,Africa/Casablanca,FALSE,1504277185
+Outa Bouabane,Outa Bouabane,,34.2606,-4.4139,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,82.9,9856,9856,3,Africa/Casablanca,FALSE,1504009188
+Oulad ’Azzouz,Oulad 'Azzouz,,32.7693,-6.7543,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,43.1,9815,9815,4,Africa/Casablanca,FALSE,1504559202
+Imlil,Imlil,,31.7567,-7.0106,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,121.8,9796,9796,4,Africa/Casablanca,FALSE,1504125012
+Tiztoutine,Tiztoutine,Tistoutine|Tistutin,34.9833,-3.1500,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,795.3,9788,9788,3,Africa/Casablanca,FALSE,1504907240
+Tadla,Tadla,Douar Cheïkh Tadla|Aït Cherki Tadla,32.4409,-8.3708,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,42.6,9750,9750,3,Africa/Casablanca,FALSE,1504540569
+Ain Karma,Ain Karma,,34.0071,-5.6182,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,482.8,9738,9738,3,Africa/Casablanca,FALSE,1504336348
+Aghbalou Aqourar,Aghbalou Aqourar,,33.9341,-4.7381,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,37.3,9715,9715,3,Africa/Casablanca,FALSE,1504995287
+Douar Lehouifrat,Douar Lehouifrat,Douar Bouhane|Bouhane,32.2800,-8.3100,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.8,9705,9705,3,Africa/Casablanca,FALSE,1504757840
+Aklim,Aklim,,34.9167,-2.4333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,83.7,9695,9695,3,Africa/Casablanca,FALSE,1504687369
+Sidi Ahmed El Khadir,Sidi Ahmed El Khadir,,32.5167,-7.3833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,61.4,9687,9687,3,Africa/Casablanca,FALSE,1504732408
+’Aïn Leuh,'Ain Leuh,Aïn Leuh,33.2833,-5.3833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,378.1,9669,9669,3,Africa/Casablanca,FALSE,1504668626
+Oued Laou,Oued Laou,Oued Lahou|Oued Lou|Uad Lau|Oued Lao,35.4500,-5.0833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,323.1,9665,9665,3,Africa/Casablanca,FALSE,1504708598
+Bni Boufrah,Bni Boufrah,Beni Boufrah,35.1000,-4.3167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,63.3,9653,9653,3,Africa/Casablanca,FALSE,1504305838
+Oulad Imloul,Oulad Imloul,Douar Oulad Imloul|Douar Imloul,32.0333,-7.7167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,34.6,9614,9614,3,Africa/Casablanca,FALSE,1504403330
+Bou Zemou,Bou Zemou,Ksar Bou Ouezmou|Bou Ouzemou des Aït Ouarzef,32.1114,-5.5197,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,14.2,9583,9583,4,Africa/Casablanca,FALSE,1504737844
+Oulad Ayyad,Oulad Ayyad,Oulad Ayad,32.3333,-6.3833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,5219.7,9566,9566,2,Africa/Casablanca,FALSE,1504480318
+Tatoufet,Tatoufet,Taatof|Campamento de Taatof,35.0339,-5.7706,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,59.3,9527,9527,3,Africa/Casablanca,FALSE,1504842271
+Zawyat Sidi Ben Hamdoun,Zawyat Sidi Ben Hamdoun,Zaouia Sidi Ben Hamdoun,33.0450,-7.9290,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,48.7,9521,9521,3,Africa/Casablanca,FALSE,1504593978
+Bni Gmil,Bni Gmil,,35.0833,-4.3833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,61.6,9513,9513,3,Africa/Casablanca,FALSE,1504140120
+Douar Messassa,Douar Messassa,Msassa|Douar Msassa,34.2803,-4.5336,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,162.3,9501,9501,3,Africa/Casablanca,FALSE,1504026758
+Gaada,Gaada,,35.1594,-2.9892,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,138.4,9497,9497,4,Africa/Casablanca,FALSE,1504325635
+Berkine,Berkine,Ahal Berkine,33.7665,-3.8438,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,11.6,9469,9469,4,Africa/Casablanca,FALSE,1504644082
+El Amim,El Amim,,32.2067,-7.2629,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,92.4,9454,9454,3,Africa/Casablanca,FALSE,1504410510
+Tissaf,Tissaf,,33.4000,-3.5833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,3.6,9444,9444,4,Africa/Casablanca,FALSE,1504419451
+Tissint,Tissint,Agadir Tissint|Tissinnt|Agadir Tissinnt,29.9006,-7.3203,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,3.4,9434,9434,3,Africa/Casablanca,FALSE,1504720693
+Sidi El Hattab,Sidi El Hattab,Oulad sidi el hatabe|Zaouia Sidi Hattab|Douar Sidi el Hattab,32.2667,-7.2833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,49.1,9421,9421,3,Africa/Casablanca,FALSE,1504871106
+Gammasa,Gammasa,Guemassa,31.4182,-8.3784,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,31.2,9388,9388,3,Africa/Casablanca,FALSE,1504310079
+Mhâjâr,Mhajar,Mehayart|Mehajer|Mehajart,35.1200,-3.4900,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,85.6,9386,9386,3,Africa/Casablanca,FALSE,1504595194
+Douar Oulad Bouziane,Douar Oulad Bouziane,Oulad Zine|Ouled el Zine,34.2325,-5.0444,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,111.2,9372,9372,4,Africa/Casablanca,FALSE,1504500363
+Ameskroud,Ameskroud,Ameskhoud,30.5308,-9.3283,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,51.2,9351,9351,3,Africa/Casablanca,FALSE,1504251726
+Laanoussar,Laanoussar,Aioun Snam,33.6833,-4.8167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,17.9,9343,9343,4,Africa/Casablanca,FALSE,1504953318
+Laghzawna,Laghzawna,,33.1890,-7.6840,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,91.1,9315,9315,3,Africa/Casablanca,FALSE,1504002065
+Douar Oulad Sidi Moussa,Douar Oulad Sidi Moussa,Oulad Sidi Moussa|Ouled Sidi Moussa|Douar Oulad Moussa,32.2726,-7.1987,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,56.9,9260,9260,4,Africa/Casablanca,FALSE,1504471740
+Sidi Lahsene,Sidi Lahsene,Sidi Lahsen,34.0999,-2.6219,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,10.0,9259,9259,3,Africa/Casablanca,FALSE,1504193134
+Douar Ezzerarda,Douar Ezzerarda,Douar Zrarda|Zrarda|Ezrardate,34.7667,-5.8333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,139.2,9249,9249,3,Africa/Casablanca,FALSE,1504537386
+Oulad Cherif,Oulad Cherif,Oulad Chrif,31.7667,-7.7833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,34.5,9237,9237,3,Africa/Casablanca,FALSE,1504980361
+Tanakoub,Tanakoub,Tanacab|Tanakob|Tankoub|Tanakub|Tanacob|Tanadob,35.1091,-5.4577,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,52.1,9236,9236,3,Africa/Casablanca,FALSE,1504108752
+Sidi Bou Othmane,Sidi Bou Othmane,Sidi Bou Otmane|Sidi Bu Osmán,31.9033,-7.9422,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,463.8,9181,9181,3,Africa/Casablanca,FALSE,1504562796
+Douar El Mellaliyine,Douar El Mellaliyine,Malalien|Malalene|El Mellaliyine|El Mellaliyene|El Melalien|El Malaliyine,35.6264,-5.3414,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,133.2,9177,9177,4,Africa/Casablanca,FALSE,1504244223
+Bir Tam Tam,Bir Tam Tam,Bir Tentane|Bir Tamtam,33.9833,-4.6333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,57.4,9141,9141,3,Africa/Casablanca,FALSE,1504669372
+Tafersit,Tafersit,Taferhsit|Dar Tafersit,35.0167,-3.5333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,799.6,9133,9133,3,Africa/Casablanca,FALSE,1504168581
+Mwaline al Oued,Mwaline al Oued,,33.4467,-7.3283,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,52.3,9129,9129,3,Africa/Casablanca,FALSE,1504001943
+Chtiba,Chtiba,Chtaïba|Douar Chtiba|Douar ech Chliba,32.2000,-7.3000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,95.0,9122,9122,3,Africa/Casablanca,FALSE,1504264885
+Iguidiy,Iguidiy,Iguidi,30.7467,-7.9267,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,28.9,9100,9100,3,Africa/Casablanca,FALSE,1504330171
+Sidi Ouassay,Sidi Ouassay,,30.0500,-9.6833,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,115.0,9087,9087,3,Africa/Casablanca,FALSE,1504252264
+Gtarna,Gtarna,,32.9724,-7.9645,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,47.1,9084,9084,3,Africa/Casablanca,FALSE,1504328347
+Aïn el Mediour,Ain el Mediour,,30.4000,-8.8833,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,162.0,9000,9000,4,Africa/Casablanca,FALSE,1504516108
+Had Dra,Had Dra,El Had des Draa|Souk el Had du Drâa|Souk-el-Had-du-Dra|El Had|Had Draâ,31.5833,-9.5333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,77.6,8989,8989,3,Africa/Casablanca,FALSE,1504953934
+Foum Zguid,Foum Zguid,,30.0833,-6.8667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,6.5,8986,8986,3,Africa/Casablanca,FALSE,1504624650
+Bni Sidel,Bni Sidel,,35.1392,-3.1281,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,138.4,8930,8930,3,Africa/Casablanca,FALSE,1504766280
+Zawyat Sidi al Mekki,Zawyat Sidi al Mekki,Zaouïa de Sidi el Mekki|Zouiet Sidi el Mekki|Sidi Mekki|Zaouia Sidi el Mekki,33.2120,-7.7170,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,65.1,8920,8920,3,Africa/Casablanca,FALSE,1504769333
+Douar Ait Taleb,Douar Ait Taleb,,32.3839,-8.1856,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,36.2,8888,8888,4,Africa/Casablanca,FALSE,1504079042
+Imilchil,Imilchil,Enilchil|Assif-Melloul,32.1550,-5.6347,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.1,8870,8870,3,Africa/Casablanca,FALSE,1504516929
+Iskourane,Iskourane,Agadiri Iskounane,30.8433,-9.8186,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,69.5,8866,8866,3,Africa/Casablanca,FALSE,1504820847
+Msemrir,Msemrir,Semrir|Semrhir,31.7028,-5.8125,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,33.6,8866,8866,3,Africa/Casablanca,FALSE,1504469179
+Ait Ikkou,Ait Ikkou,,33.6690,-6.1376,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,30.7,8865,8865,3,Africa/Casablanca,FALSE,1504000515
+Aït Ouaoumana,Ait Ouaoumana,Ouaoumana|Dechra Ouaoumana,32.7128,-5.8042,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,25.9,8849,8849,3,Africa/Casablanca,FALSE,1504002343
+Agadir Melloul,Agadir Melloul,Agadir Jdid,30.2167,-7.8000,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,11.5,8848,8848,3,Africa/Casablanca,FALSE,1504880181
+Amarzgane,Amarzgane,Anergane|Amerzgane,31.0500,-7.2167,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.4,8820,8820,3,Africa/Casablanca,FALSE,1504948640
+Hassi Berkane,Hassi Berkane,Hasi Berkane,34.8333,-2.8667,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,17.1,8788,8788,3,Africa/Casablanca,FALSE,1504780736
+Saidia,Saidia,Saïda|Saïdia du Kiss|Saïdia,35.0850,-2.2392,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1141.9,8780,8780,3,Africa/Casablanca,FALSE,1504105811
+Tiqqi,Tiqqi,,29.8667,-9.0667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,26.1,8773,8773,3,Africa/Casablanca,FALSE,1504073397
+Bouhlou,Bouhlou,,34.1333,-4.4000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,118.5,8748,8748,3,Africa/Casablanca,FALSE,1504965177
+Iaboutene,Iaboutene,,35.0670,-3.9670,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,143.5,8715,8715,3,Africa/Casablanca,FALSE,1504286746
+Tleta Taghramt,Tleta Taghramt,Tleta Tarhremt|Et Tleta|Tzagramtz|Zoco Tzelatza|Zoco el Tzelatza|Tagramt|Tagharmite|Souk-Tleta-Tarhremt|Souk-Tleta-Taghremt|Zoco et Telata|Tarhramt|Tleta Tarhramt|Dxar Tzagarantz|Bogored,35.7877,-5.4677,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,63.4,8706,8706,3,Africa/Casablanca,FALSE,1504015428
+Sidi el Mokhfi,Sidi el Mokhfi,Sidi al Makhfi|Sidi el Mekfi,34.6039,-4.7889,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,101.2,8705,8705,3,Africa/Casablanca,FALSE,1504651133
+Sidi Dahbi,Sidi Dahbi,El Mellah|Souk el Mellah,33.0500,-7.1833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,105.2,8703,8703,3,Africa/Casablanca,FALSE,1504613432
+Zawiat Moulay Brahim,Zawiat Moulay Brahim,Zaouia Moulay Brahim|Moulay Brahim|Zaouiat Moulay Brahim,31.2858,-7.9656,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,871.4,8698,8698,3,Africa/Casablanca,FALSE,1504818335
+Oulad Khallouf,Oulad Khallouf,,31.7900,-7.0700,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,250.8,8605,8605,3,Africa/Casablanca,FALSE,1504052239
+Oulad Khallouf,Oulad Khallouf,,34.7100,-2.5800,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,12.1,8605,8605,4,Africa/Casablanca,FALSE,1504000678
+Lakhzazra,Lakhzazra,,33.0333,-7.0500,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,76.2,8582,8582,3,Africa/Casablanca,FALSE,1504277663
+Lambarkiyine,Lambarkiyine,,33.2000,-7.5000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,83.8,8559,8559,3,Africa/Casablanca,FALSE,1504527523
+Ben Qarrich,Ben Qarrich,Dar Ben Karrich|Ben Carrich|Dar beni Kriche Bahri|Ben Karrich|Beni-Kriche-El Fouki,35.5114,-5.4264,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,257.9,8499,8499,3,Africa/Casablanca,FALSE,1504875020
+Moulay Bou ’azza,Moulay Bou 'azza,Moulay Bou Azza,33.2242,-6.1981,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,10.6,8490,8490,3,Africa/Casablanca,FALSE,1504682453
+Tizoual,Tizoual,Tizgui,31.0244,-7.8186,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,27.9,8489,8489,3,Africa/Casablanca,FALSE,1504928212
+Ait Ali Mimoune,Ait Ali Mimoune,,33.7800,-5.7800,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,22.0,8486,8486,3,Africa/Casablanca,FALSE,1504129497
+Talambote,Talambote,Talambout|Talembote|Talembot|Talamoot,35.2500,-5.1833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,50.1,8481,8481,3,Africa/Casablanca,FALSE,1504782233
+Beni Oual Sehira,Beni Oual Sehira,Beni Oual Sehina|Bni Oual|Douar Beni Oual Sehira,34.4333,-5.4000,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,106.2,8480,8480,4,Africa/Casablanca,FALSE,1504215057
+Ghassat,Ghassat,,31.1697,-6.8042,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,8.9,8448,8448,3,Africa/Casablanca,FALSE,1504078332
+Boured,Boured,,34.7344,-4.0947,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,60.1,8434,8434,3,Africa/Casablanca,FALSE,1504251156
+Alougoum,Alougoum,,30.2778,-6.8292,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1.8,8418,8418,4,Africa/Casablanca,FALSE,1504934074
+Iksane,Iksane,Ouiksâne,35.1333,-3.0333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,186.4,8417,8417,3,Africa/Casablanca,FALSE,1504090383
+Zaouia Sidi Dahmane,Zaouia Sidi Dahmane,,30.4969,-8.8211,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,245.4,8414,8414,3,Africa/Casablanca,FALSE,1504036812
+Imoulas,Imoulas,,30.7436,-8.7633,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,48.4,8388,8388,3,Africa/Casablanca,FALSE,1504396596
+Mrizig,Mrizig,,32.8467,-7.1319,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,44.1,8376,8376,3,Africa/Casablanca,FALSE,1504438094
+Nzalat Bni Amar,Nzalat Bni Amar,Lonelja|Nzala des Beni-Ammar|Nzala Beni Ammar|Nzala Beni Amar,34.0981,-5.4161,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,96.0,8350,8350,3,Africa/Casablanca,FALSE,1504089771
+Douar Tassift,Douar Tassift,Tassift,35.4037,-5.1196,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,81.5,8319,8319,4,Africa/Casablanca,FALSE,1504486132
+Douar Mezaoura,Douar Mezaoura,Mezaoura|Mesdoura,34.5087,-4.7452,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,122.9,8317,8317,3,Africa/Casablanca,FALSE,1504424748
+Assâki,Assaki,,35.0500,-4.6833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,139.4,8296,8296,4,Africa/Casablanca,FALSE,1504478996
+Ain Lehjer,Ain Lehjer,,34.5949,-2.3720,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2947.1,8272,8272,2,Africa/Casablanca,FALSE,1504555478
+Aït Tagalla,Ait Tagalla,Aït Taguella|Al Mouda’|El Moudda,31.9167,-6.7167,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,68.5,8268,8268,3,Africa/Casablanca,FALSE,1504861087
+Meghraoua,Meghraoua,Merhraoua,33.9322,-4.0456,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,15.4,8204,8204,3,Africa/Casablanca,FALSE,1504785980
+Souk Khmis Bni Arouss,Souk Khmis Bni Arouss,Zoco el Jemis de Beni Aros|Bni Aarouss|Zoco el Jemis|Souq Khemis des Beni Arouss|Souk Khemis des Beni Arouss|Soko El Jemis|El Jemis de Beni Arás|El Khemis des Beni Aros|Beni Arós,35.3065,-5.6291,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,46.3,8193,8193,3,Africa/Casablanca,FALSE,1504217983
+Melqa el Ouidane,Melqa el Ouidane,Melga al Widane|Berteaux|Camp Berteaux|Camp Berteau|Melqu-el-Ouidane|Melg el Ouidane|Melga el Ouidane,34.5667,-3.0167,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,28.2,8176,8176,3,Africa/Casablanca,FALSE,1504752562
+Anjil Aït Lahsene,Anjil Ait Lahsene,Enyil|Enjil des Aït Lahsene|Enjil des Aït Lahsèn|Enjil|Aït Lahcen|Enjil Des Aït Lahsene,33.1833,-4.5500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,4.9,8164,8164,4,Africa/Casablanca,FALSE,1504664742
+Mirleft,Mirleft,Mighleft|Mirhleft|Mirhlef|Ahl Sahel,29.6081,-9.9698,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,529.7,8162,8162,3,Africa/Casablanca,FALSE,1504612129
+Douar Zat Sidi Boulaalam,Douar Zat Sidi Boulaalam,,31.6775,-9.2725,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,119.5,8142,8142,4,Africa/Casablanca,FALSE,1504542106
+Kef el Rhar,Kef el Rhar,Kef er Rhar,34.5075,-4.2628,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,54.9,8104,8104,3,Africa/Casablanca,FALSE,1504468214
+Fifi,Fifi,,34.9460,-5.2430,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,82.7,8104,8104,3,Africa/Casablanca,FALSE,1504918391
+Mezguitem,Mezguitem,Mezguittem|Mesguitem,34.5019,-3.6428,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,13.8,8087,8087,3,Africa/Casablanca,FALSE,1504729325
+Sidi ’Ali Bou Aqba,Sidi 'Ali Bou Aqba,,34.8167,-3.7286,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,34.3,8083,8083,3,Africa/Casablanca,FALSE,1504964057
+Oulad Chbana,Oulad Chbana,,33.0500,-7.3833,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,144.1,8081,8081,3,Africa/Casablanca,FALSE,1504908719
+Imi n-Tlit,Imi n-Tlit,Et Tnine|Tnine Imi n’Tlif|Tnine|Imi n’Tlit,31.2156,-9.5461,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,93.2,8057,8057,3,Africa/Casablanca,FALSE,1504022682
+Tarfaya,Tarfaya,Cabo Yubi|Cap Juby|Cabo Juby|Talfaia|Villa Bens|Tarfaia,27.9394,-12.9261,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,222.6,8027,8027,3,Africa/Casablanca,FALSE,1504687368
+Smimou,Smimou,,31.2167,-9.7000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1161.7,8026,8026,3,Africa/Casablanca,FALSE,1504484591
+Laaouama,Laaouama,El Aouama|Aouama,35.7167,-5.8000,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,8413.4,8013,8013,2,Africa/Casablanca,FALSE,1504439962
+El Meghassine,El Meghassine,El Mrhassiine|El Merhassine|Merhasyne|Merhasiyne|Al Mrhassiine,34.0141,-5.4618,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,101.8,8001,8001,3,Africa/Casablanca,FALSE,1504751525
+Arazane,Arazane,Arazene,30.5000,-8.6000,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,46.3,7999,7999,3,Africa/Casablanca,FALSE,1504049957
+Tafraoutane,Tafraoutane,,30.7047,-8.8819,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,71.8,7999,7999,3,Africa/Casablanca,FALSE,1504732777
+Matarka,Matarka,Metarka,33.2611,-2.7031,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1.3,7986,7986,4,Africa/Casablanca,FALSE,1504787880
+Tamdrost,Tamdrost,,33.0072,-7.4808,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,66.1,7973,7973,3,Africa/Casablanca,FALSE,1504117413
+Tabia,Tabia,,32.0316,-6.7969,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,81.0,7935,7935,4,Africa/Casablanca,FALSE,1504864023
+Ida Ou Azza,Ida Ou Azza,,31.1533,-9.7333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,99.7,7923,7923,3,Africa/Casablanca,FALSE,1504982005
+Moulay Abdelkader,Moulay Abdelkader,Moulay Amer|Douar Moulay Ameur,34.4049,-4.7106,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,118.4,7896,7896,4,Africa/Casablanca,FALSE,1504800151
+Moulay Abdelkader,Moulay Abdelkader,,34.6422,-5.7678,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,51.6,7896,7896,3,Africa/Casablanca,FALSE,1504784821
+Targante,Targante,,30.8167,-9.0667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,17.7,7870,7870,4,Africa/Casablanca,FALSE,1504781709
+Talat-n-Ya’qoub,Talat-n-Ya'qoub,Talate n’Yakour|Talâat n’ Yakoub|Kasba Goundafa|Rasoa Goundafa|Tlate n’Yacoub|Kasba Goundala|Talate n’Yakoub,30.9903,-8.1772,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.4,7866,7866,3,Africa/Casablanca,FALSE,1504941778
+Ain Bida,Ain Bida,,33.9856,-4.8931,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,93.4,7843,7843,4,Africa/Casablanca,FALSE,1504328927
+Had Kourt,Had Kourt,Had-Kurt|Had-Hourt|El Had Kourt,34.6167,-5.7333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,66.9,7843,7843,3,Africa/Casablanca,FALSE,1504993491
+Timezgadiouine,Timezgadiouine,Timesgadioume,30.8833,-9.0500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,24.7,7825,7825,3,Africa/Casablanca,FALSE,1504975235
+Sidi Ahmed Ben Aissa,Sidi Ahmed Ben Aissa,,34.7114,-5.8150,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,88.4,7810,7810,3,Africa/Casablanca,FALSE,1504000044
+Oualidia,Oualidia,Qualidia|Koudia Oualidia|Qaşbah al Walīdīyah|Kasba Oualidia|El Oualidia|Oualidiya,32.7333,-9.0167,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,1053.3,7770,7770,3,Africa/Casablanca,FALSE,1504305960
+Al Orjane,Al Orjane,El Orjane|El Ordjane,33.4000,-3.7167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,17.3,7740,7740,3,Africa/Casablanca,FALSE,1504370542
+Ouirgane,Ouirgane,Ouirgân,31.1833,-8.0833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,57.0,7727,7727,3,Africa/Casablanca,FALSE,1504309994
+Jouamaa,Jouamaa,El Jouam’a,35.6500,-5.6833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,75.6,7711,7711,3,Africa/Casablanca,FALSE,1504888787
+Freïja,Freija,Freiya,30.4833,-8.7833,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,110.5,7685,7685,4,Africa/Casablanca,FALSE,1504074088
+Zinat,Zinat,Sinat|Ercoulene|Ercouiene|Jinat|Ez Zinate|Ez Zimate,35.6500,-5.7167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,75.3,7669,7669,3,Africa/Casablanca,FALSE,1504932821
+Oulad Hassoune,Oulad Hassoune,Ouled Hassoun Rmel|Oulad Hassoun,32.3217,-7.8964,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,23.8,7662,7662,3,Africa/Casablanca,TRUE,1504619530
+Anzi,Anzi,Anezi,29.6569,-9.3521,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,64.2,7658,7658,3,Africa/Casablanca,FALSE,1504302460
+Oulad Ben Sebbah,Oulad Ben Sebbah,Kasba Oulad Ben Smaïne|Ouled Ben Smaïn,33.2790,-7.3230,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,3494.7,7606,7606,2,Africa/Casablanca,FALSE,1504748827
+Mhamid el Rhozlane,Mhamid el Rhozlane,Ouled Ahmed er Ghozlane|Oulad Ahmed er Rhozlane,29.8222,-5.7208,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,1.6,7590,7590,3,Africa/Casablanca,FALSE,1504876224
+El Marmouta,El Marmouta,El Mermouta|Marmoua|Douar el Marmouta,32.0838,-7.4091,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,54.9,7587,7587,4,Africa/Casablanca,FALSE,1504673974
+Ras Kebdana,Ras Kebdana,Ras el Ma,35.1333,-2.4167,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,0,7580,7580,3,Africa/Casablanca,FALSE,1504603676
+Ait Hammou,Ait Hammou,Aït Hammou|Douar Aït Hammou|Aït Hamou|Dar Aït Hammou,32.2201,-8.1967,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,31.6,7548,7548,3,Africa/Casablanca,FALSE,1504086741
+Douar Oulad Bou Krae El Fouqani,Douar Oulad Bou Krae El Fouqani,Ouled Boukra|Oulad Boukra|El Aberda,31.5617,-8.8944,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,35.5,7513,7513,3,Africa/Casablanca,FALSE,1504952794
+Bni Oual,Bni Oual,,34.6748,-5.6495,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,69.8,7485,7485,3,Africa/Casablanca,FALSE,1504403642
+Tazoult,Tazoult,,30.8075,-7.7883,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,29.9,7465,7465,3,Africa/Casablanca,FALSE,1504435542
+Askawn,Askawn,Askaoun,30.7687,-7.7729,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,21.7,7458,7458,3,Africa/Casablanca,FALSE,1504021998
+Adassil,Adassil,,31.1000,-8.4833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,54.3,7454,7454,3,Africa/Casablanca,FALSE,1504025775
+Aït Hadi,Ait Hadi,Aït Hadi Rass el Aïne|Aït Addi,31.3942,-8.7725,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,162.0,7431,7431,3,Africa/Casablanca,FALSE,1504740675
+Douar Brarba,Douar Brarba,Bragha,34.4500,-4.2972,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,73.9,7429,7429,3,Africa/Casablanca,FALSE,1504010915
+Oulad Echatoui,Oulad Echatoui,Douar Oulad Chitoui|Douar Oulad Chetoui|Oulad Chitoui,32.2273,-7.4462,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,25.6,7399,7399,3,Africa/Casablanca,FALSE,1504575795
+Oulad Cherki,Oulad Cherki,,32.3310,-7.7442,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,28.0,7399,7399,4,Africa/Casablanca,FALSE,1504684011
+Lahouarta,Lahouarta,,32.9139,-7.7019,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,63.5,7394,7394,3,Africa/Casablanca,FALSE,1504523145
+Bou Iferda,Bou Iferda,Bou Tferda,32.3567,-5.8350,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,10.9,7391,7391,3,Africa/Casablanca,FALSE,1504135915
+Douar Oulad Boussaken,Douar Oulad Boussaken,Oulad Bou Sakene|Douar Oulad Bou Sakene,32.5704,-8.1218,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,71.9,7390,7390,3,Africa/Casablanca,FALSE,1504227931
+Mzizal,Mzizal,Mzizel Tillichte|Mzizel|Mzizil Tillechte,32.2269,-4.6475,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.3,7388,7388,4,Africa/Casablanca,FALSE,1504422464
+Sidi al Ghandour,Sidi al Ghandour,,33.8537,-6.0597,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,64.6,7377,7377,3,Africa/Casablanca,FALSE,1504001719
+Sidi ’Allal al Mçader,Sidi 'Allal al Mcader,,33.8897,-6.1503,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,63.7,7366,7366,3,Africa/Casablanca,FALSE,1504063618
+Tasift,Tasift,Tasif,35.3019,-5.1288,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,38.6,7363,7363,3,Africa/Casablanca,FALSE,1504871398
+Arbaa Ayacha,Arbaa Ayacha,Souk-el-Arba-Ayacha|El Arba de Sidi Laraïch|El Arba|Arba Ayacha|Arba-Aïcha|Arbaa Aayacha|Soko Arbaá|Zoco el Arbaa Aaiacha|Zoco Arbaá|Sidi L’Araich,35.3830,-5.8333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,42.1,7335,7335,3,Africa/Casablanca,FALSE,1504048390
+Tafetachte,Tafetachte,Souk Tafetecht|TaFetecht|Aïn Taftecht|Taftecht,31.5853,-9.2519,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,211.1,7293,7293,3,Africa/Casablanca,FALSE,1504092113
+Taznakht,Taznakht,Tazenskht|Tazenakht,30.5773,-7.2048,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,221.6,7281,7281,3,Africa/Casablanca,FALSE,1504409798
+Oued El Makhazine,Oued El Makhazine,,34.9333,-5.8500,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,164.2,7266,7266,3,Africa/Casablanca,FALSE,1504125049
+Nkob,Nkob,Nekob,30.8706,-5.8625,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,14.6,7209,7209,3,Africa/Casablanca,FALSE,1504818870
+Assoul,Assoul,Assoul Ksar,31.9458,-5.2083,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,8.7,7165,7165,3,Africa/Casablanca,FALSE,1504249186
+Douar Drissiine,Douar Drissiine,Oulad Yakoub|Douar Drissine|Drissine,32.0242,-7.2810,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,122.9,7143,7143,3,Africa/Casablanca,FALSE,1504880214
+Rouadi,Rouadi,,35.1403,-4.1347,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,37.5,7131,7131,3,Africa/Casablanca,FALSE,1504000935
+Ouardana,Ouardana,,35.0667,-3.4333,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,137.7,7120,7120,3,Africa/Casablanca,FALSE,1504124443
+Boulemane,Boulemane,Boulmane,33.3667,-4.7500,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,320.7,7104,7104,3,Africa/Casablanca,FALSE,1504456116
+Timlilt,Timlilt,Tamadelte|Timelilt,31.0336,-9.1392,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,29.8,7078,7078,3,Africa/Casablanca,FALSE,1504631543
+Assebbab,Assebbab,,35.1333,-3.0833,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,30.4,7069,7069,3,Africa/Casablanca,FALSE,1504910699
+Sidi Yahia Sawad,Sidi Yahia Sawad,Sidi Yahya Ou Saoua|Sidi yahya ou saoud|Sidi Yahya Ou Saad,32.6833,-5.5833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,39.2,7051,7051,3,Africa/Casablanca,FALSE,1504401083
+Ichemrarn,Ichemrarn,Ichemarèn|Ichemrarene|Ichemarene,31.1282,-9.1286,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,45.2,7023,7023,3,Africa/Casablanca,FALSE,1504515709
+Kerrouchen,Kerrouchen,Kerrouchene,32.7833,-5.3167,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,1441.0,7021,7021,3,Africa/Casablanca,FALSE,1504390650
+Douar Oulad Amer,Douar Oulad Amer,Douar Oulad Ameur|Oulad Ameur,32.0698,-7.2142,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,95.0,7015,7015,3,Africa/Casablanca,FALSE,1504780746
+Oued Naanaa,Oued Naanaa,,33.0167,-7.3333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,115.1,6991,6991,3,Africa/Casablanca,FALSE,1504436165
+Mzefroune,Mzefroune,Mzefroun|Msefroun|M’Zefroum|M’Zefrun|Mzoufroun,34.8423,-5.6841,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,74.6,6973,6973,3,Africa/Casablanca,FALSE,1504310085
+Bghaghza,Bghaghza,,35.4590,-5.6023,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,72.3,6955,6955,4,Africa/Casablanca,FALSE,1504056855
+Sidi Bettach,Sidi Bettach,Sidi Bettache,33.5037,-6.8745,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,37.0,6927,6927,4,Africa/Casablanca,FALSE,1504148731
+Zaouiat Sidi Hammou Ben Hmida,Zaouiat Sidi Hammou Ben Hmida,Zaouia Sidi Hamou Ben Hamida|Zaouia Ben Hamida|Aït Hmida,31.7547,-9.3716,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,112.7,6922,6922,3,Africa/Casablanca,FALSE,1504149973
+Assais,Assais,,30.9131,-9.2439,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,34.6,6915,6915,3,Africa/Casablanca,FALSE,1504936692
+El Maader El Kabir,El Maader El Kabir,Ahl el Mader|Ahl Maader el Kebir|Ahl Mader,29.8502,-9.6575,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,23.5,6885,6885,3,Africa/Casablanca,FALSE,1504011202
+Akka,Akka,Akka Centre,29.3908,-8.2564,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,13.8,6870,6870,3,Africa/Casablanca,FALSE,1504969924
+Azegour,Azegour,Azgour,31.1254,-8.3468,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,45.3,6865,6865,3,Africa/Casablanca,FALSE,1504263743
+Aït bou n’ Rhart,Ait bou n' Rhart,Aït Bounrart,30.3384,-8.7959,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,48.9,6855,6855,4,Africa/Casablanca,FALSE,1504079484
+Assays,Assays,Assaïs,30.5981,-7.6523,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,29.0,6838,6838,3,Africa/Casablanca,FALSE,1504418759
+Ait Said,Ait Said,,31.4458,-9.4383,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,68.3,6819,6819,3,Africa/Casablanca,TRUE,1504779816
+Outerbat,Outerbat,Ou Tarbat,32.1433,-5.3503,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,18.0,6819,6819,4,Africa/Casablanca,FALSE,1504337634
+Taouz,Taouz,,30.9069,-3.9958,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,1.5,6792,6792,4,Africa/Casablanca,FALSE,1504003008
+Mejji,Mejji,,31.5500,-9.3500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,68.3,6750,6750,3,Africa/Casablanca,FALSE,1504430967
+Beni Khaled,Beni Khaled,Douar Beni Khaled,34.8608,-2.0331,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,41.3,6745,6745,4,Africa/Casablanca,FALSE,1504630441
+Taliwine,Taliwine,Talioune|Taliouine,30.5328,-7.9256,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,247.1,6727,6727,3,Africa/Casablanca,FALSE,1504041723
+Znada,Znada,,31.2358,-8.7284,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,103.2,6712,6712,4,Africa/Casablanca,FALSE,1504673624
+Ijoukak,Ijoukak,Ijjoukak|Izoukak,30.9931,-8.1528,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,29.5,6700,6700,3,Africa/Casablanca,FALSE,1504280376
+Zerkat,Zerkat,Zarkat|Serkat,34.8961,-4.3516,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,77.0,6691,6691,3,Africa/Casablanca,FALSE,1504911478
+Khmis Sidi Yahia,Khmis Sidi Yahia,Souk el Khemis des Aït Ouahi|Khemis-de-Sidi-Yahya|El Khemis des Aït Ouahi|El Khemis,33.7983,-6.2653,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,64.7,6673,6673,3,Africa/Casablanca,FALSE,1504769698
+Saddina,Saddina,Zatdina,35.6302,-5.4428,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,99.9,6670,6670,4,Africa/Casablanca,FALSE,1504575268
+Douar Oulad Mkoudou,Douar Oulad Mkoudou,Oulad Mkoudo,33.8136,-4.5170,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,51.9,6667,6667,3,Africa/Casablanca,FALSE,1504596708
+Et Tnine des Beni Ammart,Et Tnine des Beni Ammart,Et Tnine des Beni Amret|Beni Ammart,34.8119,-4.1581,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,45.1,6654,6654,3,Africa/Casablanca,FALSE,1504884877
+Douar el Caïd el Gueddari,Douar el Caid el Gueddari,Douar Caïd el Gueddari|Dar Gueddari|El Gueddari|El Caïd el Gueddari|Dar el Gueddari|Dar al Gaddari|Dar Guedari,34.4167,-6.0833,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,148.4,6643,6643,3,Africa/Casablanca,FALSE,1504692098
+Tizi Ouzli,Tizi Ouzli,Tizi Ousli,34.7624,-3.7953,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,285.0,6639,6639,3,Africa/Casablanca,FALSE,1504925242
+Tafingoult,Tafingoult,Tafingout|Tafinegoult,30.7667,-8.3833,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,46.0,6635,6635,3,Africa/Casablanca,FALSE,1504703752
+Oulad Sbih,Oulad Sbih,,33.7333,-7.2000,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,351.9,6616,6616,3,Africa/Casablanca,FALSE,1504033194
+Timoulilt,Timoulilt,Timouillit|Souk-Tnine de Timoulilt,32.2000,-6.4667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,127.3,6616,6616,3,Africa/Casablanca,FALSE,1504000474
+El Bibane,El Bibane,,34.6000,-4.4000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,98.9,6593,6593,4,Africa/Casablanca,FALSE,1504003676
+Douar El Gouzal,Douar El Gouzal,El Gouzat|Al Gouzat|Douar el Gouzat,34.5019,-4.1567,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,61.8,6575,6575,3,Africa/Casablanca,FALSE,1504849237
+Adis,Adis,,29.6916,-7.9809,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,12.0,6511,6511,4,Africa/Casablanca,FALSE,1504618644
+Ras Ijerri,Ras Ijerri,,33.7833,-5.7167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,50.6,6502,6502,3,Africa/Casablanca,FALSE,1504755356
+Oulad Waggad,Oulad Waggad,Oulad Ouggad,31.7976,-7.3949,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,160.9,6491,6491,4,Africa/Casablanca,TRUE,1504119122
+Oulad Ghziyel,Oulad Ghziyel,,32.2667,-9.1500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,80.7,6488,6488,4,Africa/Casablanca,FALSE,1504629548
+Douar Tassila Imassouane,Douar Tassila Imassouane,Es Sebt Imgrad|Imghrad|Sebt Imghad|Es Sebt|Souk es Sebt,31.1386,-9.6092,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,26.5,6486,6486,3,Africa/Casablanca,FALSE,1504969578
+Mestigmer,Mestigmer,Mestigmeur,34.4868,-2.6883,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,13.2,6469,6469,3,Africa/Casablanca,FALSE,1504091649
+Akka Irene,Akka Irene,Akka Iren|Akka Ighen|Akka Irhane|Aqqa Irene,29.9919,-7.5322,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,5.9,6452,6452,4,Africa/Casablanca,FALSE,1504794987
+Ida Ou Gaïlal,Ida Ou Gailal,Ida Ougaïlat|Ida ou Gailaf,30.6333,-8.6333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,39.5,6436,6436,3,Africa/Casablanca,FALSE,1504833477
+Nawour,Nawour,Naour|Naur|Naoui,32.4803,-5.9086,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,28.0,6433,6433,4,Africa/Casablanca,FALSE,1504774236
+Tancherfi,Tancherfi,Tanncherfi,34.3539,-2.6255,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,11.9,6433,6433,3,Africa/Casablanca,FALSE,1504259031
+Saïdat,Saidat,Saïdate|Douar Saïdat,31.3442,-8.7053,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,23.3,6427,6427,3,Africa/Casablanca,FALSE,1504422159
+Beni Bou Yafroun,Beni Bou Yafroun,San Juan de las Minas|Saint Jean des Mines,35.1536,-2.9861,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,4072.2,6418,6418,2,Africa/Casablanca,FALSE,1504662210
+Tiyghmi,Tiyghmi,Tirmi|Tighmi|Id Taouar|Tirhmi,29.5875,-9.4063,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,36.0,6396,6396,3,Africa/Casablanca,FALSE,1504493418
+Ras Tabouda,Ras Tabouda,,34.0000,-4.7167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,75.1,6388,6388,3,Africa/Casablanca,FALSE,1504984895
+Ghafsaï,Ghafsai,Rafsai,34.6280,-4.9109,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,468.8,6361,6361,3,Africa/Casablanca,FALSE,1504792927
+Tafraout,Tafraout,Tafraoute|Tafraut,29.7167,-8.9667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,95.8,6345,6345,3,Africa/Casablanca,FALSE,1504092671
+Louta,Louta,,34.8333,-4.4333,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,77.0,6325,6325,4,Africa/Casablanca,FALSE,1504844406
+Azgour,Azgour,,31.3500,-7.5000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,70.0,6314,6314,4,Africa/Casablanca,FALSE,1504553216
+Beni Sidal Louta,Beni Sidal Louta,,35.1069,-3.0656,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,147.9,6283,6283,3,Africa/Casablanca,FALSE,1504185790
+Koura,Koura,Kora Mouarid,31.3994,-9.1694,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,67.8,6273,6273,4,Africa/Casablanca,FALSE,1504136400
+Douar Oulad Jaber,Douar Oulad Jaber,Oulad Jeber|Oulad Jaber|Oulad Jabar,32.3011,-7.2053,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,132.2,6254,6254,3,Africa/Casablanca,FALSE,1504389005
+Bir Anzarane,Bir Anzarane,Bir Nazaran|Bir Nasaran|Uad el Bir|Bir Anzaraen|Bir Enzarán|Bir Enzaran,23.8918,-14.5364,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.1,6244,6244,3,Africa/El_Aaiun,FALSE,1504999993
+Tadighoust,Tadighoust,Tadiroust|Tadirhoust,31.8017,-4.9673,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,6.5,6243,6243,4,Africa/Casablanca,FALSE,1504206473
+Tazouta,Tazouta,Taouchet Tazouta,33.6667,-4.6333,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,33.3,6227,6227,3,Africa/Casablanca,FALSE,1504969282
+Oum Azza,Oum Azza,,33.8808,-6.7858,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,43.6,6197,6197,4,Africa/Casablanca,FALSE,1504917915
+Amrharas,Amrharas,Amghérssa,31.2100,-8.1834,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,92.8,6160,6160,3,Africa/Casablanca,FALSE,1504607858
+Oulad Saber,Oulad Saber,,32.0657,-7.5107,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.2,6131,6131,4,Africa/Casablanca,FALSE,1504956172
+Sidi Mbark,Sidi Mbark,,29.2987,-9.8250,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,20.5,6110,6110,3,Africa/Casablanca,FALSE,1504119639
+Ida Ou Moumene,Ida Ou Moumene,,30.5983,-9.0025,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,57.1,6105,6105,3,Africa/Casablanca,FALSE,1504225477
+Zaouiat Sidi Mhamed Ou Marzouq,Zaouiat Sidi Mhamed Ou Marzouq,Zaouia Mohammed Ben Merzoug|Zaouia Sidi Mohammed Ben Merzouk|Zaouia Sidi Mohammed Ben Merzoug,31.7647,-9.0136,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,30.4,6088,6088,4,Africa/Casablanca,FALSE,1504826184
+Kechoulah,Kechoulah,,31.5591,-9.2483,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,56.6,6083,6083,3,Africa/Casablanca,FALSE,1504260348
+Tazemmourt,Tazemmourt,Tazemmourte,30.4083,-8.8269,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,37.1,6073,6073,3,Africa/Casablanca,FALSE,1504630926
+Moulay Bouzarqtoune,Moulay Bouzarqtoune,,31.6500,-9.6833,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,45.2,6069,6069,3,Africa/Casablanca,FALSE,1504475079
+Souq at Tlata des Loulad,Souq at Tlata des Loulad,Venet-Ville|Souk Tleta Loulad|Loulad|Souk-Tlet-de-Loulad,32.9833,-7.1333,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,309.0,6057,6057,3,Africa/Casablanca,FALSE,1504064143
+Tichla,Tichla,Techlé|Tachla,21.6100,-15.0000,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.0,6036,6036,4,Africa/El_Aaiun,FALSE,1504002816
+Oulad Amghar,Oulad Amghar,,35.2500,-3.6500,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,80.3,6010,6010,3,Africa/Casablanca,FALSE,1504107608
+Bni Abdellah,Bni Abdellah,Beni Abdallah|Beni Abdellah,35.0728,-4.0706,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,48.8,5983,5983,3,Africa/Casablanca,FALSE,1504129037
+Douar Tazrout,Douar Tazrout,Tazerot|Tarzoute|Tazrut|Tazrout|Tazarut|Tazarot,35.2630,-5.5452,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,36.6,5974,5974,3,Africa/Casablanca,FALSE,1504248644
+Tazitount,Tazitount,,31.1200,-8.9200,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,56.8,5947,5947,4,Africa/Casablanca,FALSE,1504042713
+Tinzart,Tinzart,Tinzert,30.6167,-7.7500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,33.0,5902,5902,3,Africa/Casablanca,FALSE,1504328617
+El Arba Bouzemmour,El Arba Bouzemmour,El Arba|Bouzemour|Souk el Arba|Larba Bouzemmour,31.0061,-9.4042,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,31.4,5874,5874,3,Africa/Casablanca,FALSE,1504429471
+Amersid,Amersid,,32.7500,-4.4667,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,8.4,5857,5857,3,Africa/Casablanca,FALSE,1504518823
+Oulad Aïssa,Oulad Aissa,,33.0528,-6.4034,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,36.5,5845,5845,4,Africa/Casablanca,FALSE,1504001478
+Ausert,Ausert,Aousred|Aussert|Auserd|Awsard|Ausserd,22.5364,-14.2858,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.0,5832,5832,4,Africa/El_Aaiun,FALSE,1504003883
+Aït Ouakrim,Ait Ouakrim,,30.0297,-9.2478,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,61.3,5817,5817,3,Africa/Casablanca,FALSE,1504983341
+El Aargub,El Aargub,Al ’Argoub|Aargub|Argub,23.6111,-15.8583,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.8,5759,5759,3,Africa/El_Aaiun,FALSE,1504003879
+Aït el Farsi,Ait el Farsi,Aït el Fersi|Aït el Forssi,31.3500,-5.3000,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,22.7,5754,5754,3,Africa/Casablanca,FALSE,1504637843
+Ighil,Ighil,Irhil,31.0110,-8.3533,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.4,5695,5695,3,Africa/Casablanca,FALSE,1504948991
+El Rhahala,El Rhahala,Rhahala|Rhahla,31.3473,-9.0685,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,21.9,5691,5691,3,Africa/Casablanca,FALSE,1504979659
+Ait Ban,Ait Ban,,30.0700,-9.1550,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,39.6,5668,5668,3,Africa/Casablanca,FALSE,1504781280
+Mechra-Hommadi,Mechra-Hommadi,Machra’ Homadi|Mechra Homadi,34.7233,-2.7918,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,12.2,5646,5646,3,Africa/Casablanca,FALSE,1504851052
+Sidi Harazem,Sidi Harazem,Douar Sidi Harazem,34.0261,-4.8828,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,217.6,5622,5622,3,Africa/Casablanca,FALSE,1504551326
+Jemaat Moul Blad,Jemaat Moul Blad,,33.5833,-6.4333,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,25.3,5619,5619,3,Africa/Casablanca,FALSE,1504401838
+Ighil,Ighil,,31.4167,-7.6500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,154.8,5619,5619,4,Africa/Casablanca,TRUE,1504746250
+Tafadna,Tafadna,,31.0958,-9.8208,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,62.0,5617,5617,3,Africa/Casablanca,FALSE,1504327046
+Oulad Zarrad,Oulad Zarrad,,31.8750,-7.4217,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,141.7,5606,5606,3,Africa/Casablanca,FALSE,1504400512
+Bni Hadifa,Bni Hadifa,Soko el Tzenin de Beni Hadifa|El Tzenin de Beni Hadifa|Et Tnine des Beni Hadifa|Beni Hadifa|Et Tnine de Beni Hadifa|Et Tnine|Zoko el Tzenin,35.0228,-4.1408,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,234.1,5594,5594,3,Africa/Casablanca,FALSE,1504546042
+Guenfouda,Guenfouda,Guennfouda|Guenfuda,34.4836,-2.0456,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,14.9,5591,5591,3,Africa/Casablanca,FALSE,1504244956
+Oulad Mtaa,Oulad Mtaa,,32.8833,-7.5667,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,66.1,5557,5557,4,Africa/Casablanca,FALSE,1504008139
+Douar Oulad Msabel,Douar Oulad Msabel,,32.3010,-7.2052,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,141.3,5527,5527,4,Africa/Casablanca,FALSE,1504337573
+Assads,Assads,,30.2333,-8.8667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,28.2,5512,5512,4,Africa/Casablanca,FALSE,1504771264
+Imigdal,Imigdal,Imegdal|Imdat,31.1117,-8.1333,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,22.1,5467,5467,3,Africa/Casablanca,FALSE,1504551611
+Douar Ait Ouallal,Douar Ait Ouallal,Aït Ouallal|El Mes,33.9500,-5.3000,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,171.6,5455,5455,4,Africa/Casablanca,FALSE,1504167096
+Zawyat Sidi Hamza,Zawyat Sidi Hamza,Zouiat Sidi Hamza|Zaouia Sidi Hamza|Taoui Sidi Hamza|Sidi Hamza,32.4403,-4.7114,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,13.3,5454,5454,4,Africa/Casablanca,FALSE,1504730287
+Aït Athmane,Ait Athmane,Aït Bou Daoud|Aït Atmane,30.6600,-5.4900,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,10.9,5439,5439,3,Africa/Casablanca,FALSE,1504770221
+Bine Al Widane,Bine Al Widane,Bin el Ouidan|Ben el Ouidane|Bine el Ouidane|Beni el Quidan|Bin el Ouidane|Bain el Uidan,32.1083,-6.4750,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,42.7,5421,5421,3,Africa/Casablanca,FALSE,1504956807
+Imouzzer des Ida ou Tanane,Imouzzer des Ida ou Tanane,Immouzzer Ida Ou Tanane|Immouzer des Ida Ou Tanane,30.6730,-9.4800,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,30.3,5402,5402,3,Africa/Casablanca,FALSE,1504647045
+Oulad Amer Tizmarine,Oulad Amer Tizmarine,,32.2917,-8.4375,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,40.8,5382,5382,4,Africa/Casablanca,FALSE,1504109082
+El Argoub,El Argoub,El Argou,29.4833,-9.7000,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,40.8,5345,5345,4,Africa/Casablanca,FALSE,1504166253
+Timoulay Izder,Timoulay Izder,Timoulay Yzder,29.1228,-9.5992,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,28.6,5325,5325,4,Africa/Casablanca,FALSE,1504481720
+Ajdir,Ajdir,Axdir,35.2000,-3.9170,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,293.4,5314,5314,3,Africa/Casablanca,FALSE,1504143111
+Douar Errouda Sidi Lahsen,Douar Errouda Sidi Lahsen,Zaouia Sidi Lahsene|Sidi Lahsen|Douar Sidi Lahsene|Zaouia Sidi Lhassène,33.7891,-4.6804,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,41.9,5290,5290,4,Africa/Casablanca,FALSE,1504111550
+Aït Makhlouf,Ait Makhlouf,Aït Maklouf|Aït Mekhlouf,33.4167,-4.3167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,16.3,5285,5285,4,Africa/Casablanca,FALSE,1504573191
+Tizagzawine,Tizagzawine,Tizgzaouine|Tizegzaouine|Tizagzaouine|Tizgaouine,31.0000,-7.1500,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.4,5272,5272,3,Africa/Casablanca,FALSE,1504386039
+Kariat Arekmane,Kariat Arekmane,Karia de Arkeman|Souk-el-Arbâa|Soko el Arbaa|El Arba|Kariat Arekmam|Zoco el Arbaa|Kariet Arkmane|Kariat akmane|Karia de Arkenán|Karia d’Arkemane|Karia Arkeman|Karia-Arakmane-Afso|El Arbâa|Kariat Arkmane|El Arbaa Soko|Karia da Arkeman,35.1042,-2.7344,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,498.8,5266,5266,3,Africa/Casablanca,FALSE,1504777672
+Taghazout,Taghazout,Tarhazoute,30.5331,-9.7000,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,55.1,5260,5260,4,Africa/Casablanca,FALSE,1504115261
+Tafetchna,Tafetchna,Zaouia Tafetchna|Zaouia Tafetcha,30.6505,-5.8524,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,13.1,5258,5258,4,Africa/Casablanca,FALSE,1504486382
+Sidi ’Addi,Sidi 'Addi,,33.3948,-5.3320,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,332.5,5217,5217,3,Africa/Casablanca,FALSE,1504002513
+Taliouîne,Taliouine,Taliuin,35.1500,-3.5500,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,92.9,5208,5208,3,Africa/Casablanca,FALSE,1504533858
+Tiouli,Tiouli,,34.4542,-1.8986,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,8.0,5199,5199,3,Africa/Casablanca,FALSE,1504000263
+Timzguida Ouftas,Timzguida Ouftas,,30.9910,-9.7990,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,69.4,5189,5189,3,Africa/Casablanca,FALSE,1504603244
+El Arba de Taourirt,El Arba de Taourirt,El Arbaa de Taurt,34.9319,-3.8358,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,44.6,5187,5187,4,Africa/Casablanca,FALSE,1504370114
+Aghbar,Aghbar,Arhbar,30.5167,-6.8167,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,6.6,5182,5182,3,Africa/Casablanca,FALSE,1504661685
+Dhar Souk,Dhar Souk,Tahar Souk|Tahr Souk,34.6519,-4.2794,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,544.5,5182,5182,3,Africa/Casablanca,FALSE,1504426669
+Akarma,Akarma,,31.8667,-7.6500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,32.9,5171,5171,3,Africa/Casablanca,FALSE,1504341141
+Ez Zinat,Ez Zinat,Sebt Zaniate,35.6343,-5.7831,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,107.8,5153,5153,4,Africa/Casablanca,FALSE,1504808486
+Izmorene,Izmorene,Izemmourèn|Izmoren|Zemmouren,35.1833,-4.0000,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,57.0,5153,5153,3,Africa/Casablanca,FALSE,1504733542
+Douar Oulad Amer Leqliaa,Douar Oulad Amer Leqliaa,Oulad Amer Tizmarine|Douar Oulad Ameur|Douar Oulad Amer|Oulad Ameur,32.2536,-8.3972,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.8,5150,5150,3,Africa/Casablanca,FALSE,1504391130
+Bigoudine,Bigoudine,,30.7167,-9.2167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,25.0,5131,5131,3,Africa/Casablanca,FALSE,1504170276
+Souk el Had-des Beni-Batao,Souk el Had-des Beni-Batao,Souk el Had des Beni Batao|Beni Batao,32.8275,-6.2889,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,36.5,5113,5113,4,Africa/Casablanca,FALSE,1504774901
+Adar,Adar,Addar,30.1500,-8.3667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,11.9,5098,5098,4,Africa/Casablanca,FALSE,1504125350
+Fezouane,Fezouane,,34.9167,-2.2000,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,37.1,5089,5089,3,Africa/Casablanca,FALSE,1504814812
+Bab Boudir,Bab Boudir,Bab Bou Idiz|Bab Bou Idir,34.0694,-4.1208,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,31.3,5082,5082,3,Africa/Casablanca,FALSE,1504971490
+Moulay Driss Aghbal,Moulay Driss Aghbal,,33.7833,-6.5000,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,31.5,5043,5043,3,Africa/Casablanca,FALSE,1504488156
+Azrar,Azrar,Tizi n’Azrar|Tizictozrar,30.1702,-7.9234,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,11.3,5038,5038,3,Africa/Casablanca,FALSE,1504788203
+Douar Touzouighine,Douar Touzouighine,Tazghine|Tasaguine|Tazarhine|Tazaghine|Tasaguin,35.1167,-4.0500,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,91.1,5032,5032,4,Africa/Casablanca,FALSE,1504000822
+Sbouia,Sbouia,Esbouya|Sbouya|Isbouya,29.8167,-9.5500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,19.6,5028,5028,4,Africa/Casablanca,FALSE,1504522609
+Oulad Messaoud,Oulad Messaoud,,32.1883,-7.1808,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,142.8,5011,5011,3,Africa/Casablanca,FALSE,1504000863
+Amlagou,Amlagou,Ksar Imelouane|Imelouane|Ksar Amellago|Amellago,31.9931,-4.9961,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,9.3,4975,4975,4,Africa/Casablanca,FALSE,1504012107
+Tlet El Hanchane,Tlet El Hanchane,Tlata Hanchane|Tleta Hannchene|Tleta Hanchen|Et Tleta Hanchene|Et Tleta el Hanchene,31.5292,-9.4359,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,379.1,4965,4965,3,Africa/Casablanca,FALSE,1504595293
+Debdou,Debdou,Debdau|Dabdou,33.9833,-3.0500,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,676.2,4960,4960,3,Africa/Casablanca,FALSE,1504022684
+Ouijjane,Ouijjane,Souk-Sebt-Ouijjane,29.6333,-9.5500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,20.9,4938,4938,3,Africa/Casablanca,FALSE,1504296289
+Tizgui,Tizgui,,31.2450,-8.3186,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,45.3,4899,4899,3,Africa/Casablanca,FALSE,1504203812
+Anemz,Anemz,Anemzi,32.3167,-5.2667,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,17.4,4885,4885,3,Africa/Casablanca,FALSE,1504297974
+Had-n-Targa-n-Touchka,Had-n-Targa-n-Touchka,Targua n’ Touchka|Souk-el-Had-de-Targa-Touchka,29.8867,-9.2044,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,36.9,4877,4877,3,Africa/Casablanca,FALSE,1504124654
+Aït Youl,Ait Youl,Aït Yous,31.4167,-6.0000,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,21.1,4870,4870,3,Africa/Casablanca,FALSE,1504565208
+Oukaïmedene,Oukaimedene,Oukaïmeden|Oukkainrdem,31.2052,-7.8623,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,89.7,4861,4861,3,Africa/Casablanca,FALSE,1504570937
+Ait Malek,Ait Malek,Aït Malek,31.6167,-7.1333,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,92.7,4856,4856,3,Africa/Casablanca,FALSE,1504910815
+Bir Ennasr,Bir Ennasr,,33.3533,-6.9069,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,16.9,4855,4855,3,Africa/Casablanca,FALSE,1504227023
+Amouguer,Amouguer,Amouguear,32.2989,-4.8372,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,11.5,4840,4840,4,Africa/Casablanca,TRUE,1504350645
+Khemis Sahel,Khemis Sahel,El Khemis|Khemis du Sahel|Zoco el Jemis|Souk Khemis du Sahel|Soko el Jemis|El Jmis|Khémis Sahel,35.2500,-6.0833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,993.7,4826,4826,3,Africa/Casablanca,FALSE,1504000482
+Bni Idder,Bni Idder,Et Tleta Beni Ider|Beni Idder,35.3986,-5.5119,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,75.8,4823,4823,4,Africa/Casablanca,FALSE,1504642493
+Argana,Argana,Agana,30.7833,-9.1167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,17.7,4804,4804,3,Africa/Casablanca,FALSE,1504642014
+Awgounz,Awgounz,Aougounz,29.8280,-9.1565,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,26.1,4801,4801,3,Africa/Casablanca,FALSE,1504024515
+Tizoughrane,Tizoughrane,Tizourane,29.6111,-9.1724,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,21.6,4769,4769,3,Africa/Casablanca,FALSE,1504000077
+Aït Chekrane,Ait Chekrane,Chakrane,34.9500,-3.9833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,27.9,4761,4761,3,Africa/Casablanca,FALSE,1504713488
+Azaghar-n-Irs,Azaghar-n-Irs,Azara n’ Irs|Azarhar n’Irs|Azaghar n’Irs,30.3000,-8.2500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,6.3,4748,4748,3,Africa/Casablanca,FALSE,1504531553
+Talmoudat,Talmoudat,Tataout,30.2481,-8.7078,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,31.8,4743,4743,3,Africa/Casablanca,FALSE,1504896244
+Tamaloukt,Tamaloukt,Tamaloukte,30.6147,-8.8277,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,34.1,4739,4739,3,Africa/Casablanca,FALSE,1504386858
+Sidi Yahya Ou Youssef,Sidi Yahya Ou Youssef,Sidi Yahia Ou Youssef|Zaouïa Sidi Yaha Ou Youssef|Ait Sidi Yahya ou Youssef,32.4167,-5.3833,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,20.3,4637,4637,3,Africa/Casablanca,FALSE,1504189039
+Bleïda,Bleida,,30.3981,-6.4797,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,4.0,4629,4629,4,Africa/Casablanca,FALSE,1504838442
+Bir Gandús,Bir Gandus,Bir Ganduz|Anzarane|Bir Ghandouz,21.6167,-16.4667,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.1,4625,4625,4,Africa/El_Aaiun,FALSE,1504999980
+Sidi Kaouki,Sidi Kaouki,Sidi Kouaki,31.3556,-9.7972,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,66.3,4625,4625,3,Africa/Casablanca,FALSE,1504229348
+Moulay Yacoub,Moulay Yacoub,Muley Yacub|Moulay Yakoub,34.0878,-5.1811,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,373.8,4612,4612,3,Africa/Casablanca,FALSE,1504403869
+Ayn Qicher,Ayn Qicher,,32.7790,-6.5361,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,23.6,4609,4609,4,Africa/Casablanca,FALSE,1504000971
+Douar Lemzilat,Douar Lemzilat,Douar Mzilet|El Mzilate,31.7164,-9.1492,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,44.5,4583,4583,4,Africa/Casablanca,FALSE,1504220992
+Tazegzaout,Tazegzaout,,29.9736,-8.2608,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,9.5,4581,4581,4,Africa/Casablanca,FALSE,1504789449
+Aït Mzal,Ait Mzal,Aït Amzal,30.2833,-9.1167,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,95.1,4555,4555,4,Africa/Casablanca,FALSE,1504986216
+Tadrart,Tadrart,Tanrart,30.7710,-9.4612,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,23.6,4530,4530,3,Africa/Casablanca,FALSE,1504941324
+Sidi Bouhria,Sidi Bouhria,Sidi Bou Houria|Sidi Bu Huria,34.7392,-2.3622,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,31.0,4525,4525,3,Africa/Casablanca,FALSE,1504739740
+Imider,Imider,Imiter,31.3728,-5.7856,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,12.7,4420,4420,3,Africa/Casablanca,FALSE,1504677299
+Aknoul,Aknoul,,34.6500,-3.8667,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,408.7,4403,4403,3,Africa/Casablanca,FALSE,1504844274
+Talmest,Talmest,Zaouia Talmest|Telmest,31.8151,-9.3403,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,218.8,4328,4328,3,Africa/Casablanca,FALSE,1504290216
+Tazagoun,Tazagoun,Tazaguin|Tazagoune,35.1333,-3.5000,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,66.0,4323,4323,3,Africa/Casablanca,FALSE,1504949591
+Talkhoukht,Talkhoukht,,31.2327,-9.4544,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.5,4312,4312,3,Africa/Casablanca,FALSE,1504003627
+Dar Chaoui,Dar Chaoui,Dar Chaui|Der Xaui|Xauia|Dar ech Chaui|Dar Xaui,35.5417,-5.7389,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,163.7,4303,4303,4,Africa/Casablanca,FALSE,1504804217
+Douar Rislane El Fouqiya,Douar Rislane El Fouqiya,Rislane|Rislane Thata,34.7700,-2.4600,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,14.1,4265,4265,3,Africa/Casablanca,FALSE,1504354185
+d’Aït ’Ammar,d'Ait 'Ammar,Aït Ammar,33.0789,-6.6639,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,48.7,4260,4260,4,Africa/Casablanca,FALSE,1504808138
+Zawyat Sidi Ahmed ou Moussa,Zawyat Sidi Ahmed ou Moussa,Zaouia Sidi Ahmed Ou Moussa,29.5579,-9.4492,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,20.4,4256,4256,4,Africa/Casablanca,FALSE,1504465859
+Tifarouine,Tifarouine,,35.0825,-3.8791,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,37.0,4231,4231,3,Africa/Casablanca,FALSE,1504081913
+Imouzzer des Marmoucha,Imouzzer des Marmoucha,Immouzer Mermoucha|Immouzer des Marmoucha|Immouzer|Imouzzer Marmoucha,33.4667,-4.2833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,124.1,4213,4213,3,Africa/Casablanca,FALSE,1504000513
+Mahbés,Mahbes,Al Mahbas,27.4160,-9.0510,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.1,4208,4208,3,Africa/El_Aaiun,FALSE,1504003882
+Had Oulad Zbair,Had Oulad Zbair,,34.2894,-4.3195,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,793.2,4193,4193,3,Africa/Casablanca,FALSE,1504670156
+Had Beni Chiker,Had Beni Chiker,,35.2735,-3.0151,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,548.5,4188,4188,3,Africa/Casablanca,FALSE,1504304908
+Kermets,Kermets,Kermet centre|Kermet Ben Salem,34.1070,-5.4952,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,87.9,4180,4180,3,Africa/Casablanca,FALSE,1504457014
+Annsri,Annsri,Ansri,30.7352,-9.5333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,22.5,4128,4128,3,Africa/Casablanca,FALSE,1504133868
+Agoudim,Agoudim,Agouddim,32.3816,-5.1788,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,10.7,4113,4113,3,Africa/Casablanca,FALSE,1504675535
+Ighram,Ighram,Irherm|Igherm,30.0875,-8.4597,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,31.5,4108,4108,3,Africa/Casablanca,FALSE,1504307026
+Tidzi,Tidzi,Tidsi,30.9968,-7.4171,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,30.0,4057,4057,4,Africa/Casablanca,FALSE,1504483120
+Tidzi,Tidzi,,31.3000,-9.7167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.5,4057,4057,3,Africa/Casablanca,FALSE,1504352975
+Dar Hamra,Dar Hamra,,33.6957,-4.3716,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,13.7,4018,4018,3,Africa/Casablanca,FALSE,1504869104
+Sidi Abdellah Ou Said,Sidi Abdellah Ou Said,,31.5667,-9.5500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,77.6,4014,4014,4,Africa/Casablanca,FALSE,1504000291
+Talatane,Talatane,,30.8511,-8.9328,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,21.5,4004,4004,3,Africa/Casablanca,FALSE,1504824180
+Fask,Fask,,28.9912,-9.8327,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,3.2,3943,3943,4,Africa/Casablanca,FALSE,1504831270
+Id L’arba,Id L'arba,El Arba n’Aït Abdallah|Zoco El Arba de Ait Abdallah|Zoco el Arbaa|El Arba,29.3903,-9.9143,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,34.2,3921,3921,4,Africa/Casablanca,FALSE,1504417056
+Tahlouant,Tahlouant,Tahellouante|Tahellouant,31.2014,-9.3053,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,31.7,3919,3919,3,Africa/Casablanca,FALSE,1504510861
+Tigzmert,Tigzmert,Talednount,29.7131,-7.9711,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,4.5,3916,3916,4,Africa/Casablanca,FALSE,1504400842
+Meknassa Tahtania,Meknassa Tahtania,,34.2806,-4.0750,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,71.7,3890,3890,3,Africa/Casablanca,FALSE,1504962519
+Amalou,Amalou,,30.2167,-8.7500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,23.4,3873,3873,4,Africa/Casablanca,TRUE,1504862891
+Sour Al ’Az,Sour Al 'Az,,31.8300,-7.0300,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,89.9,3850,3850,3,Africa/Casablanca,FALSE,1504005966
+Al Borj,Al Borj,El Borj|El Bordj,33.0150,-5.6309,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,28.8,3812,3812,3,Africa/Casablanca,FALSE,1504990029
+Douar Laaouina,Douar Laaouina,Laâouinate|El Aouina|Douar el Aouina,31.5167,-7.8167,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,293.1,3790,3790,3,Africa/Casablanca,FALSE,1504381890
+Jbel Lahbib,Jbel Lahbib,,35.4591,-5.7792,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,136.8,3780,3780,4,Africa/Casablanca,FALSE,1504863100
+Serhine,Serhine,Serghina,34.8000,-4.8167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,99.5,3746,3746,3,Africa/Casablanca,FALSE,1504288872
+Tachraft,Tachraft,Tacheraft,32.8331,-6.4731,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,50.9,3636,3636,4,Africa/Casablanca,FALSE,1504838917
+Tagant,Tagant,Tassakkast Tagant|Tagannt,29.1353,-9.7619,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,18.9,3630,3630,4,Africa/Casablanca,FALSE,1504347833
+Dar Al Mouloud,Dar Al Mouloud,,29.7103,-9.2079,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,32.3,3619,3619,4,Africa/Casablanca,FALSE,1504266258
+Sebt Jahjouh,Sebt Jahjouh,,33.7222,-5.6642,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,28.9,3585,3585,4,Africa/Casablanca,FALSE,1504466559
+Anergui,Anergui,Aït Ouanergui,32.0661,-5.9369,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,16.9,3570,3570,3,Africa/Casablanca,FALSE,1504444149
+Asrir,Asrir,Asserir,28.9260,-10.0000,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,3.8,3566,3566,4,Africa/Casablanca,FALSE,1504395273
+Tifirt -n- Aït Hamza,Tifirt -n- Ait Hamza,Aït Hamza|Tiffert|Tiffert n’Aït Hamza,32.3000,-5.9667,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,18.0,3499,3499,3,Africa/Casablanca,FALSE,1504280196
+Aïn Lorma,Ain Lorma,Aïn el Orma|Aït Orma,33.8940,-5.7480,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,50.3,3495,3495,3,Africa/Casablanca,FALSE,1504257909
+Oum el Gourdane,Oum el Gourdane,Oum el Guerdane,29.6500,-7.9500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1.4,3370,3370,4,Africa/Casablanca,FALSE,1504073604
+Lamrija,Lamrija,Merija|Mrija,34.0200,-2.3800,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,2.7,3359,3359,3,Africa/Casablanca,FALSE,1504012148
+Lalla Takerkoust,Lalla Takerkoust,Zaouia Lalla Tekerkoust,31.3669,-8.1331,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,595.3,3348,3348,3,Africa/Casablanca,FALSE,1504317669
+Ayt Mazigh,Ayt Mazigh,,32.0747,-6.3517,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,45.8,3330,3330,3,Africa/Casablanca,FALSE,1504524889
+Adarhas,Adarhas,Aderras|Adaghas|Adarras,31.2333,-9.0500,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,74.6,3321,3321,4,Africa/Casablanca,FALSE,1504282928
+El Ateuf,El Ateuf,,33.7079,-2.8213,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,3.6,3215,3215,3,Africa/Casablanca,FALSE,1504956658
+Talzemt,Talzemt,Talzent,33.5833,-4.1833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,12.2,3160,3160,3,Africa/Casablanca,FALSE,1504987240
+Touissite,Touissite,Touissit,34.4667,-1.7667,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,143.4,3137,3137,3,Africa/Casablanca,FALSE,1504703758
+El Akarta,El Akarta,Lakarta|Douar el Akarta,32.6721,-9.0975,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,786.9,3116,3116,3,Africa/Casablanca,FALSE,1504508318
+Mibladane,Mibladane,Miblanden|Mibladene|Mibladen|Mibladan,32.7667,-4.6333,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,9.1,3084,3084,3,Africa/Casablanca,FALSE,1504019861
+Oum Dreyga,Oum Dreyga,,24.1015,-13.2757,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0.0,3005,3005,4,Africa/El_Aaiun,FALSE,1504999995
+Adaï,Adai,Souk Tnine d’Adai|Idaïssa Ametedi|Aday|Addaye n’Ait Herbil,29.2041,-9.3037,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,10.1,3005,3005,4,Africa/Casablanca,FALSE,1504067516
+Tifariti,Tifariti,Tifarita|Tfariti,26.1580,-10.5670,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,primary,0.0,3000,3000,1,Africa/El_Aaiun,FALSE,1504999990
+Sidi Hassine,Sidi Hassine,,33.0541,-5.9984,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,18.6,2986,2986,3,Africa/Casablanca,FALSE,1504581786
+Jebha,Jebha,Jebba|El Jabha|Kābāz|Puerto Capaz|Yebba|Yebha|Puerto Capax,35.2050,-4.6661,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,601.1,2984,2984,3,Africa/Casablanca,FALSE,1504375918
+Afella Irhir,Afella Irhir,Affella Ighir|Afela Yeghir,29.5000,-8.8333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,5.0,2973,2973,3,Africa/Casablanca,FALSE,1504520041
+Ait Daoud,Ait Daoud,Aït Daoud|Aït Dawd,30.6528,-9.8658,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,61.8,2957,2957,3,Africa/Casablanca,TRUE,1504686483
+Tinadine,Tinadine,,30.1100,-8.6486,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,15.2,2932,2932,3,Africa/Casablanca,FALSE,1504537372
+Afso,Afso,,34.8393,-3.1729,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,10.6,2932,2932,3,Africa/Casablanca,FALSE,1504526624
+Tiout,Tiout,Agadir Tiout|Tioute,29.9500,-9.3500,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,22.4,2920,2920,3,Africa/Casablanca,FALSE,1504857344
+Oulad Sidi ’Abdi,Oulad Sidi 'Abdi,Oulad Sidi Addi|Douar Oulad Sidi Addi,31.5000,-8.1000,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,1218.2,2896,2896,3,Africa/Casablanca,FALSE,1504318967
+Tiyiout,Tiyiout,Tiout,29.9393,-9.3506,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,50.6,2817,2817,4,Africa/Casablanca,FALSE,1504707283
+Sidi Amar,Sidi Amar,Sidi Ammar|Dechra Sidi Amar|Aït Ben Amar,32.9508,-5.8341,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,20.5,2762,2762,4,Africa/Casablanca,FALSE,1504890233
+Tanalt,Tanalt,,29.7833,-9.1667,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,21.0,2744,2744,3,Africa/Casablanca,FALSE,1504570987
+Tafoughalt,Tafoughalt,Taforalt|Taforhalt|Camp d’Aïn Tafouralt|Aïn Taforalt,34.8100,-2.4000,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,23.0,2735,2735,3,Africa/Casablanca,FALSE,1504120270
+Souq Al Tnine Aday,Souq Al Tnine Aday,,29.7482,-9.2372,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,31.7,2734,2734,4,Africa/Casablanca,FALSE,1504873313
+Jbarna,Jbarna,,34.5000,-3.9167,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,11.9,2730,2730,3,Africa/Casablanca,FALSE,1504003106
+Ain Erreggada,Ain Erreggada,Aïn Regada|Aïn Er Reggada,34.9289,-2.2381,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,978.5,2694,2694,3,Africa/Casablanca,FALSE,1504479544
+Gafayt,Gafayt,Guefaït,34.2339,-2.2822,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,7.7,2656,2656,3,Africa/Casablanca,FALSE,1504106340
+Al Manzla,Al Manzla,El Manzla|Mensla,35.5509,-5.8442,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,37.6,2650,2650,4,Africa/Casablanca,FALSE,1504526458
+Douar Sidi Boubker,Douar Sidi Boubker,Sidi Boubker|Sidi Boubeker|Douar Sidi Boukber,31.8167,-7.0667,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,89.9,2638,2638,3,Africa/Casablanca,FALSE,1504977626
+Tazzarine,Tazzarine,,30.7722,-5.5458,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,12.0,2623,2623,3,Africa/Casablanca,FALSE,1504777093
+Tazarine,Tazarine,Tazzarine|Tazarine-des-Zerarda|El Kelaa n’Tazarine,33.8721,-4.1859,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,16.3,2623,2623,4,Africa/Casablanca,FALSE,1504921138
+Timtig,Timtig,,30.2800,-5.7300,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,31.7,2560,2560,4,Africa/Casablanca,FALSE,1504722100
+Bu Craa,Bu Craa,Bou Kra,26.3228,-12.8497,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0.1,2519,2519,4,Africa/El_Aaiun,FALSE,1504999976
+Achbarou,Achbarou,Irhnit|Ksar Achbarou,31.1500,-5.1000,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,19.0,2500,2500,4,Africa/Casablanca,FALSE,1504504551
+Es Sebt Aït Daoud,Es Sebt Ait Daoud,Sebt Ait Daoud,31.0805,-9.3513,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,196.2,2497,2497,4,Africa/Casablanca,FALSE,1504351906
+Douar Azzaba,Douar Azzaba,Azzaba,34.6167,-5.2167,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,327.7,2493,2493,3,Africa/Casablanca,FALSE,1504967411
+Almis Marmoucha,Almis Marmoucha,Mermoucha-Centre|Almis de Marmucha|Almis des Marmoucha,33.3167,-4.1833,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,5.8,2461,2461,3,Africa/Casablanca,FALSE,1504456913
+Abeïnou,Abeinou,Abeine|Abeïno|A’baynou,29.0983,-10.0000,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,7.3,2422,2422,4,Africa/Casablanca,FALSE,1504897573
+Aït Oua Belli,Ait Oua Belli,,29.2275,-8.5386,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1.7,2401,2401,4,Africa/Casablanca,FALSE,1504672180
+Oulad Saïd,Oulad Said,Oulad Saïd Houman|Ouled Saïd,32.9676,-7.8133,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,155.9,2396,2396,3,Africa/Casablanca,FALSE,1504282794
+Tarcwat,Tarcwat,Tarsouat,29.6000,-9.0333,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,9.8,2375,2375,3,Africa/Casablanca,FALSE,1504277709
+Timsiyane,Timsiyane,Tinsiane,30.1588,-8.5527,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,15.2,2338,2338,3,Africa/Casablanca,FALSE,1504300015
+Tabia,Tabia,,30.0350,-8.8761,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,7.9,2329,2329,4,Africa/Casablanca,TRUE,1504764802
+Ain Dourij,Ain Dourij,Aïn Dourij|Aïn Dorij,34.6167,-5.2833,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,165.9,2321,2321,4,Africa/Casablanca,FALSE,1504719378
+El Adrej,El Adrej,El Aderj,33.6232,-4.4418,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,11.65,2236,2236,4,Africa/Casablanca,FALSE,1504309187
+Tighza,Tighza,,33.1875,-5.6239,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,71.4,2217,2217,4,Africa/Casablanca,FALSE,1504002863
+Korouna,Korouna,,35.1175,-3.6433,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,441.7,2188,2188,3,Africa/Casablanca,FALSE,1504420959
+Walqadi,Walqadi,Oulkadi|Walgadi|Dar Ou el Kadi,30.2464,-8.4794,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,17.9,2146,2146,3,Africa/Casablanca,FALSE,1504129697
+Toumliyliyne,Toumliyliyne,,29.9531,-8.7428,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,13.7,2131,2131,3,Africa/Casablanca,FALSE,1504256103
+Touzounine,Touzounine,Touzounin|Tizounin,29.2428,-8.3286,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,1.2,2119,2119,4,Africa/Casablanca,FALSE,1504267426
+Aït ’Abdallah,Ait 'Abdallah,Ait Abdellah|Aït Abdallah|Centre Aït Abdellah|Ait Abdallan|Assaka,29.8134,-8.7645,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,8.2,2086,2086,3,Africa/Casablanca,FALSE,1504382749
+Oued el Himer,Oued el Himer,El-Heimer|Oued el Haïmer|Oued el Heïmer|Ued el Heimer,34.4550,-1.9022,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,102.1,1997,1997,4,Africa/Casablanca,FALSE,1504189744
+Tamassint,Tamassint,Tamasint|Tamâssînt es Soufla|Tamasin,35.0739,-3.9600,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,340.6,1788,1788,3,Africa/Casablanca,FALSE,1504203124
+Assaksi,Assaksi,Isseksi,32.2333,-6.2833,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,28.4,1674,1674,3,Africa/Casablanca,FALSE,1504837148
+Aït Wa’rda,Ait Wa'rda,Aït Uarda|Aït Ouarda|Ayt Warda,32.1314,-6.5283,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,27.8,1644,1644,3,Africa/Casablanca,FALSE,1504852674
+Toufla’zt,Toufla'zt,Toufla azet,30.0680,-8.8247,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,19.8,1614,1614,3,Africa/Casablanca,FALSE,1504477305
+Taourirt,Taourirt,,29.6718,-8.8633,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,5.5,1554,1554,3,Africa/Casablanca,FALSE,1504325381
+Aïn Chaïr,Ain Chair,,32.2140,-2.5198,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,10.2,1554,1554,4,Africa/Casablanca,FALSE,1504581687
+Oulad Bourima,Oulad Bourima,Oulad Bou Rima|Oulad Bou Rim,34.3538,-3.7492,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,15.6,1486,1486,3,Africa/Casablanca,FALSE,1504002976
+Tlet Ighoud,Tlet Ighoud,Tleta-Ighoud|Tleta d’Irhoud|Tleta-Ighoun|Tleta Irhoud|Et Tleta,31.8586,-8.8842,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,467.1,1475,1475,3,Africa/Casablanca,FALSE,1504614371
+Amtoudi,Amtoudi,Id Aïssa,29.2428,-9.1867,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,4.5,1472,1472,4,Africa/Casablanca,FALSE,1504383374
+Aferkert,Aferkert,Aferket,28.6700,-10.3041,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,3.6,1460,1460,4,Africa/Casablanca,FALSE,1504223030
+Bsara,Bsara,,34.7064,-2.2264,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,11.7,1428,1428,4,Africa/Casablanca,FALSE,1504801899
+Takoucht,Takoucht,,29.9581,-9.1119,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,19.0,1368,1368,3,Africa/Casablanca,FALSE,1504613490
+Messeïed,Messeied,Lemseied|M’sied|El Mesied|Meseied|Msied|Messeïd,28.0167,-10.8167,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.3,1275,1275,3,Africa/Casablanca,FALSE,1504846494
+Uad Damran,Uad Damran,Dora|Daora,27.4181,-12.9842,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0.6,1108,1108,3,Africa/El_Aaiun,FALSE,1504003880
+Naima,Naima,Naïma,34.5999,-2.2334,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,220.9,1088,1088,3,Africa/Casablanca,FALSE,1504161675
+Tilemsoun,Tilemsoun,Tilemsen|Tilemson|Tiloumzoune|Tilimenzon|Tilamzoune|Tilemsoon|Tilouzoune,28.2523,-11.0496,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.7,1015,1015,3,Africa/Casablanca,FALSE,1504308921
+El Aouina Souatar,El Aouina Souatar,Ksar el Aouina Souatar|Aïn Chouatèr,31.8503,-2.9650,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,1.9,1006,1006,4,Africa/Casablanca,FALSE,1504473980
+Had Abdallah Rhiat,Had Abdallah Rhiat,Had-Abdallah-Riate|El Had n’Intaoun|Had-Abdallah-Rhiate|Douar el Had|El Had,31.5220,-7.8520,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,262.8,986,986,3,Africa/Casablanca,FALSE,1504615622
+Tiglit,Tiglit,Tiglite,28.5075,-10.2922,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,2.2,930,930,4,Africa/Casablanca,FALSE,1504953852
+Ej Jem’a Ghemat,Ej Jem'a Ghemat,El Jemâ|Ej Jema|Rhmate|El Jemaa Rhemat|El Djemaa|El Djema|Jemaa Rhemat|El Jem’a Ghemat,31.4278,-7.7922,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,560.6,867,867,3,Africa/Casablanca,FALSE,1504720360
+Labiar,Labiar,El-Abiar,28.7744,-10.4142,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,1.9,546,546,4,Africa/Casablanca,FALSE,1504925264
+Mijek,Mijek,,23.4461,-12.8267,Morocco,MA,MAR,Dakhla-Oued Ed-Dahab,Dakhla-Oued Ed-Dahab,MA-12,,,0,519,519,4,Africa/El_Aaiun,FALSE,1504999982
+Dchira,Dchira,Edchera|Ad Dchira,27.0284,-13.0523,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0.1,509,509,4,Africa/El_Aaiun,FALSE,1504999981
+Abattekh,Abattekh,,27.8970,-11.1544,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,0.8,264,264,3,Africa/Casablanca,FALSE,1504804464
+Lemsid,Lemsid,,26.5482,-13.8482,Morocco,MA,MAR,Laâyoune-Sakia El Hamra,Laayoune-Sakia El Hamra,MA-11,,,0,100,100,5,Africa/El_Aaiun,FALSE,1504999975
+Around,Around,Armd|Arround|Aroumd|Cirque Arround|Arremd,31.1260,-7.9170,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,89.5,1,1,4,Africa/Casablanca,FALSE,1504822297
+Oulad Sa’id Moumene,Oulad Sa'id Moumene,,33.0211,-7.8371,Morocco,MA,MAR,Casablanca-Settat,Casablanca-Settat,MA-06,,,37.3,,,4,Africa/Casablanca,FALSE,1504001078
+Douar Ali Moussa,Douar Ali Moussa,,34.6345,-2.4056,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,14.1,,,4,Africa/Casablanca,FALSE,1504097165
+Tinegbite,Tinegbite,,31.9110,-4.4346,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,827.3,,,3,Africa/Casablanca,FALSE,1504749987
+Taachouch,Taachouch,,35.0170,-4.7832,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,175.6,,,4,Africa/Casablanca,FALSE,1504636351
+Aït Hsine Ichou,Ait Hsine Ichou,,33.9902,-6.4573,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,26.3,,,4,Africa/Casablanca,FALSE,1504563279
+Agadir n’ Aït Sa,Agadir n' Ait Sa,,30.5920,-9.7523,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,61.5,,,4,Africa/Casablanca,FALSE,1504010520
+Douar Oulad Brahim Ben Hammou,Douar Oulad Brahim Ben Hammou,Oulad Hammou,31.8488,-7.7213,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,31.1,,,4,Africa/Casablanca,FALSE,1504086480
+Ikherbachyene,Ikherbachyene,Ijarbachien|Iharbachene|Iharbachen|Iharbaxen,35.1170,-2.9846,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,168.7,,,4,Africa/Casablanca,FALSE,1504397477
+Aït el Bachir,Ait el Bachir,,31.4766,-9.4320,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,58.8,,,4,Africa/Casablanca,FALSE,1504889886
+Dar Sidi Chaïb el Chej,Dar Sidi Chaib el Chej,,34.8488,-3.0892,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,10.6,,,4,Africa/Casablanca,FALSE,1504631232
+Tine Ait Brahim,Tine Ait Brahim,,30.1621,-9.4356,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,204.6,,,3,Africa/Casablanca,FALSE,1504037743
+Douar Oued Erroummane,Douar Oued Erroummane,,34.1221,-5.7122,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,43.5,,,4,Africa/Casablanca,FALSE,1504515607
+Iraqene,Iraqene,,31.5350,-7.6415,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,267.5,,,3,Africa/Casablanca,FALSE,1504499260
+Oulad ’Amer,Oulad 'Amer,,32.7362,-6.8271,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,43.1,,,4,Africa/Casablanca,FALSE,1504506228
+Sidi Mohammed el Atchane,Sidi Mohammed el Atchane,Sidi Mohammed Latchane,32.3856,-6.3093,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,134.6,,,4,Africa/Casablanca,FALSE,1504684681
+Tazoumt,Tazoumt,Tasount|Taznout,29.2820,-9.3064,Morocco,MA,MAR,Guelmim-Oued Noun,Guelmim-Oued Noun,MA-10,,,10.1,,,4,Africa/Casablanca,FALSE,1504880046
+Zaouia el Cadi,Zaouia el Cadi,Zaouit el kadi,31.2500,-4.2600,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,51.9,,,4,Africa/Casablanca,FALSE,1504457143
+Zaouia el Cadi,Zaouia el Cadi,Zaouia el Kadi,30.4100,-5.8600,Morocco,MA,MAR,Drâa-Tafilalet,Draa-Tafilalet,MA-08,,,33.9,,,4,Africa/Casablanca,TRUE,1504800698
+Douar Abaydallat,Douar Abaydallat,Douar Djilali ben Abbou|Douar Jilali Ben Abbou,32.1894,-8.4332,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,53.7,,,4,Africa/Casablanca,FALSE,1504242729
+Aït Meskouk,Ait Meskouk,,30.0630,-9.0316,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,18.1,,,4,Africa/Casablanca,FALSE,1504947688
+Douar Lefraraa,Douar Lefraraa,Lfararaâ|El Feraraa,34.3198,-5.2862,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,102.9,,,4,Africa/Casablanca,FALSE,1504707028
+Amchiyh,Amchiyh,,31.8480,-6.5459,Morocco,MA,MAR,Béni Mellal-Khénifra,Beni Mellal-Khenifra,MA-05,,,44.2,,,4,Africa/Casablanca,FALSE,1504295168
+Oulad An Nafa’,Oulad An Nafa',,32.0916,-8.0350,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,24.9,,,4,Africa/Casablanca,FALSE,1504771620
+Izeroualene,Izeroualene,,31.2540,-9.6507,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.5,,,4,Africa/Casablanca,FALSE,1504492578
+Douar Essaqifa,Douar Essaqifa,,34.9554,-5.6312,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,78.7,,,4,Africa/Casablanca,FALSE,1504239785
+Ihemmourene,Ihemmourene,,35.0759,-2.9658,Morocco,MA,MAR,Oriental,Oriental,MA-02,,,280.7,,,3,Africa/Casablanca,FALSE,1504595201
+Ben Aziz,Ben Aziz,Douar Beni Azziz|Beni Aziz|Beni Azziz|Ben Ha Azziz,34.7403,-5.9301,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,92.4,,,4,Africa/Casablanca,FALSE,1504983426
+Douar Bab Masdane,Douar Bab Masdane,,34.5098,-5.2750,Morocco,MA,MAR,Fès-Meknès,Fes-Meknes,MA-03,,,139.5,,,4,Africa/Casablanca,FALSE,1504914599
+Douar Bouchrit,Douar Bouchrit,Bouchrite|Bouchrit|Douar Cheikh el Ouali,32.2844,-8.3376,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,58.8,,,4,Africa/Casablanca,FALSE,1504688804
+Aït Saddane,Ait Saddane,Aït Saddèn|Aït Saden|Aït Saddene,30.6038,-7.6452,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,29.0,,,4,Africa/Casablanca,FALSE,1504655620
+Igdad,Igdad,,30.8885,-9.7273,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,48.0,,,4,Africa/Casablanca,FALSE,1504813260
+Derb Sidi Said,Derb Sidi Said,,30.2198,-9.3688,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,3922.2,,,2,Africa/Casablanca,FALSE,1504457256
+Douar Oulad Mehdi,Douar Oulad Mehdi,,31.8539,-8.6242,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,38.9,,,4,Africa/Casablanca,FALSE,1504765525
+Dbabza,Dbabza,Douar Dbabza|Debabza,32.6253,-9.0821,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,95.1,,,4,Africa/Casablanca,FALSE,1504000430
+Douar Takourt,Douar Takourt,Takourt,31.4592,-8.0202,Morocco,MA,MAR,Marrakech-Safi,Marrakech-Safi,MA-07,,,130.1,,,4,Africa/Casablanca,FALSE,1504163949
+Agadir Ikhsayn,Agadir Ikhsayn,,29.8675,-9.2993,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,49.3,,,4,Africa/Casablanca,FALSE,1504122123
+Asrouks,Asrouks,Asserouks,30.4847,-8.1561,Morocco,MA,MAR,Souss-Massa,Souss-Massa,MA-09,,,26.3,,,4,Africa/Casablanca,FALSE,1504549774
+Douar el Hajj Ahmed,Douar el Hajj Ahmed,Douar el Haj Ahmed,34.8000,-4.2000,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,45.1,,,4,Africa/Casablanca,FALSE,1504642973
+Hofrat Haha,Hofrat Haha,,34.6148,-6.1587,Morocco,MA,MAR,Rabat-Salé-Kénitra,Rabat-Sale-Kenitra,MA-04,,,119.9,,,4,Africa/Casablanca,FALSE,1504702308
+Douar Dar El Ghaba,Douar Dar El Ghaba,Dar el Ghaba,35.5335,-5.5235,Morocco,MA,MAR,Tanger-Tétouan-Al Hoceïma,Tanger-Tetouan-Al Hoceima,MA-01,,,84.8,,,4,Africa/Casablanca,FALSE,1504357721

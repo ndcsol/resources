@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Santa Cecilia,Santa Cecilia,,16.2898,-95.5250,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,1.2,,,5,America/Mexico_City,TRUE,1484838164
+Santa Cecilia,Santa Cecilia,,17.7322,-97.8461,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,1.1,,,5,America/Mexico_City,TRUE,1484494268
+El Pozo Viejo,El Pozo Viejo,,23.6697,-101.0291,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,10.5,,,4,America/Mexico_City,FALSE,1484634314
+San Lucas Tlacochcalco,San Lucas Tlacochcalco,Tlacochcalco,19.3426,-98.1464,Mexico,MX,MEX,Tlaxcala,Tlaxcala,MX-TLA,state,,999.8,,,3,America/Mexico_City,FALSE,1484321977
+Palo Mocho,Palo Mocho,,22.0384,-103.2265,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,10.7,,,4,America/Mexico_City,FALSE,1484731244
+Rancho Casa Blanca Analco,Rancho Casa Blanca Analco,Analco,18.9719,-97.7439,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,70.8,,,4,America/Mexico_City,FALSE,1484011676
+Paso del Tigre,Paso del Tigre,Paso Tigre,21.7194,-97.9670,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.2,,,5,America/Mexico_City,FALSE,1484332902
+Los Salgado,Los Salgado,,18.6411,-103.2507,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,1.6,,,5,America/Mexico_City,FALSE,1484127457
+Carbonera de Guadelupe,Carbonera de Guadelupe,Carbonero|Las Carboneras|Carbonera de Guadalupe|Carbonera,21.1526,-100.4718,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,75.9,,,4,America/Mexico_City,FALSE,1484700319
+Alianza de Caballeros,Alianza de Caballeros,,23.8481,-99.1687,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,75.4,,,4,America/Monterrey,FALSE,1484620442
+Arroyo San Jerónimo,Arroyo San Jeronimo,,16.8721,-98.3726,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,13.6,,,4,America/Mexico_City,FALSE,1484137405
+Salatita,Salatita,,22.0279,-104.0163,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,7.4,,,5,America/Mexico_City,FALSE,1484408875
+La Amargura,La Amargura,,23.9760,-99.7767,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,112.1,,,4,America/Monterrey,FALSE,1484662763
+Isla María,Isla Maria,,17.2614,-93.8325,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,9.5,,,5,America/Mexico_City,FALSE,1484042038
+Fracción Cuatro,Fraccion Cuatro,Francisco Cuatro,30.9745,-105.5341,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Ciudad_Juarez,FALSE,1484333317
+Los Brasiles,Los Brasiles,Brasiles,26.8223,-108.8139,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,5.6,,,5,America/Hermosillo,FALSE,1484716806
+Presa del Sitio,Presa del Sitio,,20.7722,-101.9196,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,48.0,,,4,America/Mexico_City,FALSE,1484441761
+Corral de Piedra,Corral de Piedra,,18.2458,-96.3047,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,64.2,,,4,America/Mexico_City,FALSE,1484952652
+Corral de Piedra,Corral de Piedra,,16.8333,-97.9167,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,34.1,,,4,America/Mexico_City,TRUE,1484165397
+Corral de Piedra,Corral de Piedra,,17.0435,-97.1013,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,29.6,,,4,America/Mexico_City,TRUE,1484341463
+Corral de Piedra,Corral de Piedra,,17.7518,-97.7364,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,23.7,,,4,America/Mexico_City,TRUE,1484652848
+Corral de Piedra,Corral de Piedra,,16.7811,-95.4083,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,20.7,,,4,America/Mexico_City,TRUE,1484642562
+Corral de Piedra,Corral de Piedra,,16.4990,-97.5678,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,13.5,,,4,America/Mexico_City,TRUE,1484010998
+Corral de Piedra,Corral de Piedra,,15.9347,-96.1069,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,7.4,,,5,America/Mexico_City,TRUE,1484388496
+Corral de Piedra,Corral de Piedra,,16.7595,-95.5947,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,5.7,,,5,America/Mexico_City,TRUE,1484958190
+Corral de Piedra,Corral de Piedra,,16.8871,-95.5955,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,2.0,,,5,America/Mexico_City,TRUE,1484169541
+Vacas Gordas,Vacas Gordas,,18.9658,-96.5481,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,31.3,,,4,America/Mexico_City,FALSE,1484055949
+Tinajas del Mauto,Tinajas del Mauto,,24.9830,-111.2129,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,2.9,,,5,America/Mazatlan,FALSE,1484986539
+El Carcay,El Carcay,,30.5583,-108.4136,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.9,,,5,America/Ciudad_Juarez,FALSE,1484316402
+Flores de Medina,Flores de Medina,,16.3018,-92.1890,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,52.9,,,4,America/Mexico_City,FALSE,1484019814
+Lomas de Santa Gertrudis,Lomas de Santa Gertrudis,,21.1654,-101.8700,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,21.1,,,4,America/Mexico_City,FALSE,1484716154
+Colima,Colima,,22.7250,-105.1167,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,4.1,,,5,America/Mazatlan,FALSE,1484844417
+Nahuapa,Nahuapa,Mahuapa,19.9208,-105.3188,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,7.0,,,5,America/Mexico_City,FALSE,1484626083
+La Agujita,La Agujita,,19.2245,-102.9488,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,0.6,,,5,America/Mexico_City,FALSE,1484658340
+El Socorro,El Socorro,,21.8825,-102.1724,Mexico,MX,MEX,Aguascalientes,Aguascalientes,MX-AGU,state,,49.2,,,4,America/Mexico_City,FALSE,1484212694
+Represo de los Ramos,Represo de los Ramos,Rancho El Represo|El Represo,29.6890,-111.2096,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.1,,,5,America/Hermosillo,FALSE,1484275347
+El Terrón,El Terron,,17.8907,-99.8621,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,21.1,,,4,America/Mexico_City,FALSE,1484027521
+Hermosillo,Hermosillo,,28.6404,-111.5270,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,5.7,,,5,America/Hermosillo,TRUE,1484613431
+Pozo Dulce,Pozo Dulce,,26.8451,-109.7535,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,83.3,,,4,America/Hermosillo,FALSE,1484317072
+Pozo Dulce,Pozo Dulce,,27.2258,-109.6362,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.8,,,5,America/Hermosillo,TRUE,1484364668
+Puente Canoa,Puente Canoa,,25.7787,-108.8543,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,39.7,,,4,America/Mazatlan,FALSE,1484919327
+Hamburgo,Hamburgo,,25.5958,-103.5019,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4394.0,,,2,America/Monterrey,FALSE,1484924868
+Hamburgo,Hamburgo,,24.8420,-104.9824,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,28.6,,,4,America/Monterrey,TRUE,1484518601
+Xotxotja las Canchas,Xotxotja las Canchas,,17.0061,-92.1161,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,86.5,,,4,America/Mexico_City,FALSE,1484244796
+Chopantla,Chopantla,,19.4840,-96.9751,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,180.3,,,4,America/Mexico_City,FALSE,1484364400
+Campi,Campi,,19.1333,-88.1417,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,5.3,,,5,America/Cancun,FALSE,1484214142
+El Jalocote,El Jalocote,Jalocote,19.8202,-104.4234,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,12.8,,,4,America/Mexico_City,FALSE,1484000128
+Chamacuero,Chamacuero,El Seis,28.2556,-100.8948,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,1.2,,,5,America/Matamoros,FALSE,1484014609
+Guarda San Antonio Buenavista,Guarda San Antonio Buenavista,Guarda de San Antonio,19.7056,-100.1572,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,198.5,,,4,America/Mexico_City,FALSE,1484477556
+Occidente,Occidente,Occidente Tercera Sección|Tercera Sección,18.2994,-93.2154,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,293.6,,,3,America/Mexico_City,FALSE,1484988959
+Mojarras de Arriba,Mojarras de Arriba,Mojarras,22.0449,-100.2748,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,8.6,,,5,America/Mexico_City,FALSE,1484315334
+Guimar,Guimar,,18.6078,-91.1830,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,0.2,,,5,America/Merida,FALSE,1484345599
+Puerto Viejo,Puerto Viejo,,21.8667,-100.3333,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,10.0,,,5,America/Mexico_City,FALSE,1484176820
+Joya Independiente,Joya Independiente,,20.7167,-98.0333,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,59.3,,,4,America/Mexico_City,FALSE,1484273079
+Lumbreras,Lumbreras,,23.9044,-104.2431,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,18.4,,,4,America/Monterrey,FALSE,1484192385
+Paso El Ganado,Paso El Ganado,,21.4322,-97.6722,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,28.8,,,4,America/Mexico_City,FALSE,1484120120
+Paso el Ganado,Paso el Ganado,,18.6720,-96.2264,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,9.0,,,5,America/Mexico_City,TRUE,1484272105
+El Aigame,El Aigame,Rancho El Aígame|Aígame|Algame,28.7295,-110.4337,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.2,,,4,America/Hermosillo,FALSE,1484874624
+Mesa el Tecolote,Mesa el Tecolote,,29.1421,-108.5010,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.8,,,5,America/Chihuahua,FALSE,1484452646
+Loma Alta,Loma Alta,,22.0785,-98.6462,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,18.8,,,4,America/Mexico_City,FALSE,1484447099
+Loma Alta,Loma Alta,Loma,22.6000,-99.6333,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,10.9,,,4,America/Mexico_City,TRUE,1484888270
+Loma Linda,Loma Linda,,20.4008,-100.0313,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,191.3,,,4,America/Mexico_City,FALSE,1484227329
+Loma Linda,Loma Linda,,20.0836,-100.0683,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,127.4,,,4,America/Mexico_City,TRUE,1484887965
+Las Pilas,Las Pilas,,21.0090,-98.3030,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,82.5,,,4,America/Mexico_City,FALSE,1484893921
+Las Pilas,Las Pilas,Yónthe,20.6763,-99.1315,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,39.9,,,4,America/Mexico_City,TRUE,1484767529
+Las Pilas,Las Pilas,,20.9721,-99.0269,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,31.9,,,4,America/Mexico_City,TRUE,1484176468
+Las Pilas,Las Pilas,Yónthe,20.7240,-99.0624,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,23.8,,,4,America/Mexico_City,TRUE,1484621885
+Los Tres Postes,Los Tres Postes,,31.1531,-116.1289,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,4.8,,,5,America/Tijuana,FALSE,1484097667
+San José Grande,San Jose Grande,,19.2291,-101.5648,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,116.4,,,4,America/Mexico_City,FALSE,1484840879
+San Joaquín,San Joaquin,,24.3628,-107.3512,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,72.8,,,4,America/Mazatlan,FALSE,1484794330
+San Joaquín,San Joaquin,,23.3577,-106.4638,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,19.4,,,4,America/Mazatlan,TRUE,1484520921
+Badesi,Badesi,,29.3727,-109.2560,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,FALSE,1484150817
+General Nicolás Bravo,General Nicolas Bravo,Nicolás Bravo,15.4878,-92.8482,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,54.0,,,4,America/Mexico_City,FALSE,1484669729
+Puerto,Puerto,,21.8167,-100.0000,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,37.3,,,4,America/Mexico_City,FALSE,1484347967
+Puerto,Puerto,,21.7167,-99.1667,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,23.9,,,4,America/Mexico_City,TRUE,1484857662
+Puerto,Puerto,,22.5500,-101.6667,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,5.2,,,5,America/Mexico_City,TRUE,1484142770
+Lavilla,Lavilla,,17.9699,-95.1964,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,2.9,,,5,America/Mexico_City,FALSE,1484017369
+La Pasión,La Pasion,,18.5398,-97.5479,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,21.0,,,4,America/Mexico_City,FALSE,1484018906
+Rancho de Mimí,Rancho de Mimi,,21.5133,-98.1677,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.6,,,5,America/Mexico_City,FALSE,1484225746
+Carrizalillo,Carrizalillo,,17.1215,-98.9345,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,63.9,,,4,America/Mexico_City,FALSE,1484484585
+Carrizalillo,Carrizalillo,,17.8508,-99.7126,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,27.0,,,4,America/Mexico_City,TRUE,1484200287
+La Higuera,La Higuera,,20.7903,-102.0766,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,73.9,,,4,America/Mexico_City,FALSE,1484019948
+La Higuera,La Higuera,,21.0171,-101.2882,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,48.9,,,4,America/Mexico_City,TRUE,1484698850
+Cajones,Cajones,,19.0539,-99.8783,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,78.8,,,4,America/Mexico_City,FALSE,1484654751
+Characo,Characo,,18.5415,-100.7014,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,15.0,,,4,America/Mexico_City,FALSE,1484216119
+Barrancos Blancos,Barrancos Blancos,,28.4098,-100.9796,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,11.8,,,4,America/Matamoros,FALSE,1484435405
+El Jaujal,El Jaujal,,26.6198,-99.2971,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,0.0,,,5,America/Matamoros,FALSE,1484454772
+El Palomo,El Palomo,,20.2469,-98.9410,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,175.8,,,4,America/Mexico_City,FALSE,1484085068
+La Noria,La Noria,La Noria y Su Anexo González Covarrubia,19.4193,-97.6995,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,140.2,,,4,America/Mexico_City,FALSE,1484561925
+La Noria,La Noria,,19.5054,-97.4947,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,34.1,,,4,America/Mexico_City,TRUE,1484977514
+La Noria,La Noria,Noria,19.4167,-97.6333,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,26.0,,,4,America/Mexico_City,TRUE,1484787924
+La Noria,La Noria,Noria,19.3000,-97.4000,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,16.0,,,4,America/Mexico_City,TRUE,1484692497
+La Noria,La Noria,,19.1545,-97.6524,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,7.6,,,5,America/Mexico_City,TRUE,1484370171
+La Yerba,La Yerba,,17.9167,-100.3527,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,9.3,,,5,America/Mexico_City,FALSE,1484274744
+El Manantial,El Manantial,,25.7699,-100.2125,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,15.3,,,4,America/Monterrey,FALSE,1484637037
+Paraje El Madroño,Paraje El Madrono,Rancho El Madroño,27.0787,-106.9333,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.8,,,5,America/Chihuahua,FALSE,1484197634
+Valle Escondido,Valle Escondido,,24.5193,-107.2558,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,22.8,,,4,America/Mazatlan,FALSE,1484479284
+Barranca de Xamapa,Barranca de Xamapa,,19.1492,-97.1482,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,156.6,,,4,America/Mexico_City,FALSE,1484667267
+Guacamayas,Guacamayas,,18.0111,-101.7562,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,5.8,,,5,America/Mexico_City,FALSE,1484444054
+Bayito Arriba,Bayito Arriba,,27.5667,-99.5167,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,4.2,,,5,America/Matamoros,FALSE,1484986356
+Estancia del Copal,Estancia del Copal,,20.7892,-101.2419,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,102.8,,,4,America/Mexico_City,FALSE,1484539409
+La Goleta de los Zuñiga,La Goleta de los Zuniga,,21.5144,-98.6247,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,37.7,,,4,America/Mexico_City,FALSE,1484076295
+El Puerto,El Puerto,,23.3805,-102.9642,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,50.4,,,4,America/Mexico_City,FALSE,1484459199
+El Puerto,El Puerto,,22.5443,-101.9464,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,7.4,,,5,America/Mexico_City,TRUE,1484808043
+El Rancho de Julio,El Rancho de Julio,,18.9828,-103.1782,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,2.1,,,5,America/Mexico_City,FALSE,1484973032
+Rehuíbrachi,Rehuibrachi,Rehuiborachi,27.4138,-107.0534,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,3.1,,,5,America/Chihuahua,FALSE,1484261464
+Gandhó,Gandho,,20.5453,-99.6874,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,113.7,,,4,America/Mexico_City,FALSE,1484302171
+El Turco,El Turco,Turco,20.1959,-105.3531,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,4.0,,,5,America/Mexico_City,FALSE,1484347283
+La Cayaca,La Cayaca,,17.7932,-101.1818,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,1.4,,,5,America/Mexico_City,FALSE,1484407990
+Las Vallas,Las Vallas,,24.9828,-98.1142,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,5.2,,,5,America/Monterrey,FALSE,1484225952
+Rincón Grande,Rincon Grande,,21.4409,-98.2970,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,190.7,,,4,America/Mexico_City,FALSE,1484619366
+Rincón Grande,Rincon Grande,,18.9453,-97.0981,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,130.7,,,4,America/Mexico_City,TRUE,1484319610
+Rincón Grande,Rincon Grande,,18.2443,-95.0523,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,69.4,,,4,America/Mexico_City,TRUE,1484004485
+La Sardina,La Sardina,,18.6581,-95.3777,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,19.6,,,4,America/Mexico_City,FALSE,1484305812
+Trojes,Trojes,Las Trojes,20.8402,-101.4422,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,233.6,,,3,America/Mexico_City,FALSE,1484093869
+La Ventana de Abajo,La Ventana de Abajo,,24.8134,-104.2470,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.1,,,5,America/Monterrey,FALSE,1484554197
+San Juanito,San Juanito,,19.9302,-100.4131,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,53.0,,,4,America/Mexico_City,FALSE,1484060347
+El Carmen Candelaria,El Carmen Candelaria,,16.3390,-92.2661,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,33.9,,,4,America/Mexico_City,FALSE,1484007165
+Cumbres de Buenavista,Cumbres de Buenavista,,26.9091,-107.1538,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,6.8,,,5,America/Chihuahua,FALSE,1484939474
+San Geronimito,San Geronimito,San Jeronimito,17.9171,-91.9324,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,46.2,,,4,America/Mexico_City,FALSE,1484190060
+Hacienda San Lorenzo,Hacienda San Lorenzo,Casa Madero|Casa Madera|Ex-hacienda San Lorenzo,25.5001,-102.1922,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,9.1,,,4,America/Monterrey,FALSE,1484794370
+Las Galeras,Las Galeras,,25.1791,-99.7750,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,18.7,,,4,America/Monterrey,FALSE,1484016818
+El Crucero,El Crucero,,15.7338,-96.3489,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,52.9,,,4,America/Mexico_City,FALSE,1484844178
+El Crucero,El Crucero,,17.8323,-95.9107,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,33.3,,,4,America/Mexico_City,TRUE,1484018560
+El Crucero,El Crucero,,15.7632,-96.2737,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,33.2,,,4,America/Mexico_City,TRUE,1484833484
+El Crucero,El Crucero,,16.3048,-94.4921,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,28.9,,,4,America/Mexico_City,TRUE,1484638186
+El Crucero,El Crucero,,16.2930,-95.1732,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,17.2,,,4,America/Mexico_City,TRUE,1484045072
+Rancho Alejo,Rancho Alejo,,25.8667,-111.6333,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.8,,,5,America/Mazatlan,FALSE,1484226657
+El Galancillo,El Galancillo,Galoncillo|Galancillo,21.2840,-100.8954,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,60.3,,,4,America/Mexico_City,FALSE,1484267938
+El Techalote,El Techalote,,19.9455,-103.7073,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,63.9,,,4,America/Mexico_City,FALSE,1484080805
+Montosa,Montosa,,29.5750,-109.9654,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,2.4,,,5,America/Hermosillo,FALSE,1484739227
+Santa Elvira,Santa Elvira,,19.3929,-89.6267,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,0.5,,,5,America/Merida,FALSE,1484892765
+Palpa,Palpa,,20.0167,-98.3667,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,250.4,,,3,America/Mexico_City,FALSE,1484449684
+El Plátano,El Platano,,19.0582,-100.6768,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,31.1,,,4,America/Mexico_City,FALSE,1484859501
+El Plátano,El Platano,,19.1010,-100.4295,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,13.6,,,4,America/Mexico_City,TRUE,1484246667
+El Plátano,El Platano,,18.8090,-101.4112,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,13.3,,,4,America/Mexico_City,TRUE,1484641745
+El Plátano,El Platano,,18.7867,-100.8424,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,8.6,,,5,America/Mexico_City,TRUE,1484008564
+El Plátano,El Platano,,19.0746,-101.0235,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,6.4,,,5,America/Mexico_City,TRUE,1484185824
+El Plátano,El Platano,,18.9945,-100.9024,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,5.8,,,5,America/Mexico_City,TRUE,1484225703
+El Plátano,El Platano,,18.7333,-101.0583,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,0.9,,,5,America/Mexico_City,TRUE,1484672793
+Las Cuevas,Las Cuevas,,23.5333,-103.3167,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,34.5,,,4,America/Mexico_City,FALSE,1484014933
+Las Cuevas,Las Cuevas,,22.7500,-102.9667,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,18.3,,,4,America/Mexico_City,TRUE,1484607240
+Las Cuevas,Las Cuevas,,22.5479,-101.4323,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,18.3,,,4,America/Mexico_City,TRUE,1484242042
+Las Cuevas,Las Cuevas,,22.3255,-103.9127,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,1.5,,,5,America/Mexico_City,TRUE,1484012867
+Las Cuevas,Las Cuevas,,23.3054,-103.7001,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,0.9,,,5,America/Mexico_City,TRUE,1484694982
+La Jarilla,La Jarilla,,22.8589,-105.9850,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,42.7,,,4,America/Mazatlan,FALSE,1484020970
+Zapopa,Zapopa,Sapopa,25.8525,-107.0942,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,3.8,,,5,America/Chihuahua,FALSE,1484723078
+El Gran Pedregal,El Gran Pedregal,,25.7895,-100.0401,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,433.7,,,3,America/Monterrey,FALSE,1484362244
+El Trébol,El Trebol,,24.6504,-107.7968,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,35.1,,,4,America/Mazatlan,FALSE,1484035038
+El Trébol,El Trebol,,24.8118,-107.6947,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,34.1,,,4,America/Mazatlan,TRUE,1484241233
+El Trébol,El Trebol,,24.9740,-107.3617,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,28.3,,,4,America/Mazatlan,TRUE,1484791865
+Estación Bernal,Estacion Bernal,,20.5078,-99.8655,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,61.9,,,4,America/Mexico_City,FALSE,1484535202
+Los Bajíos,Los Bajios,,25.5338,-106.9453,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.9,,,5,America/Monterrey,FALSE,1484920515
+Los Bajios,Los Bajios,,25.8820,-106.0031,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.3,,,5,America/Monterrey,TRUE,1484353373
+Los Bajios,Los Bajios,Bajíos del Tarahumar|Bajíos,25.6661,-106.3274,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.7,,,5,America/Monterrey,TRUE,1484121168
+El Saltito,El Saltito,,19.7714,-98.1383,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,74.9,,,4,America/Mexico_City,FALSE,1484486699
+Mal Paso,Mal Paso,,20.7875,-102.1819,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,11.9,,,4,America/Mexico_City,FALSE,1484021380
+Mal Paso,Mal Paso,,20.4308,-105.5706,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,6.0,,,5,America/Mexico_City,TRUE,1484641062
+Los Arguelles,Los Arguelles,,31.5413,-106.7084,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Ciudad_Juarez,FALSE,1484208848
+Coruña,Coruna,,25.8805,-103.2976,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,36.0,,,4,America/Monterrey,FALSE,1484783794
+Punta Venado,Punta Venado,Rancho Punta Venado,20.5527,-87.1545,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,1.3,,,5,America/Cancun,FALSE,1484221792
+Milpillas,Milpillas,,22.2322,-100.9588,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,104.9,,,4,America/Mexico_City,FALSE,1484537694
+Milpillas,Milpillas,,22.3167,-101.1833,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,85.5,,,4,America/Mexico_City,TRUE,1484680485
+Milpillas,Milpillas,,22.2456,-101.1416,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,40.6,,,4,America/Mexico_City,TRUE,1484467399
+Milpillas,Milpillas,,22.6970,-100.8952,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,29.7,,,4,America/Mexico_City,TRUE,1484261216
+Nuevo Chupícuaro,Nuevo Chupicuaro,Chupícuaro,20.0222,-100.5914,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,95.3,,,4,America/Mexico_City,FALSE,1484905118
+La Quebrada,La Quebrada,,25.9126,-107.2532,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,12.0,,,4,America/Chihuahua,FALSE,1484681984
+La Quebrada,La Quebrada,,26.1789,-107.3490,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,7.0,,,5,America/Chihuahua,TRUE,1484774222
+La Quebrada,La Quebrada,,26.3996,-107.3787,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.0,,,5,America/Chihuahua,TRUE,1484089617
+La Quebrada,La Quebrada,,26.4191,-107.4381,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,3.2,,,5,America/Chihuahua,TRUE,1484055119
+La Quebrada,La Quebrada,,26.3110,-106.6300,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.5,,,5,America/Chihuahua,TRUE,1484031128
+La Quebrada,La Quebrada,,27.2927,-108.1757,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.3,,,5,America/Chihuahua,TRUE,1484902118
+La Quebrada,La Quebrada,Rancho La Quebrada,27.6939,-104.4921,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Chihuahua,TRUE,1484304242
+Las Sevillas,Las Sevillas,,23.3986,-100.9749,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,1.7,,,5,America/Mexico_City,FALSE,1484427846
+Fracción Santa Elena,Fraccion Santa Elena,,15.0926,-92.2612,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,131.0,,,4,America/Mexico_City,FALSE,1484021101
+El Tepozán,El Tepozan,,22.3341,-101.8693,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,104.7,,,4,America/Mexico_City,FALSE,1484327443
+El Tepozán,El Tepozan,,22.4870,-102.1119,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,45.0,,,4,America/Mexico_City,TRUE,1484403057
+El Tepozán,El Tepozan,,22.1566,-101.5273,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,36.7,,,4,America/Mexico_City,TRUE,1484059372
+El Tepozán,El Tepozan,,23.3929,-103.2537,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,18.5,,,4,America/Mexico_City,TRUE,1484519006
+El Tepozán,El Tepozan,,23.0541,-102.3585,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,14.8,,,4,America/Mexico_City,TRUE,1484106079
+El Tepozán,El Tepozan,,23.5792,-102.9499,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,14.5,,,4,America/Mexico_City,TRUE,1484813447
+El Tepozan,El Tepozan,,23.2285,-103.6633,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,12.6,,,4,America/Mexico_City,TRUE,1484024226
+El Tepozan,El Tepozan,El Tepozán,24.6718,-102.1185,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,4.4,,,5,America/Mexico_City,TRUE,1484917176
+El Tepozán,El Tepozan,,22.7596,-103.6540,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,3.0,,,5,America/Mexico_City,TRUE,1484428835
+El Tepozan,El Tepozan,,24.8457,-101.7239,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,2.9,,,5,America/Mexico_City,TRUE,1484443586
+Gamegó,Gamego,Camigo,27.7886,-107.7723,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.2,,,5,America/Chihuahua,FALSE,1484205527
+Cucharo,Cucharo,,18.6544,-96.1879,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,28.1,,,4,America/Mexico_City,FALSE,1484860638
+Jaén,Jaen,,20.3833,-105.0333,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.7,,,5,America/Mexico_City,FALSE,1484334132
+Tancochín,Tancochin,,21.3904,-97.5370,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,27.1,,,4,America/Mexico_City,FALSE,1484910517
+El Arco,El Arco,,27.8746,-108.2194,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,460.5,,,3,America/Chihuahua,FALSE,1484743627
+El Arco,El Arco,,27.2956,-107.1033,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,7.3,,,5,America/Chihuahua,TRUE,1484395047
+El Arco,El Arco,,29.6824,-107.6420,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,3.8,,,5,America/Chihuahua,TRUE,1484118018
+El Arco,El Arco,,27.0502,-106.1615,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2.2,,,5,America/Chihuahua,TRUE,1484936609
+El Arco,El Arco,Rancho del Arco,30.0931,-108.2538,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2.2,,,5,America/Chihuahua,TRUE,1484668630
+El Arco,El Arco,Rancho El Arco,29.6606,-108.6069,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.0,,,5,America/Chihuahua,TRUE,1484021493
+El Arco,El Arco,,27.9001,-107.9946,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.0,,,5,America/Chihuahua,TRUE,1484388931
+El Arco,El Arco,,29.1250,-108.3630,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.9,,,5,America/Chihuahua,TRUE,1484258693
+El Arco,El Arco,,29.6655,-107.5182,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Chihuahua,TRUE,1484041030
+Zomatlán,Zomatlan,,22.1236,-105.2626,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,19.8,,,4,America/Mazatlan,FALSE,1484012243
+San Fernando,San Fernando,,20.6308,-100.1401,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,149.5,,,4,America/Mexico_City,FALSE,1484894119
+Las Arboledas,Las Arboledas,,19.1649,-90.7315,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,3.4,,,5,America/Merida,FALSE,1484587538
+La Joya,La Joya,,21.3822,-99.0000,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,1683.4,,,3,America/Mexico_City,FALSE,1484883741
+La Joya,La Joya,,22.6203,-101.1405,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,22.8,,,4,America/Mexico_City,TRUE,1484189601
+La Joya,La Joya,,23.5866,-100.7248,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,19.6,,,4,America/Mexico_City,TRUE,1484576070
+La Joya,La Joya,,22.4417,-100.7942,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,17.7,,,4,America/Mexico_City,TRUE,1484742484
+La Joya,La Joya,,21.9735,-101.3535,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,12.5,,,4,America/Mexico_City,TRUE,1484000729
+La Joya,La Joya,Joya,23.2489,-100.8767,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,9.4,,,4,America/Mexico_City,TRUE,1484007113
+La Joya,La Joya,,21.6341,-100.5044,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,1.0,,,5,America/Mexico_City,TRUE,1484383523
+La Joya,La Joya,,22.2216,-98.4830,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,0.6,,,5,America/Mexico_City,TRUE,1484939369
+La Joya,La Joya,,22.9253,-102.0541,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,0.0,,,5,America/Mexico_City,TRUE,1484851609
+Ixvlóntla,Ixvlontla,,19.0208,-96.8827,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,120.9,,,4,America/Mexico_City,FALSE,1484202900
+Las Aguilas,Las Aguilas,,21.1505,-97.7483,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,55.7,,,4,America/Mexico_City,FALSE,1484444797
+Las Águilas,Las Aguilas,,18.3517,-96.0985,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,11.4,,,4,America/Mexico_City,TRUE,1484582483
+Las Águilas,Las Aguilas,,21.9294,-97.9050,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,5.3,,,5,America/Mexico_City,TRUE,1484485048
+Urigueachi,Urigueachi,Ulgiechic,27.6620,-107.8953,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.2,,,5,America/Chihuahua,FALSE,1484114490
+Nuevo Carrizal,Nuevo Carrizal,,18.0553,-94.5685,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,66.2,,,4,America/Mexico_City,FALSE,1484002068
+Jaboncillo,Jaboncillo,,21.9746,-98.1154,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,20.1,,,4,America/Mexico_City,FALSE,1484908671
+Manzanillo Chico,Manzanillo Chico,,19.2201,-101.6507,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,85.2,,,4,America/Mexico_City,FALSE,1484189135
+El Pocito,El Pocito,,17.0080,-93.0053,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,17.4,,,4,America/Mexico_City,FALSE,1484388709
+Puerto Tejas,Puerto Tejas,,17.7964,-100.0351,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,21.1,,,4,America/Mexico_City,FALSE,1484569262
+San Rafael,San Rafael,,19.2096,-98.7564,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,6336.0,,,2,America/Mexico_City,FALSE,1484589252
+San Rafael,San Rafael,San José Corrales,19.7215,-100.2237,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,167.4,,,4,America/Mexico_City,TRUE,1484865007
+San Rafael,San Rafael,,19.7645,-99.4888,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,107.6,,,4,America/Mexico_City,TRUE,1484021291
+Achocoatlán,Achocoatlan,,20.7735,-98.7257,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,36.7,,,4,America/Mexico_City,FALSE,1484650706
+Magueyes Verdes,Magueyes Verdes,,24.0290,-100.9905,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,7.9,,,5,America/Mexico_City,FALSE,1484359755
+Magueyes Verdes,Magueyes Verdes,,24.2320,-100.9850,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,4.8,,,5,America/Mexico_City,TRUE,1484639172
+Los Medrano,Los Medrano,,25.8121,-100.4085,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,154.6,,,4,America/Monterrey,FALSE,1484367330
+Las Higueras del Tecuán,Las Higueras del Tecuan,,25.3692,-107.2454,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.9,,,5,America/Mazatlan,FALSE,1484398866
+Campo Real,Campo Real,,20.5420,-101.5215,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,122.5,,,4,America/Mexico_City,FALSE,1484012231
+El Sotolito,El Sotolito,,26.6272,-105.3280,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,3.0,,,5,America/Chihuahua,FALSE,1484225247
+La Pastoria,La Pastoria,,19.3580,-98.5916,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,96.6,,,4,America/Mexico_City,FALSE,1484015641
+El Magueyal,El Magueyal,Magueyal,19.8150,-99.8348,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,338.5,,,3,America/Mexico_City,FALSE,1484119488
+El Magueyal,El Magueyal,Canalejas|Canalejas Magueyal,19.9425,-99.5746,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,280.0,,,3,America/Mexico_City,TRUE,1484014579
+Zotola,Zotola,,20.5627,-98.8319,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,24.3,,,4,America/Mexico_City,FALSE,1484118278
+Jupacari,Jupacari,,26.8816,-108.5555,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.7,,,5,America/Hermosillo,FALSE,1484318215
+Colonia Colinas de Fátima,Colonia Colinas de Fatima,,27.9406,-110.8756,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,2959.3,,,2,America/Hermosillo,FALSE,1484513781
+Campo Torres,Campo Torres,,25.6559,-108.7555,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,28.1,,,4,America/Mazatlan,FALSE,1484770573
+Tal Estaca,Tal Estaca,,20.9199,-103.8409,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,23.3,,,4,America/Mexico_City,FALSE,1484806080
+Santini,Santini,,32.2576,-116.9747,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,73.6,,,4,America/Tijuana,FALSE,1484197693
+La Cortés,La Cortes,Zapote|El Zapote,22.4175,-105.3641,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,41.0,,,4,America/Mazatlan,FALSE,1484670470
+Yaxcab,Yaxcab,,19.9007,-90.3561,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,33.5,,,4,America/Merida,FALSE,1484257984
+San Lorencito,San Lorencito,,20.8110,-89.7371,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,40.8,,,4,America/Merida,FALSE,1484027787
+Amarillas,Amarillas,,27.0114,-109.6771,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,36.4,,,4,America/Hermosillo,FALSE,1484867852
+Amarillas,Amarillas,,27.1333,-109.1333,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.7,,,5,America/Hermosillo,TRUE,1484116426
+Cinculuz,Cinculuz,,16.9159,-91.9640,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,49.4,,,4,America/Mexico_City,FALSE,1484421492
+Tayeva,Tayeva,,22.1641,-104.2156,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,27.3,,,4,America/Mexico_City,FALSE,1484757634
+Zapotillo,Zapotillo,,21.5667,-103.4333,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,4.7,,,5,America/Mexico_City,FALSE,1484011962
+Zapotillo,Zapotillo,,22.3316,-103.9228,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,0.5,,,5,America/Mexico_City,TRUE,1484195974
+Surucumachi,Surucumachi,,30.3705,-110.2237,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.7,,,5,America/Hermosillo,FALSE,1484070237
+Nueva Aurora,Nueva Aurora,La Aurora,16.1807,-91.6600,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,93.4,,,4,America/Mexico_City,FALSE,1484637242
+Aguascalientes de Mazatán,Aguascalientes de Mazatan,Aguacalientes de Mazatán,16.1061,-95.4710,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,5.4,,,5,America/Mexico_City,FALSE,1484387194
+El Barejonal,El Barejonal,,16.0841,-92.2056,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,25.8,,,4,America/Mexico_City,FALSE,1484779432
+Los Juanes,Los Juanes,,18.7682,-87.6915,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,0.8,,,5,America/Cancun,FALSE,1484746912
+Playas Santispac,Playas Santispac,,26.7651,-111.8890,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.2,,,5,America/Mazatlan,FALSE,1484009935
+Ranchería Las Iglesias,Rancheria Las Iglesias,,26.1571,-106.3590,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.2,,,5,America/Monterrey,FALSE,1484834962
+Papalote Azul,Papalote Azul,,32.5379,-116.8549,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,81.4,,,4,America/Tijuana,FALSE,1484907734
+Santa Cruz de Galeana,Santa Cruz de Galeana,,20.6500,-101.0000,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,851.4,,,3,America/Mexico_City,FALSE,1484708210
+Crucero Nueva Esperanza,Crucero Nueva Esperanza,,17.1118,-91.4077,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,31.4,,,4,America/Mexico_City,FALSE,1484021819
+Rancho Vaquería,Rancho Vaqueria,,25.6411,-100.1347,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,224.3,,,3,America/Monterrey,FALSE,1484608692
+Las Perras,Las Perras,,20.5421,-101.8314,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,14.3,,,4,America/Mexico_City,FALSE,1484433300
+Inviernillo,Inviernillo,Infiernillo|El Infiernillo,20.6667,-99.5333,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,43.6,,,4,America/Mexico_City,FALSE,1484820114
+Yerbabuena de las Palmas,Yerbabuena de las Palmas,La Yerbabuena de las Palmas,19.9397,-104.4507,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,3.1,,,5,America/Mexico_City,FALSE,1484239990
+La Boca del Refugio,La Boca del Refugio,,25.0602,-100.5023,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,25.9,,,4,America/Monterrey,FALSE,1484310247
+El Cacahuatal,El Cacahuatal,,26.8564,-105.4918,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.9,,,5,America/Chihuahua,FALSE,1484326253
+Mahahual,Mahahual,Majagual|Mahagual|Majaqual|Majahual,18.7139,-87.7094,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,0.8,,,4,America/Cancun,FALSE,1484586833
+El Cascabel,El Cascabel,,21.5982,-102.3289,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,12.5,,,4,America/Mexico_City,FALSE,1484323917
+Barbosa,Barbosa,Barboso,21.1371,-100.2748,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,95.2,,,4,America/Mexico_City,FALSE,1484886375
+El Caracol,El Caracol,,26.9294,-109.6948,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,68.8,,,4,America/Hermosillo,FALSE,1484542813
+El Caracol,El Caracol,,27.0771,-109.0739,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.7,,,5,America/Hermosillo,TRUE,1484879217
+El Caracol,El Caracol,Rancho El Caracol,30.0324,-112.4565,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,TRUE,1484316445
+El Guayabo,El Guayabo,,25.4298,-108.5069,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,111.3,,,4,America/Mazatlan,FALSE,1484006200
+El Guayabo,El Guayabo,,25.9406,-109.1372,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,47.4,,,4,America/Mazatlan,TRUE,1484408003
+El Guayabo,El Guayabo,,22.9033,-105.8486,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,29.3,,,4,America/Mazatlan,TRUE,1484021424
+El Guayabo,El Guayabo,Guayabo,23.2687,-106.2234,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,26.0,,,4,America/Mazatlan,TRUE,1484287846
+El Guayabo,El Guayabo,,26.5513,-108.3792,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,22.1,,,4,America/Mazatlan,TRUE,1484235715
+El Guayabo,El Guayabo,,26.6192,-108.2922,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,22.1,,,4,America/Mazatlan,TRUE,1484659904
+El Guayabo,El Guayabo,,24.6700,-107.1073,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,14.2,,,4,America/Mazatlan,TRUE,1484091689
+El Guayabo,El Guayabo,,23.5295,-106.3668,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,7.8,,,5,America/Mazatlan,TRUE,1484005078
+El Guayabo,El Guayabo,,26.6455,-108.0894,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,6.1,,,5,America/Mazatlan,TRUE,1484469427
+El Guayabo,El Guayabo,,25.8177,-107.2737,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.9,,,5,America/Mazatlan,TRUE,1484177027
+El Guayabo,El Guayabo,,25.7320,-107.3440,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.9,,,5,America/Mazatlan,TRUE,1484005918
+El Guayabo,El Guayabo,,24.5809,-106.6930,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,2.0,,,5,America/Mazatlan,TRUE,1484052678
+El Guayabo,El Guayabo,,26.0262,-107.5893,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,1.9,,,5,America/Mazatlan,TRUE,1484492451
+El Guayabo,El Guayabo,,23.9797,-106.2307,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,0.7,,,5,America/Mazatlan,TRUE,1484099353
+El Palmar,El Palmar,Palmar|Santa María del Palmar,20.6935,-99.7065,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,1113.9,,,3,America/Mexico_City,FALSE,1484299603
+Pushila,Pushila,,16.6081,-91.8726,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,46.0,,,4,America/Mexico_City,FALSE,1484206130
+Presa de Monjas,Presa de Monjas,Presa de las Monjas,21.3533,-100.9769,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,15.9,,,4,America/Mexico_City,FALSE,1484579041
+Palma del Coco,Palma del Coco,,16.2833,-97.6000,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,2.9,,,5,America/Mexico_City,FALSE,1484235120
+El Astillero,El Astillero,,18.1135,-91.1625,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,11.8,,,4,America/Merida,FALSE,1484649037
+El Astillero,El Astillero,,18.3117,-91.5529,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,4.7,,,5,America/Merida,TRUE,1484071048
+El Cortijo,El Cortijo,,18.1682,-91.5734,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,1.7,,,5,America/Merida,FALSE,1484456318
+Sea Clussion,Sea Clussion,,19.8452,-87.4467,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,57.4,,,4,America/Cancun,FALSE,1484348936
+Remate de Gentiles,Remate de Gentiles,,26.8931,-107.3921,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.2,,,5,America/Chihuahua,FALSE,1484543499
+San José de Estrada,San Jose de Estrada,,20.3773,-102.0646,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,90.7,,,4,America/Mexico_City,FALSE,1484736797
+El Milagro,El Milagro,,20.9281,-101.7523,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,110.2,,,4,America/Mexico_City,FALSE,1484741441
+El Milagro,El Milagro,,20.8441,-101.2557,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,96.3,,,4,America/Mexico_City,TRUE,1484366433
+El Milagro,El Milagro,,20.5245,-101.5214,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,90.0,,,4,America/Mexico_City,TRUE,1484284013
+El Milagro,El Milagro,,20.4090,-100.9584,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,77.9,,,4,America/Mexico_City,TRUE,1484025341
+El Milagro,El Milagro,,20.8927,-101.0767,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,42.6,,,4,America/Mexico_City,TRUE,1484822235
+El Milagro,El Milagro,,21.2705,-100.1298,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,27.7,,,4,America/Mexico_City,TRUE,1484010129
+El Milagro,El Milagro,,21.7019,-101.5092,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,25.2,,,4,America/Mexico_City,TRUE,1484857973
+Las Margaritas,Las Margaritas,,22.1977,-97.8297,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,1575.5,,,3,America/Mexico_City,FALSE,1484294684
+Las Margaritas,Las Margaritas,,18.2363,-96.2139,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,53.8,,,4,America/Mexico_City,TRUE,1484901045
+Las Margaritas,Las Margaritas,,19.4544,-96.5421,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,53.3,,,4,America/Mexico_City,TRUE,1484880581
+Las Margaritas,Las Margaritas,,18.5730,-95.0460,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,48.7,,,4,America/Mexico_City,TRUE,1484413794
+Las Margaritas,Las Margaritas,,17.8353,-94.9976,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,47.9,,,4,America/Mexico_City,TRUE,1484465748
+Las Margaritas,Las Margaritas,,21.3455,-98.3844,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,31.9,,,4,America/Mexico_City,TRUE,1484799717
+Las Margaritas,Las Margaritas,,18.0902,-94.1204,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,17.4,,,4,America/Mexico_City,TRUE,1484715217
+Las Margaritas,Las Margaritas,,21.8512,-98.2011,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,16.3,,,4,America/Mexico_City,TRUE,1484831385
+Las Margaritas,Las Margaritas,,18.0319,-95.7956,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,15.8,,,4,America/Mexico_City,TRUE,1484142737
+Las Margaritas,Las Margaritas,,17.7090,-93.9139,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,15.0,,,4,America/Mexico_City,TRUE,1484898077
+Las Margaritas,Las Margaritas,,21.9141,-97.8669,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,8.4,,,5,America/Mexico_City,TRUE,1484434346
+Las Margaritas,Las Margaritas,,17.7988,-95.0489,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.7,,,5,America/Mexico_City,TRUE,1484025455
+Las Margaritas,Las Margaritas,,21.8386,-98.0019,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,5.8,,,5,America/Mexico_City,TRUE,1484262559
+Las Margaritas,Las Margaritas,,21.9852,-97.9093,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,5.7,,,5,America/Mexico_City,TRUE,1484043642
+Las Margaritas,Las Margaritas,,17.2273,-94.4844,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,2.7,,,5,America/Mexico_City,TRUE,1484733619
+Mariano Matamoros,Mariano Matamoros,,19.6567,-98.2778,Mexico,MX,MEX,Tlaxcala,Tlaxcala,MX-TLA,state,,112.1,,,4,America/Mexico_City,FALSE,1484177380
+Pie Chiquito,Pie Chiquito,,26.1932,-107.5338,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2.5,,,5,America/Chihuahua,FALSE,1484740968
+Tuixcúm Buenavista,Tuixcum Buenavista,Tulxcúm Buenavista,15.3279,-92.2204,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,100.7,,,4,America/Mexico_City,FALSE,1484018830
+El Divisadero,El Divisadero,,23.2049,-102.6625,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,43.1,,,4,America/Mexico_City,FALSE,1484014835
+El Divisadero,El Divisadero,,23.9557,-102.4210,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,3.1,,,5,America/Mexico_City,TRUE,1484534045
+El Frontón,El Fronton,,20.8813,-102.2379,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,11.6,,,4,America/Mexico_City,FALSE,1484019838
+Las Tres Casas,Las Tres Casas,,27.6553,-101.3080,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.1,,,5,America/Monterrey,FALSE,1484873170
+Chichicapan,Chichicapan,Chichicapa,19.7628,-97.2070,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,158.0,,,4,America/Mexico_City,FALSE,1484700520
+Cuamantzín,Cuamantzin,,17.4242,-98.9381,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,54.6,,,4,America/Mexico_City,FALSE,1484841138
+La Horneña,La Hornena,La Ordeña,25.4079,-104.1947,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.2,,,5,America/Monterrey,FALSE,1484606798
+Bocatoma de San Blas,Bocatoma de San Blas,,26.0709,-108.7849,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,36.8,,,4,America/Mazatlan,FALSE,1484604963
+Boca de Alfayo,Boca de Alfayo,,26.3000,-108.7500,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,38.5,,,4,America/Mazatlan,FALSE,1484604725
+Rancho Campo Real,Rancho Campo Real,,28.7167,-101.0000,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.6,,,5,America/Matamoros,FALSE,1484694543
+Santa Eugenia,Santa Eugenia,,24.1847,-104.5718,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,40.7,,,4,America/Monterrey,FALSE,1484924261
+Santa Eugenia,Santa Eugenia,,26.1653,-104.9446,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.6,,,5,America/Monterrey,TRUE,1484761810
+Manga de Vera,Manga de Vera,,22.9667,-103.0833,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,0.9,,,5,America/Mexico_City,FALSE,1484398539
+Mesa de Guadalupe,Mesa de Guadalupe,La Noria,19.7499,-100.5916,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,21.9,,,4,America/Mexico_City,FALSE,1484176824
+Cañada de García,Canada de Garcia,,20.8812,-100.9952,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,46.3,,,4,America/Mexico_City,FALSE,1484485316
+Ciénega del Quelite,Cienega del Quelite,Ciénaga del Quelite|Quelites|Rancho Cienega de Quelite,25.7888,-105.7260,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.8,,,4,America/Monterrey,FALSE,1484732111
+Tierra Adentro,Tierra Adentro,,20.9260,-100.1384,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,13.1,,,4,America/Mexico_City,FALSE,1484028501
+El Ocuca,El Ocuca,Ocuca,30.5854,-111.4336,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,2.3,,,5,America/Hermosillo,FALSE,1484096406
+El Ocuca,El Ocuca,,30.0435,-110.6844,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.4,,,5,America/Hermosillo,TRUE,1484362123
+Hermanas Priego,Hermanas Priego,,17.8207,-91.2488,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,3.6,,,5,America/Mexico_City,FALSE,1484021542
+Rincón de San Jerónimo,Rincon de San Jeronimo,,21.8848,-100.5592,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,4.0,,,5,America/Mexico_City,FALSE,1484713979
+Chapote,Chapote,,27.3549,-108.0209,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,25.3,,,4,America/Chihuahua,FALSE,1484802697
+Guardados de Arriba,Guardados de Arriba,Guardado de Arriba,26.3804,-98.9657,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,12.0,,,4,America/Matamoros,FALSE,1484167750
+Mesa del Agua,Mesa del Agua,,27.5704,-108.0978,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.7,,,5,America/Chihuahua,FALSE,1484007545
+Mesa del Agua,Mesa del Agua,,26.3429,-106.3566,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.0,,,5,America/Chihuahua,TRUE,1484066610
+Mesa del Agua,Mesa del Agua,,28.2599,-108.9919,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.3,,,5,America/Chihuahua,TRUE,1484239674
+El Tapon,El Tapon,El Tapón,24.5874,-102.7942,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.5,,,5,America/Monterrey,FALSE,1484617145
+San Juanito,San Juanito,,22.7016,-102.6731,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,34.9,,,4,America/Mexico_City,FALSE,1484026264
+San Juanito,San Juanito,,21.6155,-102.9383,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,16.6,,,4,America/Mexico_City,TRUE,1484851245
+San Juanito,San Juanito,,24.3154,-103.4331,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,5.5,,,5,America/Mexico_City,TRUE,1484954062
+Estación San Juan de los Lagos,Estacion San Juan de los Lagos,,21.4219,-102.2481,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,34.0,,,4,America/Mexico_City,FALSE,1484260199
+Piedras Anchas,Piedras Anchas,,21.1962,-99.4509,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,67.7,,,4,America/Mexico_City,FALSE,1484341174
+La Cabaña,La Cabana,,19.4490,-96.4348,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,89.0,,,4,America/Mexico_City,FALSE,1484991379
+La Cabaña,La Cabana,,17.9767,-95.3228,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,19.8,,,4,America/Mexico_City,TRUE,1484017600
+La Cabaña,La Cabana,,21.8623,-98.3116,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,1.6,,,5,America/Mexico_City,TRUE,1484727263
+Huicachi,Huicachi,,27.5652,-107.8870,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.2,,,5,America/Chihuahua,FALSE,1484321192
+Capusaya,Capusaya,,24.7538,-103.7966,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.0,,,5,America/Monterrey,FALSE,1484433501
+San Benito,San Benito,,17.7875,-93.7583,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,12.9,,,4,America/Mexico_City,FALSE,1484483647
+San Miguel Xaltipan,San Miguel Xaltipan,Xaltipan,19.3209,-98.1625,Mexico,MX,MEX,Tlaxcala,Tlaxcala,MX-TLA,state,,2411.5,,,2,America/Mexico_City,FALSE,1484233520
+General Francisco J. Mújica,General Francisco J. Mujica,Francisco J. Mújica,18.2232,-91.0617,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,8.6,,,5,America/Merida,FALSE,1484733029
+Tacuba,Tacuba,,19.9829,-97.3066,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,92.0,,,4,America/Mexico_City,FALSE,1484898457
+San José el Alto,San Jose el Alto,,21.2633,-102.1228,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,39.6,,,4,America/Mexico_City,FALSE,1484413801
+Xonotipan de Juárez,Xonotipan de Juarez,,18.4929,-96.8973,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,128.7,,,4,America/Mexico_City,FALSE,1484018122
+Basigorabo,Basigorabo,,27.6840,-107.6599,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,7.3,,,5,America/Chihuahua,FALSE,1484492326
+Vertiente,Vertiente,,26.5667,-103.1333,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.3,,,5,America/Monterrey,FALSE,1484869672
+Las Mojoneras,Las Mojoneras,,21.2210,-103.1167,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,2.3,,,5,America/Mexico_City,FALSE,1484450872
+Puente El Pedregal,Puente El Pedregal,,15.9171,-93.5458,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,6.1,,,5,America/Mexico_City,FALSE,1484010667
+San Pedro Añañe,San Pedro Anane,Anañe|Amañe,17.5210,-97.3683,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,6.2,,,5,America/Mexico_City,FALSE,1484932653
+Las Vijarras,Las Vijarras,,21.4476,-97.9434,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,8.1,,,5,America/Mexico_City,FALSE,1484941551
+Guadalupe,Guadalupe,,24.3396,-107.3721,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,369.1,,,3,America/Mazatlan,FALSE,1484477695
+Guadalupe,Guadalupe,,25.7014,-108.6576,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,45.1,,,4,America/Mazatlan,TRUE,1484417081
+Guadalupe,Guadalupe,,25.0270,-107.8820,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,27.5,,,4,America/Mazatlan,TRUE,1484345198
+Guadalupe,Guadalupe,,26.6211,-108.3194,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,22.1,,,4,America/Mazatlan,TRUE,1484804388
+Pino Suárez,Pino Suarez,Santa María del Pino|Santa María Daxthó|Pino Saurez|Daxtho,20.2458,-99.4211,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,91.6,,,4,America/Mexico_City,FALSE,1484420908
+Rancho Verde de Abajo,Rancho Verde de Abajo,,29.9689,-108.4030,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.0,,,5,America/Chihuahua,FALSE,1484717240
+Los Sabinos,Los Sabinos,,24.9284,-107.3663,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,36.3,,,4,America/Mazatlan,FALSE,1484015235
+Los Sabinos,Los Sabinos,,26.0568,-107.5106,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,6.1,,,5,America/Mazatlan,TRUE,1484009206
+Los Sabinos,Los Sabinos,Sabinitos,25.4216,-107.4572,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.2,,,5,America/Mazatlan,TRUE,1484427276
+Los Sabinos,Los Sabinos,,25.2667,-107.3667,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.0,,,5,America/Mazatlan,TRUE,1484948219
+Zona Benito Juárez,Zona Benito Juarez,Benito Juarez,22.4881,-101.6652,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,17.5,,,4,America/Mexico_City,FALSE,1484936712
+Pisaflores,Pisaflores,,20.6094,-97.9278,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,1677.8,,,3,America/Mexico_City,FALSE,1484694805
+Chalam del Carmen,Chalam del Carmen,San Agustin,16.7735,-92.1295,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,69.0,,,4,America/Mexico_City,FALSE,1484271265
+Los Cajones,Los Cajones,,18.5811,-99.6442,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,77.8,,,4,America/Mexico_City,FALSE,1484854509
+Los Cajones,Los Cajones,Cajones,17.3356,-99.4780,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,64.9,,,4,America/Mexico_City,TRUE,1484046101
+Los Cajones,Los Cajones,,18.2614,-100.1767,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,13.8,,,4,America/Mexico_City,TRUE,1484031238
+Los Cajones,Los Cajones,,18.0459,-100.3033,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,9.3,,,5,America/Mexico_City,TRUE,1484217785
+Los Cajones,Los Cajones,,18.8247,-100.6662,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,6.0,,,5,America/Mexico_City,TRUE,1484904301
+Los Cajones,Los Cajones,,17.8614,-101.6193,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,5.0,,,5,America/Mexico_City,TRUE,1484008991
+Bomba los Taxtes,Bomba los Taxtes,,25.9167,-108.9333,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,118.5,,,4,America/Mazatlan,FALSE,1484022136
+La Tinaja,La Tinaja,,21.3912,-98.9556,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,262.8,,,3,America/Mexico_City,FALSE,1484006153
+La Tinaja,La Tinaja,,21.3254,-98.8771,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,222.1,,,3,America/Mexico_City,TRUE,1484411429
+La Tinaja,La Tinaja,,22.1641,-100.7176,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,62.4,,,4,America/Mexico_City,TRUE,1484886631
+La Tinaja,La Tinaja,,21.9343,-98.9386,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,32.1,,,4,America/Mexico_City,TRUE,1484164046
+La Tinaja,La Tinaja,,21.6827,-100.6597,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,28.3,,,4,America/Mexico_City,TRUE,1484879331
+La Tinaja,La Tinaja,,21.4582,-99.0443,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,21.2,,,4,America/Mexico_City,TRUE,1484701833
+La Tinaja,La Tinaja,,22.2092,-98.8382,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,13.1,,,4,America/Mexico_City,TRUE,1484355532
+La Tinaja,La Tinaja,Tinaja,21.6232,-99.8754,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,9.2,,,5,America/Mexico_City,TRUE,1484559250
+La Tinaja,La Tinaja,Tinajas,23.0995,-100.8852,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,7.0,,,5,America/Mexico_City,TRUE,1484297340
+La Tinaja,La Tinaja,,22.5950,-101.6301,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,5.2,,,5,America/Mexico_City,TRUE,1484028618
+Tolentino,Tolentino,,31.5833,-106.4500,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,8.1,,,5,America/Ciudad_Juarez,FALSE,1484150355
+Tlapaxtecoya,Tlapaxtecoya,,19.9984,-97.8345,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,143.8,,,4,America/Mexico_City,FALSE,1484553533
+Las Nueces,Las Nueces,,19.2814,-103.0625,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,9.7,,,5,America/Mexico_City,FALSE,1484618824
+Las Nueces,Las Nueces,,22.1871,-104.3016,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,6.9,,,5,America/Mexico_City,TRUE,1484011196
+Las Nueces,Las Nueces,,19.7001,-102.8480,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,2.9,,,5,America/Mexico_City,TRUE,1484687862
+Las Nueces,Las Nueces,,19.7566,-104.4371,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,2.5,,,5,America/Mexico_City,TRUE,1484167520
+Las Nueces,Las Nueces,,20.4248,-105.0700,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.7,,,5,America/Mexico_City,TRUE,1484568189
+San José Alamillo,San Jose Alamillo,Alamillo,28.8000,-106.1500,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.7,,,5,America/Chihuahua,FALSE,1484472523
+La Villa,La Villa,,20.7856,-103.7338,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,28.0,,,4,America/Mexico_City,FALSE,1484042083
+La Villa,La Villa,,20.5599,-104.8390,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,7.6,,,5,America/Mexico_City,TRUE,1484402350
+Galera de Minjares,Galera de Minjares,,28.0833,-105.3000,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,46.2,,,4,America/Chihuahua,FALSE,1484212237
+Baimosare,Baimosare,,25.4167,-107.3667,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,2.5,,,5,America/Mazatlan,FALSE,1484002058
+Valle del Refugio,Valle del Refugio,,26.8176,-105.6142,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.0,,,5,America/Chihuahua,FALSE,1484849301
+El Crucero,El Crucero,,25.8580,-100.0240,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,12.7,,,4,America/Monterrey,FALSE,1484397167
+El Crucero,El Crucero,,27.0372,-100.0144,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,2.5,,,5,America/Matamoros,TRUE,1484259268
+El Crucero,El Crucero,,26.8371,-100.4933,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.9,,,5,America/Monterrey,TRUE,1484021111
+El Crucero,El Crucero,,27.5755,-100.0688,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.0,,,5,America/Matamoros,TRUE,1484264083
+Piedras de Lumbre,Piedras de Lumbre,,26.9177,-102.9189,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Monterrey,FALSE,1484481812
+Jesús María Garza,Jesus Maria Garza,José María Garza,16.3967,-93.2937,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,4375.3,,,2,America/Mexico_City,FALSE,1484545480
+Palos Grandes,Palos Grandes,,18.3535,-99.2688,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,14.5,,,4,America/Mexico_City,FALSE,1484004459
+Palos Grandes,Palos Grandes,,18.1830,-100.6767,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,10.2,,,4,America/Mexico_City,TRUE,1484833272
+Los Pinabetes,Los Pinabetes,,27.5784,-108.1360,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.7,,,5,America/Chihuahua,FALSE,1484715010
+Isla del Carmen,Isla del Carmen,,15.9820,-92.5188,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,20.5,,,4,America/Mexico_City,FALSE,1484218965
+Las Perras,Las Perras,,24.4932,-107.3883,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,17.1,,,4,America/Mazatlan,FALSE,1484948163
+Las Viudas,Las Viudas,,24.8165,-110.8231,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.5,,,5,America/Mazatlan,FALSE,1484787521
+San Blás,San Blas,San Blas,23.8667,-110.1464,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,3.0,,,5,America/Mazatlan,FALSE,1484586661
+San Blas,San Blas,,26.4273,-111.6329,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.4,,,5,America/Mazatlan,TRUE,1484230764
+Ocampo Nuevo,Ocampo Nuevo,,28.8645,-111.4733,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,9.7,,,5,America/Hermosillo,FALSE,1484830655
+San Antonio Cuayuca,San Antonio Cuayuca,,18.4439,-98.2694,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,11.2,,,4,America/Mexico_City,FALSE,1484019073
+Los Pinedo,Los Pinedo,,21.8661,-103.2355,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,9.6,,,5,America/Mexico_City,FALSE,1484007475
+El Piñal,El Pinal,,17.9695,-94.6274,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,119.4,,,4,America/Mexico_City,FALSE,1484018621
+El Pinal,El Pinal,,20.3464,-97.6662,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,55.1,,,4,America/Mexico_City,TRUE,1484852191
+El Piñal,El Pinal,Piñal,17.9833,-95.7000,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,30.1,,,4,America/Mexico_City,TRUE,1484348460
+Ejido Obregón,Ejido Obregon,Obregón|Estancitas,21.9145,-99.5980,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,30.1,,,4,America/Mexico_City,FALSE,1484521908
+Machado,Machado,,24.8861,-106.3161,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,11.5,,,4,America/Monterrey,FALSE,1484952058
+Laguna del Macho,Laguna del Macho,Rancho Laguna de El Macho,26.7906,-106.0148,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.0,,,5,America/Monterrey,FALSE,1484479180
+Cuauhtémoc,Cuauhtemoc,,18.8748,-96.8972,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,1776.6,,,3,America/Mexico_City,FALSE,1484023440
+Cuauhtémoc,Cuauhtemoc,,19.8087,-96.9096,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,918.3,,,3,America/Mexico_City,TRUE,1484277166
+Cuauhtémoc,Cuauhtemoc,,19.4968,-96.9741,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,180.3,,,4,America/Mexico_City,TRUE,1484848528
+Cuauhtémoc,Cuauhtemoc,Jobo|El Jobo,20.1764,-97.6018,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,154.1,,,4,America/Mexico_City,TRUE,1484983661
+Cuauhtémoc,Cuauhtemoc,,19.7731,-97.2005,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,126.9,,,4,America/Mexico_City,TRUE,1484010626
+Cuauhtémoc,Cuauhtemoc,,19.7223,-96.7853,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,66.0,,,4,America/Mexico_City,TRUE,1484500026
+Cuauhtémoc,Cuauhtemoc,,17.7506,-95.0520,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,43.4,,,4,America/Mexico_City,TRUE,1484060349
+Cuauhtémoc,Cuauhtemoc,,17.9722,-94.2281,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,42.6,,,4,America/Mexico_City,TRUE,1484902319
+Cuauhtémoc,Cuauhtemoc,,17.9858,-94.1036,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,29.7,,,4,America/Mexico_City,TRUE,1484219089
+Cuauhtémoc,Cuauhtemoc,,18.5094,-95.1043,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,28.2,,,4,America/Mexico_City,TRUE,1484865196
+Cuauhtémoc,Cuauhtemoc,,18.1798,-94.8532,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,25.4,,,4,America/Mexico_City,TRUE,1484249001
+Cuauhtémoc,Cuauhtemoc,,18.6064,-96.2526,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,23.6,,,4,America/Mexico_City,TRUE,1484969867
+Cuauhtémoc,Cuauhtemoc,,17.3756,-95.0478,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,20.4,,,4,America/Mexico_City,TRUE,1484015700
+Cuauhtémoc,Cuauhtemoc,,17.4199,-95.0166,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,20.4,,,4,America/Mexico_City,TRUE,1484009298
+Cuauhtémoc,Cuauhtemoc,,17.8025,-94.2991,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,11.6,,,4,America/Mexico_City,TRUE,1484913058
+Cuauhtémoc,Cuauhtemoc,,17.7879,-95.4910,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,9.6,,,5,America/Mexico_City,TRUE,1484024386
+Maxala,Maxala,,20.6993,-98.4735,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,36.8,,,4,America/Mexico_City,FALSE,1484769712
+La Rodillera,La Rodillera,,19.4832,-102.8361,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.6,,,5,America/Mexico_City,FALSE,1484453853
+Rancho Alegre,Rancho Alegre,,19.6624,-100.6829,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,30.5,,,4,America/Mexico_City,FALSE,1484535757
+Rancho Alegre,Rancho Alegre,,19.8226,-101.9631,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,28.0,,,4,America/Mexico_City,TRUE,1484790364
+Rancho Alegre,Rancho Alegre,,18.6620,-103.6717,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,24.6,,,4,America/Mexico_City,TRUE,1484495338
+Rancho Alegre,Rancho Alegre,,19.7450,-102.5820,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,22.2,,,4,America/Mexico_City,TRUE,1484721854
+Los Aguajes,Los Aguajes,El Aguaje,21.1073,-104.3545,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,32.0,,,4,America/Mazatlan,FALSE,1484026173
+San José Manialtepec,San Jose Manialtepec,,15.9748,-97.2441,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,26.1,,,4,America/Mexico_City,FALSE,1484430649
+Sitio Chico,Sitio Chico,,19.5850,-88.5313,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,6.2,,,5,America/Cancun,FALSE,1484736827
+La Cantera,La Cantera,,19.3600,-97.7350,Mexico,MX,MEX,Tlaxcala,Tlaxcala,MX-TLA,state,,73.6,,,4,America/Mexico_City,FALSE,1484202950
+San Juan Vicholo,San Juan Vicholo,,16.4723,-94.7723,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,1.3,,,5,America/Mexico_City,FALSE,1484263564
+Carpintería,Carpinteria,,24.2502,-105.8034,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.6,,,5,America/Monterrey,FALSE,1484093800
+Oronio,Oronio,,27.5833,-110.3167,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,4.0,,,5,America/Hermosillo,FALSE,1484806388
+Sonora Baja California,Sonora Baja California,,31.6500,-115.7500,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,0.7,,,5,America/Tijuana,FALSE,1484242112
+Santa Cruz Ticún,Santa Cruz Ticun,,20.9682,-89.3468,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,42.0,,,4,America/Merida,FALSE,1484014777
+El Cristal,El Cristal,,17.8142,-100.9922,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,1.5,,,5,America/Mexico_City,FALSE,1484703838
+Santiaguillo,Santiaguillo,,23.4500,-99.5667,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,2.1,,,5,America/Monterrey,FALSE,1484016660
+El Zorrillo,El Zorrillo,Granja El Zorrillo,25.3087,-100.4482,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,4.9,,,5,America/Monterrey,FALSE,1484761668
+El Zorrillo,El Zorrillo,Zorrillo|Rancho Nuevo,26.7789,-101.0417,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,1.8,,,5,America/Monterrey,TRUE,1484732223
+El Zorrillo,El Zorrillo,Zorrillo|Rancho El Zorrillo,27.5705,-101.8117,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Monterrey,TRUE,1484555321
+Loma El Rayo,Loma El Rayo,,21.5487,-97.8980,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.9,,,5,America/Mexico_City,FALSE,1484416676
+Las Barrancas,Las Barrancas,Las Barracas,26.0015,-112.1981,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,4.0,,,5,America/Mazatlan,FALSE,1484597333
+La Fortaleza,La Fortaleza,,21.3602,-98.6037,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,16.5,,,4,America/Mexico_City,FALSE,1484917898
+Ranchería la Mesa,Rancheria la Mesa,,27.0983,-107.1976,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,11.8,,,4,America/Chihuahua,FALSE,1484071612
+El Con,El Con,,22.7010,-103.8550,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,5.7,,,5,America/Mexico_City,FALSE,1484407400
+Azufera Sociedad,Azufera Sociedad,,25.5502,-103.1438,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,2.3,,,5,America/Monterrey,FALSE,1484550611
+La Zanja,La Zanja,La Purísima,19.8435,-102.6550,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,21.5,,,4,America/Mexico_City,FALSE,1484092573
+La Zanja,La Zanja,Zanja,19.2000,-102.1000,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,14.5,,,4,America/Mexico_City,TRUE,1484273871
+La Zanja,La Zanja,,18.7541,-103.1659,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,1.5,,,5,America/Mexico_City,TRUE,1484948414
+Hacienda de Guadalupe,Hacienda de Guadalupe,San Francisco,27.3777,-109.7259,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,22.2,,,4,America/Hermosillo,FALSE,1484161052
+La Guadalupe,La Guadalupe,Guadalupe,19.0315,-96.0327,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,128.4,,,4,America/Mexico_City,FALSE,1484590426
+La Guadalupe,La Guadalupe,,17.9423,-94.7160,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,98.9,,,4,America/Mexico_City,TRUE,1484957654
+La Guadalupe,La Guadalupe,,18.5514,-95.3046,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,77.8,,,4,America/Mexico_City,TRUE,1484894468
+La Guadalupe,La Guadalupe,,18.4219,-95.3723,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,77.3,,,4,America/Mexico_City,TRUE,1484025550
+La Guadalupe,La Guadalupe,,18.1330,-95.1532,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,66.4,,,4,America/Mexico_City,TRUE,1484542649
+La Guadalupe,La Guadalupe,,20.3002,-97.4282,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,61.6,,,4,America/Mexico_City,TRUE,1484446609
+La Guadalupe,La Guadalupe,Guadalupe,18.2307,-96.1589,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,53.8,,,4,America/Mexico_City,TRUE,1484246096
+La Guadalupe,La Guadalupe,Los Verdes,18.3479,-96.2870,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,52.8,,,4,America/Mexico_City,TRUE,1484829318
+La Guadalupe,La Guadalupe,,18.3737,-95.6469,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,49.8,,,4,America/Mexico_City,TRUE,1484025254
+La Guadalupe,La Guadalupe,,20.9222,-97.8353,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,46.2,,,4,America/Mexico_City,TRUE,1484705411
+La Guadalupe,La Guadalupe,,17.9979,-94.4301,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,43.6,,,4,America/Mexico_City,TRUE,1484017988
+La Guadalupe,La Guadalupe,,18.1348,-95.6832,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,43.2,,,4,America/Mexico_City,TRUE,1484439116
+La Guadalupe,La Guadalupe,,20.3734,-96.9193,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,42.6,,,4,America/Mexico_City,TRUE,1484306230
+La Guadalupe,La Guadalupe,,22.1966,-97.7962,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,42.1,,,4,America/Mexico_City,TRUE,1484973755
+La Guadalupe,La Guadalupe,,18.6527,-96.3636,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,41.5,,,4,America/Mexico_City,TRUE,1484819654
+La Guadalupe,La Guadalupe,,17.6000,-94.7000,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,34.0,,,4,America/Mexico_City,TRUE,1484494968
+La Guadalupe,La Guadalupe,,17.9416,-95.4665,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,32.6,,,4,America/Mexico_City,TRUE,1484024780
+La Guadalupe,La Guadalupe,,20.6985,-97.6394,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,31.4,,,4,America/Mexico_City,TRUE,1484010470
+La Guadalupe,La Guadalupe,,18.0250,-95.7069,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,26.7,,,4,America/Mexico_City,TRUE,1484632239
+La Guadalupe,La Guadalupe,,21.3477,-97.4440,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,26.3,,,4,America/Mexico_City,TRUE,1484158816
+La Guadalupe,La Guadalupe,,18.5240,-96.3027,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,19.8,,,4,America/Mexico_City,TRUE,1484244291
+La Guadalupe,La Guadalupe,Guadalupe,18.0161,-94.2483,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,18.7,,,4,America/Mexico_City,TRUE,1484730808
+La Guadalupe,La Guadalupe,,18.6781,-95.5585,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,18.5,,,4,America/Mexico_City,TRUE,1484775949
+La Guadalupe,La Guadalupe,Mata de Loros,18.9669,-96.4788,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,17.8,,,4,America/Mexico_City,TRUE,1484283478
+La Guadalupe,La Guadalupe,,17.5384,-94.6269,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,16.6,,,4,America/Mexico_City,TRUE,1484990537
+La Guadalupe,La Guadalupe,,21.0888,-97.4917,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,16.4,,,4,America/Mexico_City,TRUE,1484188346
+La Guadalupe,La Guadalupe,,18.0308,-95.8149,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,16.4,,,4,America/Mexico_City,TRUE,1484560397
+La Guadalupe,La Guadalupe,,17.3096,-94.8466,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,14.1,,,4,America/Mexico_City,TRUE,1484885638
+La Guadalupe,La Guadalupe,,18.6101,-95.7022,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,11.9,,,4,America/Mexico_City,TRUE,1484494838
+La Guadalupe,La Guadalupe,,18.1889,-95.5276,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,8.3,,,5,America/Mexico_City,TRUE,1484444605
+La Guadalupe,La Guadalupe,,17.5243,-93.8460,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,8.3,,,5,America/Mexico_City,TRUE,1484588565
+La Guadalupe,La Guadalupe,,18.0213,-94.1939,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.3,,,5,America/Mexico_City,TRUE,1484820933
+La Guadalupe,La Guadalupe,,21.3358,-98.0780,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,6.1,,,5,America/Mexico_City,TRUE,1484717347
+La Guadalupe,La Guadalupe,,17.3756,-94.9188,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,5.6,,,5,America/Mexico_City,TRUE,1484908767
+La Guadalupe,La Guadalupe,Guadalupe,17.9697,-94.1875,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,4.7,,,5,America/Mexico_City,TRUE,1484835397
+La Guadalupe,La Guadalupe,,17.9556,-94.1130,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,4.7,,,5,America/Mexico_City,TRUE,1484334266
+La Guadalupe,La Guadalupe,,17.9097,-95.5659,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,4.7,,,5,America/Mexico_City,TRUE,1484024764
+Barrio Nuevo,Barrio Nuevo,,19.2833,-97.0443,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,100.7,,,4,America/Mexico_City,FALSE,1484012640
+Chicomapa,Chicomapa,,18.5611,-96.8515,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,97.0,,,4,America/Mexico_City,FALSE,1484010492
+El Chaparral,El Chaparral,,25.8409,-100.3080,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,213.6,,,3,America/Monterrey,FALSE,1484364601
+El Chaparral,El Chaparral,,24.1831,-99.7523,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,4.5,,,5,America/Monterrey,TRUE,1484461669
+El Chaparral,El Chaparral,,26.4698,-99.9021,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,2.1,,,5,America/Monterrey,TRUE,1484329089
+El Chaparral,El Chaparral,,25.7973,-99.6057,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.6,,,5,America/Monterrey,TRUE,1484211927
+El Chaparral,El Chaparral,,27.6288,-100.2572,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.1,,,5,America/Matamoros,TRUE,1484001008
+San Martín,San Martin,,25.7491,-103.4859,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,112.1,,,4,America/Monterrey,FALSE,1484835585
+San Martín,San Martin,,25.6342,-103.5918,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,74.0,,,4,America/Monterrey,TRUE,1484353026
+San Martín,San Martin,,25.6907,-103.6153,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,64.1,,,4,America/Monterrey,TRUE,1484533251
+San Martín,San Martin,,23.8024,-104.0688,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,26.0,,,4,America/Monterrey,TRUE,1484002481
+San Martín,San Martin,,23.7991,-104.1792,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,25.4,,,4,America/Monterrey,TRUE,1484433028
+San Martín,San Martin,,23.9700,-104.1406,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,14.2,,,4,America/Monterrey,TRUE,1484937677
+San Martín,San Martin,,24.3513,-104.3893,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,8.0,,,5,America/Monterrey,TRUE,1484010666
+San Martín,San Martin,,24.4032,-104.3759,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.1,,,5,America/Monterrey,TRUE,1484679458
+San Martín,San Martin,,24.3394,-103.7702,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.3,,,5,America/Monterrey,TRUE,1484274004
+San Martín,San Martin,,24.8445,-106.2589,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.7,,,5,America/Monterrey,TRUE,1484957842
+San Martín,San Martin,,26.3029,-104.0531,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.5,,,5,America/Monterrey,TRUE,1484000433
+San Martin,San Martin,San Martin de Camellones,23.6408,-103.9740,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.9,,,5,America/Monterrey,TRUE,1484010920
+San Martín,San Martin,Martin,26.7172,-106.0710,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.0,,,5,America/Monterrey,TRUE,1484383529
+San Martín,San Martin,,24.1464,-105.1677,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.7,,,5,America/Monterrey,TRUE,1484991368
+San Martin,San Martin,,26.0490,-103.3985,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.5,,,5,America/Monterrey,TRUE,1484270423
+San Martín,San Martin,,24.4180,-103.6720,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.1,,,5,America/Monterrey,TRUE,1484917214
+Los Picachos,Los Picachos,,22.6627,-104.5012,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.1,,,5,America/Monterrey,FALSE,1484935665
+La Mesa del Valle,La Mesa del Valle,,19.5945,-102.9385,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.2,,,5,America/Mexico_City,FALSE,1484631681
+El Tacote,El Tacote,,20.2819,-104.5278,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,16.7,,,4,America/Mexico_City,FALSE,1484984636
+El Tacote,El Tacote,,20.9217,-105.0451,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,4.0,,,5,America/Mexico_City,TRUE,1484495935
+El Tacote,El Tacote,,19.9948,-104.7669,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,2.8,,,5,America/Mexico_City,TRUE,1484880870
+Agua Zarca,Agua Zarca,,20.2434,-99.9153,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,93.1,,,4,America/Mexico_City,FALSE,1484926028
+Agua Zarca,Agua Zarca,,21.2200,-99.0908,Mexico,MX,MEX,Querétaro,Queretaro,MX-QUE,state,,56.3,,,4,America/Mexico_City,TRUE,1484851188
+El Frijolillo,El Frijolillo,,20.5996,-97.7464,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,10.5,,,4,America/Mexico_City,FALSE,1484848356
+Bateque,Bateque,,32.1682,-116.5939,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,2.3,,,5,America/Tijuana,FALSE,1484467131
+Atlicanonamique,Atlicanonamique,,17.8867,-99.1533,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,11.1,,,4,America/Mexico_City,FALSE,1484208452
+Cruz de Oro,Cruz de Oro,,15.1109,-92.4325,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,201.3,,,3,America/Mexico_City,FALSE,1484752922
+Nohan Fracción Segundo,Nohan Fraccion Segundo,,18.9901,-91.0649,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,13.8,,,4,America/Merida,FALSE,1484703163
+Puerto de la Piedra Labrada,Puerto de la Piedra Labrada,,18.8503,-100.3583,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,27.5,,,4,America/Mexico_City,FALSE,1484856624
+La Gotera,La Gotera,La Goltera,26.2320,-99.9281,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.5,,,5,America/Monterrey,FALSE,1484654393
+Cerro la Puerta,Cerro la Puerta,,22.1618,-103.8925,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.3,,,5,America/Mexico_City,FALSE,1484011731
+Tramojos,Tramojos,,26.1549,-105.1071,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.5,,,5,America/Monterrey,FALSE,1484304989
+Lomas de Guadalupe,Lomas de Guadalupe,,19.4732,-103.3592,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,23.7,,,4,America/Mexico_City,FALSE,1484109434
+El Pato de Gallo,El Pato de Gallo,,22.9848,-104.6731,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.1,,,5,America/Monterrey,FALSE,1484587972
+Los Acosta,Los Acosta,,23.2333,-101.2333,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,8.2,,,5,America/Mexico_City,FALSE,1484313501
+El Tileño,El Tileno,,28.9122,-110.2288,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.6,,,5,America/Hermosillo,FALSE,1484040389
+Los Ciruelos,Los Ciruelos,,19.0356,-100.3336,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,49.2,,,4,America/Mexico_City,FALSE,1484007903
+Los Ciruelos,Los Ciruelos,,18.6674,-100.4269,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,17.0,,,4,America/Mexico_City,TRUE,1484871298
+Chalchocoyo,Chalchocoyo,,21.3152,-98.7939,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,1346.2,,,3,America/Mexico_City,FALSE,1484489898
+Ejido de Pomas,Ejido de Pomas,Dolores|Pomas|Poblado de Dolores,19.8364,-100.4420,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,84.5,,,4,America/Mexico_City,FALSE,1484356750
+La Lobera,La Lobera,,26.7658,-107.1798,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,13.0,,,4,America/Chihuahua,FALSE,1484124230
+La Lobera,La Lobera,,27.2785,-108.6149,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,10.8,,,4,America/Chihuahua,TRUE,1484610626
+La Lobera,La Lobera,,25.9428,-106.7089,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,8.4,,,5,America/Chihuahua,TRUE,1484974650
+La Lobera,La Lobera,Rancho La Lobera,26.8602,-107.0812,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.3,,,5,America/Chihuahua,TRUE,1484863987
+La Lobera,La Lobera,,27.7994,-105.9730,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.8,,,5,America/Chihuahua,TRUE,1484685326
+Cachivi,Cachivi,Cachiví,19.8048,-100.3541,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,116.2,,,4,America/Mexico_City,FALSE,1484030990
+La Carroza,La Carroza,,20.5658,-101.5930,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,97.8,,,4,America/Mexico_City,FALSE,1484702904
+San Luis del Monte,San Luis del Monte,,19.0843,-98.0304,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,58.8,,,4,America/Mexico_City,FALSE,1484621426
+Casa Roja,Casa Roja,Rancho Casa Roja,28.8064,-100.6075,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,17.7,,,4,America/Matamoros,FALSE,1484062134
+Ejido la Coneja,Ejido la Coneja,,21.3195,-98.5513,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,48.1,,,4,America/Mexico_City,FALSE,1484933653
+Puente del Gato,Puente del Gato,,20.4965,-101.0662,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,150.3,,,4,America/Mexico_City,FALSE,1484603836
+Loma de Rodríguez,Loma de Rodriguez,,19.1835,-100.0880,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,198.0,,,4,America/Mexico_City,FALSE,1484867937
+Capilla Vieja,Capilla Vieja,,19.2229,-99.9899,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,120.5,,,4,America/Mexico_City,FALSE,1484090098
+La Vaqueña,La Vaquena,,28.0177,-105.2838,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2802.1,,,2,America/Chihuahua,FALSE,1484694285
+Las Vinatas,Las Vinatas,,24.1566,-104.1201,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,5.2,,,5,America/Monterrey,FALSE,1484996184
+Las Vinatas,Las Vinatas,,25.0872,-107.1245,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.2,,,5,America/Monterrey,TRUE,1484968352
+El Hueco,El Hueco,,30.0993,-105.8369,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Ojinaga,FALSE,1484414562
+Oropéo,Oropeo,Oxopeo,18.8173,-101.8081,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,11.4,,,4,America/Mexico_City,FALSE,1484130662
+Las Gaviotas,Las Gaviotas,,20.4736,-100.6096,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,720.5,,,3,America/Mexico_City,FALSE,1484756442
+Aricéachi,Ariceachi,,27.7324,-107.3324,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.0,,,5,America/Chihuahua,FALSE,1484975575
+Puerto el Villar de las Flores,Puerto el Villar de las Flores,,17.6592,-99.8428,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,13.3,,,4,America/Mexico_City,FALSE,1484248179
+Ilusión Santo Domingo,Ilusion Santo Domingo,,17.0165,-91.6936,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,28.0,,,4,America/Mexico_City,FALSE,1484196054
+Tetupirán,Tetupiran,,26.8790,-107.8727,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.8,,,5,America/Chihuahua,FALSE,1484756169
+El Gabial,El Gabial,,21.4238,-98.4493,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,27.9,,,4,America/Mexico_City,FALSE,1484277116
+San Alejo,San Alejo,,18.9340,-96.7661,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,86.0,,,4,America/Mexico_City,FALSE,1484023667
+San Alejo,San Alejo,,18.5136,-96.1274,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,16.1,,,4,America/Mexico_City,TRUE,1484489188
+Los Tecolotes,Los Tecolotes,,24.0925,-104.5595,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,18.5,,,4,America/Monterrey,FALSE,1484189290
+Los Tecolotes,Los Tecolotes,,24.6320,-103.7127,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.1,,,5,America/Monterrey,TRUE,1484790300
+Cuevitas,Cuevitas,,25.9914,-106.9433,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,6.2,,,5,America/Chihuahua,FALSE,1484382484
+Cuevitas,Cuevitas,,27.9333,-105.9833,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,1.4,,,5,America/Chihuahua,TRUE,1484691258
+Cuevitas,Cuevitas,,28.9000,-105.2500,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.8,,,5,America/Chihuahua,TRUE,1484366705
+Piletas,Piletas,,26.3529,-100.3193,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,1.5,,,5,America/Monterrey,FALSE,1484076443
+La Silla,La Silla,,20.1906,-100.3211,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,38.4,,,4,America/Mexico_City,FALSE,1484980915
+Raíces,Raices,,16.2578,-92.4840,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,33.2,,,4,America/Mexico_City,FALSE,1484275963
+La Perseverancia,La Perseverancia,,17.1631,-92.2737,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,89.5,,,4,America/Mexico_City,FALSE,1484466579
+La Perseverancia,La Perseverancia,,14.6594,-92.3167,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,42.9,,,4,America/Mexico_City,TRUE,1484017067
+La Perseverancia,La Perseverancia,,16.1813,-93.3981,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,5.7,,,5,America/Mexico_City,TRUE,1484421122
+Joigelito,Joigelito,Oigelito,16.7347,-92.8319,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,152.4,,,4,America/Mexico_City,FALSE,1484172862
+Raices,Raices,,27.8972,-106.1107,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.7,,,5,America/Chihuahua,FALSE,1484726052
+Duranguito,Duranguito,Duranguillo,27.0428,-105.8993,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.1,,,5,America/Chihuahua,FALSE,1484569156
+La Salvia,La Salvia,,28.0178,-108.5904,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,6.5,,,5,America/Chihuahua,FALSE,1484588062
+Genaro,Genaro,Rancho Genaro,27.6753,-102.6146,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Matamoros,FALSE,1484719874
+Guamúchil,Guamuchil,,22.1446,-104.2925,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,11.9,,,4,America/Mexico_City,FALSE,1484105915
+Los Milagros,Los Milagros,,25.1655,-103.3839,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,8.8,,,5,America/Monterrey,FALSE,1484966954
+Cabeza del Viejo,Cabeza del Viejo,,26.6570,-107.6140,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.5,,,5,America/Chihuahua,FALSE,1484226899
+Medio Sitio,Medio Sitio,El Medio Sitio,20.8695,-101.3569,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,217.4,,,3,America/Mexico_City,FALSE,1484118533
+Presita del Pie,Presita del Pie,Las Presitas,21.0665,-101.2951,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,48.9,,,4,America/Mexico_City,FALSE,1484098487
+Izamal,Izamal,Punta Maroma|La Maroma,20.7303,-86.9650,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,9.2,,,5,America/Cancun,FALSE,1484958797
+La Bombita,La Bombita,,28.8274,-111.4156,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,11.6,,,4,America/Hermosillo,FALSE,1484178664
+Encinal,Encinal,,32.1052,-116.5216,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,16.9,,,4,America/Tijuana,FALSE,1484883116
+La Colmena,La Colmena,,16.0228,-96.3521,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,7.3,,,5,America/Mexico_City,FALSE,1484073313
+El Cimbra,El Cimbra,,15.1018,-92.6207,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,71.9,,,4,America/Mexico_City,FALSE,1484705467
+La Abuela,La Abuela,,18.0520,-95.9044,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,20.2,,,4,America/Mexico_City,FALSE,1484002541
+Lomo de Toro,Lomo de Toro,,20.2851,-101.0228,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,72.6,,,4,America/Mexico_City,FALSE,1484894852
+Santa Maria de Ocotán,Santa Maria de Ocotan,,22.7025,-105.1811,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,4.1,,,5,America/Mazatlan,FALSE,1484902275
+Yostiro,Yostiro,Yastiro|Yóstiro,20.5595,-101.4006,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,191.1,,,4,America/Mexico_City,FALSE,1484683350
+San Buenaventura,San Buenaventura,,28.0364,-110.8715,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,36.9,,,4,America/Hermosillo,FALSE,1484189128
+Puerto del Varal,Puerto del Varal,,17.7082,-99.9486,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,21.1,,,4,America/Mexico_City,FALSE,1484852851
+Chapopote Chico,Chapopote Chico,Chapopote|Chapapote,21.1370,-98.2478,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,39.8,,,4,America/Mexico_City,FALSE,1484884059
+Rancho Alegre,Rancho Alegre,,21.3036,-87.7705,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,0.8,,,5,America/Merida,FALSE,1484312257
+Mata Verde,Mata Verde,,18.7849,-96.7124,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,180.3,,,4,America/Mexico_City,FALSE,1484023775
+Mata Verde,Mata Verde,,19.4541,-96.4357,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,89.0,,,4,America/Mexico_City,TRUE,1484882025
+Mata Verde,Mata Verde,,18.3309,-96.2139,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,52.8,,,4,America/Mexico_City,TRUE,1484017987
+Mata Verde,Mata Verde,Cerro del Indio,18.0006,-95.2773,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,32.8,,,4,America/Mexico_City,TRUE,1484935065
+Mata Verde,Mata Verde,,18.7271,-96.1506,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,27.6,,,4,America/Mexico_City,TRUE,1484878631
+Mata Verde,Mata Verde,,19.8220,-96.5337,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,26.7,,,4,America/Mexico_City,TRUE,1484127699
+Mata Verde,Mata Verde,,18.5177,-95.6179,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,17.8,,,4,America/Mexico_City,TRUE,1484227269
+Cuamontax,Cuamontax,,21.0191,-98.4320,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,173.8,,,4,America/Mexico_City,FALSE,1484784774
+El Mirasol,El Mirasol,,19.8804,-96.8946,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,67.7,,,4,America/Mexico_City,FALSE,1484093619
+El Ebanito,El Ebanito,,21.9167,-98.6000,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,22.5,,,4,America/Mexico_City,FALSE,1484139246
+Joya de Jesús María,Joya de Jesus Maria,La Joya|La Joya de Jesús María,21.0495,-101.0574,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,28.1,,,4,America/Mexico_City,FALSE,1484593904
+Los Álvarez,Los Alvarez,,21.9573,-103.2803,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,7.4,,,5,America/Mexico_City,FALSE,1484012382
+Puente de Villalpando,Puente de Villalpando,El Puente,21.8559,-102.5278,Mexico,MX,MEX,Aguascalientes,Aguascalientes,MX-AGU,state,,19.8,,,4,America/Mexico_City,FALSE,1484374308
+Nuevo San Luis,Nuevo San Luis,,16.5028,-93.3986,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,28.5,,,4,America/Mexico_City,FALSE,1484024069
+Pichilin,Pichilin,,20.9652,-89.3603,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,42.0,,,4,America/Merida,FALSE,1484801184
+Emiliano Zapata Mizantla,Emiliano Zapata Mizantla,,17.4585,-94.1028,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,44.9,,,4,America/Mexico_City,FALSE,1484005453
+La Bikina,La Bikina,,18.3828,-94.9586,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,15.2,,,4,America/Mexico_City,FALSE,1484389476
+El Álamo de Arriba,El Alamo de Arriba,El Álamo,21.5259,-102.5394,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,18.5,,,4,America/Mexico_City,FALSE,1484654297
+Cheranguerán,Cherangueran,,19.4640,-102.0877,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,50.3,,,4,America/Mexico_City,FALSE,1484833459
+San Clemente,San Clemente,,24.9327,-99.7968,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,8.8,,,5,America/Monterrey,FALSE,1484927906
+Juan de la Cruz,Juan de la Cruz,Rancho Juan de la Cruz,25.0667,-99.6667,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.5,,,5,America/Monterrey,FALSE,1484713349
+Puerta Vieja,Puerta Vieja,,18.8423,-100.5903,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,3.2,,,5,America/Mexico_City,FALSE,1484256842
+San Rafael,San Rafael,,24.0667,-104.6833,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,155.0,,,4,America/Monterrey,FALSE,1484015519
+San Rafael,San Rafael,,24.0411,-104.5163,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,43.9,,,4,America/Monterrey,TRUE,1484562666
+San Rafael,San Rafael,,24.1811,-104.5593,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,40.7,,,4,America/Monterrey,TRUE,1484042994
+San Rafael,San Rafael,,24.4699,-104.4358,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,16.2,,,4,America/Monterrey,TRUE,1484881519
+San Rafael,San Rafael,,25.0380,-106.3863,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,11.4,,,4,America/Monterrey,TRUE,1484542811
+San Rafael,San Rafael,,24.7833,-103.1833,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,9.8,,,5,America/Monterrey,TRUE,1484406634
+San Rafael,San Rafael,,24.3924,-104.7288,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,9.0,,,5,America/Monterrey,TRUE,1484168887
+San Rafael,San Rafael,,25.5874,-106.9719,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.9,,,5,America/Monterrey,TRUE,1484020306
+San Rafael,San Rafael,Las Cocinas,26.1928,-105.1856,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.5,,,5,America/Monterrey,TRUE,1484316272
+San Rafael,San Rafael,,24.9667,-106.4000,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,5.3,,,5,America/Monterrey,TRUE,1484010253
+San Rafael,San Rafael,,24.2896,-105.9662,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.6,,,5,America/Monterrey,TRUE,1484929863
+San Rafael,San Rafael,San Rafael de Tejamén|Rancho San Rafael del Tejamén,24.8084,-105.1121,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,TRUE,1484573463
+San Rafael,San Rafael,,23.5850,-105.6802,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,TRUE,1484021029
+San Rafael,San Rafael,San Rafael De Amoles,25.1378,-104.4031,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.4,,,5,America/Monterrey,TRUE,1484326655
+San Rafael,San Rafael,San Rafael de Jicorica|San Rafael Jicora,25.3831,-104.7660,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.5,,,5,America/Monterrey,TRUE,1484732278
+San Rafael,San Rafael,,25.6675,-105.8201,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.2,,,5,America/Monterrey,TRUE,1484950457
+San Rafael,San Rafael,,24.3932,-104.2841,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.2,,,5,America/Monterrey,TRUE,1484303768
+San Rafael,San Rafael,,25.3344,-106.6708,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.8,,,5,America/Monterrey,TRUE,1484591733
+San Rafael,San Rafael,,25.3712,-106.4393,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.8,,,5,America/Monterrey,TRUE,1484005966
+San Rafael,San Rafael,,23.9561,-105.8680,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.6,,,5,America/Monterrey,TRUE,1484468270
+San Rafael,San Rafael,,26.5610,-104.2642,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.1,,,5,America/Monterrey,TRUE,1484668190
+San Rafael,San Rafael,,24.3364,-106.1178,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.0,,,5,America/Monterrey,TRUE,1484566351
+El Sauz,El Sauz,,27.0847,-109.4966,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,111.1,,,4,America/Hermosillo,FALSE,1484774457
+El Sauz,El Sauz,Sauz,29.3985,-110.4386,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,18.6,,,4,America/Hermosillo,TRUE,1484965243
+El Sauz,El Sauz,,30.0852,-109.8328,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,6.3,,,5,America/Hermosillo,TRUE,1484004892
+El Sauz,El Sauz,El Sáuz,29.6303,-108.9900,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,5.7,,,5,America/Hermosillo,TRUE,1484979293
+El Sauz,El Sauz,,30.6030,-110.0871,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,3.8,,,5,America/Hermosillo,TRUE,1484016713
+El Sauz,El Sauz,Sauz,26.8500,-108.8000,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.9,,,5,America/Hermosillo,TRUE,1484868705
+El Sáuz,El Sauz,,29.0614,-110.1205,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.8,,,5,America/Hermosillo,TRUE,1484223321
+El Sauz,El Sauz,,27.4130,-109.2707,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.8,,,5,America/Hermosillo,TRUE,1484013817
+El Sáuz,El Sauz,El Sauz,27.6400,-108.8109,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.4,,,5,America/Hermosillo,TRUE,1484817622
+El Sauz,El Sauz,,30.0962,-110.6725,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.4,,,5,America/Hermosillo,TRUE,1484504068
+El Sauz,El Sauz,,30.0076,-110.7308,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.4,,,5,America/Hermosillo,TRUE,1484866901
+El Sauz,El Sauz,Rancho El Sáuz,27.9216,-109.3744,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.1,,,5,America/Hermosillo,TRUE,1484955343
+El Sauz,El Sauz,,28.3010,-108.7130,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.1,,,5,America/Hermosillo,TRUE,1484329572
+El Sáuz,El Sauz,Rancho El Sáuz,30.6641,-111.2769,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.0,,,5,America/Hermosillo,TRUE,1484238017
+El Sauz,El Sauz,,28.3422,-108.9312,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.0,,,5,America/Hermosillo,TRUE,1484827816
+El Sauz,El Sauz,El Sáuz,31.1465,-110.0626,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.7,,,5,America/Hermosillo,TRUE,1484564509
+El Sauz,El Sauz,,30.4420,-109.9615,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.6,,,5,America/Hermosillo,TRUE,1484290678
+El Sauz,El Sauz,,27.5202,-109.0537,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.2,,,5,America/Hermosillo,TRUE,1484520100
+El Sauz,El Sauz,,29.3883,-109.9133,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,TRUE,1484784116
+El Sauz,El Sauz,,29.8870,-109.3670,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,TRUE,1484769784
+El Sauz,El Sauz,,29.6729,-109.1249,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,TRUE,1484950990
+El Sauz,El Sauz,,28.5119,-108.9685,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,TRUE,1484016826
+Mateorare,Mateorare,,27.6320,-107.0914,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.2,,,5,America/Chihuahua,FALSE,1484029198
+Los Cerros,Los Cerros,,23.4680,-106.3196,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,7.8,,,5,America/Mazatlan,FALSE,1484790237
+Coloradas de La Virgen,Coloradas de La Virgen,Coloradas,26.5852,-107.4475,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.7,,,5,America/Chihuahua,FALSE,1484411340
+Chan Santa Cruz,Chan Santa Cruz,,19.3692,-88.3332,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,7.2,,,5,America/Cancun,FALSE,1484954900
+Moisés Gandhi,Moises Gandhi,,16.8273,-92.1728,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,75.7,,,4,America/Mexico_City,FALSE,1484014504
+Tapalapan,Tapalapan,,18.5325,-95.3063,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,77.8,,,4,America/Mexico_City,FALSE,1484008258
+Acapulco,Acapulco,,17.4119,-92.8578,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,78.6,,,4,America/Mexico_City,FALSE,1484465463
+Acapulco,Acapulco,,16.1154,-91.5105,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,50.6,,,4,America/Mexico_City,TRUE,1484023981
+Acapulco,Acapulco,,16.5073,-93.6417,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,21.6,,,4,America/Mexico_City,TRUE,1484024102
+Acapulco,Acapulco,,16.3988,-93.4625,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,5.7,,,5,America/Mexico_City,TRUE,1484022847
+Mártir de Chinameca,Martir de Chinameca,,18.8969,-98.4806,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,23.1,,,4,America/Mexico_City,FALSE,1484277779
+El Chubasco,El Chubasco,,21.0075,-89.5404,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,39.9,,,4,America/Merida,FALSE,1484005631
+Playa Lauro Villar,Playa Lauro Villar,,25.8333,-97.1500,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,0.7,,,5,America/Matamoros,FALSE,1484488391
+Plan de San Miguel,Plan de San Miguel,,18.2034,-97.6051,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,18.6,,,4,America/Mexico_City,FALSE,1484901247
+Veinte de Octubre,Veinte de Octubre,,22.2000,-98.2970,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,5.6,,,5,America/Mexico_City,FALSE,1484523063
+El Chiro,El Chiro,,15.9920,-92.0241,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,71.5,,,4,America/Mexico_City,FALSE,1484588139
+El Olvido,El Olvido,,15.7116,-92.0153,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,67.1,,,4,America/Mexico_City,FALSE,1484022316
+El Olvido,El Olvido,,15.9358,-91.9964,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,66.6,,,4,America/Mexico_City,TRUE,1484198085
+El Olvido,El Olvido,,15.6807,-92.3588,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,34.5,,,4,America/Mexico_City,TRUE,1484116679
+El Olvido,El Olvido,,15.5001,-92.9926,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,25.5,,,4,America/Mexico_City,TRUE,1484771469
+El Olvido,El Olvido,,15.8201,-92.9229,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,12.4,,,4,America/Mexico_City,TRUE,1484138208
+El Olvido,El Olvido,,15.6994,-92.9659,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,7.8,,,5,America/Mexico_City,TRUE,1484194539
+Napavechi de Arriba,Napavechi de Arriba,Napavechi|Nopavechic,28.4649,-107.0091,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,20.2,,,4,America/Chihuahua,FALSE,1484946764
+Agua Santa,Agua Santa,,19.1936,-96.9132,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,104.2,,,4,America/Mexico_City,FALSE,1484800343
+Agua Santa,Agua Santa,,19.7723,-97.1207,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,85.5,,,4,America/Mexico_City,TRUE,1484623386
+Agua Santa,Agua Santa,,19.9848,-96.7535,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,20.5,,,4,America/Mexico_City,TRUE,1484470465
+Los Sierrales,Los Sierrales,,25.2350,-100.2266,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,5.3,,,5,America/Monterrey,FALSE,1484004293
+El Infante,El Infante,Rancho El Infante,28.7683,-101.9514,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.1,,,5,America/Monterrey,FALSE,1484174560
+El Refugito,El Refugito,,23.3941,-109.6449,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,11.6,,,4,America/Mazatlan,FALSE,1484870954
+San José Obrero,San Jose Obrero,,15.5378,-92.3453,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,92.6,,,4,America/Mexico_City,FALSE,1484000619
+San José Obrero,San Jose Obrero,,16.8361,-92.1078,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,73.2,,,4,America/Mexico_City,TRUE,1484834724
+Loma Vieja,Loma Vieja,,20.8643,-97.3870,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,48.9,,,4,America/Mexico_City,FALSE,1484988828
+Tenjay,Tenjay,Tekzay,20.0833,-99.3667,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,104.9,,,4,America/Mexico_City,FALSE,1484498940
+Loma Atravesada,Loma Atravesada,,16.1787,-95.4884,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,0.6,,,5,America/Mexico_City,FALSE,1484762261
+Concharrás,Concharras,,19.7791,-100.4460,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,90.7,,,4,America/Mexico_City,FALSE,1484031273
+San Francisco Xochicuautla,San Francisco Xochicuautla,San Francisco Xochicuaulta,19.3729,-99.4453,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,2830.8,,,2,America/Mexico_City,FALSE,1484813750
+El Anillo,El Anillo,,24.1599,-99.7721,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,4.5,,,5,America/Monterrey,FALSE,1484833627
+Mesa de Huerta,Mesa de Huerta,,21.4804,-102.9817,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,5.4,,,5,America/Mexico_City,FALSE,1484661880
+San Sebastián Mata Larga,San Sebastian Mata Larga,,18.8843,-96.7822,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,54.1,,,4,America/Mexico_City,FALSE,1484023607
+El Gallego,El Gallego,,19.1669,-103.3020,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,0.6,,,5,America/Mexico_City,FALSE,1484104605
+Los Mercado,Los Mercado,,22.2879,-103.6789,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.4,,,5,America/Mexico_City,FALSE,1484234187
+Ríncón Vivero,Rincon Vivero,,19.1722,-100.2247,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,531.2,,,3,America/Mexico_City,FALSE,1484398111
+Los Alamitos,Los Alamitos,,23.6001,-104.8962,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,FALSE,1484726625
+Los Alamitos,Los Alamitos,,26.1254,-105.3009,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.1,,,5,America/Monterrey,TRUE,1484578468
+La Polla,La Polla,Número Dos|Benito Juárez,18.3792,-90.9742,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,10.7,,,4,America/Merida,FALSE,1484417420
+Pinzandarán,Pinzandaran,Pinzandaro|Pizanderan,18.3960,-101.8987,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,2.9,,,5,America/Mexico_City,FALSE,1484418189
+Santa María Coapan,Santa Maria Coapan,Santa María Coapam|Coapan|Coapam,18.4299,-97.4048,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,6779.7,,,2,America/Mexico_City,FALSE,1484611348
+Miranda del Refugio,Miranda del Refugio,,21.3245,-102.1375,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,15.2,,,4,America/Mexico_City,FALSE,1484119438
+El Nuevo Mexcaltitán,El Nuevo Mexcaltitan,,21.9047,-105.4825,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,20.8,,,4,America/Mazatlan,FALSE,1484847074
+Sinapan,Sinapan,,18.5348,-95.2929,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,77.8,,,4,America/Mexico_City,FALSE,1484977341
+Zurumutaro,Zurumutaro,Tzurumútaro,19.5472,-101.5869,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,185.6,,,4,America/Mexico_City,FALSE,1484769514
+San José de las Flores,San Jose de las Flores,,16.4722,-93.6228,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,21.6,,,4,America/Mexico_City,FALSE,1484431211
+San José de las Flores,San Jose de las Flores,,15.9253,-93.3746,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,17.6,,,4,America/Mexico_City,TRUE,1484016986
+San José de las Flores,San Jose de las Flores,,15.7677,-93.0594,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,7.2,,,5,America/Mexico_City,TRUE,1484017020
+Ejido Federico Martínez Manatou,Ejido Federico Martinez Manatou,Ejido Dr. Federico Martínez Manautou,32.1779,-115.6717,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,0.1,,,5,America/Tijuana,FALSE,1484852120
+Palmillas,Palmillas,,20.2190,-99.1988,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,177.5,,,4,America/Mexico_City,FALSE,1484812413
+Palmillas,Palmillas,,20.2721,-98.5290,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,28.8,,,4,America/Mexico_City,TRUE,1484006703
+Palmillas,Palmillas,,19.8674,-98.4590,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,22.3,,,4,America/Mexico_City,TRUE,1484284044
+Buena Vista,Buena Vista,,18.7113,-98.9603,Mexico,MX,MEX,Morelos,Morelos,MX-MOR,state,,224.6,,,3,America/Mexico_City,FALSE,1484020085
+El Madroño del Río,El Madrono del Rio,,22.4856,-102.6754,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,0.8,,,5,America/Mexico_City,FALSE,1484235999
+Yozo Chum,Yozo Chum,Yoso Chum,17.1505,-98.3545,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,37.3,,,4,America/Mexico_City,FALSE,1484985957
+El Telapache,El Telapache,,21.6832,-102.9542,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,45.7,,,4,America/Mexico_City,FALSE,1484658323
+Peñón del Obispo,Penon del Obispo,,27.0000,-101.8167,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.7,,,5,America/Monterrey,FALSE,1484242668
+Puerta de San Antonio,Puerta de San Antonio,,21.6976,-100.8518,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,17.6,,,4,America/Mexico_City,FALSE,1484864952
+Tomasquillo,Tomasquillo,Potzoco,19.1717,-99.4026,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,375.6,,,3,America/Mexico_City,FALSE,1484002495
+El Talismán,El Talisman,,24.2426,-98.0924,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,0.0,,,5,America/Monterrey,FALSE,1484379319
+Temixco de las Palmas,Temixco de las Palmas,,17.7033,-101.0946,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,7.0,,,5,America/Mexico_City,FALSE,1484108968
+Rincón Lata,Rincon Lata,,16.2333,-94.2667,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,20.1,,,4,America/Mexico_City,FALSE,1484861400
+Pedregal Tlalli,Pedregal Tlalli,,18.9503,-98.9625,Mexico,MX,MEX,Morelos,Morelos,MX-MOR,state,,207.0,,,3,America/Mexico_City,FALSE,1484774403
+Tantalamós,Tantalamos,,21.3333,-97.4378,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,26.3,,,4,America/Mexico_City,FALSE,1484383636
+Tantalamós,Tantalamos,Tantala,21.1667,-97.5333,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,19.3,,,4,America/Mexico_City,TRUE,1484172853
+San Marcos,San Marcos,,22.2774,-101.9520,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,2688.7,,,2,America/Mexico_City,FALSE,1484383607
+San Marcos,San Marcos,,21.6199,-102.8072,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,29.5,,,4,America/Mexico_City,TRUE,1484004422
+San Marcos,San Marcos,,23.8932,-102.9952,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,17.9,,,4,America/Mexico_City,TRUE,1484107559
+San Marcos,San Marcos,,22.1604,-103.0443,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,3.9,,,5,America/Mexico_City,TRUE,1484409981
+El Potrerito,El Potrerito,,21.0617,-101.7378,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,158.0,,,4,America/Mexico_City,FALSE,1484608544
+El Potrerito,El Potrerito,,20.8954,-101.9389,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,97.8,,,4,America/Mexico_City,TRUE,1484847310
+El Potrerito,El Potrerito,,20.4834,-100.6365,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,76.6,,,4,America/Mexico_City,TRUE,1484434981
+El Potrerito,El Potrerito,,20.8355,-101.9675,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,74.3,,,4,America/Mexico_City,TRUE,1484000738
+El Potrerito,El Potrerito,,21.5056,-101.5495,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,21.5,,,4,America/Mexico_City,TRUE,1484912705
+El Potrerito,El Potrerito,,20.5358,-101.9216,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,14.3,,,4,America/Mexico_City,TRUE,1484692769
+El Potrerito,El Potrerito,,21.2661,-101.5867,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,11.1,,,4,America/Mexico_City,TRUE,1484570666
+Palmillas,Palmillas,,24.9108,-106.8288,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.5,,,5,America/Monterrey,FALSE,1484760745
+Las Limas,Las Limas,,20.3458,-102.3352,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,92.3,,,4,America/Mexico_City,FALSE,1484678063
+Las Limas,Las Limas,,20.4208,-102.1281,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,43.0,,,4,America/Mexico_City,TRUE,1484636904
+Las Limas,Las Limas,,19.4521,-103.3410,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,3.8,,,5,America/Mexico_City,TRUE,1484618455
+La Muralla,La Muralla,,30.0779,-115.6872,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,0.6,,,5,America/Tijuana,FALSE,1484888246
+Marco Tumich,Marco Tumich,,20.8591,-87.9048,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,25.4,,,4,America/Merida,FALSE,1484014581
+San José de Yocnajab,San Jose de Yocnajab,,16.2490,-92.0821,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,168.5,,,4,America/Mexico_City,FALSE,1484527475
+Xiocuilapan,Xiocuilapan,Xiocuilapa,19.8594,-97.1820,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,124.1,,,4,America/Mexico_City,FALSE,1484520386
+Tlatlauquitepec,Tlatlauquitepec,Tatlauquitepec,19.8514,-97.4961,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,2747.1,,,2,America/Mexico_City,FALSE,1484482819
+Tlatlauquitepec,Tlatlauquitepec,,18.4667,-97.7333,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,33.2,,,4,America/Mexico_City,TRUE,1484220595
+Gumizachi,Gumizachi,Gomizachic,27.4035,-107.2160,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.4,,,5,America/Chihuahua,FALSE,1484859319
+El Balsamar,El Balsamar,,16.5911,-93.4695,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,14.9,,,4,America/Mexico_City,FALSE,1484024695
+La Cima,La Cima,,30.7970,-110.7754,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,40.8,,,4,America/Hermosillo,FALSE,1484323193
+Boca San Carlos,Boca San Carlos,,25.3140,-111.1264,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.5,,,5,America/Mazatlan,FALSE,1484691866
+Valle Florido,Valle Florido,,21.7868,-99.9177,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,29.8,,,4,America/Mexico_City,FALSE,1484996636
+San Sebastián Tenango,San Sebastian Tenango,Tenango,18.6628,-98.1739,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,16.6,,,4,America/Mexico_City,FALSE,1484476136
+Guadalupe Nundaca,Guadalupe Nundaca,,17.2974,-98.1344,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,65.2,,,4,America/Mexico_City,FALSE,1484626997
+Ojo Agua la Palma,Ojo Agua la Palma,,15.9370,-92.3460,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,1.0,,,5,America/Mexico_City,FALSE,1484122491
+San Mateo,San Mateo,,19.5782,-105.0857,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,12.7,,,4,America/Mexico_City,FALSE,1484637925
+Amarilla de Abajo,Amarilla de Abajo,,25.5390,-106.3122,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.8,,,5,America/Monterrey,FALSE,1484012599
+La Lupita,La Lupita,,31.3608,-115.6910,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,3.0,,,5,America/Tijuana,FALSE,1484167525
+Chacari,Chacari,,27.4390,-108.8234,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.8,,,5,America/Hermosillo,FALSE,1484079558
+Coyotitlán,Coyotitlan,,19.9082,-96.7360,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,67.3,,,4,America/Mexico_City,FALSE,1484739679
+Coyotera,Coyotera,,32.6253,-114.8209,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,40.1,,,4,America/Tijuana,FALSE,1484456483
+Mitlancingo,Mitlancingo,Mitlalcingo,17.8500,-99.1333,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,11.1,,,4,America/Mexico_City,FALSE,1484610125
+Los Caños,Los Canos,,22.3087,-103.0332,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,11.6,,,4,America/Mexico_City,FALSE,1484415168
+Caracol y Camulines,Caracol y Camulines,,26.5627,-99.8580,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,3.6,,,5,America/Monterrey,FALSE,1484350597
+Las Estacas,Las Estacas,,24.5237,-104.1664,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,8.7,,,5,America/Monterrey,FALSE,1484890022
+Las Estacas,Las Estacas,Rancho Las Estacas|Estacas,25.1428,-105.9427,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.6,,,5,America/Monterrey,TRUE,1484921804
+Las Estacas,Las Estacas,,26.4538,-105.1910,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.0,,,5,America/Monterrey,TRUE,1484520353
+Santa Catarina Río Delgado,Santa Catarina Rio Delgado,Río Delgado,17.4748,-97.5238,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,15.2,,,4,America/Mexico_City,FALSE,1484011858
+El Cureño,El Cureno,,26.1932,-99.5585,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.8,,,5,America/Monterrey,FALSE,1484579227
+Gómez Farías,Gomez Farias,,19.9222,-102.1567,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,78.2,,,4,America/Mexico_City,FALSE,1484949301
+Los Burros,Los Burros,,25.2309,-107.0803,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.2,,,5,America/Monterrey,FALSE,1484998569
+Kilómetro Dos,Kilometro Dos,Idelfonso|San Idelfonso,21.1891,-88.1794,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,2.9,,,5,America/Merida,FALSE,1484956039
+Las Meladas,Las Meladas,,30.0819,-109.4423,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,FALSE,1484648066
+Zalate de los Ibarra,Zalate de los Ibarra,El Zacate de los Ybarra|El Zapote de Ibarra,25.1902,-107.3502,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,4.5,,,5,America/Mazatlan,FALSE,1484483421
+San Isidro,San Isidro,,19.2649,-103.8253,Mexico,MX,MEX,Colima,Colima,MX-COL,state,,12.3,,,4,America/Mexico_City,FALSE,1484932687
+El Xucuyul,El Xucuyul,,19.7773,-96.7825,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,66.0,,,4,America/Mexico_City,FALSE,1484003357
+Conejo,Conejo,,17.7000,-100.5833,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,4.3,,,5,America/Mexico_City,FALSE,1484033173
+San Isidro,San Isidro,,25.5655,-103.4465,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,5820.5,,,2,America/Monterrey,FALSE,1484526552
+San Isidro,San Isidro,,27.9149,-101.4093,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,137.9,,,4,America/Monterrey,TRUE,1484410481
+San Isidro,San Isidro,,25.8618,-103.1242,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,95.8,,,4,America/Monterrey,TRUE,1484015298
+San Isidro,San Isidro,,25.4208,-103.1828,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,60.6,,,4,America/Monterrey,TRUE,1484579900
+San Isidro,San Isidro,,29.2954,-100.8928,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,24.6,,,4,America/Matamoros,TRUE,1484027157
+San Isidro,San Isidro,,28.8680,-100.6224,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,17.7,,,4,America/Matamoros,TRUE,1484635813
+San Isidro,San Isidro,,25.7985,-102.9827,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,13.7,,,4,America/Monterrey,TRUE,1484656180
+San Isidro,San Isidro,El Nuevo Milagro|Nuevo Milagro|Pénjamo,27.9982,-102.6439,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,4,America/Matamoros,TRUE,1484839749
+San Isidro,San Isidro,,24.7691,-101.0549,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,4.5,,,5,America/Monterrey,TRUE,1484362952
+San Isidro,San Isidro,,27.8629,-101.3214,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,4.1,,,5,America/Monterrey,TRUE,1484111871
+San Isidro,San Isidro,Majada San Isidro,24.9204,-100.7833,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,4.0,,,5,America/Monterrey,TRUE,1484002978
+San Isidro,San Isidro,,27.0246,-101.6453,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.9,,,5,America/Monterrey,TRUE,1484696412
+San Isidro,San Isidro,,27.8000,-101.0667,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.3,,,5,America/Monterrey,TRUE,1484658875
+San Isidro,San Isidro,,25.7763,-101.1115,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.2,,,5,America/Monterrey,TRUE,1484374037
+San Isidro,San Isidro,,26.9532,-101.3558,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,2.7,,,5,America/Monterrey,TRUE,1484483676
+San Isidro,San Isidro,,28.1000,-101.4000,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,1.9,,,5,America/Monterrey,TRUE,1484778713
+San Isidro,San Isidro,,26.9669,-101.5560,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,1.0,,,5,America/Monterrey,TRUE,1484387912
+San Isidro,San Isidro,,25.5478,-102.4448,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.5,,,5,America/Monterrey,TRUE,1484823602
+San Isidro,San Isidro,,26.6909,-101.3230,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.3,,,5,America/Monterrey,TRUE,1484998808
+San Isidro,San Isidro,,29.1564,-101.4610,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.2,,,5,America/Matamoros,TRUE,1484767657
+San Isidro,San Isidro,,28.2114,-101.1727,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Monterrey,TRUE,1484998681
+San Isidro,San Isidro,El Caracol|Rancho El Caracol,27.7593,-103.5963,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Monterrey,TRUE,1484684650
+San Isidro,San Isidro,Rancho San Isidro,27.5091,-102.3765,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Matamoros,TRUE,1484586853
+San Isidro,San Isidro,,28.7023,-101.6882,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Matamoros,TRUE,1484554361
+Xilomich,Xilomich,,19.1331,-97.1452,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,128.2,,,4,America/Mexico_City,FALSE,1484003426
+Los Sabinos,Los Sabinos,,27.9173,-101.4021,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.0,,,5,America/Monterrey,FALSE,1484839023
+Los Sabinos,Los Sabinos,,28.4953,-100.9514,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.8,,,5,America/Matamoros,TRUE,1484002413
+La Concepción,La Concepcion,,22.0354,-102.2999,Mexico,MX,MEX,Aguascalientes,Aguascalientes,MX-AGU,state,,307.8,,,3,America/Mexico_City,FALSE,1484730377
+Rancho La Bonita,Rancho La Bonita,,27.6167,-101.4667,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,6.0,,,5,America/Monterrey,FALSE,1484037894
+Laguna de Arriba,Laguna de Arriba,,17.3779,-93.3043,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,25.8,,,4,America/Mexico_City,FALSE,1484800798
+El Tabiquito,El Tabiquito,,29.6671,-111.3013,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.0,,,5,America/Hermosillo,FALSE,1484639434
+Xúchitl,Xuchitl,,15.9254,-96.2126,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,14.0,,,4,America/Mexico_City,FALSE,1484004013
+La Aguja,La Aguja,,22.7143,-99.0224,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,28.3,,,4,America/Monterrey,FALSE,1484178714
+Cebollas Grandes,Cebollas Grandes,Cebollas,25.1053,-106.4053,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.8,,,5,America/Monterrey,FALSE,1484910120
+Carretera Ayapango,Carretera Ayapango,,19.1305,-98.7856,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,260.3,,,3,America/Mexico_City,FALSE,1484013570
+Cochindi,Cochindi,,18.5625,-96.1775,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,54.5,,,4,America/Mexico_City,FALSE,1484695149
+Renán Rosas,Renan Rosas,,20.9044,-89.5883,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,42.6,,,4,America/Merida,FALSE,1484028109
+San Jerónimo Boncheté,San Jeronimo Bonchete,Boncheté,19.6323,-99.9549,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,311.1,,,3,America/Mexico_City,FALSE,1484801233
+La Breyera,La Breyera,,21.8009,-104.2021,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,1.4,,,5,America/Mazatlan,FALSE,1484689132
+Los Llanos de Temalhuacán,Los Llanos de Temalhuacan,Temalhuacán,17.8666,-101.7351,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,35.1,,,4,America/Mexico_City,FALSE,1484009411
+Los Hornos,Los Hornos,Hornos,21.0000,-104.6167,Mexico,MX,MEX,Nayarit,Nayarit,MX-NAY,state,,6.7,,,5,America/Mazatlan,FALSE,1484071680
+Ahijadero de Abajo,Ahijadero de Abajo,,18.1125,-102.3973,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,1.5,,,5,America/Mexico_City,FALSE,1484869685
+Piaxtla,Piaxtla,,23.8407,-106.6813,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,26.3,,,4,America/Mazatlan,FALSE,1484881134
+El Pie de la Cuesta,El Pie de la Cuesta,,25.4690,-107.0070,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.9,,,5,America/Monterrey,FALSE,1484009029
+El Convento,El Convento,,19.6145,-98.0630,Mexico,MX,MEX,Tlaxcala,Tlaxcala,MX-TLA,state,,4.1,,,5,America/Mexico_City,FALSE,1484235764
+El Pájaro,El Pajaro,,28.7819,-101.2316,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.0,,,5,America/Matamoros,FALSE,1484697991
+Colonia el Sabino,Colonia el Sabino,,20.3786,-98.7748,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,45.6,,,4,America/Mexico_City,FALSE,1484799746
+Chan Dzonot,Chan Dzonot,,21.1583,-88.7189,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,0.2,,,5,America/Merida,FALSE,1484007662
+San José el Amate,San Jose el Amate,,14.9944,-92.4368,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,94.9,,,4,America/Mexico_City,FALSE,1484690838
+Estación el Hormiguero,Estacion el Hormiguero,,19.6844,-98.7662,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,334.2,,,3,America/Mexico_City,FALSE,1484721786
+Ejido Primero de Mayo,Ejido Primero de Mayo,Primero de Mayo|Campo Setenta y Siete,27.3882,-110.1216,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,28.9,,,4,America/Hermosillo,FALSE,1484320296
+El Tornillo,El Tornillo,,17.8583,-91.5125,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,4.2,,,5,America/Mexico_City,FALSE,1484050532
+El Garceño,El Garceno,,18.0565,-94.1808,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,10.2,,,4,America/Mexico_City,FALSE,1484071864
+La Tinajuela,La Tinajuela,Tinajuela,22.0581,-101.9120,Mexico,MX,MEX,Aguascalientes,Aguascalientes,MX-AGU,state,,69.6,,,4,America/Mexico_City,FALSE,1484993801
+El Pulgo,El Pulgo,,22.8465,-103.1713,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,9.8,,,5,America/Mexico_City,FALSE,1484397997
+Don Ramiro,Don Ramiro,,25.8392,-97.4245,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,707.6,,,3,America/Matamoros,FALSE,1484026752
+Don Ramiro,Don Ramiro,El Novillo,25.9196,-97.2837,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,2.2,,,5,America/Matamoros,TRUE,1484026751
+Santa Lucia,Santa Lucia,,25.6860,-103.4409,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,111.5,,,4,America/Monterrey,FALSE,1484264863
+Santa Lucia,Santa Lucia,,25.4488,-103.7019,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,68.7,,,4,America/Monterrey,TRUE,1484002711
+Santa Lucia,Santa Lucia,,25.5152,-106.7252,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.5,,,5,America/Monterrey,TRUE,1484997764
+Santa Lucía,Santa Lucia,,25.1760,-106.5046,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,5.7,,,5,America/Monterrey,TRUE,1484784308
+Santa Lucía,Santa Lucia,,23.6109,-105.5101,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,TRUE,1484444367
+Santa Lucía,Santa Lucia,,25.3211,-106.4590,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,TRUE,1484803612
+Santa Lucía,Santa Lucia,,23.4333,-105.3500,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,4.1,,,5,America/Monterrey,TRUE,1484879688
+Santa Lucía,Santa Lucia,Santa Lucia,24.0931,-105.4480,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,3.0,,,5,America/Monterrey,TRUE,1484301522
+Santa Lucia,Santa Lucia,,24.3723,-105.4780,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,2.9,,,5,America/Monterrey,TRUE,1484498567
+Santa Lucía,Santa Lucia,,26.4892,-104.0767,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,1.8,,,5,America/Monterrey,TRUE,1484862012
+Santa Lucia,Santa Lucia,,24.3074,-103.6650,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.7,,,5,America/Monterrey,TRUE,1484130058
+Santa Lucía,Santa Lucia,,26.2174,-105.9257,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,0.6,,,5,America/Monterrey,TRUE,1484304185
+Las Pilas Cuatas,Las Pilas Cuatas,,29.1420,-101.7558,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.1,,,5,America/Matamoros,FALSE,1484863940
+Los Alberto,Los Alberto,,16.1398,-93.2903,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,29.6,,,4,America/Mexico_City,FALSE,1484013503
+El Crucero del Terrero,El Crucero del Terrero,,20.5342,-104.9807,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,1.1,,,5,America/Mexico_City,FALSE,1484574508
+Vadovinos,Vadovinos,,18.3679,-103.3310,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,23.7,,,4,America/Mexico_City,FALSE,1484073647
+Viñedos el Milagro,Vinedos el Milagro,,22.5094,-102.2569,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,42.4,,,4,America/Mexico_City,FALSE,1484904546
+La Pantera,La Pantera,,27.0300,-108.1932,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2.1,,,5,America/Chihuahua,FALSE,1484052327
+Piedra del Sol,Piedra del Sol,,15.8802,-96.6368,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,85.0,,,4,America/Mexico_City,FALSE,1484808642
+Piedra del Sol,Piedra del Sol,,16.7736,-96.3666,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,9.8,,,5,America/Mexico_City,TRUE,1484002648
+Santa Inés,Santa Ines,,19.9872,-98.6872,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,125.7,,,4,America/Mexico_City,FALSE,1484372793
+Santa Inés,Santa Ines,,20.4548,-98.0900,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,96.3,,,4,America/Mexico_City,TRUE,1484765272
+Santa Inés,Santa Ines,,20.2181,-98.8133,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,60.4,,,4,America/Mexico_City,TRUE,1484695972
+Playa del Carrizal,Playa del Carrizal,El Carrizal,16.9628,-100.1423,Mexico,MX,MEX,Guerrero,Guerrero,MX-GRO,state,,54.0,,,4,America/Mexico_City,FALSE,1484734520
+El Carricito,El Carricito,,26.5163,-108.4923,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,15.2,,,4,America/Mazatlan,FALSE,1484934006
+El Carricito,El Carricito,Carricitos,23.5500,-106.3167,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,7.8,,,5,America/Mazatlan,TRUE,1484004034
+El Carricito,El Carricito,,26.7112,-108.0300,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,6.6,,,5,America/Mazatlan,TRUE,1484384556
+El Carricito,El Carricito,,26.5224,-107.9919,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,5.5,,,5,America/Mazatlan,TRUE,1484359369
+El Carricito,El Carricito,,25.5936,-107.1334,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,2.0,,,5,America/Mazatlan,TRUE,1484394484
+El Carricito,El Carricito,,26.3490,-108.1445,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,2.0,,,5,America/Mazatlan,TRUE,1484547459
+Bujanda,Bujanda,Bufanda|Rancho Bufanda,29.0229,-110.0367,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,1.8,,,5,America/Hermosillo,FALSE,1484862839
+Calderón,Calderon,,18.9697,-97.8533,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,172.9,,,4,America/Mexico_City,FALSE,1484481975
+Mesa de Huejotitán,Mesa de Huejotitan,La Mesa de los Covarrubias|Mesa de Huejotitlán,19.9071,-104.0251,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,0.6,,,5,America/Mexico_City,FALSE,1484576708
+Tórtola,Tortola,,27.3333,-101.8500,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,0.1,,,5,America/Monterrey,FALSE,1484005089
+Nuevo Mazapa,Nuevo Mazapa,,15.7756,-92.1401,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,78.5,,,4,America/Mexico_City,FALSE,1484823066
+Laguna Mora,Laguna Mora,,16.4165,-92.8555,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,11.5,,,4,America/Mexico_City,FALSE,1484006665
+Atarjea,Atarjea,,21.6167,-100.1000,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,0.8,,,5,America/Mexico_City,FALSE,1484474165
+Bajío de los Amoles,Bajio de los Amoles,,22.0586,-103.9323,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,5.1,,,5,America/Mexico_City,FALSE,1484890737
+Tlachiquile,Tlachiquile,,20.6824,-97.9909,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,58.5,,,4,America/Mexico_City,FALSE,1484437365
+Cerrito de Gasca,Cerrito de Gasca,La Gasca,20.6183,-101.0620,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,98.4,,,4,America/Mexico_City,FALSE,1484940830
+Petcacab,Petcacab,Petacab,19.2576,-88.2406,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,3.9,,,5,America/Cancun,FALSE,1484835526
+Katbeh,Katbeh,,20.7185,-89.2396,Mexico,MX,MEX,Yucatán,Yucatan,MX-YUC,state,,6.1,,,5,America/Merida,FALSE,1484396204
+Chuchiltón Anexo Potobtic Dos,Chuchilton Anexo Potobtic Dos,La Guayaba,16.9733,-92.8501,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,94.0,,,4,America/Mexico_City,FALSE,1484276682
+El Bill,El Bill,Rancho El Bill,30.7614,-107.6217,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.0,,,5,America/Ciudad_Juarez,FALSE,1484628555
+Cañada Honda,Canada Honda,,22.0075,-102.1974,Mexico,MX,MEX,Aguascalientes,Aguascalientes,MX-AGU,state,,918.4,,,3,America/Mexico_City,FALSE,1484538554
+El Tahur,El Tahur,,18.5953,-91.0225,Mexico,MX,MEX,Campeche,Campeche,MX-CAM,state,,19.6,,,4,America/Merida,FALSE,1484021273
+Vigastepec,Vigastepec,,18.1802,-97.0365,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,31.8,,,4,America/Mexico_City,FALSE,1484019007
+Mesa del Agua de En Medio,Mesa del Agua de En Medio,,26.3346,-106.3632,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.0,,,5,America/Chihuahua,FALSE,1484383105
+Balcheil,Balcheil,,20.3333,-87.3667,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,10.3,,,4,America/Cancun,FALSE,1484858890
+Chichihual,Chichihual,,21.4416,-97.8176,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,40.3,,,4,America/Mexico_City,FALSE,1484918827
+Belén,Belen,,17.7891,-92.6114,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,2101.2,,,2,America/Mexico_City,FALSE,1484011488
+Belén,Belen,,18.2029,-92.9529,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,469.1,,,3,America/Mexico_City,TRUE,1484598419
+Cuernecillo,Cuernecillo,,21.2072,-102.2777,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,17.5,,,4,America/Mexico_City,FALSE,1484679468
+Chile Verde,Chile Verde,,16.8564,-92.9970,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,105.3,,,4,America/Mexico_City,FALSE,1484016890
+San Antonio del Plan,San Antonio del Plan,,21.0581,-100.5435,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,72.1,,,4,America/Mexico_City,FALSE,1484929297
+Chupisonora,Chupisonora,Chipisonora|Chigisonora,29.6143,-110.7906,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,3.3,,,5,America/Hermosillo,FALSE,1484598387
+Chupisonora,Chupisonora,Chipisonora|Chiposonora,30.2717,-110.5216,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.2,,,5,America/Hermosillo,TRUE,1484987984
+Sante Fe,Sante Fe,,25.9000,-103.3167,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,36.0,,,4,America/Monterrey,FALSE,1484176913
+El Toji,El Toji,,30.7510,-111.1984,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,4.1,,,5,America/Hermosillo,FALSE,1484881292
+Risiochi,Risiochi,,27.4800,-107.8290,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,14.1,,,4,America/Chihuahua,FALSE,1484233688
+Risiochi,Risiochi,,27.3125,-107.9604,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,7.6,,,5,America/Chihuahua,TRUE,1484517777
+Risiochi,Risiochi,,27.4446,-108.0288,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,5.9,,,5,America/Chihuahua,TRUE,1484214353
+Risiochi,Risiochi,,27.5618,-107.5318,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,4.8,,,5,America/Chihuahua,TRUE,1484709290
+San José la Grande,San Jose la Grande,,20.3772,-101.1312,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,110.4,,,4,America/Mexico_City,FALSE,1484670723
+El Treinta y Dos,El Treinta y Dos,Francisco Murrguia|Francisco I. Munguia,17.9676,-93.4990,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,1763.9,,,3,America/Mexico_City,FALSE,1484933842
+Hacienda de Arriba,Hacienda de Arriba,,21.0561,-101.2020,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,30.8,,,4,America/Mexico_City,FALSE,1484945977
+Velenciana de Gavia,Velenciana de Gavia,Valenciana de Gavia,20.8537,-101.5963,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,107.8,,,4,America/Mexico_City,FALSE,1484118869
+Hidalgo de Dolores,Hidalgo de Dolores,Dolores Hidalgo|Dolores,25.2666,-104.0932,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.1,,,5,America/Monterrey,FALSE,1484061968
+Benito Juárez Primera Sección,Benito Juarez Primera Seccion,,17.6011,-91.7300,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,8.6,,,5,America/Mexico_City,FALSE,1484668446
+Arroyo del Moro,Arroyo del Moro,,28.4425,-109.1114,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,3.1,,,5,America/Hermosillo,FALSE,1484010769
+El Ahijadero,El Ahijadero,,18.7630,-103.8211,Mexico,MX,MEX,Colima,Colima,MX-COL,state,,7.6,,,5,America/Mexico_City,FALSE,1484780995
+Agricultores del Norte Segunda Sección,Agricultores del Norte Segunda Seccion,,17.9222,-91.0976,Mexico,MX,MEX,Tabasco,Tabasco,MX-TAB,state,,7.8,,,5,America/Mexico_City,FALSE,1484021605
+Los Zamora,Los Zamora,,22.6829,-98.9892,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,47.2,,,4,America/Monterrey,FALSE,1484251669
+Llano Grande,Llano Grande,,19.0448,-103.9015,Mexico,MX,MEX,Colima,Colima,MX-COL,state,,26.0,,,4,America/Mexico_City,FALSE,1484524610
+Llano Grande,Llano Grande,,19.1333,-104.5000,Mexico,MX,MEX,Colima,Colima,MX-COL,state,,20.3,,,4,America/Mexico_City,TRUE,1484192902
+Ciénega Larga,Cienega Larga,Ciénega|Larga,19.7272,-98.0816,Mexico,MX,MEX,Puebla,Puebla,MX-PUE,state,,103.1,,,4,America/Mexico_City,FALSE,1484051499
+Tajo de Luis,Tajo de Luis,,26.2734,-111.8926,Mexico,MX,MEX,Baja California Sur,Baja California Sur,MX-BCS,state,,0.6,,,5,America/Mazatlan,FALSE,1484404815
+Sarmiento,Sarmiento,Cosalapa Sarmiento,18.3727,-96.5736,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,53.4,,,4,America/Mexico_City,FALSE,1484020283
+La Huertita,La Huertita,,20.8935,-100.8483,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,69.8,,,4,America/Mexico_City,FALSE,1484074098
+Las Mangas,Las Mangas,Los Manges,28.8525,-103.9133,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.6,,,5,America/Ojinaga,FALSE,1484141764
+Las Mangas,Las Mangas,,29.2390,-103.8324,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.6,,,5,America/Ojinaga,TRUE,1484068785
+Las Mangas,Las Mangas,,27.7737,-106.1872,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,0.6,,,5,America/Chihuahua,TRUE,1484693468
+Xocotlán,Xocotlan,,19.5163,-98.8463,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,1459.3,,,3,America/Mexico_City,FALSE,1484272212
+Uruchachi,Uruchachi,,27.5641,-107.0839,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,11.9,,,4,America/Chihuahua,FALSE,1484095927
+La Boquilla Zaragoza,La Boquilla Zaragoza,,22.1728,-103.2010,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,4.1,,,5,America/Mexico_City,FALSE,1484155297
+Vuelta del Río,Vuelta del Rio,,27.1500,-101.4333,Mexico,MX,MEX,Coahuila,Coahuila,MX-COA,state,,3.6,,,5,America/Monterrey,FALSE,1484520117
+Solera,Solera,,19.7356,-98.7716,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,214.2,,,3,America/Mexico_City,FALSE,1484520798
+Fracción Cerro Joyacán,Fraccion Cerro Joyacan,Joyacán,19.0848,-98.8124,Mexico,MX,MEX,México,Mexico,MX-MEX,state,,97.3,,,4,America/Mexico_City,FALSE,1484551222
+Alvarado,Alvarado,,22.3666,-101.9517,Mexico,MX,MEX,Zacatecas,Zacatecas,MX-ZAC,state,,5.8,,,5,America/Mexico_City,FALSE,1484396532
+Beatriz,Beatriz,,21.7500,-98.9667,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,10.0,,,5,America/Mexico_City,FALSE,1484083053
+Balún Canán,Balun Canan,Banum Canal,16.7965,-92.5385,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,130.9,,,4,America/Mexico_City,FALSE,1484853351
+Balún Canán,Balun Canan,,15.2155,-92.7697,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,57.5,,,4,America/Mexico_City,TRUE,1484670216
+Sajacanchén,Sajacanchen,,20.6500,-87.6167,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,4.4,,,5,America/Cancun,FALSE,1484473925
+Tecama,Tecama,,19.0038,-96.9853,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,167.3,,,4,America/Mexico_City,FALSE,1484766356
+Praxedis Gilberto Guerrero,Praxedis Gilberto Guerrero,,16.7214,-96.6370,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,114.9,,,4,America/Mexico_City,FALSE,1484386176
+Los Ojitos de Agua,Los Ojitos de Agua,,23.5386,-100.8530,Mexico,MX,MEX,San Luis Potosí,San Luis Potosi,MX-SLP,state,,6.5,,,5,America/Mexico_City,FALSE,1484437981
+Monavito,Monavito,,25.0833,-107.3167,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,5.4,,,5,America/Mazatlan,FALSE,1484825703
+Puerta de la Reserva,Puerta de la Reserva,La Puerta de la Reserva,20.6436,-101.6950,Mexico,MX,MEX,Guanajuato,Guanajuato,MX-GUA,state,,45.5,,,4,America/Mexico_City,FALSE,1484308793
+La Muralla,La Muralla,,22.8137,-99.3006,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,10.6,,,4,America/Monterrey,FALSE,1484497393
+La Muralla,La Muralla,,23.1597,-97.9335,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,7.2,,,5,America/Monterrey,TRUE,1484100437
+La Muralla,La Muralla,Rancho La Muralla,24.0535,-98.1116,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,3.5,,,5,America/Monterrey,TRUE,1484955449
+La Muralla,La Muralla,,24.8552,-98.5023,Mexico,MX,MEX,Tamaulipas,Tamaulipas,MX-TAM,state,,1.5,,,5,America/Monterrey,TRUE,1484311281
+Puruagua de Ramón Corona,Puruagua de Ramon Corona,,20.1509,-103.1574,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,16.4,,,4,America/Mexico_City,FALSE,1484027152
+Los Moros,Los Moros,,26.5088,-99.5160,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,22.0,,,4,America/Monterrey,FALSE,1484283231
+Las Rejas de Cerro Blanco,Las Rejas de Cerro Blanco,,22.6709,-104.3672,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,6.1,,,5,America/Monterrey,FALSE,1484290893
+Villalinda,Villalinda,,16.1460,-93.9282,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,21.4,,,4,America/Mexico_City,FALSE,1484024612
+El Rayanal,El Rayanal,,16.2015,-93.2499,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,29.1,,,4,America/Mexico_City,FALSE,1484442237
+El Rayanal,El Rayanal,,16.1627,-93.9095,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,21.4,,,4,America/Mexico_City,TRUE,1484024617
+Puerto el Viejo,Puerto el Viejo,,19.4659,-102.9810,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,0.8,,,5,America/Mexico_City,FALSE,1484005165
+Tetzintla,Tetzintla,Tetzintal,21.0667,-98.2500,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,68.8,,,4,America/Mexico_City,FALSE,1484276852
+Tetzintla,Tetzintla,,20.9927,-98.6777,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,66.2,,,4,America/Mexico_City,TRUE,1484193165
+Tetzintla,Tetzintla,,20.9158,-98.5622,Mexico,MX,MEX,Hidalgo,Hidalgo,MX-HID,state,,51.0,,,4,America/Mexico_City,TRUE,1484001418
+La Barranca de los Ranchos,La Barranca de los Ranchos,,18.4247,-102.7760,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,2.7,,,5,America/Mexico_City,FALSE,1484129770
+Bejucal,Bejucal,,15.5675,-92.6222,Mexico,MX,MEX,Chiapas,Chiapas,MX-CHP,state,,34.9,,,4,America/Mexico_City,FALSE,1484441911
+Cacica,Cacica,,17.0563,-97.9941,Mexico,MX,MEX,Oaxaca,Oaxaca,MX-OAX,state,,40.4,,,4,America/Mexico_City,FALSE,1484753172
+Los Trapiches,Los Trapiches,,19.8422,-96.8719,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,82.7,,,4,America/Mexico_City,FALSE,1484907339
+Paraje La Cueva,Paraje La Cueva,,27.2264,-106.7646,Mexico,MX,MEX,Chihuahua,Chihuahua,MX-CHH,state,,2.1,,,5,America/Chihuahua,FALSE,1484048592
+El Roncador,El Roncador,,19.2321,-100.8613,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,6.1,,,5,America/Mexico_City,FALSE,1484910381
+Xtomok Uno,Xtomok Uno,Xtomoc Uno,18.7906,-88.3201,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,12.6,,,4,America/Cancun,FALSE,1484539311
+Rancho la Lima,Rancho la Lima,,19.7667,-104.3396,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,55.4,,,4,America/Mexico_City,FALSE,1484694246
+Tepantita,Tepantita,Tepan,25.9197,-108.4365,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,23.3,,,4,America/Mazatlan,FALSE,1484135239
+Tepantita,Tepantita,,25.4088,-107.9069,Mexico,MX,MEX,Sinaloa,Sinaloa,MX-SIN,state,,17.0,,,4,America/Mazatlan,TRUE,1484768210
+Los Guzmanes,Los Guzmanes,,21.9103,-98.2956,Mexico,MX,MEX,Veracruz,Veracruz,MX-VER,state,,13.5,,,4,America/Mexico_City,FALSE,1484015853
+El Paraje,El Paraje,,19.4588,-100.6570,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,9.3,,,5,America/Mexico_City,FALSE,1484521723
+Tabí,Tabi,Tabil,19.7202,-88.2651,Mexico,MX,MEX,Quintana Roo,Quintana Roo,MX-ROO,state,,9.6,,,5,America/Cancun,FALSE,1484360367
+Junta de los Arroyos,Junta de los Arroyos,,18.7913,-101.2511,Mexico,MX,MEX,Michoacán,Michoacan,MX-MIC,state,,8.9,,,5,America/Mexico_City,FALSE,1484393393
+La Puerta del Cuervo,La Puerta del Cuervo,,21.5174,-102.3067,Mexico,MX,MEX,Jalisco,Jalisco,MX-JAL,state,,2.9,,,5,America/Mexico_City,FALSE,1484484174
+El Huajuco,El Huajuco,,32.3302,-116.5251,Mexico,MX,MEX,Baja California,Baja California,MX-BCN,state,,1.2,,,5,America/Tijuana,FALSE,1484281060
+San Martín de Porres,San Martin de Porres,,25.9126,-99.8219,Mexico,MX,MEX,Nuevo León,Nuevo Leon,MX-NLE,state,,0.9,,,5,America/Monterrey,FALSE,1484619958
+Carrileña,Carrilena,,28.7770,-109.0260,Mexico,MX,MEX,Sonora,Sonora,MX-SON,state,,0.9,,,5,America/Hermosillo,FALSE,1484441755
+La Loma Blanca,La Loma Blanca,,25.2758,-104.0668,Mexico,MX,MEX,Durango,Durango,MX-DUR,state,,7.6,,,5,America/Monterrey,FALSE,1484624685

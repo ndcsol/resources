@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Podgorica,Podgorica,Titograd,42.4414,19.2628,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,primary,125.3,173024,150977,1,Europe/Podgorica,FALSE,1499454516
+Nikšić,Niksic,,42.7778,18.9500,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,admin,37.0,32846,32846,2,Europe/Podgorica,FALSE,1499844133
+Ulcinj,Ulcinj,Dulcigno|Ulqin,41.9200,19.2000,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,admin,78.1,19921,19921,2,Europe/Podgorica,FALSE,1499867182
+Herceg Novi,Herceg Novi,Ercegnovi|Castelnuovo di Cattaro|Castelnuovo|Herceg-Novi,42.4530,18.5312,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,admin,70.2,19536,16493,2,Europe/Podgorica,FALSE,1499673791
+Pljevlja,Pljevlja,Plevlje|Plevlja|Ljevlja|Pljevlje,43.3567,19.3583,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,admin,14.2,19136,19136,2,Europe/Podgorica,FALSE,1499255431
+Budva,Budva,Budua|Butua,42.2881,18.8425,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,admin,109.3,17479,13338,2,Europe/Podgorica,FALSE,1499564238
+Bar,Bar,Antivari,42.1000,19.1000,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,admin,22.9,15868,13719,2,Europe/Podgorica,FALSE,1499197266
+Plav,Plav,Plavë,42.6000,19.9400,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,admin,28.4,13805,13805,2,Europe/Podgorica,FALSE,1499247875
+Rožaje,Rozaje,Rožaj|Rozhajë|Roža,42.8400,20.1600,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,admin,21.8,13608,9422,2,Europe/Podgorica,FALSE,1499854307
+Kotor,Kotor,Cattaro|Cattoro,42.4300,18.7700,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,admin,2.9,13347,961,2,Europe/Podgorica,FALSE,1499573612
+Bijelo Polje,Bijelo Polje,,43.0400,19.7500,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,admin,3.8,12900,3547,2,Europe/Podgorica,FALSE,1499452756
+Cetinje,Cetinje,Cettinge,42.3800,18.9200,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,admin,10.3,12460,9359,2,Europe/Podgorica,FALSE,1499733751
+Berane,Berane,Ivangrad|Beran,42.8400,19.8600,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,admin,15.4,11073,11073,2,Europe/Podgorica,FALSE,1499204492
+Tivat,Tivat,Teodo,42.4300,18.7000,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,admin,203.6,9367,9367,2,Europe/Podgorica,FALSE,1499952005
+Dobrota,Dobrota,Mesto Dobrota,42.4540,18.7680,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,8189,8189,4,Europe/Podgorica,FALSE,1499951936
+Petnjica,Petnjica,Petnica,42.9089,19.9644,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,admin,45.3,5482,5482,2,Europe/Podgorica,FALSE,1499532482
+Danilovgrad,Danilovgrad,,42.6100,19.0500,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,admin,33.0,5156,5156,2,Europe/Podgorica,FALSE,1499538261
+Tuzi,Tuzi,Tuz,42.3656,19.3314,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,,admin,156.7,4748,4748,2,Europe/Podgorica,FALSE,1499325970
+Škaljari,Skaljari,,42.4186,18.7664,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,3807,3807,4,Europe/Podgorica,FALSE,1499953671
+Burtaiši,Burtaisi,,42.0903,19.1081,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,3800,3800,4,Europe/Podgorica,FALSE,1499973254
+Bijela,Bijela,Bjela,42.4533,18.6556,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,3691,3691,4,Europe/Podgorica,FALSE,1499368844
+Mojkovac,Mojkovac,,42.9600,19.5800,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,admin,9.8,3590,3590,2,Europe/Podgorica,FALSE,1499103009
+Igalo,Igalo,,42.4589,18.5122,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,3355,3355,4,Europe/Podgorica,FALSE,1499969924
+Ibarac,Ibarac,,42.8350,20.1572,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,3135,3135,4,Europe/Podgorica,FALSE,1499275732
+Golubovci,Golubovci,,42.3344,19.2253,Montenegro,ME,MNE,Zeta,Zeta,ME-25,,admin,156.7,3110,3110,2,Europe/Podgorica,FALSE,1499735056
+Resnik,Resnik,,43.0381,19.7719,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,2967,2967,4,Europe/Podgorica,FALSE,1499138892
+Kolašin,Kolasin,,42.8236,19.5225,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,admin,11.0,2725,2725,2,Europe/Podgorica,FALSE,1499083772
+Šušanj,Susanj,,42.1094,19.0864,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,2630,2630,4,Europe/Podgorica,FALSE,1499877132
+Mojanovići,Mojanovici,,42.3383,19.2194,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,2593,2593,4,Europe/Podgorica,FALSE,1499101081
+Rakonje,Rakonje,,43.0197,19.7367,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,2291,2291,3,Europe/Podgorica,FALSE,1499313735
+Nedakusi,Nedakusi,,43.0539,19.7675,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,2158,2158,4,Europe/Podgorica,FALSE,1499860474
+Mrčevac,Mrcevac,,42.4186,18.7175,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,2110,2110,3,Europe/Podgorica,FALSE,1499562406
+Ozrinići,Ozrinici,Ozrimići,42.7539,18.9853,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,2057,2057,4,Europe/Podgorica,FALSE,1499148603
+Risan,Risan,Risano,42.5147,18.6950,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,2034,2034,4,Europe/Podgorica,FALSE,1499571786
+Sutomore,Sutomore,Spič|Sutomor,42.1428,19.0467,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,2004,2004,4,Europe/Podgorica,FALSE,1499629533
+Budimlja,Budimlja,Budimlje,42.8639,19.8917,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,1994,1994,4,Europe/Podgorica,FALSE,1499019236
+Žabljak,Zabljak,Aleksandrov Grad,43.1550,19.1208,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,admin,4.4,1937,1937,2,Europe/Podgorica,FALSE,1499125825
+Pešca,Pesca,,42.8239,19.8589,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,1894,1894,4,Europe/Podgorica,FALSE,1499516379
+Polje,Polje,,42.0892,19.1167,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,1869,1869,4,Europe/Podgorica,FALSE,1499506969
+Stari Bar,Stari Bar,,42.0872,19.1264,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,1864,1864,4,Europe/Podgorica,FALSE,1499630092
+Beran Selo,Beran Selo,Baran Selo|Berane,42.8531,19.8583,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,1832,1832,4,Europe/Podgorica,FALSE,1499751285
+Grbe,Grbe,,42.5000,19.1958,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,1730,1730,4,Europe/Podgorica,FALSE,1499950481
+Spuž,Spuz,,42.5081,19.1939,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,1696,1696,4,Europe/Podgorica,FALSE,1499096449
+Gusinje,Gusinje,Guci,42.5619,19.8339,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,admin,29.7,1673,1673,2,Europe/Podgorica,FALSE,1499342041
+Lješnica,Ljesnica,,43.0547,19.7319,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,1546,1546,4,Europe/Podgorica,FALSE,1499815047
+Rastovac,Rastovac,,42.8347,18.9403,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,1535,1535,4,Europe/Podgorica,FALSE,1499432068
+Čeluga,Celuga,,42.0753,19.1078,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,1481,1481,4,Europe/Podgorica,FALSE,1499209700
+Zelenika,Zelenika,Zelenica,42.4517,18.5767,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,1431,1431,3,Europe/Podgorica,FALSE,1499341663
+Dolac,Dolac,,42.8414,19.8517,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,1412,1412,4,Europe/Podgorica,FALSE,1499979975
+Petrovac na Moru,Petrovac na Moru,Petrovac,42.2056,18.9425,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,1398,1398,4,Europe/Podgorica,FALSE,1499245223
+Podi,Podi,,42.4636,18.5433,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,1358,1358,4,Europe/Podgorica,FALSE,1499652149
+Mahala,Mahala,,42.3506,19.2189,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,1346,1346,4,Europe/Podgorica,FALSE,1499176745
+Baošići,Baosici,Baošić,42.4429,18.6270,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,1346,1346,4,Europe/Podgorica,FALSE,1499136388
+Loznica,Loznica,Loznice|Lozince,43.0361,19.7569,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,1296,1296,3,Europe/Podgorica,FALSE,1499464735
+Mataguži,Mataguzi,,42.3208,19.2703,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,1292,1292,4,Europe/Podgorica,FALSE,1499339563
+Poljane,Poljane,,42.9714,19.5346,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,1281,1281,4,Europe/Podgorica,FALSE,1499899658
+Goričani,Goricani,,42.3300,19.2117,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,1205,1205,4,Europe/Podgorica,FALSE,1499115094
+Tomba,Tomba,,42.0797,19.1289,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,1187,1187,4,Europe/Podgorica,FALSE,1499166319
+Ðenovići,Denovici,Djenovići|Ðenović|Gjenović,42.4369,18.6019,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,1161,1161,4,Europe/Podgorica,FALSE,1499935884
+Prčanj,Prcanj,Perzagno,42.4575,18.7422,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,1130,1130,4,Europe/Podgorica,FALSE,1499056833
+Meljine,Meljine,Melligne,42.4558,18.5619,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,1123,1123,4,Europe/Podgorica,FALSE,1499258683
+Donji Štoj,Donji Stoj,Stoja|Štoj,41.9062,19.3016,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,1120,1120,4,Europe/Podgorica,FALSE,1499332194
+Plužine,Pluzine,,43.1500,18.8300,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,admin,1.3,1102,1102,2,Europe/Podgorica,FALSE,1499719205
+Donji Kokoti,Donji Kokoti,,42.4000,19.1833,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,1073,1073,4,Europe/Podgorica,FALSE,1499802444
+Potkrajci,Potkrajci,Potkrajće,43.0689,19.7714,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,1066,1066,4,Europe/Podgorica,FALSE,1499512757
+Andrijevica,Andrijevica,,42.7300,19.7900,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,admin,3.7,1048,1048,2,Europe/Podgorica,FALSE,1499379378
+Dobra Voda,Dobra Voda,,42.0439,19.1432,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,1046,1046,3,Europe/Podgorica,FALSE,1499801026
+Balabani,Balabani,,42.3248,19.2385,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,1014,1014,4,Europe/Podgorica,FALSE,1499560017
+Vranj,Vranj,,42.3260,19.2974,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,1012,1012,3,Europe/Podgorica,FALSE,1499373359
+Miločani,Milocani,,42.8288,18.9046,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,1006,1006,4,Europe/Podgorica,FALSE,1499633101
+Kodre,Kodre,,41.9297,19.2389,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,997,997,3,Europe/Podgorica,FALSE,1499598689
+Zaton,Zaton,,43.0019,19.7850,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,983,983,4,Europe/Podgorica,FALSE,1499173052
+Gornji Lužac,Gornji Luzac,Lužac,42.8317,19.8473,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,983,983,4,Europe/Podgorica,FALSE,1499350071
+Prnjavor,Prnjavor,,42.5981,19.9513,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,961,961,4,Europe/Podgorica,FALSE,1499000008
+Kalače,Kalace,,42.8563,20.0942,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,948,948,4,Europe/Podgorica,FALSE,1499719098
+Buče,Buce,,42.8197,19.8528,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,932,932,4,Europe/Podgorica,FALSE,1499624005
+Brezojevica,Brezojevica,Brezovica|Brezojevicë,42.6146,19.9258,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,929,929,4,Europe/Podgorica,FALSE,1499344757
+Kumbor,Kumbor,Kumbur,42.4406,18.5858,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,925,925,4,Europe/Podgorica,FALSE,1499970301
+Velembuši,Velembusi,,42.0997,19.1304,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,911,911,4,Europe/Podgorica,FALSE,1499498946
+Donja Rženica,Donja Rzenica,Donja Ržanica,42.8094,19.8754,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,910,910,4,Europe/Podgorica,FALSE,1499623238
+Bečići,Becici,Bečić,42.2839,18.8692,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,895,895,4,Europe/Podgorica,FALSE,1499968678
+Srpska,Srpska,,42.3701,19.2172,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,880,880,4,Europe/Podgorica,FALSE,1499780015
+Seošnica,Seosnica,Nurkovići,42.8509,20.1273,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,872,872,4,Europe/Podgorica,FALSE,1499832208
+Smailagića Polje,Smailagica Polje,,42.8241,19.5372,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,864,864,4,Europe/Podgorica,FALSE,1499513317
+Kuta,Kuta,,42.7394,19.1171,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,846,846,4,Europe/Podgorica,FALSE,1499112524
+Donja Lovnica,Donja Lovnica,Ramovići|Dolenji Lovnica,42.8719,20.1349,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,825,825,4,Europe/Podgorica,FALSE,1499510650
+Bijelo Polje,Bijelo Polje,,42.3031,19.1966,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,823,823,4,Europe/Podgorica,FALSE,1499987298
+Vir,Vir,,42.8494,18.9245,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,810,810,4,Europe/Podgorica,FALSE,1499273985
+Gornja Vrbica,Gornja Vrbica,,42.8784,20.0035,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,801,801,4,Europe/Podgorica,FALSE,1499030620
+Bajice,Bajice,,42.4003,18.8954,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,781,781,4,Europe/Podgorica,FALSE,1499024082
+Trpezi,Trpezi,Tërpezë,42.8984,20.0025,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,763,763,4,Europe/Podgorica,FALSE,1499762972
+Vladimir,Vladimir,,42.0067,19.3128,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,757,757,4,Europe/Podgorica,FALSE,1499144319
+Prošćenje,Proscenje,,42.9994,19.4936,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,755,755,3,Europe/Podgorica,FALSE,1499754482
+Radanovići,Radanovici,Radanović,42.3583,18.7611,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,752,752,4,Europe/Podgorica,FALSE,1499750997
+Donja Lastva,Donja Lastva,Selo Donja Lastva,42.4431,18.6886,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,751,751,3,Europe/Podgorica,FALSE,1499604965
+Kuti,Kuti,,42.4613,18.5810,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,729,729,4,Europe/Podgorica,FALSE,1499755639
+Prijevor,Prijevor,,42.2949,18.8079,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,713,713,4,Europe/Podgorica,FALSE,1499380082
+Botun,Botun,,42.3826,19.1986,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,697,697,4,Europe/Podgorica,FALSE,1499611958
+Židovići,Zidovici,,43.3528,19.3169,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,694,694,4,Europe/Podgorica,FALSE,1499233573
+Koljeno,Koljeno,Koleno,42.8404,20.1151,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,691,691,4,Europe/Podgorica,FALSE,1499014048
+Martinoviće,Martinovice,Martinovići,42.5774,19.8789,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,689,689,3,Europe/Podgorica,FALSE,1499476162
+Zaljevo,Zaljevo,Zaljev,42.0702,19.1311,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,685,685,4,Europe/Podgorica,FALSE,1499120542
+Balotići,Balotici,Balotiće,42.8319,20.2147,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,685,685,4,Europe/Podgorica,FALSE,1499873517
+Brajše,Brajse,Braiša,42.0230,19.3150,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,682,682,4,Europe/Podgorica,FALSE,1499438458
+Muo,Muo,Selo Muo,42.4304,18.7583,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,677,677,3,Europe/Podgorica,FALSE,1499775569
+Dapsići,Dapsici,Dapsiće,42.8442,19.9213,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,674,674,4,Europe/Podgorica,FALSE,1499377162
+Sutorina,Sutorina,,42.4483,18.5039,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,34.6,670,670,4,Europe/Podgorica,FALSE,1499113929
+Sukurić,Sukuric,Sukuruć,42.3263,19.3211,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,661,661,3,Europe/Podgorica,FALSE,1499667503
+Podbišće,Podbisce,,42.9485,19.5747,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,658,658,4,Europe/Podgorica,FALSE,1499639498
+Sladojevo Kopito,Sladojevo Kopito,Stadojevo Kopito,42.5283,19.1086,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,654,654,4,Europe/Podgorica,FALSE,1499752270
+Vusanje,Vusanje,Vuthaj,42.5294,19.8403,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,648,648,4,Europe/Podgorica,FALSE,1499814606
+Vojno Selo,Vojno Selo,,42.5792,19.9174,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,642,642,3,Europe/Podgorica,FALSE,1499981793
+Novo Selo,Novo Selo,Rasena,42.5020,19.1583,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,613,613,4,Europe/Podgorica,FALSE,1499302069
+Bać,Bac,,42.8877,20.2976,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,607,607,4,Europe/Podgorica,FALSE,1499432478
+Petnjik,Petnjik,Petnik,42.8333,19.9000,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,583,583,4,Europe/Podgorica,FALSE,1499748192
+Rasovo,Rasovo,,43.0453,19.7773,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,578,578,3,Europe/Podgorica,FALSE,1499223156
+Grbavci,Grbavci,,42.3664,19.1884,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,575,575,3,Europe/Podgorica,FALSE,1499511950
+Pečurice,Pecurice,Pečurica|Pečurici,42.0310,19.1732,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,573,573,3,Europe/Podgorica,FALSE,1499778994
+Prisoja,Prisoja,,42.7455,19.7801,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,566,566,4,Europe/Podgorica,FALSE,1499823461
+Komine,Komine,,43.3407,19.3152,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,565,565,4,Europe/Podgorica,FALSE,1499653934
+Vinicka,Vinicka,,42.7989,19.8314,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,558,558,4,Europe/Podgorica,FALSE,1499442175
+Beri,Beri,,42.4328,19.1849,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,556,556,3,Europe/Podgorica,FALSE,1499481067
+Dučice,Ducice,,42.7162,19.1234,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,552,552,4,Europe/Podgorica,FALSE,1499596307
+Ćurilac,Curilac,,42.5429,19.1213,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,548,548,3,Europe/Podgorica,FALSE,1499771990
+Kravari,Kravari,,42.0535,19.3483,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,547,547,4,Europe/Podgorica,FALSE,1499627949
+Sušćepan,Suscepan,,42.4668,18.5097,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,544,544,3,Europe/Podgorica,FALSE,1499138968
+Pitoma Loza,Pitoma Loza,,42.5099,19.1550,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,529,529,3,Europe/Podgorica,FALSE,1499218371
+Bukovica,Bukovica,,42.9373,20.2163,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,48.7,529,529,4,Europe/Podgorica,FALSE,1499071789
+Drijenak,Drijenak,,42.8407,19.5090,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,525,525,4,Europe/Podgorica,FALSE,1499412180
+Krute,Krute,,42.0140,19.2610,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,75.8,525,525,4,Europe/Podgorica,FALSE,1499048098
+Lozna,Lozna,,42.9531,19.8722,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,523,523,4,Europe/Podgorica,FALSE,1499288576
+Radovići,Radovici,Radović,42.3929,18.6702,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,515,515,3,Europe/Podgorica,FALSE,1499457116
+Kosić,Kosic,,42.5344,19.1544,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,515,515,3,Europe/Podgorica,FALSE,1499575090
+Donji Mileš,Donji Miles,,42.3892,19.3264,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,512,512,3,Europe/Podgorica,FALSE,1499367451
+Zgrada,Zgrada,Zgrade,42.1477,19.0401,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,512,512,4,Europe/Podgorica,FALSE,1499481946
+Dinoša,Dinosa,Dineša|Dinoši,42.4130,19.3390,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,500,500,4,Europe/Podgorica,FALSE,1499975338
+Sustaš,Sustas,Sustaši,42.1118,19.1192,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,498,498,3,Europe/Podgorica,FALSE,1499148453
+Berislavci,Berislavci,,42.3027,19.2176,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,496,496,3,Europe/Podgorica,FALSE,1499195601
+Lajkovići,Lajkovici,,42.3669,19.2150,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,486,486,4,Europe/Podgorica,FALSE,1499975075
+Mala Gorana,Mala Gorana,,41.9999,19.2077,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,484,484,4,Europe/Podgorica,FALSE,1499487699
+Lagatori,Lagatori,Lagatore,42.9137,19.9884,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,482,482,3,Europe/Podgorica,FALSE,1499025207
+Godijevo,Godijevo,,43.0000,19.8950,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,478,478,4,Europe/Podgorica,FALSE,1499285949
+Vladni,Vladni,Vladne|Vladnja,42.3417,19.2865,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,474,474,3,Europe/Podgorica,FALSE,1499309087
+Jablanica,Jablanica,,42.8945,20.3332,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,471,471,4,Europe/Podgorica,FALSE,1499686147
+Ðuraševići,Durasevici,Djuraševiči|Gjurasević,42.3938,18.6895,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,471,471,3,Europe/Podgorica,FALSE,1499279726
+Crnča,Crnca,Crnci|Crnče,42.9386,19.8519,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,466,466,3,Europe/Podgorica,FALSE,1499666293
+Kukulje,Kukulje,,43.0803,19.7383,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,464,464,4,Europe/Podgorica,FALSE,1499117544
+Farmaci,Farmaci,,42.4120,19.1928,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,462,462,3,Europe/Podgorica,FALSE,1499934468
+Stijena,Stijena,,42.4558,19.2048,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,457,457,3,Europe/Podgorica,FALSE,1499407274
+Desni Meteh,Desni Meteh,Meteh,42.6303,19.9949,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,452,452,3,Europe/Podgorica,FALSE,1499472342
+Kavač,Kavac,,42.4104,18.7498,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,122.1,443,443,3,Europe/Podgorica,FALSE,1499100383
+Biševo,Bisevo,,42.9069,20.2130,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,434,434,4,Europe/Podgorica,FALSE,1499568773
+Bogajići,Bogajici,Bogajiće,42.5838,19.9534,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,427,427,3,Europe/Podgorica,FALSE,1499213982
+Goražde,Gorazde,,42.8798,19.9284,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,423,423,4,Europe/Podgorica,FALSE,1499518965
+Sasovići,Sasovici,,42.4638,18.5701,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,422,422,3,Europe/Podgorica,FALSE,1499844008
+Klikovače,Klikovace,,42.4999,19.1852,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,422,422,3,Europe/Podgorica,FALSE,1499349174
+Vuča,Vuca,,42.9312,20.2703,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,418,418,3,Europe/Podgorica,FALSE,1499230270
+Gornji Vukovci,Gornji Vukovci,Vukovići|Vukovci,42.3338,19.2013,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,416,416,4,Europe/Podgorica,FALSE,1499000059
+Kunje,Kunje,Kunja,42.0131,19.1832,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,415,415,3,Europe/Podgorica,FALSE,1499174017
+Babin,Babin,Babino|Babina,42.9040,19.9034,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,413,413,3,Europe/Podgorica,FALSE,1499250863
+Sveti Stefan,Sveti Stefan,San Stefano,42.2558,18.8911,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,411,411,3,Europe/Podgorica,FALSE,1499611765
+Grižice,Grizice,Grižica,42.9016,20.1400,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,409,409,3,Europe/Podgorica,FALSE,1499118227
+Gornja Jošica,Gornja Josica,Jošice|Jošica,42.4625,18.6719,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,406,406,3,Europe/Podgorica,FALSE,1499044926
+Palež,Palez,,43.1821,19.1409,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,7.2,404,404,3,Europe/Podgorica,FALSE,1499816945
+Njegnjevo,Njegnjevo,Negnjevo,43.0836,19.7842,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,404,404,3,Europe/Podgorica,FALSE,1499072731
+Donje Selo,Donje Selo,,42.5474,19.1673,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,399,399,4,Europe/Podgorica,FALSE,1499683050
+Ravna Rijeka,Ravna Rijeka,,43.0058,19.6422,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,397,397,4,Europe/Podgorica,FALSE,1499500555
+Zoganj,Zoganj,Zoganje|Zogaj|Zoganji,41.9489,19.2836,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,397,397,3,Europe/Podgorica,FALSE,1499617011
+Radetina,Radetina,,42.8960,20.2571,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,394,394,3,Europe/Podgorica,FALSE,1499720373
+Glavati,Glavati,,42.3075,18.7756,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,391,391,4,Europe/Podgorica,TRUE,1499843464
+Donji Martinići,Donji Martinici,,42.5391,19.1804,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,387,387,3,Europe/Podgorica,FALSE,1499356385
+Žari,Zari,,43.0073,19.6129,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,385,385,3,Europe/Podgorica,FALSE,1499208978
+Pistula,Pistula,,41.9420,19.2675,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,384,384,3,Europe/Podgorica,FALSE,1499112802
+Lepenac,Lepenac,,42.9930,19.5930,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,28.3,382,382,4,Europe/Podgorica,FALSE,1499387158
+Velike Crnokrpe,Velike Crnokrpe,Novi Crnokrpe|Crnokrpe,42.9159,20.2347,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,379,379,3,Europe/Podgorica,FALSE,1499101565
+Boljanina,Boljanina,,43.0378,19.7992,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,379,379,3,Europe/Podgorica,FALSE,1499839874
+Dragovoljići,Dragovoljici,Dobrovoljići,42.7728,19.0430,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,370,370,3,Europe/Podgorica,FALSE,1499424947
+Sukobin,Sukobin,Sokubin,42.0118,19.3625,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,367,367,3,Europe/Podgorica,FALSE,1499948516
+Trešnjevo,Tresnjevo,,42.7659,19.8122,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,24.7,367,367,4,Europe/Podgorica,FALSE,1499899169
+Radmanci,Radmanci,Radmance,42.9217,19.9659,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,365,365,3,Europe/Podgorica,FALSE,1499112574
+Zagrađe,Zagrade,Zagrađa,42.1453,19.0236,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,364,364,4,Europe/Podgorica,FALSE,1499030383
+Podostrog,Podostrog,,42.3002,18.8407,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,364,364,3,Europe/Podgorica,FALSE,1499457043
+Šavnik,Savnik,,42.9500,19.1000,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,admin,5.3,364,364,2,Europe/Podgorica,FALSE,1499140506
+Dacići,Dacici,,42.8087,20.1778,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,364,364,3,Europe/Podgorica,FALSE,1499873766
+Gornja Lovnica,Gornja Lovnica,Gornja Lomnica,42.9024,20.1077,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,361,361,3,Europe/Podgorica,FALSE,1499135830
+Rastiš,Rastis,Gornji Rastiš|Donji Rastiš|Rastiša,42.0477,19.3291,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,358,358,3,Europe/Podgorica,FALSE,1499491131
+Zagrad,Zagrad,,42.7497,19.0933,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,357,357,4,Europe/Podgorica,FALSE,1499060315
+Ivanje,Ivanje,,43.0000,19.8700,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,356,356,4,Europe/Podgorica,FALSE,1499417114
+Bartula,Bartula,,42.0837,19.1368,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,355,355,3,Europe/Podgorica,FALSE,1499717214
+Goduša,Godusa,,42.9669,19.9397,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,355,355,3,Europe/Podgorica,FALSE,1499809833
+Gubavač,Gubavac,Gubovača,43.0967,19.7819,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,354,354,4,Europe/Podgorica,FALSE,1499533557
+Ðenđinovići,Dendinovici,,42.1461,19.0462,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,352,352,4,Europe/Podgorica,FALSE,1499576942
+Dobrakovo,Dobrakovo,Selo Kapetanovića,43.1394,19.7744,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,350,350,3,Europe/Podgorica,FALSE,1499109525
+Gornji Besnik,Gornji Besnik,Besnik,42.8816,20.2651,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,349,349,4,Europe/Podgorica,FALSE,1499326536
+Gornja Korita,Gornja Korita,Korito|Gornje Korito|Korita,43.0044,19.9597,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,346,346,3,Europe/Podgorica,FALSE,1499586065
+Kruševo,Krusevo,,42.5623,19.8651,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,340,340,3,Europe/Podgorica,FALSE,1499273949
+Šula,Sula,Šule|Šuli,43.3861,19.0592,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,340,340,4,Europe/Podgorica,FALSE,1499414256
+Miljevci,Miljevci,,42.1426,19.0504,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,340,340,4,Europe/Podgorica,FALSE,1499789786
+Prijelozi,Prijelozi,Priloge,42.9528,19.7911,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,339,339,3,Europe/Podgorica,FALSE,1499957159
+Morakovo,Morakovo,,42.7166,19.1571,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,336,336,3,Europe/Podgorica,FALSE,1499106737
+Donji Stoliv,Donji Stoliv,Stoliv Donji|Donji Stoli|Donje Stolivo,42.4724,18.7124,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,286.9,336,336,3,Europe/Podgorica,FALSE,1499483461
+Veliki Ostros,Veliki Ostros,,42.0783,19.3160,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,332,332,3,Europe/Podgorica,FALSE,1499603705
+Obrov,Obrov,Obrovo,43.0236,19.7431,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,330,330,3,Europe/Podgorica,FALSE,1499927090
+Arbneš,Arbnes,Arbaneš|Arbnež,42.0753,19.3403,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,327,327,4,Europe/Podgorica,FALSE,1499648531
+Potkula,Potkula,Podkula,42.5680,19.1424,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,325,325,3,Europe/Podgorica,FALSE,1499420338
+Sutvara,Sutvara,Stvara,42.3774,18.7669,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,325,325,3,Europe/Podgorica,FALSE,1499506159
+Staro Selo,Staro Selo,,42.7188,19.1064,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,323,323,3,Europe/Podgorica,FALSE,1499724540
+Velje Brdo,Velje Brdo,,42.4908,19.2183,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,319,319,3,Europe/Podgorica,FALSE,1499024746
+Bistrice,Bistrice,Bistrica,42.3057,19.1855,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,316,316,4,Europe/Podgorica,FALSE,1499321003
+Brezovik,Brezovik,,42.8188,18.9279,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,312,312,3,Europe/Podgorica,FALSE,1499814620
+Luštica,Lustica,,42.3967,18.6019,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,311,311,4,Europe/Podgorica,FALSE,1499477701
+Majstorovina,Majstorovina,Majsterovine|Majstorovine|Majstrovina,42.9742,19.6917,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,310,310,3,Europe/Podgorica,FALSE,1499401703
+Pržno,Przno,,42.2692,18.8942,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,310,310,3,Europe/Podgorica,FALSE,1499455304
+Crljenice,Crljenice,Crljenica,43.3569,19.3922,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,310,310,3,Europe/Podgorica,FALSE,1499471036
+Velika,Velika,Sjekirica Velika,42.6650,19.9560,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,308,308,4,Europe/Podgorica,FALSE,1499367974
+Lukovo,Lukovo,,42.8080,19.0162,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,307,307,4,Europe/Podgorica,FALSE,1499022630
+Dosuđe,Dosude,,42.5701,19.8464,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,306,306,4,Europe/Podgorica,FALSE,1499207692
+Kosići,Kosici,Kosić,42.0258,19.2731,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,306,306,3,Europe/Podgorica,FALSE,1499026817
+Grab,Grab,,43.2056,19.6178,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,305,305,4,Europe/Podgorica,FALSE,1499158751
+Zankovići,Zankovici,Zanković,42.1446,19.0478,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,305,305,3,Europe/Podgorica,FALSE,1499922201
+Jastreb,Jastreb,,42.5274,19.1360,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,303,303,3,Europe/Podgorica,FALSE,1499283448
+Štitari,Stitari,,42.9432,19.8375,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,36.0,303,303,3,Europe/Podgorica,FALSE,1499712058
+Dub,Dub,,42.3863,18.7656,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,302,302,4,Europe/Podgorica,FALSE,1499614490
+Skić,Skic,,42.6067,19.9418,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,302,302,3,Europe/Podgorica,FALSE,1499441841
+Žari,Zari,,43.0000,19.6256,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,36.0,301,301,4,Europe/Podgorica,FALSE,1499989031
+Ðurići,Durici,,42.4718,18.6806,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,300,300,4,Europe/Podgorica,FALSE,1499480528
+Mašnica,Masnica,,42.6671,19.8865,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,27.5,299,299,3,Europe/Podgorica,FALSE,1499920406
+Mitrovići,Mitrovici,,42.3644,19.2174,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,299,299,3,Europe/Podgorica,FALSE,1499694051
+Brajovići,Brajovici,,42.5536,19.1506,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,296,296,3,Europe/Podgorica,FALSE,1499204207
+Grahovo,Grahovo,Granovo,42.8668,20.1803,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,295,295,4,Europe/Podgorica,FALSE,1499088702
+Dobrinje,Dobrinje,,43.1514,19.7197,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,293,293,3,Europe/Podgorica,FALSE,1499963903
+Martići,Martici,,42.0919,19.2976,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,293,293,3,Europe/Podgorica,FALSE,1499573712
+Kanje,Kanje,Ukranje,43.1369,19.7542,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,293,293,3,Europe/Podgorica,FALSE,1499056127
+Tucanje,Tucanje,Tucanj,42.9311,19.9316,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,289,289,3,Europe/Podgorica,FALSE,1499563006
+Poda,Poda,,42.9436,19.8525,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,36.0,289,289,4,Europe/Podgorica,FALSE,1499429388
+Begovina,Begovina,Begovine,42.5140,19.1353,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,284,284,4,Europe/Podgorica,FALSE,1499617635
+Orahovića,Orahovica,,43.1131,19.7500,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,282,282,3,Europe/Podgorica,FALSE,1499634052
+Pripčići,Pripcici,Pripčiće,43.0033,19.7364,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,282,282,3,Europe/Podgorica,FALSE,1499503450
+Unevina,Unevina,Hunjevina,43.1056,19.7694,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,280,280,3,Europe/Podgorica,FALSE,1499249974
+Rakića Kuće,Rakica Kuce,Rakići,42.3883,19.2801,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,279,279,3,Europe/Podgorica,FALSE,1499966809
+Liverovići,Liverovici,,42.7417,19.0718,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,279,279,3,Europe/Podgorica,FALSE,1499635309
+Kaluđerac,Kaluderac,,42.1997,18.9655,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,279,279,3,Europe/Podgorica,FALSE,1499456024
+Orja Luka,Orja Luka,Orja,42.5642,19.0793,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,279,279,3,Europe/Podgorica,FALSE,1499467380
+Brca,Brca,Borca,42.1332,19.0657,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,278,278,4,Europe/Podgorica,FALSE,1499370222
+Virpazar,Virpazar,,42.2500,19.1000,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,277,277,4,Europe/Podgorica,FALSE,1499773581
+Štitarica,Stitarica,,42.9253,19.5428,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,273,273,3,Europe/Podgorica,FALSE,1499842350
+Goransko,Goransko,,43.1194,18.8303,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,272,272,4,Europe/Podgorica,FALSE,1499857969
+Gornja Ržanica,Gornja Rzanica,Gornja Rženica,42.6626,19.9161,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,269,269,3,Europe/Podgorica,FALSE,1499635520
+Perast,Perast,Perasto,42.4869,18.6992,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,269,269,4,Europe/Podgorica,FALSE,1499254106
+Šušunja,Susunja,Šošunja,42.3201,19.2226,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,267,267,3,Europe/Podgorica,FALSE,1499456043
+Vuksanlekići,Vuksanlekici,Vuksan-Lekić,42.3373,19.3399,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,267,267,3,Europe/Podgorica,FALSE,1499165560
+Mojdež,Mojdez,,42.4851,18.4907,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,264,264,3,Europe/Podgorica,FALSE,1499199226
+Donji Morinj,Donji Morinj,Morinj|Morigno,42.4892,18.6491,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,261,261,3,Europe/Podgorica,FALSE,1499502390
+Potrk,Potrk,,43.0447,19.6144,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,259,259,3,Europe/Podgorica,FALSE,1499177500
+Donji Orahovac,Donji Orahovac,Orahova|Orahovac,42.4905,18.7593,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,257,257,3,Europe/Podgorica,FALSE,1499101120
+Ponari,Ponari,Ponor,42.3167,19.1813,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,256,256,3,Europe/Podgorica,FALSE,1499996610
+Kalušići,Kalusici,,43.2414,19.0850,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,256,256,3,Europe/Podgorica,FALSE,1499377765
+Lekovina,Lekovina,,43.1519,19.6125,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,256,256,3,Europe/Podgorica,FALSE,1499205888
+Srđevac,Srdevac,,42.9544,19.8519,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,255,255,3,Europe/Podgorica,FALSE,1499441837
+Savin Bor,Savin Bor,,42.9498,20.0441,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,255,255,3,Europe/Podgorica,FALSE,1499348183
+Ðurička Rijeka,Duricka Rijeka,Ðurička Reka,42.5786,19.9363,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,254,254,4,Europe/Podgorica,FALSE,1499394170
+Pothum,Pothum,Nanhelm|Podhum,42.3097,19.3386,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,253,253,3,Europe/Podgorica,FALSE,1499516504
+Bare,Bare,,42.9381,19.2364,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,250,250,4,Europe/Podgorica,FALSE,1499137574
+Vijenac,Vijenac,,43.3885,19.0952,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,246,246,3,Europe/Podgorica,FALSE,1499921754
+Murino,Murino,Murina|Murinë,42.6619,19.8857,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,245,245,3,Europe/Podgorica,FALSE,1499787507
+Otilovići,Otilovici,,43.3433,19.4230,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,245,245,3,Europe/Podgorica,FALSE,1499183957
+Ðurmani,Durmani,,42.1631,19.0208,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,243,243,4,Europe/Podgorica,FALSE,1499632303
+Zagorje,Zagorje,,42.8189,19.9018,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,243,243,4,Europe/Podgorica,FALSE,1499940493
+Tomaševo,Tomasevo,Šahovići,43.0578,19.6364,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,243,243,3,Europe/Podgorica,FALSE,1499899352
+Daljam,Daljam,Daljan,42.4866,19.1793,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,42.4,241,241,3,Europe/Podgorica,FALSE,1499037445
+Kruševice,Krusevice,,42.5346,18.4944,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,240,240,3,Europe/Podgorica,FALSE,1499304430
+Šas,Sas,,41.9883,19.3186,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,238,238,4,Europe/Podgorica,FALSE,1499886147
+Fundina,Fundina,,42.4438,19.3643,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,237,237,3,Europe/Podgorica,FALSE,1499376709
+Šipačno,Sipacno,,42.8708,18.9431,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,237,237,3,Europe/Podgorica,FALSE,1499693636
+Paučina,Paucina,Bagočina|Paočina,42.9320,20.1537,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,236,236,3,Europe/Podgorica,FALSE,1499670626
+Bobulja,Bobulja,Bijelova Babulja|Babulja,42.5536,19.1636,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,235,235,3,Europe/Podgorica,FALSE,1499834504
+Mide,Mide,,42.0382,19.2649,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,234,234,4,Europe/Podgorica,FALSE,1499774152
+Jugovići,Jugovici,,42.7213,19.0919,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,233,233,4,Europe/Podgorica,FALSE,1499077701
+Velje Selo,Velje Selo,,42.0330,19.1983,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,233,233,3,Europe/Podgorica,FALSE,1499806378
+Kotrabudan,Kotrabudan,Kodrabudan,42.3180,19.3271,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,233,233,3,Europe/Podgorica,FALSE,1499585288
+Bratica,Bratica,,41.9513,19.1950,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,233,233,3,Europe/Podgorica,FALSE,1499162190
+Boreti,Boreti,Borete,42.2837,18.8630,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,231,231,3,Europe/Podgorica,FALSE,1499377203
+Gornja Brvenica,Gornja Brvenica,Gornja Brevenica,43.3786,19.2353,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,231,231,3,Europe/Podgorica,FALSE,1499856257
+Podglavica,Podglavica,,42.5250,19.1737,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,231,231,4,Europe/Podgorica,FALSE,1499122423
+Stevanovac,Stevanovac,,42.9903,19.5465,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,230,230,3,Europe/Podgorica,FALSE,1499484943
+Lubnice,Lubnice,Gornje Selo|Lubnica,42.8587,19.7679,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,229,229,4,Europe/Podgorica,FALSE,1499519067
+Pape,Pape,,43.0422,19.6767,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,229,229,4,Europe/Podgorica,FALSE,1499365973
+Zagreda,Zagreda,,42.5414,19.0720,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,228,228,4,Europe/Podgorica,FALSE,1499095961
+Kolonza,Kolonza,Kolomza,41.9406,19.2409,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,228,228,3,Europe/Podgorica,FALSE,1499382826
+Ubli,Ubli,,42.4906,19.3958,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,227,227,4,Europe/Podgorica,FALSE,1499538636
+Vrševo,Vrsevo,,42.9444,19.9597,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,226,226,3,Europe/Podgorica,FALSE,1499298076
+Zagrađe,Zagrade,,42.8710,19.9351,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,226,226,3,Europe/Podgorica,FALSE,1499059599
+Godočelje,Godocelje,,42.9159,19.9401,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,225,225,3,Europe/Podgorica,FALSE,1499935993
+Mišići,Misici,,42.1665,19.0126,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,224,224,4,Europe/Podgorica,FALSE,1499363366
+Trebesinj,Trebesinj,Trebešin|Trebižin,42.4723,18.5239,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,224,224,3,Europe/Podgorica,FALSE,1499101608
+Žiljak,Ziljak,,43.0747,19.8219,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,222,222,3,Europe/Podgorica,FALSE,1499748075
+Bor,Bor,,42.9459,20.0189,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,222,222,4,Europe/Podgorica,FALSE,1499528889
+Bjeloševina,Bjelosevina,,42.7204,19.1375,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,217,217,3,Europe/Podgorica,FALSE,1499864487
+Njegovuđa,Njegovuda,Negobuđa,43.1225,19.2203,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,216,216,4,Europe/Podgorica,FALSE,1499541791
+Gošići,Gosici,Gošić,42.3975,18.6624,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,274.3,212,212,3,Europe/Podgorica,FALSE,1499022736
+Stanjevića Rupa,Stanjevica Rupa,,42.5386,19.2196,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,211,211,3,Europe/Podgorica,FALSE,1499445520
+Vranjina,Vranjina,,42.2783,19.1347,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,209,209,4,Europe/Podgorica,FALSE,1499086485
+Zbljevo,Zbljevo,,43.3231,19.3039,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,209,209,3,Europe/Podgorica,FALSE,1499575692
+Rovačko Trebaljevo,Rovacko Trebaljevo,,42.8649,19.5320,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,208,208,3,Europe/Podgorica,FALSE,1499256173
+Mirojevići,Mirojevici,Mirovići,43.0711,19.8336,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,208,208,3,Europe/Podgorica,FALSE,1499195741
+Donje Mrke,Donje Mrke,Mrke,42.5116,19.3371,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,207,207,3,Europe/Podgorica,FALSE,1499267303
+Buljarica,Buljarica,,42.1986,18.9653,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,205,205,4,Europe/Podgorica,FALSE,1499823348
+Metanjac,Metanjac,Metanac,43.1189,19.7686,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,205,205,3,Europe/Podgorica,FALSE,1499131282
+Kopito,Kopito,Kopito Petrovića,42.5444,19.1367,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,204,204,3,Europe/Podgorica,FALSE,1499862108
+Borovica,Borovica,,43.3036,19.3158,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,204,204,3,Europe/Podgorica,FALSE,1499082446
+Voljavac,Voljavac,,43.1136,19.7867,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,202,202,3,Europe/Podgorica,FALSE,1499129542
+Bjelojeviće,Bjelojevice,Bjelojevići,42.9356,19.5995,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,202,202,4,Europe/Podgorica,FALSE,1499938413
+Selišta,Selista,Selište,42.8291,19.5456,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,200,200,4,Europe/Podgorica,FALSE,1499585528
+Nudo,Nudo,,42.6748,18.5699,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,29.0,199,199,3,Europe/Podgorica,FALSE,1499609562
+Bogaje,Bogaje,Bogajni|Bogaj|Bogaji,42.8411,20.0844,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,198,198,3,Europe/Podgorica,FALSE,1499340343
+Grančarevo,Grancarevo,,43.0989,19.6769,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,198,198,3,Europe/Podgorica,FALSE,1499416920
+Kruta,Kruta,Krute|Krute Ulcinjsko,41.9694,19.1845,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,196,196,3,Europe/Podgorica,FALSE,1499827511
+Babljak,Babljak,,42.8335,19.5132,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,194,194,3,Europe/Podgorica,FALSE,1499528846
+Dubočke,Dubocke,,42.9247,18.6533,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,194,194,4,Europe/Podgorica,FALSE,1499742590
+Lekići,Lekici,,42.3903,19.1901,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,193,193,3,Europe/Podgorica,FALSE,1499473368
+Omer-Božovići,Omer-Bozovici,Omerboževići,42.4228,19.3120,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,193,193,3,Europe/Podgorica,FALSE,1499280617
+Podi,Podi,,42.0723,19.1434,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,192,192,4,Europe/Podgorica,FALSE,1499392505
+Femića Krš,Femica Krs,,42.9711,19.7875,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,191,191,3,Europe/Podgorica,FALSE,1499686885
+Zminjac,Zminjac,Zminac,43.0217,19.8503,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,190,190,3,Europe/Podgorica,FALSE,1499025501
+Mataruge,Mataruge,,43.2658,19.4589,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,189,189,3,Europe/Podgorica,FALSE,1499147904
+Dušići,Dusici,,42.3444,19.3078,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,188,188,3,Europe/Podgorica,FALSE,1499232826
+Gornje Zaostro,Gornje Zaostro,Zaostro,42.8900,19.8356,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,187,187,3,Europe/Podgorica,FALSE,1499951948
+Carine,Carine,,42.7286,18.6044,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,187,187,4,Europe/Podgorica,TRUE,1499640637
+Gradina,Gradina,,42.5390,19.2059,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,187,187,4,Europe/Podgorica,FALSE,1499242416
+Lepetani,Lepetani,Lepetane,42.4658,18.6864,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,237.8,184,184,3,Europe/Podgorica,FALSE,1499108307
+Šumani,Sumani,,43.2892,19.3222,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,184,184,3,Europe/Podgorica,FALSE,1499620849
+Bogišići,Bogisici,,42.3965,18.6808,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,184,184,3,Europe/Podgorica,FALSE,1499325552
+Bijela Crkva,Bijela Crkva,,42.8722,20.1914,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,183,183,3,Europe/Podgorica,FALSE,1499755956
+Vidre,Vidre,,43.3486,19.2986,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,182,182,3,Europe/Podgorica,FALSE,1499099588
+Kosanica,Kosanica,,43.1959,19.3185,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,182,182,4,Europe/Podgorica,FALSE,1499185546
+Gornji Crnci,Gornji Crnci,Crnci,42.5332,19.2353,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,182,182,4,Europe/Podgorica,FALSE,1499823989
+Boljevići,Boljevici,,42.2240,19.0884,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,181,181,4,Europe/Podgorica,FALSE,1499643806
+Bubanje,Bubanje,Kačmor,42.9565,19.8320,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,180,180,3,Europe/Podgorica,FALSE,1499002093
+Bobovište,Boboviste,Bobovišta,42.1167,19.2705,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,180,180,4,Europe/Podgorica,FALSE,1499784595
+Grnčar,Grncar,,42.5801,19.8024,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,180,180,4,Europe/Podgorica,FALSE,1499744370
+Lijeska,Lijeska,,43.0592,19.6069,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,179,179,4,Europe/Podgorica,FALSE,1499284505
+Riđani,Ridani,,42.7672,18.8933,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,179,179,4,Europe/Podgorica,FALSE,1499309986
+Kaludra,Kaludra,Kalludër,42.7722,19.8436,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,178,178,4,Europe/Podgorica,FALSE,1499836764
+Bioče,Bioce,Bioča,42.5167,19.3500,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,177,177,4,Europe/Podgorica,FALSE,1499199097
+Drešaj,Dresaj,,42.3206,19.3371,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,176,176,3,Europe/Podgorica,FALSE,1499414557
+Lazovići,Lazovici,,43.0203,19.9925,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,175,175,3,Europe/Podgorica,FALSE,1499926930
+Cerovo,Cerovo,,43.0289,19.7044,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,175,175,4,Europe/Podgorica,FALSE,1499730475
+Trubina,Trubina,Trubino,42.9347,19.8739,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,36.0,175,175,3,Europe/Podgorica,FALSE,1499102407
+Rijeka Crnojevića,Rijeka Crnojevica,Rijeka,42.3500,19.0333,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,175,175,3,Europe/Podgorica,FALSE,1499939358
+Kraljske Bare,Kraljske Bare,Bare|Bare Kraljske,42.7469,19.6206,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,175,175,3,Europe/Podgorica,FALSE,1499585833
+Grdoći,Grdoci,,42.0849,19.3216,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,91.3,175,175,4,Europe/Podgorica,FALSE,1499000625
+Pobretiće,Pobretice,Pobratići|Pobretići,43.0578,19.8347,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,175,175,3,Europe/Podgorica,FALSE,1499269905
+Mezgalji,Mezgalji,Mezgalje|Mazgalji,42.7529,19.8739,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,174,174,3,Europe/Podgorica,FALSE,1499931886
+Bastasi,Bastasi,,42.7361,19.0847,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,172,172,4,Europe/Podgorica,FALSE,1499908552
+Gračanica,Gracanica,,42.6960,19.8458,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,26.2,172,172,3,Europe/Podgorica,FALSE,1499887594
+Ulotina,Ulotina,,42.6833,19.8459,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,171,171,3,Europe/Podgorica,FALSE,1499458578
+Vilusi,Vilusi,Viluse,42.7280,18.5920,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,171,171,4,Europe/Podgorica,FALSE,1499910256
+Lisna Bori,Lisna Bori,,42.0006,19.3631,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,171,171,3,Europe/Podgorica,FALSE,1499219674
+Hoti,Hoti,Hote-Zabelj,42.5579,19.9555,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,169,169,4,Europe/Podgorica,FALSE,1499327748
+Koštanica,Kostanica,,42.0897,19.2793,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,99.4,168,168,3,Europe/Podgorica,FALSE,1499805837
+Gornje Polje,Gornje Polje,,42.6578,18.6474,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,168,168,4,Europe/Podgorica,FALSE,1499881699
+Kralje,Kralje,,42.7357,19.7557,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,168,168,3,Europe/Podgorica,FALSE,1499213938
+Gruda,Gruda,,42.5176,19.1152,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,167,167,4,Europe/Podgorica,FALSE,1499974536
+Plumci,Plumci,Plunci,42.8410,20.1958,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,166,166,3,Europe/Podgorica,FALSE,1499984399
+Žurena,Zurena,,42.9706,19.8211,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,166,166,3,Europe/Podgorica,FALSE,1499065354
+Drume,Drume,,42.3273,19.3770,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,166,166,3,Europe/Podgorica,FALSE,1499628143
+Kostići,Kostici,Kostiće,42.9914,19.8258,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,166,166,3,Europe/Podgorica,FALSE,1499076908
+Katun,Katun,Katun Lindarski|Katuni,43.2719,19.3403,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,165,165,3,Europe/Podgorica,FALSE,1499790442
+Kolenovići,Kolenovici,Kolenoviće,42.5542,19.8412,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,165,165,4,Europe/Podgorica,FALSE,1499248640
+Gornja Klezna,Gornja Klezna,Gornji Klenza,41.9976,19.2617,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,165,165,3,Europe/Podgorica,FALSE,1499228189
+Klakorina,Klakorina,Klakorine,43.5139,19.0381,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,165,165,3,Europe/Podgorica,FALSE,1499480138
+Trepča,Trepca,,42.7783,19.8148,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,165,165,4,Europe/Podgorica,FALSE,1499320975
+Bliškovo,Bliskovo,,43.1533,19.5569,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,165,165,3,Europe/Podgorica,FALSE,1499837482
+Zabrđe,Zabrde,,42.7642,19.7791,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,16.5,165,165,4,Europe/Podgorica,FALSE,1499147950
+Prehari,Prehari,,43.4686,19.0839,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,165,165,3,Europe/Podgorica,FALSE,1499533910
+Krševo,Krsevo,Krševa,42.3934,19.3640,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,164,164,3,Europe/Podgorica,FALSE,1499081181
+Petrovići,Petrovici,Petrovac|Petrovic,42.7707,18.5173,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,29.6,163,163,4,Europe/Podgorica,FALSE,1499301727
+Vučica,Vucica,,42.5768,19.1051,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,162,162,4,Europe/Podgorica,FALSE,1499700826
+Bojke,Bojke,Bojka,42.0383,19.2858,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,161,161,3,Europe/Podgorica,FALSE,1499899173
+Glavati,Glavati,,42.3084,18.7899,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,160,160,3,Europe/Podgorica,FALSE,1499852858
+Mugošina Livada,Mugosina Livada,Livade|Livada,42.5086,19.1288,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,42.4,160,160,4,Europe/Podgorica,FALSE,1499500332
+Dabezići,Dabezici,,42.0373,19.2075,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,160,160,3,Europe/Podgorica,FALSE,1499951929
+Bandžov,Bandzov,,42.7826,20.1270,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,159,159,3,Europe/Podgorica,FALSE,1499198181
+Gostilj,Gostilj,Gostilje,42.3046,19.2381,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,159,159,4,Europe/Podgorica,FALSE,1499126483
+Marsenića Rijeka,Marsenica Rijeka,Rijeka Marsenića|Marsenići|Rijeka Marsenići,42.7816,19.8376,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,159,159,3,Europe/Podgorica,FALSE,1499881729
+Božići,Bozici,Božiće,42.7266,19.7873,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,157,157,4,Europe/Podgorica,FALSE,1499323556
+Džafića Brdo,Dzafica Brdo,Brdo,43.0439,19.7556,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,156,156,4,Europe/Podgorica,FALSE,1499745895
+Motički Gaj,Moticki Gaj,,43.1321,19.1113,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,156,156,3,Europe/Podgorica,FALSE,1499409170
+Čokrlije,Cokrlije,Cokrlje,43.1006,19.6236,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,153,153,3,Europe/Podgorica,FALSE,1499607758
+Bršno,Brsno,,42.7313,19.0237,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,152,152,3,Europe/Podgorica,FALSE,1499202185
+Rastoka,Rastoka,Rastok,43.0292,19.7758,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,152,152,3,Europe/Podgorica,FALSE,1499731422
+Stožer,Stozer,,43.0989,19.5111,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,35.8,151,151,3,Europe/Podgorica,FALSE,1499063928
+Lalevići,Lalevici,,42.5642,19.0943,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,151,151,3,Europe/Podgorica,FALSE,1499749926
+Leševići,Lesevici,Lješevići|Lješević,42.3691,18.7249,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,150,150,3,Europe/Podgorica,FALSE,1499714538
+Mašte,Maste,,42.8800,19.8881,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,149,149,3,Europe/Podgorica,FALSE,1499791150
+Bušnje,Busnje,,43.3781,19.2797,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,148,148,3,Europe/Podgorica,FALSE,1499842152
+Cerovo,Cerovo,,42.6685,18.9730,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,148,148,4,Europe/Podgorica,FALSE,1499278608
+Sekulići,Sekulici,,42.5605,19.1250,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,147,147,4,Europe/Podgorica,FALSE,1499731658
+Nalježići,Naljezici,,42.3742,18.7757,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,147,147,3,Europe/Podgorica,FALSE,1499141314
+Štedim,Stedim,,42.7726,18.9028,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,147,147,3,Europe/Podgorica,FALSE,1499282825
+Ðurđevića Tara,Durdevica Tara,,43.1586,19.2967,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,147,147,4,Europe/Podgorica,FALSE,1499972122
+Kakmuži,Kakmuzi,Kakmuže,43.2953,19.2314,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,146,146,3,Europe/Podgorica,FALSE,1499833610
+Tuđemili,Tudemili,Tuđemile,42.1337,19.1449,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,146,146,3,Europe/Podgorica,FALSE,1499895883
+Crhalj,Crhalj,Crgalje,42.9792,19.9244,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,145,145,3,Europe/Podgorica,FALSE,1499146587
+Ljuće,Ljuce,,43.3100,19.3067,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,144,144,3,Europe/Podgorica,FALSE,1499464750
+Pavino Polje,Pavino Polje,,43.1400,19.6270,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,142,142,3,Europe/Podgorica,FALSE,1499354002
+Kozica,Kozica,Kozice,43.2375,19.5056,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,142,142,4,Europe/Podgorica,FALSE,1499273566
+Kruče,Kruce,Kruci,41.9863,19.1541,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,142,142,3,Europe/Podgorica,FALSE,1499464604
+Gorica,Gorica,,42.5625,19.1306,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,141,141,3,Europe/Podgorica,FALSE,1499129907
+Bašće,Basce,Bašča,42.9116,20.1318,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,141,141,4,Europe/Podgorica,FALSE,1499350856
+Pelinkovići,Pelinkovici,,42.0033,19.2343,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,74.4,141,141,3,Europe/Podgorica,FALSE,1499161451
+Donja Brezna,Donja Brezna,,42.9967,18.9016,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,140,140,3,Europe/Podgorica,FALSE,1499289043
+Glisnica,Glisnica,,43.4064,19.2081,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,139,139,3,Europe/Podgorica,FALSE,1499070189
+Skorač,Skorac,,42.3676,19.3902,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,137,137,3,Europe/Podgorica,FALSE,1499594833
+Donje Zaostro,Donje Zaostro,,42.8860,19.8563,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,137,137,3,Europe/Podgorica,FALSE,1499202984
+Zupci,Zupci,,42.1281,19.1217,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,136,136,3,Europe/Podgorica,FALSE,1499201825
+Tupan,Tupan,,42.7893,18.6352,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,135,135,4,Europe/Podgorica,FALSE,1499815174
+Laz,Laz,,42.7561,19.0378,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,135,135,4,Europe/Podgorica,FALSE,1499302951
+Darza,Darza,,41.9481,19.3178,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,135,135,3,Europe/Podgorica,FALSE,1499566506
+Pećarska,Pecarska,,43.1011,19.8203,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,133,133,3,Europe/Podgorica,FALSE,1499143005
+Veliko Krće,Veliko Krce,Gornje Krće|Velike Krće|Donje Krće,43.4067,19.2456,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,133,133,3,Europe/Podgorica,FALSE,1499259223
+Vranovići,Vranovici,Vranović,42.3105,18.8032,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,133,133,3,Europe/Podgorica,FALSE,1499669227
+Vrulja,Vrulja,,43.2054,19.4796,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,131,131,3,Europe/Podgorica,FALSE,1499593474
+Ratiševina,Ratisevina,,42.4783,18.5018,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,130,130,3,Europe/Podgorica,FALSE,1499194154
+Bakovići,Bakovici,,42.8461,19.5179,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,130,130,4,Europe/Podgorica,FALSE,1499121421
+Zagorak,Zagorak,,42.6197,19.0306,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,130,130,3,Europe/Podgorica,FALSE,1499992222
+Krasići,Krasici,,42.4106,18.6444,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,130,130,4,Europe/Podgorica,FALSE,1499658505
+Klenak,Klenak,,42.8162,18.5635,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,130,130,3,Europe/Podgorica,FALSE,1499366469
+Kalica,Kalica,,42.8883,20.0372,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,128,128,3,Europe/Podgorica,FALSE,1499513567
+Kameno,Kameno,,42.4789,18.5295,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,128,128,4,Europe/Podgorica,FALSE,1499496887
+Dolja,Dolja,Ðurovići,42.5582,19.8098,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,128,128,4,Europe/Podgorica,FALSE,1499328175
+Višnjevo,Visnjevo,,42.2919,18.7728,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,128,128,4,Europe/Podgorica,FALSE,1499010285
+Pitomine,Pitomine,,43.1553,19.0997,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,128,128,3,Europe/Podgorica,FALSE,1499929662
+Donja Kostanjica,Donja Kostanjica,Kostanjica,42.4847,18.6672,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,127,127,3,Europe/Podgorica,FALSE,1499324687
+Dubovo,Dubovo,,43.0078,19.8194,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,126,126,4,Europe/Podgorica,FALSE,1499514031
+Sipanje,Sipanje,,43.0000,19.9364,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,126,126,3,Europe/Podgorica,FALSE,1499705059
+Andželati,Andzelati,Antelat|Andželate|Anđelat|Anđelate,42.7198,19.7978,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,126,126,3,Europe/Podgorica,FALSE,1499593480
+Donja Klezna,Donja Klezna,,41.9867,19.2786,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,126,126,3,Europe/Podgorica,FALSE,1499395324
+Viš,Vis,,42.6114,19.0609,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,125,125,3,Europe/Podgorica,FALSE,1499333753
+Obarde,Obarde,,43.3086,19.5151,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,125,125,3,Europe/Podgorica,FALSE,1499519205
+Donja Rudnica,Donja Rudnica,Rudnica,43.3744,19.3219,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,124,124,4,Europe/Podgorica,FALSE,1499923283
+Radigojno,Radigojno,Radigojna,42.8398,19.5311,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,123,123,3,Europe/Podgorica,FALSE,1499912271
+Hoćevina,Hocevina,,43.3181,19.2481,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,123,123,3,Europe/Podgorica,FALSE,1499287255
+Donje Lipovo,Donje Lipovo,,42.8631,19.4650,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,123,123,3,Europe/Podgorica,FALSE,1499773723
+Mratinje,Mratinje,,43.2596,18.8161,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,122,122,3,Europe/Podgorica,FALSE,1499961391
+Buturiće,Buturice,Boturići|Boturić|Boturiće,43.0697,19.8214,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,122,122,3,Europe/Podgorica,FALSE,1499257742
+Grahovo,Grahovo,,42.6522,18.6722,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,120,120,3,Europe/Podgorica,FALSE,1499712229
+Tušina,Tusina,Tušinja,42.9491,19.1978,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,120,120,3,Europe/Podgorica,FALSE,1499667452
+Dragosava,Dragosava,Dragoslava,42.8932,19.8939,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,120,120,3,Europe/Podgorica,FALSE,1499919396
+Malenza,Malenza,,42.4943,19.0910,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,119,119,3,Europe/Podgorica,FALSE,1499530218
+Donja Brvenica,Donja Brvenica,,43.3736,19.2283,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,118,118,3,Europe/Podgorica,FALSE,1499346607
+Grahovac,Grahovac,,42.6878,18.6114,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,117,117,3,Europe/Podgorica,FALSE,1499996554
+Crnodoli,Crnodoli,,42.7917,18.8768,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,117,117,3,Europe/Podgorica,FALSE,1499563377
+Koprivice,Koprivice,,42.9036,18.5954,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,117,117,3,Europe/Podgorica,FALSE,1499879960
+Čestin,Cestin,,43.4181,19.0300,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,116,116,3,Europe/Podgorica,FALSE,1499014677
+Vasiljevići,Vasiljevici,,42.7246,19.1216,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,116,116,3,Europe/Podgorica,FALSE,1499742914
+Donja Vrbica,Donja Vrbica,,42.8865,19.9851,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,114,114,3,Europe/Podgorica,FALSE,1499118451
+Krš,Krs,,43.1260,19.2614,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,114,114,4,Europe/Podgorica,FALSE,1499341134
+Bigovo,Bigovo,,42.3569,18.7042,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,90.1,114,114,3,Europe/Podgorica,FALSE,1499316059
+Potpeće,Potpece,Podpeće|Podpeć,43.3042,19.2850,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,113,113,4,Europe/Podgorica,FALSE,1499306850
+Gluhi Do,Gluhi Do,,42.2022,19.0490,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,113,113,3,Europe/Podgorica,FALSE,1499305902
+Ljutići,Ljutici,,43.2408,19.4564,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,113,113,3,Europe/Podgorica,FALSE,1499894698
+Dulovine,Dulovine,,42.8187,19.5262,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,112,112,3,Europe/Podgorica,FALSE,1499114992
+Štodra,Stodra,,41.9857,19.3688,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,112,112,3,Europe/Podgorica,FALSE,1499147312
+Mali Ostros,Mali Ostros,,42.0869,19.3104,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,98.5,111,111,3,Europe/Podgorica,FALSE,1499022466
+Pobrđe,Pobrde,Pobrjge|Pobrgje|Pobro,42.3499,18.7457,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,110,110,4,Europe/Podgorica,FALSE,1499802039
+Blatina,Blatina,,42.8544,19.4828,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,110,110,3,Europe/Podgorica,FALSE,1499726202
+Kurilo,Kurilo,,42.2989,19.1824,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,110,110,3,Europe/Podgorica,FALSE,1499676194
+Skakavac,Skakavac,Skakovac,42.9057,19.8677,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,110,110,4,Europe/Podgorica,FALSE,1499743136
+Gornja Draževina,Gornja Drazevina,Draževina,42.4300,19.1344,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,110,110,3,Europe/Podgorica,FALSE,1499713212
+Kostanica,Kostanica,Kostenica,43.0414,19.8547,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,109,109,3,Europe/Podgorica,FALSE,1499280411
+Orahovo,Orahovo,,42.9413,19.9156,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,41.8,109,109,3,Europe/Podgorica,FALSE,1499077998
+Velimlje,Velimlje,Velimje,42.8202,18.6337,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,109,109,3,Europe/Podgorica,FALSE,1499792097
+Kovači,Kovaci,,42.3157,18.7683,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,108,108,4,Europe/Podgorica,FALSE,1499102139
+Slatina,Slatina,,43.3553,19.4400,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,107,107,3,Europe/Podgorica,FALSE,1499117039
+Alići,Alici,,43.2543,19.3562,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,107,107,3,Europe/Podgorica,FALSE,1499805552
+Ostrelj,Ostrelj,Ostreli,42.9715,19.7429,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,107,107,3,Europe/Podgorica,FALSE,1499657441
+Gornji Štoj,Gornji Stoj,,41.8881,19.3514,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,107,107,3,Europe/Podgorica,FALSE,1499744046
+Baščinovići,Bascinovici,Boščinovići,43.2878,19.3508,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,105,105,3,Europe/Podgorica,FALSE,1499867617
+Plana,Plana,,42.8542,19.5055,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,105,105,4,Europe/Podgorica,FALSE,1499843449
+Prijevor,Prijevor,,42.4897,18.4518,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,34.6,104,104,4,Europe/Podgorica,FALSE,1499466469
+Jelenak,Jelenak,,42.5639,19.1510,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,104,104,3,Europe/Podgorica,FALSE,1499781738
+Dašča Rijeka,Dasca Rijeka,Dahča Reka,42.9447,20.0789,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,103,103,3,Europe/Podgorica,FALSE,1499927358
+Brda,Brda,,43.4758,19.0453,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,103,103,3,Europe/Podgorica,FALSE,1499202319
+Bobovo,Bobovo,,43.2696,19.1326,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,103,103,3,Europe/Podgorica,FALSE,1499972708
+Bistrica,Bistrica,,42.9915,19.4338,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,102,102,4,Europe/Podgorica,FALSE,1499415483
+Ćafa,Cafa,,42.4513,19.1659,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,102,102,4,Europe/Podgorica,FALSE,1499160271
+Liješta,Lijesta,,42.4858,19.3866,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,102,102,3,Europe/Podgorica,FALSE,1499750597
+Donja Rakita,Donja Rakita,Rakita,42.9742,19.6728,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,102,102,3,Europe/Podgorica,FALSE,1499600625
+Potkrajci,Potkrajci,Podkrajci,43.2214,19.4364,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,102,102,4,Europe/Podgorica,FALSE,1499805757
+Glibaći,Glibaci,,43.2203,19.2375,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,102,102,3,Europe/Podgorica,FALSE,1499729076
+Donji Murići,Donji Murici,,42.1584,19.2136,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,101,101,3,Europe/Podgorica,FALSE,1499858966
+Dobrodole,Dobrodole,Dobrodol|Dobrdoli|Dobërdol,42.9595,19.9934,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,42.6,101,101,3,Europe/Podgorica,FALSE,1499542739
+Mojstir,Mojstir,,43.0794,19.8722,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,100,100,3,Europe/Podgorica,FALSE,1499415370
+Brežine,Brezine,,42.3947,19.1263,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,156.7,100,100,3,Europe/Podgorica,FALSE,1499570250
+Medun,Medun,,42.4725,19.3617,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,100,100,4,Europe/Podgorica,FALSE,1499837053
+Rabitlje,Rabitlje,Rabiklje,43.3031,19.3761,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,99,99,3,Europe/Podgorica,FALSE,1499912350
+Barice,Barice,,43.0164,19.7269,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,98,98,4,Europe/Podgorica,FALSE,1499778960
+Laholo,Laholo,,42.9747,19.8219,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,97,97,3,Europe/Podgorica,FALSE,1499567536
+Kovren,Kovren,,43.1692,19.5575,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,95,95,3,Europe/Podgorica,FALSE,1499402365
+Jabučno,Jabucno,Jabučna,43.0192,19.6742,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,95,95,3,Europe/Podgorica,FALSE,1499234487
+Jugovo,Jugovo,,43.3881,19.3203,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,95,95,3,Europe/Podgorica,FALSE,1499094252
+Jagoče,Jagoce,,42.9667,19.8889,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,95,95,3,Europe/Podgorica,FALSE,1499038959
+Dolac,Dolac,,43.0556,19.7583,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,94,94,4,Europe/Podgorica,FALSE,1499491652
+Goljemadi,Goljemadi,Golemadi,42.3869,19.1489,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,94,94,4,Europe/Podgorica,FALSE,1499732418
+Seoca,Seoca,Seoce,42.7351,19.8024,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,93,93,3,Europe/Podgorica,FALSE,1499314364
+Zenica,Zenica,,43.3047,19.3442,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,93,93,4,Europe/Podgorica,FALSE,1499817607
+Mrzovići,Mrzovici,,43.3161,19.3633,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,93,93,3,Europe/Podgorica,FALSE,1499727299
+Sokolac,Sokolac,,43.0867,19.5736,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,91,91,3,Europe/Podgorica,FALSE,1499432347
+Lijeska,Lijeska,,43.2194,19.4069,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,91,91,4,Europe/Podgorica,FALSE,1499775822
+Strahov Do,Strahov Do,,43.4553,19.1250,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,91,91,3,Europe/Podgorica,FALSE,1499025022
+Ðurkovići,Durkovici,,42.5067,19.2869,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,91,91,4,Europe/Podgorica,FALSE,1499543987
+Potoci,Potoci,,43.3597,19.2553,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,89,89,4,Europe/Podgorica,FALSE,1499836117
+Sadići,Sadici,,43.1708,19.6003,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,89,89,3,Europe/Podgorica,FALSE,1499063248
+Grevo,Grevo,,43.3200,19.3464,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,88,88,3,Europe/Podgorica,FALSE,1499119788
+Zekavice,Zekavice,Zekovice,43.2672,19.3753,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,88,88,3,Europe/Podgorica,FALSE,1499356427
+Podborova,Podborova,Podborovo,43.1922,19.4539,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,87,87,3,Europe/Podgorica,FALSE,1499399557
+Zabrđe,Zabrde,,43.3172,19.3247,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,87,87,4,Europe/Podgorica,FALSE,1499999138
+Maoče,Maoce,,43.2033,19.4147,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,86,86,3,Europe/Podgorica,FALSE,1499349545
+Potkovačica,Potkovacica,Podkovačica,43.4236,19.2689,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,83,83,3,Europe/Podgorica,FALSE,1499228733
+Radulići,Radulici,Radulić,42.9764,19.8856,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,81,81,3,Europe/Podgorica,FALSE,1499624017
+Orlja,Orlja,Gornja Orlja,43.3700,19.1839,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,80,80,4,Europe/Podgorica,FALSE,1499340700
+Osmanbegovo Selo,Osmanbegovo Selo,,43.0386,19.9539,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,79,79,3,Europe/Podgorica,FALSE,1499924887
+Mirac,Mirac,,42.3833,18.7833,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,79,79,4,Europe/Podgorica,FALSE,1499236064
+Male Krće,Male Krce,,43.4178,19.2817,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,78,78,3,Europe/Podgorica,FALSE,1499331067
+Pali,Pali,Pale,43.0000,19.6647,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,78,78,3,Europe/Podgorica,FALSE,1499004884
+Pračica,Pracica,,43.4025,19.1056,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,77,77,3,Europe/Podgorica,FALSE,1499152633
+Gornje Selo,Gornje Selo,,43.2642,19.2939,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,76,76,3,Europe/Podgorica,FALSE,1499197995
+Cecuni,Cecuni,Cecune,42.6749,19.7863,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,76,76,3,Europe/Podgorica,FALSE,1499667740
+Gornji Kokoti,Gornji Kokoti,,42.3975,19.1747,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,74,74,3,Europe/Podgorica,FALSE,1499505926
+Mijakovići,Mijakovici,,43.2311,19.3808,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,73,73,3,Europe/Podgorica,FALSE,1499521837
+Podgora,Podgora,,43.1986,19.1542,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,17.2,72,72,4,Europe/Podgorica,FALSE,1499765301
+Mioče,Mioce,Mioča,43.1308,19.7300,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,72,72,4,Europe/Podgorica,FALSE,1499634138
+Varine,Varine,,43.1789,19.3731,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,72,72,3,Europe/Podgorica,FALSE,1499801589
+Crni Vrh,Crni Vrh,,43.3867,19.4039,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,72,72,3,Europe/Podgorica,FALSE,1499249817
+Poblaće,Poblace,,43.5106,19.2028,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,70,70,3,Europe/Podgorica,FALSE,1499081323
+Bijedići,Bijedici,,42.9333,19.8333,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,36.0,70,70,3,Europe/Podgorica,FALSE,1499132376
+Glavatičići,Glavaticici,Glavatići,42.3244,18.7356,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,69,69,4,Europe/Podgorica,FALSE,1499284123
+Sveti Ðorđe,Sveti Dorde,Shëngjergi|Šin Ðerđ|Shën Gjergji,41.9503,19.3398,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,69,69,4,Europe/Podgorica,FALSE,1499274387
+Borovac,Borovac,,43.3044,19.4931,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,69,69,4,Europe/Podgorica,FALSE,1499009125
+Kotline,Kotline,,43.3817,19.3139,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,68,68,3,Europe/Podgorica,FALSE,1499870469
+Rodijelja,Rodijelja,Radijelja,43.0928,19.8003,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,67,67,3,Europe/Podgorica,FALSE,1499403998
+Čreoče,Creoce,,43.0707,19.6935,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,65,65,3,Europe/Podgorica,FALSE,1499428275
+Orahovo,Orahovo,,42.2394,19.0586,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,64,64,3,Europe/Podgorica,FALSE,1499230103
+Vojtina,Vojtina,,43.4206,19.1578,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,64,64,3,Europe/Podgorica,FALSE,1499290285
+Dulipolje,Dulipolje,,42.6949,19.7486,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,63,63,3,Europe/Podgorica,FALSE,1499746515
+Bare,Bare,,42.6856,19.8833,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,44.7,63,63,4,Europe/Podgorica,FALSE,1499507621
+Boljanići,Boljanici,Boljanić,43.4558,19.2134,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,62,62,4,Europe/Podgorica,FALSE,1499757458
+Čevo,Cevo,,42.5411,18.9172,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,61,61,3,Europe/Podgorica,FALSE,1499551083
+Rađevići,Radevici,,43.4439,19.1581,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,61,61,3,Europe/Podgorica,FALSE,1499869858
+Višnjevo,Visnjevo,,42.5588,19.8848,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,60,60,4,Europe/Podgorica,FALSE,1499080921
+Odžak,Odzak,,43.3669,19.2378,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,60,60,4,Europe/Podgorica,FALSE,1499847306
+Pušanjski Do,Pusanjski Do,Pušonjski Do,43.1581,19.3247,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,59,59,3,Europe/Podgorica,FALSE,1499625291
+Ograđenica,Ogradenica,Ogradjenica,43.2500,19.0881,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,59,59,3,Europe/Podgorica,FALSE,1499154349
+Kornet,Kornet,,42.4070,19.1383,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,59,59,3,Europe/Podgorica,FALSE,1499780585
+Crniš,Crnis,,42.9428,19.9053,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,58,58,3,Europe/Podgorica,FALSE,1499573728
+Fraskanjel,Fraskanjel,,41.9681,19.3761,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,97.1,57,57,3,Europe/Podgorica,FALSE,1499194974
+Donji Bogdašići,Donji Bogdasici,Bogdašići,42.4275,18.7333,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,286.9,57,57,3,Europe/Podgorica,FALSE,1499698039
+Okladi,Okladi,Oklade|Okladi Modri-Do,43.0486,19.6956,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,56,56,3,Europe/Podgorica,FALSE,1499808657
+Lever Tara,Lever Tara,Nefertara,43.1811,19.2483,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,56,56,3,Europe/Podgorica,FALSE,1499684833
+Trnovice,Trnovice,,43.3558,19.1911,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,55,55,3,Europe/Podgorica,FALSE,1499055673
+Uremovići,Uremovici,Urimovići,43.2556,19.3253,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,55,55,3,Europe/Podgorica,FALSE,1499585235
+Stube,Stube,Stubao|Stubo|Stublo,43.0361,19.8733,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,55,55,3,Europe/Podgorica,FALSE,1499106304
+Koči,Koci,Koće,42.4606,19.4036,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,54,54,4,Europe/Podgorica,FALSE,1499865643
+Lađana,Ladana,Ladjana,43.3056,19.2692,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,54,54,3,Europe/Podgorica,FALSE,1499876418
+Jošanica,Josanica,,42.6888,19.7255,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,54,54,3,Europe/Podgorica,FALSE,1499106542
+Vilići,Vilici,,43.2533,19.3703,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,54,54,3,Europe/Podgorica,FALSE,1499384062
+Jablanovo,Jablanovo,,43.0903,19.8514,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,54,54,3,Europe/Podgorica,FALSE,1499030439
+Babačići,Babacici,,42.9344,19.9344,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,53,53,3,Europe/Podgorica,FALSE,1499916427
+Duratovići,Duratovici,,43.3369,19.3743,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,53,53,3,Europe/Podgorica,FALSE,1499037399
+Šljuke,Sljuke,,43.3567,19.1233,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,52,52,3,Europe/Podgorica,FALSE,1499275707
+Nange,Nange,,43.4206,19.0961,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,52,52,3,Europe/Podgorica,FALSE,1499146044
+Gradina,Gradina,,43.3881,19.2739,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,50,50,4,Europe/Podgorica,TRUE,1499440467
+Krupice,Krupice,,43.1217,19.4381,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,50,50,3,Europe/Podgorica,FALSE,1499439460
+Negobratina,Negobratina,,43.0283,19.9225,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,49,49,3,Europe/Podgorica,FALSE,1499709810
+Godinje,Godinje,,42.2167,19.1167,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,49,49,4,Europe/Podgorica,FALSE,1499379414
+Ðulići,Dulici,Duliće,42.6935,19.7926,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,49,49,4,Europe/Podgorica,FALSE,1499348777
+Premćani,Premcani,Prenćani,43.1203,19.3714,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,49,49,3,Europe/Podgorica,FALSE,1499500140
+Pliješevina,Plijesevina,,43.3456,19.2103,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,48,48,3,Europe/Podgorica,FALSE,1499842186
+Milovići,Milovici,Milović,42.3996,18.6722,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,48,48,3,Europe/Podgorica,FALSE,1499243150
+Zagora,Zagora,,42.3014,18.7431,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,48,48,4,Europe/Podgorica,FALSE,1499046147
+Košare,Kosare,Košari,43.1886,19.3375,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,47,47,4,Europe/Podgorica,FALSE,1499407708
+Vrbica,Vrbica,,43.2942,19.2858,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,47,47,4,Europe/Podgorica,FALSE,1499080276
+Moraice,Moraice,Morajica|Morajce,43.2697,19.1339,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,46,46,3,Europe/Podgorica,FALSE,1499818674
+Bajovo Polje,Bajovo Polje,,43.0078,18.8736,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,46,46,3,Europe/Podgorica,FALSE,1499785732
+Zaselje,Zaselje,,43.4414,19.1886,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,45,45,4,Europe/Podgorica,FALSE,1499748418
+Bujake,Bujake,Bujaci,43.1681,19.3931,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,44,44,3,Europe/Podgorica,FALSE,1499101335
+Šipovica,Sipovica,Šipovice,43.0214,19.8964,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,44,44,3,Europe/Podgorica,FALSE,1499368124
+Dragaši,Dragasi,,43.2597,19.2522,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,44,44,3,Europe/Podgorica,FALSE,1499543957
+Kičava,Kicava,Kičeva,43.1633,19.6675,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,43,43,3,Europe/Podgorica,FALSE,1499818763
+Kordovina,Kordovina,,43.2047,19.3878,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,43,43,3,Europe/Podgorica,FALSE,1499380250
+Gnjili Potok,Gnjili Potok,,42.7428,19.7210,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,43,43,3,Europe/Podgorica,FALSE,1499034732
+Milakovci,Milakovci,,43.4531,19.2375,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,42,42,3,Europe/Podgorica,FALSE,1499000171
+Požeginja,Pozeginja,Požeginje,43.1014,19.8694,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,42,42,3,Europe/Podgorica,FALSE,1499943416
+Kruševo,Krusevo,Kula,43.4036,19.0242,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,14.4,42,42,4,Europe/Podgorica,TRUE,1499238071
+Rijeka Reževići,Rijeka Rezevici,Reževići,42.2208,18.9078,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,41,41,4,Europe/Podgorica,FALSE,1499225825
+Sela,Sela,Gornja Sela,43.0808,19.7108,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,40,40,4,Europe/Podgorica,FALSE,1499108201
+Petine,Petine,,43.4189,19.0572,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,40,40,3,Europe/Podgorica,FALSE,1499121625
+Vaškovo,Vaskovo,Karaula Vaškovo,43.0897,19.4011,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,40,40,3,Europe/Podgorica,FALSE,1499015668
+Dubrava,Dubrava,,43.4894,19.2094,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,39,39,4,Europe/Podgorica,TRUE,1499428238
+Ðalovići,Dalovici,,43.0742,19.9475,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,37,37,4,Europe/Podgorica,FALSE,1499936947
+Lijeva Rijeka,Lijeva Rijeka,Lijeva Reka,42.6530,19.4876,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,36,36,3,Europe/Podgorica,FALSE,1499815428
+Lipci,Lipci,,42.4972,18.6581,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,36,36,4,Europe/Podgorica,FALSE,1499121664
+Njeguši,Njegusi,Negosi|Njegoši,42.4331,18.8283,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,35,35,4,Europe/Podgorica,FALSE,1499601452
+Mokri Lug,Mokri Lug,,43.0669,19.8722,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,35,35,4,Europe/Podgorica,FALSE,1499354060
+Bojovići,Bojovici,Bojoviće,42.7094,19.7981,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,35,35,3,Europe/Podgorica,FALSE,1499571537
+Metaljka,Metaljka,Matalika,43.5236,19.1419,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,35,35,3,Europe/Podgorica,FALSE,1499982823
+Vrh,Vrh,,43.0625,19.8997,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,34,34,4,Europe/Podgorica,FALSE,1499692750
+Višnjica,Visnjica,,43.3131,19.1850,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,34,34,3,Europe/Podgorica,FALSE,1499357779
+Ambula,Ambula,,41.9803,19.3525,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,64.1,34,34,4,Europe/Podgorica,FALSE,1499596711
+Borišići,Borisici,,43.4864,19.0186,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,34,34,3,Europe/Podgorica,FALSE,1499205562
+Crnobori,Crnobori,Crnoborje,43.2542,19.3081,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,33,33,3,Europe/Podgorica,FALSE,1499054813
+Prisoje,Prisoje,Prisoji,43.5197,19.1689,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,32,32,3,Europe/Podgorica,FALSE,1499662176
+Ledenice,Ledenice,,42.5397,18.7025,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,32,32,4,Europe/Podgorica,FALSE,1499074309
+Pauče,Pauce,Pauiče,43.3181,19.2844,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,32,32,3,Europe/Podgorica,FALSE,1499220997
+Brajići,Brajici,,42.3057,18.8988,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,30,30,3,Europe/Podgorica,FALSE,1499483850
+Krćevina,Krcevina,,43.4167,19.2500,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,30,30,3,Europe/Podgorica,FALSE,1499065259
+Čardak,Cardak,,43.4417,19.1744,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,30,30,3,Europe/Podgorica,FALSE,1499204485
+Jabuka,Jabuka,,43.4353,19.1394,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,30,30,4,Europe/Podgorica,FALSE,1499222749
+Raći,Raci,Raćesi|Raće,42.5170,19.3733,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,30,30,3,Europe/Podgorica,FALSE,1499676666
+Vodno,Vodno,,43.1820,19.5000,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,27,27,4,Europe/Podgorica,FALSE,1499807929
+Kovačevići,Kovacevici,,43.4092,19.2008,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,27,27,4,Europe/Podgorica,TRUE,1499181777
+Stančani,Stancani,,43.1928,19.3681,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,27,27,3,Europe/Podgorica,FALSE,1499185197
+Knežlaz,Knezlaz,Knezlać,42.5333,18.6667,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,26,26,3,Europe/Podgorica,FALSE,1499505638
+Petnjica,Petnjica,,42.9797,19.0786,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,26,26,3,Europe/Podgorica,FALSE,1499593588
+Cerovci,Cerovci,,43.3753,19.1222,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,26,26,3,Europe/Podgorica,FALSE,1499187240
+Donji Dubac,Donji Dubac,Dubac,43.4669,19.0922,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,25,25,3,Europe/Podgorica,FALSE,1499895560
+Pliješi,Plijesi,Pliješ,43.4728,19.2069,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,24,24,3,Europe/Podgorica,FALSE,1499056622
+Podtrlica,Podtrlica,Potrljica|Potrlice|Trlica|Potrlica,43.3400,19.3686,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,22,22,3,Europe/Podgorica,FALSE,1499122745
+Meljak,Meljak,,43.3186,19.3211,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,22,22,3,Europe/Podgorica,FALSE,1499170905
+Vuči Do,Vuci Do,,42.8870,18.5230,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,22,22,3,Europe/Podgorica,FALSE,1499014402
+Slatina,Slatina,,42.7544,19.7728,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,20,20,3,Europe/Podgorica,FALSE,1499414786
+Ujniče,Ujnice,,43.0928,19.7028,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,20,20,3,Europe/Podgorica,FALSE,1499081051
+Pižuri,Pizuri,Pižure,43.4350,19.2008,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,18,18,3,Europe/Podgorica,FALSE,1499568920
+Crno Brdo,Crno Brdo,,43.4081,19.1686,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,18,18,3,Europe/Podgorica,FALSE,1499900665
+Kotlajići,Kotlajici,Kotlaići,43.1336,19.3844,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,18,18,3,Europe/Podgorica,FALSE,1499758573
+Šljivansko,Sljivansko,Šljivensko,43.3217,19.2128,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,18,18,4,Europe/Podgorica,FALSE,1499427010
+Velestovo,Velestovo,,42.5261,18.9644,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,17,17,3,Europe/Podgorica,FALSE,1499342374
+Selišta,Selista,Selište,43.4853,19.0492,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,17,17,4,Europe/Podgorica,FALSE,1499536046
+Mironići,Mironici,Mihronići,43.4556,19.1686,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,17,17,3,Europe/Podgorica,FALSE,1499646070
+Radojeva Glava,Radojeva Glava,,43.0733,19.8397,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,16,16,3,Europe/Podgorica,FALSE,1499942162
+Kržava,Krzava,,43.4711,18.9911,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,16,16,3,Europe/Podgorica,FALSE,1499466518
+Mrčevo,Mrcevo,,43.4189,19.1211,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,16,16,3,Europe/Podgorica,FALSE,1499650745
+Vrba,Vrba,,43.3403,19.1264,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,16,16,4,Europe/Podgorica,FALSE,1499943196
+Leovo Brdo,Leovo Brdo,Lehovo Brdo,43.3833,19.1053,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,16,16,3,Europe/Podgorica,FALSE,1499636683
+Kotorac,Kotorac,,43.4306,19.1875,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,16,16,3,Europe/Podgorica,FALSE,1499376305
+Rujevica,Rujevica,,43.3364,19.2411,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,15,15,4,Europe/Podgorica,TRUE,1499423885
+Zorilovići,Zorilovici,,43.4853,19.1556,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,15,15,3,Europe/Podgorica,FALSE,1499533223
+Čavanj,Cavanj,,43.1514,19.3569,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,14,14,3,Europe/Podgorica,FALSE,1499498710
+Bjeloševina,Bjelosevina,,43.4381,19.1264,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,14,14,3,Europe/Podgorica,FALSE,1499677254
+Selac,Selac,,43.1303,19.3511,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,14,14,3,Europe/Podgorica,FALSE,1499912203
+Dolovi,Dolovi,,42.7072,18.5747,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,14,14,4,Europe/Podgorica,FALSE,1499531792
+Srečanje,Srecanje,,43.4869,18.9794,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,13,13,3,Europe/Podgorica,FALSE,1499631012
+Kuljače,Kuljace,,42.2806,18.9100,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,13,13,4,Europe/Podgorica,FALSE,1499652079
+Popov Do,Popov Do,,43.3706,19.1011,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,11,11,3,Europe/Podgorica,FALSE,1499612010
+Malov Do,Malov Do,,42.5667,18.6333,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,11,11,3,Europe/Podgorica,FALSE,1499858126
+Močevići,Mocevici,,43.5453,18.9936,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,11,11,4,Europe/Podgorica,FALSE,1499751068
+Nik Maraš,Nik Maras,Nikmaroš|Nikmaraši,42.4386,19.4350,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,10,10,4,Europe/Podgorica,FALSE,1499864573
+Gornje Stravče,Gornje Stravce,Stravće,42.5642,19.4619,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,10,10,3,Europe/Podgorica,FALSE,1499556814
+Beljkovići,Beljkovici,,43.1724,19.4141,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,10,10,3,Europe/Podgorica,FALSE,1499610563
+Kukavice,Kukavice,Kukavica|Kikavice,43.5000,19.0758,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,10,10,4,Europe/Podgorica,FALSE,1499731620
+Pridvorica,Pridvorica,,42.9667,19.0667,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,10,10,5,Europe/Podgorica,FALSE,1499460064
+Sirčići,Sircici,,43.4544,19.0556,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,10,10,3,Europe/Podgorica,FALSE,1499452931
+Kolijevka,Kolijevka,Kolijevke|Koljevka,43.2997,19.1000,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,10,10,3,Europe/Podgorica,FALSE,1499000013
+Unijerina,Unijerina,Unjarina,42.5500,18.6333,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,9,9,3,Europe/Podgorica,FALSE,1499548146
+Romač,Romac,,43.4411,19.0394,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,9,9,3,Europe/Podgorica,FALSE,1499688269
+Tvrdakovići,Tvrdakovici,,43.4556,19.0431,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,9,9,3,Europe/Podgorica,FALSE,1499804618
+Jahovići,Jahovici,,43.4500,19.0556,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,9,9,3,Europe/Podgorica,FALSE,1499460189
+Dužice,Duzice,,43.5292,19.0239,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,7,7,3,Europe/Podgorica,FALSE,1499482851
+Ðuli,Duli,,43.5011,19.1003,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,7,7,4,Europe/Podgorica,FALSE,1499716043
+Plansko,Plansko,,43.5208,18.9908,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,7,7,3,Europe/Podgorica,FALSE,1499467064
+Mrčići,Mrcici,,43.4656,18.9836,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,6,6,3,Europe/Podgorica,FALSE,1499763417
+Geuši,Geusi,,43.5017,18.9211,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,14.6,6,6,3,Europe/Podgorica,FALSE,1499050799
+Tatarovine,Tatarovine,,43.4389,19.0067,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,15.9,6,6,3,Europe/Podgorica,FALSE,1499407197
+Lugovi,Lugovi,,43.3703,19.2200,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,6,6,4,Europe/Podgorica,TRUE,1499813338
+Jagodni Do,Jagodni Do,Jagodin Do|Jagodnji Do,43.4539,19.1503,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,6,6,3,Europe/Podgorica,FALSE,1499260120
+Čelobrdo,Celobrdo,,42.2683,18.9083,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,5,5,4,Europe/Podgorica,FALSE,1499982718
+Stanišiči,Stanisici,,42.2931,18.8714,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,5,5,4,Europe/Podgorica,FALSE,1499006738
+Plakali,Plakali,Plakala,43.4539,19.0861,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,4,4,3,Europe/Podgorica,FALSE,1499421562
+Prošče,Prosce,,43.4394,19.0889,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,2,2,3,Europe/Podgorica,FALSE,1499501689
+Lučice,Lucice,,43.4128,19.0569,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499287303
+Donji Sušanj,Donji Susanj,,42.1186,19.0919,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499095331
+Gornji Brčeli,Gornji Brceli,Brčeli,42.2417,19.0117,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499322276
+Ðeđezi,Dedezi,,42.4875,19.0733,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499510055
+Brestovi Do,Brestovi Do,,42.6717,18.8047,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499131568
+Gornji Meštrevac,Gornji Mestrevac,,43.2869,19.0367,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,14.5,,,4,Europe/Podgorica,FALSE,1499138789
+Džogulja,Dzogulja,,42.5856,19.1586,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499990318
+Stepen,Stepen,,42.4983,18.7375,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499309895
+Ravne Smreke,Ravne Smreke,,43.4069,19.0908,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499643349
+Gradačka Poljana,Gradacka Poljana,,42.8803,19.0858,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.1,,,4,Europe/Podgorica,FALSE,1499912764
+Petrići,Petrici,,43.3781,19.2000,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499601531
+Kraljevići,Kraljevici,,42.3317,18.7325,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499652550
+Gradac,Gradac,,42.5803,19.1197,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499787882
+Dragovića Polje,Dragovica Polje,,42.8617,19.3200,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,4,Europe/Podgorica,FALSE,1499331120
+Bezjovo,Bezjovo,Bezijovo,42.4942,19.4222,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499047016
+Lutovo,Lutovo,,42.6183,19.4067,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499277759
+Brajkovina,Brajkovina,,42.4642,18.5497,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499035043
+Dračevica,Dracevica,Dračevico,42.1856,19.1903,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499141992
+Sela,Sela,,42.7044,19.4289,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499890255
+Ban,Ban,,42.8569,18.4761,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,14.3,,,4,Europe/Podgorica,FALSE,1499293814
+Jezero,Jezero,,43.4631,19.1953,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499817347
+Sela,Sela,Gornja Sela,42.8547,19.7406,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499117643
+Šake,Sake,,42.8603,18.6003,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499534671
+Dragovići,Dragovici,,42.0936,19.2661,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499928477
+Marići,Marici,,42.3958,18.6914,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,,,3,Europe/Podgorica,FALSE,1499911351
+Krnjevina,Krnjevina,,43.3739,19.2528,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499398387
+Virak,Virak,,43.1178,19.1119,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,,,5,Europe/Podgorica,FALSE,1499473474
+Bakrenjače,Bakrenjace,,43.3728,19.3406,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499344219
+Marići,Marici,,43.3286,18.9164,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499847484
+Podvraće,Podvrace,,42.6347,19.0708,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499966395
+Zagrađe,Zagrade,,42.5194,19.3417,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499254057
+Donji Ulići,Donji Ulici,Ulići,42.3792,18.9889,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499884054
+Gornje Stupine,Gornje Stupine,Stupine,43.3989,19.3072,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499802190
+Drenovica,Drenovica,,42.5528,19.1261,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499558333
+Prijevorac,Prijevorac,Prijevor,42.2033,18.9561,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,,,4,Europe/Podgorica,FALSE,1499812583
+Eraci,Eraci,,42.4028,18.5969,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499681540
+Srebrnica,Srebrnica,,43.0614,19.5825,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499698461
+Pod,Pod,,42.7919,19.2797,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499708954
+Orlina,Orlina,,42.7450,18.8658,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499843911
+Babunci,Babunci,,42.4017,18.6147,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499213289
+Jasen,Jasen,,43.1628,18.7419,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499920771
+Kamenarovići,Kamenarovici,,42.4539,18.7658,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499879002
+Ćukovac,Cukovac,,43.4236,19.1011,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499905565
+Čolovići,Colovici,,43.3894,19.2383,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499641684
+Plagente,Plagente,,42.4372,18.7669,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499458225
+Ćemani,Cemani,,42.8736,19.9892,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499014644
+Rake,Rake,,42.4508,18.6500,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499099342
+Brijestovo,Brijestovo,,42.6083,19.1222,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499175362
+Lastva,Lastva,Lastva Čevska,42.5967,18.9356,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499183356
+Lastva,Lastva,,42.4819,18.9158,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,TRUE,1499702830
+Lastva,Lastva,,42.5703,18.7908,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,TRUE,1499458588
+Lastva,Lastva,,42.3100,18.8042,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,110.4,,,4,Europe/Podgorica,FALSE,1499283040
+Brdo,Brdo,,42.6206,19.1097,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499943857
+Lastva,Lastva,,42.4744,18.5847,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499677827
+Sviba,Sviba,,42.5475,19.3247,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499076328
+Avtenice,Avtenice,,42.8497,18.9197,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499095789
+Žeično,Zeicno,,43.2969,18.8728,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499568756
+Kape,Kape,,42.5667,18.4992,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,112.8,,,4,Europe/Podgorica,FALSE,1499811220
+Jabučno,Jabucno,,43.4072,19.1006,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499650549
+Izvori,Izvori,,42.6064,18.7708,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499638613
+Stijensko Brdo,Stijensko Brdo,,42.5294,19.2494,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499690654
+Bratićevi Dolovi,Braticevi Dolovi,,42.6753,18.7289,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.2,,,4,Europe/Podgorica,FALSE,1499030352
+Tušupi,Tusupi,Tušupe,42.4653,18.5306,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499789674
+Opatovo,Opatovo,,42.4567,18.6825,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,283.4,,,3,Europe/Podgorica,FALSE,1499711440
+Radunovići,Radunovici,,42.8483,19.8958,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499737529
+Lug,Lug,,42.5758,18.6878,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499131579
+Osojnik,Osojnik,,42.5775,19.1589,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499412735
+Kamenovo,Kamenovo,,42.2736,18.8894,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,,,4,Europe/Podgorica,FALSE,1499645556
+Golubovići,Golubovici,,42.1892,18.9878,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,165.5,,,4,Europe/Podgorica,FALSE,1499286624
+Sažići,Sazici,,43.3500,19.4397,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499271756
+Cosovići,Cosovici,Tiosović,42.5425,19.8356,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,,,4,Europe/Podgorica,FALSE,1499775814
+Ristovina,Ristovina,,43.2747,19.3661,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499008091
+Vitkove Staje,Vitkove Staje,,43.1144,19.5789,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499622358
+Donji Broćanac,Donji Brocanac,,42.7578,18.5558,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499560639
+Gruda,Gruda,,42.3819,18.9222,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499424025
+Selina,Selina,,42.9931,18.6978,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499592173
+Selina,Selina,,42.7411,18.5033,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,29.0,,,4,Europe/Podgorica,TRUE,1499723100
+Dobrčin,Dobrcin,,42.4094,19.4386,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499258564
+Selina,Selina,,43.1719,19.2356,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499717052
+Potrk,Potrk,,42.9036,18.5953,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499124046
+Potrk,Potrk,,42.5311,19.4333,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499871505
+Sveti Nikola,Sveti Nikola,Šenkol|Šinkol,41.8808,19.3750,Montenegro,ME,MNE,Ulcinj,Ulcinj,ME-20,municipality,,58.3,,,4,Europe/Podgorica,FALSE,1499695766
+Potrk,Potrk,Katun Potrk,42.9111,19.3458,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499977811
+Jabuke,Jabuke,,43.4564,19.2061,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499825776
+Donje Dubočke,Donje Dubocke,,42.8839,18.6444,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499057614
+Ilijina Glavica,Ilijina Glavica,,43.4392,19.2025,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499291685
+Gostilje Brajovičko,Gostilje Brajovicko,Brajovićko Gostilje,42.5778,19.2000,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499016456
+Starče,Starce,,42.8539,19.3139,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499920393
+Tošići,Tosici,,43.3831,19.2858,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499104834
+Katavići,Katavici,,43.4894,18.9408,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,14.4,,,4,Europe/Sarajevo,FALSE,1499689957
+Brestica,Brestica,Brestice,42.7156,18.7972,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499949592
+Norin,Norin,,42.7117,18.9894,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499139787
+Seljani,Seljani,,43.0917,18.8453,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499495130
+Dolovi Kovački,Dolovi Kovacki,Kovački Dolovi,42.5883,19.1658,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499065359
+Odoljen,Odoljen,,42.4014,18.7558,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499009314
+Kamenica,Kamenica,,42.8967,18.5258,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499998226
+Kamenica,Kamenica,,42.7661,19.1558,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,TRUE,1499740109
+Obradovići,Obradovici,Ploča,42.4828,18.5378,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499500499
+Vitasojevići,Vitasojevici,Vitasovići,42.6256,18.9928,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499146429
+Kupina,Kupina,,42.6239,19.3703,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499476715
+Tusto Brdo,Tusto Brdo,,43.4639,19.2064,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499061903
+Donja Trepča,Donja Trepca,,42.8192,18.7797,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499894527
+Markov Do,Markov Do,,42.7533,18.6261,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499806186
+Boguti,Boguti,,42.3189,18.9753,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499322990
+Sakovo Brdo,Sakovo Brdo,,43.3347,19.2536,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499860258
+Doljane,Doljane,,42.3700,19.1028,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499150823
+Škanjci,Skanjci,,42.5292,19.1156,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499378611
+Klopet,Klopet,Klopot,43.2261,19.4792,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499500230
+Borak,Borak,,42.6378,18.8644,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499314730
+Vis,Vis,,43.4625,19.2428,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499043375
+Rošenica,Rosenica,,42.4436,19.3894,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499709808
+Poslenište,Posleniste,,43.0942,19.1056,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,,,5,Europe/Podgorica,FALSE,1499010688
+Misočelo,Misocelo,,42.4781,18.9936,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,28.9,,,4,Europe/Podgorica,FALSE,1499591154
+Bratožica,Bratozica,,42.7494,19.4653,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499422581
+Vraničke Njive,Vranicke Njive,,42.4706,19.2514,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499762731
+Kolašinci,Kolasinci,,42.9778,19.9667,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499717520
+Ruište,Ruiste,,42.6261,19.2481,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499684083
+Kopačine,Kopacine,,42.8825,18.6494,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499823958
+Mirkovići,Mirkovici,,42.8581,18.5858,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499631026
+Ševeljski Do,Seveljski Do,Šiljev Do|Ševejski Do,42.7042,18.7014,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499036031
+Međedov Do,Mededov Do,,42.6892,18.8081,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499272724
+Polje Crkvičko,Polje Crkvicko,,43.3222,18.8958,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499021106
+Želalići,Zelalici,,42.4569,18.6492,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499222144
+Kruščica,Kruscica,,42.5486,19.1497,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499259871
+Džuveri,Dzuveri,,43.2414,19.1150,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499731660
+Babića Mala,Babica Mala,,42.7783,19.9375,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499502506
+Smira,Smira,,42.7325,19.4522,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499616601
+Sajkovac,Sajkovac,,42.9575,19.8619,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499706338
+Koravljica,Koravljica,Koravlica,42.8406,18.4711,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,14.3,,,4,Europe/Podgorica,FALSE,1499097839
+Prisoje,Prisoje,,43.3700,19.2642,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,TRUE,1499011612
+Zlatica,Zlatica,,42.4717,19.3025,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499423336
+Podnovlje,Podnovlje,,43.2758,19.4631,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499162104
+Mezalini,Mezalini,Mezalin,42.3389,18.7931,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,87.2,,,4,Europe/Podgorica,FALSE,1499867808
+Šureč,Surec,,42.7931,18.7214,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499307999
+Salevići,Salevici,,42.7450,19.7786,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,,,4,Europe/Podgorica,FALSE,1499424292
+Lovnočelo,Lovnocelo,,42.5583,19.9564,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,,,4,Europe/Podgorica,FALSE,1499974485
+Donja Slatina,Donja Slatina,Slatina,42.9786,19.1642,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499214160
+Gornje Čarađe,Gornje Carade,Čarađe,43.0056,18.6853,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499045999
+Koraj-Do,Koraj-Do,,42.6058,19.4775,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499519458
+Marića Luka,Marica Luka,,42.9569,19.6094,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,,,4,Europe/Podgorica,FALSE,1499639494
+Jela,Jela,,42.8356,19.3525,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499186844
+Mazići,Mazici,,42.3022,18.8606,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,,,4,Europe/Podgorica,FALSE,1499006104
+Osječenica,Osjecenica,,42.7053,18.6153,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499619067
+Mala Ržišta,Mala Rzista,,42.6086,18.7478,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499932702
+Gornja Ljuta,Gornja Ljuta,,42.8106,19.3556,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499356507
+Šiplje,Siplje,,43.1083,19.3519,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499456822
+Pribiloviće,Pribilovice,,42.9661,19.6972,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499140104
+Bailovići,Bailovici,,43.2644,19.0253,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,10.4,,,4,Europe/Podgorica,FALSE,1499393336
+Gradina,Gradina,,42.5269,18.8375,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499005837
+Predojevica,Predojevica,,42.4397,18.9917,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499802426
+Grabovnik,Grabovnik,,43.0367,19.7728,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499879193
+Savina Glavica,Savina Glavica,,42.3036,18.7669,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499572603
+Crni Vrh,Crni Vrh,,42.8575,19.8250,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499607070
+Donja Bijela,Donja Bijela,,42.9142,19.1292,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,4,Europe/Podgorica,FALSE,1499551062
+Krna Jela,Krna Jela,,42.6361,18.6386,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499839589
+Tejani,Tejani,Tijana,42.1028,19.2433,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499656257
+Trebaljevo,Trebaljevo,,42.8658,19.5317,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499450023
+Kršnica,Krsnica,,43.2136,19.6300,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,31.5,,,4,Europe/Podgorica,FALSE,1499071051
+Šiljkov Do,Siljkov Do,,42.7006,18.7047,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499744100
+Begova Dol,Begova Dol,,42.5025,18.7800,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.3,,,4,Europe/Podgorica,FALSE,1499412625
+Seoca,Seoca,Seoce,42.9078,19.8375,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499789671
+Bucelj,Bucelj,,42.5733,19.8011,Montenegro,ME,MNE,Gusinje,Gusinje,ME-22,municipality,,29.7,,,4,Europe/Podgorica,FALSE,1499761477
+Krnjača,Krnjaca,,42.7869,18.8947,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499080837
+Počekovići,Pocekovici,,42.8017,18.5058,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,34.9,,,4,Europe/Podgorica,FALSE,1499902942
+Miletin Do,Miletin Do,,42.7303,18.8408,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499234729
+Kućište,Kuciste,,42.5775,18.8975,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499648161
+Pepići,Pepici,,43.0147,19.7083,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499069225
+Podvrš,Podvrs,,42.8181,18.5172,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499862969
+Marovići,Marovici,,42.3936,18.5967,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499167323
+Gornja Crnča,Gornja Crnca,Gornje Crnče,42.9172,20.3061,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,36.4,,,4,Europe/Podgorica,FALSE,1499169815
+Babića Polje,Babica Polje,,42.9592,19.5706,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,,,4,Europe/Podgorica,FALSE,1499038041
+Kokića Strane,Kokica Strane,,42.7897,19.4456,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499307847
+Buronji,Buronji,,42.4306,19.1019,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499506543
+Gornja Markovina,Gornja Markovina,,42.5439,19.0086,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499281021
+Kneževići,Knezevici,,43.0953,19.7578,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499742455
+Jugovine,Jugovine,,42.8178,19.8169,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499137445
+Pleće,Plece,,42.9661,18.5931,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499680617
+Kovačina,Kovacina,,42.4506,18.6411,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499664738
+Slatina,Slatina,,43.0000,19.5000,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,,,4,Europe/Podgorica,FALSE,1499853802
+Provalija,Provalija,Provalije,43.0642,19.1136,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,3.5,,,5,Europe/Podgorica,FALSE,1499291381
+Slatina,Slatina,,43.2731,19.0847,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,TRUE,1499307871
+Mačaj,Macaj,,42.3608,19.4086,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499420822
+Velji Zalazi,Velji Zalazi,,42.4572,18.7833,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499390460
+Pristan,Pristan,,42.4256,18.6017,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499274329
+Rajkovići,Rajkovici,,43.1306,19.6439,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499794039
+Damjanovići,Damjanovici,,43.4086,19.3211,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499197768
+Vrtovi,Vrtovi,,42.7186,19.3217,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499913814
+Čanj,Canj,,42.1640,18.9980,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,3,Europe/Podgorica,FALSE,1499749297
+Pristan,Pristan,,42.2297,19.1481,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499553814
+Sretnja,Sretnja,,42.5969,19.1325,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499479369
+Cer,Cer,Dolina,42.9644,19.1817,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499657555
+Pavlovina,Pavlovina,,43.1664,19.5889,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499752443
+Trsa,Trsa,,43.1906,18.9461,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499000000
+Krajišta,Krajista,Krajište,42.5267,18.7944,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499647209
+Krajišta,Krajista,Kraišta,42.7042,19.7075,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,,,4,Europe/Podgorica,FALSE,1499625208
+Jasenovac,Jasenovac,,43.0981,19.3658,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499323073
+Dubravica,Dubravica,,42.4544,18.6500,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499495575
+Potkamen,Potkamen,Podkamen,43.4853,19.0694,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499601135
+Mašni Do,Masni Do,,42.5544,18.7597,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499362264
+Drenovštica,Drenovstica,Drenovištica,42.6528,18.9914,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499354425
+Repište,Repiste,,42.7761,19.9311,Montenegro,ME,MNE,Berane,Berane,ME-03,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499005630
+Ploča,Ploca,,42.3228,19.0886,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499132460
+Dapčevići,Dapcevici,,42.0425,19.1992,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499417017
+Krnjice,Krnjice,,42.2139,19.1775,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499774111
+Dajbabe,Dajbabe,,42.4094,19.2236,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499791931
+Gornja Lastva,Gornja Lastva,,42.5994,18.9347,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499500040
+Gligorov Do,Gligorov Do,,42.7831,18.7183,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499880282
+Radin Do,Radin Do,,42.6289,18.7094,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499039509
+Vrela,Vrela,Vrelo,42.3267,18.9275,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499927281
+Parci,Parci,,42.4014,19.0906,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,64.5,,,4,Europe/Podgorica,FALSE,1499715191
+Miravčine,Miravcine,,42.7439,19.7336,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,,,4,Europe/Podgorica,FALSE,1499429445
+Kutac,Kutac,,42.8717,18.8189,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499979071
+Raslvići,Raslvici,,42.5961,19.3683,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499301274
+Mačkate,Mackate,,42.9981,19.6056,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,29.6,,,4,Europe/Podgorica,FALSE,1499820095
+Jankovići,Jankovici,,42.0544,19.1381,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499445321
+Bijela Glavica,Bijela Glavica,,42.0383,19.1444,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499699709
+Nabojine,Nabojine,,43.0975,19.3936,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499376190
+Jankovići,Jankovici,,42.3750,19.0322,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499670300
+Zubac,Zubac,,42.1858,19.0278,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499021119
+Trimojevići,Trimojevici,,42.5644,19.3661,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499168657
+Mjegotin,Mjegotin,,42.4281,19.3725,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499381072
+Malovići,Malovici,,42.4586,18.6522,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,117.9,,,4,Europe/Podgorica,FALSE,1499108419
+Muline,Muline,,42.7464,19.3981,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499763726
+Koštanice,Kostanice,,43.0208,18.9183,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499364586
+Branlovica,Branlovica,,42.5531,19.0875,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499759808
+Medureč,Medurec,,42.0564,19.2253,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,65.0,,,4,Europe/Podgorica,FALSE,1499216820
+Rasulje,Rasulje,,43.1078,19.5628,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499519296
+Busin Do,Busin Do,,42.6167,19.1108,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499070610
+Zahum,Zahum,,43.3303,19.1558,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499886389
+Zečevina,Zecevina,,42.7939,18.5553,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499418441
+Vojkovići,Vojkovici,,42.4581,18.8744,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499027935
+Dobri Lug,Dobri Lug,,42.7111,19.3914,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499588986
+Petrići,Petrici,,42.6239,19.0603,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499384976
+Šljivlje,Sljivlje,,42.9119,19.5675,Montenegro,ME,MNE,Mojkovac,Mojkovac,ME-11,municipality,,20.8,,,4,Europe/Podgorica,FALSE,1499268601
+Prestreke,Prestreke,,43.0819,19.7728,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499563031
+Prisoje,Prisoje,Suvodo,42.6789,19.4100,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499675252
+Stupa,Stupa,,42.9022,20.3425,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,43.6,,,4,Europe/Podgorica,FALSE,1499919621
+Zagarač,Zagarac,,42.5136,19.0525,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499100780
+Orovac,Orovac,,42.8411,19.3547,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499728717
+Bare,Bare,,43.1731,19.5736,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499777873
+Lažine,Lazine,,43.0233,19.1344,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499627878
+Donje Grudice,Donje Grudice,,42.6983,19.8431,Montenegro,ME,MNE,Andrijevica,Andrijevica,ME-01,municipality,,12.7,,,4,Europe/Podgorica,FALSE,1499135020
+Ovna,Ovna,,42.8792,20.3197,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,,,4,Europe/Podgorica,FALSE,1499868686
+Sevari,Sevari,,43.3528,19.3431,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499971276
+Rogani,Rogani,Rogane,42.3467,19.1139,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499016100
+Sotonići,Sotonici,,42.2344,19.0492,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499496404
+Karačići,Karacici,Karačić,43.4050,19.1992,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499426996
+Donji Besnik,Donji Besnik,,42.8814,20.2647,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,,,4,Europe/Podgorica,FALSE,1499671827
+Željev Do,Zeljev Do,,42.7897,18.5114,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499337575
+Bunar,Bunar,,42.8342,19.3944,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499068692
+Krivače,Krivace,Krivać,42.6642,19.9056,Montenegro,ME,MNE,Plav,Plav,ME-13,municipality,,29.7,,,4,Europe/Podgorica,FALSE,1499055698
+Kosorići,Kosorici,Koserići,42.9564,19.1367,Montenegro,ME,MNE,Šavnik,Savnik,ME-18,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499750027
+Kovijec,Kovijec,,43.4125,19.2989,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499191871
+Knež Polje,Knez Polje,,42.8497,19.0061,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499545548
+Blatka,Blatka,,42.9550,19.8864,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499592290
+Malta,Malta,,42.4969,18.4503,Montenegro,ME,MNE,Herceg Novi,Herceg Novi,ME-08,municipality,,34.6,,,4,Europe/Podgorica,FALSE,1499018559
+Briški Do,Briski Do,,42.7653,19.0303,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499557969
+Ornice,Ornice,,43.2125,19.3214,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499795020
+Gornji Pipac,Gornji Pipac,,42.3683,19.1072,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499728787
+Ornice,Ornice,,42.8142,18.9378,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499320034
+Zađuraševac,Zadurasevac,,43.1461,19.3642,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499413309
+Nadublje,Nadublje,,43.0586,18.9036,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499846186
+Granica,Granica,,42.7108,19.3144,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499381969
+Vrgaševići,Vrgasevici,,43.1878,19.5883,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499950335
+Gornje Kruševo,Gornje Krusevo,,43.3192,18.8542,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499503449
+Granica,Granica,,42.5719,18.6889,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499221030
+Džaferov Do,Dzaferov Do,,43.3478,18.8614,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499554731
+Jasenov Do,Jasenov Do,,42.6536,19.0592,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499950934
+Lokvice,Lokvice,,43.3397,19.1428,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499033096
+Lokvice,Lokvice,Kojevići,43.3589,19.4250,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,TRUE,1499028012
+Musta Rupa,Musta Rupa,Ponori,42.5897,18.7958,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499896950
+Marinac,Marinac,,43.4925,19.0072,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499841731
+Lastva,Lastva,,42.8278,18.5681,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499931397
+Lastva,Lastva,,42.8017,18.8131,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,TRUE,1499705340
+Krstaš,Krstas,,42.9806,19.7947,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499511493
+Goden,Goden,,42.4950,18.9039,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499073644
+Račevo,Racevo,,43.2183,19.5628,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,35.7,,,4,Europe/Podgorica,FALSE,1499062342
+Njegule,Njegule,,42.4989,19.0667,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499388998
+Vodni Do,Vodni Do,,42.5522,18.7742,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499540972
+Kupusci,Kupusci,,42.4875,19.3331,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499512695
+Skenderska Kalica,Skenderska Kalica,Galica,42.9014,20.0297,Montenegro,ME,MNE,Petnjica,Petnjica,ME-23,municipality,,45.3,,,4,Europe/Podgorica,FALSE,1499497003
+Mracelji,Mracelji,,42.3425,19.0347,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499231907
+Martinovići,Martinovici,,42.3069,18.9000,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,,,4,Europe/Podgorica,FALSE,1499937847
+Gornja Zaljut,Gornja Zaljut,,42.5681,18.7758,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499415332
+Medeže,Medeze,Madeže,42.5911,19.1494,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499519233
+Gornje Srijede,Gornje Srijede,,42.9125,18.7800,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499608452
+Vuko Do,Vuko Do,,42.5844,18.7692,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499330854
+Popovići,Popovici,,42.5842,19.1539,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499129115
+Crveni Do,Crveni Do,,42.6181,18.7219,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499711609
+Berova,Berova,,42.4911,19.4453,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499966547
+Poljice,Poljice,,43.0078,18.5472,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499733955
+Umci,Umci,,42.3928,18.9050,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499642240
+Golubovići,Golubovici,,43.1328,19.4022,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499644477
+Kruškovi Do,Kruskovi Do,,42.8344,18.8856,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499978747
+Čardak,Cardak,,43.1672,19.1206,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,,,5,Europe/Podgorica,FALSE,1499671649
+Batute,Batute,,42.3575,18.7378,Montenegro,ME,MNE,Kotor,Kotor,ME-10,municipality,,87.1,,,4,Europe/Podgorica,FALSE,1499505667
+Šaruljevac,Saruljevac,,43.1394,19.7603,Montenegro,ME,MNE,Bijelo Polje,Bijelo Polje,ME-04,municipality,,36.0,,,4,Europe/Podgorica,FALSE,1499162876
+Crna Greda,Crna Greda,,42.3894,18.9369,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,FALSE,1499433809
+Begova Glavica,Begova Glavica,,42.3678,19.1475,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,140.9,,,4,Europe/Podgorica,FALSE,1499329771
+Barice,Barice,,42.7686,19.4147,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499892350
+Kurioci,Kurioci,,42.3122,19.1917,Montenegro,ME,MNE,Podgorica,Podgorica,ME-16,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499524100
+Donje Velje Duboko,Donje Velje Duboko,,42.7803,19.2772,Montenegro,ME,MNE,Kolašin,Kolasin,ME-09,municipality,,8.3,,,5,Europe/Podgorica,FALSE,1499943478
+Jabuke,Jabuke,,42.7064,18.7269,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499622178
+Jabuke,Jabuke,,42.5792,18.7858,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,TRUE,1499318112
+Jabuke,Jabuke,,42.5167,18.9614,Montenegro,ME,MNE,Cetinje,Cetinje,ME-06,municipality,,16.1,,,4,Europe/Podgorica,TRUE,1499884972
+Jabuke,Jabuke,Jaboke,42.5069,19.1133,Montenegro,ME,MNE,Danilovgrad,Danilovgrad,ME-07,municipality,,42.4,,,4,Europe/Podgorica,FALSE,1499113612
+Pod Milogora,Pod Milogora,,43.2097,18.9556,Montenegro,ME,MNE,Plužine,Pluzine,ME-15,municipality,,2.6,,,5,Europe/Podgorica,FALSE,1499882482
+Vidov Potok,Vidov Potok,,42.8319,18.9200,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499592709
+Korita,Korita,,43.1217,19.2867,Montenegro,ME,MNE,Žabljak,Zabljak,ME-21,municipality,,6.9,,,5,Europe/Podgorica,FALSE,1499608222
+Kolonija,Kolonija,Kolonija Šula|Razrez,43.3878,19.0653,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499396587
+Korita,Korita,,42.4897,19.5339,Montenegro,ME,MNE,Tuzi,Tuzi,ME-24,municipality,,156.7,,,4,Europe/Podgorica,FALSE,1499071717
+Vrtače,Vrtace,,43.4703,19.1447,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499769324
+Donje Stupine,Donje Stupine,Stupine,43.4014,19.3022,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499235910
+Oglavina,Oglavina,,43.4675,19.1297,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499876309
+Radojevići,Radojevici,,42.8222,18.6189,Montenegro,ME,MNE,Nikšić,Niksic,ME-12,municipality,,35.4,,,4,Europe/Podgorica,FALSE,1499211731
+Orašje,Orasje,,42.4564,18.7025,Montenegro,ME,MNE,Tivat,Tivat,ME-19,municipality,,286.9,,,3,Europe/Podgorica,FALSE,1499528460
+Kosovi,Kosovi,,43.4567,19.1108,Montenegro,ME,MNE,Pljevlja,Pljevlja,ME-14,municipality,,17.2,,,4,Europe/Podgorica,FALSE,1499026425
+Kačari,Kacari,Kačara,42.9408,20.1869,Montenegro,ME,MNE,Rožaje,Rozaje,ME-17,municipality,,52.0,,,4,Europe/Podgorica,FALSE,1499786229
+Rustovo,Rustovo,,42.2694,18.9128,Montenegro,ME,MNE,Budva,Budva,ME-05,municipality,,169.8,,,4,Europe/Podgorica,FALSE,1499128502
+Bardići,Bardici,,42.1650,19.1653,Montenegro,ME,MNE,Bar,Bar,ME-02,municipality,,99.4,,,4,Europe/Podgorica,FALSE,1499368939

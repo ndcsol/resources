@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Nairobi,Nairobi,Nairoba,-1.2864,36.8172,Kenya,KE,KEN,Nairobi City,Nairobi City,KE-30,county,primary,7967.0,5545000,5545000,1,Africa/Nairobi,FALSE,1404000661
+Mombasa,Mombasa,Mombassa|Mvita,-4.0500,39.6667,Kenya,KE,KEN,Mombasa,Mombasa,KE-28,county,admin,4071.9,1208333,1200000,1,Africa/Nairobi,FALSE,1404512373
+Nakuru,Nakuru,,-0.3000,36.0667,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,admin,23000.4,570674,307990,2,Africa/Nairobi,FALSE,1404140179
+Eldoret,Eldoret,Olderet|Olteret,0.5167,35.2833,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,admin,3728.6,475716,289380,2,Africa/Nairobi,FALSE,1404676289
+Kisumu,Kisumu,Port Florence|Kisumo|Lady Whitehouse|Winam,-0.0833,34.7667,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,admin,1339.9,409928,409928,2,Africa/Nairobi,FALSE,1404511920
+Kikuyu,Kikuyu,Gikuyu,-1.2500,36.6667,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1374.0,323881,323881,2,Africa/Nairobi,FALSE,1404116834
+Lunga-Lunga,Lunga-Lunga,,-4.5550,39.1231,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,174.8,198423,198423,2,Africa/Nairobi,FALSE,1404110872
+Habaswein,Habaswein,,1.0100,39.4900,Kenya,KE,KEN,Wajir,Wajir,KE-46,county,,1727.5,174134,174134,2,Africa/Nairobi,FALSE,1404012344
+Ongata Rongai,Ongata Rongai,Langata Rongai,-1.4000,36.7700,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,11004.9,172570,172570,2,Africa/Nairobi,FALSE,1404422353
+Garissa,Garissa,,-0.4569,39.6583,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,admin,13488.8,163399,65881,2,Africa/Nairobi,FALSE,1404464692
+Molo,Molo,,-0.2500,35.7333,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,2108.7,156732,156732,2,Africa/Nairobi,FALSE,1404340216
+Kitenkela,Kitenkela,,-1.5167,36.8500,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,456.9,154436,154436,2,Africa/Nairobi,FALSE,1404000624
+Kiambu,Kiambu,Kiambuu,-1.1667,36.8167,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,admin,5362.9,147870,147870,2,Africa/Nairobi,FALSE,1404390868
+Ramu,Ramu,,3.9375,41.2203,Kenya,KE,KEN,Mandera,Mandera,KE-24,county,,8756.8,143850,143850,2,Africa/Nairobi,FALSE,1404221019
+Kilifi,Kilifi,,-3.6333,39.8500,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,379.3,122899,122899,2,Africa/Nairobi,FALSE,1404002930
+Malindi,Malindi,,-3.2236,40.1300,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,4190.9,119859,119859,2,Africa/Nairobi,FALSE,1404380224
+Vihiga,Vihiga,,0.0500,34.7250,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,2038.8,118696,118696,2,Africa/Nairobi,FALSE,1404002123
+Machakos,Machakos,Masaku,-1.5167,37.2667,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,admin,3421.2,114109,114109,2,Africa/Nairobi,FALSE,1404746781
+Kisii,Kisii,,-0.6833,34.7667,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,admin,3753.1,112417,37531,2,Africa/Nairobi,FALSE,1404617601
+Ngong,Ngong,,-1.3667,36.6333,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,2666.1,102323,102323,2,Africa/Nairobi,FALSE,1404947852
+Mumias,Mumias,,0.3333,34.4833,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,2947.0,99987,99987,2,Africa/Nairobi,FALSE,1404232773
+Thika,Thika,Dhika,-1.0396,37.0900,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,4449.7,99322,99322,2,Africa/Nairobi,FALSE,1404482650
+Nyeri,Nyeri,Nyiri,-0.4167,36.9500,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,admin,4587.6,98908,98908,2,Africa/Nairobi,FALSE,1404924901
+Kakamega,Kakamega,,0.2822,34.7540,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,admin,4626.8,91778,91778,2,Africa/Nairobi,FALSE,1404614327
+Kendu Bay,Kendu Bay,Kendu|Kindu,-0.3596,34.6400,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,837.5,91248,91248,3,Africa/Nairobi,FALSE,1404600696
+Wajir,Wajir,El Sadi,1.7500,40.0500,Kenya,KE,KEN,Wajir,Wajir,KE-46,county,admin,5511.3,90116,90116,2,Africa/Nairobi,FALSE,1404067343
+Lafey,Lafey,,3.1508,41.1864,Kenya,KE,KEN,Mandera,Mandera,KE-24,county,,191.7,83457,83457,3,Africa/Nairobi,FALSE,1404326023
+Athi River,Athi River,,-1.4500,36.9833,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,117.3,81302,81302,3,Africa/Nairobi,FALSE,1404232217
+Ukunda,Ukunda,Ukundu,-4.2875,39.5661,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,2072.3,77686,77686,2,Africa/Nairobi,FALSE,1404549809
+Nandi Hills,Nandi Hills,,0.1003,35.1764,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,2452.8,73626,73626,2,Africa/Nairobi,FALSE,1404700660
+Narok,Narok,,-1.0833,35.8667,Kenya,KE,KEN,Narok,Narok,KE-33,county,admin,292.4,65430,65430,2,Africa/Nairobi,FALSE,1404459814
+Embu,Embu,Kirimari,-0.5389,37.4583,Kenya,KE,KEN,Embu,Embu,KE-06,county,admin,649.79,64979,41092,2,Africa/Nairobi,FALSE,1404376456
+Kitale,Kitale,,1.0167,35.0000,Kenya,KE,KEN,Trans Nzoia,Trans Nzoia,KE-42,county,admin,2148.4,63245,63245,2,Africa/Nairobi,FALSE,1404890081
+Wundanyi,Wundanyi,,-3.3983,38.3603,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,955.8,62340,62340,3,Africa/Nairobi,FALSE,1404917325
+El Wak,El Wak,Eil Wak,2.8028,40.9275,Kenya,KE,KEN,Mandera,Mandera,KE-24,county,,1871.8,60732,60732,3,Africa/Nairobi,FALSE,1404102561
+Banane,Banane,Benane,0.5000,38.6700,Kenya,KE,KEN,Isiolo,Isiolo,KE-09,county,,84.0,60000,60000,3,Africa/Nairobi,FALSE,1404457234
+Kakuma,Kakuma,,3.7167,34.8667,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,431.8,60000,60000,3,Africa/Nairobi,FALSE,1404320261
+Wote,Wote,,-1.7833,37.6333,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,admin,378.9,56419,56419,2,Africa/Nairobi,FALSE,1404304549
+Kimilili,Kimilili,,0.7833,34.7167,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,1432.1,56050,56050,3,Africa/Nairobi,FALSE,1404489379
+Bungoma,Bungoma,,0.5667,34.5667,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,admin,4343.5,55857,55857,2,Africa/Nairobi,FALSE,1404689847
+Isiolo,Isiolo,,0.3500,37.5833,Kenya,KE,KEN,Isiolo,Isiolo,KE-09,county,admin,2432.4,45989,45989,2,Africa/Nairobi,FALSE,1404771203
+Voi,Voi,,-3.3906,38.5769,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,358.9,45483,45483,3,Africa/Nairobi,FALSE,1404504656
+Meru,Meru,,0.0500,37.6500,Kenya,KE,KEN,Meru,Meru,KE-26,county,admin,4883.4,42677,42677,2,Africa/Nairobi,FALSE,1404588252
+Webuye,Webuye,Broderick Falls,0.6167,34.7667,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,2423.5,42642,42642,2,Africa/Nairobi,FALSE,1404979270
+Iten,Iten,,0.6731,35.5083,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,admin,2119.1,42312,42312,2,Africa/Nairobi,FALSE,1404000102
+Homa Bay,Homa Bay,Homa,-0.5167,34.4500,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,admin,2275.0,32174,32174,2,Africa/Nairobi,FALSE,1404321159
+Rumuruti,Rumuruti,,0.2600,36.5363,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,admin,168.4,31649,31649,2,Africa/Nairobi,FALSE,1404005234
+Nanyuki,Nanyuki,,0.0167,37.0667,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,408.2,31577,31577,3,Africa/Nairobi,FALSE,1404481993
+Maralal,Maralal,,1.1000,36.7000,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,admin,613.9,31350,31350,2,Africa/Nairobi,FALSE,1404895664
+Busia,Busia,,0.4633,34.1053,Kenya,KE,KEN,Busia,Busia,KE-04,county,admin,3876.5,30777,30777,2,Africa/Nairobi,FALSE,1404250734
+Mandera,Mandera,Madera,3.9167,41.8333,Kenya,KE,KEN,Mandera,Mandera,KE-24,county,admin,3086.2,30433,30433,2,Africa/Nairobi,FALSE,1404192737
+Kericho,Kericho,,-0.3692,35.2839,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,admin,3566.7,30023,30023,2,Africa/Nairobi,FALSE,1404338562
+Kitui,Kitui,,-1.3667,38.0167,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,admin,3585.8,29062,29062,2,Africa/Nairobi,FALSE,1404548296
+Lamu,Lamu,Amu,-2.2694,40.9022,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,admin,5189.6,25385,25385,2,Africa/Nairobi,FALSE,1404163131
+Moyale,Moyale,Port Harrington|Fort Harrington,3.5270,39.0560,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,5736.4,25000,25000,2,Africa/Nairobi,FALSE,1404689643
+Kajiado,Kajiado,Ol Kejuado,-1.8500,36.7833,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,admin,353.9,24678,24678,2,Africa/Nairobi,FALSE,1404265412
+Taveta,Taveta,,-3.3956,37.6761,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,271.7,22018,22018,3,Africa/Nairobi,FALSE,1404624215
+Takaba,Takaba,,3.3963,40.2251,Kenya,KE,KEN,Mandera,Mandera,KE-24,county,,40.1,21474,21474,3,Africa/Nairobi,FALSE,1404710881
+Baragoi,Baragoi,Baragoli,1.7833,36.7833,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,166.5,20000,20000,3,Africa/Nairobi,FALSE,1404601511
+Kapsabet,Kapsabet,Nandi,0.3333,35.1667,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,admin,1959.9,17918,17918,2,Africa/Nairobi,FALSE,1404814363
+Eldama Ravine,Eldama Ravine,Eldama|Shimoni,0.0500,35.7167,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,2754.0,17581,17581,2,Africa/Nairobi,FALSE,1404468256
+Marsabit,Marsabit,,2.3333,37.9833,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,admin,146.3,17127,17127,2,Africa/Nairobi,FALSE,1404055253
+Lodwar,Lodwar,,3.1167,35.6000,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,admin,73.6,16981,16981,2,Africa/Nairobi,FALSE,1404993573
+Mwingi,Mwingi,,-0.9333,38.0500,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,1476.1,15970,15970,3,Africa/Nairobi,FALSE,1404312666
+Bartabwa,Bartabwa,,0.8300,35.8000,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,50.7,14611,14611,3,Africa/Nairobi,FALSE,1404047345
+Naivasha,Naivasha,,-0.7202,36.4285,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,1512.1,14563,14563,3,Africa/Nairobi,FALSE,1404904927
+Kerugoya,Kerugoya,Keruguya,-0.5000,37.2833,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,admin,2094.6,14056,14056,2,Africa/Nairobi,FALSE,1404597807
+Makuyu,Makuyu,,-0.9000,37.1833,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,156.4,12541,12541,3,Africa/Nairobi,FALSE,1404000094
+Port Victoria,Port Victoria,Bunyala|Port Bunyala,0.1000,33.9833,Kenya,KE,KEN,Busia,Busia,KE-04,county,,1187.0,12194,12194,3,Africa/Nairobi,FALSE,1404757827
+Msambweni,Msambweni,Msambweni Government Hospital,-4.4700,39.4800,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,1280.5,11985,11985,3,Africa/Nairobi,FALSE,1404130106
+Kwale,Kwale,,-4.1744,39.4603,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,admin,189.9,10063,10063,2,Africa/Nairobi,FALSE,1404769042
+Sotik,Sotik,Chemagel|Chemagal|Chamagel,-0.6800,35.1200,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,1704.7,10000,10000,3,Africa/Nairobi,FALSE,1404807525
+Kargi,Kargi,,2.5036,37.5725,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,1.9,10000,10000,4,Africa/Nairobi,FALSE,1404034627
+Wanguru,Wanguru,Wang’uru,-0.6825,37.3569,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,692.8,7625,7625,3,Africa/Nairobi,FALSE,1404000795
+Malaba,Malaba,,0.6353,34.2753,Kenya,KE,KEN,Busia,Busia,KE-04,county,,3752.1,7302,7302,2,Africa/Nairobi,FALSE,1404956914
+Hola,Hola,Galole,-1.5000,40.0333,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,admin,340.5,6931,6931,2,Africa/Nairobi,FALSE,1404396632
+Chepareria,Chepareria,Cheberia,1.3200,35.2000,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,516.0,6565,6565,3,Africa/Nairobi,FALSE,1404331611
+Dadaab,Dadaab,,0.0531,40.3086,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,984.4,5723,5723,3,Africa/Nairobi,FALSE,1404002655
+Mwatate,Mwatate,,-3.5047,38.3778,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,admin,395.4,5551,5551,2,Africa/Nairobi,FALSE,1404648092
+Namanga,Namanga,,-2.5500,36.7833,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,2105.6,5500,5500,2,Africa/Nairobi,FALSE,1404000001
+Witu,Witu,,-2.3889,40.4378,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,95.9,5380,5380,4,Africa/Nairobi,FALSE,1404037095
+Sololo,Sololo,,3.5633,38.6437,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,136.1,5104,5104,4,Africa/Nairobi,FALSE,1404320203
+Butere,Butere,,0.2167,34.5000,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,5.0,4725,4725,3,Africa/Nairobi,FALSE,1404885645
+Chemoigut,Chemoigut,,0.6800,36.2000,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,24.0,4591,4591,4,Africa/Nairobi,FALSE,1404156391
+Malikisi,Malikisi,Malakisi,0.6800,34.4200,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,750.2,4319,4319,3,Africa/Nairobi,FALSE,1404683581
+Cheberen,Cheberen,,0.2300,35.8300,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,66.0,4018,4018,4,Africa/Nairobi,FALSE,1404224169
+Bartolimo,Bartolimo,,0.6800,35.8200,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,405.0,3879,3879,3,Africa/Nairobi,FALSE,1404864019
+Elangata Wuas,Elangata Wuas,Mile 46,-1.8800,36.5800,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,26.3,3000,3000,4,Africa/Nairobi,FALSE,1404878178
+Garsen,Garsen,,-2.2678,40.1106,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,32.6,2904,2904,4,Africa/Nairobi,FALSE,1404270804
+Laisamis,Laisamis,,1.5905,37.8025,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,5.2,2643,2643,4,Africa/Nairobi,FALSE,1404086499
+Karungu,Karungu,Karungu Station|Karunga,-0.8496,34.1500,Kenya,KE,KEN,Migori,Migori,KE-27,county,,757.1,2376,2376,3,Africa/Nairobi,FALSE,1404796412
+Baraton,Baraton,Barton,0.2540,35.0810,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,550.6,2043,2043,3,Africa/Nairobi,FALSE,1404001818
+Konza,Konza,,-1.7496,37.1200,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,23.1,2004,2004,4,Africa/Nairobi,FALSE,1404143289
+Gedi,Gedi,Gede,-3.3030,40.0170,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,546.5,596,596,3,Africa/Nairobi,FALSE,1404793636
+Tsavo,Tsavo,Tsavo Station,-2.9828,38.4666,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,1.0,414,414,4,Africa/Nairobi,FALSE,1404321644
+Laboot,Laboot,,1.0200,34.6200,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,5.2,383,383,4,Africa/Nairobi,FALSE,1404172189
+Kilema Dui,Kilema Dui,Clema Dui,-1.6000,39.5300,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.9,149,149,4,Africa/Nairobi,FALSE,1404227565
+Angorangora,Angorangora,Kankwangangora,2.6300,35.4000,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,24.5,134,134,4,Africa/Nairobi,FALSE,1404412175
+Kamuchege,Kamuchege,Kamucege,-1.0302,36.7900,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,641.0,,,3,Africa/Nairobi,FALSE,1404041706
+Kamuchege,Kamuchege,Kiamuchege,-0.6760,37.3805,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,654.2,,,3,Africa/Nairobi,FALSE,1404123222
+Kahuhia,Kahuhia,,-0.7094,37.0429,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,750.9,,,3,Africa/Nairobi,FALSE,1404431948
+Msanga,Msanga,Masanga,-2.2557,40.6800,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,6.5,,,5,Africa/Nairobi,FALSE,1404074315
+Mirogi,Mirogi,,-0.6995,34.3858,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,274.2,,,3,Africa/Nairobi,FALSE,1404240439
+Giribe,Giribe,Guiribe,-1.1017,34.2902,Kenya,KE,KEN,Migori,Migori,KE-27,county,,318.0,,,3,Africa/Nairobi,FALSE,1404002472
+Reru,Reru,,-0.1021,34.4548,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,504.8,,,3,Africa/Nairobi,FALSE,1404000163
+Malindi,Malindi,,0.1341,34.6183,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,666.1,,,3,Africa/Nairobi,FALSE,1404002066
+Mutamaiyu,Mutamaiyu,,-0.5820,36.6206,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,471.6,,,3,Africa/Nairobi,FALSE,1404001101
+Kathigagacheru,Kathigagacheru,,-0.5056,37.7580,Kenya,KE,KEN,Embu,Embu,KE-06,county,,180.1,,,4,Africa/Nairobi,FALSE,1404003235
+Ndiaini Two,Ndiaini Two,,-0.5667,37.0000,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,652.2,,,3,Africa/Nairobi,FALSE,1404343640
+Lukhome,Lukhome,,0.7750,34.6033,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,810.7,,,3,Africa/Nairobi,FALSE,1404001889
+Maiani,Maiani,Mayani|Maiyani,-1.8636,37.2942,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,303.5,,,3,Africa/Nairobi,FALSE,1404000976
+Maiani,Maiani,Maiana|Maiyani,-1.8788,37.5233,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,284.8,,,3,Africa/Nairobi,TRUE,1404001348
+Kalongoleputh,Kalongoleputh,,2.5810,35.8839,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,22.7,,,4,Africa/Nairobi,FALSE,1404253455
+Mwaani,Mwaani,,-1.7704,37.6671,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,436.9,,,3,Africa/Nairobi,FALSE,1404001427
+Malomonye,Malomonye,,0.6902,34.8017,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,556.9,,,3,Africa/Nairobi,FALSE,1404002065
+Chepsiria,Chepsiria,,-0.1941,35.2143,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,246.2,,,3,Africa/Nairobi,FALSE,1404003592
+Idokho,Idokho,,0.0500,34.0000,Kenya,KE,KEN,Busia,Busia,KE-04,county,,373.5,,,3,Africa/Nairobi,FALSE,1404105263
+Iguhu,Iguhu,,0.1631,34.7464,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,998.3,,,3,Africa/Nairobi,FALSE,1404001702
+Igem Be,Igem Be,Amugenti|Amungenti,0.1866,37.9610,Kenya,KE,KEN,Meru,Meru,KE-26,county,,1575.5,,,3,Africa/Nairobi,FALSE,1404002457
+Pendeza,Pendeza,,-3.9612,39.6333,Kenya,KE,KEN,Mombasa,Mombasa,KE-28,county,,109.9,,,4,Africa/Nairobi,FALSE,1404605708
+Sadani,Sadani,,-4.4527,39.3258,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,206.5,,,3,Africa/Nairobi,FALSE,1404118617
+Karumu,Karumu,,-0.9282,37.0582,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,920.6,,,3,Africa/Nairobi,FALSE,1404000883
+Kamunyoni,Kamunyoni,,-0.4411,37.9775,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,51.2,,,4,Africa/Nairobi,FALSE,1404003270
+Miti ya Hunter,Miti ya Hunter,Hunters Tree|Kibanta,0.3200,35.1800,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,775.9,,,3,Africa/Nairobi,FALSE,1404948690
+Yururu,Yururu,,-0.1453,37.6639,Kenya,KE,KEN,Meru,Meru,KE-26,county,,746.9,,,3,Africa/Nairobi,FALSE,1404003131
+Lika,Lika,,-0.5102,35.9754,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,617.3,,,3,Africa/Nairobi,FALSE,1404003511
+Kianjege,Kianjege,Kyanjege,-0.5657,37.2376,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,707.4,,,3,Africa/Nairobi,FALSE,1404000800
+Kinna,Kinna,,0.3188,38.2050,Kenya,KE,KEN,Isiolo,Isiolo,KE-09,county,,23.9,,,4,Africa/Nairobi,FALSE,1404918085
+Imale,Imale,,-2.1512,38.2816,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,97.2,,,4,Africa/Nairobi,FALSE,1404522523
+Kathiani,Kathiani,Katiani,-0.6120,38.0320,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,91.5,,,4,Africa/Nairobi,FALSE,1404003225
+Muthangene,Muthangene,Mutangene,0.0312,37.5847,Kenya,KE,KEN,Meru,Meru,KE-26,county,,657.9,,,3,Africa/Nairobi,FALSE,1404002264
+Nyika,Nyika,,-3.8828,39.2154,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,54.7,,,4,Africa/Nairobi,FALSE,1404208238
+Katito,Katito,,-0.2693,34.9720,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,752.9,,,3,Africa/Nairobi,FALSE,1404003567
+Marembo,Marembo,,-2.1373,40.1748,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,43.3,,,4,Africa/Nairobi,FALSE,1404145451
+Olombokishi,Olombokishi,Ol Omborishi|Ol Ombokishi,-1.0200,36.0000,Kenya,KE,KEN,Narok,Narok,KE-33,county,,48.5,,,4,Africa/Nairobi,FALSE,1404756346
+Kithina,Kithina,,-1.9093,37.3796,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,287.2,,,3,Africa/Nairobi,FALSE,1404001065
+Weruga,Weruga,,-3.3854,38.3367,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,848.7,,,3,Africa/Nairobi,FALSE,1404760805
+Mgombezi,Mgombezi,,-4.5190,39.1362,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,174.8,,,4,Africa/Nairobi,FALSE,1404777181
+Aisere,Aisere,,0.2255,34.6841,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,955.0,,,3,Africa/Nairobi,FALSE,1404860041
+Kamwaura,Kamwaura,,-0.4278,35.5842,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,239.6,,,3,Africa/Nairobi,FALSE,1404990311
+Gakanga,Gakanga,,-0.4414,36.8322,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,3.1,,,5,Africa/Nairobi,FALSE,1404045487
+Sesia,Sesia,,0.5000,35.8167,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,149.1,,,4,Africa/Nairobi,FALSE,1404324730
+Maseno,Maseno,,-0.0066,34.6000,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,1060.8,,,3,Africa/Nairobi,FALSE,1404700372
+Munga,Munga,Monga,-0.2597,37.6627,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,719.9,,,3,Africa/Nairobi,FALSE,1404003360
+Rurie,Rurie,,-0.2015,36.3767,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,207.7,,,3,Africa/Nairobi,FALSE,1404000523
+Kabari,Kabari,,-0.4359,37.2387,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,1133.0,,,3,Africa/Nairobi,FALSE,1404001020
+Cherangani,Cherangani,Cherangany|Charangani,0.9824,35.2211,Kenya,KE,KEN,Trans Nzoia,Trans Nzoia,KE-42,county,,380.5,,,3,Africa/Nairobi,FALSE,1404001754
+Tar,Tar,,-0.4826,34.5328,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,559.2,,,3,Africa/Nairobi,FALSE,1404003706
+Nyakwadha,Nyakwadha,,-0.5877,34.6299,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,375.9,,,3,Africa/Nairobi,FALSE,1404002487
+Apoko,Apoko,,-0.3845,34.8885,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,380.9,,,3,Africa/Nairobi,FALSE,1404003720
+Kabola,Kabola,,-0.8340,34.5404,Kenya,KE,KEN,Migori,Migori,KE-27,county,,825.0,,,3,Africa/Nairobi,FALSE,1404893581
+Githongo,Githongo,,-0.0037,37.5921,Kenya,KE,KEN,Meru,Meru,KE-26,county,,1438.9,,,3,Africa/Nairobi,FALSE,1404003346
+Busakala,Busakala,Busagala,0.7381,34.5712,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,1384.6,,,3,Africa/Nairobi,FALSE,1404001751
+Kiangata,Kiangata,,-0.3948,34.1913,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,1037.8,,,3,Africa/Nairobi,FALSE,1404000347
+Kivuthi,Kivuthi,,-0.9496,37.6579,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,110.6,,,4,Africa/Nairobi,FALSE,1404003210
+Isebania,Isebania,,-1.2422,34.4767,Kenya,KE,KEN,Migori,Migori,KE-27,county,,468.0,,,3,Africa/Nairobi,FALSE,1404002236
+Ruo,Ruo,,-0.4567,35.9815,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,733.6,,,3,Africa/Nairobi,FALSE,1404003508
+Ekaru,Ekaru,,-1.2000,36.7000,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2431.0,,,2,Africa/Nairobi,FALSE,1404844729
+Vuga,Vuga,,-4.1888,39.4982,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,297.1,,,3,Africa/Nairobi,FALSE,1404464510
+Amboni,Amboni,,-0.3303,36.8806,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,322.3,,,3,Africa/Nairobi,FALSE,1404000690
+Gitugi,Gitugi,Gituge,-0.6519,37.0212,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,570.6,,,3,Africa/Nairobi,FALSE,1404898376
+Wishipon,Wishipon,,-0.5655,36.4989,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,243.3,,,3,Africa/Nairobi,FALSE,1404977611
+Swuari,Swuari,,1.0966,37.0715,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,13.4,,,4,Africa/Nairobi,FALSE,1404000023
+Gatumbiru,Gatumbiru,Gatumbiro,-0.4654,36.8665,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,515.3,,,3,Africa/Nairobi,FALSE,1404057450
+Kambaa,Kambaa,,-0.1045,36.5352,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,87.5,,,4,Africa/Nairobi,FALSE,1404000720
+Nango,Nango,,-0.1642,34.1680,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,251.1,,,3,Africa/Nairobi,FALSE,1404000323
+Kyathani,Kyathani,,-1.9000,37.4167,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,318.5,,,3,Africa/Nairobi,FALSE,1404310056
+Kamoko,Kamoko,,-0.5120,36.9097,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,691.0,,,3,Africa/Nairobi,FALSE,1404001123
+Chonyi,Chonyi,Chonye,-3.7800,39.6713,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,733.0,,,3,Africa/Nairobi,FALSE,1404134796
+Lukango,Lukango,,0.1877,34.7993,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,953.9,,,3,Africa/Nairobi,FALSE,1404001890
+Itoleka,Itoleka,,-1.4543,37.9381,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,210.1,,,3,Africa/Nairobi,FALSE,1404001362
+Riteke,Riteke,,-0.8700,34.6944,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,993.7,,,3,Africa/Nairobi,FALSE,1404002680
+Tuni,Tuni,Funi Dela|Funi,-1.0065,39.8932,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,13.1,,,4,Africa/Nairobi,FALSE,1404040484
+Kaptarakwa,Kaptarakwa,,0.4647,35.5411,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,553.5,,,3,Africa/Nairobi,FALSE,1404109600
+Riamukurwe,Riamukurwe,Riamukuruwe,-0.4500,36.9667,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,1392.7,,,3,Africa/Nairobi,FALSE,1404313125
+Mathareini,Mathareini,,-0.8167,36.9667,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,738.5,,,3,Africa/Nairobi,FALSE,1404745816
+Alego,Alego,,-0.3545,34.6117,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,652.5,,,3,Africa/Nairobi,FALSE,1404003659
+Wasis,Wasis,,-0.5500,34.7333,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,886.1,,,3,Africa/Nairobi,FALSE,1404737050
+Uloma,Uloma,,-0.0366,34.2392,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,179.3,,,4,Africa/Nairobi,FALSE,1404000289
+Marsala,Marsala,,-0.2111,34.2933,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,407.0,,,3,Africa/Nairobi,FALSE,1404000337
+Itendeu,Itendeu,,-0.8266,38.0283,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,78.0,,,4,Africa/Nairobi,FALSE,1404003321
+Enkorika,Enkorika,Ngorigaishi,-1.9700,36.9200,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,38.2,,,4,Africa/Nairobi,FALSE,1404566896
+Kaheho,Kaheho,,-0.1913,36.5018,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,288.1,,,3,Africa/Nairobi,FALSE,1404000718
+Emerit,Emerit,,-1.4468,36.4793,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,7.4,,,5,Africa/Nairobi,FALSE,1404000553
+Nzuuni,Nzuuni,,-1.7667,37.4500,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,177.6,,,4,Africa/Nairobi,FALSE,1404138117
+Kipungani,Kipungani,Kibirikani,-2.3086,40.8160,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,28.3,,,4,Africa/Nairobi,FALSE,1404210554
+Kangoya,Kangoya,,-1.1667,36.8167,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,3472.9,,,2,Africa/Nairobi,FALSE,1404012977
+Muregu,Muregu,,0.4735,34.7018,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,680.3,,,3,Africa/Nairobi,FALSE,1404002064
+Gacu,Gacu,,0.1094,37.7635,Kenya,KE,KEN,Meru,Meru,KE-26,county,,619.3,,,3,Africa/Nairobi,FALSE,1404002306
+Mumberes,Mumberes,,0.0113,35.5385,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,294.0,,,3,Africa/Nairobi,FALSE,1404001746
+Kibogi,Kibogi,,-0.4192,37.5038,Kenya,KE,KEN,Embu,Embu,KE-06,county,,789.8,,,3,Africa/Nairobi,FALSE,1404582637
+Dakacha,Dakacha,Dakatcha,-3.0093,39.7934,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,24.6,,,4,Africa/Nairobi,FALSE,1404864364
+Isinya,Isinya,Senya|Sinya,-1.6667,36.8500,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,82.1,,,4,Africa/Nairobi,FALSE,1404000959
+Shimba Hills,Shimba Hills,,-4.3627,39.4155,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,212.9,,,3,Africa/Nairobi,FALSE,1404375453
+Kaasya,Kaasya,,-2.0313,37.7144,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,110.4,,,4,Africa/Nairobi,FALSE,1404002428
+Mosobeti,Mosobeti,Musobeti,-0.6758,34.9954,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,956.0,,,3,Africa/Nairobi,FALSE,1404002577
+Shikunga,Shikunga,,0.1901,34.6587,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,867.1,,,3,Africa/Nairobi,FALSE,1404002053
+Lokone,Lokone,,2.3952,35.9723,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,12.2,,,4,Africa/Nairobi,FALSE,1404032045
+Jaleny Village,Jaleny Village,Jaleny’s Village|Jaleny,-0.9688,34.4350,Kenya,KE,KEN,Migori,Migori,KE-27,county,,385.3,,,3,Africa/Nairobi,FALSE,1404805674
+Kisukioni,Kisukioni,,-1.2241,37.2722,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,370.7,,,3,Africa/Nairobi,FALSE,1404000964
+Lugusi,Lugusi,,0.3446,34.9221,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,577.5,,,3,Africa/Nairobi,FALSE,1404001714
+Mai Mahoro,Mai Mahoro,Mai Maharo,-0.5770,36.6233,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,471.6,,,3,Africa/Nairobi,FALSE,1404143630
+Ochienga,Ochienga,,-0.2527,34.3550,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,339.8,,,3,Africa/Nairobi,FALSE,1404000345
+Gatheri,Gatheri,Gathera,-0.7870,37.0278,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,641.9,,,3,Africa/Nairobi,FALSE,1404261946
+Namarambi,Namarambi,,0.7273,34.7673,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,1097.4,,,3,Africa/Nairobi,FALSE,1404001987
+Mukuria,Mukuria,,-0.8196,36.9407,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,680.8,,,3,Africa/Nairobi,FALSE,1404163847
+Nguka,Nguka,,-0.6599,37.3097,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,762.6,,,3,Africa/Nairobi,FALSE,1404618867
+Irabari,Irabari,,-0.6985,37.6835,Kenya,KE,KEN,Embu,Embu,KE-06,county,,241.3,,,3,Africa/Nairobi,FALSE,1404003160
+Ong’eche,Ong'eche,,-0.1814,34.8755,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,574.2,,,3,Africa/Nairobi,FALSE,1404003530
+Kwa Mboloi,Kwa Mboloi,,-0.8450,38.0090,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,78.0,,,4,Africa/Nairobi,FALSE,1404003274
+Wikoten‘g,Wikoten`g,,-0.6127,34.6445,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,642.4,,,3,Africa/Nairobi,FALSE,1404003779
+Kathugu,Kathugu,,-0.4773,37.5818,Kenya,KE,KEN,Embu,Embu,KE-06,county,,353.4,,,3,Africa/Nairobi,FALSE,1404542579
+Gikuuri,Gikuuri,Gekuuri,-0.4517,37.5577,Kenya,KE,KEN,Embu,Embu,KE-06,county,,1217.9,,,3,Africa/Nairobi,FALSE,1404034506
+Funzi,Funzi,,-4.5789,39.4379,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,53.4,,,4,Africa/Nairobi,FALSE,1404716511
+Mashundwani,Mashundwani,Mashimdwani,-2.1972,40.8796,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,49.8,,,4,Africa/Nairobi,FALSE,1404603301
+Namabusi,Namabusi,,0.0667,33.9833,Kenya,KE,KEN,Busia,Busia,KE-04,county,,686.2,,,3,Africa/Nairobi,FALSE,1404610856
+Daba,Daba,,-1.5730,39.4808,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.9,,,5,Africa/Nairobi,FALSE,1404261549
+Ntaretoi,Ntaretoi,,-2.1693,37.4348,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,25.5,,,4,Africa/Nairobi,FALSE,1404001308
+Marwa,Marwa,,-1.9165,37.2213,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,129.6,,,4,Africa/Nairobi,FALSE,1404000923
+Kipao,Kipao,,-2.4317,40.2174,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,124.5,,,4,Africa/Nairobi,FALSE,1404906893
+Hatha-ini,Hatha-ini,,-0.5000,36.9000,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,817.6,,,3,Africa/Nairobi,FALSE,1404936209
+Kibingo,Kibingo,,-0.4833,37.2500,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,1388.1,,,3,Africa/Nairobi,FALSE,1404169105
+Rudacha,Rudacha,,0.1167,33.9833,Kenya,KE,KEN,Busia,Busia,KE-04,county,,588.7,,,3,Africa/Nairobi,FALSE,1404094326
+Rabour,Rabour,,-0.5282,34.4731,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,2438.7,,,2,Africa/Nairobi,FALSE,1404000275
+Kapsowar,Kapsowar,Marakwet,0.9789,35.5585,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,336.0,,,3,Africa/Nairobi,FALSE,1404954627
+Kagwathi,Kagwathi,,-0.4667,36.9167,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,810.7,,,3,Africa/Nairobi,FALSE,1404501253
+Sirikwa,Sirikwa,,0.0811,34.8802,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,880.3,,,3,Africa/Nairobi,FALSE,1404001550
+Kinga,Kinga,,-0.5685,36.6047,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,421.9,,,3,Africa/Nairobi,FALSE,1404001103
+Buoye,Buoye,,-0.5285,34.7609,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,794.6,,,3,Africa/Nairobi,FALSE,1404002819
+Mugumo,Mugumo,,-0.7382,36.5420,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,285.0,,,3,Africa/Nairobi,FALSE,1404001120
+Kakalet,Kakalet,Kakulit,2.6262,35.4725,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,28.6,,,4,Africa/Nairobi,FALSE,1404114915
+Mutus,Mutus,,-0.6667,37.6360,Kenya,KE,KEN,Embu,Embu,KE-06,county,,257.2,,,3,Africa/Nairobi,FALSE,1404003136
+Nyamarimba,Nyamarimba,Nyamarumba,-0.3701,34.9047,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,326.1,,,3,Africa/Nairobi,FALSE,1404003634
+Ithiyani,Ithiyani,,-1.3848,37.9409,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,161.8,,,4,Africa/Nairobi,FALSE,1404001363
+Kitangasua,Kitangasua,,-1.5463,38.0627,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,228.6,,,3,Africa/Nairobi,FALSE,1404001298
+Mwangati,Mwangati,,-0.2684,35.6862,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,419.2,,,3,Africa/Nairobi,FALSE,1404003427
+Igikiro,Igikiro,,-0.8167,37.1833,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,408.8,,,3,Africa/Nairobi,FALSE,1404688665
+Mwanza,Mwanza,,0.3764,34.8537,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,868.9,,,3,Africa/Nairobi,FALSE,1404002007
+Roka,Roka,,-1.6000,39.2000,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.0,,,5,Africa/Nairobi,FALSE,1404899134
+Kome,Kome,,-0.6499,34.3905,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,266.8,,,3,Africa/Nairobi,FALSE,1404000370
+Machege,Machege,,-0.0845,35.9146,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,170.5,,,4,Africa/Nairobi,FALSE,1404214703
+Kathangari,Kathangari,Kathangare,-0.4731,37.4406,Kenya,KE,KEN,Embu,Embu,KE-06,county,,672.9,,,3,Africa/Nairobi,FALSE,1404592694
+Jomvu,Jomvu,Jumvu,-3.9862,39.6082,Kenya,KE,KEN,Mombasa,Mombasa,KE-28,county,,2396.7,,,2,Africa/Nairobi,FALSE,1404354812
+Nyakianga,Nyakianga,,-0.6499,36.9475,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,759.3,,,3,Africa/Nairobi,FALSE,1404000469
+Mikameni,Mikameni,,-2.0651,40.1618,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,28.0,,,4,Africa/Nairobi,FALSE,1404665940
+Nyamusi,Nyamusi,,-0.4826,34.9719,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,627.9,,,3,Africa/Nairobi,FALSE,1404002638
+Mukomoni,Mukomoni,Mikomoni,-0.6148,35.0274,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,933.1,,,3,Africa/Nairobi,FALSE,1404003444
+Gathethu,Gathethu,Gathehu,-0.4113,37.1543,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,702.5,,,3,Africa/Nairobi,FALSE,1404838071
+Chebakundi,Chebakundi,,-0.6591,35.6541,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,326.6,,,3,Africa/Nairobi,FALSE,1404002745
+Kaptuiya,Kaptuiya,Kiptuiya|Kaptuya,0.2000,35.0016,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,470.2,,,3,Africa/Nairobi,FALSE,1404001749
+Ranalo,Ranalo,Ranyala,-0.3737,34.3074,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,594.6,,,3,Africa/Nairobi,FALSE,1404934302
+Darajani,Darajani,,-2.5833,38.1167,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,97.6,,,4,Africa/Nairobi,FALSE,1404405404
+Nyagacho,Nyagacho,,-0.4673,35.6540,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,354.0,,,3,Africa/Nairobi,FALSE,1404003738
+Singore,Singore,,0.7137,35.5176,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,257.9,,,3,Africa/Nairobi,FALSE,1404132343
+Kisegi,Kisegi,,-0.6396,34.0578,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,307.4,,,3,Africa/Nairobi,FALSE,1404000187
+Mwereni,Mwereni,Mwareni|Marenyi,-4.3310,39.1396,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,12.6,,,4,Africa/Nairobi,FALSE,1404161929
+Ruthanji,Ruthanji,,-0.5426,37.0013,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,625.3,,,3,Africa/Nairobi,FALSE,1404000725
+Magenka,Magenka,,-0.4179,37.6643,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,480.8,,,3,Africa/Nairobi,FALSE,1404003262
+Kanjonja,Kanjonja,,-1.7435,40.1214,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,72.3,,,4,Africa/Nairobi,FALSE,1404130203
+Maroo,Maroo,,-0.9156,34.6248,Kenya,KE,KEN,Migori,Migori,KE-27,county,,549.8,,,3,Africa/Nairobi,FALSE,1404002804
+Kipkitur,Kipkitur,,0.0690,36.0032,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,98.1,,,4,Africa/Nairobi,FALSE,1404002415
+Mugundoi,Mugundoi,,0.1232,35.1217,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,533.8,,,3,Africa/Nairobi,FALSE,1404002158
+Ralak,Ralak,,0.3015,34.2615,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,502.2,,,3,Africa/Nairobi,FALSE,1404003607
+Boma,Boma,Bomas,0.3367,36.6880,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,29.7,,,4,Africa/Nairobi,FALSE,1404003042
+Boma,Boma,,0.4470,36.5117,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,24.7,,,4,Africa/Nairobi,TRUE,1404003012
+Boma,Boma,,0.3726,36.8054,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,9.8,,,5,Africa/Nairobi,TRUE,1404002601
+Banja,Banja,,0.0381,34.8278,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,913.4,,,3,Africa/Nairobi,FALSE,1404001819
+Karuri,Karuri,,-0.8340,37.0691,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,985.2,,,3,Africa/Nairobi,FALSE,1404000882
+Karuri,Karuri,,-0.7000,37.1833,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,226.3,,,3,Africa/Nairobi,TRUE,1404985989
+Dar es Salaam,Dar es Salaam,Dar es Salam|Shakani,-1.6522,41.5538,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,6.0,,,5,Africa/Nairobi,FALSE,1404768709
+Mwea,Mwea,Mwea Church,-1.6957,37.4175,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,371.2,,,3,Africa/Nairobi,FALSE,1404001158
+Kavati,Kavati,,-1.3130,37.9726,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,543.2,,,3,Africa/Nairobi,FALSE,1404001277
+Kavati,Kavati,Kabati,-1.2340,37.9157,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,257.5,,,3,Africa/Nairobi,TRUE,1404001305
+Kavati,Kavati,Kabati,-1.3509,38.2260,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,56.8,,,4,Africa/Nairobi,TRUE,1404001495
+Msuakini,Msuakini,,-2.4188,40.7036,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,83.9,,,4,Africa/Nairobi,FALSE,1404127189
+Nabkoi,Nabkoi,,0.1384,35.4640,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,180.0,,,4,Africa/Nairobi,FALSE,1404001607
+Samoo,Samoo,,0.2313,35.0589,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,550.6,,,3,Africa/Nairobi,FALSE,1404002155
+Meretha,Meretha,,-1.1492,36.6158,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,260.6,,,3,Africa/Nairobi,FALSE,1404000464
+Nyombulu,Nyombulu,Nyamburu,-0.5129,34.8410,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,834.1,,,3,Africa/Nairobi,FALSE,1404003633
+Rigmio,Rigmio,,-1.1500,41.0167,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,86.2,,,4,Africa/Nairobi,FALSE,1404271753
+Wangarot,Wangarot,,-0.1240,34.3127,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,486.5,,,3,Africa/Nairobi,FALSE,1404000131
+Gatuto,Gatuto,,-0.5715,37.3034,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,654.1,,,3,Africa/Nairobi,FALSE,1404795296
+Gichiengo,Gichiengo,,-0.9426,36.6176,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,643.4,,,3,Africa/Nairobi,FALSE,1404212645
+Posa,Posa,,-0.5114,39.6399,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,29.1,,,4,Africa/Nairobi,FALSE,1404001501
+Gesiaga,Gesiaga,,-0.6142,34.9105,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,876.2,,,3,Africa/Nairobi,FALSE,1404002540
+Alungo,Alungo,,-0.1810,34.5070,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,298.6,,,3,Africa/Nairobi,FALSE,1404002855
+Kanusin,Kanusin,,-0.7709,35.2136,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,461.2,,,3,Africa/Nairobi,FALSE,1404002522
+Mugumoini,Mugumoini,Mugumoni,-0.6333,37.3667,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,835.4,,,3,Africa/Nairobi,FALSE,1404186908
+Githambo,Githambo,,-0.7109,36.8845,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,490.4,,,3,Africa/Nairobi,FALSE,1404078947
+Chepkongony,Chepkongony,Chepkongoni,0.0623,35.0292,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,173.2,,,4,Africa/Nairobi,FALSE,1404002074
+Ndololo,Ndololo,,-3.3611,38.5964,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,588.3,,,3,Africa/Nairobi,FALSE,1404002410
+Fanjua,Fanjua,,-1.6607,40.1225,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,72.9,,,4,Africa/Nairobi,FALSE,1404067108
+Liera,Liera,,-0.4164,34.6639,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,467.8,,,3,Africa/Nairobi,FALSE,1404002570
+Utange,Utange,,-3.9740,39.7276,Kenya,KE,KEN,Mombasa,Mombasa,KE-28,county,,3613.1,,,2,Africa/Nairobi,FALSE,1404832503
+Akala,Akala,,-0.9660,34.2460,Kenya,KE,KEN,Migori,Migori,KE-27,county,,180.3,,,4,Africa/Nairobi,FALSE,1404000234
+Vinagoni,Vinagoni,Viragoni,-3.7076,39.5338,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,146.8,,,4,Africa/Nairobi,FALSE,1404984781
+Kaptumek,Kaptumek,,-0.0048,34.8926,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,358.3,,,3,Africa/Nairobi,FALSE,1404002042
+Eluche,Eluche,,0.3445,34.5413,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,742.1,,,3,Africa/Nairobi,FALSE,1404001909
+Lolimo,Lolimo,,2.6069,35.4013,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,24.5,,,4,Africa/Nairobi,FALSE,1404058467
+Mabafweni,Mabafweni,,-4.4308,39.2743,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,254.4,,,3,Africa/Nairobi,FALSE,1404655899
+Vihiga,Vihiga,,0.5360,34.7926,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,805.3,,,3,Africa/Nairobi,FALSE,1404002122
+Vihiga,Vihiga,Vihigu,0.2915,34.9435,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,533.6,,,3,Africa/Nairobi,TRUE,1404002124
+Kithiiri,Kithiiri,,0.0982,37.7912,Kenya,KE,KEN,Meru,Meru,KE-26,county,,477.9,,,3,Africa/Nairobi,FALSE,1404002319
+Kanyariri,Kanyariri,,-1.2469,36.7108,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,4972.7,,,2,Africa/Nairobi,FALSE,1404792040
+Rabuor,Rabuor,,-0.8212,34.1337,Kenya,KE,KEN,Migori,Migori,KE-27,county,,531.9,,,3,Africa/Nairobi,FALSE,1404000268
+Rabuor,Rabuor,,-0.8850,34.5833,Kenya,KE,KEN,Migori,Migori,KE-27,county,,391.8,,,3,Africa/Nairobi,TRUE,1404002606
+Syanthi,Syanthi,,-1.3016,37.3001,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,572.7,,,3,Africa/Nairobi,FALSE,1404000967
+Sergoit,Sergoit,,1.6357,35.3409,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,83.6,,,4,Africa/Nairobi,FALSE,1404000600
+Mechimeru,Mechimeru,,0.5023,34.6495,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,629.2,,,3,Africa/Nairobi,FALSE,1404001817
+Madunda,Madunda,,-0.3916,34.3138,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,594.6,,,3,Africa/Nairobi,FALSE,1404965040
+Biyamathow,Biyamathow,,0.6134,40.4100,Kenya,KE,KEN,Wajir,Wajir,KE-46,county,,11.5,,,4,Africa/Nairobi,FALSE,1404449629
+Upper Gilgil,Upper Gilgil,Gilgil|Khirgil,-0.2121,36.2725,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,227.9,,,3,Africa/Nairobi,FALSE,1404623424
+Tiva,Tiva,,-1.4258,37.8811,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,98.4,,,4,Africa/Nairobi,FALSE,1404029506
+Muthuthiini,Muthuthiini,Muthuthini,-0.5945,37.0543,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,714.4,,,3,Africa/Nairobi,FALSE,1404095077
+Wengondo,Wengondo,,0.0866,34.8056,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1355.7,,,3,Africa/Nairobi,FALSE,1404002071
+Nyanrang,Nyanrang,,-0.8505,34.3325,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,219.9,,,3,Africa/Nairobi,FALSE,1404000388
+Vanga,Vanga,,-4.6595,39.2185,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,663.1,,,3,Africa/Nairobi,FALSE,1404176284
+Laset,Laset,Lasset|Ilassit,-2.9500,37.5700,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,289.2,,,3,Africa/Nairobi,FALSE,1404722250
+Githerere,Githerere,,-0.4833,36.8667,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,439.9,,,3,Africa/Nairobi,FALSE,1404743620
+Katheri,Katheri,,0.0193,37.6134,Kenya,KE,KEN,Meru,Meru,KE-26,county,,745.1,,,3,Africa/Nairobi,FALSE,1404002254
+Chepropro,Chepropro,Chepropoi,2.0473,35.3442,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,52.9,,,4,Africa/Nairobi,FALSE,1404002803
+Karii,Karii,,-0.7063,37.6923,Kenya,KE,KEN,Embu,Embu,KE-06,county,,199.6,,,4,Africa/Nairobi,FALSE,1404003224
+Githiga A,Githiga A,,-1.0869,36.7340,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1288.4,,,3,Africa/Nairobi,FALSE,1404017346
+Kileges,Kileges,Kiligis,-0.1713,35.1450,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,98.2,,,4,Africa/Nairobi,FALSE,1404609985
+Chamari,Chamari,,-1.5260,39.8929,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,12.2,,,4,Africa/Nairobi,FALSE,1404512420
+Wesungi,Wesungi,,-0.5706,38.1057,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,78.7,,,4,Africa/Nairobi,FALSE,1404003076
+Keria,Keria,,-0.2127,37.6562,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,632.2,,,3,Africa/Nairobi,FALSE,1404003368
+Nthare,Nthare,,0.2335,37.9775,Kenya,KE,KEN,Meru,Meru,KE-26,county,,812.8,,,3,Africa/Nairobi,FALSE,1404002257
+Vigina,Vigina,,0.0299,34.6913,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1385.3,,,3,Africa/Nairobi,FALSE,1404002120
+Bugina,Bugina,,0.1440,34.7806,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1287.2,,,3,Africa/Nairobi,FALSE,1404001910
+Olosodan Entasekera,Olosodan Entasekera,Entesekera|Entasekera,-1.8500,35.8500,Kenya,KE,KEN,Narok,Narok,KE-33,county,,19.1,,,4,Africa/Nairobi,FALSE,1404901700
+Kajire,Kajire,,-3.5176,38.6077,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,25.9,,,4,Africa/Nairobi,FALSE,1404496521
+Mungaria,Mungaria,,-0.8588,36.9341,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,764.0,,,3,Africa/Nairobi,FALSE,1404000449
+Waiga,Waiga,,-0.5107,34.3904,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,197.9,,,4,Africa/Nairobi,FALSE,1404000153
+Katitu,Katitu,,-1.1928,37.3640,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,314.7,,,3,Africa/Nairobi,FALSE,1404000438
+Mbalambala,Mbalambala,Bahadale,-0.0432,39.0608,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,53.4,,,4,Africa/Nairobi,FALSE,1404360724
+Cheptai,Cheptai,,0.7997,34.4778,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,571.9,,,3,Africa/Nairobi,FALSE,1404003692
+Obaluanda,Obaluanda,,-0.4939,34.2816,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,156.8,,,4,Africa/Nairobi,FALSE,1404000181
+Ruma,Ruma,Oyungu,-0.2211,34.3354,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,408.6,,,3,Africa/Nairobi,FALSE,1404000146
+Mjono,Mjono,,-2.3880,40.4130,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,122.0,,,4,Africa/Nairobi,FALSE,1404757636
+Giathaini,Giathaini,,-0.8655,37.0853,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,907.3,,,3,Africa/Nairobi,FALSE,1404000757
+Kakunio,Kakunio,,-1.9179,38.1845,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,71.9,,,4,Africa/Nairobi,FALSE,1404977299
+Kapundore,Kapundore,,-0.6715,37.6474,Kenya,KE,KEN,Embu,Embu,KE-06,county,,340.3,,,3,Africa/Nairobi,FALSE,1404003377
+Makunga,Makunga,,0.3013,34.6235,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,831.6,,,3,Africa/Nairobi,FALSE,1404002095
+Teressia,Teressia,Teresia,0.4748,34.8829,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,575.1,,,3,Africa/Nairobi,FALSE,1404001653
+Karabok,Karabok,,-0.4891,34.6944,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,525.6,,,3,Africa/Nairobi,FALSE,1404002735
+Regeya,Regeya,,0.1466,34.4763,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,480.2,,,3,Africa/Nairobi,FALSE,1404003581
+Mururiini,Mururiini,,-0.5877,37.1877,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,705.0,,,3,Africa/Nairobi,FALSE,1404665278
+Kirimamwaro,Kirimamwaro,,-0.8833,37.1667,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,361.2,,,3,Africa/Nairobi,FALSE,1404575120
+Majiwa,Majiwa,Majewa,-0.0725,34.3570,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,509.6,,,3,Africa/Nairobi,FALSE,1404000121
+Majiwa,Majiwa,,0.1013,34.3442,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,402.9,,,3,Africa/Nairobi,TRUE,1404003468
+Nkunga,Nkunga,,0.1138,37.6021,Kenya,KE,KEN,Meru,Meru,KE-26,county,,346.1,,,3,Africa/Nairobi,FALSE,1404002304
+Muaani,Muaani,,-1.9757,37.3953,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,274.2,,,3,Africa/Nairobi,FALSE,1404940858
+Muaani,Muaani,Mwaani,-1.8573,37.4701,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,250.8,,,3,Africa/Nairobi,TRUE,1404001147
+Kaui,Kaui,,-1.2466,37.9149,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,246.7,,,3,Africa/Nairobi,FALSE,1404001421
+Ramba,Ramba,,0.0596,34.3289,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,1152.7,,,3,Africa/Nairobi,FALSE,1404003606
+Ramba,Ramba,Rhamba,-0.0831,34.3878,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,601.1,,,3,Africa/Nairobi,TRUE,1404000199
+Narasha,Narasha,,0.0220,35.6775,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,93.8,,,4,Africa/Nairobi,FALSE,1404001666
+Kibikos,Kibikos,,1.0179,35.4037,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,174.5,,,4,Africa/Nairobi,FALSE,1404000646
+Makwa,Makwa,,0.4619,35.5494,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,482.5,,,3,Africa/Nairobi,FALSE,1404002070
+Riaitune,Riaitune,,-0.7640,37.3225,Kenya,KE,KEN,Embu,Embu,KE-06,county,,387.9,,,3,Africa/Nairobi,FALSE,1404000770
+Alinjur,Alinjur,,-0.0311,40.4563,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,36.5,,,4,Africa/Nairobi,FALSE,1404884555
+Mangai,Mangai,,-1.7480,41.1765,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,0.3,,,5,Africa/Nairobi,FALSE,1404450063
+Ndonyo,Ndonyo,,-0.9556,34.6463,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,924.9,,,3,Africa/Nairobi,FALSE,1404002797
+Musuani,Musuani,,-1.0202,38.0109,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,184.2,,,4,Africa/Nairobi,FALSE,1404001435
+Ngozini,Ngozini,,-4.1297,39.4237,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,106.9,,,4,Africa/Nairobi,FALSE,1404260691
+Dagamra,Dagamra,,-3.1824,39.9367,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,333.8,,,3,Africa/Nairobi,FALSE,1404329592
+Makasadi,Makasadi,,-3.3029,39.7197,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,35.0,,,4,Africa/Nairobi,FALSE,1404002983
+Mulaa,Mulaa,,-1.0215,38.2278,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,69.2,,,4,Africa/Nairobi,FALSE,1404001436
+Kisieni,Kisieni,,0.2364,34.8670,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,0.6,,,5,Africa/Nairobi,FALSE,1404001547
+Olokurto,Olokurto,,-0.5916,35.8371,Kenya,KE,KEN,Narok,Narok,KE-33,county,,31.9,,,4,Africa/Nairobi,FALSE,1404030746
+Bonyunyu,Bonyunyu,Bunyunya,-0.5271,34.8889,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1126.0,,,3,Africa/Nairobi,FALSE,1404960296
+Lendepes,Lendepes,,1.1870,37.1751,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,11.6,,,4,Africa/Nairobi,FALSE,1404000021
+Kambarare,Kambarare,Kambarari,-0.4122,37.3904,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,394.3,,,3,Africa/Nairobi,FALSE,1404000855
+Kangaru,Kangaru,,-0.6332,37.2534,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,508.1,,,3,Africa/Nairobi,FALSE,1404792896
+Nyali,Nyali,,-4.0529,39.6981,Kenya,KE,KEN,Mombasa,Mombasa,KE-28,county,,8207.6,,,2,Africa/Nairobi,FALSE,1404019808
+Kambini,Kambini,,-4.5496,39.0863,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,174.8,,,4,Africa/Nairobi,FALSE,1404701595
+Ramogi,Ramogi,,0.0000,34.0500,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,153.6,,,4,Africa/Nairobi,FALSE,1404480127
+Karura,Karura,,-0.7294,37.9077,Kenya,KE,KEN,Embu,Embu,KE-06,county,,61.7,,,4,Africa/Nairobi,FALSE,1404003273
+Trenchs Top Camp,Trenchs Top Camp,,-0.3186,35.6415,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,290.7,,,3,Africa/Nairobi,FALSE,1404003425
+Sabatia,Sabatia,,0.1208,34.7847,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,2007.2,,,2,Africa/Nairobi,FALSE,1404002177
+Mungala,Mungala,,-1.4833,37.2667,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,1181.1,,,3,Africa/Nairobi,FALSE,1404000971
+Masogo,Masogo,,-0.1712,34.8495,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,487.3,,,3,Africa/Nairobi,FALSE,1404002620
+South Kinangop Settlement,South Kinangop Settlement,,-0.7932,36.6073,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,689.6,,,3,Africa/Nairobi,FALSE,1404001119
+Katitini,Katitini,,-1.6631,37.4181,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,671.1,,,3,Africa/Nairobi,FALSE,1404000947
+By-Gum,By-Gum,,-0.3003,35.6635,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,343.0,,,3,Africa/Nairobi,FALSE,1404002815
+Kikelelua,Kikelelua,,-2.9681,37.5699,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,289.2,,,3,Africa/Nairobi,FALSE,1404002359
+Kiplelji,Kiplelji,,-0.7386,35.2512,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,829.3,,,3,Africa/Nairobi,FALSE,1404002580
+Kamwenja,Kamwenja,,-0.3974,36.9162,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,296.3,,,3,Africa/Nairobi,FALSE,1404802278
+Lare,Lare,,0.3373,37.9375,Kenya,KE,KEN,Meru,Meru,KE-26,county,,1080.1,,,3,Africa/Nairobi,FALSE,1404944944
+Nyagowa,Nyagowa,,-0.5224,34.6770,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,616.5,,,3,Africa/Nairobi,FALSE,1404002779
+Kyemundu,Kyemundu,,-1.9694,37.4746,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,316.8,,,3,Africa/Nairobi,FALSE,1404831821
+Kambaa,Kambaa,,-1.0666,36.7197,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,611.6,,,3,Africa/Nairobi,FALSE,1404174135
+Larkhill,Larkhill,,-1.0456,36.5856,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,49.7,,,4,Africa/Nairobi,FALSE,1404000822
+Nunguni,Nunguni,,-1.7932,37.3628,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,665.1,,,3,Africa/Nairobi,FALSE,1404087142
+Kithyoko,Kithyoko,Kithioko,-1.0484,37.8405,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,104.5,,,4,Africa/Nairobi,FALSE,1404001300
+Solyot,Solyot,Soliot,-0.7965,35.2468,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,477.7,,,3,Africa/Nairobi,FALSE,1404003595
+Renguti,Renguti,Karinga|Ranguti,-1.2402,36.6173,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,443.6,,,3,Africa/Nairobi,FALSE,1404000839
+Kipkiyen,Kipkiyen,,-0.5518,35.3849,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,366.4,,,3,Africa/Nairobi,FALSE,1404002586
+Chomo,Chomo,,-0.8852,36.8654,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,594.8,,,3,Africa/Nairobi,FALSE,1404711307
+Sera,Sera,,-2.1277,40.1269,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,5.6,,,5,Africa/Nairobi,FALSE,1404335737
+Mbari Ya Njiru,Mbari Ya Njiru,,-1.2815,36.7110,Kenya,KE,KEN,Nairobi City,Nairobi City,KE-30,county,,11899.6,,,2,Africa/Nairobi,FALSE,1404894264
+Thangathe,Thangathe,,-0.5665,37.1298,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,410.1,,,3,Africa/Nairobi,FALSE,1404575093
+Bomani,Bomani,,-4.4636,39.4773,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,1256.2,,,3,Africa/Nairobi,FALSE,1404970895
+Bomani,Bomani,,-4.2480,39.1478,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,123.1,,,4,Africa/Nairobi,TRUE,1404935253
+Makhoma,Makhoma,,0.0833,34.0000,Kenya,KE,KEN,Busia,Busia,KE-04,county,,543.0,,,3,Africa/Nairobi,FALSE,1404741853
+Bomani,Bomani,,-3.8738,39.7438,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,332.4,,,3,Africa/Nairobi,FALSE,1404337895
+Bomani,Bomani,,-3.3231,39.6888,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,35.3,,,4,Africa/Nairobi,TRUE,1404002755
+Gacogu,Gacogu,,-0.7167,37.4167,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,625.9,,,3,Africa/Nairobi,FALSE,1404654268
+Kidutani,Kidutani,Chidutani|Kiduluni,-3.7743,39.7106,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,452.4,,,3,Africa/Nairobi,FALSE,1404291118
+Gatuyaini,Gatuyaini,,-0.5461,36.9338,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,924.9,,,3,Africa/Nairobi,FALSE,1404381417
+Kithirune,Kithirune,,-0.0224,37.5858,Kenya,KE,KEN,Meru,Meru,KE-26,county,,812.3,,,3,Africa/Nairobi,FALSE,1404003203
+Rukala,Rukala,,0.0667,34.0000,Kenya,KE,KEN,Busia,Busia,KE-04,county,,382.1,,,3,Africa/Nairobi,FALSE,1404118095
+Winzee,Winzee,,-0.9618,37.9442,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,61.2,,,4,Africa/Nairobi,FALSE,1404003277
+Kiamuthambi,Kiamuthambi,,-0.5667,37.2833,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,715.5,,,3,Africa/Nairobi,FALSE,1404042986
+Kabiemit,Kabiemit,,0.5182,35.0762,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,322.5,,,3,Africa/Nairobi,FALSE,1404001933
+Msau,Msau,,-3.4110,38.4022,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,166.8,,,4,Africa/Nairobi,FALSE,1404500570
+Kilima Mbogo,Kilima Mbogo,,-1.0706,37.2359,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,218.2,,,3,Africa/Nairobi,FALSE,1404000978
+Dololo,Dololo,,-2.9082,39.8758,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,26.9,,,4,Africa/Nairobi,FALSE,1404187805
+Dololo,Dololo,,-3.8470,39.0959,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,34.7,,,4,Africa/Nairobi,FALSE,1404073860
+Ol Ng’arua,Ol Ng'arua,Olngarua,0.2796,36.2992,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,191.0,,,4,Africa/Nairobi,FALSE,1404706225
+Ndiwa,Ndiwa,,-0.8905,34.2814,Kenya,KE,KEN,Migori,Migori,KE-27,county,,187.8,,,4,Africa/Nairobi,FALSE,1404000111
+Chebosi,Chebosi,,0.6472,34.6900,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,637.9,,,3,Africa/Nairobi,FALSE,1404002138
+Nyamira,Nyamira,,-0.0885,34.2469,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,489.4,,,3,Africa/Nairobi,FALSE,1404000140
+Nyamira,Nyamira,Nyamila,0.1197,34.3607,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,385.9,,,3,Africa/Nairobi,TRUE,1404001524
+Nyamira,Nyamira,,-0.5210,34.9140,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,admin,1923.8,,,2,Africa/Nairobi,FALSE,1404000104
+Nyakwere,Nyakwere,Nyakuere,-0.3476,34.7900,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,302.9,,,3,Africa/Nairobi,FALSE,1404002486
+Senende,Senende,,0.0820,34.8205,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1193.8,,,3,Africa/Nairobi,FALSE,1404002126
+Thitani,Thitani,,-1.0383,37.9153,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,109.0,,,4,Africa/Nairobi,FALSE,1404001346
+Kipasi,Kipasi,,-0.0331,34.5587,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,832.8,,,3,Africa/Nairobi,FALSE,1404002588
+Wetaa,Wetaa,,-1.4100,37.4330,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,238.1,,,3,Africa/Nairobi,FALSE,1404000936
+Kinunku,Kinunku,,-0.1191,38.0152,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,122.3,,,4,Africa/Nairobi,FALSE,1404003118
+Wamunyu,Wamunyu,,-1.4098,37.5636,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,158.5,,,4,Africa/Nairobi,FALSE,1404001343
+Mwandanga,Mwandanga,,-3.3788,38.3908,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,401.5,,,3,Africa/Nairobi,FALSE,1404002442
+Kanzinwa,Kanzinwa,,-0.4604,38.0839,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,98.5,,,4,Africa/Nairobi,FALSE,1404003081
+Ndaragwa,Ndaragwa,Ildarakwa,-0.0636,36.5243,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,92.6,,,4,Africa/Nairobi,FALSE,1404086541
+The Kopie,The Kopie,,-3.3217,37.9133,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,0.1,,,5,Africa/Nairobi,FALSE,1404002380
+Mukuria,Mukuria,,-0.4341,37.6374,Kenya,KE,KEN,Embu,Embu,KE-06,county,,494.3,,,3,Africa/Nairobi,FALSE,1404003189
+Kangondi,Kangondi,,-1.4319,37.3901,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,321.3,,,3,Africa/Nairobi,FALSE,1404001205
+Kiri,Kiri,,0.1096,37.8680,Kenya,KE,KEN,Meru,Meru,KE-26,county,,374.1,,,3,Africa/Nairobi,FALSE,1404002238
+Isooni,Isooni,,-1.4557,37.3203,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,1032.2,,,3,Africa/Nairobi,FALSE,1404001206
+Sironga,Sironga,,-0.5919,34.9189,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1243.9,,,3,Africa/Nairobi,FALSE,1404002876
+Migoko,Migoko,,-0.3655,34.3130,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,594.6,,,3,Africa/Nairobi,FALSE,1404361806
+Mariwa,Mariwa,,-0.7854,34.3328,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,204.1,,,3,Africa/Nairobi,FALSE,1404000117
+Kamunyaka,Kamunyaka,,-0.4833,37.1500,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,746.2,,,3,Africa/Nairobi,FALSE,1404445514
+Githima,Githima,,-0.4833,37.1000,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,813.0,,,3,Africa/Nairobi,FALSE,1404923760
+Githima,Githima,,-0.4167,36.8667,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,446.9,,,3,Africa/Nairobi,TRUE,1404055227
+Githima,Githima,,-0.3506,36.3508,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,285.5,,,3,Africa/Nairobi,FALSE,1404690717
+Githima,Githima,,-0.2984,35.4933,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,307.5,,,3,Africa/Nairobi,FALSE,1404003800
+Nembure,Nembure,,-0.4545,37.4958,Kenya,KE,KEN,Embu,Embu,KE-06,county,,819.5,,,3,Africa/Nairobi,FALSE,1404001033
+Ngebugoryo,Ngebugoryo,Ngemboguryo,0.1694,35.0784,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,402.4,,,3,Africa/Nairobi,FALSE,1404001761
+Mulatiwa,Mulatiwa,,0.8073,34.5042,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,820.9,,,3,Africa/Nairobi,FALSE,1404002115
+Mwaguda,Mwaguda,Magunda,-4.4490,39.1712,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,254.4,,,3,Africa/Nairobi,FALSE,1404586421
+Vaji,Vaji,,-1.2973,39.8138,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,0.8,,,5,Africa/Nairobi,FALSE,1404038857
+Gatakaini,Gatakaini,Gatakani,-0.8333,36.7833,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,0.5,,,5,Africa/Nairobi,FALSE,1404075397
+Chematu,Chematu,,-1.5833,38.3667,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,57.5,,,4,Africa/Nairobi,FALSE,1404777233
+Shamusingiri,Shamusingiri,,0.2366,34.7024,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,978.7,,,3,Africa/Nairobi,FALSE,1404002087
+Lusi,Lusi,,-0.2173,34.3167,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,390.9,,,3,Africa/Nairobi,FALSE,1404000336
+Ogaka,Ogaka,,-1.0166,34.2900,Kenya,KE,KEN,Migori,Migori,KE-27,county,,252.3,,,3,Africa/Nairobi,FALSE,1404002459
+Kitundu,Kitundu,,-1.6881,37.4729,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,512.5,,,3,Africa/Nairobi,FALSE,1404001057
+Ebiranyi,Ebiranyi,,0.0133,34.5518,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1119.9,,,3,Africa/Nairobi,FALSE,1404001894
+Luswani,Luswani,,-3.4734,39.5706,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,64.4,,,4,Africa/Nairobi,FALSE,1404978379
+Kizibe,Kizibe,,-4.2565,39.3018,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,92.6,,,4,Africa/Nairobi,FALSE,1404263251
+Kisovo,Kisovo,,-1.4436,37.3238,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,1105.6,,,3,Africa/Nairobi,FALSE,1404000965
+Koyo,Koyo,,-0.5819,34.6067,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,440.6,,,3,Africa/Nairobi,FALSE,1404002875
+Odhole,Odhole,,-2.5131,40.3278,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,38.9,,,4,Africa/Nairobi,FALSE,1404912577
+Mundeku,Mundeku,,0.1494,34.5501,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,990.0,,,3,Africa/Nairobi,FALSE,1404002094
+Kamungei,Kamungei,,0.4814,35.8596,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,70.1,,,4,Africa/Nairobi,FALSE,1404001640
+Kamungei,Kamungei,,-0.6816,35.2211,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,866.3,,,3,Africa/Nairobi,FALSE,1404002581
+Ndune,Ndune,,-2.0425,37.5015,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,170.2,,,4,Africa/Nairobi,FALSE,1404002385
+Mahindu,Mahindu,,-0.4177,36.4782,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,251.6,,,3,Africa/Nairobi,FALSE,1404000051
+Morongiot,Morongiot,,0.0617,34.9388,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,712.5,,,3,Africa/Nairobi,FALSE,1404002195
+Saradidi,Saradidi,,-0.1197,34.3810,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,493.6,,,3,Africa/Nairobi,FALSE,1404000109
+Timsales Timboroa,Timsales Timboroa,,0.0675,35.4849,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,131.7,,,4,Africa/Nairobi,FALSE,1404002207
+Karweti,Karweti,,-1.0500,36.8167,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,817.0,,,3,Africa/Nairobi,FALSE,1404877848
+Kamaguna,Kamaguna,,-0.1593,38.1338,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,28.2,,,4,Africa/Nairobi,FALSE,1404003114
+Miriu,Miriu,,-0.3524,34.7655,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,397.6,,,3,Africa/Nairobi,FALSE,1404003408
+Katangi,Katangi,,-1.4080,37.6886,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,161.8,,,4,Africa/Nairobi,FALSE,1404001339
+Chemursoi,Chemursoi,,-0.0266,34.9683,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,113.6,,,4,Africa/Nairobi,FALSE,1404003590
+Marobo,Marobo,,0.6416,34.6160,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,800.9,,,3,Africa/Nairobi,FALSE,1404001962
+Kaagogi,Kaagogi,,-0.4333,36.9000,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,655.3,,,3,Africa/Nairobi,FALSE,1404943797
+Bahati,Bahati,,-0.1541,36.1463,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,942.6,,,3,Africa/Nairobi,FALSE,1404000681
+Nomboroi,Nomboroi,,1.2462,36.8538,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,24.8,,,4,Africa/Nairobi,FALSE,1404000073
+Kiangima,Kiangima,,-1.0667,36.8000,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,986.8,,,3,Africa/Nairobi,FALSE,1404975397
+Olenguruone,Olenguruone,,-0.5861,35.6877,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,386.0,,,3,Africa/Nairobi,FALSE,1404002799
+Kinangoni,Kinangoni,Kinagoni,-3.8680,39.2318,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,48.8,,,4,Africa/Nairobi,FALSE,1404926714
+Karimani,Karimani,,-3.4191,39.4594,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,52.5,,,4,Africa/Nairobi,FALSE,1404229129
+Gituara,Gituara,Gitwara,-0.4066,37.4784,Kenya,KE,KEN,Embu,Embu,KE-06,county,,773.2,,,3,Africa/Nairobi,FALSE,1404000989
+Alaro,Alaro,,-0.4206,34.9407,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,461.1,,,3,Africa/Nairobi,FALSE,1404003723
+Mbee,Mbee,,-1.4270,37.3091,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,955.3,,,3,Africa/Nairobi,FALSE,1404001011
+Kinyach,Kinyach,,1.0725,35.7994,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,23.9,,,4,Africa/Nairobi,FALSE,1404000673
+Kinyach,Kinyach,,0.9232,35.6884,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,17.5,,,4,Africa/Nairobi,TRUE,1404116896
+Ingotse,Ingotse,Ingatsi,0.3465,34.7213,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,771.3,,,3,Africa/Nairobi,FALSE,1404002046
+Nyagbongo,Nyagbongo,,-0.0290,34.7912,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,1347.3,,,3,Africa/Nairobi,FALSE,1404002782
+Katangini,Katangini,,-1.7452,37.7236,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,120.7,,,4,Africa/Nairobi,FALSE,1404001336
+Katangini,Katangini,,-2.0676,37.6821,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,71.5,,,4,Africa/Nairobi,TRUE,1404002352
+Timboroa,Timboroa,,0.0630,35.5434,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,325.8,,,3,Africa/Nairobi,FALSE,1404001651
+Gachege,Gachege,,-0.9054,36.8036,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,605.5,,,3,Africa/Nairobi,FALSE,1404682920
+Gotoroni,Gotoroni,,-0.4110,38.1025,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,34.0,,,4,Africa/Nairobi,FALSE,1404003083
+Angaine,Angaine,,0.1260,37.5677,Kenya,KE,KEN,Meru,Meru,KE-26,county,,385.4,,,3,Africa/Nairobi,FALSE,1404002297
+Ngenge,Ngenge,,-0.6290,37.5252,Kenya,KE,KEN,Embu,Embu,KE-06,county,,157.5,,,4,Africa/Nairobi,FALSE,1404003199
+Mwandoni,Mwandoni,,-3.8744,39.2939,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,48.8,,,4,Africa/Nairobi,FALSE,1404329534
+Birongo,Birongo,,-0.7473,34.8886,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,930.7,,,3,Africa/Nairobi,FALSE,1404003036
+Balek,Balek,,-0.6751,35.1964,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,764.5,,,3,Africa/Nairobi,FALSE,1404003055
+Murhanda,Murhanda,,0.2650,34.7967,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,1126.5,,,3,Africa/Nairobi,FALSE,1404002063
+Kaiani,Kaiani,,-1.3908,37.3060,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,793.3,,,3,Africa/Nairobi,FALSE,1404000919
+Ndururi,Ndururi,,-0.0012,36.5206,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,110.7,,,4,Africa/Nairobi,FALSE,1404000721
+Iiuni,Iiuni,,-1.6873,37.3313,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,206.3,,,3,Africa/Nairobi,FALSE,1404228480
+Gakoigo,Gakoigo,Gaikoigo,-0.7843,37.1155,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,697.4,,,3,Africa/Nairobi,FALSE,1404000896
+Kamburu,Kamburu,,-1.0273,36.7424,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,619.9,,,3,Africa/Nairobi,FALSE,1404012442
+Marmanet Settlement,Marmanet Settlement,,0.2037,36.3697,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,361.7,,,3,Africa/Nairobi,FALSE,1404002449
+Eoret Narasha,Eoret Narasha,,-1.1000,35.9200,Kenya,KE,KEN,Narok,Narok,KE-33,county,,292.4,,,3,Africa/Nairobi,FALSE,1404411895
+Nyandago,Nyandago,Ongoche,-1.0166,34.2339,Kenya,KE,KEN,Migori,Migori,KE-27,county,,254.4,,,3,Africa/Nairobi,FALSE,1404001514
+Wautu,Wautu,,-1.8622,37.4054,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,295.6,,,3,Africa/Nairobi,FALSE,1404230513
+Gatangara,Gatangara,,-0.7167,36.9500,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,745.7,,,3,Africa/Nairobi,FALSE,1404295133
+Gitamaiyu,Gitamaiyu,Gitamaiu Training Centre|Gitamaiu|Gatamayu,-1.1681,36.8672,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,744.5,,,3,Africa/Nairobi,FALSE,1404000842
+Baricho,Baricho,,-0.5007,37.1223,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,1433.8,,,3,Africa/Nairobi,FALSE,1404000712
+Nyamdundo,Nyamdundo,,-0.1483,36.2253,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,547.3,,,3,Africa/Nairobi,FALSE,1404000532
+Chitago,Chitago,,-0.8615,34.8676,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,905.2,,,3,Africa/Nairobi,FALSE,1404003019
+Mazuni,Mazuni,,-1.6368,40.1061,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,39.8,,,4,Africa/Nairobi,FALSE,1404606879
+Konguna,Konguna,Kongona,-2.2522,40.1189,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,33.4,,,4,Africa/Nairobi,FALSE,1404106947
+Gichocho,Gichocho,,-1.1405,36.8310,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1430.0,,,3,Africa/Nairobi,FALSE,1404694341
+Matsakha,Matsakha,,0.5304,34.8128,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,672.1,,,3,Africa/Nairobi,FALSE,1404001875
+Mangawani,Mangawani,,-4.3958,39.3107,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,177.9,,,4,Africa/Nairobi,FALSE,1404534766
+Mangawani,Mangawani,,-4.5591,39.2455,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,135.6,,,4,Africa/Nairobi,TRUE,1404116651
+Kaguthi,Kaguthi,,-0.8818,36.9607,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,833.7,,,3,Africa/Nairobi,FALSE,1404340950
+Chelebei,Chelebei,Chelebe,0.8201,34.5685,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,500.7,,,3,Africa/Nairobi,FALSE,1404404774
+Nyaani,Nyaani,,-1.4369,37.5370,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,183.9,,,4,Africa/Nairobi,FALSE,1404001359
+Mugueni,Mugueni,,-1.0667,36.8667,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,704.8,,,3,Africa/Nairobi,FALSE,1404501150
+Maraani,Maraani,,-0.8961,34.9312,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,968.2,,,3,Africa/Nairobi,FALSE,1404002976
+Iannings,Iannings,,0.5121,36.7507,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,7.1,,,5,Africa/Nairobi,FALSE,1404002551
+Koduch,Koduch,,1.6344,35.0493,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,123.0,,,4,Africa/Nairobi,FALSE,1404000589
+Rakwaro,Rakwaro,,-0.3630,34.9191,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,326.1,,,3,Africa/Nairobi,FALSE,1404003721
+Kigongo,Kigongo,,-0.6500,37.1333,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,401.4,,,3,Africa/Nairobi,FALSE,1404987182
+Ndolo,Ndolo,,-1.8453,37.4246,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,532.3,,,3,Africa/Nairobi,FALSE,1404001145
+Thatha,Thatha,,-1.0186,37.7859,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,81.5,,,4,Africa/Nairobi,FALSE,1404001347
+Lukume,Lukume,,0.3899,34.7568,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,898.2,,,3,Africa/Nairobi,FALSE,1404002180
+Bumala,Bumala,,0.2103,34.3991,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,626.2,,,3,Africa/Nairobi,FALSE,1404003763
+Ivonda,Ivonda,,0.1500,34.7553,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,814.3,,,3,Africa/Nairobi,FALSE,1404001993
+Kirima,Kirima,,-0.7041,37.6022,Kenya,KE,KEN,Embu,Embu,KE-06,county,,140.7,,,4,Africa/Nairobi,FALSE,1404003331
+Kajinga,Kajinga,,-1.2000,36.6833,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1463.0,,,3,Africa/Nairobi,FALSE,1404591213
+Kiawarigi,Kiawarigi,,-0.4333,37.1000,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,580.1,,,3,Africa/Nairobi,FALSE,1404982925
+Kipsangui,Kipsangui,,0.6851,35.2012,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,376.8,,,3,Africa/Nairobi,FALSE,1404001580
+Sino Kagola,Sino Kagola,,-0.4280,34.7603,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,320.4,,,3,Africa/Nairobi,FALSE,1404003404
+Muumandu,Muumandu,Momandu|Mumandu,-1.6615,37.2845,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,104.4,,,4,Africa/Nairobi,FALSE,1404001159
+Tetu,Tetu,Teto,-0.4342,36.9168,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,1119.0,,,3,Africa/Nairobi,FALSE,1404000794
+Maroni,Maroni,,-1.8129,40.1100,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,44.5,,,4,Africa/Nairobi,FALSE,1404548002
+Kagongo,Kagongo,Kangongo,-0.5000,37.3333,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,736.4,,,3,Africa/Nairobi,FALSE,1404653079
+Kagongo,Kagongo,,-1.1333,36.8333,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1429.6,,,3,Africa/Nairobi,FALSE,1404088409
+Kitumbe,Kitumbe,Kitumbe Estate,-0.4339,35.2609,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,229.3,,,3,Africa/Nairobi,FALSE,1404003686
+Khasoko,Khasoko,,0.4816,34.4193,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,694.4,,,3,Africa/Nairobi,FALSE,1404003613
+Makanyanga,Makanyanga,,-0.3754,37.8010,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,152.3,,,4,Africa/Nairobi,FALSE,1404003266
+Omando,Omando,,-0.6207,35.9930,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,322.7,,,3,Africa/Nairobi,FALSE,1404003512
+Gatukuyu,Gatukuyu,,-0.9841,36.9652,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1759.8,,,3,Africa/Nairobi,FALSE,1404144555
+Jego,Jego,,-4.6473,39.1893,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,132.8,,,4,Africa/Nairobi,FALSE,1404960994
+Kandegenye,Kandegenye,,-0.7500,37.0167,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,686.4,,,3,Africa/Nairobi,FALSE,1404210005
+Kotetini,Kotetini,,-0.0752,34.7091,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,1394.2,,,3,Africa/Nairobi,FALSE,1404002513
+Gitwe,Gitwe,,-0.9500,36.8151,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,482.2,,,3,Africa/Nairobi,FALSE,1404595338
+Chebilat,Chebilat,,-0.6044,35.2543,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,948.3,,,3,Africa/Nairobi,FALSE,1404003628
+Molo Sirwe,Molo Sirwe,Siriwe Pulloke,0.1329,35.9613,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,50.2,,,4,Africa/Nairobi,FALSE,1404002196
+Marula Munyu,Marula Munyu,,-0.7647,36.4289,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,637.1,,,3,Africa/Nairobi,FALSE,1404000373
+Kongoro,Kongoro,,0.0039,34.9192,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,508.6,,,3,Africa/Nairobi,FALSE,1404002001
+Rapoe,Rapoe,,-0.0851,34.4484,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,361.2,,,3,Africa/Nairobi,FALSE,1404000166
+Idelere,Idelere,Ideleri,0.0184,34.6987,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1006.5,,,3,Africa/Nairobi,FALSE,1404001756
+Thurdibuoro,Thurdibuoro,,-0.3474,34.8364,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,580.9,,,3,Africa/Nairobi,FALSE,1404002827
+Omware,Omware,,-0.8564,34.5978,Kenya,KE,KEN,Migori,Migori,KE-27,county,,534.3,,,3,Africa/Nairobi,FALSE,1404002625
+Kiranga Makoe,Kiranga Makoe,,-2.1358,40.9859,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,42.3,,,4,Africa/Nairobi,FALSE,1404000013
+Kahuho,Kahuho,,-1.2144,36.6754,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1445.2,,,3,Africa/Nairobi,FALSE,1404578477
+Denge,Denge,,-4.0667,39.1500,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,31.8,,,4,Africa/Nairobi,FALSE,1404659397
+Ruaka,Ruaka,,-1.2000,36.7833,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2229.5,,,2,Africa/Nairobi,FALSE,1404524637
+El Jera,El Jera,,-1.6667,39.6000,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.9,,,5,Africa/Nairobi,FALSE,1404583773
+Nkojonga,Nkojonga,,-0.9856,36.1360,Kenya,KE,KEN,Narok,Narok,KE-33,county,,100.7,,,4,Africa/Nairobi,FALSE,1404000401
+Kilome,Kilome,,-1.8093,37.3474,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,344.0,,,3,Africa/Nairobi,FALSE,1404584873
+Chang’onde,Chang'onde,Changonde,-0.4667,36.9167,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,810.7,,,3,Africa/Nairobi,FALSE,1404000804
+Gura,Gura,,-0.5175,36.9917,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,619.0,,,3,Africa/Nairobi,FALSE,1404001124
+Ol Pusimoru,Ol Pusimoru,,-0.5780,35.7443,Kenya,KE,KEN,Narok,Narok,KE-33,county,,150.1,,,4,Africa/Nairobi,FALSE,1404003432
+Magunga,Magunga,,-0.6885,34.1515,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,266.4,,,3,Africa/Nairobi,FALSE,1404922986
+Rukira,Rukira,,-0.9420,37.0497,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,905.8,,,3,Africa/Nairobi,FALSE,1404000705
+Kavuluni,Kavuluni,,-3.3409,39.6525,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,58.5,,,4,Africa/Nairobi,FALSE,1404492137
+Mweani,Mweani,,-1.6496,37.4157,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,741.8,,,3,Africa/Nairobi,FALSE,1404001157
+Kabarpesi,Kabarpesi,,0.1594,35.9165,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,119.7,,,4,Africa/Nairobi,FALSE,1404001621
+Nyabioto,Nyabioto,,-0.6166,34.8763,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,999.6,,,3,Africa/Nairobi,FALSE,1404003786
+Muthiga,Muthiga,,-1.2492,36.8317,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2067.0,,,2,Africa/Nairobi,FALSE,1404000620
+Gachie,Gachie,,-1.2167,36.7833,Kenya,KE,KEN,Nairobi City,Nairobi City,KE-30,county,,8042.6,,,2,Africa/Nairobi,FALSE,1404341558
+Aora Chuodho,Aora Chuodho,,-0.7879,34.2397,Kenya,KE,KEN,Migori,Migori,KE-27,county,,226.4,,,3,Africa/Nairobi,FALSE,1404000177
+Mbeletu,Mbeletu,,-1.9814,37.4968,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,270.2,,,3,Africa/Nairobi,FALSE,1404000924
+Kiuii,Kiuii,,-0.0712,37.6403,Kenya,KE,KEN,Meru,Meru,KE-26,county,,1330.8,,,3,Africa/Nairobi,FALSE,1404003252
+Magongo Giribe,Magongo Giribe,Mogongo,-1.1272,34.3132,Kenya,KE,KEN,Migori,Migori,KE-27,county,,277.9,,,3,Africa/Nairobi,FALSE,1404002464
+Nyabera,Nyabera,,-0.8905,34.6197,Kenya,KE,KEN,Migori,Migori,KE-27,county,,672.2,,,3,Africa/Nairobi,FALSE,1404002497
+Tokocho,Tokocho,Tokajo,0.5080,38.7631,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,41.1,,,4,Africa/Nairobi,FALSE,1404002399
+Tungu,Tungu,,-0.3117,37.6282,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,800.0,,,3,Africa/Nairobi,FALSE,1404411045
+Bilisa,Bilisa,,-2.2220,40.1281,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,21.3,,,4,Africa/Nairobi,FALSE,1404435971
+Chui,Chui,,-0.6629,37.0121,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,631.5,,,3,Africa/Nairobi,FALSE,1404382751
+Chebuyusi,Chebuyusi,,0.4164,34.6658,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,713.9,,,3,Africa/Nairobi,FALSE,1404002140
+Kijiwetanga,Kijiwetanga,,-3.2608,40.0999,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,1045.7,,,3,Africa/Nairobi,FALSE,1404978165
+Lonkewan,Lonkewan,,0.8580,36.5422,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,23.0,,,4,Africa/Nairobi,FALSE,1404003013
+Ewaso Nkidongi,Ewaso Nkidongi,,-1.3884,36.4529,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,7.1,,,5,Africa/Nairobi,FALSE,1404000566
+Kolweny,Kolweny,,-0.4170,34.9219,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,484.3,,,3,Africa/Nairobi,FALSE,1404003722
+Kango,Kango,,-1.5573,37.3419,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,243.0,,,3,Africa/Nairobi,FALSE,1404001115
+Jusa,Jusa,,-0.0249,34.0735,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,154.0,,,4,Africa/Nairobi,FALSE,1404000281
+Kimirii,Kimirii,,0.0580,37.7941,Kenya,KE,KEN,Meru,Meru,KE-26,county,,703.8,,,3,Africa/Nairobi,FALSE,1404002315
+Ndarugu,Ndarugu,,-1.1042,37.0428,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,210.7,,,3,Africa/Nairobi,FALSE,1404001191
+Muchonoke,Muchonoke,Musonoke,-0.6021,37.5971,Kenya,KE,KEN,Embu,Embu,KE-06,county,,197.9,,,4,Africa/Nairobi,FALSE,1404003092
+Bubesa,Bubesa,,-2.0293,40.1586,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,28.0,,,4,Africa/Nairobi,FALSE,1404829544
+Githiga,Githiga,,-0.7000,36.9333,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,642.1,,,3,Africa/Nairobi,FALSE,1404467150
+Makaani,Makaani,,-4.5759,39.1506,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,230.6,,,3,Africa/Nairobi,FALSE,1404647039
+Ndurutu,Ndurutu,,-0.4333,37.0167,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,452.2,,,3,Africa/Nairobi,FALSE,1404029525
+Majaha,Majaha,,0.6796,34.7014,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,559.7,,,3,Africa/Nairobi,FALSE,1404001779
+Nyachenge,Nyachenge,,-0.7179,34.6510,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1273.5,,,3,Africa/Nairobi,FALSE,1404002780
+Nyachenge,Nyachenge,,-0.8470,34.7785,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1123.6,,,3,Africa/Nairobi,TRUE,1404002778
+Kapkoimur,Kapkoimur,Kapkoimor,0.5155,34.9703,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,319.9,,,3,Africa/Nairobi,FALSE,1404001682
+Muka Mukuu,Muka Mukuu,,-1.0956,37.2793,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,244.2,,,3,Africa/Nairobi,FALSE,1404001221
+Kabuku,Kabuku,,-1.1571,36.6704,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2188.7,,,2,Africa/Nairobi,FALSE,1404738687
+Ngokoro,Ngokoro,,-0.5557,34.8202,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1424.5,,,3,Africa/Nairobi,FALSE,1404003782
+Kalodeke,Kalodeke,,2.1475,34.9616,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,37.4,,,4,Africa/Nairobi,FALSE,1404340315
+Wayu,Wayu,Wagu,-1.5299,39.5853,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.9,,,5,Africa/Nairobi,FALSE,1404688323
+Gaithege,Gaithege,Gaithece,-1.0000,36.9000,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,831.1,,,3,Africa/Nairobi,FALSE,1404112404
+Njoro,Njoro,Enchorro|Enjoro,-0.3302,35.9444,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,652.9,,,3,Africa/Nairobi,FALSE,1404964534
+Masaani,Masaani,,-1.6095,37.2789,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,217.0,,,3,Africa/Nairobi,FALSE,1404001046
+Ndanai,Ndanai,,-0.8395,35.0954,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,1189.7,,,3,Africa/Nairobi,FALSE,1404350010
+Manda,Manda,,-4.5082,39.1839,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,166.5,,,4,Africa/Nairobi,FALSE,1404942062
+Kibwezi,Kibwezi,Libwezi,-2.4094,37.9663,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,206.3,,,3,Africa/Nairobi,FALSE,1404357098
+Mutati,Mutati,,-1.0320,36.8795,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,840.5,,,3,Africa/Nairobi,FALSE,1404000622
+Karabondi,Karabondi,Karabandi,-0.3700,34.7305,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,417.1,,,3,Africa/Nairobi,FALSE,1404002593
+Kisaayani,Kisaayani,,-1.7082,38.1941,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,87.1,,,4,Africa/Nairobi,FALSE,1404001236
+Kidimu,Kidimu,,-4.5487,39.3677,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,112.4,,,4,Africa/Nairobi,FALSE,1404373141
+Ritho,Ritho,Riitho,-0.9659,36.8568,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,659.5,,,3,Africa/Nairobi,FALSE,1404805507
+Mbaka,Mbaka,,0.1656,34.8148,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,872.7,,,3,Africa/Nairobi,FALSE,1404001844
+Arwos,Arwos,,0.2000,35.2000,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,487.9,,,3,Africa/Nairobi,FALSE,1404704162
+Kasiokoni,Kasiokoni,,-1.7102,38.7049,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,2.8,,,5,Africa/Nairobi,FALSE,1404756192
+Matondoni,Matondoni,Malandoni|Matadoni|Matondani,-2.2684,40.8388,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,96.9,,,4,Africa/Nairobi,FALSE,1404422659
+Muhudu,Muhudu,,0.1615,34.8369,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1167.8,,,3,Africa/Nairobi,FALSE,1404002157
+Mgambonyi,Mgambonyi,,-3.3442,38.3612,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,350.6,,,3,Africa/Nairobi,FALSE,1404277263
+Siaya,Siaya,,0.0667,34.2833,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,admin,990.1,,,2,Africa/Nairobi,FALSE,1404162576
+Dalu,Dalu,,-2.3732,40.1478,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,17.4,,,4,Africa/Nairobi,FALSE,1404000201
+Dindiri,Dindiri,,-3.7354,39.7963,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,350.0,,,3,Africa/Nairobi,FALSE,1404465540
+Kiritu,Kiritu,,0.0926,34.7670,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1526.5,,,3,Africa/Nairobi,FALSE,1404002143
+Adiedo,Adiedo,,-0.4282,34.6074,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,606.6,,,3,Africa/Nairobi,FALSE,1404002957
+Chebugat,Chebugat,,1.4240,35.1979,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,73.1,,,4,Africa/Nairobi,FALSE,1404000640
+Musgut,Musgut,,0.3690,35.6261,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,74.4,,,4,Africa/Nairobi,FALSE,1404002033
+Mundobera,Mundobera,,0.0445,34.5610,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1732.4,,,3,Africa/Nairobi,FALSE,1404002093
+Nyangoma,Nyangoma,,-0.0109,34.3456,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,349.4,,,3,Africa/Nairobi,FALSE,1404870563
+Nyangoma,Nyangoma,,-0.1503,34.1574,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,234.0,,,3,Africa/Nairobi,TRUE,1404000327
+Kampi ya Faro Glade,Kampi ya Faro Glade,,0.3445,36.2219,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,115.5,,,4,Africa/Nairobi,FALSE,1404002450
+Mafisini,Mafisini,,-4.4363,39.3835,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,144.9,,,4,Africa/Nairobi,FALSE,1404016508
+Gesore,Gesore,,-0.5833,34.9428,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1903.6,,,3,Africa/Nairobi,FALSE,1404003783
+Nyainagu,Nyainagu,,-0.6146,34.9642,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1286.3,,,3,Africa/Nairobi,FALSE,1404003785
+Walanga,Walanga,,0.8486,34.4289,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,661.8,,,3,Africa/Nairobi,FALSE,1404495823
+Nzaini,Nzaini,,-1.6243,37.4564,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,587.0,,,3,Africa/Nairobi,FALSE,1404001037
+Nyalani,Nyalani,,-4.1060,39.1282,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,21.0,,,4,Africa/Nairobi,FALSE,1404337003
+Kapkesum,Kapkesum,,0.6868,35.4694,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,282.2,,,3,Africa/Nairobi,FALSE,1404001612
+Gathanji,Gathanji,Giathenge,-0.5257,37.0161,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,710.4,,,3,Africa/Nairobi,FALSE,1404843246
+Mamole,Mamole,Mamoli,-1.4628,37.8025,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,80.5,,,4,Africa/Nairobi,FALSE,1404001286
+Ndaysien,Ndaysien,,-0.4682,35.9747,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,346.4,,,3,Africa/Nairobi,FALSE,1404003507
+Wang’apala,Wang'apala,,-0.4301,34.9017,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,721.7,,,3,Africa/Nairobi,FALSE,1404003447
+Mwambathana,Mwambathana,Mumbethana,-1.2027,37.6530,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,171.2,,,4,Africa/Nairobi,FALSE,1404762360
+Giaitu,Giaitu,,-0.4857,37.0988,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,784.2,,,3,Africa/Nairobi,FALSE,1404345848
+Kapsaos,Kapsaos,,0.0171,35.0743,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,286.8,,,3,Africa/Nairobi,FALSE,1404002165
+Duldul,Duldul,,-1.9167,40.7333,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,3.4,,,5,Africa/Nairobi,FALSE,1404600622
+Kevoe,Kevoe,,-0.5945,37.7400,Kenya,KE,KEN,Embu,Embu,KE-06,county,,108.7,,,4,Africa/Nairobi,FALSE,1404003351
+Angino,Angino,Angeno,-0.4521,34.8101,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,415.1,,,3,Africa/Nairobi,FALSE,1404003443
+Kisyuni,Kisyuni,,-1.7220,38.3853,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,35.9,,,4,Africa/Nairobi,FALSE,1404001232
+Mabimo,Mabimo,,-3.0513,40.1297,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,368.4,,,3,Africa/Nairobi,FALSE,1404002927
+Magare,Magare,,-0.1176,34.9907,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,459.9,,,3,Africa/Nairobi,FALSE,1404002913
+Mariwa,Mariwa,,-0.9714,34.5736,Kenya,KE,KEN,Migori,Migori,KE-27,county,,414.2,,,3,Africa/Nairobi,FALSE,1404747743
+Kamunyaka,Kamunyaka,,-0.9051,36.7899,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,471.6,,,3,Africa/Nairobi,FALSE,1404326772
+Mwigito,Mwigito,,-0.3873,35.9320,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,838.8,,,3,Africa/Nairobi,FALSE,1404003503
+Kiriri,Kiriri,,-1.2083,36.5703,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,251.6,,,3,Africa/Nairobi,FALSE,1404517803
+Arithi,Arithi,Ariti,-2.5127,40.3217,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,30.4,,,4,Africa/Nairobi,FALSE,1404361368
+Mogogosiek,Mogogosiek,Mogogosiet,-0.6186,35.2722,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,1149.2,,,3,Africa/Nairobi,FALSE,1404002674
+Kathaiya,Kathaiya,Kathaiyia,-0.5000,37.3333,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,736.4,,,3,Africa/Nairobi,FALSE,1404632040
+Loboi,Loboi,Luboi,0.3568,36.0631,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,62.6,,,4,Africa/Nairobi,FALSE,1404002411
+Nkumari,Nkumari,Nkomari,-0.0962,37.7178,Kenya,KE,KEN,Meru,Meru,KE-26,county,,553.8,,,3,Africa/Nairobi,FALSE,1404003288
+Ngwaru,Ngwaru,,-4.4586,39.3534,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,206.5,,,3,Africa/Nairobi,FALSE,1404696106
+Kigai,Kigai,,0.7858,34.5671,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,843.3,,,3,Africa/Nairobi,FALSE,1404001943
+Ibinzo,Ibinzo,,0.2667,34.6905,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,616.4,,,3,Africa/Nairobi,FALSE,1404002103
+Riondonga,Riondonga,,-0.7516,34.8471,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1113.3,,,3,Africa/Nairobi,FALSE,1404035444
+Nkararu,Nkararu,,-1.0728,34.7412,Kenya,KE,KEN,Narok,Narok,KE-33,county,,214.7,,,3,Africa/Nairobi,FALSE,1404003337
+Mwangoris,Mwangoris,,-0.6943,35.0320,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,587.4,,,3,Africa/Nairobi,FALSE,1404003540
+Kacheru,Kacheru,,-3.5692,37.7692,Kenya,KE,KEN,Taita/Taveta,Taita/Taveta,KE-39,county,,38.4,,,4,Africa/Nairobi,FALSE,1404002379
+Bongonta,Bongonta,,-0.8673,34.9969,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1014.7,,,3,Africa/Nairobi,FALSE,1404003536
+Musaani,Musaani,,-1.9333,37.3667,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,290.5,,,3,Africa/Nairobi,FALSE,1404001039
+Siapei,Siapei,,-0.6675,35.9507,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,322.7,,,3,Africa/Nairobi,FALSE,1404003513
+Ndundu,Ndundu,Nundu|Nrundu|Nnundu,-0.9776,36.7997,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,471.8,,,3,Africa/Nairobi,FALSE,1404675900
+Kabisaga,Kabisaga,,0.4300,35.1200,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,367.0,,,3,Africa/Nairobi,FALSE,1404005642
+Burnt Forest,Burnt Forest,,0.2168,35.4325,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,876.4,,,3,Africa/Nairobi,FALSE,1404001805
+Egerton,Egerton,,-0.3712,35.9331,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,710.7,,,3,Africa/Nairobi,FALSE,1404490455
+Nyarongi,Nyarongi,,-0.7840,34.3185,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,210.7,,,3,Africa/Nairobi,FALSE,1404000243
+Odowani,Odowani,,-2.0845,39.3016,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,0.3,,,5,Africa/Nairobi,FALSE,1404000027
+Nyaga,Nyaga,,-1.0826,36.8584,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1067.6,,,3,Africa/Nairobi,FALSE,1404570404
+Malooi,Malooi,Malodi School,-1.8498,37.5321,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,238.7,,,3,Africa/Nairobi,FALSE,1404001333
+Kamungoita,Kamungoita,,-0.2292,37.9473,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,56.5,,,4,Africa/Nairobi,FALSE,1404003147
+Malanga,Malanga,,0.1324,34.4194,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,561.6,,,3,Africa/Nairobi,FALSE,1404304342
+Simba,Simba,,-2.1579,37.5917,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,22.1,,,4,Africa/Nairobi,FALSE,1404631507
+Gikandu,Gikandu,Gekandu,-0.7221,37.0948,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,544.9,,,3,Africa/Nairobi,FALSE,1404327951
+Nosuguro,Nosuguro,,0.5800,36.1300,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,14.5,,,4,Africa/Nairobi,FALSE,1404044629
+Kaweru,Kaweru,,-0.6500,37.1000,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,490.2,,,3,Africa/Nairobi,FALSE,1404476424
+Lala,Lala,,-0.5529,34.4410,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,354.6,,,3,Africa/Nairobi,FALSE,1404000271
+Kyooni,Kyooni,,-1.6173,37.5331,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,215.4,,,3,Africa/Nairobi,FALSE,1404001366
+Kamuguga,Kamuguga,,-1.2099,36.6653,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2184.3,,,2,Africa/Nairobi,FALSE,1404335454
+Mumbuni,Mumbuni,Momboni|Mombo,-0.2824,37.7392,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,381.1,,,3,Africa/Nairobi,FALSE,1404003361
+Kiptewit,Kiptewit,,-0.5577,35.1567,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,729.1,,,3,Africa/Nairobi,FALSE,1404003023
+Ngaru,Ngaru,,-0.7596,37.0768,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,555.4,,,3,Africa/Nairobi,FALSE,1404000881
+Sinonin,Sinonin,,0.0653,35.7025,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,220.4,,,3,Africa/Nairobi,FALSE,1404001952
+Kegogi,Kegogi,Kioge,-0.5483,34.8448,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1180.5,,,3,Africa/Nairobi,FALSE,1404003479
+Talel,Talel,,-1.4621,35.2349,Kenya,KE,KEN,Narok,Narok,KE-33,county,,7.5,,,5,Africa/Nairobi,FALSE,1404003817
+Gathugu,Gathugu,,-1.0039,36.8115,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,687.6,,,3,Africa/Nairobi,FALSE,1404391053
+Chunge,Chunge,,-0.8760,34.4158,Kenya,KE,KEN,Migori,Migori,KE-27,county,,265.4,,,3,Africa/Nairobi,FALSE,1404000265
+Kagarii,Kagarii,,-0.5578,37.0102,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,611.1,,,3,Africa/Nairobi,FALSE,1404195140
+Kimuu,Kimuu,,-0.7667,38.5000,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,12.5,,,4,Africa/Nairobi,FALSE,1404905846
+Akoreti,Akoreti,Akoret,0.5862,34.1970,Kenya,KE,KEN,Busia,Busia,KE-04,county,,454.9,,,3,Africa/Nairobi,FALSE,1404001527
+Cheptanoya,Cheptanoya,,1.7484,35.1963,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,13.9,,,4,Africa/Nairobi,FALSE,1404000616
+Kadero,Kadero,,-0.0644,34.4567,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,368.9,,,3,Africa/Nairobi,FALSE,1404000303
+Takwa Milinga,Takwa Milinga,Milinga,-2.2983,40.9583,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,138.0,,,4,Africa/Nairobi,FALSE,1404259892
+Kinoo,Kinoo,,-1.2511,36.6922,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,5182.8,,,2,Africa/Nairobi,FALSE,1404565226
+Lusigeti,Lusigeti,Losigetti,-1.2858,36.6854,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,4021.1,,,2,Africa/Nairobi,FALSE,1404947261
+Ruku,Ruku,,-1.2073,36.7076,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2614.6,,,2,Africa/Nairobi,FALSE,1404576760
+Okanowach,Okanowach,,-0.3441,34.8803,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,531.3,,,3,Africa/Nairobi,FALSE,1404002851
+Mwazare,Mwazare,,-4.4583,39.3349,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,206.5,,,3,Africa/Nairobi,FALSE,1404441285
+Kiplokji,Kiplokji,,-0.6790,35.3263,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,754.2,,,3,Africa/Nairobi,FALSE,1404002530
+Ekarakara,Ekarakara,Ikarakara,-0.9703,37.4743,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,159.0,,,4,Africa/Nairobi,FALSE,1404962956
+Nyapiedho,Nyapiedho,,-0.0813,34.2299,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,217.1,,,3,Africa/Nairobi,FALSE,1404000244
+Odok,Odok,,-0.9167,34.6167,Kenya,KE,KEN,Migori,Migori,KE-27,county,,501.4,,,3,Africa/Nairobi,FALSE,1404636654
+Gacharu,Gacharu,,-0.6333,37.2167,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,402.2,,,3,Africa/Nairobi,FALSE,1404217960
+Kagundu,Kagundu,Kagondu,-0.7602,36.8577,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,361.7,,,3,Africa/Nairobi,FALSE,1404758642
+Idsowe,Idsowe,,-2.3000,40.1400,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,58.2,,,4,Africa/Nairobi,FALSE,1404720176
+Kisima Chande,Kisima Chande,Kisimachande,-4.4781,39.4821,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,1280.5,,,3,Africa/Nairobi,FALSE,1404368260
+Tugunon,Tugunon,,-0.2495,35.3947,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,236.2,,,3,Africa/Nairobi,FALSE,1404003799
+Keberesi,Keberesi,,-0.9017,34.7489,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1190.2,,,3,Africa/Nairobi,FALSE,1404003766
+Kapcholoi,Kapcholoi,,0.0886,35.6893,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,220.4,,,3,Africa/Nairobi,FALSE,1404001671
+Raiyani,Raiyani,,-1.0867,36.8678,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1335.6,,,3,Africa/Nairobi,FALSE,1404427599
+Maduma,Maduma,,-3.5244,39.6582,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,104.4,,,4,Africa/Nairobi,FALSE,1404935236
+Kavingo,Kavingo,,-1.4406,38.3458,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,62.6,,,4,Africa/Nairobi,FALSE,1404001472
+Kipsonoi,Kipsonoi,,-0.6916,35.2166,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,856.2,,,3,Africa/Nairobi,FALSE,1404002520
+Kihancha,Kihancha,Kinancha,-1.1935,34.6197,Kenya,KE,KEN,Migori,Migori,KE-27,county,,781.8,,,3,Africa/Nairobi,FALSE,1404139996
+Mkaumoto,Mkaumoto,,-3.2404,40.0572,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,618.2,,,3,Africa/Nairobi,FALSE,1404002597
+Ntana,Ntana,,-0.5114,34.9384,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,803.6,,,3,Africa/Nairobi,FALSE,1404002498
+Chanani,Chanani,Chenani,-1.5582,40.0535,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,51.0,,,4,Africa/Nairobi,FALSE,1404961830
+Teresi,Teresi,,-0.5528,34.9876,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1176.2,,,3,Africa/Nairobi,FALSE,1404002828
+Gicheha,Gicheha,,-1.0218,36.9118,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,1220.3,,,3,Africa/Nairobi,FALSE,1404546624
+Okok,Okok,,-0.6838,34.4287,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,259.2,,,3,Africa/Nairobi,FALSE,1404207672
+Isulu,Isulu,,0.1970,34.6968,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,998.1,,,3,Africa/Nairobi,FALSE,1404002015
+Kangutheni,Kangutheni,,-1.0785,38.0316,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,270.9,,,3,Africa/Nairobi,FALSE,1404001445
+Kairuthi,Kairuthi,,-0.5332,36.8877,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,557.8,,,3,Africa/Nairobi,FALSE,1404891784
+Onya,Onya,,-0.4262,34.5189,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,686.5,,,3,Africa/Nairobi,FALSE,1404003554
+Kiangaie,Kiangaie,,-0.4044,34.1496,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,411.1,,,3,Africa/Nairobi,FALSE,1404000351
+Sibur,Sibur,,-0.4177,34.5455,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,710.1,,,3,Africa/Nairobi,FALSE,1404003702
+Gutati,Gutati,,-2.0487,39.2459,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,0.3,,,5,Africa/Nairobi,FALSE,1404000029
+Mbari-ya-igi,Mbari-ya-igi,,-1.0678,36.8612,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,589.9,,,3,Africa/Nairobi,FALSE,1404239892
+Rapiew,Rapiew,,-0.1135,34.4042,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,495.4,,,3,Africa/Nairobi,FALSE,1404000314
+Luero,Luero,,-0.1069,34.3998,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,476.3,,,3,Africa/Nairobi,FALSE,1404000315
+Mitangani,Mitangani,Mitangoni,-3.5802,39.4748,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,29.1,,,4,Africa/Nairobi,FALSE,1404002694
+Koli,Koli,,0.3945,34.9405,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,677.2,,,3,Africa/Nairobi,FALSE,1404002040
+Noolpopong,Noolpopong,Norpopong,-1.1700,36.0500,Kenya,KE,KEN,Narok,Narok,KE-33,county,,39.9,,,4,Africa/Nairobi,FALSE,1404312216
+Emmatsi,Emmatsi,Ematsi,0.0086,34.6469,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1047.8,,,3,Africa/Nairobi,FALSE,1404001686
+Mathangeini,Mathangeini,Mathangiini|Matha-geni|Mathanjeini,-0.7699,36.8716,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,437.1,,,3,Africa/Nairobi,FALSE,1404013940
+Kirima,Kirima,,0.0863,36.3310,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,119.2,,,4,Africa/Nairobi,FALSE,1404904440
+Kambirua,Kambirua,Kamberua,-0.7427,37.1972,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,384.0,,,3,Africa/Nairobi,FALSE,1404731818
+Oruga,Oruga,,-0.1380,34.5392,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,366.8,,,3,Africa/Nairobi,FALSE,1404002833
+Matieka,Matieka,Matieko,-0.5752,34.7126,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,914.1,,,3,Africa/Nairobi,FALSE,1404003683
+Satiet,Satiet,,-0.6287,35.3674,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,574.1,,,3,Africa/Nairobi,FALSE,1404002515
+Kiamwathi,Kiamwathi,,-0.4500,36.9500,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,1323.0,,,3,Africa/Nairobi,FALSE,1404024796
+Kapsinendet,Kapsinendet,,-0.6434,35.0965,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,948.7,,,3,Africa/Nairobi,FALSE,1404002811
+Karama,Karama,,0.2440,37.8299,Kenya,KE,KEN,Meru,Meru,KE-26,county,,341.7,,,3,Africa/Nairobi,FALSE,1404002256
+Lwunza,Lwunza,,0.1002,34.6782,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1339.1,,,3,Africa/Nairobi,FALSE,1404001764
+Kanyaa,Kanyaa,,-1.1058,37.9723,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,280.2,,,3,Africa/Nairobi,FALSE,1404001340
+Misyani,Misyani,,-1.2824,37.3809,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,744.0,,,3,Africa/Nairobi,FALSE,1404000985
+Kiburu,Kiburu,,-0.5415,37.2095,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,740.7,,,3,Africa/Nairobi,FALSE,1404192999
+Emmaloba,Emmaloba,,0.0219,34.5590,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1123.5,,,3,Africa/Nairobi,FALSE,1404959908
+Bwanda,Bwanda,Ekwanda,-0.0214,34.5723,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1582.5,,,3,Africa/Nairobi,FALSE,1404002817
+Jilore,Jilore,Jilore Suore,-3.1895,39.9065,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,17.4,,,4,Africa/Nairobi,FALSE,1404302075
+Gotoki,Gotoki,,-0.4253,34.5976,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,691.0,,,3,Africa/Nairobi,FALSE,1404003703
+Bargoni,Bargoni,Barigoni,-2.0478,40.7866,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,3.4,,,5,Africa/Nairobi,FALSE,1404391249
+Matetani,Matetani,,-1.3159,37.3257,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,790.5,,,3,Africa/Nairobi,FALSE,1404000432
+Ithareni,Ithareni,,-0.5000,37.3167,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,794.4,,,3,Africa/Nairobi,FALSE,1404904127
+Masindu,Masindu,,0.6290,34.8177,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,723.7,,,3,Africa/Nairobi,FALSE,1404001888
+Nyatao,Nyatao,,-0.1468,35.0899,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,377.6,,,3,Africa/Nairobi,FALSE,1404003584
+Isyukoni,Isyukoni,,-1.4331,37.3230,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,1018.0,,,3,Africa/Nairobi,FALSE,1404000929
+Kinako,Kinako,,-1.2692,38.2460,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,30.7,,,4,Africa/Nairobi,FALSE,1404001467
+Tinganga,Tinganga,,-1.1303,36.8136,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,2070.1,,,2,Africa/Nairobi,FALSE,1404007284
+Mogonga,Mogonga,Mogunga,-0.8648,34.7628,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1111.4,,,3,Africa/Nairobi,FALSE,1404003462
+Gakui,Gakui,,-0.8830,37.0119,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,736.2,,,3,Africa/Nairobi,FALSE,1404799319
+Igonga,Igonga,Irigonga,-0.6284,34.7041,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,943.7,,,3,Africa/Nairobi,FALSE,1404003481
+Bavigito,Bavigito,,-0.9333,36.8667,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,623.7,,,3,Africa/Nairobi,FALSE,1404172259
+Saint Francis,Saint Francis,,-0.6946,35.0928,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,1029.9,,,3,Africa/Nairobi,FALSE,1404003525
+Othoch Rakuom,Othoch Rakuom,Othoch,-1.0046,34.1759,Kenya,KE,KEN,Migori,Migori,KE-27,county,,336.3,,,3,Africa/Nairobi,FALSE,1404001507
+Sergoit,Sergoit,,0.6947,35.4284,Kenya,KE,KEN,Elgeyo/Marakwet,Elgeyo/Marakwet,KE-05,county,,356.6,,,3,Africa/Nairobi,FALSE,1404001628
+Arosen,Arosen,,-1.9500,40.7167,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,3.4,,,5,Africa/Nairobi,FALSE,1404899705
+Ndundure,Ndundure,Ndundore,-0.4778,37.5223,Kenya,KE,KEN,Embu,Embu,KE-06,county,,734.0,,,3,Africa/Nairobi,FALSE,1404003830
+Obera,Obera,,-0.0660,34.4669,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,399.5,,,3,Africa/Nairobi,FALSE,1404000304
+Gitaro,Gitaro,,-0.7333,37.0667,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,582.0,,,3,Africa/Nairobi,FALSE,1404461369
+Kibingoti,Kibingoti,,-0.5667,37.1833,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,636.8,,,3,Africa/Nairobi,FALSE,1404561240
+Irungu,Irungu,,-0.8048,34.8665,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,918.7,,,3,Africa/Nairobi,FALSE,1404002883
+Nyabondo,Nyabondo,,-0.3818,34.9794,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,882.9,,,3,Africa/Nairobi,FALSE,1404002785
+Nyamasege,Nyamasege,,-0.8307,34.6856,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,970.8,,,3,Africa/Nairobi,FALSE,1404002760
+Gatitu B,Gatitu B,,-1.0191,36.8468,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,802.1,,,3,Africa/Nairobi,FALSE,1404866651
+Nyalkinyi,Nyalkinyi,,-0.5325,34.4940,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,476.9,,,3,Africa/Nairobi,FALSE,1404000356
+Musoma,Musoma,,0.3833,34.1667,Kenya,KE,KEN,Busia,Busia,KE-04,county,,523.2,,,3,Africa/Nairobi,FALSE,1404451921
+New El Molo Camp,New El Molo Camp,,2.7542,36.7037,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,13.3,,,4,Africa/Nairobi,FALSE,1404000019
+Gaciongo,Gaciongo,,-0.0299,38.0192,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,162.1,,,4,Africa/Nairobi,FALSE,1404003155
+Bado Kitabu,Bado Kitabu,,-1.4826,35.5803,Kenya,KE,KEN,Narok,Narok,KE-33,county,,22.6,,,4,Africa/Nairobi,FALSE,1404003818
+Mwangala,Mwangala,,-1.9417,38.3160,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,84.4,,,4,Africa/Nairobi,FALSE,1404001266
+Minao,Minao,,-0.0345,34.5719,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1061.6,,,3,Africa/Nairobi,FALSE,1404003486
+Haridfi,Haridfi,,-0.5833,40.8167,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,2.3,,,5,Africa/Nairobi,FALSE,1404566784
+Ngorengore,Ngorengore,,-1.0334,35.4990,Kenya,KE,KEN,Narok,Narok,KE-33,county,,101.7,,,4,Africa/Nairobi,FALSE,1404003339
+Navakholo,Navakholo,,0.4140,34.6822,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,600.4,,,3,Africa/Nairobi,FALSE,1404001928
+Metembe,Metembe,Matembe,-0.8813,34.9652,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,742.7,,,3,Africa/Nairobi,FALSE,1404002767
+Kholokhongo,Kholokhongo,,0.0667,33.9833,Kenya,KE,KEN,Busia,Busia,KE-04,county,,686.2,,,3,Africa/Nairobi,FALSE,1404955447
+Oyani,Oyani,,-1.0383,34.5881,Kenya,KE,KEN,Migori,Migori,KE-27,county,,505.5,,,3,Africa/Nairobi,FALSE,1404003172
+Mukutan,Mukutan,Ol Mukutan|Baringo,0.6300,36.2700,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,11.5,,,4,Africa/Nairobi,FALSE,1404355265
+Irereni,Irereni,,0.0212,38.0466,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,233.0,,,3,Africa/Nairobi,FALSE,1404002419
+Kiakanyinga,Kiakanyinga,,-0.2583,37.6985,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,553.3,,,3,Africa/Nairobi,FALSE,1404672563
+Kamegwa,Kamegwa,Kamggwa,-0.5410,37.8142,Kenya,KE,KEN,Embu,Embu,KE-06,county,,71.9,,,4,Africa/Nairobi,FALSE,1404003206
+Kinyoro,Kinyoro,,-0.9080,34.7274,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1161.8,,,3,Africa/Nairobi,FALSE,1404003767
+Matinyani,Matinyani,Kabati,-1.3085,37.9917,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,669.1,,,3,Africa/Nairobi,FALSE,1404001390
+Jilole,Jilole,,-1.8953,40.2548,Kenya,KE,KEN,Garissa,Garissa,KE-07,county,,40.3,,,4,Africa/Nairobi,FALSE,1404210920
+Ndonga,Ndonga,,-0.8667,37.0667,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,898.8,,,3,Africa/Nairobi,FALSE,1404678729
+Bongonoko,Bongonoko,,-0.7700,39.8000,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,13.1,,,4,Africa/Nairobi,FALSE,1404077072
+Bogiakumu,Bogiakumu,,-0.6940,34.7381,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1636.4,,,3,Africa/Nairobi,FALSE,1404003033
+Enzai,Enzai,,-1.8409,37.3152,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,353.7,,,3,Africa/Nairobi,FALSE,1404799946
+Iriguini,Iriguini,,-0.8000,36.9667,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,813.0,,,3,Africa/Nairobi,FALSE,1404572110
+Maguguni,Maguguni,Magunguni,-4.6360,39.2078,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,118.2,,,4,Africa/Nairobi,FALSE,1404962762
+Manga,Manga,,-0.6151,34.8357,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1007.6,,,3,Africa/Nairobi,FALSE,1404002979
+Manga,Manga,,-0.8126,35.0153,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,443.3,,,3,Africa/Nairobi,TRUE,1404002978
+Wagwer,Wagwer,,0.0536,34.3878,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,415.2,,,3,Africa/Nairobi,FALSE,1404003751
+Gai,Gai,,-0.6078,38.1926,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,64.9,,,4,Africa/Nairobi,FALSE,1404003171
+Wikililye,Wikililye,,-1.3996,38.0128,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,443.1,,,3,Africa/Nairobi,FALSE,1404001380
+Tulia,Tulia,,-1.1858,37.9777,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,325.1,,,3,Africa/Nairobi,FALSE,1404414813
+Sabatia,Sabatia,,-0.0339,35.7441,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,26.2,,,4,Africa/Nairobi,FALSE,1404002635
+Dabel,Dabel,Dobel,3.0889,39.2742,Kenya,KE,KEN,Marsabit,Marsabit,KE-25,county,,18.7,,,4,Africa/Nairobi,FALSE,1404499646
+Wayaga,Wayaga,,-0.7375,34.4670,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,332.6,,,3,Africa/Nairobi,FALSE,1404000133
+Matheini,Matheini,Kinyui|Matungulu|Matheeni,-1.2104,37.3256,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,596.5,,,3,Africa/Nairobi,FALSE,1404001226
+Saba Saba,Saba Saba,,-0.8759,37.1432,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,885.6,,,3,Africa/Nairobi,FALSE,1404000867
+Katikomor,Katikomor,,1.2662,34.8449,Kenya,KE,KEN,Trans Nzoia,Trans Nzoia,KE-42,county,,76.9,,,4,Africa/Nairobi,FALSE,1404000629
+Katama,Katama,,-0.5065,37.9340,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,31.7,,,4,Africa/Nairobi,FALSE,1404003271
+Gilgil,Gilgil,,-0.5040,36.3184,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,837.4,,,3,Africa/Nairobi,FALSE,1404861247
+Nabeiye,Nabeiye,,2.1516,35.4397,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,27.9,,,4,Africa/Nairobi,FALSE,1404239146
+Sosiot,Sosiot,,-0.3629,35.1718,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,887.5,,,3,Africa/Nairobi,FALSE,1404503942
+Njoro,Njoro,,-0.9138,34.6831,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1117.0,,,3,Africa/Nairobi,FALSE,1404002566
+Kandare,Kandare,,-0.5711,37.6676,Kenya,KE,KEN,Embu,Embu,KE-06,county,,391.4,,,3,Africa/Nairobi,FALSE,1404003381
+Ikuu,Ikuu,,-0.3720,37.6530,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,963.3,,,3,Africa/Nairobi,FALSE,1404003161
+Viangwani,Viangwani,,-4.1492,39.4933,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,371.7,,,3,Africa/Nairobi,FALSE,1404528376
+Ngutu,Ngutu,,-0.1721,34.4982,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,292.9,,,3,Africa/Nairobi,FALSE,1404000255
+Ndigwa,Ndigwa,,-0.3375,34.3257,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,355.1,,,3,Africa/Nairobi,FALSE,1404000114
+Kavisuni,Kavisuni,,-1.6778,37.9223,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,111.0,,,4,Africa/Nairobi,FALSE,1404001332
+Kavisuni,Kavisuni,,-0.8399,38.3707,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,41.9,,,4,Africa/Nairobi,TRUE,1404003280
+Itundu,Itundu,,-0.4145,37.1845,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,505.6,,,3,Africa/Nairobi,FALSE,1404097205
+Masalani Camp,Masalani Camp,Masalani,-2.3166,38.1176,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,94.1,,,4,Africa/Nairobi,FALSE,1404845029
+Kithangani,Kithangani,,-0.3751,37.7315,Kenya,KE,KEN,Tharaka-Nithi,Tharaka-Nithi,KE-41,county,,206.3,,,3,Africa/Nairobi,FALSE,1404003300
+Wanyama,Wanyama,,-0.3767,34.1704,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,835.3,,,3,Africa/Nairobi,FALSE,1404000350
+Kairo,Kairo,,-0.6093,36.8700,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,424.8,,,3,Africa/Nairobi,FALSE,1404844785
+Angorom,Angorom,,0.4766,34.1568,Kenya,KE,KEN,Busia,Busia,KE-04,county,,604.0,,,3,Africa/Nairobi,FALSE,1404003473
+Otacho,Otacho,,-0.8545,34.5567,Kenya,KE,KEN,Migori,Migori,KE-27,county,,563.5,,,3,Africa/Nairobi,FALSE,1404003709
+Oloika,Oloika,,-2.0463,36.2137,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,6.6,,,5,Africa/Nairobi,FALSE,1404001319
+Riara,Riara,,-1.1680,36.8022,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,3187.0,,,2,Africa/Nairobi,FALSE,1404000580
+Chege,Chege,,-0.8711,36.9111,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,818.3,,,3,Africa/Nairobi,FALSE,1404000484
+Shikoti,Shikoti,,0.3231,34.7347,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,958.0,,,3,Africa/Nairobi,FALSE,1404002055
+Kilimangodo,Kilimangodo,,-4.3630,39.0758,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,12.6,,,4,Africa/Nairobi,FALSE,1404792393
+Njiri,Njiri,,-0.7731,36.8467,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,614.2,,,3,Africa/Nairobi,FALSE,1404000478
+Rarieda,Rarieda,,-0.2017,34.3386,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,302.4,,,3,Africa/Nairobi,FALSE,1404000164
+Kamasielo,Kamasielo,,0.8114,34.7283,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,768.4,,,3,Africa/Nairobi,FALSE,1404001947
+Kurawa,Kurawa,Karawa,-2.6463,40.1956,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,36.4,,,4,Africa/Nairobi,FALSE,1404066173
+Itikoni,Itikoni,,-1.2182,37.3991,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,275.5,,,3,Africa/Nairobi,FALSE,1404000926
+Borokwo Haifa,Borokwo Haifa,,0.1955,35.9285,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,26.9,,,4,Africa/Nairobi,FALSE,1404001743
+Maliera,Maliera,,0.1066,34.4587,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,1033.1,,,3,Africa/Nairobi,FALSE,1404003455
+Kiandumo,Kiandumo,Kiandumu,-0.4393,37.3827,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,648.2,,,3,Africa/Nairobi,FALSE,1404447297
+Ishiru,Ishiru,,0.1586,34.9047,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,342.4,,,3,Africa/Nairobi,FALSE,1404002017
+Bartimaro,Bartimaro,,-2.3000,36.7700,Kenya,KE,KEN,Kajiado,Kajiado,KE-10,county,,57.0,,,4,Africa/Nairobi,FALSE,1404901381
+Gathanji,Gathanji,,-1.0826,36.7679,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,947.9,,,3,Africa/Nairobi,FALSE,1404312968
+God Bura,God Bura,Got Bura,-0.7271,34.0831,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,387.4,,,3,Africa/Nairobi,FALSE,1404000194
+Magarini,Magarini,,-3.0368,40.0695,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,161.0,,,4,Africa/Nairobi,FALSE,1404664875
+Karuru Two,Karuru Two,,-0.7333,37.0333,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,732.4,,,3,Africa/Nairobi,FALSE,1404324069
+Liguyani,Liguyani,,0.7132,35.1069,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,373.6,,,3,Africa/Nairobi,FALSE,1404001786
+Magenche,Magenche,,-0.9511,34.7240,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1494.2,,,3,Africa/Nairobi,FALSE,1404002790
+Tiribe,Tiribe,,-4.3195,39.2549,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,233.7,,,3,Africa/Nairobi,FALSE,1404426123
+Ngandure,Ngandure,,-0.6940,37.5958,Kenya,KE,KEN,Embu,Embu,KE-06,county,,140.7,,,4,Africa/Nairobi,FALSE,1404431647
+Kasagini,Kasagini,Kasangini,-4.0852,39.1403,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,21.0,,,4,Africa/Nairobi,FALSE,1404726480
+Huhoini,Huhoini,,-0.5167,37.0167,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,714.0,,,3,Africa/Nairobi,FALSE,1404483494
+Nyangwethe,Nyangwethe,,-0.6330,34.0776,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,307.4,,,3,Africa/Nairobi,FALSE,1404000245
+Isecheno,Isecheno,,0.2362,34.8532,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,883.3,,,3,Africa/Nairobi,FALSE,1404002018
+Sivilie,Sivilie,,0.4692,34.6982,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,680.3,,,3,Africa/Nairobi,FALSE,1404001922
+Jwelu,Jwelu,,-0.4043,34.8737,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,429.1,,,3,Africa/Nairobi,FALSE,1404003726
+Kithimani,Kithimani,,-1.1848,37.4468,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,159.8,,,4,Africa/Nairobi,FALSE,1404000960
+Chepyes,Chepyes,,0.1476,36.0533,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,22.6,,,4,Africa/Nairobi,FALSE,1404002696
+Chepkemel,Chepkemel,,-0.3758,35.0621,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,644.8,,,3,Africa/Nairobi,FALSE,1404003562
+Nalondo,Nalondo,,0.6567,34.5913,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,771.2,,,3,Africa/Nairobi,FALSE,1404002010
+Dumbuie,Dumbuie,,-4.1137,39.3501,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,106.9,,,4,Africa/Nairobi,FALSE,1404717839
+Songeni,Songeni,,-1.5653,37.4920,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,318.8,,,3,Africa/Nairobi,FALSE,1404827813
+Kyamatula,Kyamatula,Kyamutula,-1.4837,37.5813,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,166.8,,,4,Africa/Nairobi,FALSE,1404001288
+Lugari,Lugari,,0.6871,34.9067,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,732.8,,,3,Africa/Nairobi,FALSE,1404002148
+Kom,Kom,,1.0826,38.0240,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,2.2,,,5,Africa/Nairobi,FALSE,1404677046
+Kiriri,Kiriri,,-0.4417,36.0121,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,373.3,,,3,Africa/Nairobi,FALSE,1404000514
+Masakwe,Masakwe,Nasakwe,-0.5720,34.8171,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,1087.1,,,3,Africa/Nairobi,FALSE,1404003640
+Nyangeta,Nyangeta,,-0.0486,34.9052,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,38.2,,,4,Africa/Nairobi,FALSE,1404002575
+Kangaita,Kangaita,,-0.4972,36.9949,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,681.5,,,3,Africa/Nairobi,FALSE,1404165104
+Kiaroworia,Kiaroworia,,-1.0209,36.8328,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,689.3,,,3,Africa/Nairobi,FALSE,1404000835
+Mathiani,Mathiani,,-2.0002,37.9043,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,86.1,,,4,Africa/Nairobi,FALSE,1404002345
+Kedong,Kedong,Nkidongi,-1.0500,36.5667,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,24.9,,,4,Africa/Nairobi,FALSE,1404322801
+Ndavaya,Ndavaya,Ndavayas,-4.2561,39.1679,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,123.1,,,4,Africa/Nairobi,FALSE,1404347235
+Ngerere,Ngerere,,-0.7618,36.9750,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,598.8,,,3,Africa/Nairobi,FALSE,1404001130
+Chemelil,Chemelil,,-0.1072,35.1103,Kenya,KE,KEN,Kisumu,Kisumu,KE-17,county,,344.1,,,3,Africa/Nairobi,FALSE,1404003587
+Kirichu,Kirichu,,0.4167,37.0167,Kenya,KE,KEN,Laikipia,Laikipia,KE-20,county,,13.4,,,4,Africa/Nairobi,FALSE,1404471132
+Mivukoni,Mivukoni,Mebukoni|Muvukoni|Muvukuni|Muyukuni,-0.4084,38.2410,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,42.6,,,4,Africa/Nairobi,FALSE,1404003344
+Yala,Yala,Yala Station,0.0944,34.5360,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,996.5,,,3,Africa/Nairobi,FALSE,1404106996
+Nguvuli,Nguvuli,,0.4144,34.8967,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,522.5,,,3,Africa/Nairobi,FALSE,1404001545
+Mbaga,Mbaga,,0.0798,34.2523,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,396.5,,,3,Africa/Nairobi,FALSE,1404003391
+Kaguku,Kaguku,,-0.9269,37.4745,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,159.0,,,4,Africa/Nairobi,FALSE,1404000787
+Kebirigo,Kebirigo,,-0.6029,34.9612,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,1285.4,,,3,Africa/Nairobi,FALSE,1404002531
+Mitaboni,Mitaboni,Mitaaboni,-1.3759,37.2507,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,565.2,,,3,Africa/Nairobi,FALSE,1404000984
+Karenge,Karenge,,-1.0167,36.7833,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,641.0,,,3,Africa/Nairobi,FALSE,1404676769
+Kharanda,Kharanda,,0.4304,34.6612,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,753.4,,,3,Africa/Nairobi,FALSE,1404001730
+Tegat,Tegat,,-0.4076,35.1930,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,623.6,,,3,Africa/Nairobi,FALSE,1404002508
+Syunguni,Syunguni,,-1.8847,38.1457,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,79.0,,,4,Africa/Nairobi,FALSE,1404001263
+Leeta,Leeta,,0.4135,37.9834,Kenya,KE,KEN,Meru,Meru,KE-26,county,,272.6,,,3,Africa/Nairobi,FALSE,1404002276
+Kakiimba,Kakiimba,,-0.4424,34.0425,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,654.4,,,3,Africa/Nairobi,FALSE,1404000226
+Kibauni,Kibauni,,-4.5342,39.1453,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,174.8,,,4,Africa/Nairobi,FALSE,1404808948
+Nguumo,Nguumo,,-2.3746,37.8961,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,206.7,,,3,Africa/Nairobi,FALSE,1404002440
+Wangajo,Wangajo,Waganjo,-0.7298,34.4690,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,333.3,,,3,Africa/Nairobi,FALSE,1404000414
+Obanga,Obanga,,-0.6723,34.1007,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,246.6,,,3,Africa/Nairobi,FALSE,1404000185
+Pesi Settlement,Pesi Settlement,,-0.1294,36.5230,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,87.5,,,4,Africa/Nairobi,FALSE,1404000719
+Tebeson,Tebeson,,0.3273,35.1502,Kenya,KE,KEN,Nandi,Nandi,KE-32,county,,349.5,,,3,Africa/Nairobi,FALSE,1404001708
+Muisuni,Muisuni,,-1.3154,37.3825,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,959.0,,,3,Africa/Nairobi,FALSE,1404000974
+Elburgon,Elburgon,,-0.3000,35.8167,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,903.9,,,3,Africa/Nairobi,FALSE,1404612537
+Magodi,Magodi,,-4.4176,39.3728,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,144.9,,,4,Africa/Nairobi,FALSE,1404203637
+Mirihini,Mirihini,Mritini,-4.2206,39.3076,Kenya,KE,KEN,Kwale,Kwale,KE-19,county,,94.2,,,4,Africa/Nairobi,FALSE,1404841972
+Korobo,Korobo,,-1.6973,39.8640,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,2.1,,,5,Africa/Nairobi,FALSE,1404470672
+Mathari,Mathari,,-0.4071,36.9212,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,247.1,,,3,Africa/Nairobi,FALSE,1404202891
+Ogare,Ogare,,-0.0336,34.1602,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,250.5,,,3,Africa/Nairobi,FALSE,1404000287
+Mumbuni,Mumbuni,,-1.5000,37.2667,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,1716.2,,,3,Africa/Nairobi,FALSE,1404000972
+Mumbuni,Mumbuni,,-1.2740,37.4710,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,232.3,,,3,Africa/Nairobi,TRUE,1404001219
+Mumbuni,Mumbuni,,-1.8551,37.6046,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,155.9,,,4,Africa/Nairobi,FALSE,1404001430
+Gimarakwa,Gimarakwa,,0.0123,34.7639,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1062.4,,,3,Africa/Nairobi,FALSE,1404002169
+Sibala,Sibala,,0.1181,34.8520,Kenya,KE,KEN,Vihiga,Vihiga,KE-45,county,,1516.2,,,3,Africa/Nairobi,FALSE,1404001978
+Alalei,Alalei,Alale|Akale,2.2504,35.0291,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,85.0,,,4,Africa/Nairobi,FALSE,1404232913
+Koderobara,Koderobara,,-0.7627,34.6119,Kenya,KE,KEN,Migori,Migori,KE-27,county,,890.9,,,3,Africa/Nairobi,FALSE,1404002807
+Simuli,Simuli,,0.3769,34.7218,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,598.1,,,3,Africa/Nairobi,FALSE,1404001773
+Sosit,Sosit,,-0.6380,35.1644,Kenya,KE,KEN,Kericho,Kericho,KE-12,county,,1008.5,,,3,Africa/Nairobi,FALSE,1404002792
+Kasikini,Kasikini,Kazakini,-2.9511,39.7429,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,24.6,,,4,Africa/Nairobi,FALSE,1404426566
+Morobus,Morobus,,1.4073,35.3119,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,103.1,,,4,Africa/Nairobi,FALSE,1404000639
+Malewa,Malewa,,-0.3709,36.4528,Kenya,KE,KEN,Nyandarua,Nyandarua,KE-35,county,,169.6,,,4,Africa/Nairobi,FALSE,1404000050
+Thanu,Thanu,,-0.6333,37.1167,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,413.1,,,3,Africa/Nairobi,FALSE,1404809096
+Malewa,Malewa,Melewa Pump Station|Melawa Pump Station,-0.4979,36.3970,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,205.8,,,3,Africa/Nairobi,FALSE,1404000542
+Loiya,Loiya,Loya,2.5127,34.9787,Kenya,KE,KEN,Turkana,Turkana,KE-43,county,,33.4,,,4,Africa/Nairobi,FALSE,1404136165
+Musaga,Musaga,,0.4524,34.7333,Kenya,KE,KEN,Kakamega,Kakamega,KE-11,county,,670.2,,,3,Africa/Nairobi,FALSE,1404002061
+Nyabassi,Nyabassi,Nyabasi,-1.3076,34.5931,Kenya,KE,KEN,Migori,Migori,KE-27,county,,418.4,,,3,Africa/Nairobi,FALSE,1404711240
+Serkonghun,Serkonghun,Serkongun,0.6006,35.7681,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,390.5,,,3,Africa/Nairobi,FALSE,1404346540
+Rongo,Rongo,,-0.0330,34.0764,Kenya,KE,KEN,Siaya,Siaya,KE-38,county,,154.0,,,4,Africa/Nairobi,FALSE,1404000282
+Katuluni,Katuluni,,-1.1769,37.2432,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,124.4,,,4,Africa/Nairobi,FALSE,1404000437
+Dungicha,Dungicha,,-3.4885,39.6213,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,82.1,,,4,Africa/Nairobi,FALSE,1404333057
+Ndagene,Ndagene,Ndegene,-0.0774,37.5860,Kenya,KE,KEN,Meru,Meru,KE-26,county,,682.0,,,3,Africa/Nairobi,FALSE,1404003294
+Kiamariga,Kiamariga,,-0.3852,37.0841,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,440.3,,,3,Africa/Nairobi,FALSE,1404915531
+Mashamba,Mashamba,,-0.7555,37.5100,Kenya,KE,KEN,Embu,Embu,KE-06,county,,100.7,,,4,Africa/Nairobi,FALSE,1404649423
+Kivaa,Kivaa,,-0.8542,37.6955,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,82.9,,,4,Africa/Nairobi,FALSE,1404003216
+Athi,Athi,,-2.2667,38.0667,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,87.4,,,4,Africa/Nairobi,FALSE,1404908319
+Athi,Athi,,0.1744,37.9388,Kenya,KE,KEN,Meru,Meru,KE-26,county,,1077.8,,,3,Africa/Nairobi,FALSE,1404002420
+Landhies,Landhies,,-2.2281,37.7858,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,56.0,,,4,Africa/Nairobi,FALSE,1404002364
+Karia,Karia,,-0.4400,36.9578,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,2644.4,,,2,Africa/Nairobi,FALSE,1404000792
+Gachika,Gachika,,-0.4209,37.0442,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,411.1,,,3,Africa/Nairobi,FALSE,1404000755
+Igare,Igare,,-0.8051,34.8049,Kenya,KE,KEN,Kisii,Kisii,KE-16,county,,893.9,,,3,Africa/Nairobi,FALSE,1404002959
+Kiahagu,Kiahagu,,-0.5329,36.9027,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,612.2,,,3,Africa/Nairobi,FALSE,1404001122
+Kapturwo,Kapturwo,,0.6300,35.6700,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,73.3,,,4,Africa/Nairobi,FALSE,1404050727
+Kapchepkor,Kapchepkor,,0.6200,35.8000,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,509.3,,,3,Africa/Nairobi,FALSE,1404928372
+Gakurwe,Gakurwe,,-0.4333,37.3500,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,736.8,,,3,Africa/Nairobi,FALSE,1404119431
+Kiangini,Kiangini,,-2.0715,37.7696,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,99.0,,,4,Africa/Nairobi,FALSE,1404002342
+Mutugu,Mutugu,,-0.6610,37.5825,Kenya,KE,KEN,Embu,Embu,KE-06,county,,152.2,,,4,Africa/Nairobi,FALSE,1404003135
+Changombe,Changombe,,-3.9215,39.5982,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,582.5,,,3,Africa/Nairobi,FALSE,1404003059
+Waterer,Waterer,,-0.3918,35.6479,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,279.0,,,3,Africa/Nairobi,FALSE,1404927314
+Madungoni,Madungoni,Madunguni,-3.1836,39.9746,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,336.4,,,3,Africa/Nairobi,FALSE,1404540268
+Gekendo,Gekendo,,-0.5147,34.9676,Kenya,KE,KEN,Nyamira,Nyamira,KE-34,county,,740.1,,,3,Africa/Nairobi,FALSE,1404002545
+Safarisi,Safarisi,,-2.2046,40.8085,Kenya,KE,KEN,Lamu,Lamu,KE-21,county,,17.0,,,4,Africa/Nairobi,FALSE,1404891129
+Chesikaki,Chesikaki,Chesakaki,0.8012,34.5067,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,820.9,,,3,Africa/Nairobi,FALSE,1404258883
+Kiabuya,Kiabuya,,-0.7410,34.0956,Kenya,KE,KEN,Homa Bay,Homa Bay,KE-08,county,,230.8,,,3,Africa/Nairobi,FALSE,1404000246
+Kiawaithanji,Kiawaithanji,,-0.4833,36.9833,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,729.6,,,3,Africa/Nairobi,FALSE,1404958220
+Kaption,Kaption,,0.7000,35.7300,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,70.1,,,4,Africa/Nairobi,FALSE,1404401593
+Konyu,Konyu,,-0.4161,37.1002,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,570.5,,,3,Africa/Nairobi,FALSE,1404000998
+Konyu,Konyu,,-0.5335,36.8705,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,549.6,,,3,Africa/Nairobi,TRUE,1404001080
+Ngoliba,Ngoliba,,-1.0354,37.3964,Kenya,KE,KEN,Murang’a,Murang'a,KE-29,county,,233.6,,,3,Africa/Nairobi,FALSE,1404001209
+Kihome,Kihome,,-0.5160,36.8825,Kenya,KE,KEN,Nyeri,Nyeri,KE-36,county,,533.2,,,3,Africa/Nairobi,FALSE,1404899736
+Beestons,Beestons,,-0.3648,35.8826,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,164.9,,,4,Africa/Nairobi,FALSE,1404003504
+Kapkong,Kapkong,,0.6149,35.1050,Kenya,KE,KEN,Uasin Gishu,Uasin Gishu,KE-44,county,,382.8,,,3,Africa/Nairobi,FALSE,1404001787
+South Muguga,South Muguga,South Mugaga,-1.2134,36.6313,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,235.9,,,3,Africa/Nairobi,FALSE,1404001198
+Mungatsi,Mungatsi,,0.4708,34.3155,Kenya,KE,KEN,Busia,Busia,KE-04,county,,423.4,,,3,Africa/Nairobi,FALSE,1404003758
+Kalimoni,Kalimoni,,-1.1169,37.0198,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,195.1,,,4,Africa/Nairobi,FALSE,1404000916
+Kinarani,Kinarani,Kinarane,-3.7260,39.5728,Kenya,KE,KEN,Kilifi,Kilifi,KE-14,county,,192.7,,,4,Africa/Nairobi,FALSE,1404435903
+Mbuani,Mbuani,,-1.6718,37.3952,Kenya,KE,KEN,Machakos,Machakos,KE-22,county,,280.0,,,3,Africa/Nairobi,FALSE,1404001164
+Kipsain Club,Kipsain Club,,1.0893,35.0727,Kenya,KE,KEN,Trans Nzoia,Trans Nzoia,KE-42,county,,454.2,,,3,Africa/Nairobi,FALSE,1404000701
+Kitise,Kitise,,-2.0488,37.8756,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,77.3,,,4,Africa/Nairobi,FALSE,1404002288
+Buhuyi,Buhuyi,,0.3608,34.4006,Kenya,KE,KEN,Busia,Busia,KE-04,county,,597.3,,,3,Africa/Nairobi,FALSE,1404003396
+Lodungokwe,Lodungokwe,Lodung’okwe,0.8700,37.0051,Kenya,KE,KEN,Samburu,Samburu,KE-37,county,,27.3,,,4,Africa/Nairobi,FALSE,1404002382
+Karugutu,Karugutu,,-0.8833,36.8333,Kenya,KE,KEN,Kiambu,Kiambu,KE-13,county,,400.3,,,3,Africa/Nairobi,FALSE,1404498632
+Mau Narok,Mau Narok,,-0.6066,36.0084,Kenya,KE,KEN,Nakuru,Nakuru,KE-31,county,,322.7,,,3,Africa/Nairobi,FALSE,1404013603
+Itetani,Itetani,,-1.5882,37.3859,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,308.3,,,3,Africa/Nairobi,FALSE,1404758497
+Maikuu,Maikuu,Kavyongo,-2.4894,37.9764,Kenya,KE,KEN,Makueni,Makueni,KE-23,county,,212.0,,,3,Africa/Nairobi,FALSE,1404027674
+Laini,Laini,,-1.3635,40.0018,Kenya,KE,KEN,Tana River,Tana River,KE-40,county,,42.6,,,4,Africa/Nairobi,FALSE,1404632531
+Mutuangombe,Mutuangombe,Matuangombe,-0.8705,38.2149,Kenya,KE,KEN,Kitui,Kitui,KE-18,county,,66.8,,,4,Africa/Nairobi,FALSE,1404003237
+Chebongei,Chebongei,Chebonge|Chebongi,-0.6656,35.1015,Kenya,KE,KEN,Bomet,Bomet,KE-02,county,,1006.6,,,3,Africa/Nairobi,FALSE,1404003815
+Noiwe,Noiwe,,0.0700,35.9300,Kenya,KE,KEN,Baringo,Baringo,KE-01,county,,98.8,,,4,Africa/Nairobi,FALSE,1404619431
+Kisiaunet,Kisiaunet,,1.2796,35.0814,Kenya,KE,KEN,West Pokot,West Pokot,KE-47,county,,283.9,,,3,Africa/Nairobi,FALSE,1404000700
+Kiaga,Kiaga,,-0.5617,37.2793,Kenya,KE,KEN,Kirinyaga,Kirinyaga,KE-15,county,,757.3,,,3,Africa/Nairobi,FALSE,1404000880
+Kamutiong,Kamutiong,,0.8065,34.6911,Kenya,KE,KEN,Bungoma,Bungoma,KE-03,county,,702.5,,,3,Africa/Nairobi,FALSE,1404001782

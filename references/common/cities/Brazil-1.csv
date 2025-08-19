@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+São Paulo,Sao Paulo,San Paulo,-23.5500,-46.6333,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,admin,6326.7,23086000,12252023,1,America/Sao_Paulo,FALSE,1076532519
+Rio de Janeiro,Rio de Janeiro,Rio|São Sebastião do Rio de Janeiro|São Sebastião de Rio de Janeiro,-22.9111,-43.2056,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,admin,6233.7,12592000,6520000,1,America/Sao_Paulo,FALSE,1076887657
+Belo Horizonte,Belo Horizonte,Cidade de Minas|Bello Horizonte,-19.9167,-43.9333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,admin,4139.9,5328000,2502557,1,America/Sao_Paulo,FALSE,1076967355
+Fortaleza,Fortaleza,Fortaleza de Nova Bragança|Ceará|Fortaleza Nova de Bragança,-3.7275,-38.5275,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,admin,7711.8,4167996,2703391,1,America/Fortaleza,FALSE,1076567885
+Brasília,Brasilia,,-15.7939,-47.8828,Brazil,BR,BRA,Distrito Federal,Distrito Federal,BR-DF,federal district,primary,485.5,2817068,2817068,1,America/Sao_Paulo,FALSE,1076144436
+Salvador,Salvador,Sao Salvador|Bahia|Baía,-12.9747,-38.4767,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,admin,3489.2,2418005,2418005,1,America/Bahia,FALSE,1076923789
+Manaus,Manaus,Manos|Manáos|Barra do Rio Negro,-3.1189,-60.0217,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,admin,181.0,2063547,2063547,1,America/Manaus,FALSE,1076607274
+Santos,Santos,,-23.9369,-46.3250,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1493.4,1897551,418608,1,America/Sao_Paulo,FALSE,1076033299
+Curitiba,Curitiba,Curityba|Corityba|Curytiba,-25.4297,-49.2711,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,admin,4117.9,1773733,1773733,1,America/Sao_Paulo,FALSE,1076701712
+Recife,Recife,Pernambuco|Mauricéa|Arrecife,-8.0500,-34.9000,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,admin,6803.6,1488920,1488920,1,America/Recife,FALSE,1076137337
+Goiânia,Goiania,Goyania|Goianá,-16.6667,-49.2500,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,admin,1821.6,1437237,1437237,1,America/Sao_Paulo,FALSE,1076034054
+Porto Alegre,Porto Alegre,Pôrto de São Francisco dos Casaes,-30.0331,-51.2300,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,admin,2682.2,1332570,1332570,1,America/Sao_Paulo,FALSE,1076658221
+Guarulhos,Guarulhos,,-23.4628,-46.5328,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,4165.8,1324781,1324781,1,America/Sao_Paulo,FALSE,1076730420
+Belém,Belem,Pará|Santa Maria de Belém do Grão Pará|Belem do Pará,-1.4558,-48.5039,Brazil,BR,BRA,Pará,Para,BR-PA,state,admin,1230.2,1303389,1303389,1,America/Belem,FALSE,1076646823
+Campinas,Campinas,Conceição de Campinas,-22.9058,-47.0608,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1525.5,1213792,1213792,1,America/Sao_Paulo,FALSE,1076145766
+São Luís,Sao Luis,São Luiz do Maranhão|São Luiz de Maranhão|São Luiz|Maranhão,-2.5283,-44.3044,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,admin,1254.7,1037775,1037775,1,America/Fortaleza,FALSE,1076819308
+Natal,Natal,,-6.9838,-60.2699,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,,0.3,980588,980588,2,America/Manaus,FALSE,1076336975
+Maceió,Maceio,Maçayó,-9.6658,-35.7350,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,admin,1904.1,957916,957916,2,America/Maceio,FALSE,1076440479
+Teresina,Teresina,Terezina|Vila Nova do Poti|Therezina|Poti|Theresina,-5.0949,-42.8042,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,admin,628.1,953172,868075,2,America/Fortaleza,FALSE,1076727667
+Campo Grande,Campo Grande,,-20.4839,-54.6150,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,admin,110.9,897938,897938,2,America/Campo_Grande,FALSE,1076660445
+São Gonçalo,Sao Goncalo,,-22.8269,-43.0539,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,3599.3,896744,896744,2,America/Sao_Paulo,FALSE,1076485783
+Iguaçu,Iguacu,,-22.7400,-43.4700,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,187.8,844583,844583,2,America/Sao_Paulo,FALSE,1076339714
+João Pessoa,Joao Pessoa,Frederícia|Paraíba|Parahyba|Parahiba|Cidade Felipéa,-7.1200,-34.8800,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,admin,3943.4,833932,833932,2,America/Fortaleza,FALSE,1076922014
+São Bernardo do Campo,Sao Bernardo do Campo,São Bernardo,-23.7000,-46.5500,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1996.0,810729,810729,2,America/Sao_Paulo,FALSE,1076793227
+Natal,Natal,,-5.7833,-35.2000,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,admin,4491.7,751300,751300,2,America/Fortaleza,FALSE,1076697777
+Santo André,Santo Andre,,-23.6572,-46.5333,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,4283.5,748919,748919,2,America/Sao_Paulo,FALSE,1076625886
+Osasco,Osasco,,-23.5328,-46.7919,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,11437.4,743432,743432,2,America/Sao_Paulo,FALSE,1076786452
+Sorocaba,Sorocaba,,-23.5017,-47.4581,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1606.6,723574,723574,2,America/Sao_Paulo,FALSE,1076758708
+Uberlândia,Uberlandia,,-18.9231,-48.2886,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,173.3,713232,713232,2,America/Sao_Paulo,FALSE,1076495001
+Jaboatão,Jaboatao,,-8.1803,-35.0014,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,13680.0,702621,702621,2,America/Recife,FALSE,1076000699
+Ribeirão Prêto,Ribeirao Preto,Rio Preto|Entre Rios,-21.1783,-47.8067,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1072.7,698259,698259,2,America/Sao_Paulo,FALSE,1076524478
+São José dos Campos,Sao Jose dos Campos,,-23.1789,-45.8869,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,634.2,697428,697428,2,America/Sao_Paulo,FALSE,1076783887
+Aracaju,Aracaju,,-10.9167,-37.0500,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,admin,3656.2,664908,664908,2,America/Maceio,FALSE,1076527830
+Cuiabá,Cuiaba,Vila Real do Senhor Bom Jesus de Cuiabá|Cuyabá,-15.5958,-56.0969,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,admin,186.2,650912,650912,2,America/Cuiaba,FALSE,1076112309
+Jaboatão dos Guararapes,Jaboatao dos Guararapes,,-8.1122,-35.0156,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,2514.0,643759,643759,2,America/Recife,FALSE,1076003460
+Contagem,Contagem,,-19.9319,-44.0539,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,3184.7,621865,621865,2,America/Sao_Paulo,FALSE,1076845191
+Joinvile,Joinvile,Joinville,-26.3204,-48.8437,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,547.3,616323,616323,2,America/Sao_Paulo,FALSE,1076050637
+Feira de Santana,Feira de Santana,Feira De Saint Anna|Feira|Feira de Sant’Anna,-12.2500,-38.9500,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,460.6,616279,616279,2,America/Bahia,FALSE,1076892244
+Londrina,Londrina,,-23.3100,-51.1628,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,336.3,555937,555937,2,America/Sao_Paulo,FALSE,1076723241
+Juiz de Fora,Juiz de Fora,,-21.7619,-43.3494,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,376.64,540756,540756,2,America/Sao_Paulo,FALSE,1076006144
+Florianópolis,Florianopolis,Nossa Senhora do Destêrro|Desterro|Destero,-27.6122,-48.4853,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,admin,795.4,537213,537213,2,America/Sao_Paulo,FALSE,1076190259
+Serra,Serra,,-20.1289,-40.3078,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,941.1,520649,520649,2,America/Sao_Paulo,FALSE,1076191325
+Macapá,Macapa,,0.0330,-51.0500,Brazil,BR,BRA,Amapá,Amapa,BR-AP,state,admin,6594.7,512902,512902,2,America/Belem,FALSE,1076189884
+Campos,Campos,São Salvador dos Campos|Campos dos Goitacazes,-21.7539,-41.3239,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,126.8,511168,511168,2,America/Sao_Paulo,FALSE,1076606365
+Niterói,Niteroi,Villa Real da Praia Grande|Vila Real da Praia Grande|Nictheroy|Nictheroi,-22.8833,-43.1036,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,3709.0,496696,496696,2,America/Sao_Paulo,FALSE,1076501425
+São José do Rio Prêto,Sao Jose do Rio Preto,Rio Preto,-20.8081,-49.3811,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1112.2,480439,480439,2,America/Sao_Paulo,FALSE,1076760827
+Ananindeua,Ananindeua,,-1.3658,-48.3719,Brazil,BR,BRA,Pará,Para,BR-PA,state,,2512.2,478778,478778,2,America/Belem,FALSE,1076025295
+Vila Velha,Vila Velha,Espírito Santo de Vitória|Espírito Santo,-20.3364,-40.2936,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,2250.5,472762,472762,2,America/Sao_Paulo,FALSE,1076404077
+Caxias do Sul,Caxias do Sul,Caxius do Sul|Caxias,-29.1667,-51.1833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,281.9,463338,463338,2,America/Sao_Paulo,FALSE,1076809957
+Porto Velho,Porto Velho,Velho|Pôrto Velho,-8.7619,-63.9039,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,admin,13.5,460413,460413,2,America/Porto_Velho,FALSE,1076045591
+Mogi das Cruzes,Mogi das Cruzes,Moji das Cruzes|Mogy das Cruzes,-23.5228,-46.1878,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,632.6,450785,450785,2,America/Sao_Paulo,FALSE,1076857883
+Piracicaba,Piracicaba,,-22.7253,-47.6492,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,307.2,423323,423323,2,America/Sao_Paulo,FALSE,1076166252
+Campina Grande,Campina Grande,,-7.2306,-35.8811,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,705.8,419379,419379,2,America/Fortaleza,FALSE,1076218697
+Mauá,Maua,,-23.6678,-46.4608,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,6714.4,418261,418261,2,America/Sao_Paulo,FALSE,1076477498
+Boa Vista,Boa Vista,Boa Vista do Rio Branco,2.8194,-60.6714,Brazil,BR,BRA,Roraima,Roraima,BR-RR,state,admin,72.7,413486,413486,2,America/Boa_Vista,FALSE,1076621300
+Betim,Betim,,-19.9678,-44.1978,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,1190.3,411859,411859,2,America/Sao_Paulo,FALSE,1076953384
+Maringá,Maringa,,-23.4000,-51.9167,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,841.1,409657,409657,2,America/Sao_Paulo,FALSE,1076013378
+Jundiaí,Jundiai,Jundiahy,-23.1858,-46.8839,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,932.0,401896,401896,2,America/Sao_Paulo,FALSE,1076998392
+Anápolis,Anapolis,Annapolis,-16.3339,-48.9519,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,434.3,398817,398817,2,America/Sao_Paulo,FALSE,1076208869
+Diadema,Diadema,,-23.6861,-46.6106,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,13873.8,393237,393237,2,America/Sao_Paulo,FALSE,1076867279
+Carapicuíba,Carapicuiba,,-23.5192,-46.8358,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,11071.0,387121,387121,2,America/Sao_Paulo,FALSE,1076874103
+Petrolina,Petrolina,,-9.3825,-40.5022,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,84.8,386786,386786,2,America/Recife,FALSE,1076843988
+Caruaru,Caruaru,,-8.2828,-35.9758,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,410.7,378052,378052,2,America/Recife,FALSE,1076397475
+Itaquaquecetuba,Itaquaquecetuba,Itaquaquicetuba,-23.4864,-46.3486,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1022.2,375011,375011,2,America/Sao_Paulo,FALSE,1076942224
+Bauru,Bauru,,-22.3150,-49.0608,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,549.6,366992,366992,2,America/Sao_Paulo,FALSE,1076905338
+Rio Branco,Rio Branco,Penápolis|Emprêsa,-9.9747,-67.8100,Brazil,BR,BRA,Acre,Acre,BR-AC,state,admin,41.3,364756,364756,2,America/Rio_Branco,FALSE,1076391263
+Blumenau,Blumenau,,-26.9333,-49.0500,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,695.0,361261,361261,2,America/Sao_Paulo,FALSE,1076618665
+Ponta Grossa,Ponta Grossa,,-25.0994,-50.1583,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,174.4,358367,358367,2,America/Sao_Paulo,FALSE,1076716439
+Caucaia,Caucaia,Soure,-3.7167,-38.6500,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,290.8,355679,355679,2,America/Fortaleza,FALSE,1076870058
+Franca,Franca,,-20.5389,-47.4008,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,580.5,352537,352537,2,America/Sao_Paulo,FALSE,1076740256
+Olinda,Olinda,,-8.0000,-34.8833,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,8396.5,349976,349976,2,America/Recife,FALSE,1076784718
+Praia Grande,Praia Grande,,-24.0061,-46.4028,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,2379.5,349935,349935,2,America/Sao_Paulo,FALSE,1076548222
+Cariacica,Cariacica,,-20.2639,-40.4200,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,1245.6,348738,348738,2,America/Sao_Paulo,FALSE,1076479479
+Cascavel,Cascavel,,-24.9556,-53.4553,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,165.7,348051,348051,2,America/Sao_Paulo,FALSE,1076509946
+Canoas,Canoas,,-29.9200,-51.1800,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,2651.9,347657,347657,2,America/Sao_Paulo,FALSE,1076009922
+Paulista,Paulista,,-7.9408,-34.8728,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,3658.8,342167,342167,2,America/Recife,FALSE,1076183876
+Vitória da Conquista,Vitoria da Conquista,Conquista,-14.8658,-40.8389,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,106.5,341128,341128,2,America/Bahia,FALSE,1076812020
+Uberaba,Uberaba,,-19.7478,-47.9319,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,minor,74.9,337846,337846,2,America/Sao_Paulo,FALSE,1076230331
+Santarém,Santarem,,-2.4300,-54.7200,Brazil,BR,BRA,Pará,Para,BR-PA,state,,14.5,331937,331937,2,America/Santarem,FALSE,1076256494
+São Vicente,Sao Vicente,,-23.9633,-46.3922,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,2228.7,329844,329844,2,America/Sao_Paulo,FALSE,1076857089
+Ribeirão das Neves,Ribeirao das Neves,Neves|Nevez,-19.7669,-44.0869,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,2139.0,329794,329794,2,America/Sao_Paulo,FALSE,1076482220
+São José dos Pinhais,Sao Jose dos Pinhais,São José dos Pinhaes,-25.5350,-49.2058,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,347.9,329222,329222,2,America/Sao_Paulo,FALSE,1076174955
+Pelotas,Pelotas,São Francisco de Paula,-31.7719,-52.3425,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,202.3,325689,325689,2,America/Sao_Paulo,FALSE,1076815692
+Vitória,Vitoria,Victoria,-20.2889,-40.3083,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,admin,3344.5,322869,322869,2,America/Sao_Paulo,FALSE,1076376829
+Taubaté,Taubate,,-23.0250,-45.5556,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,508.7,317915,317915,2,America/Sao_Paulo,FALSE,1076146252
+Barueri,Barueri,,-23.5111,-46.8764,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,235.4,316473,316473,2,America/Sao_Paulo,FALSE,1076211114
+Guarujá,Guaruja,,-23.9936,-46.2564,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,2182.7,311230,311230,2,America/Sao_Paulo,FALSE,1076832747
+Suzano,Suzano,Susano,-23.5428,-46.3108,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1490.4,307364,307364,2,America/Sao_Paulo,FALSE,1076830201
+Palmas,Palmas,,-10.1844,-48.3336,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,admin,136.4,302692,302692,2,America/Araguaina,FALSE,1076052802
+Camaçari,Camacari,Camassari|Camassary|Camacary,-12.6978,-38.3239,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,381.8,299579,299579,2,America/Bahia,FALSE,1076610862
+Várzea Grande,Varzea Grande,,-15.6500,-56.1333,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,306.5,287526,287526,2,America/Cuiaba,FALSE,1076359879
+Juazeiro do Norte,Juazeiro do Norte,Jaozeiro|Juazeiro|Joazeiro,-7.2000,-39.3333,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,1153.7,286120,286120,2,America/Fortaleza,FALSE,1076912078
+Foz do Iguaçu,Foz do Iguacu,Iguassú|Foz de Iguassu|Foz do Iguassú,-25.5400,-54.5875,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,462.1,285415,285415,2,America/Sao_Paulo,FALSE,1076025805
+Petrópolis,Petropolis,,-22.5050,-43.1789,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,360.0,278881,278881,2,America/Sao_Paulo,FALSE,1076352504
+Crato,Crato,Grato,-7.4639,-63.0400,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,,250.2,273883,273883,2,America/Manaus,FALSE,1076425706
+Cotia,Cotia,Cutia,-23.6042,-46.9194,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,844.9,273640,273640,2,America/Sao_Paulo,FALSE,1076098590
+Taboão da Serra,Taboao da Serra,Tabuão da Serra,-23.5328,-46.7994,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,14401.8,273542,273542,2,America/Sao_Paulo,FALSE,1076000585
+Imperatriz,Imperatriz,Vila Nova de Imperatriz,-5.5333,-47.4833,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,199.5,273110,273110,2,America/Fortaleza,FALSE,1076486025
+Santa Maria,Santa Maria,Santa Maria do Bocca do Monte,-29.6833,-53.8000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,152.6,271633,271633,2,America/Sao_Paulo,FALSE,1076178738
+Marabá,Maraba,Marada,-5.3500,-49.1167,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,17.6,266536,266536,2,America/Belem,FALSE,1076974144
+Sumaré,Sumare,Rebouças,-22.8219,-47.2669,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1737.9,265955,265955,2,America/Sao_Paulo,FALSE,1076684312
+Gravataí,Gravatai,Gravatahy,-29.9333,-50.9833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,571.6,265070,265070,2,America/Sao_Paulo,FALSE,1076919841
+Mossoró,Mossoro,Moçoró,-5.1878,-37.3439,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,126.0,264577,264577,2,America/Fortaleza,FALSE,1076461194
+Itajaí,Itajai,Itajahy|Itajahi,-26.9000,-48.6667,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,241.2,264054,264054,2,America/Sao_Paulo,FALSE,1076348188
+Volta Redonda,Volta Redonda,,-22.5228,-44.1039,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,1.6,261584,261584,2,America/Sao_Paulo,FALSE,1076343513
+Governador Valadares,Governador Valadares,Figueira,-18.8500,-41.9333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,109.8,257172,257172,2,America/Sao_Paulo,FALSE,1076271003
+Indaiatuba,Indaiatuba,,-23.0903,-47.2181,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,822.4,256223,256223,2,America/Sao_Paulo,FALSE,1076347789
+São Carlos,Sao Carlos,São Carlos do Pinhal|San Carlos,-22.0000,-47.8908,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,223.8,254484,254484,2,America/Sao_Paulo,FALSE,1076673445
+Parnamirim,Parnamirim,Eduardo Gomes,-5.9167,-35.2500,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,2046.8,252716,252716,2,America/Fortaleza,FALSE,1076600360
+São José,Sao Jose,,-27.6000,-48.6167,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,1838.1,250181,250181,2,America/Sao_Paulo,FALSE,1076689151
+Limeira,Limeira,,-22.5650,-47.4019,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,428.9,249046,249046,2,America/Sao_Paulo,FALSE,1076508566
+Macaé,Macae,Macahé,-22.3708,-41.7869,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,202.8,246391,246391,2,America/Sao_Paulo,FALSE,1076074287
+Rondonópolis,Rondonopolis,Rodonópolis,-16.4667,-54.6333,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,58.8,244897,244897,2,America/Cuiaba,FALSE,1076627175
+São José de Ribamar,Sao Jose de Ribamar,São-José-do-Ribamar|Ribamar,-2.5500,-44.0500,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,633.2,244579,244579,2,America/Fortaleza,FALSE,1076976057
+Dourados,Dourados,,-22.2208,-54.8058,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,59.6,243368,243368,2,America/Campo_Grande,FALSE,1076544482
+Araraquara,Araraquara,,-21.7939,-48.1758,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,241.4,242228,242228,2,America/Sao_Paulo,FALSE,1076251019
+Americana,Americana,Villa Americana|Vila Americana,-22.7386,-47.3311,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1807.3,242018,242018,2,America/Sao_Paulo,FALSE,1076922153
+Sete Lagoas,Sete Lagoas,,-19.4658,-44.2469,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,449.8,241835,241835,2,America/Sao_Paulo,FALSE,1076863850
+Marília,Marilia,,-22.2139,-49.9458,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,205.6,240590,240590,2,America/Sao_Paulo,FALSE,1076042151
+Jacareí,Jacarei,Jacarehy,-23.3053,-45.9658,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,517.5,240275,240275,2,America/Sao_Paulo,FALSE,1076592769
+Juazeiro,Juazeiro,Juàzeiro|Joazeiro,-9.4306,-40.5028,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,36.3,235816,235816,2,America/Bahia,FALSE,1076632040
+Arapiraca,Arapiraca,,-9.7519,-36.6608,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,6090.7,234696,234696,2,America/Maceio,FALSE,1076615737
+Maracanaú,Maracanau,Maraconahú,-3.8667,-38.6333,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,2232.3,234392,234392,2,America/Fortaleza,FALSE,1076848743
+Colombo,Colombo,,-25.2919,-49.2239,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,149.4,232056,232056,2,America/Sao_Paulo,FALSE,1076976439
+Divinópolis,Divinopolis,,-20.1389,-44.8839,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,326.0,231091,231091,2,America/Sao_Paulo,FALSE,1076716552
+Magé,Mage,Majé,-22.6528,-43.0408,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,591.5,228127,228127,2,America/Sao_Paulo,FALSE,1076385139
+Novo Hamburgo,Novo Hamburgo,Potiguara|Novo Hamburg,-29.6778,-51.1308,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,1018.5,227732,227732,2,America/Sao_Paulo,FALSE,1076221386
+Ipatinga,Ipatinga,,-19.5000,-42.5333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,1381.2,227731,227731,2,America/Sao_Paulo,FALSE,1076484921
+Rio Verde,Rio Verde,,-17.7450,-50.9167,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,26.9,225696,225696,2,America/Sao_Paulo,FALSE,1076844683
+Presidente Prudente,Presidente Prudente,,-22.1256,-51.3889,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,401.0,225668,225668,2,America/Sao_Paulo,FALSE,1076239965
+Itaboraí,Itaborai,Itaborahy,-22.7439,-42.8589,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,521.1,224267,224267,2,America/Sao_Paulo,FALSE,1076964860
+Viamão,Viamao,,-30.0808,-51.0228,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,150.0,224116,224116,2,America/Sao_Paulo,FALSE,1076314777
+Chapecó,Chapeco,Xapecó,-27.0958,-52.6178,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,357.8,224013,224013,2,America/Sao_Paulo,FALSE,1076258255
+Itapevi,Itapevi,Itapevy,-23.5489,-46.9342,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,2702.7,223404,223404,2,America/Sao_Paulo,FALSE,1076008789
+Cabo Frio,Cabo Frio,,-22.8789,-42.0189,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,554.0,221987,221987,2,America/Sao_Paulo,FALSE,1076449553
+Santa Luzia,Santa Luzia,Santa Lúcia,-19.7700,-43.8506,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,880.0,220444,220444,2,America/Sao_Paulo,TRUE,1076123204
+São Leopoldo,Sao Leopoldo,,-29.7600,-51.1469,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,2124.9,217410,217410,2,America/Sao_Paulo,FALSE,1076834293
+Hortolândia,Hortolandia,,-22.8583,-47.2200,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,3465.5,215819,215819,2,America/Sao_Paulo,FALSE,1076591779
+Criciúma,Criciuma,Creciúna|Cresciúma,-28.6775,-49.3697,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,897.0,211369,211369,2,America/Sao_Paulo,FALSE,1076000206
+Sobral,Sobral,Sobrat|Januária de Acaracu,-3.6739,-40.2389,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,99.3,210711,210711,2,America/Fortaleza,FALSE,1076577102
+Santo Agostinho,Santo Agostinho,Nazareth,-8.2897,-35.0300,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,102.2,208944,208944,2,America/Recife,FALSE,1076363089
+Luziânia,Luziania,Santa-Luzia|Luzilândia,-16.2528,-47.9500,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,52.7,208725,208725,2,America/Sao_Paulo,FALSE,1076073549
+Passo Fundo,Passo Fundo,,-28.2500,-52.4000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,263.2,206224,206224,2,America/Sao_Paulo,FALSE,1076763340
+Lauro de Freitas,Lauro de Freitas,,-12.8939,-38.3269,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,3524.8,203334,203334,2,America/Bahia,FALSE,1076003519
+Rio Claro,Rio Claro,,-22.4108,-47.5608,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,404.1,201418,201418,2,America/Sao_Paulo,FALSE,1076411428
+Araçatuba,Aracatuba,,-21.2089,-50.4328,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,171.4,200124,200124,2,America/Sao_Paulo,FALSE,1076630308
+Maricá,Marica,,-22.9189,-42.8189,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,544.3,197300,197300,2,America/Sao_Paulo,FALSE,1076927018
+Sinop,Sinop,,-11.8481,-55.6492,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,49.7,196067,196067,2,America/Cuiaba,FALSE,1076876295
+Nossa Senhora do Socorro,Nossa Senhora do Socorro,Socorro|Contiguiba|Cotingüiba|Soccorro,-10.8550,-37.0592,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,87.2,192330,192330,2,America/Maceio,FALSE,1076881156
+Castanhal,Castanhal,,-1.2969,-47.9219,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,186.8,192262,192262,2,America/Belem,FALSE,1076216938
+Rio Grande,Rio Grande,Rio Grande do Sul|São Pedro do Rio Grande do Sul,-32.0350,-52.0986,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,68.1,191900,191900,2,America/Sao_Paulo,FALSE,1076567920
+Nova Friburgo,Nova Friburgo,,-22.2819,-42.5311,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,203.5,189937,189937,2,America/Sao_Paulo,FALSE,1076922983
+Alvorada,Alvorada,,-29.9897,-51.0833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,2645.3,187315,187315,2,America/Sao_Paulo,FALSE,1076999998
+Itabuna,Itabuna,,-14.7858,-39.2800,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,432.0,186708,186708,2,America/Bahia,FALSE,1076003792
+Cachoeiro de Itapemirim,Cachoeiro de Itapemirim,Cachoeiro do Itapemirim|Cacheiro,-20.8489,-41.1128,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,211.9,185784,185784,2,America/Sao_Paulo,FALSE,1076536175
+Ferraz de Vasconcelos,Ferraz de Vasconcelos,,-23.5411,-46.3689,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,6142.1,184700,184700,2,America/Sao_Paulo,FALSE,1076173995
+Santa Bárbara d’Oeste,Santa Barbara d'Oeste,Santa Barbara|Santa Bárbara do Oeste|Bárbara do Oeste,-22.7544,-47.4142,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,675.3,183347,183347,2,America/Sao_Paulo,FALSE,1076199404
+Jaraguá do Sul,Jaragua do Sul,Jaraguá,-26.4833,-49.0667,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,343.0,182660,182660,2,America/Sao_Paulo,FALSE,1076588128
+Guarapuava,Guarapuava,,-25.3833,-51.4500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,58.5,182093,182093,2,America/Sao_Paulo,FALSE,1076415327
+Ilhéus,Ilheus,São Jorgé dos Ilhéos|Ilhéos,-14.7889,-39.0489,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,112.8,178703,178703,2,America/Bahia,FALSE,1076021121
+Timon,Timon,Flores,-5.0939,-42.8369,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,98.9,174465,174465,2,America/Fortaleza,FALSE,1076758286
+Araguaína,Araguaina,Lontra,-7.1908,-48.2069,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,42.8,171301,171301,2,America/Araguaina,FALSE,1076632868
+Ibirité,Ibirite,,-20.0219,-44.0589,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,2347.8,170387,170387,2,America/Sao_Paulo,FALSE,1076368194
+Barra Mansa,Barra Mansa,,-22.5439,-44.1708,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,310.4,169899,169899,2,America/Sao_Paulo,FALSE,1076686083
+Francisco Morato,Francisco Morato,,-23.2817,-46.7425,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,3422.1,168243,168243,2,America/Sao_Paulo,FALSE,1076808330
+Pôrto Seguro,Porto Seguro,Porto Seguro,-16.4333,-39.0833,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,69.7,167955,167955,2,America/Bahia,FALSE,1076932180
+Angra dos Reis,Angra dos Reis,Angra,-23.0067,-44.3181,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,209.2,167418,167418,2,America/Sao_Paulo,FALSE,1076039737
+Itapecerica da Serra,Itapecerica da Serra,Itapecerica,-23.7172,-46.8494,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1104.2,167236,167236,2,America/Sao_Paulo,FALSE,1076163359
+Itu,Itu,,-23.2642,-47.2992,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,260.8,167095,167095,2,America/Sao_Paulo,FALSE,1076622789
+Linhares,Linhares,,-19.3894,-40.0678,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,47.6,166786,166786,2,America/Sao_Paulo,FALSE,1076355611
+São Caetano do Sul,Sao Caetano do Sul,São Caetano,-23.7000,-46.5500,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,10805.2,165655,165655,2,America/Sao_Paulo,FALSE,1076527920
+Lajes,Lajes,Lages,-27.8158,-50.3258,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,62.4,164981,164981,2,America/Sao_Paulo,FALSE,1076517475
+Teresópolis,Teresopolis,Therezopolis,-22.4119,-42.9658,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,212.5,163746,163746,2,America/Sao_Paulo,FALSE,1076000296
+Poços de Caldas,Pocos de Caldas,Poço Caldas,-21.7878,-46.5608,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,299.3,163742,163742,2,America/Sao_Paulo,FALSE,1076336113
+Parnaíba,Parnaiba,Parnahyba|Pôrto das Barcas|São Joao da Parnahiba|Feitoria|Parnahiba,-2.9050,-41.7769,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,372.3,162159,162159,2,America/Fortaleza,FALSE,1076568871
+Bragança Paulista,Braganca Paulista,Baragança|Bragança,-22.9531,-46.5422,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,312.8,160665,160665,2,America/Sao_Paulo,FALSE,1076245528
+Pindamonhangaba,Pindamonhangaba,,-22.9239,-45.4617,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,220.0,160614,160614,2,America/Sao_Paulo,FALSE,1076937468
+Barreiras,Barreiras,,-12.1483,-44.9925,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,20.2,159743,159743,2,America/Bahia,FALSE,1076854674
+Patos de Minas,Patos de Minas,Patos,-18.5817,-46.5147,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,49.9,159235,159235,2,America/Sao_Paulo,FALSE,1076100026
+Jequié,Jequie,Jiquié,-13.8630,-40.0843,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,52.3,158812,158812,2,America/Bahia,FALSE,1076558785
+Abaetetuba,Abaetetuba,Abaeté,-1.7178,-48.8828,Brazil,BR,BRA,Pará,Para,BR-PA,state,,98.2,158188,158188,2,America/Belem,FALSE,1076974632
+Itapetininga,Itapetininga,Itapetinga,-23.5917,-48.0531,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,92.5,157016,157016,2,America/Sao_Paulo,FALSE,1076425970
+Caxias,Caxias,Caxias das Aldeias Altas,-4.8589,-43.3558,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,30.5,156970,156970,2,America/Fortaleza,FALSE,1076325693
+Rio das Ostras,Rio das Ostras,,-22.5269,-41.9450,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,686.2,156491,156491,2,America/Sao_Paulo,FALSE,1076148122
+Camarajibe,Camarajibe,Camaragibe,-8.0219,-34.9808,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,2814.9,155054,155054,2,America/Recife,FALSE,1076738662
+Santana de Parnaíba,Santana de Parnaiba,Parnaíba|Parnahyba|Sant’Ana-de-Paranaíba,-23.4439,-46.9178,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,838.4,154105,154105,2,America/Sao_Paulo,FALSE,1076401391
+Mogi Guaçu,Mogi Guacu,Mojiguaçu|Mogi-Guaçu|Moji-Guaçu|Mogy Guassú,-22.3719,-46.9419,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,189.1,153661,153661,2,America/Sao_Paulo,FALSE,1076749992
+Pouso Alegre,Pouso Alegre,,-22.2281,-45.9336,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,280.9,152549,152549,2,America/Sao_Paulo,FALSE,1076082333
+Alagoinhas,Alagoinhas,,-12.1358,-38.4189,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,215.3,152327,152327,2,America/Bahia,FALSE,1076155953
+Araucária,Araucaria,,-25.4167,-49.2500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,323.3,151666,151666,2,America/Sao_Paulo,FALSE,1076784908
+Toledo,Toledo,,-24.7139,-53.7428,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,125.7,150470,150470,2,America/Sao_Paulo,FALSE,1076312600
+Santa Rita,Santa Rita,,-7.1139,-34.9778,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,206.3,149910,149910,2,America/Fortaleza,FALSE,1076661082
+Franco da Rocha,Franco da Rocha,Francisco da Rocha,-23.3286,-46.7244,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1088.3,145755,145755,2,America/Sao_Paulo,FALSE,1076071582
+Paço do Lumiar,Paco do Lumiar,,-2.5319,-44.1078,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,1099.9,145643,145643,2,America/Fortaleza,FALSE,1076632637
+Teixeira de Freitas,Teixeira de Freitas,,-17.5403,-39.7437,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,124.6,145223,145223,2,America/Bahia,FALSE,1076918835
+Garanhuns,Garanhuns,,-8.8903,-36.4928,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,310.8,142506,142506,2,America/Recife,FALSE,1076673653
+Trindade,Trindade,,-16.6492,-49.4950,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,200.5,142431,142431,2,America/Sao_Paulo,FALSE,1076815881
+Paranaguá,Paranagua,,-25.5208,-48.5094,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,169.9,140469,140469,2,America/Sao_Paulo,FALSE,1076265266
+Botucatu,Botucatu,,-22.8858,-48.4450,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,94.1,139483,139483,2,America/Sao_Paulo,FALSE,1076113865
+Balneário de Camboriú,Balneario de Camboriu,Balneário|Camboriú,-26.9953,-48.6356,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,929.5,139155,139155,2,America/Sao_Paulo,FALSE,1076385564
+Brusque,Brusque,,-27.0949,-48.9148,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,483.5,137689,137689,2,America/Sao_Paulo,FALSE,1076418225
+Teófilo Otoni,Teofilo Otoni,Theophilo Ottoni,-17.8578,-41.5050,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,42.4,137418,137418,2,America/Sao_Paulo,FALSE,1076465745
+Palhoça,Palhoca,,-27.6444,-48.6678,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,348.0,137334,137334,2,America/Sao_Paulo,FALSE,1076000559
+Atibaia,Atibaia,,-23.1172,-46.5506,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,286.9,137187,137187,2,America/Sao_Paulo,FALSE,1076042485
+Varginha,Varginha,,-21.5517,-45.4300,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,345.1,136467,136467,2,America/Sao_Paulo,FALSE,1076731794
+Campo Largo,Campo Largo,,-25.4589,-49.5278,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,109.1,136327,136327,2,America/Sao_Paulo,FALSE,1076072105
+Cachoeirinha,Cachoeirinha,,-29.9508,-51.0939,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,3095.5,136258,136258,2,America/Sao_Paulo,FALSE,1076573967
+Caraguatatuba,Caraguatatuba,,-23.6200,-45.4128,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,278.1,134875,134875,2,America/Sao_Paulo,FALSE,1076107372
+Salto,Salto,Salto do Itú,-23.2008,-47.2869,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1000.5,134319,134319,2,America/Sao_Paulo,FALSE,1076427264
+Cametá,Cameta,,-2.2439,-49.4958,Brazil,BR,BRA,Pará,Para,BR-PA,state,,43.5,134184,134184,2,America/Belem,FALSE,1076010069
+Vitória de Santo Antão,Vitoria de Santo Antao,Vitória|Victoria,-8.1264,-35.3075,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,399.2,134110,134110,2,America/Recife,FALSE,1076843224
+Marituba,Marituba,Murituba de Baixo,-10.2833,-36.4000,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,5.6,133685,133685,2,America/Maceio,FALSE,1076858443
+Jaú,Jau,Jahú,-22.2958,-48.5578,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,194.3,133497,133497,2,America/Sao_Paulo,FALSE,1076312559
+Santa Cruz do Sul,Santa Cruz do Sul,Santa Cruz,-29.7178,-52.4258,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,181.6,133230,133230,2,America/Sao_Paulo,FALSE,1076862896
+Crato,Crato,Vila Real do Crato,-7.2339,-39.4089,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,113.1,133031,133031,2,America/Fortaleza,FALSE,1076894967
+São Mateus,Sao Mateus,São Matheus,-18.7158,-39.8589,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,56.5,132642,132642,2,America/Sao_Paulo,FALSE,1076829621
+Cubatão,Cubatao,,-23.8953,-46.4256,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,925.1,131626,131626,2,America/Sao_Paulo,FALSE,1076384228
+Conselheiro Lafaiete,Conselheiro Lafaiete,Lafaiete|Conselheiro Lafayete,-20.6600,-43.7858,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,355.5,131621,131621,2,America/Sao_Paulo,FALSE,1076456009
+Ji-Paraná,Ji-Parana,,-10.8853,-61.9517,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,3.1,131560,131560,2,America/Porto_Velho,FALSE,1076313540
+Itapipoca,Itapipoca,Imperatriz,-3.4939,-39.5789,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,81.2,131123,131123,2,America/Fortaleza,FALSE,1076980375
+Araras,Araras,,-22.3572,-47.3844,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,202.9,130866,130866,2,America/Sao_Paulo,FALSE,1076656148
+Apucarana,Apucarana,,-23.5508,-51.4608,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,233.1,130134,130134,2,America/Sao_Paulo,FALSE,1076256387
+Vespasiano,Vespasiano,Vespa,-19.6919,-43.9228,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,1.9,129765,129765,2,America/Sao_Paulo,FALSE,1076342199
+Araruama,Araruama,,-22.8728,-42.3428,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,204.6,129669,129669,2,America/Sao_Paulo,FALSE,1076900900
+Sabará,Sabara,,-19.8858,-43.8069,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,428.1,129372,129372,2,America/Sao_Paulo,FALSE,1076006379
+Bragança,Braganca,,-1.0628,-46.7728,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,61.4,128914,128914,2,America/Belem,FALSE,1076855072
+Votorantim,Votorantim,Voturantim,-23.5469,-47.4378,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,695.2,127923,127923,2,America/Sao_Paulo,FALSE,1076604064
+Sertãozinho,Sertaozinho,,-21.1381,-47.9906,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,303.0,126887,126887,2,America/Sao_Paulo,FALSE,1076989194
+Barcarena Nova,Barcarena Nova,Barcarena,-1.5058,-48.6258,Brazil,BR,BRA,Pará,Para,BR-PA,state,,96.7,126650,126650,2,America/Belem,FALSE,1076791102
+Jandira,Jandira,,-23.5278,-46.9028,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,7210.9,126356,126356,2,America/Sao_Paulo,FALSE,1076873964
+Valinhos,Valinhos,Vallinhos,-22.9706,-46.9958,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,850.5,126325,126325,2,America/Sao_Paulo,FALSE,1076809155
+Altamira,Altamira,,-3.2028,-52.2058,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,0.8,126279,126279,2,America/Santarem,FALSE,1076710878
+Barbacena,Barbacena,,-21.2167,-43.7667,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,165.1,125317,125317,2,America/Sao_Paulo,FALSE,1076877003
+Resende,Resende,Rezende,-22.4689,-44.4469,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,112.5,125214,125214,2,America/Sao_Paulo,FALSE,1076678781
+Guarapari,Guarapari,Guarapary,-20.6500,-40.5000,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,210.5,124656,124656,2,America/Sao_Paulo,FALSE,1076076726
+Itaituba,Itaituba,,-4.2758,-55.9839,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2.0,123312,123312,2,America/Santarem,FALSE,1076849673
+Três Lagoas,Tres Lagoas,Lagoas,-20.7511,-51.6783,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,12.1,123281,123281,2,America/Campo_Grande,FALSE,1076281782
+Bento Gonçalves,Bento Goncalves,,-29.1708,-51.5189,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,449.5,123151,123151,2,America/Sao_Paulo,FALSE,1076492877
+Itatiba,Itatiba,,-23.0058,-46.8389,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,380.4,122581,122581,2,America/Sao_Paulo,FALSE,1076747401
+Barretos,Barretos,,-20.5569,-48.5678,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,78.4,122485,122485,2,America/Sao_Paulo,FALSE,1076042195
+Almirante Tamandaré,Almirante Tamandare,Tamandaré|Timoneira|Timaneira,-25.3250,-49.3100,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,107.5,119825,119825,2,America/Sao_Paulo,FALSE,1076372357
+Arapongas,Arapongas,Araponga,-23.4189,-51.4239,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,311.7,119138,119138,2,America/Sao_Paulo,FALSE,1076623771
+Guaratinguetá,Guaratingueta,,-22.8167,-45.2278,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,158.5,119073,119073,2,America/Sao_Paulo,FALSE,1076125544
+Birigui,Birigui,Biriguy,-21.2886,-50.3400,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,224.2,118979,118979,2,America/Sao_Paulo,FALSE,1076546798
+Piraquara,Piraquara,Piraguara,-25.4419,-49.0628,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,521.8,118730,118730,2,America/Sao_Paulo,FALSE,1076240504
+Senador Canedo,Senador Canedo,,-16.7594,-49.0864,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,484.1,118451,118451,2,America/Sao_Paulo,FALSE,1076337498
+Bagé,Bage,Bajé,-31.3308,-54.1069,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,28.8,117938,117938,2,America/Sao_Paulo,FALSE,1076515015
+Araguari,Araguari,Araguary|Araguar,-18.6489,-48.1869,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,43.1,117808,117808,2,America/Sao_Paulo,FALSE,1076402865
+Uruguaiana,Uruguaiana,Uruguayana,-29.7550,-57.0878,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,20.5,117210,117210,2,America/Sao_Paulo,FALSE,1076680267
+Umuarama,Umuarama,,-23.7658,-53.3250,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,95.0,117095,117095,2,America/Sao_Paulo,FALSE,1076793612
+Tatuí,Tatui,Tatuhy,-23.3556,-47.8569,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,222.9,116682,116682,2,America/Sao_Paulo,FALSE,1076587962
+São Gonçalo do Amarante,Sao Goncalo do Amarante,São Gonçalo|Filipe Camarão|Felipe Camarão,-5.7928,-35.3289,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,465.0,115838,115838,2,America/Fortaleza,FALSE,1076732684
+Catanduva,Catanduva,,-21.1378,-48.9728,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,398.4,115785,115785,2,America/Sao_Paulo,FALSE,1076772178
+Várzea Paulista,Varzea Paulista,Secundino Veiga,-23.2114,-46.8283,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,3343.4,115771,115771,2,America/Sao_Paulo,FALSE,1076046083
+Formosa,Formosa,,-15.5369,-47.3339,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,19.9,115669,115669,2,America/Sao_Paulo,FALSE,1076601172
+Ribeirão Pires,Ribeirao Pires,,-23.7153,-46.4194,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1165.2,115559,115559,2,America/Sao_Paulo,FALSE,1076050419
+Igarassu,Igarassu,Iguaraçu|Igaraçu|Iguarassú,-7.8342,-34.9064,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,377.0,115196,115196,2,America/Recife,FALSE,1076739866
+Simões Filho,Simoes Filho,,-12.7839,-38.4039,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,595.5,114441,114441,2,America/Bahia,FALSE,1076003150
+Catalão,Catalao,,-18.1700,-47.9419,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,30.3,114427,114427,2,America/Sao_Paulo,FALSE,1076169871
+Codó,Codo,Urubu,-4.4550,-43.8858,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,26.2,114269,114269,2,America/Fortaleza,FALSE,1076537068
+Poá,Poa,,-23.5286,-46.3450,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,6503.9,113793,113793,2,America/Sao_Paulo,FALSE,1076905631
+Euriápolis,Euriapolis,Eunópolis,-16.3778,-39.5800,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,96.4,113709,113709,2,America/Bahia,FALSE,1076770753
+Itabira,Itabira,Itabira de Mato Dentro|Presidente Vargas|Itabira de Matto Dentro,-19.6189,-43.2269,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,90.4,113343,113343,2,America/Sao_Paulo,FALSE,1076783407
+Paulo Afonso,Paulo Afonso,Brejo|Barra,-9.4000,-38.2250,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,71.4,112870,112870,2,America/Bahia,FALSE,1076084498
+Passos,Passos,,-20.7189,-46.6100,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,minor,83.6,111939,111939,2,America/Sao_Paulo,FALSE,1076782492
+Colatina,Colatina,Collatina,-19.5389,-40.6308,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,78.5,111788,111788,2,America/Sao_Paulo,FALSE,1076751743
+Nova Lima,Nova Lima,,-19.9858,-43.8469,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,260.7,111697,111697,2,America/Sao_Paulo,FALSE,1076876220
+Araxá,Araxa,,-19.5928,-46.9408,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,minor,95.9,111691,111691,2,America/Sao_Paulo,FALSE,1076259402
+São Lourenço da Mata,Sao Lourenco da Mata,São Lourenço|São Lourenço da Matta,-8.0019,-35.0178,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,420.8,111243,111243,2,America/Recife,FALSE,1076714150
+Ariquemes,Ariquemes,Arikemes,-9.9161,-63.0408,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,25.1,111148,111148,2,America/Porto_Velho,FALSE,1076442639
+Sorriso,Sorriso,,-12.5450,-55.7108,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,11.8,110635,110635,2,America/Cuiaba,FALSE,1076873169
+Tubarão,Tubarao,,-28.4667,-49.0069,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,364.8,110088,110088,2,America/Sao_Paulo,FALSE,1076663243
+Itumbiara,Itumbiara,Paranaíba|Santa Rita do Paranaiha|Santa Rita do Paranaíba|Santa Rita do Paranaib|Santa Rita|Santa Rita do Paranahyba,-18.4167,-49.2167,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,43.9,107970,107970,2,America/Sao_Paulo,FALSE,1076693747
+Balsas,Balsas,Santo Antonio de Balsas|Sant’ Antonio de Balsas,-7.5272,-46.0442,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,8.2,107767,107767,2,America/Fortaleza,FALSE,1076067021
+Santana,Santana,Pôrto|Pôrto Santana|Pôrto de Santana,-0.0350,-51.8528,Brazil,BR,BRA,Amapá,Amapa,BR-AP,state,minor,68.1,107373,107373,2,America/Belem,FALSE,1076974952
+Cambé,Cambe,Nova Dantzig,-23.2758,-51.2778,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,14.5,107208,107208,2,America/Sao_Paulo,FALSE,1076233235
+Açailandia,Acailandia,,-4.9469,-47.5050,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,18.4,106550,106550,2,America/Fortaleza,FALSE,1076993685
+São Pedro da Aldeia,Sao Pedro da Aldeia,São Pedro d’Aldeia,-22.8389,-42.1028,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,6174.4,106049,106049,2,America/Sao_Paulo,FALSE,1076616321
+Jataí,Jatai,Jatahy,-17.8808,-51.8306,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,14.7,105729,105729,2,America/Sao_Paulo,FALSE,1076908960
+Erechim,Erechim,José Bonifacio|Erexim|Bôa Vista do Erechim|Paiol Grande|Erequim,-27.6339,-52.2739,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,245.4,105705,105705,2,America/Sao_Paulo,FALSE,1076359548
+Nova Serrana,Nova Serrana,Cercado,-19.8667,-44.9833,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,372.8,105552,105552,2,America/Sao_Paulo,FALSE,1076026436
+Japeri,Japeri,,-22.6431,-43.6533,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,1280.1,105548,105548,2,America/Sao_Paulo,FALSE,1076331274
+Paragominas,Paragominas,,-2.9958,-47.3528,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,5.5,105538,105538,2,America/Belem,FALSE,1076557071
+Lagarto,Lagarto,,-10.9169,-37.6500,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,108.6,105221,105221,2,America/Maceio,FALSE,1076051433
+Maranguape,Maranguape,,-3.8900,-38.6858,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,177.9,105093,105093,2,America/Fortaleza,FALSE,1076845536
+Planaltina,Planaltina,Alta Mir|Altamira,-15.4528,-47.6139,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,41.3,105031,105031,2,America/Sao_Paulo,FALSE,1076186542
+Lavras,Lavras,,-21.2450,-45.0000,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,185.5,104761,104761,2,America/Sao_Paulo,FALSE,1076751259
+Coronel Fabriciano,Coronel Fabriciano,,-19.5189,-42.6289,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,473.4,104736,104736,2,America/Sao_Paulo,FALSE,1076563450
+Muriaé,Muriae,Murriae|Muriahé|Murihe,-21.1306,-42.3664,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,123.4,104108,104108,2,America/Sao_Paulo,FALSE,1076003733
+Ourinhos,Ourinhos,,-22.9744,-49.8719,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,351.0,103970,103970,2,America/Sao_Paulo,FALSE,1076551408
+Bacabal,Bacabal,,-4.2250,-44.7800,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,61.6,103711,103711,2,America/Fortaleza,FALSE,1076125117
+Itacoatiara,Itacoatiara,Serpa|Serpa|Itaquatiara,-3.1428,-58.4439,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,11.7,103598,103598,2,America/Manaus,FALSE,1076759384
+Breves,Breves,,-1.6819,-50.4800,Brazil,BR,BRA,Pará,Para,BR-PA,state,,10.8,103497,103497,2,America/Belem,FALSE,1076061751
+Ubá,Uba,,-21.1200,-42.9428,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,253.7,103365,103365,2,America/Sao_Paulo,FALSE,1076389529
+Patos,Patos,,-7.0244,-37.2800,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,201.2,103165,103165,2,America/Fortaleza,FALSE,1076232522
+Itanhaém,Itanhaem,Itanhaen|Nossa Senhora da Conceição de Itanhaém,-24.1806,-46.7828,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,171.3,103102,103102,2,America/Sao_Paulo,FALSE,1076274068
+Aracruz,Aracruz,Sauaçu,-19.8200,-40.2728,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,72.4,103101,103101,2,America/Sao_Paulo,FALSE,1076506817
+Iguatu,Iguatu,Telha,-6.3589,-39.2989,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,9278.0,103074,103074,2,America/Fortaleza,FALSE,1076734026
+Camboriú,Camboriu,,-27.0250,-48.6539,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,480.5,103074,103074,2,America/Sao_Paulo,FALSE,1076088300
+Santo Antônio de Jesus,Santo Antonio de Jesus,,-12.9692,-39.2611,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,383.4,103055,103055,2,America/Bahia,FALSE,1076231231
+Caieiras,Caieiras,,-23.3644,-46.7408,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1052.6,102775,102775,2,America/Sao_Paulo,FALSE,1076000967
+Ituiutaba,Ituiutaba,Ituyutaba,-18.9667,-49.4667,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,39.3,102217,102217,2,America/Sao_Paulo,FALSE,1076873111
+Assis,Assis,Assiz,-22.6619,-50.4119,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,219.6,101409,101409,2,America/Sao_Paulo,FALSE,1076782502
+Itaperuna,Itaperuna,,-21.2050,-41.8878,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,91.4,101041,101041,2,America/Sao_Paulo,FALSE,1076348886
+Campo Mourão,Campo Mourao,Mourão,-24.0458,-52.3828,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,131.3,99432,99432,3,America/Sao_Paulo,FALSE,1076799533
+Caldas Novas,Caldas Novas,,-17.7450,-48.6250,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,62.0,98622,98622,3,America/Sao_Paulo,FALSE,1076906502
+Manacapuru,Manacapuru,,-3.2997,-60.6206,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,12.85,98502,98502,3,America/Manaus,FALSE,1076484341
+Abreu e Lima,Abreu e Lima,Abreue Lima|Maricota,-7.9117,-34.9028,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,781.5,98462,98462,3,America/Recife,FALSE,1076355835
+Santa Cruz do Capibaribe,Santa Cruz do Capibaribe,Santa Cruz|Capibaribe,-7.9569,-36.2050,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,292.8,98254,98254,3,America/Recife,FALSE,1076235057
+Leme,Leme,,-22.1861,-47.3906,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,0.2,98145,98145,3,America/Sao_Paulo,FALSE,1076542731
+Valença,Valenca,,-13.3700,-39.0690,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,6915.9,97873,97873,2,America/Bahia,FALSE,1076455406
+Paulínia,Paulinia,,-22.7611,-47.1542,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,701.2,97702,97702,3,America/Sao_Paulo,FALSE,1076327352
+Itaúna,Itauna,,-20.0750,-44.5758,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,100.9,97669,97669,3,America/Sao_Paulo,FALSE,1076321811
+Ipojuca,Ipojuca,Pojuca,-8.4000,-35.0639,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,143.2,97669,97669,3,America/Recife,FALSE,1076800536
+Lajeado,Lajeado,Lageado|Costão,-29.4669,-51.9608,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,1081.5,97432,97432,3,America/Sao_Paulo,FALSE,1076361223
+Pará de Minas,Para de Minas,Pará,-19.8600,-44.6078,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,176.3,97139,97139,3,America/Sao_Paulo,FALSE,1076626301
+Francisco Beltrão,Francisco Beltrao,,-26.0833,-53.0500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,131.5,96666,96666,3,America/Sao_Paulo,FALSE,1076112162
+Votuporanga,Votuporanga,,-20.4172,-49.9728,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,227.9,96634,96634,3,America/Sao_Paulo,FALSE,1076423091
+Parintins,Parintins,,-2.6278,-56.7358,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,16.2,96372,96372,3,America/Manaus,FALSE,1076090375
+Corumbá,Corumba,,-19.0089,-57.6528,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,minor,1.5,96268,96268,3,America/Campo_Grande,FALSE,1076131775
+Itabaiana,Itabaiana,,-10.6850,-37.4250,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,285.6,96142,96142,3,America/Maceio,FALSE,1076643218
+Vilhena,Vilhena,,-12.7406,-60.1458,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,8.3,95832,95832,3,America/Porto_Velho,FALSE,1076196581
+São Cristóvão,Sao Cristovao,São Christovão,-11.0150,-37.2058,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,218.9,95612,95612,3,America/Maceio,FALSE,1076642686
+Paracatu,Paracatu,,-17.2217,-46.8750,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,11.4,94017,94017,3,America/Sao_Paulo,FALSE,1076347421
+Ponta Porã,Ponta Pora,,-22.5358,-55.7258,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,15.716,93937,93937,3,America/Campo_Grande,FALSE,1076647935
+Rio Largo,Rio Largo,,-9.4778,-35.8528,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,314.0,93927,93927,3,America/Maceio,FALSE,1076018887
+Mairiporã,Mairipora,Maipora|Juquery|Juqueri,-23.3189,-46.5869,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,291.9,93617,93617,3,America/Sao_Paulo,FALSE,1076161359
+Itajubá,Itajuba,,-22.4258,-45.4528,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,320.4,93073,93073,3,America/Sao_Paulo,FALSE,1076423300
+Ubatuba,Ubatuba,,-23.4394,-45.0700,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,128.5,92980,92980,3,America/Sao_Paulo,FALSE,1076510903
+Guaíba,Guaiba,,-30.1183,-51.3214,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,246.5,92924,92924,3,America/Sao_Paulo,FALSE,1076594929
+Barra do Piraí,Barra do Pirai,Barra do Pirahy|Barra do Parai,-22.4700,-43.8258,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,160.6,92883,92883,3,America/Sao_Paulo,FALSE,1076997923
+Mogi Mirim,Mogi Mirim,Moji Mirim|Mogi-Mirim|Moji-Mirim|Mogy-Mirim|Mojimirim,-22.4319,-46.9578,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,185.5,92559,92559,3,America/Sao_Paulo,FALSE,1076719683
+São João da Boa Vista,Sao Joao da Boa Vista,,-21.9692,-46.7981,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,179.3,92535,92535,3,America/Sao_Paulo,FALSE,1076459561
+Serra Talhada,Serra Talhada,Villa Bella|Vila Bela,-7.9833,-38.3000,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,30.9,92228,92228,3,America/Recife,FALSE,1076913729
+São Roque,Sao Roque,,-23.5292,-47.1353,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,300.0,92060,92060,3,America/Sao_Paulo,TRUE,1076621665
+Cruzeiro do Sul,Cruzeiro do Sul,Juruá,-7.6308,-72.6700,Brazil,BR,BRA,Acre,Acre,BR-AC,state,minor,11.6,91888,91888,3,America/Rio_Branco,FALSE,1076881427
+Pato Branco,Pato Branco,,-26.2167,-52.6667,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,170.3,91836,91836,3,America/Sao_Paulo,FALSE,1076958036
+Tucuruí,Tucurui,Alcobaça,-3.7678,-49.6728,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,43.8,91306,91306,3,America/Belem,FALSE,1076000076
+Avaré,Avare,,-23.0989,-48.9258,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,75.2,91232,91232,3,America/Sao_Paulo,FALSE,1076118860
+Manhuaçu,Manhuacu,Manhuassú,-20.2581,-42.0336,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,145.3,91169,91169,3,America/Sao_Paulo,FALSE,1076000444
+Caçapava,Cacapava,,-23.1008,-45.7069,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,246.4,91162,91162,3,America/Sao_Paulo,FALSE,1076289420
+São João del Rei,Sao Joao del Rei,São José del Rey,-21.1358,-44.2600,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,62.1,90225,90225,3,America/Sao_Paulo,FALSE,1076559413
+Patrocínio,Patrocinio,,-18.9333,-46.9833,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,31.3,89826,89826,3,America/Sao_Paulo,FALSE,1076001071
+Itapeva,Itapeva,Faxina,-23.9822,-48.8756,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,49.1,89728,89728,3,America/Sao_Paulo,TRUE,1076767110
+Saquarema,Saquarema,,-22.9200,-42.5100,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,253.3,89559,89559,3,America/Sao_Paulo,FALSE,1076235078
+Cáceres,Caceres,São Luís de Cáceres|Vila Maria|São Luiz de Cáceres|São Luís do Paraguai,-16.0711,-57.6789,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,,3.7,89478,89478,3,America/Cuiaba,FALSE,1076422654
+Barra do Corda,Barra do Corda,,-5.5000,-45.2500,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,4272.0,88492,88492,2,America/Fortaleza,FALSE,1076745135
+Guanambi,Guanambi,Guanamby,-14.2228,-42.7808,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,67.7,87817,87817,3,America/Bahia,FALSE,1076791780
+Caratinga,Caratinga,,-19.7833,-42.1333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,69.4,87360,87360,3,America/Sao_Paulo,FALSE,1076504581
+Lorena,Lorena,,-22.7308,-45.1247,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,210.7,87178,87178,3,America/Sao_Paulo,FALSE,1076493589
+Cacoal,Cacoal,Cacual,-11.4386,-61.4472,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,22.9,86895,86895,3,America/Porto_Velho,FALSE,1076046408
+Unaí,Unai,Capim Branco|Unahy,-16.3639,-46.9042,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,10.3,86619,86619,3,America/Sao_Paulo,FALSE,1076438683
+Gravatá,Gravata,,-8.1997,-35.5667,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,168.5,86516,86516,3,America/Recife,FALSE,1076214495
+Navegantes,Navegantes,,-26.8989,-48.6539,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,775.2,86401,86401,3,America/Sao_Paulo,FALSE,1076398974
+Redenção,Redencao,,-8.0289,-50.0308,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,22.4,85597,85597,3,America/Belem,FALSE,1076392685
+Gurupi,Gurupi,,-11.7300,-49.0689,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,46.4,85126,85126,3,America/Araguaina,FALSE,1076649238
+Araripina,Araripina,São Gonçalo,-7.5500,-40.5667,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,46.1,85088,85088,3,America/Recife,FALSE,1076945288
+Santa Inês,Santa Ines,Inês,-3.6689,-45.3839,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,141.6,85014,85014,3,America/Fortaleza,FALSE,1076053036
+Ijuí,Ijui,Ijuhy,-28.3878,-53.9150,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,122.9,84726,84726,3,America/Sao_Paulo,FALSE,1076683915
+Pinheiro,Pinheiro,Pinheiros,-2.5208,-45.0828,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,57.7,84614,84614,3,America/Fortaleza,FALSE,1076349995
+Santana do Livramento,Santana do Livramento,Livramento|Sant’Anna do Livramento,-30.8775,-55.5331,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,12.1,84421,84421,3,America/Sao_Paulo,FALSE,1076271841
+Carpina,Carpina,,-7.8508,-35.2547,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,577.7,84395,84395,3,America/Recife,FALSE,1076005200
+Quixadá,Quixada,,-4.9690,-39.0130,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,41.7,84165,84165,3,America/Fortaleza,FALSE,1076173437
+Arujá,Aruja,Urujá,-23.3967,-46.3211,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,872.8,83939,83939,3,America/Sao_Paulo,FALSE,1076436872
+Lucas do Rio Verde,Lucas do Rio Verde,Francisco Lucas|Lucas,-13.0719,-55.9192,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,23.0,83798,83798,3,America/Cuiaba,FALSE,1076459192
+Matão,Matao,Mattão,-21.6028,-48.3658,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,159.3,83626,83626,3,America/Sao_Paulo,FALSE,1076497431
+São Bento do Sul,Sao Bento do Sul,Serra Alta|São Bento,-26.2500,-49.3833,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,168.0,83275,83275,3,America/Sao_Paulo,FALSE,1076190456
+Serrinha,Serrinha,,-11.6610,-39.0070,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,3455.6,83275,83275,2,America/Bahia,FALSE,1076832200
+Picos,Picos,,-7.0769,-41.4669,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,155.3,83090,83090,3,America/Fortaleza,FALSE,1076752928
+Moju,Moju,,-1.8900,-48.7661,Brazil,BR,BRA,Pará,Para,BR-PA,state,,9.1,83039,83039,3,America/Belem,FALSE,1076020210
+Bayeux,Bayeux,,-7.1333,-34.9333,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,2587.9,82742,82742,2,America/Fortaleza,FALSE,1076607187
+Jacobina,Jacobina,,-11.1808,-40.5178,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,35.6,82590,82590,3,America/Bahia,FALSE,1076049373
+Cruzeiro,Cruzeiro,,-22.5772,-44.9583,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,271.6,82571,82571,3,America/Sao_Paulo,FALSE,1076421054
+Macaíba,Macaiba,Macahyba,-5.8578,-35.3539,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,160.4,82212,82212,3,America/Fortaleza,FALSE,1076176042
+Quixeramobim,Quixeramobim,Santo Antônio do Bogueirão de Quixeramobim|Nova Vila do Campo Maior,-5.2000,-39.2833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,25.1,82122,82122,3,America/Fortaleza,FALSE,1076495439
+Concórdia,Concordia,,-27.2339,-52.0278,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,102.1,81646,81646,3,America/Sao_Paulo,FALSE,1076922195
+Paranavaí,Paranavai,Paranvaí|Fazenda Ivaí,-23.0728,-52.4650,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,67.9,81590,81590,3,America/Sao_Paulo,FALSE,1076424384
+Timóteo,Timoteo,Timothea,-19.5828,-42.6439,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,565.0,81579,81579,3,America/Sao_Paulo,FALSE,1076541844
+São Sebastião,Sao Sebastiao,,-23.8078,-45.4027,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,204.0,81540,81540,3,America/Sao_Paulo,TRUE,1076889310
+Chapadinha,Chapadinha,,-3.7419,-43.3600,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,25.1,81386,81386,3,America/Fortaleza,FALSE,1076901443
+Pacatuba,Pacatuba,,-3.9839,-38.6200,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,613.5,81238,81238,3,America/Fortaleza,FALSE,1076428186
+Campo Limpo,Campo Limpo,Campo Limpo Paulista,-23.2064,-46.7844,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1010.0,80847,80847,3,America/Sao_Paulo,FALSE,1076459810
+Curvelo,Curvelo,Curvello,-18.7558,-44.4308,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,24.5,80616,80616,3,America/Sao_Paulo,FALSE,1076253887
+Seropédica,Seropedica,,-22.7439,-43.7078,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,284.0,80596,80596,3,America/Sao_Paulo,FALSE,1076073491
+Aquiraz,Aquiraz,,-3.9000,-38.3831,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,166.8,80243,80243,3,America/Fortaleza,FALSE,1076523331
+Cachoeira do Sul,Cachoeira do Sul,Cachoeira,-30.0392,-52.8939,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,21.4,80070,80070,3,America/Sao_Paulo,FALSE,1076336795
+Goiana,Goiana,Goyanna,-7.5608,-35.0028,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,150.72,80055,80055,3,America/Recife,FALSE,1076692421
+Cianorte,Cianorte,,-23.6167,-52.6167,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,98.0,79527,79527,3,America/Sao_Paulo,FALSE,1076944079
+Belo Jardim,Belo Jardim,Bello Jardim,-8.3358,-36.4239,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,122.8,79507,79507,3,America/Recife,FALSE,1076631616
+Viana,Viana,Jabaeté|Vianna,-20.3900,-40.3625,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,255.1,79500,79500,3,America/Sao_Paulo,FALSE,1076304289
+Senhor do Bonfim,Senhor do Bonfim,Bonfim|Bomfim,-10.4500,-40.1833,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,7332.4,79424,79424,2,America/Bahia,FALSE,1076513309
+Caçador,Cacador,Rio Caçador,-26.7750,-51.0150,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,80.6,79313,79313,3,America/Sao_Paulo,TRUE,1076703793
+Ceará-Mirim,Ceara-Mirim,,-5.6333,-35.4333,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,107.0,79115,79115,3,America/Fortaleza,FALSE,1076913277
+Alfenas,Alfenas,,-21.4333,-45.9500,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,92.9,78970,78970,3,America/Sao_Paulo,FALSE,1076300425
+Três Rios,Tres Rios,Entre-Rios,-22.1169,-43.2089,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,240.3,78346,78346,3,America/Sao_Paulo,FALSE,1076943829
+Bebedouro,Bebedouro,,-20.9494,-48.4792,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,113.7,77627,77627,3,America/Sao_Paulo,FALSE,1076045128
+Santa Rosa,Santa Rosa,,-27.8670,-54.4670,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,158.3,77519,77519,3,America/Sao_Paulo,FALSE,1076071027
+Santo Ângelo,Santo Angelo,,-28.2833,-54.2500,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,113.0,76917,76917,3,America/Sao_Paulo,FALSE,1076113692
+Valença,Valenca,Marquês de Valença,-22.2458,-43.7000,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,58.9,76869,76869,3,America/Sao_Paulo,FALSE,1076574787
+Vinhedo,Vinhedo,Rocinha,-23.0300,-46.9750,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,937.9,76663,76663,3,America/Sao_Paulo,FALSE,1076383405
+Tianguá,Tiangua,Barracão,-3.7333,-40.9833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,395.1,76537,76537,3,America/Fortaleza,FALSE,1076661273
+Ibiúna,Ibiuna,Una,-23.6564,-47.2225,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,72.1,76432,76432,3,America/Sao_Paulo,FALSE,1076173752
+Crateús,Crateus,Piranhas|Príncipe Imperial|Cratheús,-5.1770,-40.6680,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,25.6,76390,76390,3,America/Fortaleza,FALSE,1076897989
+Esteio,Esteio,,-29.8608,-51.1789,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,2764.3,76137,76137,2,America/Sao_Paulo,FALSE,1076924823
+Lins,Lins,Albuquerque Lins,-21.6786,-49.7425,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,133.5,76092,76092,3,America/Sao_Paulo,FALSE,1076798294
+Sapiranga,Sapiranga,Sapyranga,-29.6333,-51.0000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,550.1,75648,75648,3,America/Sao_Paulo,FALSE,1076553484
+Cataguases,Cataguases,Cataguazes,-21.4000,-42.6833,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,153.5,75540,75540,3,America/Sao_Paulo,FALSE,1076169159
+Três Corações,Tres Coracoes,,-21.6947,-45.2553,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,91.2,75485,75485,3,America/Sao_Paulo,FALSE,1076131585
+Itapira,Itapira,,-22.4361,-46.8217,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,145.4,75234,75234,3,America/Sao_Paulo,FALSE,1076706166
+Lagoa Santa,Lagoa Santa,,-19.6269,-43.8900,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,323.9,75145,75145,3,America/Sao_Paulo,FALSE,1076169949
+Aracati,Aracati,Aracaty,-4.5619,-37.7700,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,61.1,75112,75112,3,America/Fortaleza,FALSE,1076708817
+Telêmaco Borba,Telemaco Borba,,-24.3500,-50.6167,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,54.3,75042,75042,3,America/Sao_Paulo,FALSE,1076867165
+Piraçununga,Piracununga,Pirassinunga|Pirassununga,-21.9961,-47.4258,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,102.6,74587,74587,3,America/Sao_Paulo,FALSE,1076467647
+Ouro Prêto,Ouro Preto,Ouro Preto,-20.3853,-43.5036,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,59.8,74558,74558,3,America/Sao_Paulo,FALSE,1076240779
+Canindé,Caninde,Caninae,-4.3586,-39.3140,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,23.0,74174,74174,3,America/Fortaleza,FALSE,1076519156
+Tefé,Tefe,Teffé|Ega,-3.3539,-64.7108,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,3.1,73669,73669,3,America/Manaus,FALSE,1076049089
+João Monlevade,Joao Monlevade,Monlevade|João,-19.8100,-43.1739,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,714.9,73610,73610,3,America/Sao_Paulo,FALSE,1076127295
+Irecê,Irece,,-11.3039,-42.8558,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,0.2,73524,73524,3,America/Bahia,FALSE,1076348562
+Pacajus,Pacajus,Guarany|Guarani,-4.1667,-38.4667,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,7324.3,73188,73188,2,America/Fortaleza,FALSE,1076601122
+Santa Isabel do Pará,Santa Isabel do Para,Santa Isabel|João-Coelho,-1.2667,-48.1833,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,101.8,73019,73019,3,America/Belem,FALSE,1076463384
+Russas,Russas,Ruças|São Bernardo das Russas,-4.9400,-37.9758,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,45.8,72928,72928,3,America/Fortaleza,FALSE,1076843360
+Amparo,Amparo,,-22.7031,-46.7650,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,162.9,72677,72677,3,America/Sao_Paulo,FALSE,1076656250
+Cascavel,Cascavel,,-4.1308,-38.2358,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,86.7,72626,72626,3,America/Fortaleza,FALSE,1076629714
+Rio do Sul,Rio do Sul,Rio Sul|Itajahy do Sul,-27.2167,-49.6500,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,278.1,72587,72587,3,America/Sao_Paulo,FALSE,1076530229
+Gaspar,Gaspar,,-26.9333,-48.9667,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,187.6,72570,72570,3,America/Sao_Paulo,FALSE,1076754588
+Esmeraldas,Esmeraldas,Santa Quiteria,-19.7628,-44.3139,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,79.7,72512,72512,3,America/Sao_Paulo,FALSE,1076007995
+Alegrete,Alegrete,,-29.7838,-55.7910,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,0.7,72409,72409,3,America/Sao_Paulo,FALSE,1076174745
+Candeias,Candeias,Nossa Senhora das Candeias,-12.6678,-38.5508,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,273.7,72382,72382,3,America/Bahia,FALSE,1076438209
+Santo Antônio do Descoberto,Santo Antonio do Descoberto,,-15.9436,-48.2594,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,76.9,72134,72134,3,America/Sao_Paulo,FALSE,1076123384
+Casa Nova,Casa Nova,São José da Casa Nova,-9.1619,-40.9708,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,7.5,72085,72085,3,America/Bahia,FALSE,1076947710
+Araranguá,Ararangua,Campinas,-28.9350,-49.4858,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,minor,237.1,71922,71922,3,America/Sao_Paulo,FALSE,1076532332
+Goianira,Goianira,São Geraldo,-16.5067,-49.4239,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,344.0,71916,71916,3,America/Sao_Paulo,FALSE,1076457587
+Jabuticabal,Jabuticabal,Jaboticabal,-21.2547,-48.3222,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,101.6,71821,71821,3,America/Sao_Paulo,FALSE,1076368201
+Castro,Castro,,-24.7908,-50.0119,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,611.7,71809,71809,3,America/Sao_Paulo,FALSE,1076233349
+Cajamar,Cajamar,Água Fria,-23.3561,-46.8769,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1463.7,71805,71805,3,America/Sao_Paulo,FALSE,1076369653
+São Sebastião do Paraíso,Sao Sebastiao do Paraiso,São Sebastião do Paraizo|São Sebastião Paraíso,-20.9169,-46.9908,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,88.1,71796,71796,3,America/Sao_Paulo,FALSE,1076022954
+Palmeira dos Índios,Palmeira dos Indios,Palmeira Dos Indos,-9.4069,-36.6278,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,155.4,71574,71574,3,America/Maceio,FALSE,1076723276
+Indaial,Indaial,Indaval,-26.8978,-49.2319,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,166.2,71549,71549,3,America/Sao_Paulo,FALSE,1076950422
+Dias d’Ávila,Dias d'Avila,,-12.6128,-38.2969,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,388.0,71485,71485,3,America/Bahia,FALSE,1076290338
+Campo Formoso,Campo Formoso,,-10.5089,-40.3208,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,9833.5,71377,71377,2,America/Bahia,FALSE,1076847580
+Fernandópolis,Fernandopolis,,-20.2839,-50.2458,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,129.4,71186,71186,3,America/Sao_Paulo,FALSE,1076205721
+Goianésia,Goianesia,,-15.3239,-49.1189,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,45.9,71075,71075,3,America/Sao_Paulo,FALSE,1076636505
+Coari,Coari,Quarí|Coary|Coari Amazonas,-4.0850,-63.1408,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.2,70496,70496,3,America/Manaus,FALSE,1076899406
+Capanema,Capanema,,-1.1958,-47.1808,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,114.6,70394,70394,3,America/Belem,FALSE,1076799309
+Brumado,Brumado,Bom Jesús dos Meiras,-14.2036,-41.6653,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,2901.0,70268,70268,2,America/Bahia,FALSE,1076669684
+Mineiros,Mineiros,,-17.5703,-52.5553,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,7752.5,70073,70073,2,America/Sao_Paulo,FALSE,1076000916
+Grajaú,Grajau,Gralau|Grajahú,-5.8189,-46.1389,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,7.9,70065,70065,3,America/Fortaleza,FALSE,1076344134
+Farroupilha,Farroupilha,,-29.2333,-51.3500,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,194.5,69885,69885,3,America/Sao_Paulo,FALSE,1076221850
+Biguaçu,Biguacu,Biguassú,-27.5000,-48.6667,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,3356.7,69486,69486,2,America/Sao_Paulo,FALSE,1076869861
+Alenquer,Alenquer,Alemquer,-1.9448,-54.7320,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,3.1,69377,69377,3,America/Santarem,FALSE,1076529970
+Barra do Garças,Barra do Garcas,,-15.8900,-52.2567,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,7.6,69210,69210,3,America/Cuiaba,FALSE,1076425403
+Peruíbe,Peruibe,Peruhybe|Peruhibe,-24.3231,-47.0022,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,212.6,69001,69001,3,America/Sao_Paulo,FALSE,1076398365
+Mococa,Mococa,,-21.4678,-47.0047,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,80.8,68980,68980,3,America/Sao_Paulo,FALSE,1076000865
+Arcoverde,Arcoverde,Rio Branco,-8.4189,-37.0539,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,194.7,68793,68793,3,America/Recife,FALSE,1076499713
+Venâncio Aires,Venancio Aires,Venancia Ayres|Venancio Ayres,-29.6000,-52.1833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,88.8,68653,68653,3,America/Sao_Paulo,FALSE,1076887157
+Oriximiná,Oriximina,,-1.7658,-55.8658,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,0.6,68294,68294,3,America/Santarem,FALSE,1076567469
+Januária,Januaria,,-15.4878,-44.3619,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,10.14,67852,67852,3,America/Sao_Paulo,FALSE,1076924780
+Conceição do Coité,Conceicao do Coite,Conceicao Coite|Cuité|Coité,-11.5500,-39.2667,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,62.4,67825,67825,3,America/Bahia,FALSE,1076125877
+Formiga,Formiga,,-20.4615,-45.4323,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,45.2,67822,67822,3,America/Sao_Paulo,FALSE,1076994550
+Pesqueira,Pesqueira,,-8.3617,-36.6947,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,91.96,67735,67735,3,America/Recife,FALSE,1076637932
+Rolândia,Rolandia,Caviúna,-23.3000,-51.3667,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,126.05,67383,67383,3,America/Sao_Paulo,FALSE,1076756563
+Itapema,Itapema,,-27.0900,-48.6108,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,776.22,67338,67338,3,America/Sao_Paulo,TRUE,1076653025
+Tomé-Açu,Tome-Acu,,-2.4167,-48.1500,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,13.1,67305,67305,3,America/Belem,FALSE,1076866918
+Sousa,Sousa,Souza,-6.7608,-38.2308,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,91.1,67259,67259,3,America/Fortaleza,FALSE,1076742573
+Tabatinga,Tabatinga,,-4.2525,-69.9381,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,20.8,67182,67182,3,America/Manaus,FALSE,1076877236
+Embu-Guaçu,Embu-Guacu,Imbu-Guaçu|Embuguaçu,-23.8319,-46.8117,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,430.3,66970,66970,3,America/Sao_Paulo,FALSE,1076814441
+Cosmópolis,Cosmopolis,,-22.6458,-47.1961,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,431.8,66807,66807,3,America/Sao_Paulo,FALSE,1076281064
+Janaúba,Janauba,,-15.8014,-43.2764,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,5202.1,66803,66803,2,America/Sao_Paulo,FALSE,1076293809
+Cabedelo,Cabedelo,Cabedelos|Cabedello,-6.9808,-34.8339,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,2084.3,66519,66519,2,America/Fortaleza,FALSE,1076791382
+Lençóis Paulista,Lencois Paulista,Lençoes|Ubirama|Lençóis,-22.5986,-48.8003,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,82.3,66131,66131,3,America/Sao_Paulo,FALSE,1076632312
+Itapetinga,Itapetinga,Itatinga,-15.2535,-40.2555,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,40.5,65897,65897,3,America/Bahia,FALSE,1076005350
+Surubim,Surubim,,-7.8333,-35.7500,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,231.42,65647,65647,3,America/Recife,FALSE,1076815713
+Rio Negro,Rio Negro,,-26.1000,-49.7900,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,1661.4,65597,65597,3,America/Sao_Paulo,FALSE,1076653242
+Barreirinhas,Barreirinhas,,-2.7500,-42.8333,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,21.1,65583,65583,3,America/Fortaleza,FALSE,1076060419
+Bom Jesus da Lapa,Bom Jesus da Lapa,Lapa|Senhor Bom Jesus da Lapa,-13.2550,-43.4178,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,15.9,65550,65550,3,America/Bahia,FALSE,1076439517
+Piripiri,Piripiri,Peripery|Periperí,-4.2733,-41.7769,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,46.5,65450,65450,3,America/Fortaleza,TRUE,1076867493
+São Félix do Xingu,Sao Felix do Xingu,São Felix,-6.6333,-51.9833,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,0.8,65418,65418,3,America/Belem,FALSE,1076909404
+Ouricuri,Ouricuri,Ouricury,-7.8828,-40.0819,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,26.9,65245,65245,3,America/Recife,FALSE,1076194030
+Estância,Estancia,,-11.2678,-37.4378,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,101.0,65078,65078,3,America/Maceio,FALSE,1076069381
+Itaberaba,Itaberaba,,-12.5333,-40.3000,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,27.8,65073,65073,3,America/Bahia,FALSE,1076160849
+Igarapé-Miri,Igarape-Miri,Igarapé Miry|Igarapé-Mirim,-1.9833,-48.9667,Brazil,BR,BRA,Pará,Para,BR-PA,state,,32.5,64831,64831,3,America/Belem,FALSE,1076517048
+Acaraú,Acarau,Acarahú,-2.8858,-40.1186,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,76.9,64806,64806,3,America/Fortaleza,FALSE,1076016462
+Itamaraju,Itamaraju,,-17.0667,-39.5333,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,4178.9,64455,64455,2,America/Bahia,FALSE,1076241282
+Porto Nacional,Porto Nacional,Forto Nacional,-10.7078,-48.4169,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,14.5,64418,64418,3,America/Araguaina,FALSE,1076043090
+Bertioga,Bertioga,,-23.8547,-46.1389,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,131.0,64188,64188,3,America/Sao_Paulo,FALSE,1076752421
+Vacaria,Vacaria,Ibia’é|Vaccaria,-28.5122,-50.9339,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,30.2,64187,64187,3,America/Sao_Paulo,FALSE,1076001152
+Tupã,Tupa,Tupan,-21.9347,-50.5136,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,101.7,63928,63928,3,America/Sao_Paulo,FALSE,1076738637
+Camocim,Camocim,,-2.9019,-40.8408,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,56.8,63907,63907,3,America/Fortaleza,FALSE,1076563942
+Penedo,Penedo,São Francisco,-10.2900,-36.5858,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,92.6,63846,63846,3,America/Maceio,FALSE,1076906021
+Capão da Canoa,Capao da Canoa,Capo da Canoa,-29.7667,-50.0167,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,minor,654.9,63594,63594,3,America/Sao_Paulo,FALSE,1076749939
+Benevides,Benevides,,-1.3667,-48.2500,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,338.4,63567,63567,3,America/Belem,FALSE,1076726167
+Mirassol,Mirassol,Mirazol|Mira Sol,-20.8189,-49.5208,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,260.4,63337,63337,3,America/Sao_Paulo,FALSE,1076772486
+Cajazeiras,Cajazeiras,Cajàzeiras,-6.8900,-38.5619,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,111.7,63239,63239,3,America/Fortaleza,FALSE,1076367392
+Batatais,Batatais,Batataes,-20.8911,-47.5850,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,74.0,62980,62980,3,America/Sao_Paulo,FALSE,1076581214
+Campo Bom,Campo Bom,,-29.6789,-51.0528,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,1024.1,62886,62886,3,America/Sao_Paulo,FALSE,1076977021
+Itupeva,Itupeva,,-23.1531,-47.0578,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,312.8,62813,62813,3,America/Sao_Paulo,FALSE,1076387390
+Icó,Ico,,-6.4008,-38.8619,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,33.5,62622,62622,3,America/Fortaleza,FALSE,1076569458
+Portel,Portel,,-1.9358,-50.8208,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2.5,62445,62445,3,America/Belem,FALSE,1076977846
+Caràzinho,Carazinho,Carasinho,-28.2839,-52.7858,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,92.1,62265,62265,3,America/Sao_Paulo,FALSE,1076906274
+Cristalina,Cristalina,Cristalino|Crystallina,-16.7689,-47.6156,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,10.1,62249,62249,3,America/Sao_Paulo,FALSE,1076014539
+Camaquã,Camaqua,São João de Camaquam,-30.8500,-51.8167,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,37.0,62200,62200,3,America/Sao_Paulo,FALSE,1076449009
+Boituva,Boituva,,-23.2833,-47.6722,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,249.7,62170,62170,3,America/Sao_Paulo,FALSE,1076277699
+Nova Odessa,Nova Odessa,,-22.7800,-47.2989,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,846.1,62019,62019,3,America/Sao_Paulo,FALSE,1076061503
+Mongaguá,Mongagua,Moncaguá,-24.0875,-46.6289,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,432.7,61951,61951,3,America/Sao_Paulo,FALSE,1076393935
+São Miguel dos Campos,Sao Miguel dos Campos,São Miguel|Sao Miguel De Campos,-9.7808,-36.0939,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,11.6,61797,61797,3,America/Maceio,FALSE,1076922200
+Morada Nova,Morada Nova,Espírito Santo,-5.1069,-38.3728,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,5825.0,61738,61738,2,America/Fortaleza,FALSE,1076522163
+Santo Amaro,Santo Amaro,,-12.5469,-38.7119,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,125.2,61702,61702,3,America/Bahia,FALSE,1076891792
+Bezerros,Bezerros,,-8.2353,-35.7528,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,125.2,61686,61686,3,America/Recife,FALSE,1076456541
+Penápolis,Penapolis,Pennapolis,-21.4197,-50.0775,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,86.7,61679,61679,3,America/Sao_Paulo,FALSE,1076587749
+Extremoz,Extremoz,Extremós|Estremoz|Extremóz,-5.7000,-35.3000,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,441.1,61571,61571,3,America/Fortaleza,FALSE,1076180911
+Euclides da Cunha,Euclides da Cunha,Cumbe,-10.5078,-39.0139,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,4360.5,61456,61456,2,America/Bahia,FALSE,1076277178
+Salgueiro,Salgueiro,Salqueiro,-8.0742,-39.1192,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,36.3,61249,61249,3,America/Recife,FALSE,1076679973
+Barbalha,Barbalha,,-7.3050,-39.3019,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,107.5,61228,61228,3,America/Fortaleza,FALSE,1076490598
+Tauá,Taua,Tauhá,-6.0028,-40.2928,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,,15.2,61223,61223,3,America/Fortaleza,FALSE,1076613312
+Maués,Maues,,-3.3836,-57.7186,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.5,61204,61204,3,America/Manaus,FALSE,1076490155
+Caicó,Caico,,-6.4578,-37.0978,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,49.8,61146,61146,3,America/Fortaleza,FALSE,1076251820
+Iranduba,Iranduba,Iranduba Grande,-3.2850,-60.1858,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,27.5,60993,60993,3,America/Manaus,FALSE,1076838918
+Ibitinga,Ibitinga,,-21.7578,-48.8289,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,87.9,60600,60600,3,America/Sao_Paulo,FALSE,1076462788
+Itapecuru Mirim,Itapecuru Mirim,Itapecuru-Mirim|Itapicurú-Mirim|Itapicuru,-3.3928,-44.3589,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,41.1,60419,60419,3,America/Fortaleza,FALSE,1076422017
+Cruz das Almas,Cruz das Almas,,-12.6700,-39.1019,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,414.1,60346,60346,3,America/Bahia,FALSE,1076285577
+Floriano,Floriano,Manga|Colônia,-6.7669,-43.0228,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,17.2,60025,60025,3,America/Fortaleza,FALSE,1076813660
+São Borja,Sao Borja,,-28.6602,-56.0038,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,17.05,60019,60019,3,America/Sao_Paulo,FALSE,1076315333
+Monte Alegre,Monte Alegre,,-2.0023,-54.0717,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2.8,60016,60016,3,America/Santarem,FALSE,1076174262
+Registro,Registro,,-24.4875,-47.8436,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,83.0,59946,59946,3,America/Sao_Paulo,FALSE,1076533111
+Escada,Escada,,-8.3592,-35.2236,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,172.3,59836,59836,3,America/Recife,FALSE,1076990073
+Andradina,Andradina,,-20.8958,-51.3789,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,62.3,59783,59783,3,America/Sao_Paulo,FALSE,1076417183
+Viçosa do Ceará,Vicosa do Ceara,Viçosa,-3.5667,-41.0833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,45.5,59712,59712,3,America/Fortaleza,FALSE,1076236694
+Coroatá,Coroata,Croatá,-4.1300,-44.1239,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,26.3,59566,59566,3,America/Fortaleza,FALSE,1076890180
+Limoeiro do Norte,Limoeiro do Norte,Limoeiro,-5.1333,-38.0833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,79.3,59560,59560,3,America/Fortaleza,FALSE,1076525292
+Montenegro,Montenegro,São João do Monte Negro,-29.6889,-51.4608,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,141.5,59415,59415,3,America/Sao_Paulo,FALSE,1076000662
+União dos Palmares,Uniao dos Palmares,União,-9.1628,-36.0319,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,138.6,59280,59280,3,America/Maceio,FALSE,1076598708
+Irati,Irati,Iraty,-25.4697,-50.6547,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,59.3,59250,59250,3,America/Sao_Paulo,FALSE,1076276918
+Cruz Alta,Cruz Alta,,-28.6386,-53.6064,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,43.3,58913,58913,3,America/Sao_Paulo,FALSE,1076542905
+Parobé,Parobe,,-29.6289,-50.8350,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,3186.9,58858,58858,2,America/Sao_Paulo,FALSE,1076852725
+Pedro Leopoldo,Pedro Leopoldo,,-19.6178,-44.0428,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,3162.8,58740,58740,2,America/Sao_Paulo,FALSE,1076144411
+Jaguariúna,Jaguariuna,Jaquary|Jaguary|Jaguarí,-22.6800,-46.9900,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,415.3,58722,58722,3,America/Sao_Paulo,FALSE,1076822145
+Viseu,Viseu,Vizeu,-1.1969,-46.1400,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,11.9,58692,58692,3,America/Belem,FALSE,1076429547
+Alta Floresta,Alta Floresta,,-9.8861,-56.0872,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,6.6,58613,58613,3,America/Cuiaba,FALSE,1076069666
+Frutal,Frutal,Fructal,-20.0167,-48.9333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,minor,24.1,58588,58588,3,America/Sao_Paulo,FALSE,1076112857
+São Gabriel,Sao Gabriel,,-30.3358,-54.3200,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,11.7,58487,58487,3,America/Sao_Paulo,FALSE,1076674208
+Trairi,Trairi,Trahiry,-3.2778,-39.2689,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,63.2,58415,58415,3,America/Fortaleza,FALSE,1076680878
+Santa Isabel,Santa Isabel,Santa Izabel,-23.3158,-46.2208,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,159.5,57966,57966,3,America/Sao_Paulo,FALSE,1076338328
+Taquara,Taquara,,-29.6506,-50.7806,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,120.0,57584,57584,3,America/Sao_Paulo,FALSE,1076672393
+Guarabira,Guarabira,,-6.8550,-35.4900,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,318.0,57484,57484,3,America/Fortaleza,FALSE,1076842460
+Humaitá,Humaita,Humaytá,-7.5061,-63.0208,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.7,57473,57473,3,America/Manaus,FALSE,1076798064
+Ponte Nova,Ponte Nova,,-20.4158,-42.9089,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,7816.1,57390,57390,2,America/Sao_Paulo,FALSE,1076567178
+Acará,Acara,,-1.9608,-48.1969,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,13.2,57385,57385,3,America/Belem,FALSE,1076141011
+Coruripe,Coruripe,Cururipe,-10.1258,-36.1758,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,62.8,57294,57294,3,America/Maceio,FALSE,1076998029
+Içara,Icara,Aliatar,-28.7133,-49.3000,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,248.5,57247,57247,3,America/Sao_Paulo,FALSE,1076881795
+Cachoeiras de Macacu,Cachoeiras de Macacu,Cachoeiras,-22.4628,-42.6528,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,59.6,56943,56943,3,America/Sao_Paulo,FALSE,1076367130
+Ipirá,Ipira,Camisão,-12.1583,-39.7389,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,18.6,56873,56873,3,America/Bahia,FALSE,1076297000
+Pau d’Alho,Pau d'Alho,,-7.8969,-35.1800,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,204.0,56659,56659,3,America/Recife,FALSE,1076432442
+Pirapora,Pirapora,,-17.3478,-44.9436,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,103.0,56640,56640,3,America/Sao_Paulo,FALSE,1076124834
+Mafra,Mafra,Villa de Mafra,-26.1167,-49.8000,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,36.32,56561,56561,3,America/Sao_Paulo,FALSE,1076971048
+Limoeiro,Limoeiro,,-7.8750,-35.4500,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,209.3,56510,56510,3,America/Recife,TRUE,1076675901
+Porto Feliz,Porto Feliz,,-23.2147,-47.5239,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,101.5,56497,56497,3,America/Sao_Paulo,FALSE,1076231459
+Rolim de Moura,Rolim de Moura,,-11.7256,-61.7781,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,38.7,56406,56406,3,America/Porto_Velho,FALSE,1076556836
+Videira,Videira,Perdizes,-27.0078,-51.1519,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,146.8,55466,55466,3,America/Sao_Paulo,FALSE,1076188514
+Monte Mor,Monte Mor,Montemor,-22.9467,-47.3150,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,230.3,55409,55409,3,America/Sao_Paulo,FALSE,1076728241
+Moreno,Moreno,,-8.1186,-35.0922,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,287.6,55268,55268,3,America/Recife,FALSE,1076066897
+Três Pontas,Tres Pontas,,-21.3703,-45.5122,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,80.1,55259,55259,3,America/Sao_Paulo,FALSE,1076017914
+Ibiporã,Ibipora,São Pedro de Alcantara,-23.2833,-51.0500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,2360.7,55131,55131,2,America/Sao_Paulo,FALSE,1076663417
+Olímpia,Olimpia,Olympia,-20.7372,-48.9147,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,68.6,55075,55075,3,America/Sao_Paulo,FALSE,1076866347
+União da Vitória,Uniao da Vitoria,União da Victoria,-26.2167,-51.0833,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,76.4,55033,55033,3,America/Sao_Paulo,FALSE,1076355618
+Canoinhas,Canoinhas,Ouro Verde,-26.1769,-50.3900,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,48.2,55016,55016,3,America/Sao_Paulo,FALSE,1076606234
+Catu,Catu,Sant’Anna de Catú,-12.3497,-38.3831,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,122.72,54970,54970,3,America/Bahia,FALSE,1076222188
+Piedade,Piedade,,-23.7119,-47.4278,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,73.3,54717,54717,3,America/Sao_Paulo,FALSE,1076454821
+Palmares,Palmares,,-8.6828,-35.5919,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,162.0,54584,54584,3,America/Recife,FALSE,1076270377
+Capitão Poço,Capitao Poco,Capitã Poço,-1.7500,-47.0833,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,5244.1,54425,54425,2,America/Belem,FALSE,1076870027
+Medianeira,Medianeira,Nova Santa Medianeira,-25.2950,-54.0939,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,165.4,54369,54369,3,America/Sao_Paulo,FALSE,1076066608
+São Gonçalo do Amarante,Sao Goncalo do Amarante,São Gonçalo|Anacetaba,-3.6058,-38.9689,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,64.7,54021,54021,3,America/Fortaleza,FALSE,1076511240
+Ribeira do Pombal,Ribeira do Pombal,Pombal|Canabrava de Santa Teresa de Jesus dos Quiriris|Canna Brava,-10.8333,-38.5333,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,70.9,54010,54010,3,America/Bahia,FALSE,1076251379
+Manicoré,Manicore,,-5.8089,-61.3000,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.1,53914,53914,3,America/Manaus,FALSE,1076657983
+São Francisco do Sul,Sao Francisco do Sul,São Francisco,-26.2428,-48.6378,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,99.5,53746,53746,3,America/Sao_Paulo,FALSE,1076452788
+Marechal Cândido Rondon,Marechal Candido Rondon,General Rondon,-24.5667,-54.0667,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,317.6,53495,53495,3,America/Sao_Paulo,FALSE,1076891164
+Extrema,Extrema,,-22.8550,-46.3178,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,220.0,53482,53482,3,America/Sao_Paulo,FALSE,1076000569
+Tutóia,Tutoia,Tutoya,-2.7500,-42.2667,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,32.3,53356,53356,3,America/Fortaleza,FALSE,1076696049
+Granja,Granja,,-3.1200,-40.8258,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,19.8,53344,53344,3,America/Fortaleza,FALSE,1076052166
+Itabirito,Itabirito,,-20.2530,-43.8010,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,98.1,53282,53282,3,America/Sao_Paulo,FALSE,1076709831
+Inhumas,Inhumas,,-16.3550,-49.4931,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,86.8,53259,53259,3,America/Sao_Paulo,FALSE,1076130930
+Açu,Acu,Assu,-5.5769,-36.9089,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,40.8,53227,53227,3,America/Fortaleza,FALSE,1076000524
+Capivari,Capivari,Capivary,-22.9950,-47.5078,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,164.6,53152,53152,3,America/Sao_Paulo,FALSE,1076000098
+Rondon do Pará,Rondon do Para,,-4.7758,-48.0669,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,6.4,53143,53143,3,America/Belem,FALSE,1076892918
+Beberibe,Beberibe,,-4.1833,-38.1333,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,32.9,53114,53114,3,America/Fortaleza,FALSE,1076290701
+Itapagé,Itapage,Santa Cruz do Uruburetama|São Francisco|Constituinte|Itapajé|São Francisco do Uruburetama,-3.6833,-39.5833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,8390.6,53067,53067,2,America/Fortaleza,FALSE,1076504181
+São Miguel do Guamá,Sao Miguel do Guama,Guamá,-1.6167,-47.4500,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,47.6,52895,52895,3,America/Belem,FALSE,1076315330
+Xinguara,Xinguara,Entroncamento do Xingu,-7.0950,-49.9458,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,14.0,52893,52893,3,America/Belem,FALSE,1076290442
+Congonhas,Congonhas,Congonhas do Campo|Gongonhas,-20.5000,-43.8578,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,173.9,52890,52890,3,America/Sao_Paulo,FALSE,1076164621
+Timbaúba,Timbauba,Gurjão,-7.5108,-35.3178,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,180.7,52802,52802,3,America/Recife,FALSE,1076430214
+São Francisco,Sao Francisco,,-15.9542,-44.8619,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,16.0,52762,52762,3,America/Sao_Paulo,FALSE,1076643491
+Lagoa da Prata,Lagoa da Prata,,-20.0167,-45.5333,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,118.5,52711,52711,3,America/Sao_Paulo,FALSE,1076652644
+Paracambi,Paracambi,Paracamby,-22.6108,-43.7089,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,0.3,52683,52683,3,America/Sao_Paulo,FALSE,1076624588
+Pôrto Ferreira,Porto Ferreira,Porto Ferreiro,-21.8539,-47.4789,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,215.9,52649,52649,3,America/Sao_Paulo,FALSE,1076743280
+Tramandaí,Tramandai,Tramandahy,-29.9667,-50.1333,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,minor,514.5,52632,52632,3,America/Sao_Paulo,FALSE,1076409044
+Imbituba,Imbituba,Henrique Laje|Henrique Lage,-28.2333,-48.6667,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,284.5,52581,52581,3,America/Sao_Paulo,FALSE,1076391605
+Marechal Deodoro,Marechal Deodoro,Madalena|Alagôas,-9.7100,-35.8950,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,157.0,52380,52380,3,America/Maceio,FALSE,1076794934
+Paraíso do Tocantins,Paraiso do Tocantins,,-10.1833,-48.8000,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,40.4,52360,52360,3,America/Araguaina,FALSE,1076928889
+Campo Belo,Campo Belo,Campo Bello,-20.8969,-45.2769,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,99.2,52277,52277,3,America/Sao_Paulo,FALSE,1076477943
+Santo Estêvão,Santo Estevao,,-12.4300,-39.2508,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,143.2,52274,52274,3,America/Bahia,FALSE,1076902466
+Delmiro Gouveia,Delmiro Gouveia,Pedra|Delmiro,-9.3858,-37.9958,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,67.4,52262,52262,3,America/Maceio,FALSE,1076057826
+Taquaritinga,Taquaritinga,,-21.4058,-48.5050,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,87.9,52260,52260,3,America/Sao_Paulo,FALSE,1076141127
+Óbidos,Obidos,,-1.9000,-55.5167,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,1.9,52229,52229,3,America/Santarem,FALSE,1076197849
+São José do Rio Pardo,Sao Jose do Rio Pardo,,-21.5956,-46.8886,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,124.6,52204,52204,3,America/Sao_Paulo,FALSE,1076381687
+Buíque,Buique,Vila Nova de Buíque,-8.6167,-37.1500,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,38.7,52097,52097,3,America/Recife,FALSE,1076865556
+Pontes e Lacerda,Pontes e Lacerda,Pontes Lacerda|Pontes de Lacerda|Ponte e Lacerda|Pontes e La Cerda,-15.2258,-59.3350,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,,6.2,52018,52018,3,America/Cuiaba,FALSE,1076490162
+Caetité,Caetite,Caiteté,-14.0689,-42.4750,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,21.3,52012,52012,3,America/Bahia,FALSE,1076209772
+São Gabriel da Cachoeira,Sao Gabriel da Cachoeira,São Gabriel,-0.1192,-67.0828,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,0.5,51795,51795,3,America/Manaus,FALSE,1076863074
+Palmas,Palmas,,-26.4842,-51.9906,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,33.2,51755,51755,3,America/Sao_Paulo,FALSE,1076528204
+Guapimirim,Guapimirim,Guapy-mirim,-22.5369,-42.8153,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,143.3,51696,51696,3,America/Sao_Paulo,FALSE,1076569522
+Baião,Baiao,,-2.7908,-49.6719,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,13.7,51641,51641,3,America/Belem,FALSE,1076566352
+Xanxerê,Xanxere,Xaneré|Ruy Barbosa,-26.8769,-52.4039,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,136.6,51607,51607,3,America/Sao_Paulo,FALSE,1076871308
+Tijucas,Tijucas,,-27.2414,-48.6336,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,186.5,51592,51592,3,America/Sao_Paulo,FALSE,1076000713
+Viana,Viana,Vianna,-3.2200,-45.0039,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,44.3,51442,51442,3,America/Fortaleza,FALSE,1076423280
+Morrinhos,Morrinhos,,-17.7297,-49.0783,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,18.0,51351,51351,3,America/Sao_Paulo,FALSE,1076391164
+Sapé,Sape,,-7.0950,-35.2328,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,162.2,51306,51306,3,America/Fortaleza,FALSE,1076665410
+Leopoldina,Leopoldina,,-21.5319,-42.6428,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,54.2,51145,51145,3,America/Sao_Paulo,FALSE,1076352077
+Barra,Barra,Barra Do Rio Grande,-11.0889,-43.1419,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,4.5,51092,51092,3,America/Bahia,FALSE,1076053089
+Brejo Santo,Brejo Santo,Brejo dos Santos,-7.4833,-39.0000,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,77.2,51090,51090,3,America/Fortaleza,FALSE,1076816163
+Guaxupé,Guaxupe,,-21.3050,-46.7128,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,178.1,50911,50911,3,America/Sao_Paulo,FALSE,1076985230
+Tobias Barreto,Tobias Barreto,Nossa Senhora de Campos do Rio Real|Campos,-11.1839,-37.9978,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,49.3,50905,50905,3,America/Maceio,FALSE,1076875751
+Juruti,Juruti,Juruty Novo|Jurity Novo,-2.1522,-56.0922,Brazil,BR,BRA,Pará,Para,BR-PA,state,,6.1,50881,50881,3,America/Santarem,FALSE,1076008475
+Pontal,Pontal,,-21.0225,-48.0372,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,142.7,50852,50852,3,America/Sao_Paulo,FALSE,1076651635
+Campos do Jordão,Campos do Jordao,,-22.7389,-45.5908,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,175.3,50852,50852,3,America/Sao_Paulo,FALSE,1076353308
+Vigia,Vigia,,-0.8583,-48.1417,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,14.6,50832,50832,3,America/Belem,FALSE,1076728432
+Quirinópolis,Quirinopolis,,-18.4481,-50.4464,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,13.4,50701,50701,3,America/Sao_Paulo,FALSE,1076793896
+Estância Velha,Estancia Velha,Genuino Sampaio,-29.6500,-51.1833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,1431.1,50672,50672,3,America/Sao_Paulo,FALSE,1076521402
+Jaru,Jaru,Juru,-10.4389,-62.4664,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,5.5,50591,50591,3,America/Porto_Velho,FALSE,1076089235
+Naviraí,Navirai,Pôrto Luiza,-23.0650,-54.1908,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,1.9,50457,50457,3,America/Campo_Grande,FALSE,1076724628
+Cabreúva,Cabreuva,Cabriúva,-23.3075,-47.1331,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,194.1,50429,50429,3,America/Sao_Paulo,FALSE,1076162837
+Boa Viagem,Boa Viagem,,-5.1278,-39.7319,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,17.8,50411,50411,3,America/Fortaleza,FALSE,1076584216
+Vargem Grande Paulista,Vargem Grande Paulista,,-23.6028,-47.0258,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1501.9,50333,50333,3,America/Sao_Paulo,FALSE,1076840914
+Artur Nogueira,Artur Nogueira,Arthur Nogueira,-22.5731,-47.1725,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,282.7,50246,50246,3,America/Sao_Paulo,FALSE,1076283170
+Itararé,Itarare,,-24.1125,-49.3317,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,49.9,50105,50105,3,America/Sao_Paulo,FALSE,1076167358
+Louveira,Louveira,,-23.0864,-46.9506,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,903.2,49993,49993,3,America/Sao_Paulo,FALSE,1076393293
+Cerquilho Velho,Cerquilho Velho,Cerquilho,-23.1650,-47.7436,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,389.8,49802,49802,3,America/Sao_Paulo,FALSE,1076117670
+Itupiranga,Itupiranga,,-5.1500,-49.3333,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,6.3,49752,49752,3,America/Belem,FALSE,1076086545
+Canguçu,Cangucu,Cangussú,-31.4000,-52.6833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,14.1,49680,49680,3,America/Sao_Paulo,FALSE,1076710867
+Coelho Neto,Coelho Neto,Curralzinho|Curralinho,-4.2569,-43.0128,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,6064.2,49621,49621,2,America/Fortaleza,FALSE,1076316612
+Monte Alto,Monte Alto,,-21.2611,-48.4964,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,142.5,49456,49456,3,America/Sao_Paulo,FALSE,1076603114
+São Bento do Una,Sao Bento do Una,São Bento,-8.5228,-36.4439,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,68.0,49448,49448,3,America/Recife,FALSE,1076263399
+Prudentópolis,Prudentopolis,,-25.2128,-50.9778,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,21.4,49393,49393,3,America/Sao_Paulo,FALSE,1076128798
+Santiago,Santiago,Santiago do Boqueirão,-29.1917,-54.8672,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,20.5,49360,49360,3,America/Sao_Paulo,FALSE,1076821990
+Jales,Jales,,-20.2689,-50.5458,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,132.4,48776,48776,3,America/Sao_Paulo,FALSE,1076132660
+Tucano,Tucano,,-10.9628,-38.7869,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,17.4,48738,48738,3,America/Bahia,FALSE,1076227914
+Brejo da Madre de Deus,Brejo da Madre de Deus,Madre de Deus,-8.1500,-36.3667,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,63.8,48650,48650,3,America/Recife,FALSE,1076440699
+São Joaquim da Barra,Sao Joaquim da Barra,São Joaquim,-20.5808,-47.8550,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,117.8,48558,48558,3,America/Sao_Paulo,FALSE,1076321926
+Pedreira,Pedreira,Pedreiras,-22.7419,-46.9014,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,441.7,48463,48463,3,America/Sao_Paulo,FALSE,1076000574
+Araci,Araci,Raso|Aracy,-11.3328,-38.9669,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,31.5,48035,48035,3,America/Bahia,FALSE,1076885835
+Bocaiúva,Bocaiuva,Bocayuva,-17.1078,-43.8150,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,14.9,48032,48032,3,America/Sao_Paulo,FALSE,1076639320
+Aquidauana,Aquidauana,Aquidavana,-20.4708,-55.7869,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,minor,2.8,48029,48029,3,America/Campo_Grande,FALSE,1076120417
+Barras,Barras,Barras do Maratahoan|Barras do Maratoam,-4.2469,-42.2958,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,27.8,47938,47938,3,America/Fortaleza,FALSE,1076766658
+Monte Santo,Monte Santo,,-10.4378,-39.3328,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,15.0,47780,47780,3,America/Bahia,FALSE,1076713120
+Tremembé,Tremembe,,-22.9597,-45.5403,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,249.7,47714,47714,3,America/Sao_Paulo,FALSE,1076329982
+Diamantina,Diamantina,Tejuco,-18.2489,-43.6000,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,12.3,47702,47702,3,America/Sao_Paulo,FALSE,1076865092
+Monte Carmelo,Monte Carmelo,Monte Carmello,-18.7267,-47.4994,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,35.5,47689,47689,3,America/Sao_Paulo,FALSE,1076821086
+São Benedito,Sao Benedito,São Benedicto,-4.0489,-40.8650,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,140.9,47640,47640,3,America/Fortaleza,FALSE,1076599736
+Altos,Altos,,-5.0389,-42.4608,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,49.5,47416,47416,3,America/Fortaleza,FALSE,1076874326
+Osório,Osorio,Conceicao do Arrolo|Conceição do Arroio,-29.8942,-50.2652,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,71.5,47400,47400,3,America/Sao_Paulo,FALSE,1076367566
+São José de Mipibu,Sao Jose de Mipibu,Sao Jose Do Mipibu,-6.0833,-35.2500,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,162.9,47286,47286,3,America/Fortaleza,FALSE,1076063132
+Sidrolândia,Sidrolandia,,-20.9319,-54.9608,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,8.9,47118,47118,3,America/Campo_Grande,FALSE,1076992570
+Capão Bonito,Capao Bonito,,-24.0058,-48.3494,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,28.7,47118,47118,3,America/Sao_Paulo,FALSE,1076334908
+Dracena,Dracena,,-21.4828,-51.5328,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,8.3,47043,47043,3,America/Sao_Paulo,FALSE,1076313481
+Campo Maior,Campo Maior,,-4.8333,-42.1736,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,4702.9,46893,46893,2,America/Fortaleza,FALSE,1076002814
+Poções,Pocoes,Djalma Dutra,-14.5167,-40.3500,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,1914.3,46879,46879,3,America/Bahia,FALSE,1076994566
+João Pinheiro,Joao Pinheiro,,-17.7442,-46.1739,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,4.4,46801,46801,3,America/Sao_Paulo,FALSE,1076899445
+Araioses,Araioses,São Bernardo do Parnaíba|Arayozes|Arayoses|Enjeitado|São Bernardo,-2.8900,-41.9028,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,20.8,46771,46771,3,America/Fortaleza,FALSE,1076312210
+Guaramirim,Guaramirim,Bananal,-26.4500,-49.0000,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,174.2,46711,46711,3,America/Sao_Paulo,FALSE,1076561116
+Santa Cruz do Rio Pardo,Santa Cruz do Rio Pardo,,-22.8989,-49.6328,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,41.7,46442,46442,3,America/Sao_Paulo,FALSE,1076453060
+São Bento,Sao Bento,São Benito dos Perizes|Sao Bento dos Perizes|São Bento das Perdizes,-2.6958,-44.8208,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,99.0,46397,46397,3,America/Fortaleza,FALSE,1076246119
+Santana do Ipanema,Santana do Ipanema,Sant’Anna do Ipanema,-9.3778,-37.2450,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,105.6,46220,46220,3,America/Maceio,FALSE,1076732680
+Seabra,Seabra,Doutor Seabra,-12.4189,-41.7700,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,18.3,46160,46160,3,America/Bahia,FALSE,1076253764
+União,Uniao,,-4.5858,-42.8639,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,39.3,46119,46119,3,America/Fortaleza,FALSE,1076941290
+Casimiro de Abreu,Casimiro de Abreu,Casemiro de Abreu,-22.4808,-42.2039,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,100.1,46110,46110,3,America/Sao_Paulo,FALSE,1076781474
+Eusébio,Eusebio,Euziebio,-3.8900,-38.4508,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,582.7,46033,46033,3,America/Fortaleza,FALSE,1076187536
+Nova Venécia,Nova Venecia,,-18.7108,-40.4008,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,31.8,46031,46031,3,America/Sao_Paulo,FALSE,1076770793
+Mairinque,Mairinque,Mayrink,-23.5464,-47.1836,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,219.4,46015,46015,3,America/Sao_Paulo,FALSE,1076990000
+Jaguaquara,Jaguaquara,,-13.5333,-39.9667,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,49.7,45964,45964,3,America/Bahia,FALSE,1076420862
+Paraguaçu Paulista,Paraguacu Paulista,Paraguassú|Araguaçu|Paraguaçu,-22.4197,-50.5797,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,45.9,45945,45945,3,America/Sao_Paulo,FALSE,1076783045
+Campo Novo do Parecis,Campo Novo do Parecis,,-13.6750,-57.8919,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,4.9,45899,45899,3,America/Cuiaba,FALSE,1076003526
+Juína,Juina,,-11.3778,-58.7408,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,1.7,45869,45869,3,America/Cuiaba,FALSE,1076002602
+Igarapé,Igarape,,-20.0700,-44.3019,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,417.1,45847,45847,3,America/Sao_Paulo,FALSE,1076387530
+Porangatu,Porangatu,Descoberto|Parangatu,-13.4319,-49.1306,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,9.5,45633,45633,3,America/Sao_Paulo,FALSE,1076806104
+Mauriti,Mauriti,Maurity,-7.3833,-38.7667,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,41.0,45561,45561,3,America/Fortaleza,FALSE,1076467166
+Canela,Canela,Canella,-29.3617,-50.8156,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,157.7,45488,45488,3,America/Sao_Paulo,FALSE,1076049094
+Lábrea,Labrea,,-7.2589,-64.7978,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,0.7,45448,45448,3,America/Manaus,FALSE,1076619739
+Barra Velha,Barra Velha,,-26.6156,-48.6847,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,323.7,45371,45371,3,America/Sao_Paulo,FALSE,1076273407
+Jaraguá,Jaragua,,-15.7397,-49.3347,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,23.9,45223,45223,3,America/Sao_Paulo,FALSE,1076016135
+Cornélio Procópio,Cornelio Procopio,Cor Procopio,-23.1333,-50.6500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,4.7,45206,45206,3,America/Sao_Paulo,FALSE,1076363529
+Araquari,Araquari,Paraty|Parati,-26.3833,-48.7167,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,117.7,45180,45180,3,America/Sao_Paulo,FALSE,1076471476
+Presidente Dutra,Presidente Dutra,Curador,-5.2900,-44.4900,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,58.5,45155,45155,3,America/Fortaleza,FALSE,1076660845
+Marau,Marau,,-28.4489,-52.2000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,69.5,45126,45126,3,America/Sao_Paulo,FALSE,1076572640
+Maracaju,Maracaju,,-21.6139,-55.1678,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,8.5,45047,45047,3,America/Campo_Grande,FALSE,1076548335
+Caeté,Caete,,-19.8800,-43.6700,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,0.1,45047,45047,3,America/Sao_Paulo,FALSE,1076979149
+Lapa,Lapa,,-25.7700,-49.7158,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,21.5,45003,45003,3,America/Sao_Paulo,FALSE,1076904800
+Timbó,Timbo,,-26.8228,-49.2719,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,350.5,44977,44977,3,America/Sao_Paulo,FALSE,1076339334
+Acopiara,Acopiara,Lajes|Lages|Afonso-Pena|Affonso Penna,-6.1000,-39.4500,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,19.9,44962,44962,3,America/Fortaleza,FALSE,1076661571
+Pederneiras,Pederneiras,,-22.3517,-48.7750,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,61.6,44910,44910,3,America/Sao_Paulo,FALSE,1076724688
+Dois Vizinhos,Dois Vizinhos,,-26.0833,-53.0500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,25.1,44869,44869,3,America/Sao_Paulo,FALSE,1076157751
+Santana do Paraíso,Santana do Paraiso,,-19.3639,-42.5689,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,162.3,44800,44800,3,America/Sao_Paulo,FALSE,1076433913
+São Lourenço,Sao Lourenco,,-22.1167,-45.0500,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,785.0,44798,44798,3,America/Sao_Paulo,FALSE,1076261938
+Xique-Xique,Xique-Xique,Chique-Chique,-10.8303,-42.7308,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,8.1,44757,44757,3,America/Bahia,FALSE,1076763009
+Itaberaí,Itaberai,Itaberahy|Itaborahy,-16.0083,-49.7961,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,30.4,44734,44734,3,America/Sao_Paulo,FALSE,1076044452
+Conceição do Araguaia,Conceicao do Araguaia,Conceição|Conceicao Do Araguaya,-7.5539,-49.7128,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,7.7,44617,44617,3,America/Belem,FALSE,1076224782
+Mamanguape,Mamanguape,,-6.8375,-35.1267,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,131.0,44599,44599,3,America/Fortaleza,FALSE,1076012570
+Augusto Correa,Augusto Correa,,-1.0272,-46.6446,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,40.9,44573,44573,3,America/Belem,FALSE,1076227930
+Garça,Garca,,-22.2153,-49.6511,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,80.1,44532,44532,3,America/Sao_Paulo,FALSE,1076270928
+São Sebastião do Passé,Sao Sebastiao do Passe,São Sebastião,-12.5128,-38.4950,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,5402.3,44430,44430,2,America/Bahia,FALSE,1076114287
+Santo Antônio da Platina,Santo Antonio da Platina,Santo Antonio do Platino,-23.2667,-50.1000,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,61.5,44369,44369,3,America/Sao_Paulo,FALSE,1076118147
+São Miguel d’Oeste,Sao Miguel d'Oeste,São Miguel do Oeste,-26.7308,-53.5153,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,31.9,44330,44330,3,America/Sao_Paulo,FALSE,1076717099
+Bom Conselho,Bom Conselho,,-9.1700,-36.6800,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,55.9,44260,44260,3,America/Recife,FALSE,1076382698
+Rio Grande da Serra,Rio Grande da Serra,,-23.7439,-46.3978,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,1.0,44170,44170,3,America/Sao_Paulo,FALSE,1076473006
+Livramento de Nossa Senhora,Livramento de Nossa Senhora,Livramento|Liveramento do Brumado|Villa Velha|Livramento do Brumado,-13.6428,-41.8408,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,19.4,43911,43911,3,America/Bahia,FALSE,1076781145
+Salto de Pirapora,Salto de Pirapora,,-23.6489,-47.5733,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,155.9,43748,43748,3,America/Sao_Paulo,FALSE,1076664356
+Uruará,Uruara,Agrópolis Uruará,-3.7178,-53.7369,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,4.0,43558,43558,3,America/Santarem,FALSE,1076931265
+Presidente Epitácio,Presidente Epitacio,Presidente Epitãclo|Presidente Epistacio,-21.7647,-52.1053,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,34.0,43535,43535,3,America/Sao_Paulo,FALSE,1076557618
+Panambi,Panambi,Tabapira|Pindorama,-28.2928,-53.5019,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,88.7,43515,43515,3,America/Sao_Paulo,FALSE,1076541369
+Tarauacá,Tarauaca,Vila Seabra|Seabra|Foz do Muru|Villa Seabra,-8.1608,-70.7658,Brazil,BR,BRA,Acre,Acre,BR-AC,state,minor,2.8,43464,43464,3,America/Rio_Branco,FALSE,1076894557
+Vargem Grande,Vargem Grande,Vargem-Grande,-3.5431,-43.9158,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,22.1,43261,43261,3,America/Fortaleza,FALSE,1076198686
+Vargem Grande do Sul,Vargem Grande do Sul,Vargem Grande|Santa Ana do Vargem Grande,-21.8328,-46.8922,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,161.5,43110,43110,3,America/Sao_Paulo,FALSE,1076083512
+Santo Antônio,Santo Antonio,Santa Antonio da Patrulha|Santo Antônio da Patrulha,-29.8333,-50.5333,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,40.9,42942,42942,3,America/Sao_Paulo,TRUE,1076978577
+Laguna,Laguna,,-28.4825,-48.7808,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,127.2,42785,42785,3,America/Sao_Paulo,FALSE,1076025747
+Barreiros,Barreiros,,-8.8178,-35.1858,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,183.2,42764,42764,3,America/Recife,FALSE,1076661261
+Itarema,Itarema,Tanque do Meio,-2.9233,-39.9144,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,59.3,42726,42726,3,America/Fortaleza,FALSE,1076296454
+Orlândia,Orlandia,,-20.7203,-47.8867,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,144.0,42678,42678,3,America/Sao_Paulo,FALSE,1076690245
+Simão Dias,Simao Dias,Annapolis|Anápolis,-10.7378,-37.8108,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,76.1,42578,42578,3,America/Maceio,FALSE,1076449666
+Vera Cruz,Vera Cruz,Vera Cruz de Itaparica,-12.9600,-38.6089,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,142.0,42577,42577,3,America/Bahia,FALSE,1076136150
+Mata de São João,Mata de Sao Joao,Matta de São João,-12.5305,-38.2996,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,67.2,42566,42566,3,America/Bahia,FALSE,1076397945
+José de Freitas,Jose de Freitas,Livramento,-4.7500,-42.5833,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,27.7,42559,42559,3,America/Fortaleza,FALSE,1076802708
+Uruaçu,Uruacu,Sant’Anna|Santana|Uruçu,-14.5194,-49.1450,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,19.9,42546,42546,3,America/Sao_Paulo,FALSE,1076588964
+São Mateus do Sul,Sao Mateus do Sul,São Matheus|São Mateus,-25.8667,-50.3833,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,31.5,42358,42358,3,America/Sao_Paulo,FALSE,1076883402
+Amontada,Amontada,São Bento|São Bento d’Amontada|São Bento da Amontada,-3.3833,-39.8333,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,35.7,42156,42156,3,America/Fortaleza,FALSE,1076240159
+Paraíba do Sul,Paraiba do Sul,Parahyba do Sul,-22.1619,-43.2928,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,72.4,42063,42063,3,America/Sao_Paulo,FALSE,1076715765
+Guaratuba,Guaratuba,,-25.9000,-48.5667,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,31.7,42062,42062,3,America/Sao_Paulo,FALSE,1076880478
+Guaraciaba do Norte,Guaraciaba do Norte,Inhussu|Campo Grande|Inhuçu,-4.1667,-40.7667,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,68.8,42053,42053,3,America/Fortaleza,FALSE,1076780410
+São Lourenço do Sul,Sao Lourenco do Sul,São Lourenço,-31.3653,-51.9783,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,20.6,41989,41989,3,America/Sao_Paulo,FALSE,1076758883
+Macaúbas,Macaubas,Macahubas,-13.0189,-42.6989,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,14.0,41859,41859,3,America/Bahia,FALSE,1076955429
+Marialva,Marialva,,-23.4667,-51.7000,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,2.4,41851,41851,3,America/Sao_Paulo,FALSE,1076544129
+Jardinópolis,Jardinopolis,,-21.0178,-47.7639,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,83.0,41799,41799,3,America/Sao_Paulo,FALSE,1076497660
+Paiçandu,Paicandu,Paissandu,-23.4556,-52.0417,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,243.7,41773,41773,3,America/Sao_Paulo,FALSE,1076005300
+Tôrres,Torres,,-29.3267,-49.7675,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,minor,257.5,41751,41751,3,America/Sao_Paulo,FALSE,1076421011
+Salinas,Salinas,,-15.4158,-43.1575,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,3.2,41699,41699,3,America/Sao_Paulo,TRUE,1076570604
+Santa Helena,Santa Helena,,-2.2308,-45.3000,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,18.0,41561,41561,3,America/Fortaleza,FALSE,1076790462
+Águas Belas,Aguas Belas,Aguas Bellas,-9.1167,-37.1167,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,46.9,41548,41548,3,America/Recife,FALSE,1076330876
+Barra dos Coqueiros,Barra dos Coqueiros,,-10.9089,-37.0389,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,459.6,41511,41511,3,America/Maceio,FALSE,1076773193
+Arcos,Arcos,,-20.2914,-45.5397,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,81.2,41417,41417,3,America/Sao_Paulo,FALSE,1076650376
+Sena Madureira,Sena Madureira,Senna Madureira|Purús,-9.0658,-68.6569,Brazil,BR,BRA,Acre,Acre,BR-AC,state,minor,1.6,41349,41349,3,America/Rio_Branco,FALSE,1076899075
+Santo Antônio de Pádua,Santo Antonio de Padua,Santo Antonio do Padua,-21.5389,-42.1800,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,67.5,41325,41325,3,America/Sao_Paulo,FALSE,1076879205
+Currais Novos,Currais Novos,Curraes Novos,-6.2500,-36.5167,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,47.8,41318,41318,3,America/Fortaleza,FALSE,1076200389
+Mangaratiba,Mangaratiba,Mangalatiba,-22.9600,-44.0408,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,115.7,41220,41220,3,America/Sao_Paulo,FALSE,1076292553
+Nossa Senhora da Glória,Nossa Senhora da Gloria,,-10.2178,-37.4200,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,54.5,41202,41202,3,America/Maceio,FALSE,1076396481
+Toritama,Toritama,Torres,-7.9822,-36.0508,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,16.0,41137,41137,3,America/Recife,FALSE,1076597056
+Esperantina,Esperantina,Retiro da Boa Esperança|Boa Esperança|Esperentina,-3.9019,-42.2339,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,45.0,40970,40970,3,America/Fortaleza,FALSE,1076676231
+Paranaíba,Paranaiba,Sant’Anna do Paranaiba|Sant’Anna do Paranahyba|Santa Ana do Paranaiba|Santana do Paranaíba,-19.6769,-51.1908,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,7.6,40957,40957,3,America/Campo_Grande,FALSE,1076355277
+Salinópolis,Salinopolis,Salinas,-0.6276,-47.3456,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,0.2,40922,40922,3,America/Belem,FALSE,1076811443
+Muaná,Muana,,-1.5278,-49.2169,Brazil,BR,BRA,Pará,Para,BR-PA,state,,7.4,40906,40906,3,America/Belem,FALSE,1076581165
+Promissão,Promissao,,-21.5369,-49.8583,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,52.2,40828,40828,3,America/Sao_Paulo,FALSE,1076199684
+Ipiaú,Ipiau,Rio Novo,-14.1369,-39.7339,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,152.3,40706,40706,3,America/Bahia,FALSE,1076023933
+Itabaianinha,Itabaianinha,Itabayanninha,-11.2739,-37.7900,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,82.5,40678,40678,3,America/Maceio,FALSE,1076633750
+Nanuque,Nanuque,Indiana,-17.8433,-40.3517,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,26.8,40665,40665,3,America/Sao_Paulo,FALSE,1076083471
+Barra de São Francisco,Barra de Sao Francisco,São Francisco,-18.7550,-40.8908,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,43.5,40649,40649,3,America/Sao_Paulo,FALSE,1076442914
+Santa Rita do Sapucaí,Santa Rita do Sapucai,Pôrto Sapucahy|Santa Rita do Sapucahy,-22.2519,-45.7028,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,115.1,40635,40635,3,America/Sao_Paulo,FALSE,1076403381
+Pôrto de Moz,Porto de Moz,Pôrto de Mós,-1.7500,-52.2333,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2.3,40597,40597,3,America/Belem,FALSE,1076963542
+Remanso,Remanso,,-9.6219,-42.0808,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,8.6,40586,40586,3,America/Bahia,FALSE,1076051035
+Santa Maria da Boa Vista,Santa Maria da Boa Vista,Santa Maria Boa Vista|Coripós|Boa Vista,-8.8089,-39.8250,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,13.5,40578,40578,3,America/Recife,FALSE,1076034588
+Andradas,Andradas,Caracol,-22.0678,-46.5689,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,86.8,40548,40548,3,America/Sao_Paulo,FALSE,1076414147
+Guariba,Guariba,,-21.3600,-48.2283,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,149.7,40487,40487,3,America/Sao_Paulo,FALSE,1076624279
+Almenara,Almenara,Vigia|São João de Vigia,-16.1839,-40.6939,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,17.5,40364,40364,3,America/Sao_Paulo,FALSE,1076953924
+Curuçá,Curuca,,-0.7339,-47.8550,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,60.0,40342,40342,3,America/Belem,FALSE,1076098229
+Colinas,Colinas,Picos,-6.0258,-44.2489,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,20.4,40306,40306,3,America/Fortaleza,FALSE,1076657010
+Autazes,Autazes,Sao Longuilho|Ambrósio Aires,-3.5800,-59.1308,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,5.3,40290,40290,3,America/Manaus,FALSE,1076415677
+Afogados da Ingazeira,Afogados da Ingazeira,Passagem dos Afogados|Afogados|Afogados da Ingàzeira,-7.7508,-37.6389,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,106.5,40241,40241,3,America/Recife,FALSE,1076271045
+Boa Esperança,Boa Esperanca,Dores da Boa Esperanca,-21.0900,-45.5658,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,46.8,40219,40219,3,America/Sao_Paulo,FALSE,1076371124
+Pedra Branca,Pedra Branca,Tabuleiro da Peruca,-5.4539,-39.7169,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,30.8,40187,40187,3,America/Fortaleza,FALSE,1076190370
+Santa Quitéria,Santa Quiteria,,-4.3364,-40.1536,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,9.4,40183,40183,3,America/Fortaleza,FALSE,1076565535
+Salinas,Salinas,,-16.1185,-42.1740,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,21.2,40178,40178,3,America/Sao_Paulo,FALSE,1076633358
+Gramado,Gramado,Grama,-29.4000,-50.8667,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,168.8,40134,40134,3,America/Sao_Paulo,FALSE,1076167286
+Socorro,Socorro,Soccorro,-22.5914,-46.5289,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,89.5,40122,40122,3,America/Sao_Paulo,FALSE,1076716761
+Curitibanos,Curitibanos,Curitybanos,-27.3000,-50.5750,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,42.1,40045,40045,3,America/Sao_Paulo,FALSE,1076198267
+Armação dos Búzios,Armacao dos Buzios,Saco de Fora|Búzios,-22.7469,-41.8819,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,577.4,40006,40006,3,America/Sao_Paulo,FALSE,1076574611
+Pinhal,Pinhal,Espirito Santo do Pinhal,-22.1908,-46.7408,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,102.0,39816,39816,3,America/Sao_Paulo,FALSE,1076552956
+Capelinha,Capelinha,Capellinha,-17.6908,-42.5158,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,41.0,39624,39624,3,America/Sao_Paulo,FALSE,1076950734
+Tucumã,Tucuma,,-6.7519,-51.1539,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,15.7,39550,39550,3,America/Belem,FALSE,1076697803
+São Gonçalo dos Campos,Sao Goncalo dos Campos,São Gonçalo,-12.4328,-38.9669,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,131.4,39513,39513,3,America/Bahia,FALSE,1076071963
+Nova Viçosa,Nova Vicosa,Viçosa|Marobá,-17.8833,-39.3667,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,29.8,39509,39509,3,America/Bahia,FALSE,1076116919
+Itápolis,Itapolis,,-21.5958,-48.8128,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,39.6,39493,39493,3,America/Sao_Paulo,FALSE,1076174719
+Presidente Venceslau,Presidente Venceslau,Presidente Wenceslaú,-21.8761,-51.8439,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,52.2,39407,39407,3,America/Sao_Paulo,FALSE,1076627824
+Guajará-Mirim,Guajara-Mirim,Guayaramerim,-10.7828,-65.3394,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,1.6,39386,39386,3,America/La_Paz,FALSE,1076692558
+Amambaí,Amambai,União|Patrimônio União,-23.1039,-55.2258,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,9.4,39325,39325,3,America/Campo_Grande,FALSE,1076013576
+Jacarèzinho,Jacarezinho,Jacarezinho|Jacaresinho,-23.1608,-49.9689,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,6488.0,39322,39322,2,America/Sao_Paulo,FALSE,1076955757
+Guaíra,Guaira,Guahyra|Guayra,-20.3183,-48.3106,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,31.2,39273,39273,3,America/Sao_Paulo,FALSE,1076361005
+Oliveira,Oliveira,Olivera,-20.6958,-44.8269,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,43.8,39262,39262,3,America/Sao_Paulo,FALSE,1076723364
+Matinhos,Matinhos,,-25.8167,-48.5333,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,335.4,39259,39259,3,America/Sao_Paulo,FALSE,1076832060
+Rio Negrinho,Rio Negrinho,,-26.2500,-49.5167,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,43.2,39258,39258,3,America/Sao_Paulo,FALSE,1076110694
+Visconde do Rio Branco,Visconde do Rio Branco,Rio Branco,-21.0103,-42.8406,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,161.8,39160,39160,3,America/Sao_Paulo,FALSE,1076854756
+Várzea Alegre,Varzea Alegre,Várzea Alegra,-6.7889,-39.2958,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,46.6,38984,38984,3,America/Fortaleza,FALSE,1076418638
+São Fidélis,Sao Fidelis,,-21.6458,-41.7469,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,37.9,38939,38939,3,America/Sao_Paulo,FALSE,1076411461
+São Raimundo Nonato,Sao Raimundo Nonato,Sao Raymundo Nonato|Raimundo Nonato|São Raimundo Nontato,-9.0150,-42.6989,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,,16.0,38934,38934,3,America/Fortaleza,FALSE,1076608833
+Brumadinho,Brumadinho,,-20.1428,-44.2000,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,60.9,38915,38915,3,America/Sao_Paulo,FALSE,1076272564
+São Mateus do Maranhão,Sao Mateus do Maranhao,,-4.0333,-44.4667,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,49.6,38829,38829,3,America/Fortaleza,FALSE,1076550429
+Santa Helena de Goiás,Santa Helena de Goias,Santa Helena|Ipeguari|Helena de Goiás,-17.7214,-50.6036,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,34.4,38808,38808,3,America/Sao_Paulo,FALSE,1076150197
+Campina Grande do Sul,Campina Grande do Sul,Timbu|Campina Grande,-25.3058,-49.0550,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,44.5,38769,38769,3,America/Sao_Paulo,FALSE,1076807751
+Penalva,Penalva,,-3.3000,-45.1667,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,49.3,38731,38731,3,America/Fortaleza,FALSE,1076744863
+Ouro Branco,Ouro Branco,,-20.5208,-43.6919,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,149.7,38724,38724,3,America/Sao_Paulo,FALSE,1076485763
+Paracuru,Paracuru,,-3.4000,-39.0667,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,127.6,38691,38691,3,America/Fortaleza,FALSE,1076591278
+Santa Maria da Vitória,Santa Maria da Vitoria,Santa Maria,-13.4000,-44.2000,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,19.6,38604,38604,3,America/Bahia,FALSE,1076607443
+Rosário,Rosario,,-2.9339,-44.2350,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,56.2,38475,38475,3,America/Fortaleza,FALSE,1076804900
+Itaitinga,Itaitinga,,-3.9667,-38.5167,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,5659.1,38325,38325,2,America/Fortaleza,FALSE,1076730632
+Novo Horizonte,Novo Horizonte,,-21.3356,-49.2208,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,41.1,38324,38324,3,America/Sao_Paulo,FALSE,1076842025
+Iturama,Iturama,Camélia|Santa Rosa,-19.7297,-50.1961,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,27.3,38295,38295,3,America/Sao_Paulo,FALSE,1076049375
+Pitangueiras,Pitangueiras,,-21.0094,-48.2217,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,89.0,38211,38211,3,America/Sao_Paulo,FALSE,1076000181
+Américo Brasiliense,Americo Brasiliense,,-21.7361,-48.1114,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,309.5,38202,38202,3,America/Sao_Paulo,FALSE,1076027153
+Oeiras,Oeiras,Mocha,-7.0167,-42.1333,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,14.0,38161,38161,3,America/Fortaleza,FALSE,1076220246
+Matozinhos,Matozinhos,Mattosinhos,-19.5578,-44.0808,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,1022.2,38151,38151,3,America/Sao_Paulo,FALSE,1076626899
+Entre Rios,Entre Rios,Nossa Senhora dos Prazeres do Inhambupe,-11.9419,-38.0839,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,31.3,38098,38098,3,America/Bahia,FALSE,1076914935
+Mucuri,Mucuri,Porto Alegre|Mucury,-18.0858,-39.5508,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,21.4,37975,37975,3,America/Bahia,FALSE,1076403815
+Pedro II,Pedro II,Matões|Itamaraty|Pedro Segundo,-4.4167,-41.4667,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,25.0,37894,37894,3,America/Fortaleza,FALSE,1076812228
+Mateus Leme,Mateus Leme,Matheus Leme,-19.9858,-44.4278,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,125.1,37841,37841,3,America/Sao_Paulo,FALSE,1076446394
+Santaluz,Santaluz,Santa Luzia|Santa Luz|Santa Luiza,-11.2558,-39.3750,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,24.2,37834,37834,3,America/Bahia,FALSE,1076830828
+Pentecoste,Pentecoste,,-3.8000,-39.2833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,27.4,37813,37813,3,America/Fortaleza,FALSE,1076355140
+Afuá,Afua,Affua,-0.1569,-50.3869,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,4.5,37765,37765,3,America/Belem,FALSE,1076124321
+Mombaça,Mombaca,Maria Pereira,-5.7428,-39.6278,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,17.8,37735,37735,3,America/Fortaleza,FALSE,1076957950
+São Francisco do Conde,Sao Francisco do Conde,São Francisco,-12.6500,-38.6833,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,143.5,37732,37732,3,America/Bahia,FALSE,1076969118
+Jacundá,Jacunda,,-4.4508,-49.1158,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,18.8,37707,37707,3,America/Belem,FALSE,1076998765
+Custódia,Custodia,,-8.0875,-37.6431,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,26.8,37699,37699,3,America/Recife,FALSE,1076621453
+Massapê,Massape,Serra Verde,-3.5228,-40.3428,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,66.0,37697,37697,3,America/Fortaleza,FALSE,1076000173
+Tietê,Tiete,,-23.1019,-47.7147,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,96.0,37663,37663,3,America/Sao_Paulo,FALSE,1076154000
+Benjamin Constant,Benjamin Constant,Benjamim Constant,-4.3828,-70.0308,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,4.3,37648,37648,3,America/Eirunepe,FALSE,1076933556
+Bom Jardim,Bom Jardim,,-7.7958,-35.5869,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,168.8,37629,37629,3,America/Recife,FALSE,1076905890
+Jeremoabo,Jeremoabo,Geremoabo,-10.0669,-38.3500,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,7.9,37626,37626,3,America/Bahia,FALSE,1076509996
+Rio Brilhante,Rio Brilhante,Caiuás|Entre Rios,-21.8019,-54.5458,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,,9.4,37601,37601,3,America/Campo_Grande,FALSE,1076414627
+Sirinhaém,Sirinhaem,Serinhaem,-8.5947,-35.1139,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,100.4,37596,37596,3,America/Recife,FALSE,1076674219
+Rio Branco do Sul,Rio Branco do Sul,Votuverava|Rio Branco,-25.1667,-49.3000,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,46.1,37558,37558,3,America/Sao_Paulo,FALSE,1076759925
+Paraty,Paraty,Parati,-23.2194,-44.7147,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,40.4,37533,37533,3,America/Sao_Paulo,FALSE,1076616643
+Atalaia,Atalaia,,-9.5019,-36.0228,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,70.5,37512,37512,3,America/Maceio,FALSE,1076630141
+Turiaçu,Turiacu,Tury-Assú|Turiassú,-1.6628,-45.3719,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,14.5,37491,37491,3,America/Fortaleza,FALSE,1076381653
+Itaqui,Itaqui,Itaquy,-29.1167,-56.5500,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,11.0,37489,37489,3,America/Sao_Paulo,FALSE,1076882439
+Bonito,Bonito,,-8.4700,-35.7289,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,93.8,37476,37476,3,America/Recife,FALSE,1076501019
+Amargosa,Amargosa,,-13.0300,-39.6050,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,83.8,37441,36522,3,America/Bahia,FALSE,1076608607
+Cansanção,Cansancao,,-10.6708,-39.4978,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,28.4,37439,37439,3,America/Bahia,FALSE,1076743191
+Porteirinha,Porteirinha,,-15.7486,-43.0236,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,21.4,37438,37438,3,America/Sao_Paulo,FALSE,1076606467
+Agudos,Agudos,,-22.4739,-48.9836,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,38.7,37401,37401,3,America/Sao_Paulo,FALSE,1076000779
+Santa Cruz,Santa Cruz,,-6.2289,-36.0228,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,59.8,37313,37313,3,America/Fortaleza,FALSE,1076706078
+São Manuel,Sao Manuel,São Manoel do Paraizo,-22.7308,-48.5708,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,57.3,37289,37289,3,America/Sao_Paulo,FALSE,1076604538
+Amarante do Maranhão,Amarante do Maranhao,Amarante do Grajau,-5.6000,-46.7500,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,4.8,37091,37091,3,America/Fortaleza,FALSE,1076306284
+Dom Pedrito,Dom Pedrito,,-30.9670,-54.6670,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,7.1,36981,36981,3,America/Sao_Paulo,FALSE,1076917608
+Campos Novos,Campos Novos,,-27.4019,-51.2250,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,22.3,36932,36932,3,America/Sao_Paulo,FALSE,1076882483
+Missão Velha,Missao Velha,,-7.2500,-39.1428,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,56.6,36822,36822,3,America/Fortaleza,FALSE,1076844582
+Ipueiras,Ipueiras,Impueiras,-4.5431,-40.7167,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,25.0,36798,36798,3,America/Fortaleza,FALSE,1076672763
+Mandaguari,Mandaguari,Lovat,-23.5478,-51.6708,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,109.3,36716,36716,3,America/Sao_Paulo,FALSE,1076000964
+José Bonifácio,Jose Bonifacio,,-21.0528,-49.6878,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,42.6,36633,36633,3,America/Sao_Paulo,FALSE,1076809600
+Rosário do Sul,Rosario do Sul,Rosário,-30.2500,-54.9167,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,8.4,36630,36630,3,America/Sao_Paulo,FALSE,1076900712
+Lajedo,Lajedo,Lagedo,-8.6639,-36.3200,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,193.7,36628,36628,3,America/Recife,FALSE,1076183844
+São João da Barra,Sao Joao da Barra,São Joao De Barra,-21.6400,-41.0508,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,79.7,36573,36573,3,America/Sao_Paulo,FALSE,1076887451
+Barra do Choça,Barra do Choca,Barra da Choça,-14.8808,-40.5789,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,46.9,36539,36539,3,America/Bahia,FALSE,1076410831
+Barra Bonita,Barra Bonita,,-22.4947,-48.5581,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,241.9,36321,36321,3,America/Sao_Paulo,FALSE,1076780548
+Tuntum,Tuntum,Tumtum,-5.2333,-44.6500,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,2.3,36251,36251,3,America/Fortaleza,FALSE,1076818343
+Aparecida,Aparecida,Apparecida,-22.8472,-45.2300,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,298.9,36185,36185,3,America/Sao_Paulo,FALSE,1076806368
+Girau do Ponciano,Girau do Ponciano,Belo Horizonte|Jirau do Ponciano|Ponciano|Giral do Ponceano,-9.8839,-36.8289,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,71.9,36102,36102,3,America/Maceio,FALSE,1076704674
+Apodi,Apodi,Apody,-5.6639,-37.7989,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,22.5,36094,36094,3,America/Fortaleza,FALSE,1076092856
+Piuí,Piui,Piumhy,-20.4650,-45.9578,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,40.0,36062,36062,3,America/Sao_Paulo,FALSE,1076338261
+Maragogipe,Maragogipe,Maragojipe,-12.7778,-38.9189,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,81.5,35859,35859,3,America/Bahia,FALSE,1076474180
+Igarapé-Açu,Igarape-Acu,João Pessoa|Igarapé-Assú,-1.1269,-47.6178,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,45.5,35797,35797,3,America/Belem,FALSE,1076684764
+Aliança,Alianca,Alliança,-7.6028,-35.2308,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,131.0,35741,35741,3,America/Recife,FALSE,1076773543
+Iporá,Ipora,Itajubá,-16.4411,-51.1194,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,34.8,35684,35684,3,America/Sao_Paulo,FALSE,1076392298
+Goiatuba,Goiatuba,Bananeiras,-18.0111,-49.3569,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,14.4,35649,35649,3,America/Sao_Paulo,FALSE,1076079439
+Bariri,Bariri,Bariry,-22.0744,-48.7403,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,80.7,35558,35558,3,America/Sao_Paulo,FALSE,1076167446
+Bôca do Acre,Boca do Acre,Santa Maria da Bôca do Acre|Foz do Acre|Bocca do Acre,-8.7519,-67.3978,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.6,35447,35447,3,America/Manaus,FALSE,1076558816
+Feijó,Feijo,Villa Feijo|Vila Feijó,-8.1639,-70.3539,Brazil,BR,BRA,Acre,Acre,BR-AC,state,minor,1.5,35426,35426,3,America/Rio_Branco,FALSE,1076695082
+Pilar,Pilar,Manguaba,-9.5972,-35.9567,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,142.1,35370,35370,3,America/Maceio,FALSE,1076033888
+Rio Real,Rio Real,Brejo Grande|Barracão,-11.4667,-37.9333,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,49.3,35362,35362,3,America/Bahia,FALSE,1076770840
+Pilão Arcado,Pilao Arcado,,-10.0028,-42.5039,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,3.0,35357,35357,3,America/Bahia,FALSE,1076876998
+Conceição de Jacuípe,Conceicao de Jacuipe,Concaição do Jacuípe,-12.3269,-38.7650,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,21.7,35308,35308,3,America/Bahia,FALSE,1076309231
+Barra do Bugres,Barra do Bugres,Barra Dos Bugres|Barra do Rio dos Bugres,-15.0728,-57.1808,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,,4.9,35307,35307,3,America/Cuiaba,FALSE,1076717726
+Baturité,Baturite,,-4.3289,-38.8850,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,114.1,35218,35218,3,America/Fortaleza,FALSE,1076144455
+Bom Jesus do Itabapoana,Bom Jesus do Itabapoana,Bom Jesus de Itabapoana,-21.1339,-41.6800,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,58.8,35173,35173,3,America/Sao_Paulo,FALSE,1076034658
+Jaguariaíva,Jaguariaiva,Jajuaryahiva|Jaguariahyva,-24.2500,-49.7000,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,23.1,35141,35141,3,America/Sao_Paulo,FALSE,1076322206
+Adamantina,Adamantina,,-21.6847,-51.0733,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,85.3,35111,35111,3,America/Sao_Paulo,FALSE,1076252044
+Confresa,Confresa,,-10.6439,-51.5689,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,6.1,35075,35075,3,America/Cuiaba,FALSE,1076002744
+Ouro Preto d’Oeste,Ouro Preto d'Oeste,Ouro Prêto do Oeste,-10.7481,-62.2158,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,17.8,35044,35044,3,America/Porto_Velho,FALSE,1076571637
+Charqueadas,Charqueadas,Xarqueda|Xarqueada|Charqueada|Pacencia,-29.9667,-51.6333,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,161.7,35012,35012,3,America/Sao_Paulo,FALSE,1076933382
+Palotina,Palotina,,-24.2833,-53.8397,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,36.8,35011,35011,3,America/Sao_Paulo,FALSE,1076516410
+Prado,Prado,,-17.3408,-39.2208,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,21.0,35003,35003,3,America/Bahia,FALSE,1076433537
+Pimenta Bueno,Pimenta Bueno,,-11.6725,-61.1936,Brazil,BR,BRA,Rondônia,Rondonia,BR-RO,state,minor,5.6,34998,34998,3,America/Porto_Velho,FALSE,1076267246
+Padre Bernardo,Padre Bernardo,Barroca,-15.1655,-48.2903,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,11.1,34967,34967,3,America/Sao_Paulo,FALSE,1076653841
+Niquelândia,Niquelandia,Sao Jose De Tocantins|São José do Tocantins,-14.4675,-48.4589,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,3.6,34964,34964,3,America/Sao_Paulo,FALSE,1076682103
+També,Tambe,Itambé,-7.4478,-35.2439,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,114.8,34935,34935,3,America/Recife,FALSE,1076207007
+Ilhabela,Ilhabela,Formosa|Villa Bella|Vilabela,-23.8150,-45.3706,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,100.5,34934,34934,3,America/Sao_Paulo,FALSE,1076323267
+Posse,Posse,,-14.0886,-46.3550,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,17.9,34914,34914,3,America/Sao_Paulo,FALSE,1076046646
+Juara,Juara,,-11.2550,-57.5200,Brazil,BR,BRA,Mato Grosso,Mato Grosso,BR-MT,state,minor,1.6,34906,34906,3,America/Cuiaba,FALSE,1076002851
+Aguaí,Aguai,Cascavel,-22.0603,-46.9736,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,73.4,34863,34863,3,America/Sao_Paulo,FALSE,1076299565
+São José do Belmonte,Sao Jose do Belmonte,Manissobal|Belmonte|Maniçobal,-7.8608,-38.7600,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,23.5,34843,34843,3,America/Recife,FALSE,1076639958
+Santa Fé do Sul,Santa Fe do Sul,,-20.2689,-50.5458,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,167.1,34794,34794,3,America/Sao_Paulo,FALSE,1076177037
+São Luís Gonzaga,Sao Luis Gonzaga,São Luiz Gonzaga|São Luiz,-28.4078,-54.9608,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,26.8,34752,34752,3,America/Sao_Paulo,FALSE,1076320357
+Castelo,Castelo,Estancia do Castello|Castello,-20.6039,-41.1850,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,51.9,34747,34747,3,America/Sao_Paulo,FALSE,1076313406
+Bagre,Bagre,Bacre,-1.9000,-50.1639,Brazil,BR,BRA,Pará,Para,BR-PA,state,,7.9,34711,34711,3,America/Belem,FALSE,1076537991
+Rio Pardo,Rio Pardo,Poacá,-29.9897,-52.3781,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,16.9,34654,34654,3,America/Sao_Paulo,FALSE,1076675236
+Bodocó,Bodoco,,-7.7778,-39.9408,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,21.5,34478,34478,3,America/Recife,FALSE,1076358937
+Bela Vista de Goiás,Bela Vista de Goias,Suçuapara|Sussuapara|Bella Vista|Bela Vista,-16.9667,-48.9500,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,27.0,34445,34445,3,America/Sao_Paulo,FALSE,1076686680
+Itaporanga d’Ajuda,Itaporanga d'Ajuda,Irapiranga|Itaporanga,-10.9978,-37.3108,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,45.4,34411,34411,3,America/Maceio,FALSE,1076537619
+São Joaquim de Bicas,Sao Joaquim de Bicas,Bicas,-20.0489,-44.2739,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,474.1,34348,34348,3,America/Sao_Paulo,FALSE,1076293816
+Garibaldi,Garibaldi,,-29.2889,-51.5642,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,204.7,34335,34335,3,America/Sao_Paulo,FALSE,1076481816
+Araçuaí,Aracuai,Arássuí|Arassuaí|Arassuahy,-16.8500,-42.0700,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,15.3,34297,34297,3,America/Sao_Paulo,FALSE,1076501078
+São Pedro,Sao Pedro,,-22.5486,-47.9139,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,56.3,34284,34284,3,America/Sao_Paulo,TRUE,1076401713
+Almeirim,Almeirim,Almerim,-1.5228,-52.5819,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,0.5,34280,34280,3,America/Santarem,FALSE,1076655786
+Nova Cruz,Nova Cruz,,-6.4778,-35.4339,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,123.4,34269,34269,3,America/Fortaleza,FALSE,1076169350
+São Desidério,Sao Desiderio,,-12.3667,-44.9667,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,5155.4,34266,34266,2,America/Bahia,FALSE,1076278126
+Pomerode,Pomerode,Testo|Rio do Testo,-26.7408,-49.1769,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,159.6,34263,34263,3,America/Sao_Paulo,FALSE,1076620376
+Colinas do Tocantins,Colinas do Tocantins,,-8.0589,-48.4750,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,40.6,34233,34233,3,America/Araguaina,FALSE,1076519835
+São Sebastião,Sao Sebastiao,Salomé,-9.9339,-36.5539,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,3188.8,34211,34211,2,America/Maceio,FALSE,1076306142
+Curaçá,Curaca,,-8.9919,-39.9078,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,5.3,34180,34180,3,America/Bahia,FALSE,1076762736
+Brejo,Brejo,,-3.6839,-42.7500,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,31.8,34120,34120,3,America/Fortaleza,FALSE,1076010144
+Cravinhos,Cravinhos,,-21.3403,-47.7294,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,109.6,34110,34110,3,America/Sao_Paulo,FALSE,1076465069
+Portão,Portao,,-29.6928,-51.2350,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,213.0,34072,34072,3,America/Sao_Paulo,FALSE,1076512435
+São Domingos do Maranhão,Sao Domingos do Maranhao,Pucumã,-5.7000,-44.3667,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,26.1,34034,34034,3,America/Fortaleza,FALSE,1076192320
+Vassouras,Vassouras,,-22.4039,-43.6628,Brazil,BR,BRA,Rio de Janeiro,Rio de Janeiro,BR-RJ,state,,63.1,33976,33976,3,America/Sao_Paulo,FALSE,1076049981
+Curralinho,Curralinho,,-1.8139,-49.7950,Brazil,BR,BRA,Pará,Para,BR-PA,state,,9.4,33903,33903,3,America/Belem,FALSE,1076735826
+Itiúba,Itiuba,,-10.6908,-39.8528,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,19.6,33872,33872,3,America/Bahia,TRUE,1076953529
+Palmeira,Palmeira,,-25.4289,-50.0058,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,23.2,33855,33855,3,America/Sao_Paulo,FALSE,1076227836
+São Luís de Montes Belos,Sao Luis de Montes Belos,,-16.5222,-50.3789,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,41.0,33852,33852,3,America/Sao_Paulo,FALSE,1076530689
+Oeiras do Pará,Oeiras do Para,Araticu,-1.9667,-49.8500,Brazil,BR,BRA,Pará,Para,BR-PA,state,,8.8,33844,33844,3,America/Belem,FALSE,1076592894
+Inhambupe,Inhambupe,Inhambupo,-11.7833,-38.3500,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,27.6,33790,33790,3,America/Bahia,FALSE,1076169385
+Braço do Norte,Braco do Norte,,-28.2750,-49.1658,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,152.6,33773,33773,3,America/Sao_Paulo,FALSE,1076735238
+Várzea da Palma,Varzea da Palma,,-17.5978,-44.7308,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,15.4,33744,33744,3,America/Sao_Paulo,FALSE,1076481562
+Jaguaribe,Jaguaribe,Jaguaribe Mirim,-5.8908,-38.6219,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,18.0,33726,33726,3,America/Fortaleza,FALSE,1076039425
+Penha,Penha,Penha de Itapocoroy,-26.7689,-48.6458,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,572.7,33663,33663,3,America/Sao_Paulo,FALSE,1076551669
+Morro do Chapéu,Morro do Chapeu,Morro do Chapéo|Morro de Chapeo,-11.5500,-41.1570,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,6.1,33594,33594,3,America/Bahia,FALSE,1076567926
+Pitanga,Pitanga,,-24.7569,-51.7608,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,20.2,33567,33567,3,America/Sao_Paulo,FALSE,1076485533
+Ribeirão,Ribeirao,,-8.5139,-35.3778,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,116.3,33507,33507,3,America/Recife,FALSE,1076626596
+Fraiburgo,Fraiburgo,,-27.0258,-50.9208,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,61.3,33481,33481,3,America/Sao_Paulo,FALSE,1076662614
+Coxim,Coxim,Herculânea|Herculânia,-18.5069,-54.7600,Brazil,BR,BRA,Mato Grosso do Sul,Mato Grosso do Sul,BR-MS,state,minor,5.2,33459,33459,3,America/Campo_Grande,FALSE,1076196665
+Poço Redondo,Poco Redondo,,-9.8058,-37.6850,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,,27.6,33439,33439,3,America/Maceio,FALSE,1076471819
+Monteiro,Monteiro,Alagôa do Monteiro|Monterio,-7.8889,-37.1200,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,,4243.5,33433,33433,2,America/Fortaleza,FALSE,1076669282
+Riachão do Jacuípe,Riachao do Jacuipe,Riachão do Jacuhype|Riachão,-11.8100,-39.3819,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,28.1,33386,33386,3,America/Bahia,FALSE,1076945082
+Iperó,Ipero,,-23.3503,-47.6886,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,195.2,33367,33367,3,America/Sao_Paulo,FALSE,1076747973
+Estreito,Estreito,Paranaidji|Presidente Vargas,-6.5608,-47.4508,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,12.2,33294,33294,3,America/Fortaleza,FALSE,1076867067
+João Câmara,Joao Camara,Baixa Verde,-5.5378,-35.8200,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,46.6,33290,33290,3,America/Fortaleza,FALSE,1076573306
+Capim Grosso,Capim Grosso,,-11.3808,-40.0128,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,71.5,33235,33235,3,America/Bahia,FALSE,1076073401
+Eirunepé,Eirunepe,São Phelippe|São Felippe|São Felipe|São Filipe|João Pessôa,-6.6600,-69.8739,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,2.2,33170,33170,3,America/Eirunepe,FALSE,1076884388
+Palmeira das Missões,Palmeira das Missoes,Palmeira,-27.9167,-53.2833,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,3.3,33131,33131,3,America/Sao_Paulo,FALSE,1076243689
+Borba,Borba,,-4.3878,-59.5939,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,0.7,33056,33056,3,America/Manaus,FALSE,1076143096
+Taiobeiras,Taiobeiras,Tayobeiras,-15.8072,-42.2228,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,27.7,33050,33050,3,America/Sao_Paulo,FALSE,1076685590
+Touros,Touros,,-5.1989,-35.4608,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,39.4,33035,33035,3,America/Fortaleza,FALSE,1076875720
+Osvaldo Cruz,Osvaldo Cruz,,-21.7967,-50.8786,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,14.6,33000,33000,3,America/Sao_Paulo,FALSE,1076438430
+Pôrto União,Porto Uniao,Porto Unicão|Pôrto do Uniao|União,-26.2378,-51.0778,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,38.7,32970,32970,3,America/Sao_Paulo,FALSE,1076057988
+São Paulo de Olivença,Sao Paulo de Olivenca,,-3.4594,-68.9333,Brazil,BR,BRA,Amazonas,Amazonas,BR-AM,state,minor,1.7,32967,32967,3,America/Manaus,FALSE,1076704300
+Itamarandiba,Itamarandiba,Itamarandyba,-17.8569,-42.8589,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,12.0,32948,32948,3,America/Sao_Paulo,FALSE,1076820842
+Biritiba-Mirim,Biritiba-Mirim,Burityba-Mirim|Biritimbomirim,-23.5728,-46.0389,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,103.8,32936,32936,3,America/Sao_Paulo,FALSE,1076510731
+Urbano Santos,Urbano Santos,,-3.2000,-43.3833,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,27.2,32812,32812,3,America/Fortaleza,FALSE,1076959663
+Sertânia,Sertania,Alagoa de Baixo,-8.0706,-37.2658,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,13.5,32811,32811,3,America/Recife,FALSE,1076986072
+Igrejinha,Igrejinha,,-29.5739,-50.7900,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,239.8,32808,32808,3,America/Sao_Paulo,FALSE,1076637934
+Teutônia,Teutonia,,-29.4333,-51.8000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,37.8,32797,32797,3,America/Sao_Paulo,FALSE,1076130983
+Bela Cruz,Bela Cruz,,-3.0508,-40.1678,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,38.9,32775,32775,3,America/Fortaleza,FALSE,1076116893
+Ubajara,Ubajara,,-3.8500,-40.9333,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,77.8,32767,32767,3,America/Fortaleza,FALSE,1076215653
+Ivaiporã,Ivaipora,,-24.2500,-51.7500,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,6.4,32720,32720,3,America/Sao_Paulo,FALSE,1076889382
+Jaguarari,Jaguarari,Jaguarary,-10.2667,-40.2000,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,12.7,32703,32703,3,America/Bahia,FALSE,1076470682
+São João Batista,Sao Joao Batista,São João Baptista,-27.2758,-48.8489,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,163.0,32687,32687,3,America/Sao_Paulo,FALSE,1076000370
+Itaíba,Itaiba,Pau Ferro|Páo Ferro,-8.9478,-37.4228,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,30.6,32650,32650,3,America/Recife,FALSE,1076158935
+Frederico Westphalen,Frederico Westphalen,,-27.3667,-53.4000,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,123.1,32627,32627,3,America/Sao_Paulo,FALSE,1076744210
+Esplanada,Esplanada,,-11.7958,-37.9450,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,25.1,32556,32556,3,America/Bahia,FALSE,1076376279
+Caçapava do Sul,Cacapava do Sul,Caçapava,-30.5122,-53.4908,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,10.7,32515,32515,3,America/Sao_Paulo,FALSE,1076550820
+Pombal,Pombal,,-6.7700,-37.8019,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,36.5,32473,32473,3,America/Fortaleza,FALSE,1076681392
+Ourilândia do Norte,Ourilandia do Norte,,-6.7550,-51.0839,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2.3,32467,32467,3,America/Belem,FALSE,1076846265
+Correntina,Correntina,,-13.3333,-44.6500,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,2.7,32459,32459,3,America/Bahia,FALSE,1076400445
+Pires do Rio,Pires do Rio,,-17.3014,-48.2800,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,,30.2,32373,32373,3,America/Sao_Paulo,FALSE,1076357135
+Guararapes,Guararapes,,-21.2608,-50.6428,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,33.8,32346,32346,3,America/Sao_Paulo,FALSE,1076646816
+Cachoeira Paulista,Cachoeira Paulista,Valparaíba|Cachoeira,-22.6650,-45.0094,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,112.1,32294,32294,3,America/Sao_Paulo,FALSE,1076563996
+Guanhães,Guanhaes,,-18.7833,-42.9500,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,30.0,32244,32244,3,America/Sao_Paulo,FALSE,1076235295
+São Bento,Sao Bento,,-6.4858,-37.4508,Brazil,BR,BRA,Paraíba,Paraiba,BR-PB,state,minor,129.9,32235,32235,3,America/Fortaleza,FALSE,1076842336
+Laranjeiras do Sul,Laranjeiras do Sul,Iguassú|Laranjeiras|Laranginha|Iguaçu,-25.4167,-52.4167,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,48.0,32227,32227,3,America/Sao_Paulo,FALSE,1076918166
+Paraipaba,Paraipaba,Tigre,-3.4333,-39.1167,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,107.0,32216,32216,3,America/Fortaleza,FALSE,1076816341
+Estrêla,Estrela,Estrella,-29.5019,-51.9658,Brazil,BR,BRA,Rio Grande do Sul,Rio Grande do Sul,BR-RS,state,,174.3,32183,32183,3,America/Sao_Paulo,FALSE,1076456706
+Gandu,Gandu,,-13.7439,-39.4869,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,minor,132.3,32178,32178,3,America/Bahia,FALSE,1076167274
+Ibaté,Ibate,Ibaeté,-21.9550,-47.9969,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,111.1,32178,32178,3,America/Sao_Paulo,FALSE,1076395966
+Matões,Matoes,Sao José Dos Mattoes|São Jose dos Matões,-5.5189,-43.1989,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,17.3,32174,32174,3,America/Fortaleza,FALSE,1076560860
+Maragogi,Maragogi,Maragogy|Maragoji|Gamela,-9.0122,-35.2225,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,minor,96.0,32174,32174,3,America/Maceio,FALSE,1076984582
+Catende,Catende,,-8.6669,-35.7169,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,minor,155.4,32156,32156,3,America/Recife,FALSE,1076237989
+Miguel Alves,Miguel Alves,,-4.1667,-42.9000,Brazil,BR,BRA,Piauí,Piaui,BR-PI,state,minor,23.1,32150,32150,3,America/Fortaleza,FALSE,1076086416
+Pojuca,Pojuca,,-12.4308,-38.3278,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,15.9,32129,32129,3,America/Bahia,TRUE,1076704575
+Campo Alegre,Campo Alegre,Campo Alegre do Mosquito|Mosquito,-9.7819,-36.3508,Brazil,BR,BRA,Alagoas,Alagoas,BR-AL,state,,104.2,32106,32106,3,America/Maceio,TRUE,1076386570
+Guaíra,Guaira,Guayrá|Porto Guaira|Guahyra,-24.0800,-54.2558,Brazil,BR,BRA,Paraná,Parana,BR-PR,state,,57.3,32097,32097,3,America/Sao_Paulo,FALSE,1076687981
+Ouro Fino,Ouro Fino,,-22.2828,-46.3689,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,60.1,32094,32094,3,America/Sao_Paulo,FALSE,1076007504
+São Miguel Arcanjo,Sao Miguel Arcanjo,São Miguel Archanjo,-23.8783,-47.9972,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,34.5,32039,32039,3,America/Sao_Paulo,FALSE,1076595585
+Brasília de Minas,Brasilia de Minas,Brasília|Brazilia,-16.2078,-44.4289,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,22.9,32025,32025,3,America/Sao_Paulo,FALSE,1076970617
+Nísia Floresta,Nisia Floresta,Papary|Papari,-6.0667,-35.1333,Brazil,BR,BRA,Rio Grande do Norte,Rio Grande do Norte,BR-RN,state,minor,23.3,31942,31942,3,America/Fortaleza,FALSE,1076637133
+Nerópolis,Neropolis,,-16.4050,-49.2167,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,156.4,31932,31932,3,America/Sao_Paulo,FALSE,1076444185
+Santo Antônio do Tauá,Santo Antonio do Taua,Santo Antônio de Tauá|Santo Antônio,-1.1833,-48.1333,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,2654.7,31918,31918,2,America/Belem,FALSE,1076012870
+Araguatins,Araguatins,São Vicente|São Vicente do Araguaya,-5.6508,-48.1239,Brazil,BR,BRA,Tocantins,Tocantins,BR-TO,state,minor,12.1,31918,31918,3,America/Araguaina,FALSE,1076919490
+Xaxim,Xaxim,,-26.9617,-52.5347,Brazil,BR,BRA,Santa Catarina,Santa Catarina,BR-SC,state,,21.3,31918,31918,3,America/Sao_Paulo,FALSE,1076578728
+São Gabriel,Sao Gabriel,São Gabriel da Palha,-19.0169,-40.5358,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,73.6,31859,31859,3,America/Sao_Paulo,FALSE,1076212257
+Palmeiras de Goiás,Palmeiras de Goias,Mataúna|Freire Alemão|Palmeira de Goiás|Palmeiras,-16.7933,-49.8853,Brazil,BR,BRA,Goiás,Goias,BR-GO,state,minor,20.7,31858,31858,3,America/Sao_Paulo,FALSE,1076618499
+Domingos Martins,Domingos Martins,,-20.3628,-40.6589,Brazil,BR,BRA,Espírito Santo,Espirito Santo,BR-ES,state,,26.0,31847,31847,3,America/Sao_Paulo,FALSE,1076223781
+Exu,Exu,Novo Exu,-7.5119,-39.7239,Brazil,BR,BRA,Pernambuco,Pernambuco,BR-PE,state,,21.6,31843,31843,3,America/Recife,FALSE,1076979284
+São Gotardo,Sao Gotardo,São Gothardo,-19.3108,-46.0489,Brazil,BR,BRA,Minas Gerais,Minas Gerais,BR-MG,state,,3897.2,31819,31819,2,America/Sao_Paulo,FALSE,1076795698
+Gurupá,Gurupa,Santo Antonio De Gurupa,-1.4050,-51.6400,Brazil,BR,BRA,Pará,Para,BR-PA,state,minor,3.7,31788,31788,3,America/Belem,FALSE,1076469550
+Descalvado,Descalvado,,-21.9039,-47.6028,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,,42.0,31756,31756,3,America/Sao_Paulo,FALSE,1076021755
+Jaguaruana,Jaguaruana,União,-4.8333,-37.7833,Brazil,BR,BRA,Ceará,Ceara,BR-CE,state,minor,36.6,31701,31701,3,America/Fortaleza,FALSE,1076906413
+Itapicuru,Itapicuru,Missão,-11.3169,-38.2328,Brazil,BR,BRA,Bahia,Bahia,BR-BA,state,,20.4,31679,31679,3,America/Bahia,FALSE,1076288432
+Capela,Capela,Capella,-10.5028,-37.0528,Brazil,BR,BRA,Sergipe,Sergipe,BR-SE,state,minor,71.8,31645,31645,3,America/Maceio,FALSE,1076554382
+Morro Agudo,Morro Agudo,,-20.7314,-48.0578,Brazil,BR,BRA,São Paulo,Sao Paulo,BR-SP,state,minor,22.8,31620,31620,3,America/Sao_Paulo,FALSE,1076136085
+Cururupu,Cururupu,,-1.8333,-44.8667,Brazil,BR,BRA,Maranhão,Maranhao,BR-MA,state,minor,28.9,31558,31558,3,America/Fortaleza,FALSE,1076284280

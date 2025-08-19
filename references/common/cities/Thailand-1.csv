@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Bangkok,Bangkok,Bangkok Metropolis|Siayuthia|Amphoe Phra Nakhon|Krungdeb|Changwat Phra Nakhon|Bankok|The City of Angels|Phra Nakhon|Krung Thep Maha Nakhon|Krung Thep|Krung Thep Maha Nakhon Amon Rattanakosin Mahintarayutthaya Maha Dilok Phop Noppharat Ratchathani Buri Rom Udom Ratchaniwet Maha Sathan Amon Phiman Awatan Sathit Sakka Thattiya Witsanukam Prasit,13.7525,100.4942,Thailand,TH,THA,Krung Thep Maha Nakhon,Krung Thep Maha Nakhon,TH-10,municipality,primary,5628.9,18007000,8305218,1,Asia/Bangkok,FALSE,1764068610
+Chiang Mai,Chiang Mai,Mueang Chiang Mai|Chiengmai|Muang Chieng Mai|Muang Jieng Hmai|Zimmé|Xieng Mai|Changwat Chiang Mai|Amphoe Muang Chiang Mai|Kiangmai,18.7953,98.9986,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,admin,2958.0,1198000,1198000,1,Asia/Bangkok,FALSE,1764662886
+Nakhon Ratchasima,Nakhon Ratchasima,Nakhon Ratchsima|Nakhaun Rachasima|Koyat|Korat|Amphoe Muang Nakhon Ratchasima|Corat|Changwat Nakhon Rarchasima|Nakonratchasima|Khorat|Muang Nakawn Rachasima|Changwat Nakhon Ratchasima|Mueang Nakhon Ratchasima|Changwat Nakhon Rat Sima|Nagor Rajasima|Nagor Rajashima|Nagara Rajasima|Nakorn Rajsima|Nakonrajsima|Nakhonratsima,14.9750,102.1000,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,admin,542.5,466098,134440,2,Asia/Bangkok,FALSE,1764752197
+Khon Kaen,Khon Kaen,Muang Khaunkaen|Muang Kaun Gean|Konkahen|Khonkhaen|Khon Kan|Kawn Ken|Changwat Muang Khon Kaen|Amphoe Phralap|Amphoe Muang Khon Kaen|Amphoe Pralap|Changwat Khon Kaen|Muang Khon Kaen|Khonkean|Khon Khen|Khohn Ken|Mueang Khon Kaen,16.4333,102.8333,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,admin,370.9,412758,115928,2,Asia/Bangkok,FALSE,1764003406
+Hat Yai,Hat Yai,Ban Hat Yai|Amphoe Hat Yai|Ban Haad Yai|Had Yai|Haad Yai,7.0167,100.4667,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,594.4,404044,159130,2,Asia/Bangkok,FALSE,1764161022
+Chon Buri,Chon Buri,Changwat Chon Buri|Ban Pla Sai|Jīlburi|Muang Jol Buri|Muang Xonburi|Cholburi|Chor Buri|Ban Pla Soi|Bang Pla Soil|Bang Pla Soi|Amphoe Muang Chon Buri|Baanburaisoi|Ban Bang Pla Soi|Mueang Chon Buri,13.3611,100.9850,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,admin,2060.8,342959,29961,2,Asia/Bangkok,FALSE,1764202077
+Phatthaya,Phatthaya,Port Phattaya|Ban Hat Phatthaya (2)|Pattaya|Ban Phatthaya|Phattaya,12.9357,100.8890,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,574.4,328961,119532,2,Asia/Bangkok,FALSE,1764492695
+Si Racha,Si Racha,Ban Si Racha|Srirachi|Sriracha|Sri Mahā Rājā|Ban Sriracha|Amphu Sri Maha Raja|Amphoe Si Racha,13.1740,100.9300,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,618.7,327172,23400,2,Asia/Bangkok,FALSE,1764003327
+Nonthaburi,Nonthaburi,Nondha Buri|Muang Nontha Buri|Muang Nonta Buri|Muang Nondha Buri|Non Buri|Changwat Nonthaburi|Amphoe Muang Nonthaburi|Nondaburi|Talat Khwan|Mueang Nonthaburi,13.8667,100.5167,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,admin,6572.5,255671,255671,2,Asia/Bangkok,FALSE,1764667935
+Pak Kret,Pak Kret,Amphoe Pak Kret|Ban Pak Kret|Pak Kred,13.9125,100.4978,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,minor,5119.3,184501,184501,2,Asia/Bangkok,FALSE,1764165203
+Surat Thani,Surat Thani,Ban Don|Ban Dohn|Bandaun|Amphoe Muang Surat Thani|Amphoe Ban Don|Mueang Surat Thani|Surashtradhani|Suras|Makham Tia|Changwat Surat Thani|Changwat Surat|Ban Makham Tir|Ban Makham Tia,9.1397,99.3306,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,admin,611.1,130703,130703,2,Asia/Bangkok,FALSE,1764338230
+Udon Thani,Udon Thani,Mueang Udon Thani|Udaun Thani|Ban Ma Keng|Udorndhani|Udorn|Mak Khaeng|Changwat Udon Thani|Changwat Udaunthani|Ban Mak Khaeng|Ban Dua Makeng|Bar Deua Ma Khong|Udon|Udornthani,17.4167,102.7500,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,admin,265.5,130274,130274,2,Asia/Bangkok,FALSE,1764676047
+Ban Bang Pu Mai,Ban Bang Pu Mai,Bang Pu|Ban Bang Pu|Ban Bang Po,13.5441,100.6175,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,8503.6,120058,120058,2,Asia/Bangkok,FALSE,1764009212
+Nakhon Si Thammarat,Nakhon Si Thammarat,Mueang Nakhon Si Thammarat|Nagor Sridhamaraj|Nagorri Sridharmrat|Nagorn Sridharmrat|Nagara Sridharmaraj|Muang Nakawn Sri Tamarat|Muang Nagorn Sridharmaraj|Nakorn Sridamaraja|Nakorn Si Thamarat|Nakon Sri Tammarat|Nakon Sritamarat|Nakon Sritamaraj|Nakon Si Tham Rat|Nakon Sitamarat|Nakon|Nakhon Srithamrat|Nakhon Srithamarat|Nakhon Sritamarai|Nakhonsithamrat|Nakhon Si Thammarht|Nakhaun Si Thammarat|Nakawn Sritamarat|Nakawn Sitamarat|Ligor|Lakon|Lakawn|Changwat Nakhon Si Thammarat|Amphoe Muang Nakhon Si Thammarat,8.4364,99.9631,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,admin,455.9,106322,106322,2,Asia/Bangkok,FALSE,1764409111
+Ban Mangkon,Ban Mangkon,,13.6138,100.6104,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,7013.5,102291,102291,2,Asia/Bangkok,FALSE,1764800579
+Ban Laem Chabang,Ban Laem Chabang,,13.0833,100.8833,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,996.0,88271,88271,3,Asia/Bangkok,FALSE,1764108164
+Nakhon Sawan,Nakhon Sawan,Muang Nakhon Savan|Muang Nakhon Sawan|Nakaun Sawan|Changwat Nakhon Sawan|Amphoe Muang Nakhon Sawan|Nagorn Sawarn|Nagara Sawan|Muang Nakawn Sawan|Muang Nagorn Sawarn|Nakorn Sawan|Naklon Sawan|Nakhaun Sawan|Nakawn Sawan|Changwat Muang Nakhon Sawan|Nagor Svarga|Nakon Sawan|Nakawan Sawn|Mueang Nakhon Sawan,15.7133,100.1353,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,admin,278.5,86439,86439,2,Asia/Bangkok,FALSE,1764821078
+Ban Talat Rangsit,Ban Talat Rangsit,Ban Rangsit|Rangsit,13.9833,100.6167,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,3813.4,79319,79319,2,Asia/Bangkok,FALSE,1764039814
+Ban Nong Prue,Ban Nong Prue,Ban Nong Pru|Ban Hnong Proe|Ban Hnohng Proe,12.9228,100.9375,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,691.1,79258,79258,3,Asia/Bangkok,FALSE,1764743967
+Ubon Ratchathani,Ubon Ratchathani,Oubon|Changwat Ubon Ratchathani|Changwat Muang Ubon|Ubon Rachatani|Muang Ubon Ratcha-Thani|Muang Ubon|Ubon Rachpani|Ubon|Ubonrajdhani|Ubonrajthani|Mueang Ubon Ratchathani|Ubonrajathani|Ubolrajdhani|Ubol Rajadhani|Ubol Rachatani|Ubol|Muang Ubun|Muang Ubol,15.2281,104.8594,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,admin,417.0,79023,79023,2,Asia/Bangkok,FALSE,1764611048
+Nakhon Pathom,Nakhon Pathom,Nakon Patom|Nagorn Pathom|Monthon Nakhon Chai Si|Nakhaun Pathom|Nakawn Patom|Changwat Nakhon Pathom|Changwat Nakhon Chai Si|Nagara Pathom|Nakhon Chai Si|Amphoe Muang Nakhon Pathom|Mueang Nakhon Pathom,13.8206,100.0625,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,admin,888.4,78780,78780,2,Asia/Bangkok,FALSE,1764251992
+Phuket,Phuket,Mueang Phuket|Amphoe Thung Kha|Tongkah|Amphoe Muang Phuket|Tongka|Bhuket|Puket|Changwat Phuket|Amphoe Mueang Phuket,7.8881,98.3975,Thailand,TH,THA,Phuket,Phuket,TH-83,province,admin,6467.5,77610,77610,2,Asia/Bangkok,FALSE,1764327831
+Ban Tha Khlong,Ban Tha Khlong,,14.0894,100.6236,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,1226.08,77243,77243,3,Asia/Bangkok,FALSE,1764699235
+Phitsanulok,Phitsanulok,Pisanuloke|Bhisanulok|Phisanulauk|Philtsanuloke|Pitsanuloke|Pitsanulok|Muang Pitsanulok|Muang Phitsanulok|Bisnulok|Bisanulok|Amphoe Muang Phitsanulok|Pitsanoulok|Changwat Phitsanulok|Amphoe Mueang Phitsanulok,16.8158,100.2636,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,admin,458.0,70871,70871,2,Asia/Bangkok,FALSE,1764140981
+Chiang Rai,Chiang Rai,Changwat Muang Chiang Rai|Xieng Rai|Jieng Rai|Chiengrai|Changwat Muang Jieng Rai|Changwat Chiang Rai|Chang Rai|Amphoe Muang Chiang Rai|Amphoe Chiang Rai|Muang Jieng Rai|Muang Chieng Rai|Muang Chiang Rai|Mueang Chiang Rai,19.9094,99.8275,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,admin,141.1,70610,70610,2,Asia/Bangkok,FALSE,1764748484
+Ko Samui,Ko Samui,Amphoe Koh Sa-mui|Naton|Na Thaun|Ban Suan Yang|Ban Naton|Ban Na Thon|Ban Na Thaun|Ban Na Dhaun|Ban Natawn|Amphoe Ko Samui|Amphoe Koksamui,9.5000,100.0000,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,301.7,68994,68994,3,Asia/Bangkok,FALSE,1764771934
+Ban Suan,Ban Suan,,13.3616,100.9795,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,2060.8,66092,66092,2,Asia/Bangkok,FALSE,1764305340
+Songkhla,Songkhla,Singgora|Monthon Nakhon Si Thammarat|Muang Songkla|Muang Sawng Kla|Senggora|Sung Kla|Singora|Singorra|Amphoe Muang Songkhla|Sawng Kla|Songkla|Monthon Nakhon Si Thamarat|Changwat Songkhla,7.2061,100.5967,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,admin,1326.0,63834,63834,2,Asia/Bangkok,FALSE,1764543650
+Ban Lam Sam Kaeo,Ban Lam Sam Kaeo,,13.9728,100.6511,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,1767.7,63271,63271,3,Asia/Bangkok,FALSE,1764012428
+Rayong,Rayong,Amphoe Tha Pradu|Mueang Rayong|Rayaung|Muang Ra-yohng|Rayohng|Muang Rayong,12.6742,101.2789,Thailand,TH,THA,Rayong,Rayong,TH-21,province,admin,693.9,61902,61902,2,Asia/Bangkok,FALSE,1764920057
+Saraburi,Saraburi,Pak Phrieu|Ban Pak Phrieo|Changwat Sara Buri|Sita|Muang Sara Buri|Pak Preo|Pak Phrio|Sraburi|Sara Buri|Mueang Saraburi|Mueang Sara Buri,14.5286,100.9114,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,admin,877.8,61750,61750,2,Asia/Bangkok,FALSE,1764111243
+Yala,Yala,Muang Yala|Changwat Yala|Ban Yala|Amphoe Mueang Yala|Amphoe Yala|Mueang Yala,6.5425,101.2831,Thailand,TH,THA,Yala,Yala,TH-95,province,admin,526.8,61250,61250,2,Asia/Bangkok,FALSE,1764430323
+Trang,Trang,Mueang Thap Thiang|Changwat Trang|Amphoe Muang Trang|Mueang Trang,7.5575,99.6103,Thailand,TH,THA,Trang,Trang,TH-92,province,admin,335.2,60591,60591,2,Asia/Bangkok,FALSE,1764343817
+Samut Sakhon,Samut Sakhon,Changwat Samut Sakhon|Ban Tachin|Ban Maha Chai|Tanchin|Taachin|Smutsakhon|Samudh Sagorn|Muang Samut Sakhon|Muang Samut Sakawn|Muang Samudh Sagorn|Mahachai|Dha-chin|Tha Chin|Tachin|Mueang Samut Sakhon|Mueang Sakhon Buri|Mueang Tha Chin,13.5486,100.2775,Thailand,TH,THA,Samut Sakhon,Samut Sakhon,TH-74,province,admin,5818.3,60103,60103,2,Asia/Bangkok,FALSE,1764502057
+Hua Hin,Hua Hin,Amphoe Hua Hin|King Amphoe Hua Hin|King Amphoe Ban Hua Hin|Ban Hua Hin|Hau Hin|Samoe Riang,12.5686,99.9578,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,minor,72.7,59369,59369,3,Asia/Bangkok,FALSE,1764352388
+Ban Rangsit,Ban Rangsit,Möng Tania Buri|Dhanya Buri|Rangsit|Thanyaburi,14.0167,100.7500,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,4210.4,58838,58838,2,Asia/Bangkok,FALSE,1764251181
+Ban Bang Kaeo,Ban Bang Kaeo,Bang Kew Yai|Ban Bang Kaeo Yai,13.6371,100.6636,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,3917.2,56949,56949,2,Asia/Bangkok,FALSE,1764813354
+Khlong Luang,Khlong Luang,Amphoe Khlong Luang|Ban Khlong Song (3)|Bang Wai|Ban Bang Wai|Amphoe Bang Wai,14.0647,100.6458,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,minor,1862.2,56128,56128,3,Asia/Bangkok,FALSE,1764560763
+Lampang,Lampang,Changwat Lampang|Amphoe Muang Lampang|Changwat Muang Nagorn Lambang|Nakawn|Lakhon|Changwat Muang Lampang|Lakhon Lampang|Muang Lakhon Lampang|Muang Nakon Lampang|Nakawn Lampang|Nakon Lampang|Muang Nagorn Lambang|Muang Lampang|Nakorn Lampang|Nakhon Lampang|Amphoe Mueang Lampang|Mueang Lampang,18.3000,99.5000,Thailand,TH,THA,Lampang,Lampang,TH-52,province,admin,183.6,55044,55044,2,Asia/Bangkok,FALSE,1764081847
+Prachuap Khiri Khan,Prachuap Khiri Khan,Prachuab Khirakhanda|Prachuab|Prachuap Giri Khan|Prachuap|Prachūab Gīrīkhan|Changwat Prachuap Khiri Khan|Prachuapgirikhand|Prachuab Kirikan|Muang Prachuabkhirikun|Mueang Prachuap Khiri Khan|Amphoe Muang Prachuap Khim Khan|Muang Prachuab Giri Khan|Prachuap Kirikan,11.8167,99.8000,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,admin,101.6,54018,54018,2,Asia/Bangkok,FALSE,1764877766
+Sakon Nakhon,Sakon Nakhon,Muang Sakon Lakon|Thatchoengchum|Sakon Nakorn|Sakon Nakhaun|Sakon Nakawn|Sakol Nakorn|Sakol Nagorn|Sakol|Sakhon Nakhon|Muang Sakon Nakawn|Mueang Sakon Nakhon|Changwat Muang Sakhon Nakhon|Changwat Sakon Nakhon|Amphoe Muang Sakhon Nakhon|Muang Sakol Nakorn|Skol Nakon|Muang Sakon Nakon|Ban That Choeng Chum,17.1564,104.1456,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,admin,154.1,53618,53618,2,Asia/Bangkok,FALSE,1764476362
+Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,Ayuthaya|Ayouthia|Monthon Ayutthaya|Krung Kao|Changwat Phra Nakhon Si Ayutthaya|Ayutya|Ayutthaya|Ayutia|Ayuthya|Ayuthia|Ayudhya|Ayutthia|Amphoe Phra Nakhon Si Ayutthaya|Phra Nakhon Si Ax Ayutthaya|Amphoe Rop Krung|Amphoe Krung Kao,14.3478,100.5606,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,admin,3567.4,52940,52940,2,Asia/Bangkok,FALSE,1764002329
+Maha Sarakham,Maha Sarakham,Talat|Ban Lat|Maha Saragam|Maha Sarakam|Changwat Maha Sarakham|Ban Talat|Ban Khlong Khleng|Amphoe Muang Maha Sarakham|Mueang Maha Sarakham|Uthai Sarakham,16.1772,103.3008,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,admin,198.9,52866,52866,2,Asia/Bangkok,FALSE,1764568961
+Ban Om Noi,Ban Om Noi,Ban Khlong Om Noi,13.7001,100.3241,Thailand,TH,THA,Samut Sakhon,Samut Sakhon,TH-74,province,,1725.6,52457,52457,3,Asia/Bangkok,FALSE,1764298817
+Muban Saeng Bua Thong,Muban Saeng Bua Thong,,13.9424,100.3913,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,2615.0,51932,51932,2,Asia/Bangkok,FALSE,1764003021
+Samut Prakan,Samut Prakan,Smutprakan|Samutpraken|Samudh Prakarn|Pakham|Paakunamu|Muang Samut Prakon|Muang Samut Prakan|Muang Samudh Prakarn|Changwat Samut Prakan|Paknam|Ban Pak Nam|Samut,13.5897,100.6386,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,admin,8503.6,51309,51309,2,Asia/Bangkok,FALSE,1764159228
+Bang Bua Thong,Bang Bua Thong,Bāng Būa Dhōhng|Amphoe Bang Bua Thong|Bang Bua Thaung|Ban Bau Thong|Ban Bang Bua Thong,13.9099,100.4263,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,minor,2615.0,50141,50141,2,Asia/Bangkok,FALSE,1764694888
+Nong Khai,Nong Khai,Muang Nawng Kai|Amphoe Muang Nong Khai|Mueang Nong Khai|Changwat Nong Khai|Naung Khai|Muang Nong Khay|Nong Kai|Nong Hai|Michai|Hnohnggai|Changwat Nang Khai|Ban Mi Chai|Nawng Kai,17.8681,102.7444,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,admin,235.2,48274,48274,2,Asia/Bangkok,FALSE,1764279113
+Chong Nonsi,Chong Nonsi,,13.6965,100.5427,Thailand,TH,THA,Krung Thep Maha Nakhon,Krung Thep Maha Nakhon,TH-10,municipality,,4794.9,47872,47872,2,Asia/Bangkok,FALSE,1764522683
+Ban Plai Bua Phatthana,Ban Plai Bua Phatthana,,13.9032,100.3989,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,1682.9,46274,46274,3,Asia/Bangkok,FALSE,1764928382
+Ban Bang Mae Nang,Ban Bang Mae Nang,,13.8815,100.3759,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1699.7,45974,45974,3,Asia/Bangkok,FALSE,1764607798
+Pattani,Pattani,Patani|Monthon Pattani|Changwat Pattani|Muang Patani|Pattām|Amphoe Mueang Pattani|Mueang Pattani|Muang Tara,6.8664,101.2508,Thailand,TH,THA,Pattani,Pattani,TH-94,province,admin,1243.5,44234,44234,2,Asia/Bangkok,FALSE,1764277891
+Ban Pet,Ban Pet,,16.4379,102.7645,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,370.9,42772,42772,3,Asia/Bangkok,FALSE,1764339108
+Singhanakhon,Singhanakhon,King Amphoe Singhanakhon|Amphoe Singhanakhon,7.2389,100.5506,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,715.6,42423,42423,3,Asia/Bangkok,FALSE,1764839884
+Si Sa Ket,Si Sa Ket,Amphoe Muang Sisaket|Muang Sisaket|Mueang Si Sa Ket|Sisakate|Muang Srisaket|Khukhan|Changwat Si Sa Ket|Changwat Khu Khan|Amphoe Sisaket|Srisaket|Srisakesa|Cangwat Khukhan,15.1069,104.3294,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,admin,157.6,42405,42405,2,Asia/Bangkok,FALSE,1764002764
+Bang Kruai,Bang Kruai,Amphoe Bang Kruai|Bang Krai|Bang Yai|Amphoe Bang Yai|Ban Bang Yai,13.8042,100.4755,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,minor,5046.4,42390,42390,2,Asia/Bangkok,FALSE,1764357378
+Ban Wat Lak Hok,Ban Wat Lak Hok,Ban Lak Hok|Lak Hok,13.5633,100.0564,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,465.6,41884,41884,3,Asia/Bangkok,FALSE,1764000965
+Su-ngai Kolok,Su-ngai Kolok,Sungei Kolok|Sungai Kolok|Kolok|Amphoe Sungai Kolok|King Amphoe Su-ngai Kolok,6.0333,101.9667,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,minor,501.7,41590,41590,3,Asia/Bangkok,FALSE,1764527716
+Narathiwat,Narathiwat,Naradhiwas|Narativat|Narativas|Naradhivas|Ban Bangnara|Bang Nara|Changwat Naradhiwas|Changwat Narathiwat,6.4167,101.8167,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,admin,343.1,41342,41342,2,Asia/Bangkok,FALSE,1764748532
+Surin,Surin,Mueang Surin|Changwat Surin|Surindr|Muang Surin|Muang Sourin|Surindra,14.8864,103.4932,Thailand,TH,THA,Surin,Surin,TH-32,province,admin,164.1,39728,39728,2,Asia/Bangkok,FALSE,1764813179
+Chachoengsao,Chachoengsao,Chaxoengsao|Changwat Chachoengsao|Muang Chachurngsao|Shajeungzao|Chaxerngsao|Shajeungdrao|Amphoe Muang Chachoengsao|Shacheungzao|Chacherngsao|Petrin|Shajeungdhrao|Muong Chaxungsao|Paet Riu|Muang Shajeungtrao|Muang Shajeungdhrao|Petriu|Petriou|Chachurngsao|Mueang Chachoengsao,13.6903,101.0703,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,admin,473.6,39570,39570,2,Asia/Bangkok,FALSE,1764632382
+Ban Bang Khu Lat,Ban Bang Khu Lat,,13.9134,100.3690,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1824.6,38758,38758,3,Asia/Bangkok,FALSE,1764924013
+Ban Na Pa,Ban Na Pa,Napa|Ban Na Pa (1),13.3956,101.0232,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,2060.8,38548,38548,2,Asia/Bangkok,FALSE,1764865021
+Ban Doi Suthep,Ban Doi Suthep,Ban Bon Doi Suthep|Doi Suthep,18.7944,98.9142,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,2195.5,36952,36952,2,Asia/Bangkok,FALSE,1764508260
+Chaiyaphum,Chaiyaphum,Jaibhum|Jaiyabhum|Chaiyaphun|Jayabhumi|Chaiyapoom|Ban Hin Tang|Tchaiapoum|Muang Jaiyabhum|Muang Chaiyapum|Changwat Chaiyaphun|Changwat Chaiyaphum|Chalyaphum|Chai Phum|Chaiapum|Chaiaphum|Amphoe Muang Chaiyaphum,15.8056,102.0311,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,admin,113.0,36923,36923,2,Asia/Bangkok,FALSE,1764784757
+Ratchaburi,Ratchaburi,Changwat Rat Buri|Rat Buri|Muang Ratburi|Muang Rajburi|Amphoe Muang Rat Buri|Rajburi|Mondhol Rajburi|Mueang Ratchaburi,13.5356,99.8133,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,admin,406.8,36339,36339,2,Asia/Bangkok,FALSE,1764773366
+Ban Mueang Na Tai,Ban Mueang Na Tai,Moēangna|Na|Ban Muang Na|Maung Na|Ban Muang Na Tai,19.5932,98.9618,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,42.8,36156,36156,3,Asia/Bangkok,FALSE,1764800951
+Pak Chong,Pak Chong,Ban Pak Chong|Tambon Pak Chong|King Amphoe Pak Chong|Ban Par Chong|Amphoe Pak Chong,14.6796,101.3976,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,91.7,35736,35736,3,Asia/Bangkok,FALSE,1764898547
+Cha-am,Cha-am,Sha-am|Ban Chaam|Amphoe Cha-am|Amphoe Na Yang|Amphoe Nong Chok,12.7992,99.9683,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,minor,53.9,35581,35581,3,Asia/Bangkok,FALSE,1764087780
+Roi Et,Roi Et,Mueang Roi Et|Muang Roi Et|Roi Ech|Rio Et|Changwat Muang Roi Et|Amphoe Muang Roi Et|Changwat Roi Et|Roi-ed,16.0531,103.6511,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,admin,246.3,35219,35219,2,Asia/Bangkok,FALSE,1764216668
+Phatthalung,Phatthalung,Amphoe Muang Phatthalung|Bhadhalung|Changwat Phatthalung|Muang Patalung|Amphoe Lampam|Phatalung|Mueang Phatthalung|Badalung|Amphoe Klang Mueang|Changwat Phattalung|Patalung|Phathalung,7.5000,100.0000,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,admin,314.6,35039,35039,2,Asia/Bangkok,FALSE,1764240863
+Kalasin,Kalasin,Muang Kalasim|Ban Neur|Changwat Kalasin|Muang Kansin|Amphoe Lup|Muang Kalassim|Muang Kalasin|Lup|Kalasindhu|Kalasim|Changwat Muang Kalasin|Amphoe Muang Kalasin|Amphoe Kalasin|Amphoe Hlup|Mueang Kalasin,16.4342,103.5092,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,admin,160.2,34437,34437,2,Asia/Bangkok,FALSE,1764060973
+Phra Phutthabat,Phra Phutthabat,Khun Khlon|King Amphoe Phra Phutthabat|Bhra Bhudhābadh|Ban Khun Khlon|Phra Phutthabet|Amphoe Phra Phutthabat|King Phra Phutthabat,14.7212,100.8047,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,420.6,34322,34322,3,Asia/Bangkok,FALSE,1764815202
+Uttaradit,Uttaradit,Utaraditra|Utaradit|Muang Utaradith|Muang Utaradit|Outaradit|Changwat Uttaradit|Changwat Muang Utaradith|Uttradit|Amphoe Mueang Uttaradit,17.6231,100.0958,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,admin,174.2,33930,33930,2,Asia/Bangkok,FALSE,1764146253
+Chumphon,Chumphon,Amphoe Muang Chumphon|Mueang Chumphon|Muang Jum Bhorn|Muang Chumporn|Muang Chum Pon|Muang Choum Pon|Muang Champawn|Jumbor|Jumbhorn|Changwat Chumphon|Chumporn|Chumpon|Chumphaun|Champawn,10.4939,99.1800,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,admin,189.5,33516,33516,2,Asia/Bangkok,FALSE,1764012939
+Ban Pak Phun,Ban Pak Phun,Pāk Phun,8.5391,99.9702,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,455.9,33407,33407,3,Asia/Bangkok,FALSE,1764808518
+Mukdahan,Mukdahan,Mukdatarn|Mukdaharn|Muang Muk Da Han|Makdaharn|Ban Srimongkhon|Ban Si Mongkhon|Amphoe Mukdahan|Muk|Ban Mouk|Mueang Mukdahan|Amphoe Mueang Mukdahan|Mueng Mukdahan|Mokdaharn|Muang Ban Muk Dahan|Si Mongkhon|Srimongkhon,16.5431,104.7228,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,admin,135.4,33102,33102,2,Asia/Bangkok,FALSE,1764994534
+Ban Ang Sila,Ban Ang Sila,Anghin|Ang Sila|Anghila,13.3364,100.9278,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,2060.8,33053,33053,2,Asia/Bangkok,FALSE,1764931523
+Chum Phae,Chum Phae,Ban Chum Phae|Amphoe Chum Phae,16.5431,102.1104,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,192.1,31597,31597,3,Asia/Bangkok,FALSE,1764511790
+Mae Sot,Mae Sot,Amphoe Mesoht|Amphoe Ban Mae Sot|Mesort|Mēsoht|Mesod|Mehsord|Mae Sord|Ban Mae Sot|Ban Me Sohd|Ban Mesod|Ban Me Ramat|Amphoe Mae Saut|Branch Amphoe Mē Sōhd|Mae Saut|Amphoe Mae Sot,16.7131,98.5747,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,71.5,31530,31530,3,Asia/Bangkok,FALSE,1764198529
+Ban Sai Ma Tai,Ban Sai Ma Tai,Ban Sai Ma|Ban Zaima,13.8444,100.4829,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,12247.9,30750,30750,2,Asia/Bangkok,FALSE,1764698508
+Thung Song,Thung Song,Tungsong|Dhūng Song|Chamai|Ban Chamai|Amphoe Dhung Song|Amphoe Tungsong|Amphoe Thung Song,8.1669,99.6745,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,149.7,30500,30500,3,Asia/Bangkok,FALSE,1764422992
+Krabi,Krabi,Changwat Krabi|Ghirbi|Amphoe Muang Krabi|Moeang Kra-bi|Muang Krabi|Amphoe Mueang Krabi|Mueang Krabi|Amphoe Pak Nam,8.0592,98.9189,Thailand,TH,THA,Krabi,Krabi,TH-81,province,admin,128.9,30499,30499,2,Asia/Bangkok,FALSE,1764587855
+Samrong,Samrong,,13.6421,100.6039,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,9525.9,30382,30382,2,Asia/Bangkok,FALSE,1764003521
+Kamphaeng Phet,Kamphaeng Phet,Changwat Muang Kam Bheng Bhej|Gamphaeng Phet|Muang Kum Pang Pet|Changwat Kamphaeng Phet|Amphoe Muang Kamphaeng Phet|Muang Kam Phaeng Phet|Muang Kam Bheng Bhej|Kambheng Bhej|Kam Baeng Bejr|Gampheang Phet|Meuangkamphayng|Amphoe Mueang Kamphaeng Phet,16.4811,99.5222,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,admin,202.1,29178,29178,2,Asia/Bangkok,FALSE,1764367755
+Ban Phai,Ban Phai,Amphoe Ban Phai|Ban Keng|King Amphoe Ban Phai,16.0730,102.7362,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,213.0,28913,28913,3,Asia/Bangkok,FALSE,1764026556
+Bang Phongphang,Bang Phongphang,,13.6791,100.5291,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,4296.5,28692,28692,2,Asia/Bangkok,FALSE,1764502075
+Samut Songkhram,Samut Songkhram,Mae Klong|Smut Songkhram|Samudh Sŏnggrām|Meklong|Me Klawng|Muang Samut Songgram|Muang Samut Sang Khran|Maklong|Maikulaung|Mae Khlaung|Changwat Samut Songkkhram|Me-klohng|Meh Klong|Samut Songkram|Muang Samudh Songgram|Amphoe Lam Thuan|Amphoe Ban Prok|Mueang Samut Songkhram,13.4097,100.0017,Thailand,TH,THA,Samut Songkhram,Samut Songkhram,TH-75,province,admin,634.6,28493,28493,2,Asia/Bangkok,FALSE,1764305010
+Tha Yang,Tha Yang,Ban Tha Yang|Amphoe Tha Yang|Amphoe Yang Yong,12.9658,99.8924,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,minor,120.2,28437,28437,3,Asia/Bangkok,FALSE,1764170056
+Ban Bang Khu Wat,Ban Bang Khu Wat,Bang Kuwat,13.9576,100.4903,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,1423.45,28349,28349,3,Asia/Bangkok,FALSE,1764948515
+Warin Chamrap,Warin Chamrap,Varindra|Amphoe Warinjamrap|Amphoe Warin Chamrap|Warim Chamrap|Ban That|Amphoe Thaksin Ubon,15.2008,104.8612,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,253.8,28154,28154,3,Asia/Bangkok,FALSE,1764105770
+Ban Chang,Ban Chang,Amphoe Ban Chang|King Amphoe Ban Chang,12.7208,101.0669,Thailand,TH,THA,Rayong,Rayong,TH-21,province,minor,714.0,27668,27668,3,Asia/Bangkok,FALSE,1764733644
+Buri Ram,Buri Ram,Changwat Buriram|Muang Buriram|Muang Pae|Amphoe Mueang Buriram|Mueang Buri Ram|Amphoe Muang Buriram|Buriram,14.9942,103.1022,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,admin,173.4,27150,27150,2,Asia/Bangkok,FALSE,1764141031
+Ban Phonla Krang,Ban Phonla Krang,Phon Krang|Ban Phon Krang (1),14.9192,102.1095,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,542.5,26804,26804,3,Asia/Bangkok,FALSE,1764032168
+Betong,Betong,Kampong Betong|Ban Betong|Amphoe Yarom|Amphoe Betong,5.7731,101.0725,Thailand,TH,THA,Yala,Yala,TH-95,province,minor,42.5,26640,26640,3,Asia/Bangkok,FALSE,1764484131
+Nakhon Phanom,Nakhon Phanom,Nakon Panom|Nakol Phanom|Nakhaun Phanom|Nakawn Panom|Lakhon|Changwat Nakhon Phanom|Changwat Muang Nakhon Phanom|Ban Nakhon Phnom|Amphoe Muang Nakhon Phanom|Nagorn Bhanom|Naung Bua|Muang Nakhon Phanom|Nong Buk|Nakorn Panom|Mueang Nakhon Phanom|Amphoe Nong Buek,17.4069,104.7808,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,admin,153.9,26437,26437,2,Asia/Bangkok,FALSE,1764103547
+Suphan Buri,Suphan Buri,Changwat Suphan Buri|Muang Suphan|Supham Buri|Supan|Subharn|Subhan Buri|Thaphi Liang|Ban Tha Phi Liang|Amphoe Muang Suphan Buri|Supanburi|Muang Supan|Muang Subharn|Mueang Suphan Buri,14.4675,100.1169,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,admin,300.5,26164,26164,2,Asia/Bangkok,FALSE,1764759549
+Kathu,Kathu,Ban Kathu (1)|Bān Gathu|Amphoe Kathu|Ban Kathu|King Amphoe Kathu|Ban Katu|Katu|Ka Hu|Kathu,7.9112,98.3475,Thailand,TH,THA,Phuket,Phuket,TH-83,province,minor,2102.9,26078,26078,2,Asia/Bangkok,FALSE,1764733770
+Ban Pa Sak,Ban Pa Sak,Ban Hua Ro|Ban Hua Rau,16.8477,100.2563,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,291.0,25863,25863,3,Asia/Bangkok,FALSE,1764248083
+Amnat Charoen,Amnat Charoen,Mueang Amnat Charoen|Amphoe Bung|Amphoe Amnat Charoen|Ban Bung|Amanat Charoem,15.8500,104.6333,Thailand,TH,THA,Amnat Charoen,Amnat Charoen,TH-37,province,admin,87.3,25858,25858,2,Asia/Bangkok,FALSE,1764038011
+Ban Piang Luang,Ban Piang Luang,Piang Luang,19.6493,98.6352,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,38.2,25725,25725,3,Asia/Bangkok,FALSE,1764002589
+Kanchanaburi,Kanchanaburi,Changwat Kanchanaburi|Muang Kanchana Buri|Kanpuri|Kanchana|Kanburi|Moeang Kanchana Buri|Mueang Kanchanaburi,14.0194,99.5311,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,admin,121.9,25651,25651,2,Asia/Bangkok,FALSE,1764455558
+Ban Khamen,Ban Khamen,,13.8823,100.2879,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,711.5,24745,24745,3,Asia/Bangkok,FALSE,1764794976
+Ban Bang Phun,Ban Bang Phun,Ban Bang Phun,13.9968,100.5891,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,3240.1,24625,24625,2,Asia/Bangkok,FALSE,1764792338
+Takhli,Takhli,Amphoe Ta Khli|Bān Tākli|Ban Ta Khli,15.2667,100.3500,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,133.0,24563,24563,3,Asia/Bangkok,FALSE,1764978785
+Lop Buri,Lop Buri,Changwat Thahanbok Lop Buri|Tha Hin|Muang Xop Buri|Muang Lopburi|Lobh Buri|Changwat Lop Buri|Ban Tha Hin|Amphoe Muang Lop Buri|Muang Lobh Buri|Lavo|Lava Pura|Mueang Lop Buri,14.8000,100.6269,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,admin,375.1,24166,24166,2,Asia/Bangkok,FALSE,1764574750
+Chanthaburi,Chanthaburi,Chiyandburii|Chentabun|Chantaboun|Changwat Chanthaburi|Chandha Buri|Chandaburi|Chantabun|Chantaburi|Amphoe Muang Chanthaburi|Mueang Chanthaburi,12.6086,102.1039,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,admin,466.8,23835,23835,2,Asia/Bangkok,FALSE,1764151688
+Bang Sao Thong,Bang Sao Thong,King Amphoe Bang Sao Thong|Amphoe Bang Sao Thong,13.5812,100.7957,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,minor,2461.5,23630,23630,2,Asia/Bangkok,FALSE,1764260674
+Satun,Satun,Changwat Satun|Setul|Satul,6.6147,100.0681,Thailand,TH,THA,Satun,Satun,TH-91,province,admin,138.1,23612,23612,2,Asia/Bangkok,FALSE,1764836023
+Ban Phru,Ban Phru,,6.9480,100.4794,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,594.4,23518,23518,3,Asia/Bangkok,TRUE,1764608441
+Sattahip,Sattahip,Amphoe Sattahip|King Amphoe Sattahip|Ban Sattahip|Ban Sata Hib|Sattahiep|Ban Satahip|Sattahib|Satahib|Sattaheeb|Sattaheep,12.6636,100.9036,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,866.7,23418,23418,3,Asia/Bangkok,FALSE,1764518101
+Ban Thoet Thai,Ban Thoet Thai,,20.3084,99.6445,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,90.7,23392,23392,3,Asia/Bangkok,FALSE,1764807861
+Sai Mai,Sai Mai,,13.8882,100.4620,Thailand,TH,THA,Krung Thep Maha Nakhon,Krung Thep Maha Nakhon,TH-10,municipality,minor,6710.5,23316,23316,2,Asia/Bangkok,FALSE,1764423311
+Phetchaburi,Phetchaburi,Petchaburi|Muang Bheja Buri|Moeang Bhejburi|Bhej Buri|Changwat Phet Buri|Bejraburi|Amphoe Muang Phet Buri|Muang Pecha Buri|Pechaburi|Phet Buri|Muang Petchaboun|Amphoe Khlong Krachaeng|Mueang Phetchaburi,13.1119,99.9458,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,admin,503.0,23235,23235,2,Asia/Bangkok,FALSE,1764000534
+Ban Bang Rin,Ban Bang Rin,Ban Bang Lin,9.9531,98.6342,Thailand,TH,THA,Ranong,Ranong,TH-85,province,,265.7,23144,23144,3,Asia/Bangkok,FALSE,1764108342
+Ban Bang Krang,Ban Bang Krang,,13.8422,100.4539,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,12247.9,23010,23010,2,Asia/Bangkok,FALSE,1764797592
+Wichian Buri,Wichian Buri,Amphoe Wijiern|Wi-jiērn|Wichian|Tha Rong|Amphoe Wichian Buri|Amphoe Tha Rong|Amphoe Wichian|Ban Wichian,15.6565,101.1072,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,minor,72.4,22995,22995,3,Asia/Bangkok,FALSE,1764906431
+Loei,Loei,Loey|Muang Loeui|Muang Loei|Muang Leoi|Leui|Changwat Muang Loei|Changwat Muang Lai|Changwat Loei|Amphoe Muang Loei|Muang Lai|Muang Loi|Mueang Loei,17.4853,101.7303,Thailand,TH,THA,Loei,Loei,TH-42,province,admin,69.0,22339,22339,2,Asia/Bangkok,FALSE,1764996883
+Phichit,Phichit,Sra Luang|Bhichit|Muang Phijit|Tha Luang|Pichit|Muang Pitchit|Muang Bhichit|Changwat Phichit|Changwat Muang Phichit|Changwat Muang Bichit|Ban Nai Muang|Amphoe Muang Phichit|Amphoe Tha Luang|Muang Phichit|Amphoe Ta Luang|Okhaburi,16.4431,100.3467,Thailand,TH,THA,Phichit,Phichit,TH-66,province,admin,199.7,22299,22299,2,Asia/Bangkok,FALSE,1764024236
+Ban Pa Tueng,Ban Pa Tueng,Ban Pa Dung|Ban Pa Tueng (Nueng)|Ban Pa Tueng,20.1339,99.8325,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,179.2,22139,22139,3,Asia/Bangkok,FALSE,1764197530
+Phetchabun,Phetchabun,Muang Phetchabun|Muang Phecha Bun|Muang Petchboun|Pechabun|Muang Bheia Burn|Changwat Phetchabun|Changwat Muang Phetchabun|Changwat Muang Bhĕia Būrn|Amphoe Muang Phetchabun|Petchabun|Bhejaburn|Mueang Phetchabun,16.4169,101.1533,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,admin,86.2,22121,22121,2,Asia/Bangkok,FALSE,1764518331
+Krathum Baen,Krathum Baen,Kathum Baen|Talat Kathum Baen|Krathumban|Krathu Baen|Ban Krathum Baen|Amphor Kathum Baen|Ban Talat Kathum Baen,13.6631,100.2572,Thailand,TH,THA,Samut Sakhon,Samut Sakhon,TH-74,province,minor,4109.5,21904,21904,2,Asia/Bangkok,FALSE,1764425264
+Nong Bua Lamphu,Nong Bua Lamphu,Muang Gamutra Sai|Amphoe Nong Bua Lamphu|Mueang Nong Bua Lamphu|Kamouttasai|Muang Kmuthasai|Muang Kamutthasai|Muang Kamuta Sai|Muang Kamouttasai|Muang Kamatdhasai|Ban Nong Bua|Naung Bua|Kmuthasai|Changwat Nong Bua Lamphu,17.2042,102.4444,Thailand,TH,THA,Nong Bua Lamphu,Nong Bua Lamphu,TH-39,province,admin,125.6,21528,21528,2,Asia/Bangkok,FALSE,1764333285
+Nang Rong,Nang Rong,Ban Nang Rong|Mueang Nang Rong|Muong Nang Rong|Nang Raung|Möng Nang Rawng|Amphoe Nang Rong,14.6283,102.7933,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,98.6,21493,21493,3,Asia/Bangkok,FALSE,1764430858
+Wang Nam Yen,Wang Nam Yen,King Amphoe Wang Nam Yen|Amphoe Wang Nam Yen,13.5004,102.1806,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,minor,207.0,21301,21301,3,Asia/Bangkok,FALSE,1764123627
+Sadao,Sadao,Sendawa|Ban Sadao,6.6386,100.4240,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,138.4,21086,21086,3,Asia/Bangkok,FALSE,1764417199
+Mae Sai,Mae Sai,King Amphoe Mae Sai|Amphoe Mae Sai,20.4333,99.8833,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,minor,273.5,20699,20699,3,Asia/Bangkok,FALSE,1764624336
+Na Klang,Na Klang,King Amphoe Na Klang|Amphoe Na Klang,17.3043,102.1964,Thailand,TH,THA,Nong Bua Lamphu,Nong Bua Lamphu,TH-39,province,minor,140.6,20609,20609,3,Asia/Bangkok,FALSE,1764000026
+Nan,Nan,Amphoe Mueang Nam|Nagor Nan|Changwat Muang Nan|Muang Nan|Changwat Nana|Ban Muang Nan|Amphoe Muang Nam|Changwat Nan|Mueang Nan,18.7833,100.7833,Thailand,TH,THA,Nan,Nan,TH-55,province,admin,78.5,20595,20595,2,Asia/Bangkok,FALSE,1764061223
+Pak Phanang,Pak Phanang,Pākpenang|Ban Pak Phanang|Ban Pakpenang|Amphoe Pak Phanang|Amphoe Bia Sad,8.3538,100.2023,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,191.6,20425,20425,3,Asia/Bangkok,FALSE,1764714642
+Yasothon,Yasothon,Mueang Yasothon|Amphoe Yasodhom|Muang Yasothon|Yasotorn|Yasotawn|Yasodhorn|Muang Yasothaun|Muang Iott-so Ton|Amphoe Yasothon|Amphoe Yasodhorn|Changwat Yasothon|Ban Nai Muang|Amphoe Muang Yasothon|Ban Singh Tha,15.7972,104.1431,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,admin,152.7,20414,20414,2,Asia/Bangkok,FALSE,1764520637
+Ban Tha Pha,Ban Tha Pha,Tha Ra,13.8437,99.8681,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,437.1,20211,20211,3,Asia/Bangkok,FALSE,1764900404
+Ban Klang,Ban Klang,Ban Glang,16.9760,100.5600,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,62.0,20174,20174,3,Asia/Bangkok,FALSE,1764339376
+Ban Wat Sala Daeng,Ban Wat Sala Daeng,Ban Sala Deng|Ban Sala Daeng|Saladaeng,13.8097,100.3589,Thailand,TH,THA,Krung Thep Maha Nakhon,Krung Thep Maha Nakhon,TH-10,municipality,,1357.04,20057,20057,3,Asia/Bangkok,FALSE,1764831787
+Ban Tha Kham,Ban Tha Kham,Tha Kham|Amphoe Dha Kham|Amphoe Ban Tha Kham|Amphoe Tha Kham|Tah Kam|Surat Thani|Surat|Surastra Dhani|Surasntra Dhani|Muang Surasd Dhani|Muang Surard Dhani|Mondhol Surasdhani|Ban Tak Kam|Ban Tah Kam,9.1058,99.2325,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,124.6,19939,19939,3,Asia/Bangkok,FALSE,1764400647
+Ban Tha Ton,Ban Tha Ton,,20.0608,99.3622,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,120.2,19902,19902,3,Asia/Bangkok,FALSE,1764205588
+Ban Na San,Ban Na San,Amphoe Ban Na|Na Sau|Nasan,8.7997,99.3635,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,118.7,19801,19801,3,Asia/Bangkok,FALSE,1764021256
+Ban Thap Kwang,Ban Thap Kwang,Ban Koei|Ban Kei|Ban Nikhom Sang Ton Eng Thap Kwang,14.6103,101.0753,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,,192.3,19425,19425,3,Asia/Bangkok,FALSE,1764264191
+Kantharalak,Kantharalak,Amphoe Nam Om|Amphoe Kantharalak|Muang Uthumpau|Muang Uthumpa|Nam Aum|Ban Nam Om|Muong Utumpar|Kanthanalak|Mueang Uthumphon Phisai,14.6536,104.6278,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,89.3,19392,19392,3,Asia/Bangkok,FALSE,1764009547
+Ban Bueng,Ban Bueng,King Amphoe Ban Bueng|Amphoe Ban Bueng|Boeng|Ban Boeng|Amphoe Ban Bung|Ban Ban Bung|Ban Bung (1),13.3142,101.1114,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,344.7,19346,19346,3,Asia/Bangkok,TRUE,1764134032
+Ban Patong,Ban Patong,Ban Pakhong,7.8931,98.2983,Thailand,TH,THA,Phuket,Phuket,TH-83,province,,1179.6,19346,19346,3,Asia/Bangkok,FALSE,1764195169
+Ban Fang Tuen,Ban Fang Tuen,Ban Pang Teun|Phan|Muang Phan|Fang Toen|Bang Fang Teun|Amphoe Phan|Amphoe Muang Phan|Amphoe Moeangbhan|Bhan|Ban Fang Tun,19.5497,99.7566,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,19326,19326,3,Asia/Bangkok,FALSE,1764355524
+Ban Mon Pin,Ban Mon Pin,Muan Pin|Ban Muan Pin|Bān Muan Bin,19.9168,99.1583,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,152.0,19123,19123,3,Asia/Bangkok,FALSE,1764739974
+Ban Bueng Phra,Ban Bueng Phra,Ban Bung Phra,16.7460,100.2750,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,557.0,19074,19074,3,Asia/Bangkok,FALSE,1764002068
+Ban Na Yang,Ban Na Yang,Nayāng,12.8339,99.9346,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,,140.7,18961,18961,3,Asia/Bangkok,FALSE,1764003401
+Tak Bai,Tak Bai,Amphoe Tak Bai|Takbar|Amphoe Kampong Chehe|Kampong Chehe|Che He|Ban Takbai|Ampur Takbai|Chavhay|Chayhay,6.2592,102.0531,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,minor,227.4,18943,18943,3,Asia/Bangkok,FALSE,1764842940
+Ban Bo Haeo,Ban Bo Haeo,Bohaeo|Ban Bau Heo,18.3048,99.4657,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,183.6,18777,18777,3,Asia/Bangkok,FALSE,1764536818
+Ban Mae Hia Nai,Ban Mae Hia Nai,Ban Mae Hia|Mēhie|Ban Mea Hia,18.7433,98.9640,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,760.8,18564,18564,3,Asia/Bangkok,FALSE,1764930475
+Ban Mae Kha Tai,Ban Mae Kha Tai,Ban Mae Hia|Ban Mea Hia|Ban Mae Kha (3),18.7352,98.9678,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,2195.5,18546,18546,2,Asia/Bangkok,FALSE,1764637838
+Tha Bo,Tha Bo,Mueang Tha Bo|Amphoe Tha Bo|Tha Bor|Möng Ta Bo|Ban Tha Bau|Ban Tha Bo,17.8494,102.5858,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,minor,210.0,18320,18320,3,Asia/Bangkok,FALSE,1764956322
+Ban Mai,Ban Mai,Ban Mai (1),14.9629,102.0314,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,542.5,18255,18255,3,Asia/Bangkok,FALSE,1764316736
+Sikhio,Sikhio,Si Khiu (2)|Mueang Nakhon Chantuek|Amphoe Chanthuek|Amphoe Chanthuk|Si Khiu|Chan Thuk|Ban Si Khiu|Amphoe Si Khiu,14.9000,101.7167,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,102.2,18209,18209,3,Asia/Bangkok,FALSE,1764681503
+Sa Kaeo,Sa Kaeo,King Amphoe Sa Kaeo|Mueang Sa Kaeo|Amphoe Mueang Sa Kaeo|Amphoe Sa Kaeo|Sara Kaeo|Srakeo|Sa Keo|Ban Sa Kaeo,13.8206,102.0589,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,admin,85.9,17864,17864,2,Asia/Bangkok,FALSE,1764207048
+San Kamphaeng,San Kamphaeng,Kwaeng Mae Om|Sankambhēng|Ban San Kamphaeng|Bān San Gampheang|Ban San Kamphaeng Luang|Amphoe San Kamphaeng,18.7500,99.1167,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,410.2,17857,17857,3,Asia/Bangkok,FALSE,1764805486
+Sing Buri,Sing Buri,Sing|Muang Sing|Amphoe Muang Sing Buri|Ban Bang Putsa|Singha Buri|Ban Bang Phutsa|Bang Phutsa|Changwat Sing Buri|Mueang Sing Buri,14.8911,100.4031,Thailand,TH,THA,Sing Buri,Sing Buri,TH-17,province,admin,276.2,17843,17843,2,Asia/Bangkok,FALSE,1764482111
+Prachin Buri,Prachin Buri,Prachin|Prachim|Pachim|Changwat Prachin Buri|Amphoe Muang Prachin Buri|Muang Prachin Buri|Mueang Prachin Buri,14.0567,101.3739,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,admin,393.9,17768,17768,2,Asia/Bangkok,FALSE,1764262472
+Klaeng,Klaeng,Mueang Klaeng|Amphoe Klaeng|Klēng|Ban Thang Kwian|Ban Sam Yan|Thang Kwian,12.7778,101.6483,Thailand,TH,THA,Rayong,Rayong,TH-21,province,minor,433.4,17764,17764,3,Asia/Bangkok,FALSE,1764855012
+Ban Mae Ngon Khilek,Ban Mae Ngon Khilek,Ban Mea Ngaun|Ban Mae Ngon|Mēngōhn,19.8021,99.1614,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,152.0,17715,17715,3,Asia/Bangkok,FALSE,1764180148
+Ban Mae Ka Hua Thung,Ban Mae Ka Hua Thung,Ban Mae Ka|Bān Mea Ga,19.0942,99.9136,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,17629,17629,3,Asia/Bangkok,FALSE,1764621599
+Sam Phran,Sam Phran,Amphoe Talat Mai|Amphoe Sam Phran|Ban Sam Phran,13.7270,100.2153,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,minor,992.4,17611,17611,3,Asia/Bangkok,FALSE,1764639144
+Tak,Tak,Amphoe Mueang Tak|Baheng|Tark|Raheng|Rahaong|Muang Tak|Muang Raheng|Ban Raheang|Ban Rahaeng|Changwat Tak|Rahaeng,16.8711,99.1250,Thailand,TH,THA,Tak,Tak,TH-63,province,admin,62.6,17565,17565,2,Asia/Bangkok,FALSE,1764055292
+Ban Thum,Ban Thum,,16.4523,102.7225,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,370.9,17564,17564,3,Asia/Bangkok,FALSE,1764043980
+Phayao,Phayao,Muang Prayao|Muang Prao|Muang Phayao|Moeangbhayao|Bhayao|Amphoe Phayao|Amphoe Muang Phayao|Amphoe Moeang Bha Yao|Prayao|Amphoe Muang Pra Yao|Ban Nai Wiang|Mueang Phayao|Changwat Phayao|Mueang Chang Wat Pha Yao,19.1653,99.9036,Thailand,TH,THA,Phayao,Phayao,TH-56,province,admin,99.4,17467,17467,2,Asia/Bangkok,FALSE,1764291128
+Ban Song,Ban Song,Ban Chong,8.6603,99.3768,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,203.8,17373,17373,3,Asia/Bangkok,FALSE,1764610829
+Ban Pong,Ban Pong,Amphoe Ban Pong,13.8174,99.8830,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,437.1,17298,17298,3,Asia/Bangkok,FALSE,1764963515
+Rattaphum,Rattaphum,Kam Phaeng Phet|Amphoe Kamphaeng Phet|King Amphoe Rattaphum|Ban Kamphaeng Phet|Gampheang Phet|Amphoe Rattaphum|Ratabhum,7.1412,100.2905,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,136.0,17257,17257,3,Asia/Bangkok,FALSE,1764151351
+Sawankhalok,Sawankhalok,Mueang Wang Mai Khon|Mueang Sawankhalok|Ban Wang Mai Kaun|Wang Mai Kuan|Swankhalok|Swankalauk|Sawankhalor|Sawankaloke|Sawankalauk|Muang Sawarngalok|Muang Savankulok|Ban Wang Mai Khon|Changwat Sawankhalok|Changwat Muang Sawarngalok|Muang Sawankalauk|Muang Sawan Kalok|Sawarngalok|Amphoe Sawankhalok,17.3099,99.8263,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,minor,165.4,17148,17148,3,Asia/Bangkok,FALSE,1764710205
+Ban Phe,Ban Phe,Bān Bhe|Ban Pe|Ban Pho,12.6287,101.4399,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,693.9,17116,17116,3,Asia/Bangkok,FALSE,1764896078
+Ban Rawai,Ban Rawai,Ban Rawei|Rawai|Ban Ra Wai (1),7.7707,98.3185,Thailand,TH,THA,Phuket,Phuket,TH-83,province,,3459.7,16988,16988,2,Asia/Bangkok,FALSE,1764734104
+Ban Tha Mai I,Ban Tha Mai I,Ban Mai I|Bān Pa Deat|Ban Pa Daet,18.7461,98.9819,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,674.4,16859,16859,3,Asia/Bangkok,FALSE,1764002973
+Pran Buri,Pran Buri,Amphoe Pranburi|Ban Pak O Pran|Muang Pran|Meuangpran|Pran|Mueang Pran Buri|Mueang Pran|Muang Pran Kao,12.3939,99.9159,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,minor,99.2,16851,16851,3,Asia/Bangkok,FALSE,1764353337
+Ban Wang Nok Aen,Ban Wang Nok Aen,,16.8333,100.4833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,86.0,16689,16689,3,Asia/Bangkok,FALSE,1764425126
+Phrae,Phrae,Bhre|Muang Bhre|Phrea|Prae|Muang Phrae|Changwat Muang Phrae|Changwat Muang Bhré|Amphoe Muang Phrae|Muang Pre|Pre|Changwat Phrae|Amphoe Mueang Phrae|Mueang Phrae,18.1453,100.1419,Thailand,TH,THA,Phrae,Phrae,TH-54,province,admin,172.3,16668,16668,2,Asia/Bangkok,FALSE,1764209592
+Ban Na Sai,Ban Na Sai,Nā Dhrai|Ban Na Sai (1),17.7334,98.9513,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,35.3,16645,16645,3,Asia/Bangkok,FALSE,1764024755
+Ban Cho Ho,Ban Cho Ho,Choho|Ban Choho,15.0311,102.1381,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,542.5,16527,16527,3,Asia/Bangkok,FALSE,1764003189
+Ban Lam Narai,Ban Lam Narai,Lamnarai,15.2000,101.1333,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,,73.5,16470,16470,3,Asia/Bangkok,FALSE,1764729465
+Ban Nong Han,Ban Nong Han,Bān Eng Han,18.9000,99.0000,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,348.2,16463,16463,3,Asia/Bangkok,FALSE,1764321776
+Ban Thung Tam Sao,Ban Thung Tam Sao,Tung Tamsau|Thung Tam Sao,6.9581,100.3207,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,594.4,16344,16344,3,Asia/Bangkok,TRUE,1764139945
+Aranyaprathet,Aranyaprathet,Aran Pradhesa|Aran Prathet|Muang Aran Pratet|Ban Aranyaprathet|Muang Aranyapraphet|Muang Aran Pradhet|Amphoe Ban Aranyaprathet|Amphoe Aranyaprathet|Amphoe Aranpradbet|Aranya Pradhesa|Aranya Pradesa|Aran Pradhet|Aranh|Ban Aran,13.6928,102.5017,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,minor,127.7,16211,16211,3,Asia/Bangkok,FALSE,1764167237
+Nakhon Nayok,Nakhon Nayok,Amphoe Nakhon Nayok|Amphoe Muang Nakhon Nayok|Mueang Lablae|Muang Nakhon Nayok|Nagorn Nayok|Nakhaun Nayok|Muang Nakawn Nayok|Nayok|Muang Nagorn Nayok|Nakon Nayok|Nakhon Nauok|Nakaunnoyok|Nakaunnayok|Changwat Nakhon Nayok|Mueang Nakhon Nayok,14.2069,101.2142,Thailand,TH,THA,Nakhon Nayok,Nakhon Nayok,TH-26,province,admin,124.1,16195,16195,2,Asia/Bangkok,FALSE,1764068248
+Ban Kao,Ban Kao,,13.8667,99.1500,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,119.3,16147,16147,3,Asia/Bangkok,FALSE,1764249203
+Bang Phae,Bang Phae,Ban Bang Phae Tai|Ban Bang Phae|Bang Phae Tai|Tha Rap|Amphoe Bang Phae|Amphoe Lam Phraya|Amphoe Hua Pho,13.6983,99.9068,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,232.7,16130,16130,3,Asia/Bangkok,FALSE,1764337429
+Ranong,Ranong,Ranohng|Ranawng|Ranaung|Ranaong|Renong|Renawng|Muang Ranong|Muang Ra Nohng|Muang Ranawng|Changwat Ranong|Amphoe Muang Ranong,9.9619,98.6389,Thailand,TH,THA,Ranong,Ranong,TH-85,province,admin,265.7,16125,16125,2,Asia/Bangkok,FALSE,1764623795
+Chai Prakan,Chai Prakan,King Amphoe Chai Prakan|Amphoe Chai Prakan,19.7322,99.1403,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,327.5,16090,16090,3,Asia/Bangkok,FALSE,1764347576
+Ban Dung,Ban Dung,Amphoe Ban Dung|King Amphoe Ban Dung,17.6986,103.2611,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,93.3,15913,15913,3,Asia/Bangkok,FALSE,1764905558
+Lam Luk Ka,Lam Luk Ka,Ban Lam Luk Ka|Amphoe Lam Luk Ka|Lūk Ka,13.9297,100.7375,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,minor,1767.7,15881,15881,3,Asia/Bangkok,FALSE,1764490226
+Ban Samo Khae,Ban Samo Khae,,16.8408,100.3415,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,393.0,15821,15821,3,Asia/Bangkok,FALSE,1764002915
+Si Satchanalai,Si Satchanalai,Hat Sieo|Hādsiew|Bān Hād Lio|Ban Hat Sieo|Ban Hat Sao|Hat Sio|Amphoe Si Satchanalai,17.4155,99.8152,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,minor,49.4,15691,15691,3,Asia/Bangkok,FALSE,1764174789
+Ban Tha Pho,Ban Tha Pho,Ban Phraya La|Ban Tha Pho (1),16.8582,100.2291,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,312.0,15648,15648,3,Asia/Bangkok,FALSE,1764936471
+Sukhothai,Sukhothai,Ban Thani|Changwat Sukhothai|Amphoe Sukhothai|Sukodhai|Sukhothat|Sukhobhai|Sukauthai|Sukanthai|Muang Sukotai|Muang Soukotai|Changwat Sukhodhai|Changwat Sukhobhai|Amphoe Muang Sukhothai|Amphoe Sukhodhai|Sukhodhai|Amphoe Mueang Sukhothai,17.0000,99.8167,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,admin,131.8,15618,15618,2,Asia/Bangkok,FALSE,1764175777
+Ban Pang Mu,Ban Pang Mu,Pong Mu|Panghmu,19.3336,97.9656,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,16.4,15577,15577,3,Asia/Bangkok,FALSE,1764504430
+Ban Nong Kathao,Ban Nong Kathao,Ban Nong Kachao|Thao|Ban Nong Krathao|Bān Naung Gachāo|Thāu,16.9833,100.7833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,15470,15470,3,Asia/Bangkok,FALSE,1764811554
+Ban Duea,Ban Duea,Ban Dua,16.1253,101.8967,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,,64.5,15463,15463,3,Asia/Bangkok,FALSE,1764693756
+Uthai Thani,Uthai Thani,Changwat Uthai Thani|Amphoe Nam Sum|Ban Nam Sum|Muang Uthai Thani|Changwat Muang Uthai Thani|Udhaidhani|Muang Utai Tani|Muang Udhai Dhani|Mueang Uthai Thani,15.3800,100.0250,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,admin,203.7,15434,15434,2,Asia/Bangkok,FALSE,1764844835
+Khao Yoi,Khao Yoi,Amphoe Huai Luang|Amphoe Khao Yoi,13.2403,99.8254,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,minor,134.4,15416,15416,3,Asia/Bangkok,FALSE,1764047925
+Ban Khek Noi,Ban Khek Noi,,16.8118,100.9671,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,,34.9,15382,15382,3,Asia/Bangkok,FALSE,1764751835
+Thoen,Thoen,Muang Thoen|Muang Tharn|Muang Teun|Lohm Red|Ban Lom Raet|Amphoe Moeang Theun|Amphoe Moeangthenn|Amphoe Thoen|Amphoe Muang Thoen|Lau Raet|Muang Tern|Ban Lohm Red|Ban Laum Read,17.6100,99.2234,Thailand,TH,THA,Lampang,Lampang,TH-52,province,minor,31.4,15360,15360,3,Asia/Bangkok,FALSE,1764582305
+Ban Na Kham,Ban Na Kham,Ban Nakam|Ban Na Dam|Nong Khla,14.0681,101.8125,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,,153.8,15123,15123,3,Asia/Bangkok,FALSE,1764834379
+Ban Ton Thong Chai,Ban Ton Thong Chai,,18.3375,99.5334,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,183.6,15093,15093,3,Asia/Bangkok,FALSE,1764171016
+Ban Ho Mae Salong,Ban Ho Mae Salong,Mae Salong,20.1631,99.6225,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,90.7,15028,15028,3,Asia/Bangkok,FALSE,1764427138
+Ban Mae Sun Luang,Ban Mae Sun Luang,Bān Mea Sūn|Ban Mae Sun,19.8305,99.1706,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,152.0,15019,15019,3,Asia/Bangkok,FALSE,1764535667
+Ban San Phak Wan Luang,Ban San Phak Wan Luang,Ban San Phak Wan|Ban Phak Wan Luang,18.7049,98.9661,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,321.7,14557,14557,3,Asia/Bangkok,FALSE,1764106797
+Ban Du,Ban Du,,19.9691,99.8589,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,141.1,14542,14542,3,Asia/Bangkok,FALSE,1764009256
+Ban Kaeng,Ban Kaeng,,16.4119,102.0402,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,,117.9,14529,14529,3,Asia/Bangkok,FALSE,1764204808
+Ban Ao Nang,Ban Ao Nang,,8.0314,98.8225,Thailand,TH,THA,Krabi,Krabi,TH-81,province,,288.7,14435,14435,3,Asia/Bangkok,FALSE,1764704232
+Ban Don Kaeo,Ban Don Kaeo,Ban Daun Geo,18.8567,98.9689,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,209.6,14286,14286,3,Asia/Bangkok,TRUE,1764651646
+Ban Nong Kula,Ban Nong Kula,,16.6500,99.9500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,14273,14273,3,Asia/Bangkok,FALSE,1764676544
+Pak Thong Chai,Pak Thong Chai,Ban Pak Thong Chai|Ban Muang Pak Thong Chai|Amphoe Pak Thong Chai|Amphoe Ban Pak Thong Chai|Muang Patongai|Muang Pak|Mueang Pak|Dan Chapo|Amphoe Pakdhongjai|Muang Patong Xai|Muang Patong Se|Muang Patong Chai|Patong Xai,14.7167,102.0167,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,115.8,14272,14272,3,Asia/Bangkok,FALSE,1764718877
+Ban Tha Thong,Ban Tha Thong,Bān Raung Nām Tān|Ban Rong Nam Tan|Ban Tha Thong (3),16.8582,100.2291,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,602.0,14270,14270,3,Asia/Bangkok,FALSE,1764306656
+Det Udom,Det Udom,Mueang Det Udom|Muang Det|Det Udon|Ban Muang Detudom|Ban Muang Det|Amphoe Det Udon|Amphoe Det Udom|Det,14.9060,105.0784,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,135.3,14264,14264,3,Asia/Bangkok,FALSE,1764920064
+Bua Yai,Bua Yai,Dan Nok|Amphoe Bua Yai,15.5858,102.4337,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,165.4,14168,14168,3,Asia/Bangkok,FALSE,1764992879
+Thong Pha Phum,Thong Pha Phum,Amphoe Thong Pha Phum|Amphoe Songkla Buri|Amphoe Sangkla Buri|Ta Kanun|Sangkhla|Amphoe Sangkhlaburi|King Amphoe Sangkhla|Tha Khanun|Sangkhla Buri|King Amphoe Thong Pha Phum|King Amphoe Sangkhlaburi|Dha Khanun|Ban Tha Khanun,14.7382,98.6320,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,12.8,14141,14141,3,Asia/Bangkok,FALSE,1764883114
+Sai Buri,Sai Buri,Telupin|Amphoe Taluban|Taluban|Muang Saiburi|Selindung Bayu|Ban Taluban|Amphoe Sai Buri,6.7012,101.6181,Thailand,TH,THA,Pattani,Pattani,TH-94,province,minor,313.0,14137,14137,3,Asia/Bangkok,FALSE,1764406670
+Ban Mueang Nga,Ban Mueang Nga,Ban Muang Nga,18.5997,99.0181,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,278.4,14067,14067,3,Asia/Bangkok,FALSE,1764686544
+Pathum Thani,Pathum Thani,Padumdhani|Muang Prathum Tani|Muang Pradhum Dhani|Pathum Rani|Ban Patok|Amphoe Bang Kadi|Pthumthani|Prathum Thani|Amphoe Pathum Thani|Amphoe Muang Pathum Thani|Ban Bang Kadi|Changwat Pathum Thani|Bang Kadi|Muang Prathum Thani|Pradhum Dhani|Mueang Pathum Thani,14.0500,100.4833,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,admin,3718.8,13987,13987,2,Asia/Bangkok,FALSE,1764434288
+Bang Racham,Bang Racham,Mueang Sing|Amphoe Sing|Amphoe Bang Rachan|Ban Sing|Ban Wang Wua,14.9000,100.3167,Thailand,TH,THA,Sing Buri,Sing Buri,TH-17,province,minor,140.1,13937,13937,3,Asia/Bangkok,FALSE,1764338966
+Taphan Hin,Taphan Hin,Amphoe Taphan Hin|King Amphoe Taphan Hin|Ban Saphan Hin,16.2108,100.4188,Thailand,TH,THA,Phichit,Phichit,TH-66,province,minor,150.1,13868,13868,3,Asia/Bangkok,FALSE,1764640959
+Ban Bang Muang,Ban Bang Muang,Bang Tong,13.8273,100.3859,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1699.7,13786,13786,3,Asia/Bangkok,FALSE,1764508090
+Ban Tha Luang Lang,Ban Tha Luang Lang,Tha Luang|Ban Tha Luang,12.6376,102.0884,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,,67.5,13785,13785,3,Asia/Bangkok,FALSE,1764285638
+Ban Bung Kha,Ban Bung Kha,Ban Bung Khla,16.1675,104.6408,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,,79.3,13507,13507,3,Asia/Bangkok,FALSE,1764502861
+Ban Mae Kaluang,Ban Mae Kaluang,Mae Ka Long|Ban Mae Ka Long|Bān Ga Long|Mēgahlong,19.0778,99.9270,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,13502,13502,3,Asia/Bangkok,FALSE,1764438481
+Dok Kham Tai,Dok Kham Tai,King Amphoe Dok Kham Tai|Amphoe Dok Kham Tai|Dauk Kham Tai|Ban Dok Kham Tai|Ban Dauk Kam Tāi,19.1620,99.9926,Thailand,TH,THA,Phayao,Phayao,TH-56,province,minor,71.9,13450,13450,3,Asia/Bangkok,FALSE,1764998774
+Ban Don Thong,Ban Don Thong,Dōhndhōhng|Daun Thaung|Ban Daun Thaung|Ban Don Thong (1),16.9040,100.3563,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,178.7,13401,13401,3,Asia/Bangkok,FALSE,1764925902
+Ban Na Chom Thian,Ban Na Chom Thian,Na Chaum Thian|Ban Nachomtien|Ban Na Jomtian,12.8356,100.9264,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,866.7,13305,13305,3,Asia/Bangkok,FALSE,1764606820
+Ang Thong,Ang Thong,Changwat Ang Thong|Ban Bang Kaeo|Muang Ang Thong|Muang Ang Ton|Muang Ang Tawng|Muang Ang Dhohng|Amphoe Muang Ang Thong|Amphoe Bang Kaeo|Ang Thaung|Angdhohng|Bang Kaeo|Bang Keo,14.5925,100.4572,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,admin,413.3,13277,13277,2,Asia/Bangkok,FALSE,1764529940
+Ban Chomphu Nuea,Ban Chomphu Nuea,Ban Chomphu|Ban Chompu,16.6833,100.6667,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,13266,13266,3,Asia/Bangkok,FALSE,1764044071
+Ban Khlong,Ban Khlong,,16.8353,100.2320,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,458.0,13186,13186,3,Asia/Bangkok,FALSE,1764509673
+Ban Chorakhe Samphan,Ban Chorakhe Samphan,Chaurakha Sam Phan|Chorakhe Sam Phan|U Thong|Chōhrakhesāmbhan|Ban Chorakhe Sampham|Amphu Chorak Sam Pan,14.3258,99.8623,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,149.5,13157,13157,3,Asia/Bangkok,FALSE,1764660410
+Ban Nong Hoi,Ban Nong Hoi,,18.7500,99.0167,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,559.1,13144,13144,3,Asia/Bangkok,FALSE,1764993744
+Phra Samut Chedi,Phra Samut Chedi,King Amphoe Phra Samut Chedi|Amphoe Phra Samut Chedi,13.5976,100.5848,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,minor,2387.0,13082,13082,2,Asia/Bangkok,FALSE,1764769560
+Song Phi Nong,Song Phi Nong,Amphoe Song Phi Nong|Ban Bang Len|Song Phi Nong,14.2306,100.0389,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,minor,167.5,12926,12926,3,Asia/Bangkok,FALSE,1764684967
+Ban Krang,Ban Krang,Bān Grāng,16.7460,100.2750,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,173.0,12800,12800,3,Asia/Bangkok,FALSE,1764045308
+Ban Tat,Ban Tat,,17.2791,102.8022,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,265.5,12760,12760,3,Asia/Bangkok,FALSE,1764551392
+Kaeng Khoi,Kaeng Khoi,Khwaeng Kaeng Khoi|Amphoe Kaeng Khoi,14.5864,100.9967,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,162.5,12752,12752,3,Asia/Bangkok,FALSE,1764167813
+Ban Sop Tia,Ban Sop Tia,Sobmekāng,18.3895,98.6780,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,73.5,12739,12739,3,Asia/Bangkok,FALSE,1764003065
+Chaiyo,Chaiyo,Amphoe Ban Makham|Ban Chorakhe Rong|Ban Charake Rong|Chaurakhe Raung|Amphoe Chaiyo|Cheiyo,14.6666,100.4702,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,minor,288.2,12710,12710,3,Asia/Bangkok,FALSE,1764400832
+Lamphun,Lamphun,Muang Lampun|Muang Lam Poun|Muang Lamphun|Lampun|Lambhun|Changwat Muang Lamphun|Lampoon|Amphoe Mueang Lamphun|Mueang Lamphun|Changwat Lamphun|Amphoe Muang Lamphun,18.5864,99.0119,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,admin,278.4,12595,12595,2,Asia/Bangkok,FALSE,1764104264
+Ban Tom Klang,Ban Tom Klang,Tōhm|Ban Tom|Bān Taum|Ban Tom Nua,19.1961,99.8378,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,12586,12586,3,Asia/Bangkok,FALSE,1764492879
+Chok Chai,Chok Chai,Kra Thok|Amphoe Chok Chai|Choc Chai|Ban Chok Chai,14.7333,102.1667,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,132.7,12568,12568,3,Asia/Bangkok,FALSE,1764008665
+Rong Kwang,Rong Kwang,King Amphoe Rong Kwang|Raung Kwang|Rōhngkwāng|Ban Rong Kiem|Bān Raung Gwang|Amphoe Rong Kwang|Ban Rong Kwang,18.3392,100.3172,Thailand,TH,THA,Phrae,Phrae,TH-54,province,minor,61.6,12553,12553,3,Asia/Bangkok,FALSE,1764929562
+Ban Laem,Ban Laem,Khwaeng Khun Chamnan|Khwaeng Phrommasan|Amphoe Ban Laem|Laem|Bānhlēm,13.2168,99.9767,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,minor,380.1,12541,12541,3,Asia/Bangkok,FALSE,1764878982
+Chai Nat,Chai Nat,Changwat Muang Chainat|Cheinat|Muang Jai Nadh|Muang Xai Nat|Muang Chainat|Jainat|Changwat Chainat|Chai Nad|Amphoe Muang Chainat|Amphoe Ban Kluai|Jai-Nādh|Ban Kluai|Mueang Chai Nat,15.1872,100.1283,Thailand,TH,THA,Chai Nat,Chai Nat,TH-18,province,admin,200.8,12541,12541,2,Asia/Bangkok,FALSE,1764848732
+Kantang,Kantang,Gantam|Gantang|Amphoe Kantang|Ban Gantang|Ban Kantang,7.4067,99.5150,Thailand,TH,THA,Trang,Trang,TH-92,province,minor,135.3,12533,12533,3,Asia/Bangkok,FALSE,1764372106
+Bang Phlat,Bang Phlat,Ban Bang Phlat|Amphoe Bang Phlat|Bangprat,13.8247,100.4908,Thailand,TH,THA,Krung Thep Maha Nakhon,Krung Thep Maha Nakhon,TH-10,municipality,minor,2224.96,12482,12482,2,Asia/Bangkok,FALSE,1764119231
+Ban Bang Non,Ban Bang Non,Ban Bang Non Nai|Bang Naun|Bān Bāng Naun,9.9923,98.6507,Thailand,TH,THA,Ranong,Ranong,TH-85,province,,265.7,12466,12466,3,Asia/Bangkok,FALSE,1764844910
+Huai Yot,Huai Yot,Khou Khaw|Amphoe Khao Khao|Amphoe Huai Yot|Nam Phrai|Bān Kāo Kāu|Ban Khaokao|Khao Khao|Khaokao|Ban Nem Phrai|Amphoe Khau Khaw|Ban Nam Phrai,7.7894,99.6347,Thailand,TH,THA,Trang,Trang,TH-92,province,minor,119.9,12337,12337,3,Asia/Bangkok,FALSE,1764009966
+Nong Khae,Nong Khae,Amphoe Nong Khae|Hnōhng Gā|Naung Khae|Na Roeng|Ban Na Roeng,14.3352,100.8727,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,513.6,12336,12336,3,Asia/Bangkok,FALSE,1764836619
+Doi Lo,Doi Lo,Ban Doi Lo|King Amphoe Doi Lo|Amphoe Doi Lo|Bān Doi Lau,18.4667,98.7833,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,166.9,12261,12261,3,Asia/Bangkok,FALSE,1764750189
+Ban Tap Tao,Ban Tap Tao,Bān Tab Tāo,19.7280,100.2939,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,98.4,12252,12252,3,Asia/Bangkok,FALSE,1764322223
+Ban Huai So Nuea,Ban Huai So Nuea,Ban So|Ban Huai So|Ban Huai So Nua,20.0536,100.2828,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,82.8,12239,12239,3,Asia/Bangkok,FALSE,1764115664
+Na Wa,Na Wa,Ban Na Wa|Amphoe Na Wa|King Amphoe Na Wa,17.4692,104.1020,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,minor,88.4,12160,12160,3,Asia/Bangkok,FALSE,1764746729
+Ban Bo Luang,Ban Bo Luang,Bohhluang|Bān Bau Luang|Bau Luang,18.1476,98.3489,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,37.3,12143,12143,3,Asia/Bangkok,FALSE,1764468755
+Ban Bang Sai,Ban Bang Sai,,13.3847,100.9856,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,2060.8,12136,12136,2,Asia/Bangkok,FALSE,1764574957
+Ban Noen Phoem,Ban Noen Phoem,Ban Narn Peun|Ban Noen Pun|Ban Noen Phoem (1),17.1167,100.8667,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,12136,12136,3,Asia/Bangkok,FALSE,1764544563
+Ban Muang Ngam,Ban Muang Ngam,Ma Maung Ngam|Ban Mamuang Ngam (1),7.3536,100.4898,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,715.6,12084,12084,3,Asia/Bangkok,FALSE,1764397075
+Ban Pae,Ban Pae,Ban Pae Luang|Ban Mae Pae,18.2108,98.6164,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,73.5,12050,12050,3,Asia/Bangkok,FALSE,1764427283
+Wang Saphung,Wang Saphung,Ban Wang Sa Pung|Wangsabhung|Ban Wang Saphung|Ban Wang San Phung|Khwaeng Wang Saphung|Amphoe Wang Saphung,17.2995,101.7624,Thailand,TH,THA,Loei,Loei,TH-42,province,minor,82.3,11992,11992,3,Asia/Bangkok,FALSE,1764106072
+Nong Bua,Nong Bua,Ban Nong Bua|Amphoe Nong Bua|Naung Bua|Bān Naung Bua,15.8647,100.5858,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,71.1,11951,11951,3,Asia/Bangkok,FALSE,1764078338
+Don Sak,Don Sak,Amphoe Don Sak|King Amphoe Don Sak,9.3169,99.6944,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,126.2,11934,11934,3,Asia/Bangkok,FALSE,1764466914
+Kuchinarai,Kuchinarai,Bua Khao|Ban Bua Khao|Amphoe Kuchinarai,16.5318,104.0440,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,102.7,11753,11753,3,Asia/Bangkok,FALSE,1764821226
+Ban Phan Don,Ban Phan Don,Amphoe Kumphawapi|Koumpa Ouapi|Muang Kumpu Kwapi|Kumphawapi|Muang Kumpawapi|Nam Khaung|Kumpawapi|Ban Nam Khong|Amphoe Kumbhawapi,17.1290,102.9618,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,144.4,11739,11739,3,Asia/Bangkok,FALSE,1764073724
+Lom Sak,Lom Sak,Changwat Muang Lom Sak|Ban Lom Sak|Wat Pa|Muang Lom Sak|Hlomsak|Changwat Muang Hlom Sak|Amphoe Lom Sak|Amphoe Wat Pa|Muang Hlom Sak,16.7775,101.2468,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,minor,97.1,11685,11685,3,Asia/Bangkok,FALSE,1764798281
+Ban Mae Tuen,Ban Mae Tuen,Mae Toen|Ban Mae Tun|Mē Tōeno,18.0100,98.8809,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,35.3,11617,11617,3,Asia/Bangkok,FALSE,1764530285
+Phon,Phon,Muang Phon|Moengphol|Ban Muang Phon|Möng Pol|Amphoe Phon,15.8084,102.6018,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,202.2,11593,11593,3,Asia/Bangkok,FALSE,1764718749
+Ban Mae Kham Lang Wat,Ban Mae Kham Lang Wat,Ban Mae Kham|Ban Mea Gum|Ban Mae Kum|Ban Mae Kham (1),20.2225,99.8561,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,179.2,11569,11569,3,Asia/Bangkok,FALSE,1764260824
+Ban Wiang Phan,Ban Wiang Phan,Wiyang Phrān|Me-hsai|Wiang Phan|Wiang Phran,20.4128,99.8853,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,273.5,11569,11569,3,Asia/Bangkok,FALSE,1764466562
+Den Chai,Den Chai,Amphoe Den Chai|Ban Den Chai,17.9835,100.0519,Thailand,TH,THA,Phrae,Phrae,TH-54,province,minor,72.9,11542,11542,3,Asia/Bangkok,FALSE,1764349674
+Ban Saeo,Ban Saeo,Ban Siu,20.2158,100.2250,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,161.0,11444,11444,3,Asia/Bangkok,FALSE,1764365143
+Satuek,Satuek,Satuk|Amphoe Satuek|So Tuk|Amphoe Satuk|King Amphoe Satuek,15.3008,103.3013,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,121.9,11444,11444,3,Asia/Bangkok,FALSE,1764714909
+Ban Bang Lamung,Ban Bang Lamung,Bang Lamung,13.0470,100.9289,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,1774.9,11324,11324,3,Asia/Bangkok,FALSE,1764268034
+Ban Kat,Ban Kat,,18.1764,97.9339,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,17.3,11283,11283,3,Asia/Bangkok,FALSE,1764182671
+Lang Suan,Lang Suan,Muang Lang Suan|Muang Hlang Suan|Moeang Hlang Sūan|Khan Ngoen|Mueang Lang Suan|Khan Ngden|Ban Khan Ngoen|Amphoe Lang Suan|Amphoe Khan Ngoen|Amphoe Khanngeun|Amper Khan Ngern,9.9500,99.0667,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,minor,125.0,11250,11250,3,Asia/Bangkok,FALSE,1764676997
+Kaset Wisai,Kaset Wisai,Nong Waeng|Amphoe Kaset Wisai,15.6556,103.5836,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,minor,85.0,11217,11217,3,Asia/Bangkok,FALSE,1764985093
+Salaya,Salaya,Phuttha Monthon|King Amphoe Phutthamonthon|Ban Salaya|Amphoe Phutthamonthon,13.8023,100.3208,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,minor,383.5,11180,11180,3,Asia/Bangkok,FALSE,1764189749
+Tha Chang,Tha Chang,Tan Chang|King Tha Chang|King Amphoe Dhashang|King Amphoe Chaiya|Dhashang|Ban Tha Chang|Ban Tan Chang|Amphoe King Tha Chang|Amphoe Tha Chang|King Amphoe Tha Chang,9.2674,99.1922,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,34.8,11108,11108,3,Asia/Bangkok,FALSE,1764489461
+Bang Ban,Bang Ban,Ban Bang Bal|Amphoe Bang Ban|Bāng Bāl|Ban Bang Ban|Amphoe Sena Nai,14.4247,100.4758,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,257.8,11092,11092,3,Asia/Bangkok,FALSE,1764275286
+Ban Wang Daeng,Ban Wang Daeng,Bān Wang Deang|Ban Wang Daeng (1),17.4790,100.1247,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,118.1,11091,11091,3,Asia/Bangkok,FALSE,1764486186
+Si Wilai,Si Wilai,,18.1865,103.7408,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,minor,87.4,11090,11090,3,Asia/Bangkok,FALSE,1764803853
+Phanat Nikhom,Phanat Nikhom,Phanatikhom|Bhanasnigom|Ban Phanat Nikhom|Amphoe Phanat Nikhom|Amphu Panas Nikom|Mueang Phanat Nikhom,13.4458,101.1844,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,534.2,11032,11032,3,Asia/Bangkok,FALSE,1764762615
+Fao Rai,Fao Rai,King Amphoe Fao Rai|Amphoe Fao Rai|Ban Fao Rai,18.0175,103.3057,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,minor,120.7,10978,10978,3,Asia/Bangkok,FALSE,1764038877
+Ban Yang Hom,Ban Yang Hom,Yang Huam|Ban Yang Huam|Ban Yang Hom (1),19.9222,100.3056,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,147.6,10939,10939,3,Asia/Bangkok,FALSE,1764266179
+Mae Wang,Mae Wang,,18.6567,98.6816,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,57.1,10879,10879,3,Asia/Bangkok,FALSE,1764671792
+Phrai Bueng,Phrai Bueng,King Amphoe Phrai Bueng|Amphoe Phrai Bueng|Ban Phrai Bung|Phrai Bung,14.7490,104.3574,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,110.1,10864,10864,3,Asia/Bangkok,FALSE,1764845950
+Phibun Mangsahan,Phibun Mangsahan,Phibun Mangdshan|Phinum Mangsahan|Phimun|Phi Moun|Pibulmangsahan|Pimul|Amphoe Phimun Mangsahan|Amphoe Phibun Mangsahan|Phimun Mangsahan|Pimool|Pimun|Muang Pimour|Muang Phi Moun|Ban Phimun|Amphoe Phimun Mangahan|Amphoe Bhimunmangsaharn,15.2482,105.2296,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,151.9,10842,10842,3,Asia/Bangkok,FALSE,1764591980
+Khlung,Khlung,Ban Khlung|Amphoe Khlung,12.4525,102.2267,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,minor,74.5,10835,10835,3,Asia/Bangkok,FALSE,1764654331
+Pua,Pua,Ban Pua|Amphoe Pua,19.1799,100.9089,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,65.8,10831,10831,3,Asia/Bangkok,FALSE,1764017430
+Ban Bang Yai,Ban Bang Yai,Bang Yai,13.8369,100.3591,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1699.7,10767,10767,3,Asia/Bangkok,FALSE,1764949681
+Doi Saket,Doi Saket,Amphoe Doi Saket|Ban Choeng Doi|Ban Chieng Doi|Doi Sket|Maung Ken|Muang Ken|Jaeung Doi|Choeng Doi|Amphoe Doy Saket|Amphoe Doi Saked|Ban Jaeung Doi,18.8667,99.1333,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,113.8,10750,10750,3,Asia/Bangkok,FALSE,1764197318
+Wang Sombun,Wang Sombun,King Amphoe Wang Sombun|Amphoe Wang Sombun,13.3515,102.1833,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,minor,69.0,10747,10747,3,Asia/Bangkok,FALSE,1764786290
+Sam Ko,Sam Ko,Amphoe Sam Ko|Ban Sam Ko|King Amphoe Sam Ko,14.6013,100.2602,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,minor,171.8,10696,10696,3,Asia/Bangkok,FALSE,1764322082
+Ban Ko,Ban Ko,Ban Ko Pho Hak|Ban Pho Hak|Pho Hak|Ban Pohag|Bān Bhō Hak,13.6486,100.0063,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,232.7,10561,10561,3,Asia/Bangkok,TRUE,1764504275
+Ban Thung Khao Phuang,Ban Thung Khao Phuang,Thung Kapaung|Dhungkapūanghnoēa|Ban Thung Kapuang|Ban Thung Khao Phuang (1),19.5342,98.9621,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,42.8,10500,10500,3,Asia/Bangkok,FALSE,1764832106
+Ban Lueak,Ban Lueak,Luak|Ban Luak,13.7065,99.8902,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,275.9,10480,10480,3,Asia/Bangkok,FALSE,1764013692
+Phai Sali,Phai Sali,Ban Khok Dua|Amphoe Phaisali|King Amphoe Phaisali,15.6000,100.6494,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,59.0,10450,10450,3,Asia/Bangkok,FALSE,1764690719
+Trat,Trat,Mueang Trat|Ban Prah|Muang Krat|Bang Phra|Amphoe Bang Phra|Changwat Trat|Ban Bang Phra|Trad|Krat,12.2417,102.5125,Thailand,TH,THA,Trat,Trat,TH-23,province,admin,120.6,10413,10413,2,Asia/Bangkok,FALSE,1764126822
+Phangnga,Phangnga,Bhangnga|Phung Nga|Amphoe Mueang Phangnga|Panga|Pan Nga|Muang Pha Nga|Changwat Phangnga|Muang Bhang-nga|Pungah,8.4644,98.5317,Thailand,TH,THA,Phangnga,Phangnga,TH-82,province,admin,83.9,10412,10412,2,Asia/Bangkok,FALSE,1764855952
+Prakhon Chai,Prakhon Chai,,14.6092,103.0818,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,110.2,10404,10404,3,Asia/Bangkok,FALSE,1764447694
+Ban Ueam,Ban Ueam,Oēam|Ban Uam,18.4246,99.4434,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,183.6,10401,10401,3,Asia/Bangkok,FALSE,1764673656
+Ban Non Sombun,Ban Non Sombun,,18.2983,103.6528,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,165.0,10376,10376,3,Asia/Bangkok,FALSE,1764177972
+Phon Charoen,Phon Charoen,King Amphoe Phon Charoen|Amphoe Phon Charoen,18.0258,103.7094,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,minor,91.8,10357,10357,3,Asia/Bangkok,FALSE,1764018147
+Ban Dan Na Kham,Ban Dan Na Kham,,17.7167,100.1333,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,174.2,10329,10329,3,Asia/Bangkok,FALSE,1764004017
+Ban Wisit,Ban Wisit,,18.3480,103.6308,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,150.0,10278,10278,3,Asia/Bangkok,FALSE,1764349189
+Kut Chap,Kut Chap,King Amphoe Kut Chap|Amphoe Kut Chap|Ban Kut Chap,17.4262,102.5646,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,102.9,10259,10259,3,Asia/Bangkok,FALSE,1764618058
+Tha Muang,Tha Muang,Amphoe Wang Khanai|Ban Tha Muang|Wang Khanai|Amphoe Tha Muang|Wang Kanai|Amphoe Tai,13.9611,99.6411,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,204.4,10219,10219,3,Asia/Bangkok,FALSE,1764391380
+Phra Pradaeng,Phra Pradaeng,Muang Nakhon Khaun Khan|Muang Nakhon Khuan Khan|Muang Nakawn Khoan Khan|Muang Nagorn Khoean Khan|Nakhon Khuen Khan|Nakhon Khuan Khan|Khoan Khan|Bhra Pradeng|Amphoe Phra Padaeng|Amphoe Bhra Pradēng,13.6592,100.5331,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,minor,12644.7,10190,10190,2,Asia/Bangkok,FALSE,1764849819
+Kranuan,Kranuan,King Amphoe Kranuan|Amphoe Kranuan,16.7081,103.0811,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,157.5,10169,10169,3,Asia/Bangkok,FALSE,1764256426
+Ban Bong Tai,Ban Bong Tai,,17.4057,103.2992,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,,120.6,10168,10168,3,Asia/Bangkok,FALSE,1764226625
+Ban Bang Toei,Ban Bang Toei,,14.0656,100.5226,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,,1471.2,10164,10164,3,Asia/Bangkok,FALSE,1764390237
+Ban Klang,Ban Klang,,18.5791,99.0687,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,278.4,10143,10143,3,Asia/Bangkok,FALSE,1764274690
+Ban Pa Hung,Ban Pa Hung,Ban Pa Hong,19.5672,99.7013,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,10138,10138,3,Asia/Bangkok,FALSE,1764832108
+Nong Ki,Nong Ki,King Amphoe Nong Ki|Amphoe Nong Ki,14.6867,102.5325,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,109.2,10089,10089,3,Asia/Bangkok,FALSE,1764002755
+Ban Bu Sung,Ban Bu Sung,,14.9602,104.1657,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,,96.8,10063,10063,3,Asia/Bangkok,FALSE,1764702503
+Sung Noen,Sung Noen,Ban Sung Noen|Amphoe Sung Noen,14.8965,101.8167,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,101.1,10061,10061,3,Asia/Bangkok,FALSE,1764245412
+Ban Ngao,Ban Ngao,Bān Ngāu|Ngāo,19.6736,100.2583,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,98.4,9943,9943,4,Asia/Bangkok,FALSE,1764076569
+Kamalasai,Kamalasai,Ban Komlasai|Amphoe Kamalasai|Ban Amphoe Kamalasai|Komlasai|Kramalasai,16.3383,103.5756,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,157.3,9942,9942,3,Asia/Bangkok,FALSE,1764734520
+Ban Pong Yaeng Nai,Ban Pong Yaeng Nai,Ban Pong Yaeng|Pong Yaeng|Bān Paung Yeang,18.8833,98.8167,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,209.6,9922,9922,3,Asia/Bangkok,FALSE,1764702190
+Phak Hai,Phak Hai,Khwaeng Sena Yai|Amphoe Sena Yai|Ban Phakhai|Amphoe Phak Hai|Amphu Phak Hai,14.4626,100.3667,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,258.3,9905,9905,3,Asia/Bangkok,FALSE,1764882344
+Ban Pha Bong,Ban Pha Bong,Ban Pha Mong|Ban Pabong|Phābohng|Bān Pha Baung|Pha Baung,19.2266,97.9707,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,16.4,9874,9874,4,Asia/Bangkok,FALSE,1764208458
+Ban Phan Chali,Ban Phan Chali,Bān Phan Jali,16.6333,100.4833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,86.0,9873,9873,4,Asia/Bangkok,FALSE,1764623789
+Tha Mai,Tha Mai,Amphoe Khamong|Amphoe Phloi Waen|Amphoe Tha Mai|Ban Tha Mai|Talat Amphoe Tha Mai,12.6196,102.0112,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,minor,112.0,9843,9843,3,Asia/Bangkok,FALSE,1764588619
+Nong Wua So,Nong Wua So,Ban Nong Wua So|King Amphoe Nong Wua So|Amphoe Nong Wua So,17.2702,102.5985,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,77.9,9816,9816,3,Asia/Bangkok,FALSE,1764122140
+Ban Mae Sam Laep,Ban Mae Sam Laep,,17.9750,97.7392,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,7.4,9802,9802,4,Asia/Bangkok,FALSE,1764091055
+Mae O,Mae O,,19.6500,99.8333,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,9799,9799,4,Asia/Bangkok,FALSE,1764995328
+Chom Thong,Chom Thong,Ban Som-Luang|Ban Hluang|Amphoe Chomtong|Jaum Thaung|Ban Luang Chom Thong|Ban Luang|Hluang|Chaum Thaung|Amphoe Chom Thong|Amphoe Chohm Dhohng,18.4901,98.6747,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,73.5,9777,9777,3,Asia/Bangkok,FALSE,1764003802
+Bueng Khong Long,Bueng Khong Long,Bung Khong Long|Amphoe Bueng Khong Long|King Amphoe Bueng Khong Long,17.9667,104.0450,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,minor,87.9,9777,9777,3,Asia/Bangkok,FALSE,1764051727
+Ban Mae Chedi,Ban Mae Chedi,Mēchedi|Bān Mea Jedi|Mae Chedi|Ban Mae Chedi (1),19.1833,99.5167,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,53.9,9742,9742,4,Asia/Bangkok,FALSE,1764605248
+Non Sung,Non Sung,Amphoe Non Wat|Amphoe Non Sung|Ban Non Sung,15.1788,102.2514,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,182.8,9730,9730,3,Asia/Bangkok,FALSE,1764677081
+Chiang Klang,Chiang Klang,Ban Chiang Klang|Amphoe Chiang Klang,19.2930,100.8739,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,83.8,9721,9721,3,Asia/Bangkok,FALSE,1764084763
+Mae Ai,Mae Ai,Ban Mae Ai Luang,20.0314,99.2842,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,242.5,9699,9699,3,Asia/Bangkok,FALSE,1764592962
+Ban Bueng Kok,Ban Bueng Kok,Ban Beung Gauk|Ban Bung Kok (1),16.6833,100.0333,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,9688,9688,4,Asia/Bangkok,FALSE,1764708028
+Thap Khlo,Thap Khlo,Amphoe Thap Khlo|King Amphoe Thap Khlo,16.1600,100.5967,Thailand,TH,THA,Phichit,Phichit,TH-66,province,minor,118.6,9676,9676,3,Asia/Bangkok,FALSE,1764391912
+Ban Kang,Ban Kang,Bān Gāng,18.5444,98.8889,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,571.0,9676,9676,3,Asia/Bangkok,FALSE,1764006978
+Ban Dong Mada,Ban Dong Mada,,19.7237,99.7153,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,152.0,9642,9642,4,Asia/Bangkok,FALSE,1764346183
+Ban Lao Yao,Ban Lao Yao,Bān Lāo Yāu|Lao Yao,18.3667,98.7833,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,83.2,9641,9641,4,Asia/Bangkok,FALSE,1764997700
+Ban Nam Dip Luang,Ban Nam Dip Luang,Ban Nam Dip|Ban Nam Dib|Ban Nam Dip Noi|Nam Dip,18.4500,98.8333,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,208.7,9592,9592,3,Asia/Bangkok,FALSE,1764671694
+Wiang Sa,Wiang Sa,King Amphoe Wiang Sa|Mueang Wiang Sa|Amphoe Khlong Tan|Amphoe Wiang Sa,8.6364,99.3683,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,203.8,9587,9587,3,Asia/Bangkok,FALSE,1764748345
+Photharam,Photharam,Amphoe Photharam|Amphu Po Ta-ram|Bhōdhārām|Ban Photharam|Kwaeng Photharam,13.6918,99.8531,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,275.9,9575,9575,3,Asia/Bangkok,FALSE,1764429218
+Ban Wiang Ka Long,Ban Wiang Ka Long,,19.2332,99.5165,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,53.9,9572,9572,4,Asia/Bangkok,FALSE,1764433764
+Mae Rim,Mae Rim,Me Rim Tai|Meh Rim|Mae Rim Ta|Ban Rim Tai|Ban Mae Rim|Amphoe Me Rim|Amphoe Mae Rim|Ban Mea Rim Dai|Ban Me Rim Tai|Ban Mae Rim Tai,18.9163,98.9605,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,209.6,9567,9567,3,Asia/Bangkok,FALSE,1764340535
+Ban Nong Tong,Ban Nong Tong,,18.6115,98.9466,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,321.7,9512,9512,3,Asia/Bangkok,FALSE,1764899658
+Kanchanadit,Kanchanadit,Thathong|Thathong|Kradek|Ban Kanchanadit|Ban Kradek|Ban Kradae|Amphoe Kanchanadit|Mueang Kanchanadit,9.1653,99.4706,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,112.2,9492,9492,3,Asia/Bangkok,FALSE,1764472524
+Ban Krot,Ban Krot,Ban Krod,14.3121,100.6005,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,,331.7,9471,9471,3,Asia/Bangkok,FALSE,1764143463
+Ban Sathan,Ban Sathan,Sathān,18.2667,100.7167,Thailand,TH,THA,Nan,Nan,TH-55,province,,24.3,9453,9453,4,Asia/Bangkok,TRUE,1764353853
+Ban Bang Phlap,Ban Bang Phlap,,13.9241,100.4684,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1135.3,9434,9434,3,Asia/Bangkok,FALSE,1764411697
+Ban San Pong,Ban San Pong,Bān San Paung,18.9424,98.9439,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,209.6,9425,9425,3,Asia/Bangkok,TRUE,1764920268
+Ban Khi Lek,Ban Khi Lek,Khīhlek|Ban Khi Lek Luang (1),19.0625,98.9396,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,95.6,9334,9334,4,Asia/Bangkok,FALSE,1764319884
+Bang Khla,Bang Khla,Bāng Glā|Ban Bang Khla|Amphoe Bang Khla,13.7268,101.2105,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,minor,240.3,9311,9311,3,Asia/Bangkok,FALSE,1764157593
+Ban Bo Phlap,Ban Bo Phlap,,13.8439,100.0686,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,,1894.1,9281,9281,3,Asia/Bangkok,FALSE,1764002485
+Nakhon Thai,Nakhon Thai,Non Chan|Amphoe Nakhon Thai|Amphoe Muang Nakhon Thai|Ban Naun Jan|Nakon Thai|Amphoe Moeang Nagorn Dhai|Muang Nakaun Thai|Amphoe Muang Nakorn Thai|Amphoe Muang Nakawn Tai|Noan Chanta|Nagorndhai|Muang Nakhon Thai|Muang Nakawn Tai,17.1011,100.8296,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,minor,44.2,9278,9278,3,Asia/Bangkok,FALSE,1764255388
+Ban Son Loi,Ban Son Loi,Sano Loi,13.9122,100.4200,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,2615.0,9245,9245,2,Asia/Bangkok,FALSE,1764617566
+Nong Kung Si,Nong Kung Si,King Amphoe Nong Kung Si|Amphoe Nong Kung Si,16.6500,103.3000,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,85.5,9213,9213,3,Asia/Bangkok,FALSE,1764488443
+Pong Nam Ron,Pong Nam Ron,King Amphoe Pong Nam Ron|Amphoe Pong Nam Ron,12.9057,102.2663,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,minor,35.8,9210,9210,3,Asia/Bangkok,FALSE,1764739470
+Ban Kham Pom,Ban Kham Pom,Ban Kampon|Khampaun,15.9653,105.2112,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,,128.8,9209,9209,4,Asia/Bangkok,TRUE,1764689114
+Ban Chang Phuak,Ban Chang Phuak,Bān Chang Fuak,18.8032,98.9811,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,2195.5,9191,9191,2,Asia/Bangkok,FALSE,1764077139
+Suwannaphum,Suwannaphum,Souodnapoum|Suwanphum|Souvanapoum|Muang Suvanapum|Ban Sa Khu|Amphoe Suwarnbhum|Amphoe Suwannphum|Sa Khu|Ban Sra Ku|Suvanapum|King Amphoe Suwannaphum|Amphoe Suwanapum|Amphoe Suwannaphum,15.6078,103.8000,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,minor,99.0,9183,9183,3,Asia/Bangkok,FALSE,1764109943
+Ban Wat Chan,Ban Wat Chan,Bān Wat Jan,16.8033,100.2351,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,814.0,9171,9171,3,Asia/Bangkok,FALSE,1764351898
+Ban Yaeng,Ban Yaeng,,16.8833,100.8000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,9170,9170,4,Asia/Bangkok,FALSE,1764144794
+Ban Wang Krachae,Ban Wang Krachae,,14.2333,98.8667,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,17.8,9134,9134,4,Asia/Bangkok,FALSE,1764682800
+Ban Tha Phra,Ban Tha Phra,Tha Phra,16.3298,102.7998,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,370.9,9075,9075,3,Asia/Bangkok,FALSE,1764897483
+Ban Ngio Ngam,Ban Ngio Ngam,Ban Ngiu Ngam,17.6671,100.1754,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,174.2,9040,9040,4,Asia/Bangkok,FALSE,1764014160
+Ban Wang Pradu,Ban Wang Pradu,Ban Wang Phikun (1)|Ban Wang Phikun,16.7600,100.3500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,128.0,9016,9016,4,Asia/Bangkok,FALSE,1764001245
+Akat Amnuai,Akat Amnuai,King Amphoe Akat Amnuai|Amphoe Akat Amnuai|Ban Akat,17.5898,103.9859,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,89.4,9013,9013,3,Asia/Bangkok,FALSE,1764592273
+Kaeng Khro,Kaeng Khro,Kaeng Khlo|Amphoe Kaeng Khro|Amphoe Kaeng Khlo,16.1086,102.2581,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,116.9,9012,9012,3,Asia/Bangkok,FALSE,1764376495
+Tha Luang,Tha Luang,King Amphoe Tha Luang|Amphoe Tha Luang,15.0697,101.1182,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,85.0,9003,9003,3,Asia/Bangkok,FALSE,1764595647
+Kosum Phisai,Kosum Phisai,Amphoe Kosum Phisai|Muang Kossoum|Muang Kosum|Muang Kossum|Kosumbhisai|Mahasarakam|Ban Hua Khwang,16.2430,103.0627,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,119.8,8984,8984,3,Asia/Bangkok,FALSE,1764287207
+Thung Sai,Thung Sai,Ban Thung Sai|Amphoe Sai Thong Watthana|King Amphoe Sai Thong Watthana,16.2955,99.8089,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,minor,155.5,8971,8971,3,Asia/Bangkok,FALSE,1764018177
+Ban Nikhom Phatthana,Ban Nikhom Phatthana,,16.7242,99.9697,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,8936,8936,4,Asia/Bangkok,FALSE,1764788584
+Thap Than,Thap Than,Amphu Tap Tan|Amphoe Thap Than|Ban Thap Than|Dhapdhan|Nong Kradi,15.4570,99.8959,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,minor,94.8,8931,8931,3,Asia/Bangkok,FALSE,1764003260
+Sai Ngam,Sai Ngam,Amphoe Sai Ngam|King Amphoe Sai Ngam,16.4669,99.8902,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,minor,119.18,8923,8923,3,Asia/Bangkok,FALSE,1764631031
+Kui Buri,Kui Buri,Kui Nua|Muang Kui|Kui|Kui Kao|Kuwi|Meng Kui|Menangkuwi|Ban Kui Buri|Amphoe Kui Buri|Muang Gui Gao|King Amphoe Kui Buri|Muang Kui Kao|Moeang Kui|Ban Kui Nua|Muang Kuwi|Ban Kui Kao,12.0702,99.8667,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,minor,56.3,8916,8916,3,Asia/Bangkok,FALSE,1764298038
+Ban Pong Tao,Ban Pong Tao,Ban Pong Dao|Bān Bāu|Ban Bao|Pong Tao,18.8333,99.9500,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,35.4,8846,8846,4,Asia/Bangkok,FALSE,1764488080
+Ban Noen Kum Nueng,Ban Noen Kum Nueng,Noen Kum|Nēunkum|Bān Narn Gum|Ban Noen Kum 1|Ban Noen Kum (1),16.5500,100.4167,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,184.6,8838,8838,4,Asia/Bangkok,FALSE,1764306020
+Ban Muang Kham,Ban Muang Kham,Bān Muang Kam,19.5008,99.7466,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,8837,8837,4,Asia/Bangkok,TRUE,1764185323
+Takua Pa,Takua Pa,Taukopah|Taukopa|Takuwapa|Takuapah|Muang Taukopah|Muang Takuk Pa|Muang Takuapa|Muang Takoua Pa|Möng Takuapa|Kopah|Ban Yan Yao|Ban Takua Pa|Amphoe Takuapa|Amphoe Talad Yai|Takkolam|Takola,8.8658,98.3413,Thailand,TH,THA,Phangnga,Phangnga,TH-82,province,minor,93.9,8815,8815,3,Asia/Bangkok,FALSE,1764000562
+Ban Si Don Chai,Ban Si Don Chai,,20.1300,100.3614,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,82.8,8813,8813,4,Asia/Bangkok,TRUE,1764853542
+Ban Sai Yoi,Ban Sai Yoi,,16.4167,100.6000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,8784,8784,4,Asia/Bangkok,FALSE,1764133988
+Pa Mok,Pa Mok,Bang Pla Kot|Amphoe Pa Mok|Ban Bang Pla Kot,14.4921,100.4448,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,minor,313.3,8758,8758,3,Asia/Bangkok,FALSE,1764706108
+Nam Som,Nam Som,King Amphoe Nam Som|Amphoe Nam Som,17.7694,102.1435,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,66.3,8742,8742,3,Asia/Bangkok,FALSE,1764181212
+Phimai,Phimai,Muang Pi Mai|Nai Muang|Amphoe Muang Phimai|Pi Mai|Vimayapura|Vimai|Muang Pi Me|Muang Phimai|Moeang Bhimaj|Moeang Bhimai|Ban Nai Wiang|Ban Nai Muang|Amphoe Phimai,15.2229,102.4940,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,140.7,8696,8696,3,Asia/Bangkok,FALSE,1764598578
+Yang Talat,Yang Talat,Muang Koulan Tiane|Koulan Tiane|Amphoe Ban Yang Talat|Amphoe Ban Bang Talat|Amphoe Yangtalat|Bang Talat|Ban Bang Talat|Muang Kulan Tiane|Ban Yang Talat|Muang Phu Laen Chang,16.3997,103.3678,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,143.2,8666,8666,3,Asia/Bangkok,FALSE,1764746980
+Pa Sang,Pa Sang,Ban Pa Sang|Amphoe Pa Sang,18.5261,98.9394,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,minor,208.7,8645,8645,3,Asia/Bangkok,FALSE,1764346712
+Wiang Haeng,Wiang Haeng,Ban Muang Haeng|Muang Haeng|Moēang Hēng|Hēng|Ban Wiang Haeng|Mueang Haeng|Maung Haeng|King Amphoe Wiang Haeng,19.5500,98.6500,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,38.2,8631,8631,3,Asia/Bangkok,FALSE,1764350186
+Ban Ratchakrut,Ban Ratchakrut,Ban Rachakrut|Ban Ratcha Krut|Rajkrud|Rachakrut|Ban Rajkrud,9.7571,98.5915,Thailand,TH,THA,Ranong,Ranong,TH-85,province,,265.7,8569,8569,3,Asia/Bangkok,FALSE,1764197759
+Na Yung,Na Yung,Ban Na Yung|King Amphoe Na Yung|Amphoe Na Yung,17.9142,102.2403,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,38.3,8564,8564,3,Asia/Bangkok,FALSE,1764147446
+Ban Charoen Mueang,Ban Charoen Mueang,,19.6075,99.7547,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,8534,8534,4,Asia/Bangkok,FALSE,1764029573
+Ban Wat Phrik,Ban Wat Phrik,Ban Wat Prik|Ban Wat Phrik (1),16.7460,100.2750,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,145.0,8533,8533,4,Asia/Bangkok,FALSE,1764677008
+Sawang Daen Din,Sawang Daen Din,Amphoe Sawang Daen Din|Sawang Din Daen|Ban Han|Mueang Sawang Daen Din,17.4750,103.4569,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,119.8,8486,8486,3,Asia/Bangkok,FALSE,1764712471
+Ban Na,Ban Na,,12.8270,101.6692,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,433.4,8468,8468,3,Asia/Bangkok,TRUE,1764925980
+Non Sang,Non Sang,Amphoe Non Sang|King Amphoe Non Sang,16.8699,102.5640,Thailand,TH,THA,Nong Bua Lamphu,Nong Bua Lamphu,TH-39,province,minor,110.5,8449,8449,3,Asia/Bangkok,FALSE,1764825861
+Bang Mun Nak,Bang Mun Nak,Ban Mun Nak|Amphoe Mueang Phum|Amphoe Bang Mun Nak|Ban Bang Mun Nak,16.0278,100.3792,Thailand,TH,THA,Phichit,Phichit,TH-66,province,minor,115.8,8448,8448,3,Asia/Bangkok,FALSE,1764958140
+Ban Nong Samet,Ban Nong Samet,Naung Samet,12.2124,102.5116,Thailand,TH,THA,Trat,Trat,TH-23,province,,120.6,8445,8445,4,Asia/Bangkok,FALSE,1764103172
+Bang Len,Bang Len,Amphoe Bang Phai Nat|Amphoe Bang Pla|Ban Bang Len|Amphoe Bang Len,14.0219,100.1719,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,minor,215.2,8429,8429,3,Asia/Bangkok,FALSE,1764190686
+Ban Nong Pa Khrang,Ban Nong Pa Khrang,,18.7879,99.0320,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,1728.3,8423,8423,3,Asia/Bangkok,FALSE,1764863715
+Ban Tha Sai,Ban Tha Sai,Tha Sai|Ban Tah Sai,6.8667,101.4500,Thailand,TH,THA,Pattani,Pattani,TH-94,province,,341.8,8412,8412,3,Asia/Bangkok,FALSE,1764578051
+Kumphawapi,Kumphawapi,Mueang Kumphawapi|Amphoe Kumphawapi,17.1151,103.0186,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,144.4,8341,8341,3,Asia/Bangkok,FALSE,1764109555
+Ban Chaiyaphon,Ban Chaiyaphon,,18.2771,103.8779,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,112.0,8339,8339,4,Asia/Bangkok,FALSE,1764944615
+Ban Plak Raet,Ban Plak Raet,Ban Paik Rai|Ban Plak Reat|Plakrēd,16.6667,100.1000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,8329,8329,4,Asia/Bangkok,FALSE,1764735866
+Ban Pa Lu Ru,Ban Pa Lu Ru,Paluru|Ban Baluru|Ban Pu Lu Ru,6.0874,101.8728,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,,141.9,8314,8314,4,Asia/Bangkok,FALSE,1764240512
+Phayakkhaphum Phisai,Phayakkhaphum Phisai,Phayak Phu Phisai|Muong Kantigavise|Palan|Ban Palan|Amphu Piak Puin Pisai|Amphoe Phayakkhaphum Phisai,15.5183,103.1921,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,108.2,8308,8308,3,Asia/Bangkok,FALSE,1764891589
+Chaiwan,Chaiwan,Ban Chai Wan|King Amphoe Chai Wan|Amphoe Chai Wan,17.2850,103.2281,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,84.8,8297,8297,3,Asia/Bangkok,FALSE,1764760856
+Thung Hua Chang,Thung Hua Chang,Ban Thung Hua Chang|King Amphoe Thung Hua Chang|Amphoe Thung Hua Chang|Ban Tung Hua Chang|Dhunghūajāng,18.0000,99.0333,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,minor,41.7,8294,8294,3,Asia/Bangkok,FALSE,1764937988
+Ban Tham,Ban Tham,Tham|Bān Tam|Ban Huai Tham,19.0727,100.0698,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,71.9,8271,8271,4,Asia/Bangkok,FALSE,1764918112
+Ban Mae Raem,Ban Mae Raem,Ban Mea Ream,18.9201,98.9176,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,209.6,8264,8264,3,Asia/Bangkok,FALSE,1764466415
+Khanu Woralaksaburi,Khanu Woralaksaburi,Khanworalak Buri|Amphoe Khanuworalak Buri|King Amphoe Khanu Woralaksaburi,16.0740,99.8574,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,minor,120.7,8264,8264,3,Asia/Bangkok,FALSE,1764511061
+Ban Don Sai,Ban Don Sai,Khon Soi|Ban Khon Soi,17.1963,103.1144,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,102.8,8241,8241,4,Asia/Bangkok,FALSE,1764663908
+U Thong,U Thong,Ban Tha Phra|Ban U-Thong|Amphoe U-Thong|Amphoe Chorache Sam Phan,14.3761,99.8922,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,minor,188.9,8237,8237,3,Asia/Bangkok,FALSE,1764509441
+Ban Tha Muen Ram,Ban Tha Muen Ram,Ban Tha Mun Ram|Tha Mun Ram|Dhāmoēnrām|Ban Ta Min Ram|Tha Moen Ram|Bān Tha Mi Narām,16.6667,100.5000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,86.0,8236,8236,4,Asia/Bangkok,FALSE,1764911212
+Nakhon Chai Si,Nakhon Chai Si,Talat Amphoe Nakhon Chai Si|Mueang Nakhon Chai Si|Nagorn Jaisri|Ban Pak Nam|Amphoe Nakhon Chai Si|Amphoe Nakhon Chai,13.8005,100.1869,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,minor,504.5,8226,8226,3,Asia/Bangkok,FALSE,1764685701
+Ban Sum Khi Lek,Ban Sum Khi Lek,Ban Chum Khi Lek|Jumkhihlek|Ban Chum Ki Lek|Chum Khi Lek,16.4500,100.5833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,8210,8210,4,Asia/Bangkok,FALSE,1764514328
+Chonnabot,Chonnabot,Ban Chonnabot|Möng Chonlabot|Chonaboti|Ban Chonbot|Ban Chonabot|Chenobot|Mueang Chonbot|Chonnabot,16.0840,102.6193,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,158.3,8145,8145,3,Asia/Bangkok,FALSE,1764096354
+Sawang Wirawong,Sawang Wirawong,Amphoe Suwan Warin|Khwaeng Mueang Khong Chiam|Kaeng Samran|Ban Sawang|King Amphoe Sawang Wirawong|Amphoe Sawang Wirawong|Ban Kaeng Sao-an|Ban Kaeng Sao On,15.2417,105.0922,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,113.4,8136,8136,3,Asia/Bangkok,FALSE,1764881604
+Dong Luang,Dong Luang,Amphoe Dong Luang|Ban Dong Luang|King Amphoe Dong Luang,16.8066,104.5337,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,43.3,8135,8135,3,Asia/Bangkok,FALSE,1764001299
+Ban Si Don Mun,Ban Si Don Mun,,20.3397,100.0249,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,115.2,8120,8120,4,Asia/Bangkok,FALSE,1764270276
+Ban Buak Khang,Ban Buak Khang,Ban Buak Kang|Bān Buak Gāng,18.7057,99.1068,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,257.7,8112,8112,3,Asia/Bangkok,FALSE,1764229036
+Ban Na Meng,Ban Na Meng,Ban San Na Meng,19.1000,99.0667,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,67.4,8100,8100,4,Asia/Bangkok,FALSE,1764462437
+Tha Maka,Tha Maka,Amphoe Tha Maka|Ban Tha Maka|Amphoe Lat Bua Khao|Amphoe Phra Thaen|Dhāmakā|Champa Nin,13.8865,99.8010,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,368.4,8093,8093,3,Asia/Bangkok,FALSE,1764775732
+Ron Phibun,Ron Phibun,Amphoe Ron Phibun|Ronipibon|Raun Phibun|Ban Ron Phibun|Ban Romphi Bull,8.1722,99.8533,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,189.9,8086,8086,3,Asia/Bangkok,FALSE,1764395346
+Ban Rai,Ban Rai,Ban Mealāi|Ban Mae Lai,20.2533,99.8556,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,179.2,8072,8072,4,Asia/Bangkok,FALSE,1764569247
+Ban Huai Mai,Ban Huai Mai,Hūihmāi,18.4217,100.1403,Thailand,TH,THA,Phrae,Phrae,TH-54,province,,40.6,8061,8061,4,Asia/Bangkok,FALSE,1764444890
+Ban Wang Phang,Ban Wang Phang,Ban Wang Pang|Wang Phang,18.4333,98.7667,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,413.4,8051,8051,3,Asia/Bangkok,FALSE,1764059083
+Ban Chom Saeng Songkhram,Ban Chom Saeng Songkhram,,16.8333,100.0667,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,8026,8026,4,Asia/Bangkok,FALSE,1764402606
+Ban Na Bua,Ban Na Bua,Na Bua|Ban Naboi,17.2000,100.8833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,8000,8000,4,Asia/Bangkok,FALSE,1764148521
+Chumsaeng,Chumsaeng,,15.8980,100.3110,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,113.8,7942,7942,3,Asia/Bangkok,FALSE,1764781477
+Ban Banlang,Ban Banlang,Ban Masang|Ban Ma Lang,15.2255,101.9112,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,143.0,7834,7834,4,Asia/Bangkok,FALSE,1764046824
+Ban Na Sawan,Ban Na Sawan,,18.2538,103.6075,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,97.0,7814,7814,4,Asia/Bangkok,FALSE,1764824614
+Ban Pao,Ban Pao,Ban Noen Khun,16.3770,101.9751,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,,64.5,7810,7810,4,Asia/Bangkok,FALSE,1764065026
+Ban Dong,Ban Dong,Dong Nasan|Ban Dong Na San,17.3770,100.4838,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,27.4,7809,7809,4,Asia/Bangkok,TRUE,1764760003
+Khon Buri,Khon Buri,Ban Khon Buri|Mueang Khon|King Amphoe Chae|Amphoe Khon Buri,14.5686,102.1564,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,49.5,7781,7781,3,Asia/Bangkok,FALSE,1764519956
+Ban Hat Kruat,Ban Hat Kruat,Ban Hua Hat|Bān Hāt Gruat,17.5652,100.1348,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,174.2,7771,7771,4,Asia/Bangkok,FALSE,1764029170
+Ban Phlai Chumphon,Ban Phlai Chumphon,,16.8582,100.2291,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,584.0,7768,7768,3,Asia/Bangkok,FALSE,1764180592
+Thung Saliam,Thung Saliam,King Amphoe Thung Saliam|Ban Thung Salian|Ban Thung Saliam|Amphoe Thung Saliam|Thung Salian|Dhungsaliēm|Bān Thung Saliyan,17.3240,99.5671,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,minor,100.8,7760,7760,3,Asia/Bangkok,FALSE,1764425656
+Ban Pa Plu,Ban Pa Plu,Pa Phlu|Ban Pa Phlu|Pāpu,18.2333,98.8333,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,83.2,7758,7758,4,Asia/Bangkok,FALSE,1764217356
+Soeng Sang,Soeng Sang,Ban Soeng Sang,14.4264,102.4606,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,70.0,7756,7756,3,Asia/Bangkok,FALSE,1764936852
+Ban Bo Phak,Ban Bo Phak,Bān Bau Pak|Ban Bo Pak|Bōhpak|Bau Phāk|Bau Pak,17.5353,100.8339,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,27.4,7751,7751,4,Asia/Bangkok,FALSE,1764577634
+Ban Phue,Ban Phue,Amphoe Ban Phu|Ban Phu,17.6874,102.4756,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,68.4,7740,7740,3,Asia/Bangkok,FALSE,1764610348
+Chaiya,Chaiya,Phum Riang|Muang Chaya|Muang Chaiya|Jaiya|Chaija|Ban Pun Riang|Ban Pum Riang|Ban Phumrieng|Ban Phummariang|Amphoe Moeang Jaiya|Amphoe Chaiya|Ban Bhum Rieng|Cahaya|Pumriang|Pumreang|Srivijaya,9.3778,99.2728,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,62.2,7736,7736,3,Asia/Bangkok,FALSE,1764118749
+Ban Nong Hua Chang,Ban Nong Hua Chang,Ban Nong Hua Khang,18.0939,103.5908,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,91.8,7721,7721,4,Asia/Bangkok,FALSE,1764756153
+Fang,Fang,Fhāng|Amphoe Moeang Bhang|Muang Pang|Muang Fang|Moeang Fhang|Ban Nai Wiang|Amphoe Muang Fang|Amphoe Fang|Amphoe Moeangfhang,19.9189,99.2136,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,152.0,7635,7635,3,Asia/Bangkok,FALSE,1764804984
+Ban Patan Mai,Ban Patan Mai,Ban Pa Tan|Pa Tan,19.8500,100.2667,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,147.6,7610,7610,4,Asia/Bangkok,FALSE,1764064786
+Ban Huai Khrai Luang,Ban Huai Khrai Luang,Ban Huai Khrai|Ban Huai Khai|Bān Huai Kāi,20.2667,99.8500,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,273.5,7609,7609,3,Asia/Bangkok,FALSE,1764776136
+Ban Tha Pladuk,Ban Tha Pladuk,Ban Tha Pla Duk,18.4925,99.1958,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,87.2,7594,7594,4,Asia/Bangkok,FALSE,1764449466
+Ban Kaeng,Ban Kaeng,,17.4533,100.1376,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,118.1,7567,7567,4,Asia/Bangkok,FALSE,1764741655
+Ban Tha Khao Plueak,Ban Tha Khao Plueak,Ban Tha Khao Pluak,20.1658,99.9942,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,179.2,7510,7510,4,Asia/Bangkok,FALSE,1764595189
+Phu Kradueng,Phu Kradueng,King Amphoe Phu Kradueng|Amphoe Phu Kradueng|Phu Kradung|Ban Wong Wian,16.8842,101.8847,Thailand,TH,THA,Loei,Loei,TH-42,province,minor,32.3,7491,7491,3,Asia/Bangkok,FALSE,1764577162
+Nong Phai,Nong Phai,King Amphoe Nong Phai|Ban Nong Phai|Amphoe Nong Phai,15.9972,101.0652,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,minor,81.4,7481,7481,3,Asia/Bangkok,FALSE,1764352660
+Ban Pa Sao,Ban Pa Sao,Ban Pa Chao,17.5961,100.1278,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,174.2,7478,7478,4,Asia/Bangkok,FALSE,1764782345
+Ban Chomphu Phon,Ban Chomphu Phon,Ban Chumphu Phon,18.1456,103.7422,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,87.4,7475,7475,4,Asia/Bangkok,TRUE,1764884499
+Ban Fai,Ban Fai,,17.7697,100.7251,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,19.6,7458,7458,4,Asia/Bangkok,FALSE,1764844122
+Ban Duea,Ban Duea,Ban Dua,17.9814,102.9912,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,,240.5,7426,7426,3,Asia/Bangkok,FALSE,1764001206
+Uthumphon Phisai,Uthumphon Phisai,Ban Tamyae|Uthom Phon Phisai|Mueang Uthumphon Phisai|Amphoe Phachim Sisaket|Amphoe Uthumphon Phisai|Ban Samrong Yai|Amphoe Uthumphon Phisai|Amphoe Udhumbhornbhisai|Ban Tha Mai|Samrong Yai,15.0970,104.1643,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,162.9,7417,7417,3,Asia/Bangkok,FALSE,1764256094
+Damnoen Saduak,Damnoen Saduak,Ban Khlong Damnoen Saduak|Ban Damnoen Saduak|Amphoe Damnoen Saduak,13.5177,99.9545,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,465.6,7399,7399,3,Asia/Bangkok,FALSE,1764217586
+Ban Wang Phrong,Ban Wang Phrong,,16.4167,100.6667,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,7389,7389,4,Asia/Bangkok,FALSE,1764405593
+Sa Bot,Sa Bot,Ban Sa Bot|King Amphoe Sa Bot|Amphoe Sa Bot|Sabost,15.2084,100.8340,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,71.6,7348,7348,3,Asia/Bangkok,FALSE,1764566753
+Na Chaluai,Na Chaluai,King Amphoe Na Chaluai|Ban Na Chaluai|Amphoe Na Chaluai,14.5309,105.2431,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,82.9,7306,7306,3,Asia/Bangkok,FALSE,1764467811
+Hang Dong,Hang Dong,King Amphoe Hang Dong|Amphoe Hang Dong|Ban Hang Dong|Khwaeng Mae Tha Chang,18.6833,98.9167,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,321.7,7291,7291,3,Asia/Bangkok,FALSE,1764435558
+Ra-ngae,Ra-ngae,Amphoe Rangae|Kampong Bangae|Kampong Bangek|Tanyong Mat|Tanyong Mas|Rangek|Ban Tanyong Mat|Mueang Ra-ngae,6.2967,101.7283,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,minor,197.6,7266,7266,3,Asia/Bangkok,FALSE,1764826907
+Ban Ho Kham,Ban Ho Kham,Ban Ho Kha,18.4341,103.4349,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,181.0,7265,7265,4,Asia/Bangkok,FALSE,1764255225
+Thung Fon,Thung Fon,Ban Thung Fon|King Amphoe Thung Fon|Amphoe Thung Fon,17.4722,103.2626,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,102.1,7260,7260,3,Asia/Bangkok,FALSE,1764097119
+Ban Wang Phrao,Ban Wang Phrao,Bān Wang Phrāu,18.1478,99.4004,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,113.2,7242,7242,4,Asia/Bangkok,FALSE,1764653604
+Bamnet Narong,Bamnet Narong,Muang Bamhnesh Narong|King Amphoe Ban Chuan|King Amphoe Bamnet Narong|Amphoe Bamnet Narong|Bamhnech Narong|Muang Bamhnech Narong|Ban Chuan|Dan Chuan|Mueang Bamnet Narong|Tambon Ban Chuan|King Amphoe Bamnet Narong|Bamnech Narong|Ban Bamhnetnarong,15.5034,101.6810,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,87.7,7147,7147,3,Asia/Bangkok,FALSE,1764041520
+Si Chiang Mai,Si Chiang Mai,Ban Chiang Mai|Ban Si Chiang Mai|Amphoe Si Chiang Mai|Sri Chiang Mai,17.9564,102.5867,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,minor,204.0,7142,7142,3,Asia/Bangkok,FALSE,1764207559
+Ban Bo Kaeo,Ban Bo Kaeo,,18.8452,98.5706,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,28.1,7135,7135,4,Asia/Bangkok,FALSE,1764223398
+Ban Bo Pho,Ban Bo Pho,,17.2167,101.0833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,7124,7124,4,Asia/Bangkok,FALSE,1764002965
+Ban Khok Kong Klang,Ban Khok Kong Klang,Ban Khok Kong,18.2920,103.7864,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,120.0,7121,7121,4,Asia/Bangkok,FALSE,1764680131
+Bo Phloi,Bo Phloi,Ban Bo Phloi|King Bo Phloi|King Bau Phloi|Amphoe Bo Phloi,14.3284,99.5154,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,50.1,7095,7095,3,Asia/Bangkok,FALSE,1764253533
+Nakhon Luang,Nakhon Luang,Amphoe Nakhon Klang|Amphu Luang|Hlūang|Ban Nakhon Luang|Amphoe Nakhon Luang,14.4628,100.6083,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,246.8,7092,7092,3,Asia/Bangkok,FALSE,1764171592
+Ban Bua Ngam,Ban Bua Ngam,,14.8108,105.2312,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,,135.3,7086,7086,4,Asia/Bangkok,FALSE,1764420345
+Ban Mae Raka,Ban Mae Raka,,16.7100,100.3700,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,83.0,7081,7081,4,Asia/Bangkok,FALSE,1764337823
+Ban Luang,Ban Luang,,19.9939,100.3383,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,82.8,7054,7054,4,Asia/Bangkok,TRUE,1764240825
+Ko Pha-Ngan,Ko Pha-Ngan,Ko Phangan|Amphoe Ko Pha Ngan|Amphoe Ko Pha-ngan,9.7176,99.9949,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,92.5,7035,7035,3,Asia/Bangkok,FALSE,1764665411
+Sichon,Sichon,,9.0072,99.9018,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,,107.0,7027,7027,4,Asia/Bangkok,FALSE,1764402068
+Ban Khrueng Nuea,Ban Khrueng Nuea,Ban Krung|Ban Krong|Ban Kreung|Pao Kud|Ban Pao Kud|Ban Khrung Nua|Khroeng|Ban Khrung,20.0697,100.4056,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,82.8,7024,7024,4,Asia/Bangkok,FALSE,1764886757
+Ban Tha Tan,Ban Tha Tan,,16.6333,100.3333,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,184.6,7021,7021,4,Asia/Bangkok,FALSE,1764750916
+Ban Mae Khatuan,Ban Mae Khatuan,Mēkatohn|Mae Katuan|Mae Khataun|Ban Mae Khaton|Ban Mekaton|Bān Mea Kathaun,18.0664,97.9331,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,23.7,7000,7000,4,Asia/Bangkok,FALSE,1764075609
+Tha Ruea,Tha Ruea,Ban Tah Roea|Dhā Roēa|Tha Rha|Amphoe Nakhon Noi|Tha Rua|Ban Tha Rua|Amphoe Tha Rua,14.5596,100.7226,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,461.8,6979,6979,3,Asia/Bangkok,FALSE,1764162320
+Ban Karaket,Ban Karaket,Karaket,8.0887,100.1398,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,142.3,6956,6956,4,Asia/Bangkok,FALSE,1764218640
+Ban Mung Nuea,Ban Mung Nuea,Bung|Ban Mung,16.5667,100.7000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,6944,6944,4,Asia/Bangkok,FALSE,1764169025
+Ban Mok Champae,Ban Mok Champae,Muak Cham Pae|Mohkchampe|Bān Muak Jam Pea|Ban Muak Cham Pae|Ban Mokcham Pear,19.4347,97.9650,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,16.4,6936,6936,4,Asia/Bangkok,FALSE,1764459036
+Ban Non Sawang,Ban Non Sawang,,18.3641,103.4813,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,103.0,6896,6896,4,Asia/Bangkok,FALSE,1764754706
+Ban Kamphuan,Ban Kamphuan,Kam Phuam|Ban Kam Puam|Ban Kam Phuan|Ban Kam Phuam|Kam Puam,9.3782,98.4209,Thailand,TH,THA,Ranong,Ranong,TH-85,province,,64.4,6886,6886,4,Asia/Bangkok,FALSE,1764798166
+Ban Tha Dok Kham,Ban Tha Dok Kham,,18.1242,104.0811,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,87.9,6879,6879,4,Asia/Bangkok,FALSE,1764938339
+Ban Wang Kalang,Ban Wang Kalang,Wang Ga|Weng-Ka|Sangkhla Buri|Naung Lu|Ban Nong Lu|Ban Naung Lu|Ambheu Wangha|Wangka|Amphoe Wang Ga|Sangkhla|Amphoe Wangka|Amphoe Sangkhla Buri,15.1505,98.4525,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,20.9,6877,6877,4,Asia/Bangkok,FALSE,1764955396
+Charoen Sin,Charoen Sin,King Amphoe Charoen Sin|Amphoe Charoen Sin|Ban Charoen Sin,17.5837,103.5422,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,82.0,6869,6869,3,Asia/Bangkok,FALSE,1764000123
+Ban Tha Khum Ngoen,Ban Tha Khum Ngoen,Bān Kun Ngarn|Ban Khum Ngoen,18.4077,98.9727,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,176.4,6858,6858,4,Asia/Bangkok,FALSE,1764078608
+Ban Mai Takhian,Ban Mai Takhian,Bān Ta Kian Pam|Ban Takhian Pom,18.0910,99.0114,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,41.7,6855,6855,4,Asia/Bangkok,FALSE,1764102551
+Ban Chan,Ban Chan,,17.3595,102.8170,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,265.5,6850,6850,3,Asia/Bangkok,FALSE,1764430443
+Ban Pa Pae,Ban Pa Pae,,19.1220,98.7093,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,67.4,6847,6847,4,Asia/Bangkok,FALSE,1764001399
+Ban Nam Phrae,Ban Nam Phrae,Ban Thung Satong|Bān Thung Sataung,18.7097,98.9009,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,321.7,6830,6830,3,Asia/Bangkok,FALSE,1764887314
+Ban Dara,Ban Dara,,17.3667,100.0833,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,98.7,6815,6815,4,Asia/Bangkok,FALSE,1764124556
+Na Duang,Na Duang,Amphoe Na Duang|King Amphoe Na Duang|Ban Na Duang Mu 1|Ban Na Duang,17.4743,101.9800,Thailand,TH,THA,Loei,Loei,TH-42,province,minor,33.8,6748,6748,3,Asia/Bangkok,FALSE,1764055275
+Chiang Kham,Chiang Kham,Chienggam|Ban Chiang Kham|Amphoe Jieng Gam|Jieng Gam|Amphoe Chieng Kum|Xieng Kham|Chieng Kum|Chieng Kam|Ban Juan|Amphoe Chiang Kham|Ban Yuan,19.5233,100.3000,Thailand,TH,THA,Phayao,Phayao,TH-56,province,minor,69.8,6748,6748,3,Asia/Bangkok,FALSE,1764871391
+Ban Haet,Ban Haet,King Amphoe Ban Haet|Amphoe Ban Haet,16.2000,102.7492,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,145.6,6722,6722,3,Asia/Bangkok,FALSE,1764996989
+Ban Nong Phra,Ban Nong Phra,Ban Bung Phra,16.9760,100.5600,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,110.0,6707,6707,4,Asia/Bangkok,FALSE,1764002729
+Bang Pa-in,Bang Pa-in,Ban Ko Bang Pa-in|Amphoe Bang Pa-In|Ban Len|Amphoe Phra Ratchawang|Khwaeng U Thai,14.2200,100.5813,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,331.7,6668,6668,3,Asia/Bangkok,FALSE,1764177680
+Ban San Sai,Ban San Sai,,19.4185,99.1882,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,53.4,6646,6646,4,Asia/Bangkok,TRUE,1764110923
+Ban Mae,Ban Mae,Ban Mea,18.6500,98.8514,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,398.5,6635,6635,3,Asia/Bangkok,FALSE,1764430230
+Ban Thawon Watthana,Ban Thawon Watthana,,16.2920,99.9160,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,,155.5,6632,6632,4,Asia/Bangkok,FALSE,1764128362
+Ban Wiang Nuea,Ban Wiang Nuea,,19.9065,99.9324,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,129.7,6574,6574,4,Asia/Bangkok,FALSE,1764346109
+Ban Tak,Ban Tak,Tak|Amphoe Ban Tak,17.0500,99.0742,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,58.0,6568,6568,3,Asia/Bangkok,FALSE,1764591653
+Ban Din Thong,Ban Din Thong,,16.7600,100.4200,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,102.0,6535,6535,4,Asia/Bangkok,FALSE,1764998841
+Ban Phon Yai,Ban Phon Yai,Ban Phon,17.1821,104.3316,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,,78.6,6528,6528,4,Asia/Bangkok,FALSE,1764699053
+Phanom Sarakham,Phanom Sarakham,Bhanom Saragam|Ban Phanom Sarakham|Amphu Panom Sarakam|Amphoe Phanom Sarakham,13.7478,101.3553,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,minor,190.8,6527,6527,3,Asia/Bangkok,FALSE,1764964359
+Mae Hong Son,Mae Hong Son,Amphoe Mueang Mae Hong Son|Amphoe Muang Mae Hong Son|Haung Saun|Changwat Me Hohng Sohn|Changwat Mae Hong Son|Mea Haung Saun|Me Hong Sawn|Me Hawng Sawn|Mae Hung Son|Mae Hingsorn|Muai Tau|Mehungsong|Mehohngsohn|Mehawnghsawn|Ban Muai Toh|Ban Muai To|Ban Muai Tau|Ban Me Tau,19.3011,97.9700,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,admin,16.4,6526,6526,2,Asia/Bangkok,FALSE,1764090874
+Ban Yang,Ban Yang,,17.0787,100.3912,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,49.7,6520,6520,4,Asia/Bangkok,TRUE,1764409826
+That Phanom,That Phanom,Amphoe Renu Nakhon|Renu Nakhon|Ban Thatphnom|Ban Thatuphanom|Ban That Phanom|Amphoe That Phanom,16.9364,104.7103,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,minor,188.2,6494,6494,3,Asia/Bangkok,FALSE,1764651851
+Lat Yao,Lat Yao,Amphoe Lat Yao|Bān Lāt Yāu|Ban Lat Yao|Bān Lād Yao,15.7543,99.7808,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,106.2,6483,6483,3,Asia/Bangkok,FALSE,1764901195
+Phu Khiao,Phu Khiao,Mueang Phu Khiao|Phak Pang|Phu Khieo|Pho Khieo|Ban Phak Pang|Amphoe Phu Khieo,16.3682,102.1344,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,117.9,6450,6450,3,Asia/Bangkok,FALSE,1764002408
+Ban Mae Sa Luang,Ban Mae Sa Luang,Ban Mae Sa|Bān Mea Sa,18.9033,98.9494,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,209.6,6448,6448,3,Asia/Bangkok,FALSE,1764298573
+Ban Mae Kon,Ban Mae Kon,Bān Mea Gaun,19.8369,99.7097,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,141.1,6439,6439,4,Asia/Bangkok,FALSE,1764272587
+Ban Tai,Ban Tai,,17.4333,103.4051,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,,119.8,6438,6438,4,Asia/Bangkok,FALSE,1764145611
+Dan Khun Thot,Dan Khun Thot,Amphoe Ban Han|Amphoe Phan Chana|Amphoe Dan Khun Thot,15.2099,101.7667,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,84.8,6432,6432,3,Asia/Bangkok,FALSE,1764664793
+Ban Phrao,Ban Phrao,,17.1333,100.7833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,6428,6428,4,Asia/Bangkok,FALSE,1764064568
+Pa Daet,Pa Daet,Bān Pa Deat|Ban Pa Daet,19.5050,99.9925,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,minor,104.2,6427,6427,3,Asia/Bangkok,FALSE,1764379711
+Ban Nam Chan,Ban Nam Chan,Nam Chan|Ban Nam Jam,18.0333,103.8667,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,82.4,6418,6418,4,Asia/Bangkok,FALSE,1764387504
+Bua Chet,Bua Chet,King Amphoe Buachet|Amphoe Buachet,14.5326,103.9301,Thailand,TH,THA,Surin,Surin,TH-32,province,minor,55.2,6418,6418,3,Asia/Bangkok,FALSE,1764510334
+Ban Mae Na Toeng Nok,Ban Mae Na Toeng Nok,Mae Na Toeng|Ban Mae Na Toeng|Ban Menar Teung|Mē Nātēung|Ban Mae Na Toeng Nai (1),19.4000,98.4333,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,10.9,6417,6417,4,Asia/Bangkok,FALSE,1764140397
+Ban Bang Pakong,Ban Bang Pakong,Bang Pakong,13.5051,100.9567,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,409.7,6416,6416,3,Asia/Bangkok,FALSE,1764454209
+San Sai,San Sai,Amphoe San Sai|Sanzāihlūang|San Sai Luang|San Sai Hluang|Ban San Sai Luang|Ban Sun Tri Luang|Ban San Sai Hluang|Amphoe Sanzai|San Saiv,18.8500,99.0500,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,348.2,6397,6397,3,Asia/Bangkok,FALSE,1764001816
+Ban Samphao Lom,Ban Samphao Lom,,14.3454,100.5765,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,,1196.3,6368,6368,3,Asia/Bangkok,FALSE,1764786758
+Ban Huai Hia,Ban Huai Hia,,16.9167,100.9000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,6357,6357,4,Asia/Bangkok,FALSE,1764900924
+Yaring,Yaring,Amphoe Yamu|Yamu|Muang Yering|Muang Yaring|Amphoe Yaring|Ban Yamu|Amphoe Yaring|Jaring,6.8680,101.3587,Thailand,TH,THA,Pattani,Pattani,TH-94,province,minor,359.0,6352,6352,3,Asia/Bangkok,FALSE,1764920761
+Phop Phra,Phop Phra,King Amphoe Phop Phra|Amphoe Phop Phra|Ban Phoe Pha,16.3865,98.6924,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,57.9,6350,6350,3,Asia/Bangkok,FALSE,1764641453
+Ban Phaya Maen,Ban Phaya Maen,Bān Phaya Mean,17.1879,100.0593,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,98.7,6350,6350,4,Asia/Bangkok,FALSE,1764286463
+Nong Chik,Nong Chik,Ban Tuyong|Amphoe Nong Chik|Muang Nong Chik|Tujong|Muang Nawng Chik|Umper Nong Chick|Mueang Nong Chik|Amphoe Tuyong|Tuyong|Umper Nong Chik|Maung Nawng Chik|Amphoe Tu Yong|Ban Tujong|Naung Chik,6.8436,101.1781,Thailand,TH,THA,Pattani,Pattani,TH-94,province,minor,315.2,6347,6347,3,Asia/Bangkok,FALSE,1764740688
+Nikhom Kham Soi,Nikhom Kham Soi,King Amphoe Nikhom Kham Soi|Amphoe Nikhom Kham Soi,16.3749,104.5551,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,125.4,6334,6334,3,Asia/Bangkok,FALSE,1764000124
+Ban Si Thoi,Ban Si Thoi,Srīthōi|Ban Si Toi|Bān Si Thai,19.6139,99.4783,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,53.8,6282,6282,4,Asia/Bangkok,FALSE,1764325357
+Sai Mun,Sai Mun,Amphoe Sai Mun|King Amphoe Sai Mun|Ban Sai Mun,15.9477,104.2101,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,minor,107.8,6270,6270,3,Asia/Bangkok,FALSE,1764344525
+Ban Tha Ngam,Ban Tha Ngam,Ban Si Phirom|Ta Ngām|Tha Ngam|Bān Sri Phiom|Ban Tha Ngam (1),17.1167,100.1000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,135.0,6267,6267,4,Asia/Bangkok,FALSE,1764866805
+Ban Doi Ngam,Ban Doi Ngam,,19.5433,99.8175,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,127.0,6263,6263,4,Asia/Bangkok,TRUE,1764039026
+Phan Thong,Phan Thong,Amphoe Tha Ta Kut|Amphoe Phan Thong,13.4681,101.0953,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,571.9,6228,6228,3,Asia/Bangkok,FALSE,1764886457
+Ban Pa Ko Dam,Ban Pa Ko Dam,,19.7928,99.7058,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,152.0,6227,6227,4,Asia/Bangkok,FALSE,1764595694
+Wiset Chaichan,Wiset Chaichan,Wises Jai-jān|Amphoe Phai Cham Sin|Amphoe Wiset Chai Chan|Wiset Chai Chan,14.5890,100.3482,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,minor,249.0,6220,6220,3,Asia/Bangkok,FALSE,1764259982
+Ban Chai Nam,Ban Chai Nam,,16.8500,100.4700,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,136.0,6205,6205,4,Asia/Bangkok,FALSE,1764536677
+Si Prachan,Si Prachan,Amphoe Si Prachan|Ban Sri Prachan|Sri Pra Chan|Ban Si Prachan,14.6204,100.1444,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,minor,248.4,6185,6185,3,Asia/Bangkok,FALSE,1764855958
+Ban Hua Saphan,Ban Hua Saphan,Hua Taphan,13.1248,99.8716,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,,503.0,6148,6148,3,Asia/Bangkok,FALSE,1764343430
+Phanna Nikhom,Phanna Nikhom,Muang Pana Nigom|Pana Nagom|Bharnnani|Amphoe Phannikhom|Amphoe Phannanikhom|Amphoe Muang Phannanikhom|Muang Phannanikhom,17.3456,103.8478,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,83.2,6137,6137,3,Asia/Bangkok,FALSE,1764407648
+Prathai,Prathai,King Amphoe Prathai|Amphoe Prathai|Ban Prathai,15.5341,102.7176,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,135.4,6130,6130,3,Asia/Bangkok,FALSE,1764119660
+Ban Phan Sao,Ban Phan Sao,Ban I Sao|Ban Phan Sao (1),16.6500,100.0833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,6108,6108,4,Asia/Bangkok,FALSE,1764342333
+Nong Song Hong,Nong Song Hong,Ban Nong Song Hong (1)|King Amphoe Nong Song Hong|Amphoe Nong Song Hong,15.7359,102.7909,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,151.2,6106,6106,3,Asia/Bangkok,FALSE,1764705588
+Ban Klang,Ban Klang,,18.7708,99.0537,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,321.7,6088,6088,3,Asia/Bangkok,TRUE,1764184172
+Rong Kham,Rong Kham,King Amphoe Rong Kham|Amphoe Rong Kham,16.2710,103.7474,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,134.7,6086,6086,3,Asia/Bangkok,FALSE,1764743160
+Lom Kao,Lom Kao,Ban Lom Kao|Möng Lom Kao|Hlomkao|Bān Lom Gāo|Amphoe Lom Kao,16.8847,101.2336,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,minor,66.2,6065,6065,3,Asia/Bangkok,FALSE,1764214054
+Ban Nong Long,Ban Nong Long,Hohng|Ban Nong Lang|Ban Nong Rong|Nong Lang|Bān Naung Lāng,18.4058,98.7251,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,420.4,6064,6064,3,Asia/Bangkok,FALSE,1764001116
+Ban Ta Hua Fai,Ban Ta Hua Fai,Ban Ta,19.8100,100.2397,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,147.6,6057,6057,4,Asia/Bangkok,FALSE,1764395694
+Khok Samrong,Khok Samrong,King Amphoe Khok Samrong|Amphoe Khok Samrong,15.0691,100.7234,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,120.5,6041,6041,3,Asia/Bangkok,FALSE,1764358102
+Ban Na Pa Khai,Ban Na Pa Khai,Pa Khai|Ban Pa Khai|Bān Pa Kāi,17.5167,100.2667,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,36.1,6030,6030,4,Asia/Bangkok,FALSE,1764353985
+Ban Nok Ok,Ban Nok Ok,,14.6811,102.0222,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,100.4,6026,6026,4,Asia/Bangkok,FALSE,1764849527
+Ban Chiang,Ban Chiang,Ban Chieng,17.3999,103.2259,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,123.7,6025,6025,4,Asia/Bangkok,FALSE,1764697478
+Ban Dong Mafai,Ban Dong Mafai,Dong Mafai,17.2750,103.9940,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,,154.1,6013,6013,4,Asia/Bangkok,TRUE,1764512382
+Pueai Noi,Pueai Noi,King Amphoe Phueai Noi|Amphoe Phueai Noi|Puai Noi,15.8707,102.9064,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,149.6,5946,5946,3,Asia/Bangkok,FALSE,1764059207
+Ban Pong Noi,Ban Pong Noi,Ban Pang Noi,20.1014,100.0697,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,70.1,5928,5928,4,Asia/Bangkok,FALSE,1764901654
+Ban Sop Pat,Ban Sop Pat,Sobpād|Sop Pat,18.2500,99.7667,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,31.1,5905,5905,4,Asia/Bangkok,FALSE,1764534190
+Ban Tha Mafueang,Ban Tha Mafueang,Bān Tha Mapuang|Ban Tha Mafuang,17.2382,100.0567,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,98.7,5904,5904,4,Asia/Bangkok,FALSE,1764285131
+Wanon Niwat,Wanon Niwat,Ban Wanon Niwat|Möng Wanon Niwas|Amphoe Wanon Niwat,17.6358,103.7549,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,85.5,5901,5901,3,Asia/Bangkok,FALSE,1764372916
+Ban Wang Yang,Ban Wang Yang,,16.4590,100.7410,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,70.2,5887,5887,4,Asia/Bangkok,FALSE,1764822885
+Ban Khae,Ban Khae,,18.4795,99.4722,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,183.6,5849,5849,4,Asia/Bangkok,FALSE,1764002456
+Kao Liao,Kao Liao,King Amphoe Kao Liao|Amphoe Kao Liao|Kao Lieo,15.8506,100.0792,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,115.3,5835,5835,3,Asia/Bangkok,FALSE,1764998646
+Ban Bong Ti Bon,Ban Bong Ti Bon,Bon|Ban Bong Ti|Bohng Ti|Ban Bong|Ban Baung Ti Bon,14.0667,98.9833,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,17.8,5820,5820,4,Asia/Bangkok,FALSE,1764823476
+Ban Pa,Ban Pa,,16.9244,100.3503,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,97.0,5792,5792,4,Asia/Bangkok,FALSE,1764221086
+Moeiwadi,Moeiwadi,King Amphoe Moei Wadi|Meyawadi|Amphoe Moei Wadi|Moei Wadi,16.3900,104.1544,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,minor,90.7,5782,5782,3,Asia/Bangkok,FALSE,1764721332
+Ban Nong Khaem,Ban Nong Khaem,Bān Naung Keam,17.0550,100.1774,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,135.0,5773,5773,4,Asia/Bangkok,FALSE,1764837710
+Huai Mek,Huai Mek,King Amphoe Huai Mek|Amphoe Huai Mek|Ban Huai Mek,16.5897,103.2356,Thailand,TH,THA,Kalasin,Kalasin,TH-46,province,minor,116.0,5772,5772,3,Asia/Bangkok,FALSE,1764305200
+Borabue,Borabue,Borabu|Amphoe Borabu|Ban Borabu,16.0370,103.1231,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,120.2,5771,5771,3,Asia/Bangkok,FALSE,1764241247
+Ban Na In,Ban Na In,Na In,17.2167,100.2000,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,98.7,5751,5751,4,Asia/Bangkok,FALSE,1764104639
+Phayuha Khiri,Phayuha Khiri,Phayu Daen|Phayu Kiri|Bhayuha Giri|Ban Phayuhadaen|Ban Phayu Dean|Amphoe Peiyua Kiri|Amphoe Bhayuha Giri|Amphoe Phayuhakhiri|Phayua Khiri|Payuha,15.4553,100.1353,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,minor,81.5,5731,5731,3,Asia/Bangkok,FALSE,1764265964
+Ao Luek,Ao Luek,Ao Loek|Amphoe Ao Luek|Ban Ao Luk Tai|Ao Luk|Ao Loek Tai|Ban Auluek|Amphoe Ao Luk,8.3780,98.7211,Thailand,TH,THA,Krabi,Krabi,TH-81,province,minor,77.4,5719,5719,3,Asia/Bangkok,FALSE,1764999954
+Pong,Pong,Muang Pong|Ban Muang Pong|Amphoe Ban Muang|Ban Muang|Amphoe Ban Meung|Amphoe Pong,19.1507,100.2652,Thailand,TH,THA,Phayao,Phayao,TH-56,province,minor,21.4,5719,5719,3,Asia/Bangkok,FALSE,1764459571
+Ban Rong Wua Daeng,Ban Rong Wua Daeng,Ban Rong Wua Daeng Noi|Ban Rong Wua Daeng,18.7417,99.1700,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,410.2,5718,5718,3,Asia/Bangkok,FALSE,1764061207
+Ban Makham Sung,Ban Makham Sung,Bān Makām Sung|Ban Makham Sung (1),16.9280,100.2350,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,182.0,5709,5709,4,Asia/Bangkok,FALSE,1764022531
+Ban Chet Samian,Ban Chet Samian,Chet Samian,13.6264,99.8293,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,275.9,5709,5709,3,Asia/Bangkok,FALSE,1764084714
+Ban Map Ta Phut,Ban Map Ta Phut,Ban Map Ta Put,12.7258,101.1722,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,693.9,5705,5705,3,Asia/Bangkok,FALSE,1764852224
+Non Sila,Non Sila,King Amphoe Non Sila|Amphoe Non Sila,15.9667,102.6667,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,135.2,5682,5682,3,Asia/Bangkok,FALSE,1764368749
+Ku Kaeo,Ku Kaeo,King Amphoe Ku Kaeo|Amphoe Ku Kaeo,17.1820,103.1612,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,102.8,5673,5673,3,Asia/Bangkok,FALSE,1764460916
+Ban Mae Ho Phra,Ban Mae Ho Phra,Ban Me Hor Pra|Mēhōhbhra|Mae Hau Phra|Ban Mae Hoi Phra,19.1050,99.0000,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,67.4,5643,5643,4,Asia/Bangkok,FALSE,1764020152
+Phachi,Phachi,Ban Phachi|Ban Phaji|Amphoe Phachi|King Amphoe Ban Phachi|Bhāji|Banpaji|Ban Bhaui|Bon Phaji|Banbhaji,14.4453,100.7367,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,260.7,5595,5595,3,Asia/Bangkok,FALSE,1764004788
+Ban Kat,Ban Kat,Bān Gāt|Ban Kat Tai,18.6038,98.7985,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,57.1,5554,5554,4,Asia/Bangkok,TRUE,1764068009
+Ban Thap Yai Chiang,Ban Thap Yai Chiang,Thap Yai Chiang|Bān Thap Yāi Chieng,17.1167,100.2833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,135.0,5551,5551,4,Asia/Bangkok,FALSE,1764947196
+Ban Pa Faek Nuea,Ban Pa Faek Nuea,Pāfhēk|Bān Pa Feak|Pa Faek|Ban Pa Faek|Ban Pa Faek Nua,19.4231,99.7714,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,87.9,5538,5538,4,Asia/Bangkok,FALSE,1764663277
+Ban Talat Ko Ta Ba Ru,Ban Talat Ko Ta Ba Ru,Kota Baru,6.4585,101.3543,Thailand,TH,THA,Yala,Yala,TH-95,province,,162.1,5532,5532,4,Asia/Bangkok,FALSE,1764001789
+Ban Nam Phi,Ban Nam Phi,,17.5619,100.2780,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,36.1,5527,5527,4,Asia/Bangkok,FALSE,1764149613
+Ban Pa Faek,Ban Pa Faek,,18.0627,103.7358,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,91.0,5519,5519,4,Asia/Bangkok,FALSE,1764370516
+Ban Mae Waen,Ban Mae Waen,Bān Mea Wean|Mēwēn|Mae Waen,19.3167,99.1833,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,53.4,5517,5517,4,Asia/Bangkok,FALSE,1764430536
+Ban Khan Chong,Ban Khan Chong,,17.0794,100.4439,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,49.7,5498,5498,4,Asia/Bangkok,FALSE,1764338566
+Ban Chang,Ban Chang,,19.1541,98.8591,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,67.4,5488,5488,4,Asia/Bangkok,FALSE,1764800060
+Ban Khai Si,Ban Khai Si,Ban Khrai Si,18.4115,103.5187,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,93.0,5466,5466,4,Asia/Bangkok,FALSE,1764990780
+Ko Chang,Ko Chang,Amphoe Ko Chang|King Amphoe Ko Chang,12.1033,102.3522,Thailand,TH,THA,Trat,Trat,TH-23,province,minor,24.8,5445,5445,3,Asia/Bangkok,FALSE,1764380368
+Ban Bang Tabun,Ban Bang Tabun,Bang Tabun|Ban Bang Tabum,13.2638,99.9439,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,,380.1,5431,5431,3,Asia/Bangkok,FALSE,1764262591
+Ban Tha Kham,Ban Tha Kham,,20.0561,100.5053,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,65.9,5425,5425,4,Asia/Bangkok,TRUE,1764909681
+Ban Dan Mae Kham Man Nuea,Ban Dan Mae Kham Man Nuea,Ban Dan Mae Kham Man,17.5421,99.9574,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,108.0,5423,5423,4,Asia/Bangkok,FALSE,1764260232
+Kae Dam,Kae Dam,King Amphoe Kae Dam|Amphoe Kae Dam,16.0233,103.3862,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,127.1,5402,5402,3,Asia/Bangkok,FALSE,1764569839
+Ban Krang,Ban Krang,,14.6300,100.1307,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,248.4,5391,5391,3,Asia/Bangkok,FALSE,1764197752
+Kham Sakae Saeng,Kham Sakae Saeng,Amphoe Kham Sakae Saeng|King Amphoe Kham Sakae Saeng,15.3330,102.1646,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,126.3,5385,5385,3,Asia/Bangkok,FALSE,1764446962
+Phanom Thuan,Phanom Thuan,Amphoe Phanom Thuan|Ban Tuan|Ban Thuan|Bāndhūan|Amphoe Nuea|Amphoe Ban Thuan,14.1315,99.7029,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,127.5,5376,5376,3,Asia/Bangkok,FALSE,1764669188
+Samoeng,Samoeng,Bān Samarng Dāi|Samoeng Tai|Ban Samoeng Tai|Amphoe Samoeng|Sameūngtai|King Amphoe Samoeng,18.8500,98.7333,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,28.1,5366,5366,3,Asia/Bangkok,FALSE,1764942206
+Ban Pa Sak,Ban Pa Sak,,17.8029,99.4958,Thailand,TH,THA,Phrae,Phrae,TH-54,province,,51.0,5362,5362,4,Asia/Bangkok,FALSE,1764395651
+Ban Hat Lek,Ban Hat Lek,Hatlek,11.7339,102.9014,Thailand,TH,THA,Trat,Trat,TH-23,province,,418.4,5351,5351,3,Asia/Bangkok,FALSE,1764000717
+Sam Sung,Sam Sung,King Amphoe Sam Sung|Amphoe Sam Sung,16.5415,103.0796,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,121.4,5310,5310,3,Asia/Bangkok,FALSE,1764087313
+Ban Pong Pueai,Ban Pong Pueai,Ban Pong Puai,18.3273,103.5295,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,142.0,5307,5307,4,Asia/Bangkok,FALSE,1764013003
+Ban Khon,Ban Khon,Bān Kaun,17.2066,100.0935,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,98.7,5297,5297,4,Asia/Bangkok,FALSE,1764321028
+Ban Wat Ta Yom,Ban Wat Ta Yom,Ban Wat Ta Yom (1),16.6000,100.4333,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,184.6,5293,5293,4,Asia/Bangkok,FALSE,1764836745
+Bang Sai,Bang Sai,King Amphoe Bang Sai|Amphoe Bang Sai,14.3347,100.3037,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,307.2,5277,5277,3,Asia/Bangkok,FALSE,1764442422
+Ban Kham Na Di,Ban Kham Na Di,,18.2085,103.6478,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,80.0,5265,5265,4,Asia/Bangkok,FALSE,1764264413
+Tha Wang Pha,Tha Wang Pha,Ban Tha Wang Pha|Ban Wang Pha|Amphoe Tha Wang Pha,19.0945,100.8097,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,63.7,5242,5242,3,Asia/Bangkok,FALSE,1764645723
+Ban Pa Bong,Ban Pa Bong,Ban Pa Long,19.3277,99.4997,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,53.9,5239,5239,4,Asia/Bangkok,TRUE,1764639215
+Ban Chiang Klom,Ban Chiang Klom,Ban Chiang Kom|Chiang Kom|Bān Chiang Gom,17.8005,101.9448,Thailand,TH,THA,Loei,Loei,TH-42,province,,40.7,5208,5208,4,Asia/Bangkok,FALSE,1764636970
+Nong Muang,Nong Muang,King Amphoe Nong Muang|Amphoe Nong Muang|Ban Nong Muang,15.2348,100.6524,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,75.3,5200,5200,3,Asia/Bangkok,FALSE,1764866887
+Waeng Yai,Waeng Yai,King Amphoe Waeng Yai|Amphoe Waeng Yai,15.9624,102.5419,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,125.6,5174,5174,3,Asia/Bangkok,FALSE,1764974339
+Ban Mae La Luang,Ban Mae La Luang,Ban Mae La Luan|Mae La Luang|Mè Lā Hlūang|Ban Melaluang,18.5333,97.9333,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,21.2,5140,5140,4,Asia/Bangkok,FALSE,1764688701
+Ban Doi Kaeo,Ban Doi Kaeo,,18.4014,98.6541,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,73.5,5128,5128,4,Asia/Bangkok,FALSE,1764824131
+Ban Dan,Ban Dan,Ban Dan Tawan Tok|Dan Tawan Tok,17.6614,100.2862,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,174.2,5118,5118,4,Asia/Bangkok,FALSE,1764678026
+Kut Bak,Kut Bak,King Amphoe Kut Bak|Kudpak|Ban Kut Bak|Ban Kot Bak|Amphoe Kut Bak,17.0857,103.8204,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,57.2,5112,5112,3,Asia/Bangkok,FALSE,1764224557
+Ban San,Ban San,,18.0951,98.6615,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,37.3,5100,5100,4,Asia/Bangkok,TRUE,1764991825
+Ban Tun Klang,Ban Tun Klang,Ban Tum|Ban Tun,19.1333,99.8167,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,5098,5098,4,Asia/Bangkok,FALSE,1764761995
+Mae Chai,Mae Chai,King Amphoe Mae Chai|Amphoe Mae Chai|Mēchai|Mae Chai Tai|Bān Mea Jāi Tāi|Ban Mae Chai Tai,19.3500,99.8333,Thailand,TH,THA,Phayao,Phayao,TH-56,province,minor,87.9,5086,5086,3,Asia/Bangkok,FALSE,1764436141
+Nong Na Kham,Nong Na Kham,King Amphoe Nong Na Kham|Amphoe Nong Na Kham|Ban Nong Na Kham,16.8020,102.3404,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,142.9,5083,5083,3,Asia/Bangkok,FALSE,1764848451
+Si Sakhon,Si Sakhon,Amphoe Si Sakhon|King Amphoe Si Sakhon,6.2235,101.5033,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,minor,54.4,5081,5081,3,Asia/Bangkok,FALSE,1764177027
+Sanom,Sanom,Ban Nong Sanom|King Amphoe Sanom|Ban Sanam|Amphoe Sanom|Sanam|Ban Sanom,15.1988,103.7567,Thailand,TH,THA,Surin,Surin,TH-32,province,minor,147.7,5074,5074,3,Asia/Bangkok,FALSE,1764555317
+Phanom,Phanom,King Amphoe Phanom|Amphoe Khlong Cha Un|Ban Phanom|Amphoe Phak Phanom|Amphoe Phanom,8.8584,98.8122,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,32.1,5074,5074,3,Asia/Bangkok,FALSE,1764564516
+Ban Nam Phong,Ban Nam Phong,Nam Phong|Nam Phaung|Ban Nam Phaung,16.7321,102.8033,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,149.8,5070,5070,4,Asia/Bangkok,FALSE,1764048954
+Ban Yang Klon,Ban Yang Klon,,17.1833,100.9167,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,5056,5056,4,Asia/Bangkok,FALSE,1764507987
+Ban On,Ban On,Bān Aun,18.7664,99.9118,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,35.4,5049,5049,4,Asia/Bangkok,FALSE,1764566914
+Yarang,Yarang,Amphoe Yarang|Yanang|King Amphoe Yarang|Kampong Naeraning|Na Rang,6.7610,101.3012,Thailand,TH,THA,Pattani,Pattani,TH-94,province,minor,368.6,5044,5044,3,Asia/Bangkok,FALSE,1764405284
+In Buri,In Buri,In|Amphoe Muang In Buri|Ban In Buri|Amphoe In Buri|Mueang In Buri|Muang Inburi,15.0054,100.3264,Thailand,TH,THA,Sing Buri,Sing Buri,TH-17,province,minor,146.8,5032,5032,3,Asia/Bangkok,FALSE,1764042618
+Ban Ta Luang,Ban Ta Luang,Bān Mea Ta|Ban Ta|Mae Ta|Ta|Ban Mae Ta|Bān Moa Ta,19.9328,100.2569,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,147.6,5026,5026,4,Asia/Bangkok,FALSE,1764856304
+Ban Bang Pramung,Ban Bang Pramung,Ban Bāng Pramung|Ban Bang Pamung,15.7133,100.1353,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,,192.4,5016,5016,4,Asia/Bangkok,FALSE,1764995386
+Thung Yai,Thung Yai,King Amphoe Tha Yang|King Tha Yang|King Amphoe Yang Thung Song|King Amphoe Thung Song|Ban Tha Yang|Ban Tha|Amphoe Thung Yai|Thung Song|Thung Sang|Tha Yang|King Amphoe Ku Rae,8.3132,99.3631,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,96.0,5010,5010,3,Asia/Bangkok,FALSE,1764101151
+Wapi Pathum,Wapi Pathum,Mueang Wapi Pathum|Amphoe Wapi Pathum|Wapi Pradhum|Wapi|Muong Vapi Phia Thoum|Mung Vapi Phia Thum|Naung Saeng|Muang Wapipthum|Muang Wapi Pathum|Ban Nong Saeng|Amphoe Muang Wapipthum|Amphoe Muang Wapi Pathum|Muang Wapi Pra Tum,15.8453,103.3767,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,136.8,4990,4990,3,Asia/Bangkok,FALSE,1764587302
+Uthai,Uthai,Ban Uthai|Amphoe U Thai|Udhai|Ban Utai|Amphoe Uthai Yai,14.3680,100.6713,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,232.0,4954,4954,3,Asia/Bangkok,FALSE,1764069180
+Ban Tha Pha,Ban Tha Pha,,18.4852,98.3782,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,23.5,4952,4952,4,Asia/Bangkok,TRUE,1764136163
+Khu Khan,Khu Khan,Muang Khukhan|Muang Ku Kan|Muang Khan|Kokhan|Ban Huai Nua|Ban Chan|Amphoe Kukhan|Amphoe Khukhan|Amphoe Huai Nua|Huai Nua|Amphoe Huaihnoea,14.7185,104.1945,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,121.5,4949,4949,3,Asia/Bangkok,FALSE,1764134237
+Song Dao,Song Dao,Amphoe Song Dao|King Amphoe Song Dao,17.3376,103.4691,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,82.8,4947,4947,3,Asia/Bangkok,FALSE,1764392080
+Ban Pak Thok,Ban Pak Thok,Ban Pāk,16.8800,100.2200,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,232.0,4945,4945,3,Asia/Bangkok,FALSE,1764576092
+Khlong Yai,Khlong Yai,King Amphoe Khlong Yai|Amphoe Khlong Yai|King Khlong Yai|Klongyai|Khlaung Yai|Ban Khlong Yai|Khlong,11.7750,102.8675,Thailand,TH,THA,Trat,Trat,TH-23,province,minor,418.4,4913,4913,3,Asia/Bangkok,FALSE,1764941371
+Chom Bueng,Chom Bueng,Chom Bung|King Amphoe Chom Bueng|Amphoe Chom Bueng|King Chom Bung|Chohm Boeng|Chaum Boeng|Ban Chom Bung|Amphoe Chom Bung,13.6252,99.5831,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,64.5,4909,4909,3,Asia/Bangkok,FALSE,1764475733
+Ban Laem Son,Ban Laem Son,Paknam Prasae|Ban Pak Nam Prasae|Ban Pak Nam Krasae,12.7098,101.7099,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,433.4,4903,4903,3,Asia/Bangkok,FALSE,1764364119
+Pluak Daeng,Pluak Daeng,King Amphoe Pluak Daeng|Amphoe Pluak Daeng|Ban Pluak Daeng,12.9728,101.2143,Thailand,TH,THA,Rayong,Rayong,TH-21,province,minor,158.7,4897,4897,3,Asia/Bangkok,FALSE,1764349084
+Amphawa,Amphawa,Ambhawa|Amphoe Amphawa|Ban Amphawa|Khwaeng Bang Chang,13.4248,99.9559,Thailand,TH,THA,Samut Songkhram,Samut Songkhram,TH-75,province,minor,353.7,4894,4894,3,Asia/Bangkok,FALSE,1764719272
+Ban Si Don Chai,Ban Si Don Chai,,19.6187,100.0735,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,104.2,4892,4892,4,Asia/Bangkok,FALSE,1764843816
+Wan Yai,Wan Yai,King Amphoe Wan Yai|Amphoe Wan Yai,16.7202,104.7505,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,227.3,4884,4884,3,Asia/Bangkok,FALSE,1764593318
+Ban Nong Nam,Ban Nong Nam,,18.5039,98.9885,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,278.4,4876,4876,3,Asia/Bangkok,FALSE,1764405154
+Ban Mai Dong,Ban Mai Dong,Ban Mai,19.2767,99.8172,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,4869,4869,4,Asia/Bangkok,FALSE,1764713436
+Tha Uthen,Tha Uthen,Tauten|Uthen|Tha-uthen|Muang Tau Ten|Houthene|Ban Tha Uthen|Amphoe Dha Udhen|Amphoe Ban Tha Uthen|Amphoe Tha Uthen|Mueang Tha Uthen,17.5797,104.5945,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,minor,80.0,4839,4839,3,Asia/Bangkok,FALSE,1764351880
+Phrom Khiri,Phrom Khiri,King Amphoe Phrom Khiri|Amphoe Phrom Khiri|Phrommakhiri,8.4905,99.8404,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,112.8,4829,4829,3,Asia/Bangkok,FALSE,1764397595
+Ban Pong Tai,Ban Pong Tai,Ban Pong|Bān Paung,18.7502,98.8895,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,321.7,4827,4827,3,Asia/Bangkok,FALSE,1764537146
+Ko Si Chang,Ko Si Chang,Amphoe Ko Si Chang|King Amphoe Ko Si Chang,13.1638,100.8079,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,minor,1227.4,4811,4811,3,Asia/Bangkok,FALSE,1764926795
+Si Rattana,Si Rattana,Amphoe Si Rattana|King Amphoe Si Rattana,14.7985,104.4649,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,142.7,4799,4799,3,Asia/Bangkok,FALSE,1764184908
+Ban Dan,Ban Dan,Ban Bang Dane,13.7156,102.4614,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,,127.7,4780,4780,4,Asia/Bangkok,FALSE,1764427924
+Ranot,Ranot,Renut|Ban Rahnot|Ban Ranok|Rahnot|Cha Thing Phra|Ranod|Ban Ranot|King Amphoe Cha Thing Phra|Amphoe Ranot,7.7778,100.3214,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,272.4,4753,4753,3,Asia/Bangkok,FALSE,1764412684
+Ban Fa Yat,Ban Fa Yat,Muang Tanasai|Fayat|Tanasai,15.5316,104.2437,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,,110.1,4751,4751,4,Asia/Bangkok,FALSE,1764641477
+Don Phut,Don Phut,Amphoe Don Phut|King Amphoe Don Phut|Ban Don Phut,14.5889,100.6303,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,144.5,4696,4696,3,Asia/Bangkok,FALSE,1764720870
+Ban Dong,Ban Dong,,18.4190,99.7273,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,31.1,4677,4677,4,Asia/Bangkok,TRUE,1764592620
+Ban Rai,Ban Rai,,16.6000,100.2500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,184.6,4671,4671,4,Asia/Bangkok,TRUE,1764972781
+Ban Wang I Thok,Ban Wang I Thok,Ban Wang I Phuk,16.6333,100.1667,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,126.8,4652,4652,4,Asia/Bangkok,FALSE,1764145177
+Ban Luang,Ban Luang,Ban Long Knot|Laung Khaut|Hlōngkhōhd|Ban Long Kot|Ban Long Khot|Bān Laung Kaut,19.1103,99.1808,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,53.4,4640,4640,4,Asia/Bangkok,TRUE,1764002809
+Ban Nong Pa Ko,Ban Nong Pa Ko,,20.1678,100.1358,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,70.1,4635,4635,4,Asia/Bangkok,FALSE,1764349664
+Ban Wang Thong,Ban Wang Thong,Wang Thong,16.8229,100.4255,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,86.0,4626,4626,4,Asia/Bangkok,FALSE,1764161721
+Sam Ngao,Sam Ngao,Amphoe Sam Ngao,17.2255,99.0507,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,15.7,4601,4601,3,Asia/Bangkok,FALSE,1764549451
+Renu Nakhon,Renu Nakhon,Mueang Renu Nakhon|King Amphoe Renu Nakhon|Amphoe Renu Nakhon|Amphoe That Phanom,17.0530,104.6785,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,minor,136.4,4595,4595,3,Asia/Bangkok,FALSE,1764493790
+San Pa Tong,San Pa Tong,Amphoe San Pa Tong,18.6283,98.8958,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,571.0,4585,4585,3,Asia/Bangkok,FALSE,1764869378
+Non Daeng,Non Daeng,Tambon Non Daeng|King Amphoe Non Daeng|Amphoe Non Daeng,15.4143,102.5505,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,152.4,4576,4576,3,Asia/Bangkok,FALSE,1764967939
+Ban Na Khun Yai,Ban Na Khun Yai,,17.5114,104.1364,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,,73.4,4565,4565,4,Asia/Bangkok,FALSE,1764778046
+Non Sa-at,Non Sa-at,King Amphoe Non Sa-at|Amphoe Non Sa-at|Ban Non Sa-at,16.9693,102.8964,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,minor,81.2,4564,4564,3,Asia/Bangkok,FALSE,1764548193
+Ban Chiao Lan,Ban Chiao Lan,,8.9676,98.8379,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,12.1,4555,4555,4,Asia/Bangkok,FALSE,1764982422
+Ban Dan,Ban Dan,,17.0352,99.8871,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,218.6,4525,4525,3,Asia/Bangkok,FALSE,1764776394
+Ban Pa Nai,Ban Pa Nai,,19.4090,99.2092,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,53.4,4509,4509,4,Asia/Bangkok,FALSE,1764004523
+Kho Wang,Kho Wang,Amphoe Kho Wang|Ban Non Kho,15.3650,104.3563,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,minor,114.4,4505,4505,3,Asia/Bangkok,FALSE,1764173102
+Bueng Kan,Bueng Kan,Ban Beung Kal|Chai Buri|Ban Bung Kan|Amphoe Jaiburi|Amphoe Bung Kan|Amphoe Shai Buri|Amphoe Chai Buri|Bung Kan,18.3254,103.6704,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,admin,211.0,4494,4494,2,Asia/Bangkok,FALSE,1764944006
+Hua Sai,Hua Sai,King Amphoe Hua Sai|Amphoe Khao Phang Krai|Hua Zai|Ban Hua Zai|Ban Hua Sai|Amphoe Hua Sai,8.0442,100.3059,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,153.1,4457,4457,3,Asia/Bangkok,FALSE,1764807625
+Ban Mueang Pon,Ban Mueang Pon,Muang Pōhn|Ban Muang Pon|Kōhng Mu|Wang Kaung Mu Maung Paun|Muang Paun,18.7461,97.9269,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,11.8,4437,4437,4,Asia/Bangkok,FALSE,1764393044
+Ban Sang Nuea,Ban Sang Nuea,Ban Sang,19.1641,99.8331,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,4433,4433,4,Asia/Bangkok,FALSE,1764566981
+Ban Ruean,Ban Ruean,Ban Ruan (2),18.5167,98.8833,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,467.8,4388,4388,3,Asia/Bangkok,FALSE,1764497600
+Nuea Khlong,Nuea Khlong,Ban Nua Khlong|King Amphoe Nuea Khlong|Amphoe Nuea Khlong,8.0723,99.0022,Thailand,TH,THA,Krabi,Krabi,TH-81,province,minor,116.8,4378,4378,3,Asia/Bangkok,FALSE,1764033179
+Ban Si Chomphu,Ban Si Chomphu,,17.9715,103.6908,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,91.8,4375,4375,4,Asia/Bangkok,FALSE,1764160448
+Pho Thong,Pho Thong,Amphoe Huai Ling Tok|Khlaung Sarai|Bho Dhohng|Ban Khlong Sarai|Amphoe Pho Thong,14.6672,100.4089,Thailand,TH,THA,Ang Thong,Ang Thong,TH-15,province,minor,222.9,4339,4339,3,Asia/Bangkok,FALSE,1764325129
+Bang Rakam,Bang Rakam,Chum Saeng|Rakam|Amphoe Bang Rakam|Ban Bang Rakam|Bān Bāng Ragam|Amphu Bang Raka|Amphoe Chum Saeng,16.7534,100.1159,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,minor,126.8,4337,4337,3,Asia/Bangkok,FALSE,1764597827
+Khon San,Khon San,King Amphoe Khon San|Ban Nam Phron|Ban Nam Phrom|Amphoe Khon San,16.6156,101.9260,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,34.8,4310,4310,3,Asia/Bangkok,FALSE,1764668789
+Ban Lat Bua Khao,Ban Lat Bua Khao,Ban Lad Bua Khaw|Lat Bua Khla,14.8517,101.6565,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,102.2,4304,4304,4,Asia/Bangkok,FALSE,1764842839
+Ban Mai Chaiyaphot,Ban Mai Chaiyaphot,King Amphoe Ban Mai Chaiyaphot|Amphoe Ban Mai Chaiyaphot,15.5815,102.8311,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,137.3,4298,4298,3,Asia/Bangkok,FALSE,1764002951
+Lan Krabue,Lan Krabue,Lan Krabu|Amphoe Lan Krabue|King Amphoe Lan Krabue,16.5922,99.8578,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,minor,117.0,4297,4297,3,Asia/Bangkok,FALSE,1764490170
+Ban Pa Pong,Ban Pa Pong,,18.1503,98.1296,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,23.8,4286,4286,4,Asia/Bangkok,FALSE,1764361093
+Ban Wai Niao,Ban Wai Niao,Ban Wia Nieo|Ban Wai Nieo|Wai Noi,13.9130,99.7558,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,368.4,4255,4255,3,Asia/Bangkok,FALSE,1764386548
+Ban Luang Mueang Khong,Ban Luang Mueang Khong,,19.3833,98.7167,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,15.7,4244,4244,4,Asia/Bangkok,FALSE,1764727264
+Wang Chao,Wang Chao,King Amphoe Wang Chao|Amphoe Wang Chao|Kosambhi|Muang Kosambhi|Muang Gausam Phi|Kosamphi|Gosamphi|Muang Kosamphi|Ban Wang Chao (4),16.6860,99.2544,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,66.1,4238,4238,3,Asia/Bangkok,FALSE,1764426293
+Ban Nong Raet,Ban Nong Raet,Ban Mae Loi Nong Haet|Ban Mae Loi|Bān Mea Loi,19.6180,100.1164,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,98.4,4237,4237,4,Asia/Bangkok,FALSE,1764950643
+Khanom,Khanom,King Amphoe Khanom|Amphoe Khanom,9.2083,99.8644,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,73.1,4235,4235,3,Asia/Bangkok,FALSE,1764409755
+Chatturat,Chatturat,Chaturat|Amphoe Chatturat|Amphoe Chaturat|Muang Tiattorak|Muang Jatu Rat|Muang Chetturach|Muang Chaturat|Muang Chaturas|Chatuaras|Ban Kok,15.5724,101.8520,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,84.2,4219,4219,3,Asia/Bangkok,FALSE,1764054568
+Ngao,Ngao,Ban Amphoe Ngao|Muang Ngad|Amphoe Ngao|Muang Ngau|Muang Ngao|Luang Nua|Ban Luang Nuah|Ban Luang Nua|Ban Hluang Hnoea|Amphoe Muang Ngao|Amphoe Muang Gao|Amphoe Moeang Ngao,18.7534,99.9827,Thailand,TH,THA,Lampang,Lampang,TH-52,province,minor,35.4,4208,4208,3,Asia/Bangkok,FALSE,1764987608
+Kham Thale So,Kham Thale So,King Amphoe Kham Thale So|Amphoe Kham Thale So|Ban Kham Thale So|Ban Kham Tale So,14.9573,101.9503,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,124.9,4186,4186,3,Asia/Bangkok,FALSE,1764289206
+Ban Bang Kao,Ban Bang Kao,,12.8684,100.0045,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,,140.7,4165,4165,4,Asia/Bangkok,FALSE,1764614519
+Kusuman,Kusuman,Muong Kout Sa Man|Muang Kusuman|Ban Muang Kusuman|Ban Kusuman|Amphoe Kusuman|Tambon Kusuman|King Amphoe Kusuman|Mueang Kusuman,17.3291,104.3445,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,74.5,4161,4161,3,Asia/Bangkok,FALSE,1764441664
+Ban Khok,Ban Khok,,16.0806,102.4009,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,107.6,4159,4159,4,Asia/Bangkok,TRUE,1764429770
+Khuean Ubonrat,Khuean Ubonrat,Ubolratana|Ubonrathana|King Amphoe Ubolratana|Amphoe Ubolratana|Ubonrat,16.7586,102.6315,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,112.7,4136,4136,3,Asia/Bangkok,FALSE,1764975880
+Ban Dai,Ban Dai,,20.2914,99.9464,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,273.5,4117,4117,3,Asia/Bangkok,FALSE,1764704189
+Ban Tum Tha Champi,Ban Tum Tha Champi,,19.2431,99.8273,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,4100,4100,4,Asia/Bangkok,FALSE,1764036324
+Ban Phai Kho Don,Ban Phai Kho Don,Bān Phāi Kau Daun,16.9200,100.1800,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,119.0,4083,4083,4,Asia/Bangkok,FALSE,1764047123
+Ban Nong Pla Sawai,Ban Nong Pla Sawai,,18.3376,98.7091,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,79.1,4081,4081,4,Asia/Bangkok,FALSE,1764377299
+Ban Lao,Ban Lao,,19.9922,100.0348,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,89.0,4080,4080,4,Asia/Bangkok,TRUE,1764721576
+Phayu,Phayu,Ban Phayu|King Amphoe Phayu|Amphoe Phayu,14.9282,104.3995,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,152.4,4075,4075,3,Asia/Bangkok,FALSE,1764606744
+Ban Pong,Ban Pong,,19.3732,99.1740,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,53.4,4053,4053,4,Asia/Bangkok,TRUE,1764750185
+Ban Tha Pha Pum,Ban Tha Pha Pum,Ban Pha Pum|Ban Pha Kom|Phā Gaum,18.3101,97.9118,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,21.2,4052,4052,4,Asia/Bangkok,FALSE,1764575941
+Ban Wang Nam Khu,Ban Wang Nam Khu,Ban Wang Nam Ku|Wang Nam Khu,16.6660,100.2500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,168.0,4052,4052,4,Asia/Bangkok,FALSE,1764000491
+Ban Laem Sak,Ban Laem Sak,Laem Sak,8.2851,98.6566,Thailand,TH,THA,Krabi,Krabi,TH-81,province,,77.4,4050,4050,4,Asia/Bangkok,FALSE,1764949524
+Ban Che Bilang,Ban Che Bilang,Chebilang,6.6553,99.9837,Thailand,TH,THA,Satun,Satun,TH-91,province,,138.1,4039,4039,4,Asia/Bangkok,FALSE,1764159358
+Mae Ramat,Mae Ramat,Tambon Mae Ramat|Mēramās|Ban Mae Ramat|Amphoe Mae Ramat|Mēramat|King Amphoe Mae Ramat,16.9843,98.5172,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,32.4,4034,4034,3,Asia/Bangkok,FALSE,1764656671
+Ban Bang Sawan,Ban Bang Sawan,,8.6172,98.9701,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,86.1,4021,4021,4,Asia/Bangkok,FALSE,1764275440
+Chiang Dao,Chiang Dao,Amphoe Ban Chiang Dao|Chieng Dao|Muang Chieng Dao|Jieng Dao|Ban Chiang Dao|Amphoe Jieng Dao|Amphoe Chiang Dao,19.3613,98.9626,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,minor,42.8,4008,4008,3,Asia/Bangkok,FALSE,1764730146
+Ban Wat Chan,Ban Wat Chan,,19.0772,98.3047,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,23.5,4007,4007,4,Asia/Bangkok,FALSE,1764944365
+Ban Chom Thong,Ban Chom Thong,Bān Aum Thaung|Ban Om Thong|Ban Chom Thong (3),16.8952,100.2236,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,112.0,3995,3995,4,Asia/Bangkok,FALSE,1764316337
+Ban Kruat,Ban Kruat,King Amphoe Ban Kruat,14.4158,103.1024,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,minor,94.4,3993,3993,3,Asia/Bangkok,FALSE,1764908685
+Ban Tha Thung Luang,Ban Tha Thung Luang,Ban Thung Luang,18.4281,99.0383,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,87.2,3990,3990,4,Asia/Bangkok,FALSE,1764153845
+Ban Han,Ban Han,,7.0740,100.4507,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,275.9,3979,3979,3,Asia/Bangkok,FALSE,1764232357
+Cha-uat,Cha-uat,Ban Cha Uat|Amphoe Cha-uat|King Amphoe Cha-uat,7.9653,99.9989,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,100.9,3961,3961,3,Asia/Bangkok,FALSE,1764318278
+Na Chueak,Na Chueak,King Amphoe Na Chueak|Amphoe Na Chueak|Na Chuak|Ban Na Chuak,15.7892,103.0299,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,minor,102.0,3940,3940,3,Asia/Bangkok,FALSE,1764917355
+Ban San Ton Pao,Ban San Ton Pao,Ban San Pa Pao,18.8591,99.0865,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,338.2,3934,3934,3,Asia/Bangkok,FALSE,1764063629
+Sai Yok,Sai Yok,Nam Tok Sai Yok|King Amphoe Sai Yok|Amphoe Sai Yok|Ban Wang Pho,14.2372,99.0672,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,minor,17.8,3926,3926,3,Asia/Bangkok,FALSE,1764165563
+Ban Nong Chang Khuen,Ban Nong Chang Khuen,,18.6553,99.0179,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,278.4,3925,3925,3,Asia/Bangkok,FALSE,1764725654
+Ban Puang,Ban Puang,,17.8667,99.0667,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,41.7,3918,3918,4,Asia/Bangkok,FALSE,1764158106
+Ban Don Kaeo,Ban Don Kaeo,,18.6905,98.9935,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,914.8,3913,3913,3,Asia/Bangkok,FALSE,1764565738
+Ban Chat Pa Wai,Ban Chat Pa Wai,,13.5467,99.4401,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,35.4,3907,3907,4,Asia/Bangkok,FALSE,1764099789
+Sangkha,Sangkha,Mueang Sangkha|Ban Sang Ke|Muang Sangkea|Sangka|Muang Sang Ke|Khwao|Ban Muang Sangkhah|Ban Khwao|Amphoe Sangkhah|Amphoe Sangkha|Ban Muang Sangkha|Sangkeak,14.6368,103.8531,Thailand,TH,THA,Surin,Surin,TH-32,province,minor,87.6,3895,3895,3,Asia/Bangkok,FALSE,1764806301
+Ban Mueang Kao,Ban Mueang Kao,Ban Muang Kbin Kao|Ban Muang Kabin Kao|Ban Muang Kao|Kabin Kao,13.9921,101.7174,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,,153.8,3884,3884,4,Asia/Bangkok,FALSE,1764180339
+Kham Khuean Kaeo,Kham Khuean Kaeo,Kham Khuan Kaeo|Lum Phuk|Ban Lumphuk|Amphoe Kham Khuan Kaeo|Amphoe Lumphuk,15.6532,104.3083,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,minor,108.2,3857,3857,3,Asia/Bangkok,FALSE,1764487749
+Ban Mueang Ngai,Ban Mueang Ngai,Wiēngngāi|Maung Ngai|Ngāi|Ban Muang Ngai,19.4448,98.9662,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,42.8,3855,3855,4,Asia/Bangkok,FALSE,1764915973
+Ban Lan Hoi,Ban Lan Hoi,Lan Hoi,17.0087,99.5820,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,49.7,3836,3836,4,Asia/Bangkok,FALSE,1764479362
+Ban Na Kae,Ban Na Kae,,18.8167,99.8833,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,35.4,3824,3824,4,Asia/Bangkok,TRUE,1764124903
+Ban Kong,Ban Kong,Ban Pak Bong|Pak Bong|Pak Baung|Ban Pak Pong|Pākbōhng|Bān Pāk Baung,18.7000,98.9167,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,321.7,3777,3777,3,Asia/Bangkok,FALSE,1764023321
+Sena,Sena,Khwaeng Sena|Ban Sena|Amphu Sena|Amphoe Sena,14.3273,100.4049,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,298.8,3771,3771,3,Asia/Bangkok,FALSE,1764889443
+Mancha Khiri,Mancha Khiri,Ban Han|Kut Khao|Koot Kao|Amphoe Mancha Khiri|Amphoe Kut Khao|Amphoe Kut Kao,16.1270,102.5440,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,109.4,3765,3765,3,Asia/Bangkok,FALSE,1764887066
+Mae Chan,Mae Chan,Amphoe Mae Chan|Pong Hong|Chiang Saen|Ban Kasa|Bān Gāsa|Ban Mae Chan|Chieng Sean|Chiengsen|Amphoe Chiang Saen|Bān Mea Jan,20.1397,99.8570,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,minor,179.2,3733,3733,3,Asia/Bangkok,FALSE,1764035495
+Kra Buri,Kra Buri,Nam Chut|Nam Choed Yai|Kra|Ban Nam Jeut Yai|Ban Nam Chut Yai|Ban Nam Choet Yai|Ban Nam Choed Yai|Amphoe Kra Buri|Mueang Tra,10.4020,98.7728,Thailand,TH,THA,Ranong,Ranong,TH-85,province,minor,110.3,3733,3733,3,Asia/Bangkok,FALSE,1764589217
+Sida,Sida,King Amphoe Sida|Amphoe Sida,15.5413,102.5658,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,138.9,3727,3727,3,Asia/Bangkok,FALSE,1764488901
+Umphang,Umphang,Amphoe Mae Klong|King Amphoe Umphang|King Um Phang|Amphoe Umphang,16.0180,98.8652,Thailand,TH,THA,Tak,Tak,TH-63,province,minor,5.4,3706,3706,3,Asia/Bangkok,FALSE,1764348446
+Ban Lat,Ban Lat,Tha Chang|Amphoe Ban Lat|Ban Tha Chang|Dhājāng|Amphoe Tha Chang,13.0496,99.9188,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,minor,177.0,3698,3698,3,Asia/Bangkok,FALSE,1764955521
+Si Chomphu,Si Chomphu,King Amphoe Si Chomphu|Amphoe Si Chomphu,16.8012,102.1868,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,147.1,3625,3625,3,Asia/Bangkok,FALSE,1764248817
+Ban Pa Pong,Ban Pa Pong,,18.8437,99.1372,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,113.8,3549,3549,4,Asia/Bangkok,FALSE,1764556724
+Ban Ngio Ngam,Ban Ngio Ngam,Ban Ngiu Ngam (1),16.6633,100.2377,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,150.0,3549,3549,4,Asia/Bangkok,FALSE,1764980859
+Si Maha Phot,Si Maha Phot,Amphoe Si Maha Phot|Tha Prachumchon|Ban Tha Prachum Chon|Srimahapho|Srimahābhot,13.9614,101.5118,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,minor,184.9,3518,3518,3,Asia/Bangkok,FALSE,1764198924
+Phu Pha Man,Phu Pha Man,King Amphoe Phupa Man|Amphoe Phupa Man,16.6453,101.8980,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,68.9,3503,3503,3,Asia/Bangkok,FALSE,1764839334
+Lan Sak,Lan Sak,,15.4548,99.5634,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,minor,45.0,3473,3473,3,Asia/Bangkok,FALSE,1764473196
+Sukhirin,Sukhirin,King Amphoe Sukhirin|Amphoe Sukhirin,5.9406,101.7688,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,minor,41.3,3471,3471,3,Asia/Bangkok,FALSE,1764978889
+Thung Chang,Thung Chang,Ban Thung Chang|Lae|Amphoe Lae,19.3883,100.8781,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,29.6,3467,3467,3,Asia/Bangkok,FALSE,1764482364
+Noen Maprang,Noen Maprang,King Amphoe Noen Maprang|Amphoe Noen Maprang|Ban Noen Maprang,16.5683,100.6356,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,minor,70.2,3455,3455,3,Asia/Bangkok,FALSE,1764002724
+Chon Daen,Chon Daen,King Amphoe Chon Daen|Amphoe Chon Daen|King Chon Daen|Jondēn|Bān Chon Dean|Ban Chon Daen,16.1894,100.8597,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,minor,67.1,3452,3452,3,Asia/Bangkok,FALSE,1764368023
+Pak Chom,Pak Chom,Ban Pak Chom|Ban Pak Chom|Ban Pak Sohm|Pāk Chaum|King Amphoe Pak Chom|Amphoe Pak Chom,18.0188,101.8818,Thailand,TH,THA,Loei,Loei,TH-42,province,minor,40.7,3451,3451,3,Asia/Bangkok,FALSE,1764183490
+Ban Pao,Ban Pao,,16.4274,104.3382,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,,90.9,3449,3449,4,Asia/Bangkok,FALSE,1764208298
+Non Thai,Non Thai,Khwaeng San Thia|Amphoe Non Lao|Amphoe San Thia|Amphoe Non Thai,15.1960,102.0702,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,minor,143.0,3433,3433,3,Asia/Bangkok,FALSE,1764612226
+Ban Pa Lan,Ban Pa Lan,Samoeng Nua|Ban Samoeng Nua|Bān Sameng Nua,18.9720,98.7264,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,28.1,3426,3426,4,Asia/Bangkok,TRUE,1764542249
+Thai Mueang,Thai Mueang,Ban Thai Muang|Ban Dhai Hmoeang|Dhai Hmoeang|Tai Muang|Amphoe Dhaihmoeang|Thai Muang|Amphoe Thai Muang,8.3944,98.2599,Thailand,TH,THA,Phangnga,Phangnga,TH-82,province,minor,85.6,3375,3375,3,Asia/Bangkok,FALSE,1764175446
+Ban Khlong Ya,Ban Khlong Ya,Ban Ya,8.8841,99.3154,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,129.9,3358,3358,4,Asia/Bangkok,FALSE,1764651912
+Sangkhom,Sangkhom,Ban Sangkhom|King Amphoe Sangkhom|Amphoe Sangkhom,18.0682,102.2636,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,minor,42.1,3355,3355,3,Asia/Bangkok,FALSE,1764193672
+Ban Khok Salut,Ban Khok Salut,Bān Kauk Salut,16.5583,100.2500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,184.6,3342,3342,4,Asia/Bangkok,FALSE,1764547563
+Maha Rat,Maha Rat,Mahāraj|Ban Hua Phai|Amphoe Maharat|Ban Maha Rat (2)|Khwaeng Nakhon Yai,14.5337,100.5293,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,221.5,3304,3304,3,Asia/Bangkok,FALSE,1764423624
+Ban Mi,Ban Mi,Amphoe Sanam Chaeng|Amphoe Huay Kaew|Amphoe Ban Sao|Amphoe Ban Mi,15.0461,100.5358,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,167.9,3287,3287,3,Asia/Bangkok,FALSE,1764224393
+Si Nakhon,Si Nakhon,Amphoe Si Nakhon|King Amphoe Si Nakhon,17.3550,99.9921,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,minor,158.3,3273,3273,3,Asia/Bangkok,FALSE,1764645225
+Huai Thap Than,Huai Thap Than,Amphoe Huai Thap Than|King Amphoe Huai Thap Than,15.0512,104.0356,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,117.6,3268,3268,3,Asia/Bangkok,FALSE,1764546997
+Sao Hai,Sao Hai,Bau Sao Hai|Amphu Sao-hai|Amphoe Sao Hai|Ban Sa Kaeo,14.5501,100.8444,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,350.2,3267,3267,3,Asia/Bangkok,FALSE,1764691098
+Tan Sum,Tan Sum,King Amphoe Tan Sum|Amphoe Tan Sum,15.3154,105.1606,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,104.5,3267,3267,3,Asia/Bangkok,FALSE,1764545433
+Ban Khlong Nam Chiao,Ban Khlong Nam Chiao,Ban Nam Chieo|Nam Chio|Nam Chieu,12.1896,102.4632,Thailand,TH,THA,Trat,Trat,TH-23,province,,139.7,3243,3243,4,Asia/Bangkok,FALSE,1764949525
+Ban Tha Dua,Ban Tha Dua,Dha Doēa,17.9560,98.6799,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,36.7,3242,3242,4,Asia/Bangkok,FALSE,1764002946
+Thung Wa,Thung Wa,Ban Dhunghwa|Ban Tung Waar|King Amphoe Thung Wa|Amphoe Thung Wa|Ban Thung Wa,7.1092,99.7559,Thailand,TH,THA,Satun,Satun,TH-91,province,minor,83.4,3239,3239,3,Asia/Bangkok,FALSE,1764264166
+Ban Saen Tung,Ban Saen Tung,Saen Tung,12.3820,102.3813,Thailand,TH,THA,Trat,Trat,TH-23,province,,86.9,3238,3238,4,Asia/Bangkok,FALSE,1764414031
+Ban Mae Klong Mai,Ban Mae Klong Mai,Mēklōhng|Ban Mae Klong,16.0520,98.8419,Thailand,TH,THA,Tak,Tak,TH-63,province,,5.4,3228,3228,4,Asia/Bangkok,FALSE,1764572772
+Phrom Buri,Phrom Buri,Prome|Muang Prom|Muang Bhrom|Ban Phrom Buri|Amphoe Phrom Buri|Phrom|Amphoe Bhromburi|Muang Phrom Buri|Mueang Phrom Buri|Bān Kum Bhrōm,14.8490,100.4442,Thailand,TH,THA,Sing Buri,Sing Buri,TH-17,province,minor,226.5,3219,3219,3,Asia/Bangkok,FALSE,1764565499
+Ban Wong Khong,Ban Wong Khong,Ban Wang Kaung|Wong Khaung,17.1027,100.1632,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,135.0,3210,3210,4,Asia/Bangkok,FALSE,1764972022
+Muang Sam Sip,Muang Sam Sip,Amphoe Muang Sam Sip|Muang Nam Sip|Ban Muang Samsip|Amphoe Kasem Sima|Amphoe Utara Ubon,15.5120,104.7251,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,45.3,3199,3199,3,Asia/Bangkok,FALSE,1764784066
+Ban Tai,Ban Tai,,9.7021,100.0320,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,92.5,3179,3179,4,Asia/Bangkok,FALSE,1764001290
+Ban Khai,Ban Khai,,12.7813,101.2926,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,296.4,3172,3172,3,Asia/Bangkok,FALSE,1764984881
+Ban Song Hong,Ban Song Hong,,17.8845,100.8179,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,18.2,3167,3167,4,Asia/Bangkok,FALSE,1764001600
+Wiang Sa,Wiang Sa,Sa|Amphoe Sa,18.5707,100.7512,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,30.1,3110,3110,3,Asia/Bangkok,FALSE,1764889264
+Pa Tio,Pa Tio,Pa Tiu|Amphoe Tio|Amphoe Pa Tiu|King Amphoe Pa Tio|Amphoe Pa Tio,15.8308,104.3840,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,minor,83.9,3074,3074,3,Asia/Bangkok,FALSE,1764864611
+Ban Hua Ngao,Ban Hua Ngao,Ban Mae Ngao,18.8060,97.9079,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,,11.8,3068,3068,4,Asia/Bangkok,FALSE,1764377029
+Waeng Noi,Waeng Noi,King Amphoe Waeng Noi|Amphoe Waeng Noi,15.8025,102.4229,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,151.8,3067,3067,3,Asia/Bangkok,FALSE,1764380802
+Ban San Pa Khang,Ban San Pa Khang,Bān San Pa Deat|Ban San Pa Khae|Ban San Pa Kang,19.1833,99.8333,Thailand,TH,THA,Phayao,Phayao,TH-56,province,,99.4,3056,3056,4,Asia/Bangkok,FALSE,1764011685
+Phu Wiang,Phu Wiang,Amphoe Phu Wiang|Amphoe Bhuwieng|Pou Vieng|Muang Pu Wieng|Muang Pou Vieng|Nai Muang|Ban Nai Muang,16.6517,102.3751,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,minor,192.3,3056,3056,3,Asia/Bangkok,FALSE,1764794406
+Tha Sala,Tha Sala,Amphoe Klai|Ban Tha Sala|Amphoe Tha Sala,8.6691,99.9240,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,219.6,3044,3044,3,Asia/Bangkok,FALSE,1764381175
+Ban Phaeo,Ban Phaeo,Ban Pheo|Amphoe Ban Phaeo,13.5868,100.1037,Thailand,TH,THA,Samut Sakhon,Samut Sakhon,TH-74,province,minor,1295.7,3020,3020,3,Asia/Bangkok,FALSE,1764158589
+Kaset Sombun,Kaset Sombun,King Amphoe Kaset Sombun|Ban Yang|Amphoe Kaset Sombun,16.2779,101.9540,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,minor,64.5,2991,2991,3,Asia/Bangkok,FALSE,1764664717
+Loeng Nok Tha,Loeng Nok Tha,Amphoe Loeng Nok Tha|King Amphoe Loeng Nok Tha,16.1919,104.5160,Thailand,TH,THA,Yasothon,Yasothon,TH-35,province,minor,79.3,2964,2964,3,Asia/Bangkok,FALSE,1764675434
+Lamae,Lamae,King Amphoe Lamae|Amphoe Lamae,9.7813,99.1121,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,minor,79.1,2957,2957,3,Asia/Bangkok,FALSE,1764914763
+Tha Chana,Tha Chana,King Amphoe Prasong|Ban Tha Chana|Amphoe Tha Chana|Prasong|King Amphoe Tha Chana,9.5706,99.1660,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,82.2,2934,2934,3,Asia/Bangkok,FALSE,1764813841
+Nong Suea,Nong Suea,Nong Sua|Amphoe Nong Sua|Ban Bung Pa|Boeng Ba|Ban Bung Ba,14.1310,100.8129,Thailand,TH,THA,Pathum Thani,Pathum Thani,TH-13,province,minor,521.6,2901,2901,3,Asia/Bangkok,FALSE,1764369022
+Prang Ku,Prang Ku,King Amphoe Prang Ku|Amphoe Prang Ku|Ban Tum|Ban Tom,14.8537,104.0354,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,minor,117.4,2891,2891,3,Asia/Bangkok,FALSE,1764579869
+Krasae Sin,Krasae Sin,King Amphoe Krasae Sin|Kra Sae Sin|Amphoe Krasae Sin,7.5852,100.3198,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,minor,257.6,2843,2843,3,Asia/Bangkok,FALSE,1764966429
+Ban Nang Sata,Ban Nang Sata,Amphoe Ban Nang Sata|Ban Pannang Sata|Ban Panang Star|Pannang Sata|Bannangsta|Amphoe Ba Cho|Ban Ban Nang Sata|Benang Setar,6.2656,101.2631,Thailand,TH,THA,Yala,Yala,TH-95,province,minor,91.8,2828,2828,3,Asia/Bangkok,FALSE,1764698099
+Ban Choeng Sae,Ban Choeng Sae,Ban Choeng Seng|Choeng Saeng|Ban Choeng Saeng,7.6319,100.3300,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,257.6,2825,2825,3,Asia/Bangkok,FALSE,1764506368
+Phipun,Phipun,King Amphoe Phipun|Amphoe Phipun,8.5601,99.6068,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,55.5,2812,2812,3,Asia/Bangkok,FALSE,1764691184
+Na Bon,Na Bon,Amphoe Na Bon|King Amphoe Na Bon|Na Baun|Ban Na Bon,8.2605,99.5964,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,115.7,2808,2808,3,Asia/Bangkok,FALSE,1764433961
+Warichaphum,Warichaphum,Muang Uarit Pom|Ouarit Poum|Muang Ouarit Poum|King Amphoe Waritchaphum|King Amphoe Barijabhum|Amphoe Waritchaphum|Ban Muang Waritchaphum|King Waritchaphum|Waritchaphum|Muang Waritchaphum,17.2913,103.6469,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,minor,97.3,2787,2787,3,Asia/Bangkok,FALSE,1764419352
+Waeng,Waeng,Amphoe Phon Thong|Phon Tong|Ban Waeng|Phon Thong,16.3000,103.9778,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,minor,107.9,2775,2775,3,Asia/Bangkok,FALSE,1764992523
+Ban Nong Chok,Ban Nong Chok,Naung Chauk|Nong Chok|Hnōhng Chohk|Amphu Nong Chok,12.9482,99.9680,Thailand,TH,THA,Phetchaburi,Phetchaburi,TH-76,province,,120.2,2768,2768,4,Asia/Bangkok,TRUE,1764584165
+Ban Phu Khao Thong,Ban Phu Khao Thong,,14.3633,100.5457,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,,61.2,2748,2748,4,Asia/Bangkok,FALSE,1764922717
+Khong Chiam,Khong Chiam,Khwaeng Khong Chiam|Amphoe Khong Chiam|Ban Dan|Khon Chiam|Ban Dan Kao|King Amphoe Ban Dan,15.3194,105.4906,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,minor,44.5,2741,2741,3,Asia/Bangkok,FALSE,1764942243
+Phon Phisai,Phon Phisai,Muang Pon Pi Sai|Ban Chumpol Muang|Tiom Nang|Pon Pi Sal|Ban Bom Nang|Amphoe Bhonbhisai|Ban Chum Phon|Amphoe Pon Pi Sai|Chumphon|Muang Ponpissay|Amphoe Phon Phisai,18.0228,103.0826,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,minor,169.5,2723,2723,3,Asia/Bangkok,FALSE,1764190097
+La-Un,La-Un,Muang Laun|Laun Tai|Laun|King Amphoe La-Un|La-oun|Khao Fachi|Ban Laun|Amphoe La-un,10.1128,98.7545,Thailand,TH,THA,Ranong,Ranong,TH-85,province,minor,52.1,2703,2703,3,Asia/Bangkok,FALSE,1764926338
+Chawang,Chawang,Ban Tambon Chawang|Ban Chawang|Amphoe Chawang,8.4256,99.5045,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,137.1,2669,2669,3,Asia/Bangkok,FALSE,1764179530
+Ban Cham Rak,Ban Cham Rak,Cham Rak,12.1983,102.6617,Thailand,TH,THA,Trat,Trat,TH-23,province,,120.6,2660,2660,4,Asia/Bangkok,FALSE,1764317213
+Na Noi,Na Noi,Ban Na Noi|Amphoe Na Noi,18.3258,100.7122,Thailand,TH,THA,Nan,Nan,TH-55,province,minor,24.3,2639,2639,3,Asia/Bangkok,FALSE,1764322020
+Ban Nam Kum,Ban Nam Kum,Bān Na Kum|Ban Nam Khum,17.2667,100.7833,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,2626,2626,4,Asia/Bangkok,TRUE,1764257723
+Ban Takang,Ban Takang,Takang,12.2288,102.6415,Thailand,TH,THA,Trat,Trat,TH-23,province,,120.6,2622,2622,4,Asia/Bangkok,FALSE,1764243276
+Don Tan,Don Tan,Tambon Don Tan|King Amphoe Don Tan|Amphoe Don Tan,16.3187,104.9182,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,103.3,2616,2616,3,Asia/Bangkok,FALSE,1764268248
+Yaha,Yaha,Amphoe Yaha|Ban Yaha,6.4837,101.1334,Thailand,TH,THA,Yala,Yala,TH-95,province,minor,85.1,2601,2601,3,Asia/Bangkok,FALSE,1764308605
+Lat Bua Luang,Lat Bua Luang,Khlong Phraya Banlu|Ban Lat Bua Luang|Ban Klong Phya Banroe|Ban Khlong Phraya Banru|Amphoe Lat Bua Luang|King Amphoe Lat Bua Luang|Ban Khlong Phraya Ban,14.1668,100.3134,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,191.7,2595,2595,3,Asia/Bangkok,FALSE,1764303085
+Ban Mai,Ban Mai,,19.1769,99.6213,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,45.8,2570,2570,4,Asia/Bangkok,TRUE,1764452316
+Ban Niwet,Ban Niwet,,16.0366,103.7463,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,,148.5,2540,2540,4,Asia/Bangkok,FALSE,1764114922
+Ban Sanam Khli Tawan Tok,Ban Sanam Khli Tawan Tok,Bān Sanām Kli|Ban Sanam Khli,16.5417,100.2500,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,162.2,2535,2535,4,Asia/Bangkok,FALSE,1764442064
+Ban Mueang Len,Ban Mueang Len,Ban Muang Len|Bān Muanghen,18.8662,99.0677,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,348.2,2535,2535,3,Asia/Bangkok,FALSE,1764441746
+Sai Noi,Sai Noi,Amphoe Sai Noi|King Amphoe Sai Noi|Ban Sai Noi,13.9782,100.3135,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,minor,537.9,2506,2506,3,Asia/Bangkok,FALSE,1764534049
+Ban Ta Khun,Ban Ta Khun,,8.9034,98.8845,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,12.1,2427,2427,4,Asia/Bangkok,FALSE,1764138449
+Khamcha-i,Khamcha-i,Amphoe Kham Cha-i|Ban Nam Thiang|King Amphoe Khamcha-i,16.5792,104.4190,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,83.9,2424,2424,3,Asia/Bangkok,FALSE,1764340480
+Ban Sansai,Ban Sansai,,20.1725,99.8731,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,179.2,2419,2419,4,Asia/Bangkok,FALSE,1764996626
+Nong Don,Nong Don,Hnōhng Don|Naung Don|King Amphoe Nong Don|Amphoe Nong Don|Ban Nong Don,14.6808,100.7082,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,minor,177.2,2414,2414,3,Asia/Bangkok,FALSE,1764719024
+Bang Nam Priao,Bang Nam Priao,Bang Nam-priew|Amphoe Bang Nam Prieo|Ban Bang Nam Prieo|Bang Nam Prio|Bang Nam Prieo,13.8475,101.0531,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,minor,203.2,2387,2387,3,Asia/Bangkok,FALSE,1764002892
+Pai,Pai,Muang Pai|Wieng Tai|Amphoe Pai|Ban Wiang Tai|Wiang Tai|Ban Wieng Tai,19.3589,98.4367,Thailand,TH,THA,Mae Hong Son,Mae Hong Son,TH-58,province,minor,10.9,2314,2314,3,Asia/Bangkok,FALSE,1764003068
+Tha Wung,Tha Wung,Ban Tha Wung|Amphoe Pho Wi|Dhā Wung|Amphoe Tha Wung,14.8113,100.5117,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,minor,224.9,2195,2195,3,Asia/Bangkok,FALSE,1764150442
+Wang Nuea,Wang Nuea,Wang Nua|Amphoe Wang Nua,19.1455,99.6215,Thailand,TH,THA,Lampang,Lampang,TH-52,province,minor,45.8,2150,2150,3,Asia/Bangkok,FALSE,1764309474
+Ban Bang Khanak,Ban Bang Khanak,Bang Khanak,13.8715,101.1409,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,203.2,2113,2113,3,Asia/Bangkok,FALSE,1764752473
+Ban Phraek,Ban Phraek,Ban Prag|Phraek|King Amphoe Ban Phraek|Amphoe Ban Phraek,14.6460,100.5755,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,minor,213.4,2082,2082,3,Asia/Bangkok,FALSE,1764294046
+Tha Sae,Tha Sae,King Amphoe Tha Sae|Mueang Tha Sae|King Tha Sae|Ban Tharsak|Amphoe Tha Sae,10.6716,99.1812,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,minor,48.7,2065,2065,3,Asia/Bangkok,FALSE,1764550383
+Khiri Ratthanikhom,Khiri Ratthanikhom,Amphoe Khiri Rat Nikhom|Tha Khanon|Amphoe Dha Khanohn|King Amphoe Tha Khanon|Tah Kanon|Mueang Khiri Rat Nikhom|Dhā Khanōhn|Ban Tha Khanon|Tha Khanaun|Amphoe Tha Khanon|Khiri Rat Nikhom,9.0326,98.9639,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,74.3,1943,1943,3,Asia/Bangkok,FALSE,1764350047
+Ban Bang Chak,Ban Bang Chak,Ban Bang Chaak,8.3438,100.0670,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,379.5,1906,1906,3,Asia/Bangkok,FALSE,1764849144
+Chian Yai,Chian Yai,King Amphoe Chian Yai|Amphoe Chian Yai,8.1707,100.1478,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,142.3,1897,1897,3,Asia/Bangkok,FALSE,1764303826
+Ban Krong Kreng Nueng,Ban Krong Kreng Nueng,Ban Krong Kreng|Ban Graung Greng|Ban Krong Kreng 1,16.6083,100.3750,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,90.0,1881,1881,4,Asia/Bangkok,FALSE,1764521870
+Lan Saka,Lan Saka,King Amphoe Khao Kaeo|King Amphoe Lan Saka|Amphoe Lan Saka|Ban Talat Amphoe Lan Saka,8.3677,99.8000,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,minor,101.5,1855,1855,3,Asia/Bangkok,FALSE,1764928655
+Ban Bang Nok Khwaek,Ban Bang Nok Khwaek,,13.5071,99.9176,Thailand,TH,THA,Samut Songkhram,Samut Songkhram,TH-75,province,,487.1,1792,1792,3,Asia/Bangkok,FALSE,1764881370
+Nong Sung,Nong Sung,Ban Nong Sung|King Amphoe Nong Sung|Amphoe Nong Sung,16.4845,104.3459,Thailand,TH,THA,Mukdahan,Mukdahan,TH-49,province,minor,90.9,1785,1785,3,Asia/Bangkok,FALSE,1764498370
+Laem Ngop,Laem Ngop,Ban Rian Va|Laem Ngorb|Lem Ngop|Ban Laem Ngop|Amphoe Laem Ngop|Amphoe Kohjang|Amphoe Ko Chang|Kau Chang|Amphoe Kau Chang|Laem Ngaup,12.1743,102.3952,Thailand,TH,THA,Trat,Trat,TH-23,province,minor,139.7,1771,1771,3,Asia/Bangkok,FALSE,1764881481
+Ban Bang Yi Rong,Ban Bang Yi Rong,Ban Yi Rong,13.4876,99.9233,Thailand,TH,THA,Samut Songkhram,Samut Songkhram,TH-75,province,,406.8,1765,1765,3,Asia/Bangkok,FALSE,1764248973
+Khian Sa,Khian Sa,King Amphoe Khian Sa|Amphoe Khian Sa|Ban Khian Sa,8.8463,99.1971,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,minor,68.1,1724,1724,3,Asia/Bangkok,FALSE,1764451186
+Kapoe,Kapoe,King Amphoe Kapoe|Amphoe Kapoe,9.5829,98.5941,Thailand,TH,THA,Ranong,Ranong,TH-85,province,minor,68.6,1605,1605,3,Asia/Bangkok,FALSE,1764072384
+Phato,Phato,Amphoe Phato|King Amphoe Phato|Ban Tha Sai,9.7866,98.7769,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,minor,24.8,1480,1480,3,Asia/Bangkok,FALSE,1764811762
+Bang Krathum,Bang Krathum,Amphoe Bang Krathum|King Bang Kathum|Bang Krathem|Ban Bang Krahtum|Bān Bang Gathum|Kathum|Bang Kathum|King Amphoe Bang Krathum,16.5667,100.3000,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,minor,184.6,1417,1417,3,Asia/Bangkok,FALSE,1764381469
+Wat Phleng,Wat Phleng,Ban Rong Wi|Rong Wi|King Amphoe Wat Phleng|Amphoe Wat Phleng|Amphoe Wat Pradu,13.4522,99.8852,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,minor,311.5,1396,1396,3,Asia/Bangkok,FALSE,1764943546
+Khao Saming,Khao Saming,Amphoe Si Bua Thong|Amphoe Thung Yai|Ban Khao Saming|Amphoe Khao Saming,12.3541,102.4353,Thailand,TH,THA,Trat,Trat,TH-23,province,minor,86.9,1388,1388,3,Asia/Bangkok,FALSE,1764784543
+Pathio,Pathio,Muang Patiou|Patiyu|Pathiu|Ban Sam|Banson|Bang Son|Bang San|Amphoe Patilieu|Amphoe Pathiu|Amphoe Padhio|Ban Bang Son|Amphoe Pathio,10.7043,99.3205,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,minor,58.6,1370,1370,3,Asia/Bangkok,FALSE,1764266246
+Ban Klang Wiang,Ban Klang Wiang,Amphoe Bun Yoen|Amphoe Bun Yeun|Klang Wieng|Bun Yun|Bunyeēn|Klang Wiang|Ban Klang Wieng|Amphoe Bun Yun|Bun Yeun|Ban Glang Wiang,18.5658,100.7360,Thailand,TH,THA,Nan,Nan,TH-55,province,,30.1,1359,1359,4,Asia/Bangkok,FALSE,1764818623
+Ban Sam Ruean,Ban Sam Ruean,Ban Sam Ruan (1),16.5964,100.3506,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,248.1,1340,1340,3,Asia/Bangkok,FALSE,1764992649
+Ko Lanta,Ko Lanta,Ko Lanta Yai|Ban Go Lanta|Lanta|Ban Ko Lanta|Koklanta Yai|Kau Lanta Yai|Ban Ko Lanta Yai|Amphoe Ko Lanta|Ban Koh Lanta|Amphoe Kohlanta|Amphoe Kau Lanta|Ban Koklanta Yai,7.5303,99.0942,Thailand,TH,THA,Krabi,Krabi,TH-81,province,minor,85.0,1186,1186,3,Asia/Bangkok,FALSE,1764794686
+Ko Yao,Ko Yao,King Ko Yao|King Amphoe Ko Yao|Ban Yai|Ban Ko Yao Noi|Thai Chang|Amphoe Ko Yao,8.1187,98.5905,Thailand,TH,THA,Phangnga,Phangnga,TH-82,province,minor,112.2,827,827,3,Asia/Bangkok,FALSE,1764101911
+Ban A-Hong,Ban A-Hong,Ban A Hong|Ban Na Ho,18.4208,103.4667,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,295.7,800,800,3,Asia/Bangkok,FALSE,1764605353
+Ban Chang Khian,Ban Chang Khian,Ban Chang Kian,18.8420,98.9040,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,2195.5,697,697,2,Asia/Bangkok,FALSE,1764205019
+Ban Dong Phayom,Ban Dong Phayom,,16.6172,100.3489,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,76.3,678,678,4,Asia/Bangkok,FALSE,1764049314
+Nong Kha Yang,Nong Kha Yang,Hnōhngkhāyāng|Naung Kha Yang|Ban Nong Kha Yang|Bān Naung Ka Yāng|Amphoe Nong Kha Yang|Nong Luang,15.3615,99.9379,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,minor,93.9,592,592,3,Asia/Bangkok,FALSE,1764587944
+Ban Laem Phra That,Ban Laem Phra That,,16.6369,100.4056,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,54.3,565,565,4,Asia/Bangkok,FALSE,1764866647
+Ban Ko Yuan,Ban Ko Yuan,Ban Ko Yuan (1),7.3085,100.4141,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,151.1,,,4,Asia/Bangkok,FALSE,1764000704
+Ban Ko Yuan,Ban Ko Yuan,,7.8529,99.8905,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,95.8,,,4,Asia/Bangkok,TRUE,1764554264
+Ban Ko Yuan,Ban Ko Yuan,Ban Yuan|Ban Ko Yuan (1),7.1589,100.3328,Thailand,TH,THA,Songkhla,Songkhla,TH-90,province,,235.5,,,3,Asia/Bangkok,FALSE,1764266093
+Ban Mai Mae Tia,Ban Mai Mae Tia,,18.4038,98.6506,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,73.5,,,4,Asia/Bangkok,FALSE,1764019574
+Ban Nong Tin Phueak,Ban Nong Tin Phueak,Ban Nong Tin Phuak,18.0308,103.8225,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,82.4,,,4,Asia/Bangkok,FALSE,1764000452
+Ban Huai Cham Rakam,Ban Huai Cham Rakam,,13.7358,101.3996,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,190.8,,,4,Asia/Bangkok,FALSE,1764268167
+Ban Pak Nam Cholo,Ban Pak Nam Cholo,Pak Nam Cholo,13.7333,101.2000,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,169.8,,,4,Asia/Bangkok,FALSE,1764483290
+Ban San Chao Mae,Ban San Chao Mae,Ban Talat San Chao Mae,16.1486,99.8087,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,,144.6,,,4,Asia/Bangkok,FALSE,1764211993
+Ban San Mana,Ban San Mana,Ban Sam Mana,20.4359,99.9375,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,273.5,,,3,Asia/Bangkok,FALSE,1764904141
+Ban San Mana,Ban San Mana,,20.0486,99.8774,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,141.1,,,4,Asia/Bangkok,TRUE,1764240946
+Ban San Mana,Ban San Mana,,19.8592,99.7778,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,141.1,,,4,Asia/Bangkok,TRUE,1764669026
+Ban Hua Thamnop,Ban Hua Thamnop,,15.9487,100.5809,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,,71.1,,,4,Asia/Bangkok,FALSE,1764226066
+Ban Tan Pak Nam,Ban Tan Pak Nam,,17.6467,104.4639,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,,80.0,,,4,Asia/Bangkok,FALSE,1764098449
+Ban Don Yang,Ban Don Yang,,15.7621,103.3618,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,136.8,,,4,Asia/Bangkok,FALSE,1764491033
+Ban Bo Tham,Ban Bo Tham,Bo Tham|Bān Boh Tham|Bān Bau Tham,15.9558,99.7653,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,,120.7,,,4,Asia/Bangkok,FALSE,1764454584
+Ban Suk Kasem,Ban Suk Kasem,,14.3207,100.1479,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,170.7,,,4,Asia/Bangkok,FALSE,1764499130
+Ban Non Thong Lang,Ban Non Thong Lang,,16.5823,102.0876,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,192.1,,,4,Asia/Bangkok,FALSE,1764077730
+Ban Non Thong Lang,Ban Non Thong Lang,,16.5119,102.1607,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,192.1,,,4,Asia/Bangkok,TRUE,1764185911
+Ban Non Thong Lang,Ban Non Thong Lang,,16.8541,102.1519,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,147.1,,,4,Asia/Bangkok,TRUE,1764987440
+Ban Huai Pak Khok,Ban Huai Pak Khok,,14.6585,98.5349,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,12.8,,,4,Asia/Bangkok,FALSE,1764802715
+Ban Bu Paep,Ban Bu Paep,,15.0310,102.9240,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,,117.8,,,4,Asia/Bangkok,FALSE,1764124030
+Ban Nong Phak Nam,Ban Nong Phak Nam,Naung Thak Nam|Ban Nong Fak Nam,13.2096,101.0190,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,618.7,,,3,Asia/Bangkok,FALSE,1764635457
+Ban Nong Phak Nam,Ban Nong Phak Nam,,12.7558,101.2047,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,306.5,,,3,Asia/Bangkok,FALSE,1764996860
+Ban Ok Mueang,Ban Ok Mueang,,7.6469,100.0472,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,284.0,,,3,Asia/Bangkok,FALSE,1764770583
+Ban Wang Nam Yen,Ban Wang Nam Yen,,5.8122,101.7380,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,,41.3,,,4,Asia/Bangkok,FALSE,1764029756
+Ban Khok Nong Waeng,Ban Khok Nong Waeng,,16.9671,103.2666,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,67.4,,,4,Asia/Bangkok,FALSE,1764413898
+Ban Nai Thaeo,Ban Nai Thaeo,,12.7694,101.3139,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,296.4,,,3,Asia/Bangkok,FALSE,1764663741
+Ban Bo Thonglang,Ban Bo Thonglang,Ban Bo Thong Lang,11.2169,99.5705,Thailand,TH,THA,Prachuap Khiri Khan,Prachuap Khiri Khan,TH-77,province,,87.3,,,4,Asia/Bangkok,FALSE,1764358825
+Ban Khua Khrae,Ban Khua Khrae,,19.9520,99.8500,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,141.1,,,4,Asia/Bangkok,FALSE,1764201089
+Ban Pong,Ban Pong,,17.0140,99.8723,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,218.6,,,3,Asia/Bangkok,FALSE,1764225644
+Ban Pong,Ban Pong,,17.4274,99.7391,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,49.4,,,4,Asia/Bangkok,TRUE,1764204283
+Ban Khua Khrae,Ban Khua Khrae,,18.5379,99.0692,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,278.4,,,3,Asia/Bangkok,FALSE,1764094237
+Ban Nong Nut,Ban Nong Nut,,8.1941,99.5910,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,149.7,,,4,Asia/Bangkok,FALSE,1764827167
+Ban Thung Na,Ban Thung Na,,15.3024,99.7191,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,,116.8,,,4,Asia/Bangkok,FALSE,1764200441
+Ban Thin Samran,Ban Thin Samran,,15.2592,105.1909,Thailand,TH,THA,Ubon Ratchathani,Ubon Ratchathani,TH-34,province,,151.9,,,4,Asia/Bangkok,FALSE,1764037025
+Ban Si Chawa,Ban Si Chawa,,14.9482,102.7761,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,,117.8,,,4,Asia/Bangkok,FALSE,1764650083
+Ban Khun Khlon,Ban Khun Khlon,,14.7167,100.8000,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,,420.6,,,3,Asia/Bangkok,FALSE,1764926907
+Ban Kham Thao,Ban Kham Thao,Ban Kan To,17.2632,104.7954,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,,153.9,,,4,Asia/Bangkok,FALSE,1764710323
+Ban Wat Bang Phli Yai Nai,Ban Wat Bang Phli Yai Nai,,13.6041,100.7211,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,1956.7,,,3,Asia/Bangkok,FALSE,1764506719
+Ban Yao Khun Nam Phrik Klang,Ban Yao Khun Nam Phrik Klang,,19.4833,100.6167,Thailand,TH,THA,Nan,Nan,TH-55,province,,18.2,,,4,Asia/Bangkok,FALSE,1764818612
+Ban Dong Theppharat,Ban Dong Theppharat,,14.9914,100.1468,Thailand,TH,THA,Chai Nat,Chai Nat,TH-18,province,,153.7,,,4,Asia/Bangkok,FALSE,1764068583
+Ban Bo Luk Rang,Ban Bo Luk Rang,,8.2362,99.4286,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,96.0,,,4,Asia/Bangkok,FALSE,1764392443
+Ban Phai Rop,Ban Phai Rop,,8.3761,99.9419,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,250.2,,,3,Asia/Bangkok,FALSE,1764943165
+Ban San Chao Mae,Ban San Chao Mae,,17.1659,99.8472,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,129.3,,,4,Asia/Bangkok,FALSE,1764152259
+Ban Nam Dan Tai,Ban Nam Dan Tai,,17.5456,98.4708,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,20.9,,,4,Asia/Bangkok,FALSE,1764319172
+Ban Khlong Tak Daet,Ban Khlong Tak Daet,,13.6329,100.2971,Thailand,TH,THA,Samut Sakhon,Samut Sakhon,TH-74,province,,4109.5,,,2,Asia/Bangkok,FALSE,1764231984
+Ban Dong Yang Tai,Ban Dong Yang Tai,,15.3084,100.0358,Thailand,TH,THA,Uthai Thani,Uthai Thani,TH-61,province,,185.6,,,4,Asia/Bangkok,FALSE,1764854056
+Ban Don Inthanin,Ban Don Inthanin,,8.0651,99.8921,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,337.9,,,3,Asia/Bangkok,FALSE,1764452322
+Ban Pho Tharam,Ban Pho Tharam,,12.7725,101.8642,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,,110.9,,,4,Asia/Bangkok,FALSE,1764812957
+Ban Chit,Ban Chit,,17.1861,103.1628,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,102.8,,,4,Asia/Bangkok,FALSE,1764973035
+Ban Non Si Thong,Ban Non Si Thong,,17.8905,103.2522,Thailand,TH,THA,Nong Khai,Nong Khai,TH-43,province,,104.0,,,4,Asia/Bangkok,FALSE,1764090684
+Ban Thanon Khong Wilai,Ban Thanon Khong Wilai,,16.1500,99.7333,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,,144.6,,,4,Asia/Bangkok,FALSE,1764235232
+Ban Hong Ha,Ban Hong Ha,,18.1731,99.4869,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,44.7,,,4,Asia/Bangkok,FALSE,1764176169
+Ban Chong U,Ban Chong U,Ban Song U,15.0269,102.1311,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,542.5,,,3,Asia/Bangkok,FALSE,1764041888
+Ban Dong Rang,Ban Dong Rang,,14.3892,99.7346,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,64.2,,,4,Asia/Bangkok,FALSE,1764142625
+Ban Dong Rang,Ban Dong Rang,,14.5500,98.9833,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,9.0,,,5,Asia/Bangkok,TRUE,1764330221
+Ban Dong Rang,Ban Dong Rang,,14.0972,99.7448,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,158.3,,,4,Asia/Bangkok,FALSE,1764737245
+Ban Dong Rang,Ban Dong Rang,,14.9084,99.6769,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,49.8,,,4,Asia/Bangkok,TRUE,1764379653
+Ban Wang Lanthom,Ban Wang Lanthom,,15.0753,100.0017,Thailand,TH,THA,Chai Nat,Chai Nat,TH-18,province,,77.8,,,4,Asia/Bangkok,FALSE,1764141742
+Ban Nong Pet,Ban Nong Pet,,17.0645,102.1912,Thailand,TH,THA,Nong Bua Lamphu,Nong Bua Lamphu,TH-39,province,,117.2,,,4,Asia/Bangkok,FALSE,1764214739
+Ban Pak Nam Tha Thong,Ban Pak Nam Tha Thong,,9.2322,99.5043,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,112.2,,,4,Asia/Bangkok,FALSE,1764025345
+Ban Charoen Sin,Ban Charoen Sin,,17.3170,103.9285,Thailand,TH,THA,Sakon Nakhon,Sakon Nakhon,TH-47,province,,83.2,,,4,Asia/Bangkok,FALSE,1764859608
+Ban Ko Ta Liang,Ban Ko Ta Liang,Kau Ta Liang|Bā Go Ta Liyang,17.1297,99.8536,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,129.3,,,4,Asia/Bangkok,FALSE,1764901271
+Ban Wa Bop Khi,Ban Wa Bop Khi,,17.3994,98.2720,Thailand,TH,THA,Tak,Tak,TH-63,province,,36.1,,,4,Asia/Bangkok,FALSE,1764934235
+Ban Dong Hin Dat,Ban Dong Hin Dat,,13.9557,101.5416,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,,184.9,,,4,Asia/Bangkok,FALSE,1764819495
+Ban Bue Nae Ka Se,Ban Bue Nae Ka Se,,6.6431,101.5170,Thailand,TH,THA,Pattani,Pattani,TH-94,province,,167.5,,,4,Asia/Bangkok,FALSE,1764130051
+Ban Nong Pling,Ban Nong Pling,,14.4167,100.6500,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,,247.3,,,3,Asia/Bangkok,FALSE,1764003292
+Ban Nong Pling,Ban Nong Pling,Ban Nong Pling (1),14.8740,100.5967,Thailand,TH,THA,Lop Buri,Lop Buri,TH-16,province,,375.1,,,3,Asia/Bangkok,FALSE,1764780883
+Ban Chuat Lang Hua Phai,Ban Chuat Lang Hua Phai,,13.5723,101.0932,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,284.5,,,3,Asia/Bangkok,FALSE,1764189817
+Ban Bua Khok Nuea,Ban Bua Khok Nuea,Ban Bua Khok,17.9150,104.0599,Thailand,TH,THA,Bueng Kan,Bueng Kan,TH-38,province,,87.9,,,4,Asia/Bangkok,FALSE,1764003933
+Ban Tan Yong Lu Lo,Ban Tan Yong Lu Lo,Kampong Tanyong Lulo|Kampong Tanjong Lulok,6.8800,101.3039,Thailand,TH,THA,Pattani,Pattani,TH-94,province,,1243.5,,,3,Asia/Bangkok,FALSE,1764333086
+Ban Champa Kham,Ban Champa Kham,,16.3350,103.7484,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,,108.4,,,4,Asia/Bangkok,FALSE,1764395358
+Ban Nong Makhwit,Ban Nong Makhwit,,14.5511,99.9900,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,300.5,,,3,Asia/Bangkok,FALSE,1764827577
+Ban Hang Chat Nua,Ban Hang Chat Nua,Ban Hang Sat,18.3333,99.3333,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,74.0,,,4,Asia/Bangkok,FALSE,1764521771
+Ban Phru Champa,Ban Phru Champa,Ban Phru Chan,8.0392,98.3203,Thailand,TH,THA,Phuket,Phuket,TH-83,province,,948.2,,,3,Asia/Bangkok,FALSE,1764177570
+Ban Nong Pling,Ban Nong Pling,Ban Nong Pling (1),14.3627,100.8093,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,,513.6,,,3,Asia/Bangkok,FALSE,1764892154
+Ban Dong Madak,Ban Dong Madak,Ban Nong Madak,14.7667,100.7333,Thailand,TH,THA,Saraburi,Saraburi,TH-19,province,,375.3,,,3,Asia/Bangkok,FALSE,1764474000
+Ban Om Phanom,Ban Om Phanom,Aum Phanom,13.2866,101.4228,Thailand,TH,THA,Chon Buri,Chon Buri,TH-20,province,,106.2,,,4,Asia/Bangkok,FALSE,1764913494
+Ban Pang Kop,Ban Pang Kop,Ban Pang Kop (2),19.2142,101.1316,Thailand,TH,THA,Nan,Nan,TH-55,province,,55.8,,,4,Asia/Bangkok,FALSE,1764777831
+Ban I Loet,Ban I Loet,I-Loet|Bān i Lart,17.0031,101.2450,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,,66.2,,,4,Asia/Bangkok,FALSE,1764082315
+Ban Nong Nak,Ban Nong Nak,,15.2580,104.0250,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,,132.4,,,4,Asia/Bangkok,FALSE,1764779798
+Ban Yu,Ban Yu,,19.0929,100.8452,Thailand,TH,THA,Nan,Nan,TH-55,province,,63.7,,,4,Asia/Bangkok,FALSE,1764687499
+Ban Nam Ning,Ban Nam Ning,,7.9229,99.4337,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,63.7,,,4,Asia/Bangkok,FALSE,1764991721
+Ban Hong Hai,Ban Hong Hai,Ban Nong Hai,17.1114,104.4961,Thailand,TH,THA,Nakhon Phanom,Nakhon Phanom,TH-48,province,,55.6,,,4,Asia/Bangkok,FALSE,1764514709
+Ban Thai Phiphat,Ban Thai Phiphat,,13.7356,101.1344,Thailand,TH,THA,Chachoengsao,Chachoengsao,TH-24,province,,209.0,,,3,Asia/Bangkok,FALSE,1764211197
+Ban Kao,Ban Kao,,12.7275,101.2886,Thailand,TH,THA,Rayong,Rayong,TH-21,province,,296.4,,,3,Asia/Bangkok,FALSE,1764395851
+Ban Hin Kong Noi,Ban Hin Kong Noi,,16.7357,102.8080,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,149.8,,,4,Asia/Bangkok,FALSE,1764823541
+Ban Pa Kae,Ban Pa Kae,,13.9587,100.0351,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,,408.5,,,3,Asia/Bangkok,FALSE,1764287590
+Ban Kao,Ban Kao,,12.5875,102.0643,Thailand,TH,THA,Chanthaburi,Chanthaburi,TH-22,province,,466.8,,,3,Asia/Bangkok,FALSE,1764894010
+Ban Huai Makham,Ban Huai Makham,,14.7494,99.9633,Thailand,TH,THA,Suphan Buri,Suphan Buri,TH-72,province,,115.0,,,4,Asia/Bangkok,FALSE,1764523459
+Ban Nong Thonglang,Ban Nong Thonglang,,13.8238,99.5955,Thailand,TH,THA,Kanchanaburi,Kanchanaburi,TH-71,province,,204.4,,,3,Asia/Bangkok,FALSE,1764558868
+Ban Kong Si,Ban Kong Si,,16.2690,102.3709,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,,116.9,,,4,Asia/Bangkok,FALSE,1764402866
+Ban Chong Rueang,Ban Chong Rueang,,8.8268,98.9054,Thailand,TH,THA,Surat Thani,Surat Thani,TH-84,province,,74.3,,,4,Asia/Bangkok,FALSE,1764608949
+Ban Rom Fa Thai,Ban Rom Fa Thai,,19.8461,100.4439,Thailand,TH,THA,Chiang Rai,Chiang Rai,TH-57,province,,65.7,,,4,Asia/Bangkok,FALSE,1764972544
+Ban Khom,Ban Khom,Bān Kuam|Ban Khuam,17.1650,100.0324,Thailand,TH,THA,Uttaradit,Uttaradit,TH-53,province,,121.0,,,4,Asia/Bangkok,FALSE,1764477217
+Ban Nong Sam Bat,Ban Nong Sam Bat,,13.8976,100.3281,Thailand,TH,THA,Nonthaburi,Nonthaburi,TH-12,province,,1358.7,,,3,Asia/Bangkok,FALSE,1764727520
+Ban Sam Muen,Ban Sam Muen,,16.9290,99.8555,Thailand,TH,THA,Sukhothai,Sukhothai,TH-64,province,,218.6,,,3,Asia/Bangkok,FALSE,1764033129
+Ban Han Kong,Ban Han Kong,,7.2118,100.1256,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,82.7,,,4,Asia/Bangkok,FALSE,1764339341
+Ban Taluk Hin,Ban Taluk Hin,,16.4731,100.5420,Thailand,TH,THA,Phichit,Phichit,TH-66,province,,112.2,,,4,Asia/Bangkok,FALSE,1764567289
+Ban Nong Bua Thong,Ban Nong Bua Thong,,15.7852,103.3206,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,136.8,,,4,Asia/Bangkok,FALSE,1764835439
+Ban Nong Bua Thong,Ban Nong Bua Thong,,15.5174,103.1606,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,108.2,,,4,Asia/Bangkok,TRUE,1764194671
+Ban Mae Tao Klang,Ban Mae Tao Klang,,16.6847,98.5768,Thailand,TH,THA,Tak,Tak,TH-63,province,,71.5,,,4,Asia/Bangkok,FALSE,1764404689
+Ban Lak Sip,Ban Lak Sip,,7.6741,100.0083,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,181.6,,,4,Asia/Bangkok,FALSE,1764676280
+Ban Lak Sip,Ban Lak Sip,Ban Lak 10,7.2247,100.0994,Thailand,TH,THA,Phatthalung,Phatthalung,TH-93,province,,82.7,,,4,Asia/Bangkok,TRUE,1764904805
+Ban Khlong Toei,Ban Khlong Toei,,14.5983,102.0227,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,115.8,,,4,Asia/Bangkok,FALSE,1764142431
+Ban Sa Kae,Ban Sa Kae,,15.6070,102.7887,Thailand,TH,THA,Buri Ram,Buri Ram,TH-31,province,,137.3,,,4,Asia/Bangkok,FALSE,1764143755
+Ban Nong Lan,Ban Nong Lan,,17.1221,100.8564,Thailand,TH,THA,Phitsanulok,Phitsanulok,TH-65,province,,44.2,,,4,Asia/Bangkok,FALSE,1764606953
+Ban Kham,Ban Kham,,18.8333,100.6667,Thailand,TH,THA,Nan,Nan,TH-55,province,,78.5,,,4,Asia/Bangkok,FALSE,1764895580
+Ban Sai Thong Phatthana,Ban Sai Thong Phatthana,,14.4691,101.8402,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,36.1,,,4,Asia/Bangkok,FALSE,1764174566
+Ban Nong Na Phatthana,Ban Nong Na Phatthana,,15.0907,102.7439,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,146.7,,,4,Asia/Bangkok,FALSE,1764383966
+Ban I No Nai,Ban I No Nai,,6.1922,101.5040,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,,54.4,,,4,Asia/Bangkok,FALSE,1764187171
+Ban Nong Bua Thong,Ban Nong Bua Thong,,17.1055,102.8828,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,32.1,,,4,Asia/Bangkok,FALSE,1764935547
+Ban Mae Bong,Ban Mae Bong,,17.9833,99.6667,Thailand,TH,THA,Phrae,Phrae,TH-54,province,,51.0,,,4,Asia/Bangkok,FALSE,1764768777
+Ban Non Wan Fai,Ban Non Wan Fai,,16.6885,102.1628,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,147.1,,,4,Asia/Bangkok,FALSE,1764158535
+Ban Khlong Bang Thuan,Ban Khlong Bang Thuan,,16.5379,99.4939,Thailand,TH,THA,Kamphaeng Phet,Kamphaeng Phet,TH-62,province,,202.1,,,3,Asia/Bangkok,FALSE,1764452196
+Ban Khlong Ku Phara,Ban Khlong Ku Phara,,13.5734,100.7190,Thailand,TH,THA,Samut Prakan,Samut Prakan,TH-11,province,,1956.7,,,3,Asia/Bangkok,FALSE,1764968288
+Ban To Doe,Ban To Doe,,6.2449,101.7950,Thailand,TH,THA,Narathiwat,Narathiwat,TH-96,province,,189.6,,,4,Asia/Bangkok,FALSE,1764153475
+Ban Pak Mro,Ban Pak Mro,Ban Pak Phrok|Ban Pak Mora (1),8.5997,99.8470,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,219.6,,,3,Asia/Bangkok,FALSE,1764406071
+Ban Na Sa,Ban Na Sa,,8.2857,99.9090,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,250.2,,,3,Asia/Bangkok,FALSE,1764051002
+Ban Wat Chan,Ban Wat Chan,,15.3027,102.6281,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,127.5,,,4,Asia/Bangkok,FALSE,1764214985
+Ban Huai Nam Daeng,Ban Huai Nam Daeng,,8.2279,99.1298,Thailand,TH,THA,Krabi,Krabi,TH-81,province,,51.1,,,4,Asia/Bangkok,FALSE,1764833928
+Ban Huai Nam Daeng,Ban Huai Nam Daeng,Ban Lam Dang,8.4894,99.8367,Thailand,TH,THA,Nakhon Si Thammarat,Nakhon Si Thammarat,TH-80,province,,439.1,,,3,Asia/Bangkok,FALSE,1764425085
+Ban Khong Khanan,Ban Khong Khanan,,15.6695,102.0366,Thailand,TH,THA,Chaiyaphum,Chaiyaphum,TH-36,province,,112.5,,,4,Asia/Bangkok,FALSE,1764874175
+Ban Hat Pu Dai,Ban Hat Pu Dai,Hat Pu Dai|Ban Pu Dai|Hādpūdai,18.0089,99.3212,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,113.2,,,4,Asia/Bangkok,FALSE,1764620740
+Ban Non Tum,Ban Non Tum,,16.0903,101.2203,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,,81.4,,,4,Asia/Bangkok,FALSE,1764467554
+Ban Non Tum,Ban Non Tum,,16.3696,100.8332,Thailand,TH,THA,Phetchabun,Phetchabun,TH-67,province,,77.7,,,4,Asia/Bangkok,TRUE,1764440723
+Ban Hat,Ban Hat,,18.3974,99.9297,Thailand,TH,THA,Lampang,Lampang,TH-52,province,,31.1,,,4,Asia/Bangkok,FALSE,1764863546
+Ban Non Chueak,Ban Non Chueak,Ban Non Chuak,16.5678,102.9129,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,149.8,,,4,Asia/Bangkok,FALSE,1764117198
+Ban Wang Yao Yai,Ban Wang Yao Yai,,16.7044,101.9526,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,192.1,,,4,Asia/Bangkok,FALSE,1764773777
+Ban Nong Sado,Ban Nong Sado,Ban Hnong Chado|Ban Nong Chado|Ban Hnong Chado|Ban Chado (1),14.4090,100.2926,Thailand,TH,THA,Phra Nakhon Si Ayutthaya,Phra Nakhon Si Ayutthaya,TH-14,province,,258.3,,,3,Asia/Bangkok,FALSE,1764236412
+Ban Nong Phak Nam,Ban Nong Phak Nam,,13.4591,102.1444,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,,207.0,,,3,Asia/Bangkok,FALSE,1764890593
+Ban Sa Ta Ko,Ban Sa Ta Ko,Ban Sa Tako,13.8187,99.7532,Thailand,TH,THA,Ratchaburi,Ratchaburi,TH-70,province,,437.1,,,3,Asia/Bangkok,FALSE,1764899933
+Ban Nong Kae,Ban Nong Kae,,16.5154,102.2880,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,192.1,,,4,Asia/Bangkok,FALSE,1764254634
+Ban Nong Kae,Ban Nong Kae,,15.8275,102.4634,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,151.8,,,4,Asia/Bangkok,TRUE,1764475647
+Ban Nong Kae,Ban Nong Kae,,16.0684,102.4343,Thailand,TH,THA,Khon Kaen,Khon Kaen,TH-40,province,,107.6,,,4,Asia/Bangkok,TRUE,1764113134
+Ban Nong Kae,Ban Nong Kae,,17.3270,102.7260,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,265.5,,,3,Asia/Bangkok,FALSE,1764956625
+Ban Nong Kae,Ban Nong Kae,,17.3513,102.9278,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,239.4,,,3,Asia/Bangkok,TRUE,1764645531
+Ban Nong Kae,Ban Nong Kae,,17.2091,102.9564,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,130.0,,,4,Asia/Bangkok,TRUE,1764814623
+Ban Nong Kae,Ban Nong Kae,,17.5763,102.6916,Thailand,TH,THA,Udon Thani,Udon Thani,TH-41,province,,68.4,,,4,Asia/Bangkok,TRUE,1764128024
+Ban Non Takua Tho Suea,Ban Non Takua Tho Suea,,15.2086,102.2207,Thailand,TH,THA,Nakhon Ratchasima,Nakhon Ratchasima,TH-30,province,,182.8,,,4,Asia/Bangkok,FALSE,1764218805
+Ban Hua Sai Lao,Ban Hua Sai Lao,,13.9773,100.1184,Thailand,TH,THA,Nakhon Pathom,Nakhon Pathom,TH-73,province,,215.2,,,3,Asia/Bangkok,FALSE,1764441690
+Ban Nong Kae,Ban Nong Kae,,15.7588,103.4057,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,136.8,,,4,Asia/Bangkok,FALSE,1764818600
+Ban Nong Kae,Ban Nong Kae,,16.0501,103.1724,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,120.2,,,4,Asia/Bangkok,TRUE,1764855967
+Ban Nong Kae,Ban Nong Kae,,15.5571,103.1481,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,108.2,,,4,Asia/Bangkok,TRUE,1764505796
+Ban Nong Kae,Ban Nong Kae,,15.6484,103.2704,Thailand,TH,THA,Maha Sarakham,Maha Sarakham,TH-44,province,,108.2,,,4,Asia/Bangkok,TRUE,1764464844
+Ban Nong Kae,Ban Nong Kae,,16.0580,103.6856,Thailand,TH,THA,Roi Et,Roi Et,TH-45,province,,246.3,,,3,Asia/Bangkok,FALSE,1764129452
+Ban Phae Yan,Ban Phae Yan,,18.4132,99.0151,Thailand,TH,THA,Lamphun,Lamphun,TH-51,province,,87.2,,,4,Asia/Bangkok,FALSE,1764646086
+Ban Bon Doi,Ban Bon Doi,,10.1826,98.9151,Thailand,TH,THA,Chumphon,Chumphon,TH-86,province,,83.9,,,4,Asia/Bangkok,FALSE,1764941165
+Ban Noen Makham,Ban Noen Makham,,13.6694,102.3765,Thailand,TH,THA,Sa Kaeo,Sa Kaeo,TH-27,province,,73.1,,,4,Asia/Bangkok,FALSE,1764610271
+Ban Sop Nong,Ban Sop Nong,,19.0466,100.7836,Thailand,TH,THA,Nan,Nan,TH-55,province,,63.7,,,4,Asia/Bangkok,FALSE,1764241339
+Ban Wang Than,Ban Wang Than,,18.7411,99.2286,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,408.5,,,3,Asia/Bangkok,FALSE,1764224643
+Ban Wang Than,Ban Wang Than,,18.9211,99.1377,Thailand,TH,THA,Chiang Mai,Chiang Mai,TH-50,province,,113.8,,,4,Asia/Bangkok,TRUE,1764907515
+Ban Bua Rarom,Ban Bua Rarom,,14.9804,104.4390,Thailand,TH,THA,Si Sa Ket,Si Sa Ket,TH-33,province,,92.1,,,4,Asia/Bangkok,FALSE,1764267075
+Ban Makham Thao,Ban Makham Thao,,15.5339,99.9925,Thailand,TH,THA,Nakhon Sawan,Nakhon Sawan,TH-60,province,,98.7,,,4,Asia/Bangkok,FALSE,1764971383
+Ban Don Din Daeng,Ban Don Din Daeng,,15.0656,99.9527,Thailand,TH,THA,Chai Nat,Chai Nat,TH-18,province,,77.8,,,4,Asia/Bangkok,FALSE,1764698714
+Ban Nong Saeng Nai,Ban Nong Saeng Nai,,14.0719,101.7034,Thailand,TH,THA,Prachin Buri,Prachin Buri,TH-25,province,,153.8,,,4,Asia/Bangkok,FALSE,1764531822
+Ban Thung Hong,Ban Thung Hong,Ban Thung,18.1683,100.1724,Thailand,TH,THA,Phrae,Phrae,TH-54,province,,172.3,,,4,Asia/Bangkok,FALSE,1764989791

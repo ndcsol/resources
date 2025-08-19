@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Rybnaya Vataga,Rybnaya Vataga,,57.2142,50.9827,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,3.7,,,5,Europe/Kirov,FALSE,1643647035
+Barsukovka,Barsukovka,Barsuk,54.6210,72.9724,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,15.4,,,4,Asia/Omsk,FALSE,1643733493
+Barsukovka,Barsukovka,,55.2281,72.7408,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,10.9,,,4,Asia/Omsk,TRUE,1643004214
+Zimovka,Zimovka,,55.0491,81.7369,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,8.6,,,5,Asia/Novosibirsk,FALSE,1643892836
+Verkhniy Begenyash,Verkhniy Begenyash,,53.8248,55.6024,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,18.3,,,4,Asia/Yekaterinburg,FALSE,1643713059
+Kemdin,Kemdin,,63.1776,54.4413,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,7.7,,,5,Europe/Moscow,FALSE,1643190373
+Nikolayevka,Nikolayevka,,52.7063,37.1196,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,14.4,,,4,Europe/Moscow,FALSE,1643406767
+Nikolayevka,Nikolayevka,,52.7167,36.6000,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,13.9,,,4,Europe/Moscow,TRUE,1643170485
+Nikolayevka,Nikolayevka,,52.7622,36.8187,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,12.1,,,4,Europe/Moscow,TRUE,1643492922
+Nikolayevka,Nikolayevka,,52.1776,36.9664,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,11.8,,,4,Europe/Moscow,TRUE,1643806503
+Nikolayevka,Nikolayevka,,52.7030,36.8213,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,9.4,,,5,Europe/Moscow,TRUE,1643827705
+Nikolayevka,Nikolayevka,,53.1556,37.4219,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,6.1,,,5,Europe/Moscow,TRUE,1643232466
+Kërdyugen,Kerdyugen,,62.3500,130.1333,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,2.8,,,3,Asia/Yakutsk,FALSE,1643355133
+Kërdyugen,Kerdyugen,,61.7333,131.0167,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,2.8,,,5,Asia/Yakutsk,TRUE,1643649840
+Kërdyugen,Kerdyugen,Kerdyugey,61.7500,127.3833,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.3,,,5,Asia/Yakutsk,TRUE,1643008726
+Novo-Nikitskoye,Novo-Nikitskoye,,57.1333,36.7833,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,4.4,,,5,Europe/Moscow,FALSE,1643348811
+Bratkovskoye,Bratkovskoye,Bratkovskiy,45.6389,39.3731,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,62.5,,,4,Europe/Moscow,FALSE,1643420057
+Lyp’ya,Lyp'ya,,61.1656,58.7549,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,1.4,,,5,Asia/Yekaterinburg,FALSE,1643418772
+Melyukhino,Melyukhino,,58.8766,54.8392,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643447673
+Tibeysale,Tibeysale,,67.2042,79.4534,Russia,RU,RUS,Yamalo-Nenetskiy Avtonomnyy Okrug,Yamalo-Nenetskiy Avtonomnyy Okrug,RU-YAN,autonomous region,,0.9,,,5,Asia/Yekaterinburg,FALSE,1643530205
+Bocharovo,Bocharovo,,52.4060,34.7395,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,16.2,,,4,Europe/Moscow,FALSE,1643704794
+Nikol’skiy,Nikol'skiy,Novonikol’skiy,52.8836,32.4243,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,20.5,,,4,Europe/Moscow,FALSE,1643055347
+Nikol’skiy,Nikol'skiy,,53.7314,33.2100,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,19.4,,,4,Europe/Moscow,TRUE,1643357166
+Nikol’skiy,Nikol'skiy,,51.9807,34.1507,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,12.5,,,4,Europe/Moscow,TRUE,1643842199
+Nikol’skiy,Nikol'skiy,,53.1806,33.8103,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,9.2,,,4,Europe/Moscow,TRUE,1643617152
+Yelizavetino,Yelizavetino,,55.7561,48.7712,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,13.9,,,4,Europe/Moscow,FALSE,1643368913
+Sloboda Yekaterininskaya,Sloboda Yekaterininskaya,Yekaterininskaya Sloboda,55.0122,51.0658,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,10.9,,,4,Europe/Moscow,FALSE,1643912409
+Pervomayskaya,Pervomayskaya,Pervomayskoye,57.4380,62.6986,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,6.1,,,5,Asia/Yekaterinburg,FALSE,1643026343
+Nozemskiye Isady,Nozemskiye Isady,,59.3033,40.6637,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,1.6,,,5,Europe/Moscow,FALSE,1643006021
+Baltamakhi,Baltamakhi,,42.2833,47.7167,Russia,RU,RUS,Dagestan,Dagestan,RU-DA,republic,,57.7,,,3,Europe/Moscow,FALSE,1643008424
+Kichi-Balyk,Kichi-Balyk,Kichy-Balyk,43.7907,42.6515,Russia,RU,RUS,Karachayevo-Cherkesiya,Karachayevo-Cherkesiya,RU-KC,province,,35.1,,,4,Europe/Moscow,FALSE,1643408159
+Glubokovskiy,Glubokovskiy,,49.4633,42.9055,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,5.7,,,5,Europe/Volgograd,FALSE,1643083153
+Votchinka,Votchinka,Votchino|Vodchinka,54.9947,35.6743,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,11.2,,,4,Europe/Moscow,FALSE,1643229157
+Glazuny,Glazuny,,57.4201,28.2005,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.8,,,5,Europe/Moscow,FALSE,1643307491
+Devletyakovo,Devletyakovo,,54.8196,42.7472,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,12.3,,,4,Europe/Moscow,FALSE,1643928111
+Baymurzino,Baymurzino,,55.2799,47.8582,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,15.1,,,4,Europe/Moscow,FALSE,1643480195
+Yoshkarener,Yoshkarener,,56.8744,48.3769,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,21.1,,,4,Europe/Moscow,FALSE,1643887908
+Satonkino,Satonkino,Satonkina,56.4549,29.7374,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.0,,,5,Europe/Moscow,FALSE,1643005891
+Martynki,Martynki,,57.5475,37.7202,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,FALSE,1643777558
+Adoyevshchina,Adoyevshchina,,52.2866,46.5032,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,13.0,,,4,Europe/Saratov,FALSE,1643960175
+Arbekovo,Arbekovo,,53.2415,44.8428,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,405.8,,,3,Europe/Moscow,FALSE,1643605518
+Neya,Neya,,58.4059,46.5265,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,3.3,,,5,Europe/Moscow,TRUE,1643926225
+Krasnyy Prud,Krasnyy Prud,Krasny Prud,52.3247,40.2594,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,21.8,,,4,Europe/Moscow,FALSE,1643343099
+Bol’shoy Dvor,Bol'shoy Dvor,,60.6361,47.7560,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,3.1,,,5,Europe/Kirov,FALSE,1643370084
+Grinëvo,Grinevo,,52.9167,36.5167,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,12.1,,,4,Europe/Moscow,FALSE,1643622065
+Cheremno,Cheremno,Cheremna,58.9667,30.4500,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,14.3,,,4,Europe/Moscow,FALSE,1643563610
+Chemyakina,Chemyakina,,53.8567,106.2833,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.5,,,5,Asia/Irkutsk,FALSE,1643000520
+Novorozino,Novorozino,Novo-Rozikha,54.6493,77.7847,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,5.9,,,5,Asia/Novosibirsk,FALSE,1643013462
+Dobrodeyevo,Dobrodeyevo,,58.4256,40.5245,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,5.5,,,5,Europe/Moscow,FALSE,1643212518
+Astrakhan’,Astrakhan',Astrakhan’ Perraya|Astrakhan’ Pervaya,57.8227,51.2635,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,3.8,,,5,Europe/Kirov,FALSE,1643634521
+Govyadovo,Govyadovo,,57.0317,40.9008,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,386.9,,,3,Europe/Moscow,FALSE,1643194129
+Kopretsovo,Kopretsovo,,59.2173,39.8054,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2331.1,,,2,Europe/Moscow,FALSE,1643627570
+Mal’tsevo,Mal'tsevo,,54.1653,43.1119,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,17.7,,,4,Europe/Moscow,FALSE,1643174690
+Novosëlok,Novoselok,,58.5862,36.7577,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,6.1,,,5,Europe/Moscow,FALSE,1643188009
+Novosëlok,Novoselok,,57.0620,32.3043,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,2.7,,,5,Europe/Moscow,TRUE,1643747936
+Petropavlovskiy,Petropavlovskiy,,52.0360,41.6859,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,11.8,,,4,Europe/Moscow,FALSE,1643484624
+Verkhneye Sotrino,Verkhneye Sotrino,Verkhne-Sotrino,59.4730,61.4091,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,15.3,,,4,Asia/Yekaterinburg,FALSE,1643858130
+Gulinga,Gulinga,,55.7500,116.8500,Russia,RU,RUS,Zabaykal’skiy Kray,Zabaykal'skiy Kray,RU-ZAB,district,,0.2,,,5,Asia/Chita,FALSE,1643201089
+Novyy Chad,Novyy Chad,,56.7628,55.5227,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,9.8,,,5,Asia/Yekaterinburg,FALSE,1643521145
+Vyazovoye,Vyazovoye,,56.6556,41.1612,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,12.7,,,4,Europe/Moscow,FALSE,1643706212
+Vyazovoye,Vyazovoye,,56.8356,39.4913,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,6.3,,,5,Europe/Moscow,TRUE,1643288611
+Malaya Valyukhta,Malaya Valyukhta,,59.4500,117.1000,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.2,,,5,Asia/Irkutsk,FALSE,1643661864
+Samsykino,Samsykino,,54.9284,36.3334,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,33.9,,,4,Europe/Moscow,FALSE,1643945348
+Staraya Yum’ya,Staraya Yum'ya,Srednyaya Yum’|Sredniy Yum’,56.0323,52.3741,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,24.7,,,4,Europe/Samara,FALSE,1643635786
+Titovka,Titovka,Tyurinmyaki,60.8167,29.8333,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.0,,,4,Europe/Moscow,FALSE,1643732846
+Krasnyy Yar,Krasnyy Yar,Krasny Yar,55.5825,46.1283,Russia,RU,RUS,Chuvashiya,Chuvashiya,RU-CU,republic,,23.5,,,4,Europe/Moscow,FALSE,1643272881
+Staraya Toropa,Staraya Toropa,Toropa,56.2801,31.6702,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.2,,,5,Europe/Moscow,FALSE,1643144692
+Podolitsy,Podolitsy,,57.4232,36.9905,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,10.1,,,4,Europe/Moscow,FALSE,1643121835
+Nelyubintsy,Nelyubintsy,,58.0731,49.9561,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,7.9,,,5,Europe/Kirov,FALSE,1643353394
+Zhuravki,Zhuravki,Suki,57.0612,28.7482,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,7.6,,,5,Europe/Moscow,FALSE,1643082474
+Isayevka,Isayevka,,53.9524,40.0399,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,18.2,,,4,Europe/Moscow,FALSE,1643101795
+Bezobrazovo,Bezobrazovo,,54.8247,37.1219,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,20.9,,,4,Europe/Moscow,FALSE,1643641185
+Shchepinskaya,Shchepinskaya,,60.6013,40.2155,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.8,,,5,Europe/Moscow,FALSE,1643024588
+Gorzheninovo,Gorzheninovo,,58.7608,43.2920,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.3,,,5,Europe/Moscow,FALSE,1643504352
+L’vovskiy,L'vovskiy,,53.9653,38.7728,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,35.4,,,4,Europe/Moscow,FALSE,1643892321
+Finy,Finy,Finny,56.8515,73.5001,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,3.2,,,5,Asia/Omsk,FALSE,1643216129
+Kovalenko,Kovalenko,,45.0345,37.5954,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,91.7,,,4,Europe/Moscow,FALSE,1643372370
+Kovalenko,Kovalenko,,44.9399,38.7537,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,55.4,,,4,Europe/Moscow,TRUE,1643031569
+Puzovka,Puzovka,,59.4819,42.5485,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.7,,,5,Europe/Moscow,FALSE,1643015356
+Tashlyki,Tashlyki,,57.8913,38.3111,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,8.9,,,5,Europe/Moscow,FALSE,1643376510
+Chernut’yevo,Chernut'yevo,,60.4167,56.9667,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,1.4,,,5,Asia/Yekaterinburg,FALSE,1643944545
+Nadëzhnyy,Nadezhnyy,,57.5964,126.0060,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.3,,,5,Asia/Yakutsk,FALSE,1643005504
+Novologinovo,Novologinovo,,56.5819,74.6123,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,6.4,,,5,Asia/Omsk,FALSE,1643307895
+Novologinovo,Novologinovo,Loginovo,56.4969,73.7809,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,2.6,,,5,Asia/Omsk,TRUE,1643004849
+Davletkulovo,Davletkulovo,,52.3750,56.0373,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,9.3,,,5,Asia/Yekaterinburg,FALSE,1643167795
+Glinino,Glinino,,57.7042,37.9100,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,8.9,,,5,Europe/Moscow,FALSE,1643072767
+Kresilovo,Kresilovo,,57.4802,34.0287,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,FALSE,1643923738
+Bol’shoy Dolzhik,Bol'shoy Dolzhik,Bolschoi Dolshik,47.6017,39.8544,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,14.7,,,4,Europe/Moscow,FALSE,1643151416
+Ristolovo,Ristolovo,,60.4167,30.3667,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.0,,,4,Europe/Moscow,FALSE,1643352527
+Serafimovskiy,Serafimovskiy,,52.2667,139.3000,Russia,RU,RUS,Khabarovskiy Kray,Khabarovskiy Kray,RU-KHA,district,,0.5,,,5,Asia/Vladivostok,FALSE,1643304198
+Yeletskiy,Yeletskiy,Yelets-factoriya|Yelets,67.0458,64.2144,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,3.8,,,5,Europe/Moscow,FALSE,1643727199
+Syrinkova,Syrinkova,,58.0167,41.3667,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,6.4,,,5,Europe/Moscow,FALSE,1643013222
+Gent,Gent,,42.8119,44.9906,Russia,RU,RUS,Ingushetiya,Ingushetiya,RU-IN,republic,,3.8,,,5,Europe/Moscow,FALSE,1643669160
+Kondratovo,Kondratovo,,56.1333,30.2833,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.3,,,5,Europe/Moscow,FALSE,1643044922
+Kondratovo,Kondratovo,,57.5349,28.8006,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.0,,,5,Europe/Moscow,TRUE,1643010951
+Kondratovo,Kondratovo,,58.5847,29.1667,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,TRUE,1643094285
+Kondratovo,Kondratovo,,56.7777,29.7061,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,TRUE,1643020596
+Vitinskiy,Vitinskiy,,56.2987,78.4153,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,0.7,,,5,Asia/Novosibirsk,FALSE,1643258744
+Verkhniy Shuban,Verkhniy Shuban,,56.3720,50.0738,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,31.3,,,4,Europe/Moscow,FALSE,1643829450
+Kol’kta,Kol'kta,,47.5181,46.7378,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,1.4,,,5,Europe/Moscow,FALSE,1643959917
+Smetanniki,Smetanniki,,58.4449,50.2674,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,8.4,,,5,Europe/Kirov,FALSE,1643007519
+Bol’shaya Talovka,Bol'shaya Talovka,,54.7333,87.8500,Russia,RU,RUS,Kemerovskaya Oblast’,Kemerovskaya Oblast',RU-KEM,province,,3.4,,,5,Asia/Novokuznetsk,FALSE,1643013137
+Sulega,Sulega,,57.9167,36.8760,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,10.2,,,4,Europe/Moscow,FALSE,1643617791
+Dmitriyev Usad,Dmitriyev Usad,,54.2297,43.2833,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,12.3,,,4,Europe/Moscow,FALSE,1643918116
+Khoroshilovo,Khoroshilovo,Khoroshilova,56.1833,37.4333,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,76.5,,,4,Europe/Moscow,FALSE,1643678582
+Khoroshilovo,Khoroshilovo,,55.3539,35.9072,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,30.6,,,4,Europe/Moscow,TRUE,1643631607
+Malyye Nyrsi,Malyye Nyrsi,,55.7571,50.3220,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,17.1,,,4,Europe/Moscow,FALSE,1643520554
+Chirkino,Chirkino,Chirkhino,55.1490,38.3417,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,76.8,,,4,Europe/Moscow,FALSE,1643843096
+Lyubitskoye,Lyubitskoye,Lyubitskoe,51.7492,49.3267,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,14.8,,,4,Europe/Saratov,FALSE,1643600002
+Ochir Daban,Ochir Daban,,50.6414,104.6328,Russia,RU,RUS,Buryatiya,Buryatiya,RU-BU,republic,,3.7,,,5,Asia/Irkutsk,FALSE,1643885345
+Siyeminki,Siyeminki,Sieminki,66.6333,30.0833,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,0.7,,,5,Europe/Moscow,FALSE,1643945177
+Yasachnyy Balykley,Yasachnyy Balykley,Balykley|Yasochny-Balykley|Yasochnyy-Balykley,52.3114,42.5603,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,11.6,,,4,Europe/Moscow,FALSE,1643737551
+Kanayyen,Kanayyen,Kanayen,69.8500,174.5500,Russia,RU,RUS,Chukotskiy Avtonomnyy Okrug,Chukotskiy Avtonomnyy Okrug,RU-CHU,autonomous region,,0,,,5,Asia/Anadyr,FALSE,1643274601
+Podlipki,Podlipki,,54.7348,34.1580,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,2.9,,,5,Europe/Moscow,FALSE,1643632946
+Polevodka,Polevodka,,50.2281,85.9951,Russia,RU,RUS,Altay,Altay,RU-AL,republic,,1.4,,,5,Asia/Barnaul,FALSE,1643287088
+Vorob’yëvo,Vorob'yevo,Vorob’yëva,59.6400,54.0404,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643536935
+Koklyasina,Koklyasina,,56.3465,65.9892,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,7.4,,,5,Asia/Yekaterinburg,FALSE,1643599547
+Arkhangel’skoye,Arkhangel'skoye,,52.4667,36.4000,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.4,,,4,Europe/Moscow,FALSE,1643823149
+Arkhangel’skoye,Arkhangel'skoye,,52.4016,36.2291,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.4,,,4,Europe/Moscow,TRUE,1643138904
+Arkhangel’skoye,Arkhangel'skoye,,53.0213,35.5929,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.1,,,4,Europe/Moscow,TRUE,1643981493
+Verkhniy,Verkhniy,,47.7050,39.9386,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,35.9,,,4,Europe/Moscow,FALSE,1643933247
+Shuty,Shuty,,56.3133,28.4315,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643292476
+Ust’-Bom,Ust'-Bom,Ust’-Bay|Znamenskiy,53.8000,130.4833,Russia,RU,RUS,Amurskaya Oblast’,Amurskaya Oblast',RU-AMU,province,,0.2,,,5,Asia/Yakutsk,FALSE,1643262453
+Tolstyye,Tolstyye,,53.5429,39.1094,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,9.0,,,5,Europe/Moscow,FALSE,1643562637
+Baranovka,Baranovka,,54.8473,43.1230,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,12.3,,,4,Europe/Moscow,FALSE,1643436587
+Khutor Legkodimov,Khutor Legkodimov,Legkodimov,48.4833,45.1167,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,11.2,,,4,Europe/Volgograd,FALSE,1643810792
+Marinichi,Marinichi,,53.0815,35.2266,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,23.4,,,4,Europe/Moscow,FALSE,1643721395
+Olëshkovo,Oleshkovo,Alëshkovo,57.8010,39.4411,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,36.4,,,4,Europe/Moscow,FALSE,1643948641
+Nadezhda,Nadezhda,,52.9445,35.9504,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,35.4,,,4,Europe/Moscow,FALSE,1643873138
+Nadezhda,Nadezhda,,52.6019,35.8614,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,19.8,,,4,Europe/Moscow,TRUE,1643652352
+Nadezhda,Nadezhda,,52.4380,36.0468,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,13.8,,,4,Europe/Moscow,TRUE,1643494368
+Sarmy,Sarmy,,55.2608,42.4989,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,42.6,,,4,Europe/Moscow,FALSE,1643505613
+Sachkovo,Sachkovo,,58.0047,31.8052,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,8.8,,,5,Europe/Moscow,FALSE,1643720427
+Solënyy,Solenyy,,51.5833,53.9833,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,6.5,,,5,Asia/Yekaterinburg,FALSE,1643665967
+Sharchino,Sharchino,Sharchina,54.2675,82.5344,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,6.8,,,5,Asia/Novosibirsk,FALSE,1643978692
+Gridino,Gridino,,54.2878,35.6708,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,9.5,,,5,Europe/Moscow,FALSE,1643616166
+Gridino,Gridino,,54.3881,34.0044,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,5.8,,,5,Europe/Moscow,TRUE,1643043939
+Shuvalov,Shuvalov,,56.9428,34.4404,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.4,,,5,Europe/Moscow,FALSE,1643856588
+Amirovka,Amirovka,,54.1851,50.1460,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,14.4,,,4,Europe/Ulyanovsk,FALSE,1643182081
+Berëzovaya,Berezovaya,,57.8690,45.3148,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,5.1,,,5,Europe/Moscow,FALSE,1643853601
+Lugansk,Lugansk,Luganskiy,53.6220,77.5991,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,11.2,,,4,Asia/Novosibirsk,FALSE,1643608354
+Malaya Retesha,Malaya Retesha,,54.6428,38.4339,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,26.4,,,4,Europe/Moscow,FALSE,1643008440
+Izboishchi,Izboishchi,Izboishche,58.9851,35.2757,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.4,,,5,Europe/Moscow,FALSE,1643177642
+Chervonnaya Zor’ka,Chervonnaya Zor'ka,,57.5333,65.2833,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,3.5,,,5,Asia/Yekaterinburg,FALSE,1643901923
+Fedotova,Fedotova,Fedotovskaya,55.2667,80.9167,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,2.8,,,5,Asia/Novosibirsk,FALSE,1643234754
+Rusanovo,Rusanovo,,61.7300,39.2370,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.7,,,5,Europe/Moscow,FALSE,1643018535
+Lyagayevo,Lyagayevo,Lyagayeva,59.5926,54.2150,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643664798
+Veslyana,Veslyana,Veslyany,62.9979,50.8916,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,0.8,,,5,Europe/Moscow,FALSE,1643201307
+Nadyashcher,Nadyashcher,,60.6285,58.0339,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,1.4,,,5,Asia/Yekaterinburg,FALSE,1643006865
+Vtoraya Alekseyevka,Vtoraya Alekseyevka,Alekseyevka,52.4259,41.1207,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,16.5,,,4,Europe/Moscow,FALSE,1643026604
+Ozhgikhino,Ozhgikhino,,56.4917,53.4847,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,12.5,,,4,Europe/Samara,FALSE,1643129420
+Ryazanka,Ryazanka,,57.0174,40.1783,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,15.5,,,4,Europe/Moscow,FALSE,1643371207
+Rusinovskaya,Rusinovskaya,,57.9162,38.2532,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,7.5,,,5,Europe/Moscow,FALSE,1643911775
+Verkhnyaya Izroga,Verkhnyaya Izroga,Verkhniy Izrog|Izrog,53.2581,37.8963,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,11.1,,,4,Europe/Moscow,FALSE,1643237273
+Yangi-Turmush,Yangi-Turmush,,54.2935,54.5944,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,22.5,,,4,Asia/Yekaterinburg,FALSE,1643633086
+Spasskoye-Krivtsovo,Spasskoye-Krivtsovo,Spasskoye Krivtsevo,53.3414,37.4174,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,11.6,,,4,Europe/Moscow,FALSE,1643560063
+Peskovskiy,Peskovskiy,,43.9689,43.0825,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,53.5,,,4,Europe/Moscow,FALSE,1643943213
+Omunshosh,Omunshosh,Omushosh,59.3347,62.9013,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,0.3,,,5,Asia/Yekaterinburg,FALSE,1643371525
+Malyy Marlyk,Malyy Marlyk,,47.6642,45.4808,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,2.5,,,5,Europe/Moscow,FALSE,1643230049
+Mordovskiye Syresi,Mordovskiye Syresi,,54.5697,46.4526,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,17.1,,,4,Europe/Moscow,FALSE,1643240883
+Bab’ya Gora,Bab'ya Gora,,57.9989,37.8802,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,7.5,,,5,Europe/Moscow,FALSE,1643341881
+Lipov,Lipov,,48.2077,40.5155,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,18.1,,,4,Europe/Moscow,FALSE,1643431849
+Vokhonovo,Vokhonovo,,59.5549,29.7961,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,83.8,,,4,Europe/Moscow,FALSE,1643432310
+Volotyn’,Volotyn',,52.6643,33.5525,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,18.3,,,4,Europe/Moscow,FALSE,1643751608
+Cheganda,Cheganda,,47.6657,47.9363,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,5.5,,,5,Europe/Astrakhan,FALSE,1643673768
+Rusakovo,Rusakovo,Rychkova,55.6303,65.4931,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,4.5,,,5,Asia/Yekaterinburg,FALSE,1643557704
+Buguruslanovka,Buguruslanovka,,53.6583,55.5481,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,18.1,,,4,Asia/Yekaterinburg,FALSE,1643191230
+Bol’shoy Mechek,Bol'shoy Mechek,,52.2600,39.3305,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,20.9,,,4,Europe/Moscow,FALSE,1643808156
+Andryushin,Andryushin,,45.7058,43.2519,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,15.9,,,4,Europe/Moscow,FALSE,1643245344
+Funtovo Vtoroye,Funtovo Vtoroye,,46.2078,48.1246,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,58.7,,,4,Europe/Astrakhan,FALSE,1643876313
+Pitkelëvo,Pitkelevo,,59.5318,29.8963,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,83.8,,,4,Europe/Moscow,FALSE,1643483360
+Karluk,Karluk,,52.4186,104.3017,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,8.7,,,5,Asia/Irkutsk,FALSE,1643006327
+Karluk,Karluk,,53.4255,105.9858,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.5,,,5,Asia/Irkutsk,TRUE,1643401086
+Kolomenka,Kolomenka,,53.3740,37.2951,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,11.6,,,4,Europe/Moscow,FALSE,1643153835
+Yamno,Yamno,,58.8196,31.6039,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,12.5,,,4,Europe/Moscow,FALSE,1643984412
+Yamno,Yamno,Yamna,57.5334,31.0026,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,1.4,,,5,Europe/Moscow,TRUE,1643459385
+Bobrovka,Bobrovka,,60.0333,69.9333,Russia,RU,RUS,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,RU-KHM,autonomous region,,3.2,,,5,Asia/Yekaterinburg,FALSE,1643868109
+Yangurcha,Yangurcha,,53.5500,55.1667,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,12.5,,,3,Asia/Yekaterinburg,FALSE,1643543880
+Pakhar’,Pakhar',,50.7288,47.7141,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,6.6,,,5,Europe/Saratov,FALSE,1643015552
+Malyy Zmeinets,Malyy Zmeinets,,52.0663,36.8257,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,8.5,,,5,Europe/Moscow,FALSE,1643600373
+Zatish’ye,Zatish'ye,,52.3693,38.8887,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,22.5,,,4,Europe/Moscow,FALSE,1643039025
+Bakhmakhi,Bakhmakhi,Bagli-Makhi,42.3000,47.5833,Russia,RU,RUS,Dagestan,Dagestan,RU-DA,republic,,57.7,,,3,Europe/Moscow,FALSE,1643746495
+Ul’yanikha,Ul'yanikha,,58.1529,37.7586,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,4.7,,,5,Europe/Moscow,FALSE,1643643095
+Aseyeva,Aseyeva,Aseyevo,53.4786,35.8193,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,13.8,,,4,Europe/Moscow,FALSE,1643173319
+Zhëltyye Prudy,Zheltyye Prudy,,50.9820,41.2209,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,17.4,,,4,Europe/Moscow,FALSE,1643311460
+Bychok,Bychok,Bychek,51.6669,37.9856,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.3,,,4,Europe/Moscow,FALSE,1643341297
+Zharikov,Zharikov,Zharikova,54.1792,34.5357,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,40.8,,,4,Europe/Moscow,FALSE,1643487800
+Mashkino,Mashkino,Mishkino,51.1333,39.3333,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,51.9,,,3,Europe/Moscow,FALSE,1643680480
+Penzino,Penzino,Penzenskiy,55.2857,78.8105,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,10.2,,,4,Asia/Novosibirsk,FALSE,1643723956
+Semistochnyy,Semistochnyy,,48.9617,132.6034,Russia,RU,RUS,Yevreyskaya Avtonomnaya Oblast’,Yevreyskaya Avtonomnaya Oblast',RU-YEV,autonomous province,,2.0,,,5,Asia/Vladivostok,FALSE,1643203264
+Pugachëvka,Pugachevka,Pugachëvo,55.3665,74.8182,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,4.5,,,5,Asia/Omsk,FALSE,1643622442
+Kortnëvo,Kortnevo,,54.6051,37.5915,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,22.4,,,4,Europe/Moscow,FALSE,1643267109
+Mokroye Pole,Mokroye Pole,,55.9667,57.5500,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,7.8,,,5,Asia/Yekaterinburg,FALSE,1643052544
+Bykovo,Bykovo,,57.5819,41.5912,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,17.6,,,4,Europe/Moscow,FALSE,1643576650
+Bykovo,Bykovo,,58.6500,42.3333,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,TRUE,1643423453
+Bykovo,Bykovo,,58.7018,42.6502,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,TRUE,1643289512
+Bykovo,Bykovo,,58.4872,43.0316,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.6,,,5,Europe/Moscow,TRUE,1643002797
+Bykovo,Bykovo,,58.1788,45.6949,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.3,,,5,Europe/Moscow,TRUE,1643958503
+Bykovo,Bykovo,,58.0226,45.6225,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.3,,,5,Europe/Moscow,TRUE,1643619750
+Bykovo,Bykovo,,58.2209,45.2611,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.3,,,5,Europe/Moscow,TRUE,1643206258
+Sugaki,Sugaki,,45.6567,38.5372,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,35.5,,,4,Europe/Moscow,FALSE,1643880382
+Tala-Kyuyël’,Tala-Kyuyel',,66.4507,150.0991,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.1,,,5,Asia/Srednekolymsk,FALSE,1643608154
+Tala-Kyuyël’,Tala-Kyuyel',Taly-Kyuyel’|Taala-Kyuyel’,68.6477,155.4530,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.0,,,5,Asia/Srednekolymsk,TRUE,1643042398
+Zagulan,Zagulan,,54.0723,106.4584,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.5,,,5,Asia/Irkutsk,FALSE,1643147158
+Mel’nikovka,Mel'nikovka,Mel’nikovskiy|Mel’nikov,53.1527,79.9596,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,10.1,,,4,Asia/Barnaul,FALSE,1643894721
+Posëlki,Poselki,Voroshilovka,53.8028,47.0342,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,17.9,,,4,Europe/Ulyanovsk,FALSE,1643212946
+Sakharovo,Sakharovo,,55.2921,37.1937,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,113.2,,,4,Europe/Moscow,FALSE,1643833342
+Khlevino,Khlevino,Khoyevino,55.1686,37.3398,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,113.2,,,4,Europe/Moscow,FALSE,1643165996
+Lunëvo,Lunevo,,55.3833,38.8806,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,209.7,,,3,Europe/Moscow,FALSE,1643219846
+Lunëvo,Lunevo,Sovkhoz Lunëvo|Posëlok Lunëvo,55.9900,37.3400,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,132.0,,,4,Europe/Moscow,TRUE,1643467558
+Kruteli,Kruteli,,55.4556,31.6967,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,5.2,,,5,Europe/Moscow,FALSE,1643651794
+Simany,Simany,Simani,57.2448,27.9733,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,9.3,,,5,Europe/Moscow,FALSE,1643277102
+Osel’ye,Osel'ye,,55.7742,35.9973,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,44.4,,,4,Europe/Moscow,FALSE,1643051788
+Nikitinskoye,Nikitinskoye,,56.7323,36.6173,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,33.1,,,4,Europe/Moscow,FALSE,1643697019
+Slepino,Slepino,,59.1831,29.0898,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.5,,,4,Europe/Moscow,FALSE,1643234110
+Kochegoshche,Kochegoshche,,58.3400,28.9281,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.6,,,5,Europe/Moscow,FALSE,1643091965
+Bel’tyuki,Bel'tyuki,,58.1892,50.5509,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,8.4,,,5,Europe/Kirov,FALSE,1643564764
+Yel’niki,Yel'niki,Yel’nik,58.0463,56.7212,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,248.5,,,3,Asia/Yekaterinburg,FALSE,1643864525
+Yel’niki,Yel'niki,Yel’nik,58.1898,56.5004,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,11.5,,,4,Asia/Yekaterinburg,TRUE,1643680251
+Tunguy,Tunguy,,55.0622,62.8512,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,7.5,,,5,Asia/Yekaterinburg,FALSE,1643000484
+Marchenkovka,Marchenkovka,Marchenkovo,50.2667,39.2167,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,22.7,,,3,Europe/Moscow,FALSE,1643457047
+Gavrilovskiy,Gavrilovskiy,Novo-Gavrilovskiy,52.4881,56.4992,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,9.4,,,5,Asia/Yekaterinburg,FALSE,1643677355
+Fokino,Fokino,Fokina,56.3382,96.8584,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,5.1,,,5,Asia/Krasnoyarsk,FALSE,1643829511
+Bashmakovo,Bashmakovo,,53.1519,35.2180,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,11.6,,,4,Europe/Moscow,FALSE,1643261249
+Yakovka,Yakovka,,57.1165,44.3000,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,11.7,,,4,Europe/Moscow,FALSE,1643225062
+Miryanga,Miryanga,,57.5922,47.5088,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,8.0,,,5,Europe/Moscow,FALSE,1643861744
+Soldaina,Soldaina,,53.6500,35.7667,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,4.8,,,5,Europe/Moscow,FALSE,1643557839
+Utinovka,Utinovka,,51.0554,40.8791,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,22.2,,,4,Europe/Moscow,FALSE,1643050854
+Yevlashëvo,Yevlashevo,,59.4766,39.6101,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,10.4,,,4,Europe/Moscow,FALSE,1643453711
+Nizhnyaya Yaroslavka,Nizhnyaya Yaroslavka,,53.2396,41.0586,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,11.3,,,4,Europe/Moscow,FALSE,1643497871
+Kurasy,Kurasy,,51.3822,35.8786,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.8,,,4,Europe/Moscow,FALSE,1643996512
+Kukla,Kukla,Poselok Kukla,57.5833,94.7167,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,1.3,,,5,Asia/Krasnoyarsk,FALSE,1643524997
+Vaksintsy,Vaksintsy,Baksintsy,59.3825,50.5632,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,1.2,,,5,Europe/Kirov,FALSE,1643718541
+Novopeschanyy,Novopeschanyy,,46.9161,42.3094,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,12.4,,,4,Europe/Moscow,FALSE,1643501897
+Petushki,Petushki,,52.9273,37.1176,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,9.9,,,5,Europe/Moscow,FALSE,1643828965
+Kalmykovka,Kalmykovka,Kalmytskiy,53.6772,50.6489,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,22.3,,,4,Europe/Samara,FALSE,1643303313
+Martynovka,Martynovka,,51.2414,35.3647,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,24.6,,,4,Europe/Moscow,FALSE,1643652849
+Saltykovka,Saltykovka,,55.8392,52.2470,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,54.4,,,4,Europe/Moscow,FALSE,1643835427
+Vozvrashcheniye,Vozvrashcheniye,Vozvrashchenskoye|Anbetsu|Amobetsu|Ambetsu|Anbetu,49.9914,142.1605,Russia,RU,RUS,Sakhalinskaya Oblast’,Sakhalinskaya Oblast',RU-SAK,province,,1.1,,,4,Asia/Sakhalin,FALSE,1643011832
+Lebedevo,Lebedevo,,58.9833,34.5500,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,4.4,,,5,Europe/Moscow,FALSE,1643242212
+Myshbor,Myshbor,Myzhbor,54.0503,36.1867,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,30.4,,,4,Europe/Moscow,FALSE,1643571728
+Kolokol’nya,Kolokol'nya,,57.4653,34.8040,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,FALSE,1643391537
+Norbuzh’ye,Norbuzh'ye,,57.1795,37.3776,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,14.2,,,4,Europe/Moscow,FALSE,1643792449
+Kulikovo,Kulikovo,,54.5083,39.2267,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,23.7,,,4,Europe/Moscow,FALSE,1643344568
+Irkutskoye,Irkutskoye,,56.3764,93.1217,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,3.5,,,5,Asia/Krasnoyarsk,FALSE,1643507347
+Bacharkhe,Bacharkhe,,42.6381,45.9286,Russia,RU,RUS,Chechnya,Chechnya,RU-CE,republic,,6.2,,,5,Europe/Moscow,FALSE,1643022790
+Kezhma,Kezhma,Verkhnyaya Kezhma|Verkhnyaya Kezhema,56.2333,102.4833,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.8,,,5,Asia/Irkutsk,FALSE,1643186562
+Staraya Samodurovka,Staraya Samodurovka,,53.7333,43.7667,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,12.0,,,4,Europe/Moscow,FALSE,1643376671
+Khvoshchevik,Khvoshchevik,,58.6571,33.3294,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.0,,,5,Europe/Moscow,FALSE,1643774834
+Karpelovo,Karpelovo,,58.6005,35.9679,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.3,,,5,Europe/Moscow,FALSE,1643488426
+Verkhniye Rechki,Verkhniye Rechki,,57.8434,54.7884,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,15.8,,,4,Asia/Yekaterinburg,FALSE,1643019156
+Utalay,Utalay,,54.3385,100.9098,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.8,,,5,Asia/Irkutsk,FALSE,1643647019
+Kirbi,Kirbi,,55.5614,49.3186,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,25.4,,,4,Europe/Moscow,FALSE,1643321308
+Tolsha,Tolsha,,54.8361,37.8835,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,21.9,,,4,Europe/Moscow,FALSE,1643675435
+Dednya,Dednya,,55.1332,37.0186,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,35.9,,,4,Europe/Moscow,FALSE,1643311310
+Krasnyy Partizan,Krasnyy Partizan,,45.6492,41.1022,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,33.4,,,4,Europe/Moscow,FALSE,1643231060
+Boyarkino,Boyarkino,,53.7633,46.4079,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,15.5,,,4,Europe/Ulyanovsk,FALSE,1643358552
+Verkhniy Khurumpaul’,Verkhniy Khurumpaul',Verkhniy Khurym-Paul’,63.9543,61.1008,Russia,RU,RUS,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,RU-KHM,autonomous region,,3.2,,,5,Asia/Yekaterinburg,FALSE,1643053736
+Antipovka,Antipovka,,52.0833,52.0667,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,9.8,,,5,Asia/Yekaterinburg,FALSE,1643910989
+Bol’shoy Brod,Bol'shoy Brod,,58.5660,29.8911,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,14.3,,,4,Europe/Moscow,FALSE,1643203682
+Ozerki,Ozerki,Pridonskiy,47.6055,40.5331,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,35.9,,,4,Europe/Moscow,FALSE,1643009945
+Kuchozero Vtoroye,Kuchozero Vtoroye,Kuch Ozero,61.6000,33.0667,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,2.2,,,5,Europe/Moscow,FALSE,1643017262
+Sedanka-Osedlaya,Sedanka-Osedlaya,Sedanka,57.6000,159.0000,Russia,RU,RUS,Kamchatskiy Kray,Kamchatskiy Kray,RU-KAM,district,,0.1,,,5,Asia/Kamchatka,FALSE,1643451992
+Kopan’,Kopan',,56.6129,42.6278,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,6.0,,,5,Europe/Moscow,FALSE,1643123064
+Sharapovskaya Gorka,Sharapovskaya Gorka,,60.0135,36.0209,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.2,,,5,Europe/Moscow,FALSE,1643438322
+Travino,Travino,,53.3387,38.5827,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,10.5,,,4,Europe/Moscow,FALSE,1643955338
+Novaya Ul'yanovka,Novaya Ul'yanovka,,52.7653,42.3895,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,15.4,,,4,Europe/Moscow,FALSE,1643011052
+Nizhnyaya Gerasimovka,Nizhnyaya Gerasimovka,,48.2977,39.9466,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,19.1,,,4,Europe/Moscow,FALSE,1643589523
+Il’inskoye-Khovanskoye,Il'inskoye-Khovanskoye,,56.9718,39.7684,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,minor,6.3,,,3,Europe/Moscow,FALSE,1643372884
+Bushnëvo,Bushnevo,Sofka-Bushnevo,58.5383,42.8706,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.6,,,5,Europe/Moscow,FALSE,1643043644
+Terenttilya,Terenttilya,,60.6167,30.4833,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.0,,,4,Europe/Moscow,FALSE,1643238645
+Vruda,Vruda,Posëlok Vruda,59.4225,29.2889,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.5,,,4,Europe/Moscow,FALSE,1643901329
+Chechenino,Chechenino,Chechinino,57.4545,57.4223,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.4,,,5,Asia/Yekaterinburg,FALSE,1643389879
+Znamenskiy,Znamenskiy,,51.9333,55.7000,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,11.6,,,4,Asia/Yekaterinburg,FALSE,1643798830
+Bakhtiyevo,Bakhtiyevo,Bakhtnëvo|Bakhteyevo,57.8672,52.9411,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,13.7,,,4,Europe/Samara,FALSE,1643882593
+Gasporovo,Gasporovo,,56.4196,28.2403,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643313906
+Gasporovo,Gasporovo,,56.3432,28.4561,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,TRUE,1643078826
+Mozyarovo,Mozyarovo,Mazyarova,58.7446,56.8010,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,11.5,,,4,Asia/Yekaterinburg,FALSE,1643514921
+Mangushevo,Mangushevo,Nangusheva,55.2758,45.4096,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,12.3,,,4,Europe/Moscow,FALSE,1643244731
+Staryy Mostyak,Staryy Mostyak,Stary Mostyak,52.6986,47.4132,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,11.3,,,4,Europe/Ulyanovsk,FALSE,1643569092
+Rakhkayarvi,Rakhkayarvi,,60.7500,30.4000,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.0,,,4,Europe/Moscow,FALSE,1643154201
+Zamarayka,Zamarayka,,52.0714,37.8036,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,17.7,,,4,Europe/Moscow,FALSE,1643142707
+Zamarayka,Zamarayka,,53.3350,38.5900,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,15.8,,,4,Europe/Moscow,TRUE,1643572980
+Kupchik,Kupchik,Kuptschik,60.6500,56.2000,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,1.1,,,3,Asia/Yekaterinburg,FALSE,1643546416
+Khodeykovo,Khodeykovo,Khodeyekovo,51.4119,34.2686,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,24.7,,,4,Europe/Moscow,FALSE,1643213959
+Novoye Pyatino,Novoye Pyatino,,52.8281,43.3917,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,12.7,,,4,Europe/Moscow,FALSE,1643138765
+Garekay,Garekay,,55.4500,100.7833,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.8,,,5,Asia/Irkutsk,FALSE,1643473586
+Doroshenko,Doroshenko,,44.9500,40.5464,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,69.4,,,4,Europe/Moscow,FALSE,1643001452
+Kochemli,Kochemli,Kachemli,57.4167,37.0167,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,FALSE,1643183090
+Kulovo,Kulovo,,57.4667,36.6833,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,10.2,,,4,Europe/Moscow,FALSE,1643291419
+Parfenova,Parfenova,,58.8583,54.2719,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643007821
+Srednëvo Bol’shoye,Srednevo Bol'shoye,Serednëvo,56.9300,41.6200,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,18.6,,,4,Europe/Moscow,FALSE,1643010772
+Garovka Vtoraya,Garovka Vtoraya,,48.4092,135.2183,Russia,RU,RUS,Khabarovskiy Kray,Khabarovskiy Kray,RU-KHA,district,,2.7,,,5,Asia/Vladivostok,FALSE,1643594376
+Kreksha,Kreksha,,58.0381,31.3251,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,14.0,,,4,Europe/Moscow,FALSE,1643843201
+Sundukovo,Sundukovo,,56.3209,28.4989,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643980102
+Fufayki,Fufayki,,58.5392,44.3094,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,4.7,,,5,Europe/Moscow,FALSE,1643190697
+Davydkovo,Davydkovo,,57.5426,62.7037,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,6.1,,,5,Asia/Yekaterinburg,FALSE,1643932937
+Fishkovo,Fishkovo,,56.8089,29.8352,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,FALSE,1643872923
+Antsirskaya Dacha,Antsirskaya Dacha,,56.2836,95.5742,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,6.1,,,5,Asia/Krasnoyarsk,FALSE,1643008733
+Chaplygino,Chaplygino,,51.8975,36.1883,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,29.8,,,4,Europe/Moscow,FALSE,1643537985
+Chaplygino,Chaplygino,,52.0329,36.4340,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,17.8,,,4,Europe/Moscow,TRUE,1643103735
+Chaplygino,Chaplygino,,52.0833,35.8333,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.2,,,4,Europe/Moscow,TRUE,1643016215
+Lisikhino,Lisikhino,,57.1722,28.2293,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,11.0,,,4,Europe/Moscow,FALSE,1643020601
+Lisikhino,Lisikhino,,57.4246,28.1219,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,TRUE,1643020581
+Bol’shiye Telyapki,Bol'shiye Telyapki,,58.5000,46.8333,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,2.4,,,5,Europe/Kirov,FALSE,1643454096
+Buzarkino,Buzarkino,,57.6838,39.5683,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,25.2,,,4,Europe/Moscow,FALSE,1643791641
+Buzinovo,Buzinovo,Buzinov,47.4714,39.0922,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,44.7,,,4,Europe/Moscow,FALSE,1643299699
+Zobovka,Zobovka,,52.8780,36.9104,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,12.1,,,4,Europe/Moscow,FALSE,1643498017
+Znamenka,Znamenka,,51.2746,36.1690,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,27.2,,,4,Europe/Moscow,FALSE,1643040040
+Znamenka,Znamenka,,51.4458,36.3007,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.8,,,4,Europe/Moscow,TRUE,1643454697
+Znamenka,Znamenka,Znamenskoye,51.4687,37.7562,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,12.1,,,4,Europe/Moscow,TRUE,1643009488
+Dmitrovtsy,Dmitrovtsy,Dmitriyevtsy,55.2395,38.9155,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,44.9,,,4,Europe/Moscow,FALSE,1643981761
+Kharitonovo,Kharitonovo,,56.7953,41.5896,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,18.6,,,4,Europe/Moscow,FALSE,1643724487
+Kharitonovo,Kharitonovo,,56.5992,40.5411,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,8.8,,,5,Europe/Moscow,TRUE,1643634118
+Girly,Girly,,50.0318,39.1092,Russia,RU,RUS,Belgorodskaya Oblast’,Belgorodskaya Oblast',RU-BEL,province,,18.4,,,4,Europe/Moscow,FALSE,1643011927
+Loshach’ye,Loshach'ye,,54.2081,37.1935,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,16.7,,,4,Europe/Moscow,FALSE,1643493013
+Pchela,Pchela,Lipovka,55.8000,58.6333,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,6.4,,,5,Asia/Yekaterinburg,FALSE,1643741471
+Lenintsy,Lenintsy,,50.8693,44.5774,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.6,,,5,Europe/Volgograd,FALSE,1643442190
+Buysk,Buysk,Buyskaya,57.8729,49.7268,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.0,,,5,Europe/Kirov,FALSE,1643658867
+Korotovo,Korotovo,,55.9284,34.6309,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.3,,,5,Europe/Moscow,FALSE,1643649073
+Sobakayevo,Sobakayevo,,54.1500,49.6667,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,10.8,,,4,Europe/Ulyanovsk,FALSE,1643850864
+Plavitsa,Plavitsa,,53.5512,37.2638,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,24.7,,,4,Europe/Moscow,FALSE,1643073016
+Novochistnoye,Novochistnoye,,56.6373,43.6678,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,63.5,,,4,Europe/Moscow,FALSE,1643083437
+Vysokovo,Vysokovo,,58.7599,35.4439,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.3,,,5,Europe/Moscow,FALSE,1643227533
+Vysokovo,Vysokovo,Vysokova,58.3341,30.4025,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,5.7,,,5,Europe/Moscow,TRUE,1643369949
+Vysokovo,Vysokovo,Vysekovo,58.8022,33.7733,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.0,,,5,Europe/Moscow,TRUE,1643188389
+Sharvol’,Sharvol',Sharvon,59.3170,55.2359,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643323437
+Zapadnyy,Zapadnyy,,43.3599,131.9687,Russia,RU,RUS,Primorskiy Kray,Primorskiy Kray,RU-PRI,district,,23.2,,,4,Asia/Vladivostok,FALSE,1643609470
+Vyazoviki,Vyazoviki,,58.1435,37.9711,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,4.7,,,5,Europe/Moscow,FALSE,1643570319
+Cheremshanka,Cheremshanka,,56.6102,75.4841,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,3.4,,,5,Asia/Omsk,FALSE,1643932488
+Karavanskiy,Karavanskiy,,44.4506,39.6158,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,41.5,,,4,Europe/Moscow,FALSE,1643730403
+Peresyp’,Peresyp',,51.0907,36.4646,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,27.2,,,4,Europe/Moscow,FALSE,1643693736
+Zezezeno,Zezezeno,,54.5619,92.4386,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,1.9,,,5,Asia/Krasnoyarsk,FALSE,1643660159
+Startsevo,Startsevo,,56.4846,43.3202,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,84.4,,,4,Europe/Moscow,FALSE,1643170956
+Startsevo,Startsevo,,56.9052,43.6486,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,63.5,,,4,Europe/Moscow,TRUE,1643230430
+Startsevo,Startsevo,,56.9645,43.5834,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,10.1,,,4,Europe/Moscow,TRUE,1643548666
+Buzinka,Buzinka,,45.5731,40.0406,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,48.5,,,4,Europe/Moscow,FALSE,1643770316
+Mochenga,Mochenga,Mozeyuga,52.2667,141.3167,Russia,RU,RUS,Khabarovskiy Kray,Khabarovskiy Kray,RU-KHA,district,,1.9,,,5,Asia/Vladivostok,FALSE,1643995381
+Bor,Bor,,56.4357,30.2051,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.0,,,5,Europe/Moscow,FALSE,1643258445
+Bor,Bor,,56.7860,29.3261,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.0,,,5,Europe/Moscow,TRUE,1643003382
+Bor,Bor,,55.7056,30.9531,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,4.4,,,5,Europe/Moscow,TRUE,1643182678
+Bor,Bor,,56.6295,30.1775,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.7,,,5,Europe/Moscow,TRUE,1643151437
+Bor,Bor,,58.7937,28.6586,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,TRUE,1643005808
+Lyusiner,Lyusiner,Lopovo,56.5661,50.1704,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,14.5,,,4,Europe/Moscow,FALSE,1643396250
+Rodnichnyy Dol,Rodnichnyy Dol,,51.7989,54.5531,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,9.5,,,5,Asia/Yekaterinburg,FALSE,1643807010
+Tuzha,Tuzha,,57.6679,47.9494,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,4.6,,,5,Europe/Kirov,FALSE,1643019391
+Salovka,Salovka,,54.3378,45.0323,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,36.6,,,4,Europe/Moscow,FALSE,1643805976
+Irym,Irym,,57.6326,53.6268,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,11.8,,,4,Europe/Samara,FALSE,1643660568
+Nikol’sk,Nikol'sk,,53.1551,31.5381,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,11.6,,,4,Europe/Moscow,FALSE,1643961051
+Gromozdovo,Gromozdovo,,53.7242,35.9097,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,4.8,,,5,Europe/Moscow,FALSE,1643472205
+Ust’-Gilyuy,Ust'-Gilyuy,Beloborodova,53.9500,127.4333,Russia,RU,RUS,Amurskaya Oblast’,Amurskaya Oblast',RU-AMU,province,,0.2,,,5,Asia/Yakutsk,FALSE,1643990957
+Parashin,Parashin,,52.7833,50.1167,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,8.4,,,5,Europe/Samara,FALSE,1643214380
+Tselinnoye,Tselinnoye,Iriklinskiy,51.6500,59.2667,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,9.3,,,5,Asia/Yekaterinburg,FALSE,1643537771
+Aksent’yevo,Aksent'yevo,,55.3242,33.6906,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,25.3,,,4,Europe/Moscow,FALSE,1643628126
+Lomovatyy,Lomovatyy,Staryy Lomovatyy,58.9500,87.8667,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.4,,,5,Asia/Tomsk,FALSE,1643010029
+Slyudyanka,Slyudyanka,Malaya Slyudyanka,57.9689,112.7636,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.1,,,5,Asia/Irkutsk,TRUE,1643247564
+Kalinovyy Kust,Kalinovyy Kust,,54.2729,50.9570,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,14.5,,,4,Europe/Samara,FALSE,1643903955
+Vil’gurt,Vil'gurt,,56.3900,55.2722,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,9.5,,,5,Asia/Yekaterinburg,FALSE,1643303900
+Durbet,Durbet,,55.3282,71.1978,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,3.9,,,5,Asia/Omsk,FALSE,1643467932
+Oktyabr’skiy,Oktyabr'skiy,,60.1250,42.6846,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.7,,,5,Europe/Moscow,FALSE,1643564016
+Oktyabr’skiy,Oktyabr'skiy,,60.6408,38.1494,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.6,,,5,Europe/Moscow,TRUE,1643264262
+Sopino,Sopino,Sopina,58.7082,55.0903,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.8,,,5,Asia/Yekaterinburg,FALSE,1643397075
+Protsayev,Protsayev,,44.9867,39.4931,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,82.1,,,4,Europe/Moscow,FALSE,1643482300
+Oktyabr’skiy,Oktyabr'skiy,,56.2189,42.0407,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,34.2,,,4,Europe/Moscow,FALSE,1643579789
+Klyushnikovo,Klyushnikovo,,59.1875,39.4868,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,10.4,,,4,Europe/Moscow,FALSE,1643902411
+Styazhkino,Styazhkino,,53.6469,43.4250,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,22.5,,,4,Europe/Moscow,FALSE,1643013729
+Shin’sha,Shin'sha,Shin’shi,56.4239,49.3661,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,13.5,,,4,Europe/Moscow,FALSE,1643976289
+Sable,Sable,,58.5599,30.6131,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,3.5,,,5,Europe/Moscow,FALSE,1643039261
+Sabry,Sabry,,59.5744,30.2842,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,83.8,,,4,Europe/Moscow,FALSE,1643288980
+Staroye Stenino,Staroye Stenino,,56.0756,39.4177,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,37.8,,,4,Europe/Moscow,FALSE,1643262657
+Novotroitskiy,Novotroitskiy,,52.9000,50.8667,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,24.5,,,4,Europe/Samara,FALSE,1643801866
+Utyashevo,Utyashevo,,53.9833,56.9667,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,11.0,,,4,Asia/Yekaterinburg,FALSE,1643152147
+Mazanov,Mazanov,,45.6256,39.4828,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,62.5,,,4,Europe/Moscow,FALSE,1643244025
+Volkolovo,Volkolovo,Volkolova|Vonkolovo,60.3667,30.3167,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,25.9,,,4,Europe/Moscow,FALSE,1643076863
+Yesina,Yesina,,53.4850,36.0814,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,13.8,,,4,Europe/Moscow,FALSE,1643217491
+Ryadchino,Ryadchino,,61.0558,38.4939,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.7,,,5,Europe/Moscow,FALSE,1643818822
+Lubyagino,Lubyagino,,61.1390,48.2711,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,2.2,,,5,Europe/Moscow,FALSE,1643123493
+Yakushovo,Yakushovo,Yakushevo,56.7910,28.4441,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,4.8,,,5,Europe/Moscow,FALSE,1643627301
+Tugustemir,Tugustemir,Tuguz-Temir,52.5550,56.0961,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,9.3,,,5,Asia/Yekaterinburg,FALSE,1643954401
+Grivy,Grivy,Grivskaya,64.3417,41.0338,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.4,,,5,Europe/Moscow,FALSE,1643336056
+Serzhantovo,Serzhantovo,,44.4410,135.7474,Russia,RU,RUS,Primorskiy Kray,Primorskiy Kray,RU-PRI,district,,8.1,,,5,Asia/Vladivostok,FALSE,1643823373
+Novyy,Novyy,,46.0139,47.3842,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,6.5,,,5,Europe/Astrakhan,FALSE,1643079138
+Novyy,Novyy,,47.6817,46.1683,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,4.5,,,5,Europe/Astrakhan,TRUE,1643739864
+Podozër’ye,Podozer'ye,,58.6670,49.5786,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,590.8,,,3,Europe/Kirov,FALSE,1643274075
+Vysokiy Most,Vysokiy Most,Kõrgesilla|Kyrgesilla,57.5496,27.5909,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,15.7,,,4,Europe/Moscow,FALSE,1643510973
+Shurguyal,Shurguyal,Shurgiyal,56.9122,48.9931,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,23.5,,,4,Europe/Moscow,FALSE,1643493427
+Shurguyal,Shurguyal,Shorguyal,56.7161,48.5575,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,21.1,,,4,Europe/Moscow,TRUE,1643733746
+Shurguyal,Shurguyal,,56.8878,48.7486,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,18.0,,,4,Europe/Moscow,TRUE,1643296584
+Miltozero,Miltozero,,59.8833,35.0500,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,7.8,,,5,Europe/Moscow,FALSE,1643722237
+Pudrol’,Pudrol',,59.8115,33.2468,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,11.4,,,4,Europe/Moscow,FALSE,1643468341
+Putilkovo,Putilkovo,,55.8627,37.3883,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,856.6,,,3,Europe/Moscow,FALSE,1643005933
+Shabel,Shabel,,53.9981,32.2175,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.1,,,5,Europe/Moscow,FALSE,1643635690
+Grikhnovo,Grikhnovo,Grikhnevo,63.6564,39.0069,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.4,,,5,Europe/Moscow,FALSE,1643889448
+Startsev,Startsev,,55.5500,105.5833,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.4,,,5,Asia/Irkutsk,FALSE,1643829855
+Petrovka-Kitayevo,Petrovka-Kitayevo,Petrovskoye-Kitayevo|Petrovsko-Petrovo|Petrovka-Kitayeva|Petrovsko-Kitayevo,51.9387,38.2251,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,17.7,,,4,Europe/Moscow,FALSE,1643006693
+Ugleshchnya,Ugleshchnya,,55.2058,37.5096,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,113.2,,,4,Europe/Moscow,FALSE,1643005775
+Moguchiy,Moguchiy,,55.2622,90.8344,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,2.1,,,5,Asia/Krasnoyarsk,FALSE,1643146081
+Kholomkin,Kholomkin,Kholomkino,49.9672,41.9358,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,7.0,,,5,Europe/Volgograd,FALSE,1643461457
+Maza,Maza,,57.4924,48.0972,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,4.5,,,5,Europe/Kirov,FALSE,1643125162
+Palkino,Palkino,Palkinskaya,61.4907,41.6453,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,4.9,,,5,Europe/Moscow,FALSE,1643543158
+Seitovo,Seitovo,,56.6462,33.7880,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,3.7,,,5,Europe/Moscow,FALSE,1643693834
+Duta,Duta,,53.4210,102.9580,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,5.4,,,5,Asia/Irkutsk,FALSE,1643212185
+Levoberezhnyy,Levoberezhnyy,,44.2161,43.5125,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,54.7,,,4,Europe/Moscow,FALSE,1643817611
+Levoberezhnyy,Levoberezhnyy,,44.8081,44.3006,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,18.0,,,4,Europe/Moscow,TRUE,1643604913
+Novovladimirovskaya,Novovladimirovskaya,Novovladimirskaya,45.5487,40.1499,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,50.9,,,4,Europe/Moscow,FALSE,1643941209
+Rodnichok,Rodnichok,Rodnitschek|Rodnichëk|Rodnichek,51.4231,42.9161,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,36.5,,,4,Europe/Saratov,FALSE,1643957362
+Brodok,Brodok,,51.3094,37.6583,Russia,RU,RUS,Belgorodskaya Oblast’,Belgorodskaya Oblast',RU-BEL,province,,82.0,,,4,Europe/Moscow,FALSE,1643728156
+Brodok,Brodok,,50.4509,36.5674,Russia,RU,RUS,Belgorodskaya Oblast’,Belgorodskaya Oblast',RU-BEL,province,,78.9,,,4,Europe/Moscow,TRUE,1643965055
+Gryaznovskaya,Gryaznovskaya,,56.7639,61.7181,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,30.3,,,4,Asia/Yekaterinburg,FALSE,1643952144
+Bezymyannyy,Bezymyannyy,Priisk Bezymyannyy|Genrikhovskiy,48.6429,131.1693,Russia,RU,RUS,Yevreyskaya Avtonomnaya Oblast’,Yevreyskaya Avtonomnaya Oblast',RU-YEV,autonomous province,,2.0,,,5,Asia/Vladivostok,FALSE,1643777869
+Pazhoga,Pazhoga,,53.9062,32.3835,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.1,,,5,Europe/Moscow,FALSE,1643810384
+Pruzhinnik,Pruzhinnik,,57.9967,28.2294,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.4,,,5,Europe/Moscow,FALSE,1643325213
+Uzlovoy,Uzlovoy,,51.5801,55.7400,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,11.6,,,4,Asia/Yekaterinburg,FALSE,1643580508
+Klepikovo,Klepikovo,,58.8624,42.0672,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.9,,,5,Europe/Moscow,FALSE,1643274172
+Bol’shaya Knyazevka,Bol'shaya Knyazevka,,51.1167,44.7500,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,14.3,,,3,Europe/Volgograd,FALSE,1643732313
+Sheyno,Sheyno,Sheino,55.7959,36.4526,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,104.6,,,4,Europe/Moscow,FALSE,1643609138
+Fëdorovskaya Sloboda,Fedorovskaya Sloboda,Fedorovskoye,56.7143,38.8183,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,1692.9,,,3,Europe/Moscow,FALSE,1643389913
+Solontsy,Solontsy,,54.2500,56.8667,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,7.5,,,5,Asia/Yekaterinburg,FALSE,1643019916
+Vysotovka,Vysotovka,,57.7000,46.5500,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,14.2,,,4,Europe/Moscow,FALSE,1643756206
+Gur’yevo,Gur'yevo,,56.3479,35.3760,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.2,,,5,Europe/Moscow,FALSE,1643631704
+Shigali,Shigali,,55.9758,49.0496,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,45.1,,,4,Europe/Moscow,FALSE,1643962786
+Shigali,Shigali,Shegaly|Shegali,54.9356,48.5204,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,29.5,,,4,Europe/Moscow,TRUE,1643541111
+Yegor’yevskiy,Yegor'yevskiy,,53.6075,34.8708,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,8.0,,,5,Europe/Moscow,FALSE,1643228728
+Danilovo,Danilovo,,59.0715,39.7566,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,10.4,,,4,Europe/Moscow,FALSE,1643572925
+Koryaginskiy,Koryaginskiy,,53.4092,34.6944,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,7.0,,,5,Europe/Moscow,FALSE,1643443489
+Danilovo,Danilovo,,55.4082,41.4099,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,15.4,,,4,Europe/Moscow,FALSE,1643001170
+Udmurtskiye Klyuchi,Udmurtskiye Klyuchi,Klyuchi|Klyuchi-Udmurtskiye,58.0389,52.4668,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,7.6,,,5,Europe/Samara,FALSE,1643731223
+Vadovo,Vadovo,,57.1266,28.2911,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,11.0,,,4,Europe/Moscow,FALSE,1643950109
+Shabrovskiy,Shabrovskiy,Pereskachka,56.6360,60.5806,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,1222.1,,,3,Asia/Yekaterinburg,FALSE,1643449640
+Khavuvara,Khavuvara,Havuvaara|Khavuvaara,62.2000,30.9167,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,1.3,,,5,Europe/Moscow,FALSE,1643065078
+Neserin,Neserin,,49.1667,45.3000,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.3,,,5,Europe/Volgograd,FALSE,1643586051
+Domanovo,Domanovo,,57.3086,37.9673,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,14.2,,,4,Europe/Moscow,FALSE,1643207402
+Domanovo,Domanovo,,58.4262,36.9450,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,6.1,,,5,Europe/Moscow,TRUE,1643016002
+Goloyino,Goloyino,,55.9797,36.5014,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,104.6,,,4,Europe/Moscow,FALSE,1643594367
+Rod’kovka,Rod'kovka,,54.0717,32.3111,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.1,,,5,Europe/Moscow,FALSE,1643850205
+Khutogor,Khutogor,,52.3833,109.9167,Russia,RU,RUS,Buryatiya,Buryatiya,RU-BU,republic,,1.3,,,5,Asia/Irkutsk,FALSE,1643693662
+Novaya Sloboda,Novaya Sloboda,Novaya Slobodka,54.9389,36.7844,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,35.9,,,4,Europe/Moscow,FALSE,1643923680
+Novaya Sloboda,Novaya Sloboda,,54.3188,34.4663,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,5.5,,,5,Europe/Moscow,TRUE,1643316767
+Mekhovitsy,Mekhovitsy,,56.5455,41.0799,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,12.7,,,4,Europe/Moscow,FALSE,1643397199
+Poludënovka,Poludenovka,Poludenovskiy,58.4436,84.9433,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.4,,,5,Asia/Tomsk,FALSE,1643687461
+Starodonskoy,Starodonskoy,Kargin,49.3292,43.7133,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,7.7,,,5,Europe/Volgograd,FALSE,1643412716
+Beregovaya,Beregovaya,Beregoraya,54.6965,33.8923,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,2.9,,,5,Europe/Moscow,FALSE,1643018182
+Verkhnyaya Gutara,Verkhnyaya Gutara,Verkhniy Gutar|Gutarskiye Zimovki|Gutara,54.2177,96.9739,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.3,,,4,Asia/Irkutsk,FALSE,1643896115
+Rango-Lis’ma,Rango-Lis'ma,,52.9645,45.5059,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,10.9,,,4,Europe/Moscow,FALSE,1643549237
+Obrateyevo,Obrateyevo,Abrateyevo,52.6341,35.2283,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,8.9,,,5,Europe/Moscow,FALSE,1643515104
+Denisovo-Nikolayevka,Denisovo-Nikolayevka,Denisovo-Vasil’yevka,47.7581,39.2833,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,16.7,,,4,Europe/Moscow,FALSE,1643209911
+Isayevo,Isayevo,,57.1608,41.4255,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,34.7,,,4,Europe/Moscow,FALSE,1643552631
+Isayevo,Isayevo,Isayeva,57.0242,41.3004,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,31.5,,,4,Europe/Moscow,TRUE,1643012919
+Isayevo,Isayevo,,57.3722,42.1765,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,13.7,,,4,Europe/Moscow,TRUE,1643987097
+Urukhskaya,Urukhskaya,,44.1528,43.6644,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,54.7,,,4,Europe/Moscow,FALSE,1643329454
+Vakhtovyy Posëlok,Vakhtovyy Poselok,,58.9639,85.5856,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.4,,,5,Asia/Tomsk,FALSE,1643041507
+Khudolaz,Khudolaz,,52.8475,58.6695,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,10.3,,,4,Asia/Yekaterinburg,FALSE,1643745955
+Kolmovo,Kolmovo,,58.5667,31.2833,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2126.6,,,2,Europe/Moscow,FALSE,1643517071
+Bobovishche,Bobovishche,,57.0631,32.5915,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,2.7,,,5,Europe/Moscow,FALSE,1643268925
+Bereznyaki,Bereznyaki,,59.6615,28.5587,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,28.7,,,4,Europe/Moscow,FALSE,1643221638
+Bokanovo,Bokanovo,,56.0156,29.7867,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,9.4,,,5,Europe/Moscow,FALSE,1643800256
+Klychev,Klychev,,51.2905,42.3643,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,56.9,,,4,Europe/Moscow,FALSE,1643235433
+Vysokaya Zemlya,Vysokaya Zemlya,,65.7333,52.0667,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,0.3,,,5,Europe/Moscow,FALSE,1643606117
+Vel’kino,Vel'kino,,55.7333,36.4833,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,44.4,,,4,Europe/Moscow,FALSE,1643944773
+Kamennomostskiy,Kamennomostskiy,Kamennomostskaya|Kamennomostskaja,44.2891,40.1880,Russia,RU,RUS,Adygeya,Adygeya,RU-AD,republic,,15.5,,,4,Europe/Moscow,FALSE,1643018604
+Tumanovo,Tumanovo,Tumanova,51.5937,84.6465,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,2.8,,,5,Asia/Barnaul,FALSE,1643942823
+Ulan Tug,Ulan Tug,,46.6005,46.2936,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,1.3,,,5,Europe/Moscow,FALSE,1643312337
+Kotël,Kotel,Kotela,58.4667,41.8000,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,3.0,,,5,Europe/Moscow,FALSE,1643127831
+Baytsetuy,Baytsetuy,Baytsatuy|Baytsetun|Baysetuy|Baitsatui,51.8988,115.3220,Russia,RU,RUS,Zabaykal’skiy Kray,Zabaykal'skiy Kray,RU-ZAB,district,,6.7,,,4,Asia/Chita,FALSE,1643778164
+Kamennyy Umet,Kamennyy Umet,,53.2744,41.9579,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,10.3,,,4,Europe/Moscow,FALSE,1643564142
+Sleznëvo,Sleznevo,Sliznëvo,53.7139,40.8506,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,7.9,,,5,Europe/Moscow,FALSE,1643221513
+Zolotovka,Zolotovka,,55.2836,67.8808,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,6.8,,,5,Asia/Yekaterinburg,FALSE,1643864308
+Tarasovo,Tarasovo,,50.5500,44.7667,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,13.4,,,3,Europe/Volgograd,FALSE,1643613947
+Osipsola,Osipsola,,56.4181,48.7314,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,13.5,,,4,Europe/Moscow,FALSE,1643005363
+Rybnovsk,Rybnovsk,Rybnovskii Zavod|Shumlovo|Fishery Number Five|Rybnyy Promysel Nomer Pyatyy,53.2731,141.7953,Russia,RU,RUS,Sakhalinskaya Oblast’,Sakhalinskaya Oblast',RU-SAK,province,,1.7,,,4,Asia/Sakhalin,FALSE,1643950158
+Romanovo,Romanovo,,57.6000,57.8333,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.0,,,5,Asia/Yekaterinburg,FALSE,1643018345
+Romanovo,Romanovo,Romanova,58.8400,56.0660,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,6.8,,,5,Asia/Yekaterinburg,TRUE,1643312241
+Romanovo,Romanovo,,59.1500,56.7667,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.0,,,5,Asia/Yekaterinburg,TRUE,1643945222
+Pervomayskoye,Pervomayskoye,,55.5447,63.7897,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,5.3,,,5,Asia/Yekaterinburg,FALSE,1643062619
+Zaostrov’ye,Zaostrov'ye,,60.8500,46.0500,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,7.1,,,5,Europe/Moscow,FALSE,1643456635
+Utrennyaya Zarya,Utrennyaya Zarya,Nikol’skiy,52.7500,36.9333,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,14.4,,,4,Europe/Moscow,FALSE,1643805458
+Maloye Kirillovo,Maloye Kirillovo,,57.5170,45.7415,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,13.3,,,4,Europe/Moscow,FALSE,1643320809
+Synkovo,Synkovo,,55.3518,37.6297,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,169.0,,,4,Europe/Moscow,FALSE,1643881179
+Torlopovo,Torlopovo,Tarlonova,52.1682,34.1972,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,11.2,,,4,Europe/Moscow,FALSE,1643158682
+Uzhlep,Uzhlep,,52.2499,86.1959,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,4.9,,,5,Asia/Barnaul,FALSE,1643732741
+Sonino,Sonino,Sonina,55.2880,37.8092,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,182.1,,,4,Europe/Moscow,FALSE,1643693176
+Sonino,Sonino,,55.7440,38.5800,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,161.9,,,4,Europe/Moscow,TRUE,1643145465
+Sarpunikha,Sarpunikha,,57.5442,28.2977,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643637661
+Ostrovki,Ostrovki,,54.2669,38.4781,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,19.1,,,4,Europe/Moscow,FALSE,1643013563
+Mogilëvo,Mogilevo,,57.6752,43.6213,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,3.0,,,5,Europe/Moscow,FALSE,1643581957
+Zharovnya,Zharovnya,,55.5402,32.4076,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,5.9,,,5,Europe/Moscow,FALSE,1643483944
+Safarskiy,Safarskiy,,52.3500,56.8500,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,8.1,,,5,Asia/Yekaterinburg,FALSE,1643105554
+Bol’shoy Konyp,Bol'shoy Konyp,Bol’shoy Kanyp,58.4161,50.3684,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,8.4,,,5,Europe/Kirov,FALSE,1643813590
+Krutikha,Krutikha,,55.8926,43.5400,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,42.4,,,4,Europe/Moscow,FALSE,1643594519
+Turama,Turama,Turami,61.2667,96.5500,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,0.0,,,5,Asia/Krasnoyarsk,FALSE,1643897201
+Lyzib,Lyzib,Lyz-Yb,59.6779,56.3292,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,2.9,,,5,Asia/Yekaterinburg,FALSE,1643698009
+Ivanteyevo,Ivanteyevo,,57.7933,33.1433,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.1,,,5,Europe/Moscow,FALSE,1643463850
+Dubovaya,Dubovaya,,57.3888,48.8646,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,10.2,,,4,Europe/Kirov,FALSE,1643508102
+Chuchkovo,Chuchkovo,,54.2693,41.4465,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,minor,9.0,,,3,Europe/Moscow,FALSE,1643771757
+Tsoros,Tsoros,Mayëvka,46.1099,42.0569,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,15.7,,,4,Europe/Moscow,FALSE,1643061556
+Muzanga,Muzanga,,47.6833,45.1333,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,2.9,,,5,Europe/Moscow,FALSE,1643014352
+Shnyayevo,Shnyayevo,,52.5700,46.1700,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,13.0,,,4,Europe/Saratov,FALSE,1643051481
+Dvorskoye,Dvorskoye,Dvorskoy|Dvorskiy,53.3000,79.2833,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,11.3,,,3,Asia/Barnaul,FALSE,1643320808
+Polivanovo,Polivanovo,,52.6064,35.7791,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,19.8,,,4,Europe/Moscow,FALSE,1643133708
+Sirotinskaya,Sirotinskaya,Sirotinskiy,49.2577,43.6760,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,7.7,,,5,Europe/Volgograd,FALSE,1643250441
+Ostrovno,Ostrovno,,58.0167,34.9667,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,3.5,,,5,Europe/Moscow,FALSE,1643272330
+Chervonnyy,Chervonnyy,Chervonny,59.6167,115.6833,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.2,,,5,Asia/Irkutsk,FALSE,1643767670
+Ishmanovo,Ishmanovo,,57.8186,39.8500,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,25.3,,,4,Europe/Moscow,FALSE,1643865686
+Staryye Limanokirpili,Staryye Limanokirpili,Limano-Kirpil’skiy|Limano-Kirpili,45.7734,38.3238,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,32.1,,,4,Europe/Moscow,FALSE,1643681105
+Faktoriya Yaktorga,Faktoriya Yaktorga,Faktoriya Yakuttorg|Yaktorga,64.7500,120.3000,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.5,,,5,Asia/Yakutsk,FALSE,1643891151
+Tsvetnogorsk,Tsvetnogorsk,Yuliya,54.2421,90.4512,Russia,RU,RUS,Khakasiya,Khakasiya,RU-KK,republic,,3.6,,,5,Asia/Krasnoyarsk,FALSE,1643832065
+Makhnëvo,Makhnevo,Makhneva,58.4508,61.7046,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,2.6,,,5,Asia/Yekaterinburg,FALSE,1643052398
+Burgunda,Burgunda,,56.2833,57.7167,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,8.2,,,5,Asia/Yekaterinburg,FALSE,1643734113
+Chastyye,Chastyye,,57.3572,57.1659,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.4,,,5,Asia/Yekaterinburg,FALSE,1643533029
+Chastyye,Chastyye,,57.2914,54.9761,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.2,,,5,Asia/Yekaterinburg,TRUE,1643548186
+Chigmalinovka,Chigmalinovka,,54.2563,51.9110,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,12.7,,,4,Europe/Samara,FALSE,1643324771
+Baboshino,Baboshino,,57.8792,34.2305,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,15.1,,,4,Europe/Moscow,FALSE,1643343513
+Pokrovskoye,Pokrovskoye,Pokrovskiy,43.2833,46.6500,Russia,RU,RUS,Dagestan,Dagestan,RU-DA,republic,,115.1,,,3,Europe/Moscow,FALSE,1643538313
+Zhelkair,Zhelkair,Zhelnair,51.3000,57.8167,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,7.2,,,5,Asia/Yekaterinburg,FALSE,1643826067
+Zharki,Zharki,,57.9046,39.6041,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,36.4,,,4,Europe/Moscow,FALSE,1643255030
+Zharki,Zharki,,57.8846,37.8179,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,7.5,,,5,Europe/Moscow,TRUE,1643197412
+Mozharovka,Mozharovka,,53.1530,45.5003,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,24.1,,,4,Europe/Moscow,FALSE,1643014828
+Grebenëvo,Grebenevo,,57.4152,38.1854,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,15.9,,,4,Europe/Moscow,FALSE,1643320858
+Kush’ya-Tyloy,Kush'ya-Tyloy,,57.3333,53.2000,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,16.2,,,4,Europe/Samara,FALSE,1643473066
+Petrovskaya,Petrovskaya,,58.8021,53.0929,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,2.3,,,5,Europe/Kirov,FALSE,1643020027
+Petrovskaya,Petrovskaya,,59.6702,48.3069,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,1.7,,,5,Europe/Kirov,TRUE,1643678940
+Akul’tsevo,Akul'tsevo,,57.2478,41.0680,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,51.2,,,4,Europe/Moscow,FALSE,1643152915
+Lemeshki,Lemeshki,,56.8711,40.6227,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,8.7,,,5,Europe/Moscow,FALSE,1643879901
+Novoalekseyevskiy,Novoalekseyevskiy,,53.3132,38.6741,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,18.1,,,4,Europe/Moscow,FALSE,1643569224
+Rivitsa,Rivitsa,,57.7763,35.9252,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.4,,,5,Europe/Moscow,FALSE,1643272104
+Rivitsa,Rivitsa,,57.5942,36.0385,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.4,,,5,Europe/Moscow,TRUE,1643731574
+Dadrovka,Dadrovka,,54.9262,36.7628,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,35.9,,,4,Europe/Moscow,FALSE,1643470846
+Merkul’yevo,Merkul'yevo,,53.2745,34.1562,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,27.5,,,4,Europe/Moscow,FALSE,1643849471
+Knyazhitsy,Knyazhitsy,,61.9000,45.4500,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.2,,,5,Europe/Moscow,FALSE,1643008417
+Plesy,Plesy,,56.6756,33.7264,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,3.7,,,5,Europe/Moscow,FALSE,1643052831
+Sukhoy,Sukhoy,,52.9667,37.5500,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,9.5,,,5,Europe/Moscow,FALSE,1643132846
+Krasnyy Mironov,Krasnyy Mironov,Krasnoye Mironovo,53.2654,48.9338,Russia,RU,RUS,Samarskaya Oblast’,Samarskaya Oblast',RU-SAM,province,,15.2,,,4,Europe/Samara,FALSE,1643810487
+Mukhino,Mukhino,Mukhina,51.8411,35.5936,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,25.8,,,4,Europe/Moscow,FALSE,1643169579
+Mukhino,Mukhino,,51.7748,34.9113,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,8.5,,,5,Europe/Moscow,TRUE,1643953038
+Pad’,Pad',,54.8097,73.5530,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,25.2,,,4,Asia/Omsk,FALSE,1643596337
+Ulichpom,Ulichpom,,60.8864,49.7311,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,1.9,,,5,Europe/Moscow,FALSE,1643974203
+Agas’yevo,Agas'yevo,Agag’yevo,53.9111,43.7583,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,12.0,,,4,Europe/Moscow,FALSE,1643835648
+Kocherzhinka,Kocherzhinka,,53.0747,35.1942,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,23.4,,,4,Europe/Moscow,FALSE,1643001092
+Karabzino,Karabzino,,58.2534,34.7926,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.6,,,5,Europe/Moscow,FALSE,1643239596
+Fedino,Fedino,Fedina,55.2900,33.5550,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,25.3,,,4,Europe/Moscow,FALSE,1643695627
+Fedino,Fedino,,55.1744,33.6850,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,25.3,,,4,Europe/Moscow,TRUE,1643011335
+Fedino,Fedino,,55.4636,33.4164,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,4.9,,,5,Europe/Moscow,TRUE,1643677611
+Andronovskaya,Andronovskaya,,61.6430,39.1145,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.7,,,5,Europe/Moscow,FALSE,1643763290
+Andronovskaya,Andronovskaya,,61.8000,39.0667,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.7,,,5,Europe/Moscow,TRUE,1643001545
+Andronovskaya,Andronovskaya,Andromovskaya,63.1500,42.1000,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.2,,,5,Europe/Moscow,TRUE,1643911180
+Talitsy,Talitsy,,58.2983,33.5619,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,19.8,,,4,Europe/Moscow,FALSE,1643662328
+Lugovka,Lugovka,,57.7301,47.1798,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,8.0,,,5,Europe/Moscow,FALSE,1643686884
+Nemtsëvo,Nemtsevo,,55.0000,36.4333,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,33.9,,,4,Europe/Moscow,FALSE,1643034453
+Novaya Aleksandrovka,Novaya Aleksandrovka,Aleksandrovka,57.4667,67.7667,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,3.9,,,5,Asia/Yekaterinburg,FALSE,1643677572
+Apastovo,Apastovo,,55.2029,48.5109,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,20.8,,,4,Europe/Moscow,FALSE,1643501079
+Staroye Ramen’ye,Staroye Ramen'ye,Ramen’ye,58.6534,35.9854,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.3,,,5,Europe/Moscow,FALSE,1643095241
+Nizhnyaya Mal’kovka,Nizhnyaya Mal'kovka,,56.9833,82.9333,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.6,,,5,Asia/Tomsk,FALSE,1643113066
+Puregova,Puregova,,58.4457,61.8449,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,2.6,,,5,Asia/Yekaterinburg,FALSE,1643308629
+Chistyakovo,Chistyakovo,,53.3482,34.8450,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,27.5,,,4,Europe/Moscow,FALSE,1643595644
+Lopatka,Lopatka,,65.0500,36.8667,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.2,,,5,Europe/Moscow,FALSE,1643380519
+Timofeyevka,Timofeyevka,Timofeyevskoye,54.9040,61.3370,Russia,RU,RUS,Chelyabinskaya Oblast’,Chelyabinskaya Oblast',RU-CHE,province,,990.7,,,3,Asia/Yekaterinburg,FALSE,1643005664
+Otrozhnyy,Otrozhnyy,,52.5667,54.0167,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,7.3,,,5,Asia/Yekaterinburg,FALSE,1643840290
+Malaya Slobodka,Malaya Slobodka,,57.0833,31.2667,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,2.5,,,5,Europe/Moscow,FALSE,1643047840
+Drachëvo,Drachevo,,56.1113,37.5986,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,576.2,,,3,Europe/Moscow,FALSE,1643590272
+Drachëvo,Drachevo,,56.3000,37.6333,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,76.5,,,4,Europe/Moscow,TRUE,1643346432
+Annino,Annino,,54.1839,39.3150,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,17.9,,,4,Europe/Moscow,FALSE,1643761432
+Annino,Annino,,53.4439,40.0025,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,13.2,,,4,Europe/Moscow,TRUE,1643809228
+Gornitsa,Gornitsa,,68.2667,161.7167,Russia,RU,RUS,Chukotskiy Avtonomnyy Okrug,Chukotskiy Avtonomnyy Okrug,RU-CHU,autonomous region,,0.0,,,5,Asia/Anadyr,FALSE,1643680882
+Astakhovo,Astakhovo,,55.2455,40.8667,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,9.8,,,5,Europe/Moscow,FALSE,1643678000
+Alekseyevskoye,Alekseyevskoye,,53.3667,78.5500,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,4.4,,,5,Asia/Barnaul,FALSE,1643424365
+Vlaszhnyy,Vlaszhnyy,,52.2000,41.7833,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,12.4,,,4,Europe/Moscow,FALSE,1643007876
+Goloviznin Yazok,Goloviznin Yazok,,57.3391,52.1301,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,5.8,,,5,Europe/Samara,FALSE,1643496034
+Al’beyevo,Al'beyevo,Alibeyevo,54.3409,55.2885,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,28.8,,,4,Asia/Yekaterinburg,FALSE,1643998675
+Postnikovo,Postnikovo,,55.9029,59.2421,Russia,RU,RUS,Chelyabinskaya Oblast’,Chelyabinskaya Oblast',RU-CHE,province,,5.1,,,5,Asia/Yekaterinburg,FALSE,1643649465
+Blagopoluchenskiy,Blagopoluchenskiy,,46.6714,39.4544,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,29.3,,,4,Europe/Moscow,FALSE,1643326596
+Ust’-Barsuk,Ust'-Barsuk,Ust’-Bars,56.8015,70.7270,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,3.0,,,5,Asia/Yekaterinburg,FALSE,1643379245
+Orlovka,Orlovka,,68.4000,33.5333,Russia,RU,RUS,Murmanskaya Oblast’,Murmanskaya Oblast',RU-MUR,province,,1.5,,,5,Europe/Moscow,FALSE,1643004419
+Posëlok Tuleblya,Poselok Tuleblya,,57.9544,31.0600,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,14.0,,,4,Europe/Moscow,FALSE,1643348300
+Privol’ye,Privol'ye,,54.7906,31.2470,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,11.1,,,4,Europe/Moscow,FALSE,1643713096
+Privol’ye,Privol'ye,,54.7931,33.9597,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,2.9,,,5,Europe/Moscow,TRUE,1643988986
+Kotlina,Kotlina,,54.9878,33.0747,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,15.2,,,4,Europe/Moscow,FALSE,1643986510
+Yezhovka,Yezhovka,,57.2483,41.8777,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,18.4,,,4,Europe/Moscow,FALSE,1643146285
+Shumilovka,Shumilovka,,49.8833,129.0333,Russia,RU,RUS,Amurskaya Oblast’,Amurskaya Oblast',RU-AMU,province,,4.6,,,3,Asia/Yakutsk,FALSE,1643496927
+Bovshevo,Bovshevo,,54.6708,31.1683,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,9.4,,,5,Europe/Moscow,FALSE,1643135469
+Dubovyy Kust,Dubovyy Kust,,52.8484,51.7714,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,7.5,,,5,Asia/Yekaterinburg,FALSE,1643423488
+Kusmen’,Kusmen',Kusomen’,55.2592,84.7925,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,10.1,,,4,Asia/Novosibirsk,FALSE,1643759369
+Postoyalovka,Postoyalovka,,55.5833,34.2333,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,5.1,,,5,Europe/Moscow,FALSE,1643350441
+Maloye Priyezzhivo,Maloye Priyezzhivo,Maloye Priyezzhevo,57.2333,28.5669,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,11.0,,,4,Europe/Moscow,FALSE,1643560415
+Dudino,Dudino,,58.4976,33.9828,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,19.8,,,4,Europe/Moscow,FALSE,1643719674
+Dudino,Dudino,,58.4088,34.8246,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.6,,,5,Europe/Moscow,TRUE,1643708205
+Sukhoborskoye,Sukhoborskoye,,55.1457,62.6895,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,7.5,,,5,Asia/Yekaterinburg,FALSE,1643328584
+Dubinino,Dubinino,Dubinina,55.9127,34.5527,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,16.1,,,4,Europe/Moscow,FALSE,1643931980
+Dubinino,Dubinino,,55.6139,35.3109,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,16.1,,,4,Europe/Moscow,TRUE,1643020896
+Garusovo,Garusovo,,58.0880,33.7924,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,15.1,,,4,Europe/Moscow,FALSE,1643086375
+Garusovo,Garusovo,,57.8149,34.5110,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,TRUE,1643674498
+Garusovo,Garusovo,,57.3526,34.3987,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,TRUE,1643449574
+Garusovo,Garusovo,,57.7294,35.5006,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.4,,,5,Europe/Moscow,TRUE,1643004019
+Garusovo,Garusovo,,57.9750,35.0194,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,3.5,,,5,Europe/Moscow,TRUE,1643452320
+Prudovo,Prudovo,,56.8634,43.1564,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,24.8,,,4,Europe/Moscow,FALSE,1643210012
+Karpovskaya,Karpovskaya,,60.5580,48.8136,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,1.3,,,5,Europe/Moscow,FALSE,1643810098
+Lozhok,Lozhok,,54.5723,83.3307,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,1290.8,,,3,Asia/Novosibirsk,FALSE,1643119537
+Lozhok,Lozhok,,54.8405,83.1994,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,48.6,,,4,Asia/Novosibirsk,TRUE,1643279668
+Vybornoye,Vybornoye,Syarkisalo,60.9167,29.9833,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.0,,,4,Europe/Moscow,FALSE,1643008599
+Yatysh,Yatysh,,56.8258,55.2650,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,7.6,,,5,Asia/Yekaterinburg,FALSE,1643790561
+Novomakarovka,Novomakarovka,Makarova,56.9667,82.3000,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.6,,,5,Asia/Tomsk,FALSE,1643522238
+Leoniki,Leoniki,,55.1167,35.2667,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,4.5,,,5,Europe/Moscow,FALSE,1643086727
+Iokisel’kya,Iokisel'kya,,61.4667,32.1333,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,7.9,,,5,Europe/Moscow,FALSE,1643423327
+Vishnëvaya,Vishnevaya,Pleshivka|Ploshivka,54.3858,37.1441,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,70.0,,,4,Europe/Moscow,FALSE,1643134348
+Vishnëvaya,Vishnevaya,Gryaznovka|Gryazhovka,53.6962,38.6377,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,35.4,,,4,Europe/Moscow,TRUE,1643543129
+Vishnëvaya,Vishnevaya,Vishnëvoye|Bryukhovo,54.7729,37.9563,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,21.9,,,4,Europe/Moscow,TRUE,1643607291
+Vishnëvaya,Vishnevaya,Khamkino,53.7404,36.0317,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,16.2,,,4,Europe/Moscow,TRUE,1643325522
+Neklyudtsevo,Neklyudtsevo,,57.9447,40.3739,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,10.9,,,4,Europe/Moscow,FALSE,1643243672
+Buyanets,Buyanets,,59.9833,32.7333,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,15.3,,,4,Europe/Moscow,FALSE,1643378773
+Melovskiy,Melovskiy,,50.4939,41.7914,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,6.9,,,5,Europe/Volgograd,FALSE,1643005533
+Zhil’gur,Zhil'gur,,61.0833,126.9667,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,1.4,,,5,Asia/Yakutsk,FALSE,1643619766
+Berëzovskiy,Berezovskiy,,55.7894,65.9353,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,4.5,,,5,Asia/Yekaterinburg,FALSE,1643360762
+Negelëvo,Negelevo,Negeleva,54.2354,36.9751,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,16.7,,,4,Europe/Moscow,FALSE,1643687957
+Ashkin-Sala,Ashkin-Sala,,46.0333,43.7000,Russia,RU,RUS,Kalmykiya,Kalmykiya,RU-KL,republic,,4.0,,,5,Europe/Moscow,FALSE,1643229746
+Lupachëvo,Lupachevo,,58.0142,40.3985,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,10.9,,,4,Europe/Moscow,FALSE,1643600499
+Peschanyy,Peschanyy,,44.0333,44.4667,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,15.0,,,4,Europe/Moscow,FALSE,1643973906
+Peschanyy,Peschanyy,,44.1436,45.4256,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,15.0,,,4,Europe/Moscow,TRUE,1643528487
+Kryukovka,Kryukovka,,54.0349,47.9942,Russia,RU,RUS,Ul’yanovskaya Oblast’,Ul'yanovskaya Oblast',RU-ULY,province,,10.3,,,4,Europe/Ulyanovsk,FALSE,1643622111
+Korytnitsa,Korytnitsa,,58.3888,33.1873,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.4,,,5,Europe/Moscow,FALSE,1643394550
+Barskiye Nivy,Barskiye Nivy,,58.1833,35.9000,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,2.9,,,5,Europe/Moscow,FALSE,1643270997
+Afonka,Afonka,Akhonka|Akhank|Akhonk,44.7327,37.9291,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,75.9,,,4,Europe/Moscow,FALSE,1643791618
+Kuznetsovo,Kuznetsovo,Kuznezovo|Kuznetsova,55.1915,75.3557,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,7.8,,,5,Asia/Novosibirsk,FALSE,1643493551
+Kuznetsovo,Kuznetsovo,Kuznetsova,55.9852,78.1217,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,7.2,,,5,Asia/Novosibirsk,TRUE,1643564672
+Kuznetsovo,Kuznetsovo,Kuznetsova,55.5908,76.3907,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,3.2,,,5,Asia/Novosibirsk,TRUE,1643614197
+Kiselëvo,Kiselevo,Kisel’ovo|Kiselëv,47.8825,39.8859,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,37.9,,,4,Europe/Moscow,FALSE,1643409153
+Izora,Izora,,53.7576,86.6655,Russia,RU,RUS,Kemerovskaya Oblast’,Kemerovskaya Oblast',RU-KEM,province,,8.7,,,5,Asia/Novokuznetsk,FALSE,1643641049
+Oynashniyemi,Oynashniyemi,Oinanlahti,65.1167,30.4167,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,0.6,,,5,Europe/Moscow,FALSE,1643221820
+Soyuznoye,Soyuznoye,Soyuznyy|Soyuznaya,47.9058,130.9089,Russia,RU,RUS,Yevreyskaya Avtonomnaya Oblast’,Yevreyskaya Avtonomnaya Oblast',RU-YEV,autonomous province,,1.6,,,5,Asia/Vladivostok,FALSE,1643484703
+Verkhnebeshkil’,Verkhnebeshkil',Verkhnyaya Beshkil’|Verkhne-Beshkil’skoye,56.5218,65.5269,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,10.0,,,5,Asia/Yekaterinburg,FALSE,1643497987
+Chervyakov,Chervyakov,,44.3096,39.7130,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,41.5,,,4,Europe/Moscow,FALSE,1643012315
+Timofeyevskoye,Timofeyevskoye,,54.4599,35.0541,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,6.6,,,5,Europe/Moscow,FALSE,1643171481
+Karachevo,Karachevo,,54.5817,36.2120,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,626.9,,,3,Europe/Moscow,FALSE,1643508150
+Karachevo,Karachevo,,54.3682,35.9183,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,23.9,,,4,Europe/Moscow,TRUE,1643339634
+Adatkan,Adatkan,,51.0833,85.2667,Russia,RU,RUS,Altay,Altay,RU-AL,republic,,3.7,,,5,Asia/Barnaul,FALSE,1643705025
+Mytnikovo,Mytnikovo,,58.7500,39.2833,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,4.2,,,5,Europe/Moscow,FALSE,1643641158
+Den’govo,Den'govo,,58.4769,41.4454,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,3.2,,,5,Europe/Moscow,FALSE,1643968826
+Petelin,Petelin,,57.3167,58.1333,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,4.6,,,5,Asia/Yekaterinburg,FALSE,1643595367
+Lyashkino,Lyashkino,Lyashkina,55.7333,78.4333,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,7.2,,,5,Asia/Novosibirsk,FALSE,1643721339
+Kolybanikha,Kolybanikha,Kolubanikha|Golubanikha,59.9134,39.9025,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,4.3,,,5,Europe/Moscow,FALSE,1643867595
+Talovka,Talovka,,52.6792,106.2252,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.2,,,5,Asia/Irkutsk,FALSE,1643322676
+Staryy Varyash,Staryy Varyash,,55.3271,53.2229,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,15.0,,,4,Europe/Moscow,FALSE,1643599959
+Vaulino,Vaulino,,56.0471,30.1610,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,9.4,,,5,Europe/Moscow,FALSE,1643820082
+Vaulino,Vaulino,,57.8721,28.3179,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.4,,,5,Europe/Moscow,TRUE,1643896947
+Vaulino,Vaulino,,56.3195,29.5105,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,4.7,,,5,Europe/Moscow,TRUE,1643107280
+Vaulino,Vaulino,,56.6278,29.8824,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.7,,,5,Europe/Moscow,TRUE,1643783442
+Malyy Lom,Malyy Lom,Malyye Lomy,57.6927,46.9476,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,8.0,,,5,Europe/Moscow,FALSE,1643582003
+Kalinkina,Kalinkina,,58.4833,42.2500,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,FALSE,1643423902
+Shishkovo,Shishkovo,,54.4986,21.8576,Russia,RU,RUS,Kaliningradskaya Oblast’,Kaliningradskaya Oblast',RU-KGD,province,,17.3,,,4,Europe/Kaliningrad,FALSE,1643658123
+Alekseyevka,Alekseyevka,,56.0167,39.9833,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,34.8,,,4,Europe/Moscow,FALSE,1643029546
+Alekseyevka,Alekseyevka,,56.2169,41.4214,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,16.3,,,4,Europe/Moscow,TRUE,1643096290
+Bol’shoye Reyzino,Bol'shoye Reyzino,,59.5964,30.0553,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,83.8,,,4,Europe/Moscow,FALSE,1643316431
+Ostapovskaya,Ostapovskaya,,60.3389,49.6377,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,1.3,,,5,Europe/Moscow,FALSE,1643506311
+Konovalikha,Konovalikha,,56.8441,72.4390,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,0.8,,,5,Asia/Omsk,FALSE,1643681213
+Slyuda,Slyuda,Slyudorazrabotok|Posëlok Slyudorazrabotok|Posëlok Slyudorazrabotki|Leyvoyva|Slyudorazrabotki,67.4331,30.4767,Russia,RU,RUS,Murmanskaya Oblast’,Murmanskaya Oblast',RU-MUR,province,,4.8,,,4,Europe/Moscow,FALSE,1643827823
+Novoye Babarygino,Novoye Babarygino,,57.2167,30.1000,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,FALSE,1643019851
+Podstepnoye,Podstepnoye,,52.9500,82.0833,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,8.4,,,3,Asia/Barnaul,FALSE,1643457568
+Tavolozhka,Tavolozhka,,52.1896,45.6875,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,18.3,,,4,Europe/Saratov,FALSE,1643228957
+Staryy Kyrlay,Staryy Kyrlay,Staryy Krylay,56.1959,49.9000,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,28.2,,,4,Europe/Moscow,FALSE,1643099027
+Bobrovskiy Pervyy,Bobrovskiy Pervyy,Bobrovskiy,49.5932,42.3262,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,5.7,,,5,Europe/Volgograd,FALSE,1643682984
+Panas’ye,Panas'ye,,55.0650,33.8044,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,25.3,,,4,Europe/Moscow,FALSE,1643957530
+Boryatino,Boryatino,Baryatino,57.4667,42.4833,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,15.0,,,4,Europe/Moscow,FALSE,1643175140
+Pochinki,Pochinki,,54.6308,36.2314,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,626.9,,,3,Europe/Moscow,FALSE,1643189246
+Temyakovo,Temyakovo,,54.9273,54.0246,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,15.9,,,4,Asia/Yekaterinburg,FALSE,1643490498
+Osinki,Osinki,,58.4889,48.5890,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,3.5,,,5,Europe/Kirov,FALSE,1643089364
+Osinki,Osinki,,59.0844,48.1683,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,2.7,,,5,Europe/Kirov,TRUE,1643899834
+Voskresenovka,Voskresenovka,,53.0544,44.9603,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,17.5,,,4,Europe/Moscow,FALSE,1643058019
+Voskresenovka,Voskresenovka,,53.1532,42.6591,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,13.7,,,4,Europe/Moscow,TRUE,1643114564
+Brasovo,Brasovo,,52.5833,34.6000,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,16.3,,,3,Europe/Moscow,FALSE,1643446892
+Ardatovka,Ardatovka,,54.7083,53.6828,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,55.5,,,4,Asia/Yekaterinburg,FALSE,1643155074
+Pesochnoye,Pesochnoye,,56.1206,43.4922,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,42.4,,,4,Europe/Moscow,FALSE,1643275493
+Pesochnoye,Pesochnoye,,55.7135,45.0356,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,14.4,,,4,Europe/Moscow,TRUE,1643459189
+Pesochnoye,Pesochnoye,,56.7736,44.3071,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,11.7,,,4,Europe/Moscow,TRUE,1643522762
+Pesochnoye,Pesochnoye,,56.9618,45.3624,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,5.7,,,5,Europe/Moscow,TRUE,1643546873
+Stepnoye,Stepnoye,Khudushnyy,49.9039,46.7902,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,3.5,,,5,Europe/Volgograd,FALSE,1643422911
+Verkhnyaya Kuryata,Verkhnyaya Kuryata,,53.7355,93.2032,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,1.5,,,5,Asia/Krasnoyarsk,FALSE,1643929545
+Barachevo,Barachevo,,59.2730,39.8560,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,10.4,,,4,Europe/Moscow,FALSE,1643350587
+Barachevo,Barachevo,,59.4480,39.5960,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,10.4,,,4,Europe/Moscow,TRUE,1643018955
+Troitsk,Troitsk,,54.0900,43.8244,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,20.2,,,4,Europe/Moscow,FALSE,1643637422
+Suturolaakh,Suturolaakh,Suturoallakh,68.4667,144.7000,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.1,,,5,Asia/Srednekolymsk,FALSE,1643191648
+Vozrozhdeniye,Vozrozhdeniye,,54.8000,59.7167,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,16.2,,,4,Asia/Yekaterinburg,FALSE,1643938745
+Chadanova,Chadanova,Chadanovo,53.3671,102.0539,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,3.5,,,5,Asia/Irkutsk,FALSE,1643038836
+Sviridovka,Sviridovka,,54.0953,40.0803,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,16.3,,,4,Europe/Moscow,FALSE,1643884835
+Verkhneozërnoye,Verkhneozernoye,Werchneje Osernoje|Verkhne-Ozernaya|Verkni-Ozernaya,51.3999,56.7000,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,4.4,,,4,Asia/Yekaterinburg,FALSE,1643113811
+Shubiny,Shubiny,,52.2167,39.8833,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,25.5,,,4,Europe/Moscow,FALSE,1643380215
+Fedulina,Fedulina,,55.0331,34.6278,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,2.9,,,5,Europe/Moscow,FALSE,1643926161
+Staroshcherbakovo,Staroshcherbakovo,Shcherbakova|Maran’dino,55.3711,78.4593,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,10.2,,,4,Asia/Novosibirsk,FALSE,1643474183
+Kozhikovo,Kozhikovo,Kozhlkovo,55.5665,46.9800,Russia,RU,RUS,Chuvashiya,Chuvashiya,RU-CU,republic,,33.4,,,4,Europe/Moscow,FALSE,1643237432
+Velikiye Lyady,Velikiye Lyady,,52.4304,31.9885,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,12.1,,,4,Europe/Moscow,FALSE,1643830650
+Sokhnovka,Sokhnovka,,55.9603,90.1822,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,5.3,,,5,Asia/Krasnoyarsk,FALSE,1643121912
+Zabornaya Polyana,Zabornaya Polyana,,55.3819,48.6196,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,13.9,,,4,Europe/Moscow,FALSE,1643714492
+Strinskiy,Strinskiy,,45.7183,39.2197,Russia,RU,RUS,Krasnodarskiy Kray,Krasnodarskiy Kray,RU-KDA,district,,75.2,,,4,Europe/Moscow,FALSE,1643661452
+Barskoye-Tatarovo,Barskoye-Tatarovo,Barsko-Tatarovo,56.3833,41.9000,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,34.2,,,3,Europe/Moscow,FALSE,1643088791
+Zinaidino,Zinaidino,Zinevka|Sinaidino,50.8844,35.9069,Russia,RU,RUS,Belgorodskaya Oblast’,Belgorodskaya Oblast',RU-BEL,province,,39.0,,,4,Europe/Moscow,FALSE,1643705006
+Krivelevo,Krivelevo,,57.5937,54.5880,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,5.5,,,5,Asia/Yekaterinburg,FALSE,1643508419
+Panskoye,Panskoye,,54.5750,32.3747,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,12.1,,,4,Europe/Moscow,FALSE,1643352767
+Panskoye,Panskoye,,54.4000,31.4833,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,8.1,,,5,Europe/Moscow,TRUE,1643412992
+Panskoye,Panskoye,,55.6547,33.9931,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,5.1,,,5,Europe/Moscow,TRUE,1643204977
+Panskoye,Panskoye,,54.6361,32.9639,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,3.8,,,5,Europe/Moscow,TRUE,1643977256
+Verkhobrodovo,Verkhobrodovo,Verkhobrodova,56.8286,93.0361,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,2.7,,,5,Asia/Krasnoyarsk,FALSE,1643654444
+Podolyan’,Podolyan',,52.3597,36.0691,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.4,,,4,Europe/Moscow,FALSE,1643507837
+Vezh’yu,Vezh'yu,,60.6492,51.1438,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,0.7,,,5,Europe/Moscow,FALSE,1643738471
+Rakovo,Rakovo,,54.5921,32.1322,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,14.1,,,4,Europe/Moscow,FALSE,1643593064
+Belogor’ye,Belogor'ye,,51.7279,38.2225,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,13.3,,,4,Europe/Moscow,FALSE,1643035863
+Germenchuk,Germenchuk,Germenchik|Germenchak|Germenčuk|Mostovoe|Mostovoye|Germaçig|Germaçik|Germçiga,43.1857,45.9210,Russia,RU,RUS,Chechnya,Chechnya,RU-CE,republic,,221.4,,,3,Europe/Moscow,FALSE,1643667047
+Lumpovo,Lumpovo,,57.2724,52.7931,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,11.6,,,4,Europe/Samara,FALSE,1643730114
+Mitala,Mitala,,59.9980,31.7497,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,15.3,,,4,Europe/Moscow,FALSE,1643013255
+Sysaikha,Sysaikha,,56.8194,44.0279,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,31.9,,,4,Europe/Moscow,FALSE,1643002918
+Barantsovo,Barantsovo,,55.9197,35.1786,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,16.1,,,4,Europe/Moscow,FALSE,1643389207
+Baskiye,Baskiye,,57.8291,56.2226,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,248.5,,,3,Asia/Yekaterinburg,FALSE,1643110353
+Tolstik,Tolstik,,59.6500,38.7233,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.9,,,5,Europe/Moscow,FALSE,1643291200
+Ushakovka,Ushakovka,,53.2000,44.7000,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,17.5,,,4,Europe/Moscow,FALSE,1643815929
+Ushakovka,Ushakovka,,53.2622,41.1997,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,11.3,,,4,Europe/Moscow,TRUE,1643573673
+Ogarova,Ogarova,,58.2333,41.3333,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,6.4,,,5,Europe/Moscow,FALSE,1643708516
+Kuznechnyy,Kuznechnyy,,57.9500,82.8500,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,2.5,,,5,Asia/Tomsk,FALSE,1643966760
+Shipelovy,Shipelovy,,58.5400,49.5289,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,590.8,,,3,Europe/Kirov,FALSE,1643701671
+Andrusovka,Andrusovka,,43.0667,131.3000,Russia,RU,RUS,Primorskiy Kray,Primorskiy Kray,RU-PRI,district,,8.2,,,5,Asia/Vladivostok,FALSE,1643888925
+Pitushkino,Pitushkino,,55.5833,46.5333,Russia,RU,RUS,Chuvashiya,Chuvashiya,RU-CU,republic,,9.7,,,5,Europe/Moscow,FALSE,1643074592
+Sur’yanovo,Sur'yanovo,,53.0355,34.9304,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,23.4,,,4,Europe/Moscow,FALSE,1643591138
+Kalinovtsy,Kalinovtsy,,54.2405,41.9073,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,9.6,,,5,Europe/Moscow,FALSE,1643137002
+Gornyy,Gornyy,,57.8946,56.3272,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,248.5,,,3,Asia/Yekaterinburg,FALSE,1643017485
+Gornyy,Gornyy,,57.8304,56.6255,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,248.5,,,3,Asia/Yekaterinburg,TRUE,1643220067
+Divanisy,Divanisy,,57.3672,28.0416,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643307836
+Klyukino,Klyukino,,58.8333,49.7833,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,7.1,,,5,Europe/Kirov,FALSE,1643422027
+Klyukino,Klyukino,Bol’shoye Klyukino,59.0036,50.0236,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,7.1,,,5,Europe/Kirov,TRUE,1643325130
+Klyukino,Klyukino,,58.9833,49.4667,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.8,,,5,Europe/Kirov,TRUE,1643449001
+Tyutnevo,Tyutnevo,,59.3679,38.1379,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.7,,,5,Europe/Moscow,FALSE,1643934637
+Shapkul’,Shapkul',,57.4000,66.2167,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,3.5,,,5,Asia/Yekaterinburg,FALSE,1643231125
+Bol’shegrivskoye,Bol'shegrivskoye,,53.9136,74.9131,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,10.3,,,4,Asia/Omsk,FALSE,1643297152
+Zhobshur,Zhobshur,,58.1853,53.3512,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,,13.7,,,4,Europe/Samara,FALSE,1643533304
+Dobryn’ka,Dobryn'ka,,52.3664,31.9494,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,15.9,,,4,Europe/Moscow,FALSE,1643641716
+Zubrekovo,Zubrekovo,Zubrekova|Yurty Zubrekovy,58.8667,87.4000,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,0.4,,,5,Asia/Tomsk,FALSE,1643318754
+Vulkan,Vulkan,Hoyanke|Hoyamuke,48.1921,142.5873,Russia,RU,RUS,Sakhalinskaya Oblast’,Sakhalinskaya Oblast',RU-SAK,province,,3.5,,,5,Asia/Sakhalin,FALSE,1643092689
+Ukagach,Ukagach,,56.0197,60.3909,Russia,RU,RUS,Chelyabinskaya Oblast’,Chelyabinskaya Oblast',RU-CHE,province,,21.6,,,4,Asia/Yekaterinburg,FALSE,1643588146
+Lesozavod,Lesozavod,,57.0731,61.4655,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,95.4,,,4,Asia/Yekaterinburg,FALSE,1643576807
+Tsyuniki,Tsyuniki,Ċunika|Cjuniki,42.7130,45.5669,Russia,RU,RUS,Chechnya,Chechnya,RU-CE,republic,,5.2,,,5,Europe/Moscow,FALSE,1643899088
+Ustosha,Ustosha,,54.4569,34.9219,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,6.6,,,5,Europe/Moscow,FALSE,1643544775
+Romantsevskiy,Romantsevskiy,,53.8333,38.3245,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,49.3,,,4,Europe/Moscow,FALSE,1643660528
+Chimkino,Chimkino,,61.2833,71.4333,Russia,RU,RUS,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,RU-KHM,autonomous region,,3.2,,,5,Asia/Yekaterinburg,FALSE,1643760001
+Derikh,Derikh,,42.2773,45.9036,Russia,RU,RUS,Dagestan,Dagestan,RU-DA,republic,,16.9,,,4,Europe/Moscow,FALSE,1643006129
+Lunachary,Lunachary,Gorodishche,52.8999,35.7904,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.1,,,4,Europe/Moscow,FALSE,1643643611
+Yëlkino,Yelkino,,65.6848,47.5541,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,0.3,,,5,Europe/Moscow,FALSE,1643501138
+Khylova,Khylova,,47.9129,46.7180,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,13.1,,,4,Europe/Astrakhan,FALSE,1643815689
+Khokoroy,Khokoroy,,50.1333,142.3000,Russia,RU,RUS,Sakhalinskaya Oblast’,Sakhalinskaya Oblast',RU-SAK,province,,1.1,,,5,Asia/Sakhalin,FALSE,1643007982
+Log,Log,,51.5765,38.3700,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,17.0,,,4,Europe/Moscow,FALSE,1643089164
+Kislinskiy,Kislinskiy,Kislenskiy,50.4848,38.1942,Russia,RU,RUS,Belgorodskaya Oblast’,Belgorodskaya Oblast',RU-BEL,province,,23.5,,,4,Europe/Moscow,FALSE,1643261199
+Murlykovka,Murlykovka,,56.8910,47.1931,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.7,,,5,Europe/Kirov,FALSE,1643007500
+Kul’tura,Kul'tura,,59.3000,56.9833,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,394.5,,,3,Asia/Yekaterinburg,FALSE,1643542680
+Pereleski,Pereleski,Waldhausen,54.8115,20.3801,Russia,RU,RUS,Kaliningradskaya Oblast’,Kaliningradskaya Oblast',RU-KGD,province,,39.5,,,4,Europe/Kaliningrad,FALSE,1643870710
+Pereleski,Pereleski,,54.5317,21.6822,Russia,RU,RUS,Kaliningradskaya Oblast’,Kaliningradskaya Oblast',RU-KGD,province,,39.5,,,4,Europe/Kaliningrad,TRUE,1643456937
+Razlivka,Razlivka,,50.7833,44.4000,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.6,,,3,Europe/Volgograd,FALSE,1643996162
+Amochayevskiy,Amochayevskiy,,50.7019,42.4306,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,11.7,,,4,Europe/Volgograd,FALSE,1643562930
+Pimbera,Pimbera,,63.5424,45.6107,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,0.8,,,5,Europe/Moscow,FALSE,1643787887
+Yezvino,Yezvino,,56.6463,35.9260,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,11.0,,,4,Europe/Moscow,FALSE,1643010713
+Trëkhmar’ino,Trekhmar'ino,,56.0157,36.0697,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,34.9,,,4,Europe/Moscow,FALSE,1643948815
+Budënnyy,Budennyy,,50.4039,39.5647,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,17.0,,,4,Europe/Moscow,FALSE,1643949773
+Myatlevo,Myatlevo,Mjatlewo,54.8928,35.6750,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,5.1,,,5,Europe/Moscow,FALSE,1643325426
+Koynas,Koynas,Koynass|Kolnas|Koinasskoye,64.7527,47.6432,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,0.3,,,4,Europe/Moscow,FALSE,1643609460
+Maksimovka,Maksimovka,Verkhnyaya Maksimovka,50.1613,128.8010,Russia,RU,RUS,Amurskaya Oblast’,Amurskaya Oblast',RU-AMU,province,,5.4,,,5,Asia/Yakutsk,FALSE,1643181893
+Duplevo,Duplevo,,55.9500,36.5667,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,104.6,,,4,Europe/Moscow,FALSE,1643814673
+Shchuch’ye,Shchuch'ye,,52.7845,33.9933,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,18.3,,,4,Europe/Moscow,FALSE,1643455498
+Chërnyy Vrag,Chernyy Vrag,,58.1315,37.9488,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,4.7,,,5,Europe/Moscow,FALSE,1643883736
+Spirina,Spirina,Spirino,56.4566,70.6993,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,5.1,,,5,Asia/Yekaterinburg,FALSE,1643000603
+Ozërnaya,Ozernaya,,56.5272,29.5474,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,4.7,,,5,Europe/Moscow,FALSE,1643417437
+Narimanova,Narimanova,,57.3749,65.0973,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,30.5,,,4,Asia/Yekaterinburg,FALSE,1643768506
+Tarasovo,Tarasovo,,51.6647,35.6234,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,1295.4,,,3,Europe/Moscow,FALSE,1643690723
+Tarasovo,Tarasovo,,51.8000,35.7561,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,32.3,,,4,Europe/Moscow,TRUE,1643194012
+Tarasovo,Tarasovo,,51.4584,35.7642,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.8,,,4,Europe/Moscow,TRUE,1643558702
+Severnaya Polyana,Severnaya Polyana,,58.2578,30.8037,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,5.7,,,5,Europe/Moscow,FALSE,1643009356
+Georgiyevskiy,Georgiyevskiy,,48.7133,42.1078,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,9.1,,,5,Europe/Moscow,FALSE,1643727634
+Glatovo,Glatovo,,56.1163,28.3234,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,FALSE,1643834200
+Rystsovo,Rystsovo,,56.9000,30.8333,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.7,,,5,Europe/Moscow,FALSE,1643743148
+Bol’shiye Syaglitsy,Bol'shiye Syaglitsy,,59.4176,29.3317,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,18.5,,,4,Europe/Moscow,FALSE,1643183045
+Karmanovo,Karmanovo,,55.8425,34.8664,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,16.1,,,4,Europe/Moscow,FALSE,1643403006
+Chërnyy Iyus,Chernyy Iyus,Cherny Iyus,54.4500,88.6167,Russia,RU,RUS,Khakasiya,Khakasiya,RU-KK,republic,,1.8,,,5,Asia/Krasnoyarsk,FALSE,1643635629
+Devkina Gora,Devkina Gora,,57.0065,43.0930,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,18.2,,,4,Europe/Moscow,FALSE,1643301680
+Teplyakovo,Teplyakovo,,57.9296,38.5903,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,11.9,,,4,Europe/Moscow,FALSE,1643527133
+Inzelga,Inzelga,,53.8667,56.3000,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,11.0,,,3,Asia/Yekaterinburg,FALSE,1643178488
+Mozhayskoye,Mozhayskoye,,51.3157,39.6571,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,23.5,,,4,Europe/Moscow,FALSE,1643444022
+Timashëva,Timasheva,,54.8167,60.9000,Russia,RU,RUS,Chelyabinskaya Oblast’,Chelyabinskaya Oblast',RU-CHE,province,,12.8,,,4,Asia/Yekaterinburg,FALSE,1643466622
+Kay,Kay,,59.9605,52.9750,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,2.8,,,5,Europe/Kirov,FALSE,1643714228
+Volchanskiye Kazarmy,Volchanskiye Kazarmy,,59.7895,60.1452,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,87.0,,,4,Asia/Yekaterinburg,FALSE,1643304722
+Rostan’,Rostan',,51.4681,42.4263,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,56.9,,,4,Europe/Moscow,FALSE,1643965509
+Churakovo,Churakovo,,58.2208,40.0459,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,10.9,,,4,Europe/Moscow,FALSE,1643904937
+Staraya Sitenka,Staraya Sitenka,,57.9373,33.4660,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.1,,,5,Europe/Moscow,FALSE,1643435095
+Ochep,Ochep,,58.7167,35.6167,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,9.3,,,5,Europe/Moscow,FALSE,1643174924
+Ochep,Ochep,,58.6703,33.5664,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.0,,,5,Europe/Moscow,TRUE,1643008486
+Yeliseyevka,Yeliseyevka,,52.9167,55.6000,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,11.0,,,4,Asia/Yekaterinburg,FALSE,1643186172
+Fedoseyevka,Fedoseyevka,Fedoseyevskaya,55.7853,71.9433,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,4.0,,,5,Asia/Omsk,FALSE,1643243362
+Bochki,Bochki,,57.1500,35.2667,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,14.5,,,4,Europe/Moscow,FALSE,1643345754
+Lakisov,Lakisov,,43.4500,44.4500,Russia,RU,RUS,North Ossetia,North Ossetia,RU-SE,republic,,63.8,,,4,Europe/Moscow,FALSE,1643317453
+Podbor’ye,Podbor'ye,,60.4897,46.6418,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,7.1,,,5,Europe/Moscow,FALSE,1643006062
+Umorskiy,Umorskiy,Umor,54.4891,42.8131,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,20.2,,,4,Europe/Moscow,FALSE,1643959778
+Solodniki,Solodniki,,48.4000,45.2667,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,5.2,,,3,Europe/Astrakhan,FALSE,1643676684
+Maloye Nikulino,Maloye Nikulino,,59.1686,33.7742,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.0,,,5,Europe/Moscow,FALSE,1643396667
+Alyab’yevo,Alyab'yevo,,53.1500,54.0167,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,6.8,,,5,Asia/Yekaterinburg,FALSE,1643499175
+Keskitalo,Keskitalo,,69.4000,30.0000,Russia,RU,RUS,Murmanskaya Oblast’,Murmanskaya Oblast',RU-MUR,province,,4.0,,,5,Europe/Moscow,FALSE,1643455854
+Baboshino,Baboshino,,54.2175,37.1306,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,16.7,,,4,Europe/Moscow,FALSE,1643546826
+Alyab’yevo,Alyab'yevo,Nizhneye Alyab’yevo,53.2646,36.8239,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,10.2,,,4,Europe/Moscow,FALSE,1643382223
+Girsovo,Girsovo,,58.7306,49.5482,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.8,,,5,Europe/Kirov,FALSE,1643219478
+Vyazemka,Vyazemka,,55.3031,35.3167,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,30.6,,,4,Europe/Moscow,FALSE,1643096143
+Mysovskaya,Mysovskaya,,60.5189,41.6402,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,3.0,,,5,Europe/Moscow,FALSE,1643048931
+Maloye Dubrovnoye,Maloye Dubrovnoye,,54.5908,63.5017,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,4.6,,,5,Asia/Yekaterinburg,FALSE,1643905802
+Burtsevo,Burtsevo,,55.4631,34.9581,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,16.1,,,4,Europe/Moscow,FALSE,1643018571
+Burtsevo,Burtsevo,,55.8213,34.2401,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.3,,,5,Europe/Moscow,TRUE,1643972164
+Burtsevo,Burtsevo,Burtsova,55.6213,34.3688,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,5.1,,,5,Europe/Moscow,TRUE,1643344096
+Apolets,Apolets,Opolets,57.1082,31.7893,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.6,,,5,Europe/Moscow,FALSE,1643675988
+Kukuyevka,Kukuyevka,,52.9500,35.9167,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,35.4,,,4,Europe/Moscow,FALSE,1643832250
+Kukuyevka,Kukuyevka,,52.5632,36.3502,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,20.1,,,4,Europe/Moscow,TRUE,1643149394
+Kukuyevka,Kukuyevka,,53.1095,35.3807,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,11.6,,,4,Europe/Moscow,TRUE,1643614640
+Kukuyevka,Kukuyevka,,52.7517,35.3157,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,8.8,,,5,Europe/Moscow,TRUE,1643429736
+Tabory,Tabory,,53.5847,34.6892,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,8.0,,,5,Europe/Moscow,FALSE,1643199424
+Toyderyaki,Toyderyaki,,55.9287,47.0041,Russia,RU,RUS,Chuvashiya,Chuvashiya,RU-CU,republic,,54.0,,,4,Europe/Moscow,FALSE,1643535783
+Lastola,Lastola,,64.5946,40.2873,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.2,,,5,Europe/Moscow,FALSE,1643252195
+Zhukovo,Zhukovo,,58.0149,41.4518,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,6.4,,,5,Europe/Moscow,FALSE,1643052330
+Zhukovo,Zhukovo,,57.7793,43.2447,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,3.4,,,5,Europe/Moscow,TRUE,1643501969
+Zhukovo,Zhukovo,,58.4742,41.9061,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,TRUE,1643254472
+Zhukovo,Zhukovo,,58.2002,42.0513,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,TRUE,1643248471
+Zhukovo,Zhukovo,,58.1015,42.9922,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.6,,,5,Europe/Moscow,TRUE,1643390530
+Zotkin,Zotkin,,49.1833,45.2667,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.3,,,5,Europe/Volgograd,FALSE,1643936022
+Kiselëva,Kiseleva,,58.3771,55.1239,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,8.8,,,5,Asia/Yekaterinburg,FALSE,1643312070
+Khyazel’ki,Khyazel'ki,,59.9377,30.6887,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,144.6,,,4,Europe/Moscow,FALSE,1643757807
+Pyshkino,Pyshkino,,53.2325,40.9958,Russia,RU,RUS,Tambovskaya Oblast’,Tambovskaya Oblast',RU-TAM,province,,11.3,,,4,Europe/Moscow,FALSE,1643639070
+Aistovo,Aistovo,,54.7810,20.6898,Russia,RU,RUS,Kaliningradskaya Oblast’,Kaliningradskaya Oblast',RU-KGD,province,,58.9,,,4,Europe/Kaliningrad,FALSE,1643527926
+Burmistrova,Burmistrova,,56.6382,70.7425,Russia,RU,RUS,Tyumenskaya Oblast’,Tyumenskaya Oblast',RU-TYU,province,,3.0,,,5,Asia/Yekaterinburg,FALSE,1643511039
+Samkovo,Samkovo,,57.7335,40.8461,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,1408.3,,,3,Europe/Moscow,FALSE,1643032850
+Kabakovo,Kabakovo,Kabanova,52.3058,82.4881,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,4.6,,,5,Asia/Barnaul,FALSE,1643012464
+Nizhniy Izyak,Nizhniy Izyak,,54.9761,56.2845,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,21.6,,,4,Asia/Yekaterinburg,FALSE,1643856666
+Kazar’,Kazar',Kazar’-Gorka,52.8982,36.8565,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,12.1,,,4,Europe/Moscow,FALSE,1643161885
+Shabayevo,Shabayevo,,55.1414,40.2011,Russia,RU,RUS,Ryazanskaya Oblast’,Ryazanskaya Oblast',RU-RYA,province,,7.4,,,5,Europe/Moscow,FALSE,1643866165
+Nasonovo,Nasonovo,,60.8528,46.5155,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,7.1,,,5,Europe/Moscow,FALSE,1643015234
+Nasonovo,Nasonovo,,60.3455,46.5871,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,7.1,,,5,Europe/Moscow,TRUE,1643201758
+Nasonovo,Nasonovo,,59.8655,40.0017,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,4.3,,,5,Europe/Moscow,TRUE,1643274031
+Nasonovo,Nasonovo,,60.3001,37.3501,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.6,,,5,Europe/Moscow,TRUE,1643621099
+Tarnya,Tarnya,,62.1167,42.3333,Russia,RU,RUS,Arkhangel’skaya Oblast’,Arkhangel'skaya Oblast',RU-ARK,province,,1.2,,,5,Europe/Moscow,FALSE,1643739804
+Kiyëvo,Kiyevo,Kiovo,56.0167,37.5000,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,1501.7,,,3,Europe/Moscow,FALSE,1643325018
+Kiyëvo,Kiyevo,,56.3589,35.7113,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,20.2,,,4,Europe/Moscow,TRUE,1643176278
+Bol’shoy Pyzmass,Bol'shoy Pyzmass,Bol’shoy Pyzmas,59.1244,46.0719,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,FALSE,1643663806
+Uzh-Burys’,Uzh-Burys',,61.3091,50.0527,Russia,RU,RUS,Komi,Komi,RU-KO,republic,,1.9,,,5,Europe/Moscow,FALSE,1643486363
+Syarda,Syarda,,53.0285,43.3261,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,12.9,,,4,Europe/Moscow,FALSE,1643217529
+Markino,Markino,Markin,52.1905,34.7349,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,12.8,,,4,Europe/Moscow,FALSE,1643292828
+Maden-Vuryykurt,Maden-Vuryykurt,,63.7333,69.6667,Russia,RU,RUS,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,Khanty-Mansiyskiy Avtonomnyy Okrug-Yugra,RU-KHM,autonomous region,,3.2,,,5,Asia/Yekaterinburg,FALSE,1643937957
+Kalashnikovo,Kalashnikovo,,57.0271,73.8745,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,2.8,,,5,Asia/Omsk,FALSE,1643027526
+Pozdnyakovo,Pozdnyakovo,Pozdyakovo,59.1220,46.7672,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.7,,,5,Europe/Moscow,FALSE,1643736182
+Tychinino,Tychinino,,56.4746,43.3703,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,84.4,,,4,Europe/Moscow,FALSE,1643318621
+Oklad,Oklad,,57.7146,28.6526,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.4,,,5,Europe/Moscow,FALSE,1643942738
+Kadzhenkin,Kadzhenkin,,47.5075,43.8044,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,3.6,,,5,Europe/Moscow,FALSE,1643877313
+Nizhnyaya Kurmaza,Nizhnyaya Kurmaza,Nizhne-Kurmazy|Nizhne-Kurmaza,53.5895,54.2768,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,12.1,,,4,Asia/Yekaterinburg,FALSE,1643357309
+Pustaya Guba,Pustaya Guba,,67.0000,33.5333,Russia,RU,RUS,Murmanskaya Oblast’,Murmanskaya Oblast',RU-MUR,province,,0.3,,,5,Europe/Moscow,FALSE,1643980400
+Azanovo,Azanovo,Pokrov,56.5136,33.3147,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,3.7,,,5,Europe/Moscow,FALSE,1643981452
+Shilovka,Shilovka,,51.8212,38.1182,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,13.3,,,4,Europe/Moscow,FALSE,1643104057
+Davydovo,Davydovo,,59.0806,38.8870,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,12.9,,,4,Europe/Moscow,FALSE,1643966560
+Davydovo,Davydovo,,58.9067,37.2745,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.7,,,5,Europe/Moscow,TRUE,1643787691
+Davydovo,Davydovo,,60.4607,37.9465,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.6,,,5,Europe/Moscow,TRUE,1643660267
+Davydovo,Davydovo,,55.6874,41.0208,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,9.8,,,5,Europe/Moscow,TRUE,1643520278
+Krepost’,Krepost',,55.8456,66.7383,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,3.8,,,5,Asia/Yekaterinburg,FALSE,1643237427
+Goren’,Goren',Garenka,53.3458,33.3200,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,11.7,,,4,Europe/Moscow,FALSE,1643178914
+Bazanakova,Bazanakova,,56.7111,84.3861,Russia,RU,RUS,Tomskaya Oblast’,Tomskaya Oblast',RU-TOM,province,,6.8,,,5,Asia/Tomsk,FALSE,1643776860
+Dmitrovo,Dmitrovo,,55.3668,37.4336,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,169.0,,,4,Europe/Moscow,FALSE,1643857289
+Dmitrovo,Dmitrovo,,55.7373,38.6024,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,161.9,,,4,Europe/Moscow,TRUE,1643006004
+Shetnevo-Cherëmyshevo,Shetnevo-Cheremyshevo,Shetnovo,55.5941,49.8828,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,14.9,,,4,Europe/Moscow,FALSE,1643351109
+Khoolokh,Khoolokh,,70.6000,136.3000,Russia,RU,RUS,Sakha (Yakutiya),Sakha (Yakutiya),RU-SA,republic,,0.1,,,5,Asia/Vladivostok,FALSE,1643330806
+Baykeyevo,Baykeyevo,,54.5333,43.4833,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,17.4,,,4,Europe/Moscow,FALSE,1643387123
+Krasnyy Bychëk,Krasnyy Bychek,Rezidentsiya Krasnyy Bychek|Krasny Bychek,57.6914,116.0136,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.2,,,5,Asia/Irkutsk,FALSE,1643479587
+Voskhod,Voskhod,Svinovod,50.8336,142.6089,Russia,RU,RUS,Sakhalinskaya Oblast’,Sakhalinskaya Oblast',RU-SAK,province,,2.3,,,4,Asia/Sakhalin,FALSE,1643536833
+Mogdy,Mogdy,,50.6064,133.7889,Russia,RU,RUS,Khabarovskiy Kray,Khabarovskiy Kray,RU-KHA,district,,0.4,,,5,Asia/Vladivostok,FALSE,1643741741
+Mogdy,Mogdy,,51.5833,133.9167,Russia,RU,RUS,Khabarovskiy Kray,Khabarovskiy Kray,RU-KHA,district,,0.4,,,5,Asia/Vladivostok,TRUE,1643950487
+Bor’ba,Bor'ba,,52.2500,46.7167,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,13.0,,,4,Europe/Saratov,FALSE,1643886857
+Khutorki,Khutorki,,52.2600,85.8094,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,9.8,,,5,Asia/Barnaul,FALSE,1643404494
+Zhidikhovo,Zhidikhovo,,59.2000,37.7000,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.7,,,5,Europe/Moscow,FALSE,1643293764
+Yakimenki,Yakimenki,,57.2331,48.1911,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,9.7,,,5,Europe/Kirov,FALSE,1643150604
+Aleksandro-Bogdanovka,Aleksandro-Bogdanovka,Alesandro-Bogdanovka,52.6786,45.4583,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,10.9,,,4,Europe/Moscow,FALSE,1643826429
+Smetanino,Smetanino,,56.9587,47.1894,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.7,,,5,Europe/Kirov,FALSE,1643966647
+Urtalga,Urtalga,,56.4170,55.4929,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,9.5,,,5,Asia/Yekaterinburg,FALSE,1643894538
+Rzhavka,Rzhavka,,53.0419,37.2088,Russia,RU,RUS,Orlovskaya Oblast’,Orlovskaya Oblast',RU-ORL,province,,9.9,,,5,Europe/Moscow,FALSE,1643019066
+Kolobovka,Kolobovka,,58.2876,45.8090,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.3,,,5,Europe/Moscow,FALSE,1643988063
+Chunskiy,Chunskiy,Chuna,56.0815,99.6342,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.3,,,5,Asia/Irkutsk,FALSE,1643041926
+Ganikhino,Ganikhino,Gonikhino,54.9333,75.4333,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,7.8,,,5,Asia/Novosibirsk,FALSE,1643178082
+Verkhniy Lopas,Verkhniy Lopas,,55.2821,59.0331,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,22.2,,,4,Asia/Yekaterinburg,FALSE,1643597979
+Khokhly,Khokhly,,53.4656,37.3669,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,24.7,,,4,Europe/Moscow,FALSE,1643894220
+Varegovo,Varegovo,,57.6876,39.2081,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,6.9,,,5,Europe/Moscow,FALSE,1643895784
+Stanovaya,Stanovaya,Stanovo,56.8667,75.5667,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,2.0,,,5,Asia/Omsk,FALSE,1643583229
+Starokurovo,Starokurovo,,55.0912,37.9425,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,76.8,,,4,Europe/Moscow,FALSE,1643990037
+Antonov,Antonov,,53.2989,43.7442,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,11.6,,,4,Europe/Moscow,FALSE,1643934776
+Koshkino,Koshkino,,56.1081,41.8640,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,34.2,,,4,Europe/Moscow,FALSE,1643190928
+Koshkino,Koshkino,,55.5442,41.5327,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,15.4,,,4,Europe/Moscow,TRUE,1643626148
+Okhlopkovo,Okhlopkovo,,58.4744,40.6910,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,5.5,,,5,Europe/Moscow,FALSE,1643394567
+Aleksandrovskiy Vtoroy,Aleksandrovskiy Vtoroy,,52.2667,42.9500,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,23.4,,,4,Europe/Saratov,FALSE,1643719945
+Drenevo,Drenevo,,57.6270,41.1440,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,17.6,,,4,Europe/Moscow,FALSE,1643067769
+Ust’-Marevo,Ust'-Marevo,Ust’mareva,57.4100,31.9657,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,2.3,,,5,Europe/Moscow,FALSE,1643211624
+Mulitsy,Mulitsy,,56.7735,29.4861,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.3,,,5,Europe/Moscow,FALSE,1643533675
+Kamennobrodskaya,Kamennobrodskaya,,45.1837,41.5187,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,56.1,,,4,Europe/Moscow,FALSE,1643174659
+Budovskoye,Budovskoye,,56.6900,39.2342,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,17.0,,,4,Europe/Moscow,FALSE,1643709719
+Sokolov Gart,Sokolov Gart,,54.3402,45.9345,Russia,RU,RUS,Mordoviya,Mordoviya,RU-MO,republic,,29.2,,,4,Europe/Moscow,FALSE,1643380998
+Sazonovo,Sazonovo,,55.2240,34.5390,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,22.3,,,4,Europe/Moscow,FALSE,1643152190
+Vorobeyka,Vorobeyka,,58.4521,31.1320,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,12.5,,,4,Europe/Moscow,FALSE,1643555391
+Ol’gino,Ol'gino,,53.4000,55.0500,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,12.5,,,4,Asia/Yekaterinburg,FALSE,1643012800
+Novoromashkovo,Novoromashkovo,,57.2507,55.2218,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,15.2,,,4,Asia/Yekaterinburg,FALSE,1643535851
+Malaya Perevoloka,Malaya Perevoloka,Novaya Perevoloka,56.9724,32.2176,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,2.7,,,5,Europe/Moscow,FALSE,1643848200
+Lozyn’,Lozyn',Lotsino’|Lozyni,54.6969,32.4975,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,10.5,,,4,Europe/Moscow,FALSE,1643287899
+Markovo,Markovo,Markovskoye,50.5445,127.3715,Russia,RU,RUS,Amurskaya Oblast’,Amurskaya Oblast',RU-AMU,province,,6.2,,,5,Asia/Yakutsk,FALSE,1643004786
+Gavrukova,Gavrukova,,58.9597,54.3029,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,3.3,,,5,Asia/Yekaterinburg,FALSE,1643995599
+Serëzhino,Serezhino,,59.4261,28.3275,Russia,RU,RUS,Leningradskaya Oblast’,Leningradskaya Oblast',RU-LEN,province,,28.7,,,4,Europe/Moscow,FALSE,1643199245
+Ozërniki,Ozerniki,,54.3645,38.2866,Russia,RU,RUS,Tul’skaya Oblast’,Tul'skaya Oblast',RU-TUL,province,,19.1,,,4,Europe/Moscow,FALSE,1643690018
+Bakhtinka,Bakhtinka,,51.3760,35.3612,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,24.6,,,4,Europe/Moscow,FALSE,1643171030
+Bakhtinka,Bakhtinka,,51.7614,35.2233,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,12.6,,,4,Europe/Moscow,TRUE,1643058996
+Khamanino,Khamanino,Khomanina,57.7167,41.7000,Russia,RU,RUS,Ivanovskaya Oblast’,Ivanovskaya Oblast',RU-IVA,province,,15.0,,,4,Europe/Moscow,FALSE,1643179691
+Biyek,Biyek,,54.9358,54.6005,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,18.7,,,4,Asia/Yekaterinburg,FALSE,1643020105
+Kuzovo,Kuzovo,Kuzov,57.8548,29.2103,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.0,,,5,Europe/Moscow,FALSE,1643759588
+Kamenka,Kamenka,,53.8162,55.7952,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,18.3,,,4,Asia/Yekaterinburg,TRUE,1643654464
+Kamenka,Kamenka,,56.0084,54.6222,Russia,RU,RUS,Bashkortostan,Bashkortostan,RU-BA,republic,,17.3,,,4,Asia/Yekaterinburg,TRUE,1643748784
+Kotel’nikovo,Kotel'nikovo,,51.3284,36.3070,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,27.2,,,4,Europe/Moscow,FALSE,1643538898
+Ebargul’,Ebargul',,57.6876,71.3838,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,1.6,,,5,Asia/Omsk,FALSE,1643902978
+Lynkovo,Lynkovo,,51.7000,36.9167,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,12.0,,,4,Europe/Moscow,FALSE,1643102311
+Pleteni,Pleteni,,58.4915,51.2352,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,7.5,,,5,Europe/Kirov,FALSE,1643379879
+Gorka-Shiryatskaya,Gorka-Shiryatskaya,,57.6400,37.2280,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,7.1,,,5,Europe/Moscow,FALSE,1643309596
+Shukshiyer,Shukshiyer,,56.9692,49.1467,Russia,RU,RUS,Mariy-El,Mariy-El,RU-ME,republic,,23.8,,,4,Europe/Moscow,FALSE,1643195698
+Sovpakhar’,Sovpakhar',,44.0931,43.7908,Russia,RU,RUS,Stavropol’skiy Kray,Stavropol'skiy Kray,RU-STA,district,,52.9,,,4,Europe/Moscow,FALSE,1643018717
+Letnik,Letnik,,53.1000,91.4167,Russia,RU,RUS,Khakasiya,Khakasiya,RU-KK,republic,,70.4,,,4,Asia/Krasnoyarsk,FALSE,1643003226
+Letnik,Letnik,Krutoy Log,53.5111,91.6506,Russia,RU,RUS,Khakasiya,Khakasiya,RU-KK,republic,,10.5,,,4,Asia/Krasnoyarsk,TRUE,1643713214
+Gur’yevo,Gur'yevo,,60.1568,46.6932,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,3.5,,,5,Europe/Kirov,FALSE,1643309336
+Yuryatino,Yuryatino,Yuratina,55.4815,38.9540,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,73.6,,,4,Europe/Moscow,FALSE,1643899130
+Yuryatino,Yuryatino,,55.5641,35.3436,Russia,RU,RUS,Moskovskaya Oblast’,Moskovskaya Oblast',RU-MOS,province,,30.6,,,4,Europe/Moscow,TRUE,1643020904
+Krivoles,Krivoles,Krivoless,53.8581,32.5717,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.1,,,5,Europe/Moscow,FALSE,1643287863
+Mashlykino,Mashlykino,Mashlikina,48.9503,39.7810,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,24.9,,,4,Europe/Moscow,FALSE,1643061158
+Selim,Selim,,46.7595,41.0263,Russia,RU,RUS,Rostovskaya Oblast’,Rostovskaya Oblast',RU-ROS,province,,15.4,,,4,Europe/Moscow,FALSE,1643221722
+Noril’noye,Noril'noye,Noril’naya,55.0744,64.5036,Russia,RU,RUS,Kurganskaya Oblast’,Kurganskaya Oblast',RU-KGN,province,,7.2,,,5,Asia/Yekaterinburg,FALSE,1643009246
+Bezlepkino,Bezlepkino,,51.5514,37.4416,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,12.9,,,4,Europe/Moscow,FALSE,1643559362
+Priudinsk,Priudinsk,Priudinskiy,55.7500,99.4333,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,1.3,,,5,Asia/Irkutsk,FALSE,1643705281
+Gromovo,Gromovo,,59.0612,46.7835,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.7,,,5,Europe/Moscow,FALSE,1643449602
+Gromovo,Gromovo,,58.9492,46.6215,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.7,,,5,Europe/Moscow,TRUE,1643471949
+Baranovka,Baranovka,,46.3749,48.7306,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,17.2,,,4,Europe/Astrakhan,FALSE,1643986824
+Baranovka,Baranovka,Khoshsutovskoye,46.7877,47.7847,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,7.9,,,5,Europe/Astrakhan,TRUE,1643410880
+Baranovka,Baranovka,,46.5557,48.3442,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,6.9,,,5,Europe/Astrakhan,TRUE,1643814619
+Baranovka,Baranovka,,48.1198,46.0720,Russia,RU,RUS,Astrakhanskaya Oblast’,Astrakhanskaya Oblast',RU-AST,province,,5.2,,,5,Europe/Astrakhan,TRUE,1643566317
+Koino,Koino,,58.9781,38.2981,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.7,,,5,Europe/Moscow,FALSE,1643286584
+Lomakin,Lomakin,,49.6667,45.9500,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.3,,,5,Europe/Volgograd,FALSE,1643012475
+Kalach,Kalach,,51.8500,48.5667,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,5.2,,,5,Europe/Saratov,FALSE,1643452691
+Turubli,Turubli,,55.0719,32.4075,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,7.1,,,5,Europe/Moscow,FALSE,1643678114
+Sokharevo,Sokharevo,Sukhareva,53.3123,84.8627,Russia,RU,RUS,Altayskiy Kray,Altayskiy Kray,RU-ALT,district,,8.7,,,5,Asia/Barnaul,FALSE,1643354813
+Kovyryayevka,Kovyryayevka,,54.9383,35.6658,Russia,RU,RUS,Kaluzhskaya Oblast’,Kaluzhskaya Oblast',RU-KLU,province,,11.2,,,4,Europe/Moscow,FALSE,1643194400
+Ust’-Pizya,Ust'-Pizya,,57.5101,55.5892,Russia,RU,RUS,Permskiy Kray,Permskiy Kray,RU-PER,district,,248.5,,,3,Asia/Yekaterinburg,FALSE,1643004917
+Shamry,Shamry,,52.8736,31.9366,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,13.0,,,4,Europe/Moscow,FALSE,1643577651
+Cherki-Bibkeyevo,Cherki-Bibkeyevo,Chirki-Bibkeyevo,55.1266,48.3575,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,29.5,,,4,Europe/Moscow,FALSE,1643062537
+Novyy Biklyan’,Novyy Biklyan',,55.6244,52.1753,Russia,RU,RUS,Tatarstan,Tatarstan,RU-TA,republic,,23.8,,,4,Europe/Moscow,FALSE,1643179149
+Zanina,Zanina,,57.3077,63.8829,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,6.7,,,5,Asia/Yekaterinburg,FALSE,1643291915
+Grakhovo,Grakhovo,,56.0500,51.9000,Russia,RU,RUS,Udmurtiya,Udmurtiya,RU-UD,republic,minor,9.3,,,3,Europe/Samara,FALSE,1643735906
+Koloshino,Koloshino,,57.6827,38.9647,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,6.9,,,5,Europe/Moscow,FALSE,1643179250
+Russko-Steklyannoye,Russko-Steklyannoye,Russko-Steklyannyy,53.7365,78.2776,Russia,RU,RUS,Novosibirskaya Oblast’,Novosibirskaya Oblast',RU-NVS,province,,11.2,,,4,Asia/Novosibirsk,FALSE,1643037169
+Krasnyy Ostrov,Krasnyy Ostrov,,52.5561,32.0775,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,11.5,,,4,Europe/Moscow,FALSE,1643853945
+Rovnovo,Rovnovo,Rovnoye,56.9333,31.2667,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.6,,,5,Europe/Moscow,FALSE,1643597987
+Rovnovo,Rovnovo,,58.0451,36.6456,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,4.0,,,5,Europe/Moscow,TRUE,1643404900
+Gribushino,Gribushino,,56.3200,30.4157,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.3,,,5,Europe/Moscow,FALSE,1643873094
+Shepelëvka,Shepelevka,Shepeleaki,51.9229,43.2228,Russia,RU,RUS,Saratovskaya Oblast’,Saratovskaya Oblast',RU-SAR,province,,8.6,,,5,Europe/Saratov,FALSE,1643147730
+Ubuzhe,Ubuzhe,Ubg’ye,50.5833,115.1000,Russia,RU,RUS,Zabaykal’skiy Kray,Zabaykal'skiy Kray,RU-ZAB,district,,5.4,,,5,Asia/Chita,FALSE,1643569336
+Lesnoy Kordon,Lesnoy Kordon,,52.4536,32.6423,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,11.1,,,4,Europe/Moscow,FALSE,1643000245
+Donovo,Donovo,Donova,57.5288,92.2224,Russia,RU,RUS,Krasnoyarskiy Kray,Krasnoyarskiy Kray,RU-KYA,district,,1.2,,,5,Asia/Krasnoyarsk,FALSE,1643594359
+Bol’shaya Lanovshchina,Bol'shaya Lanovshchina,,58.7012,32.3741,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,4.8,,,5,Europe/Moscow,FALSE,1643229571
+Poboyki,Poboyki,,55.7933,40.6792,Russia,RU,RUS,Vladimirskaya Oblast’,Vladimirskaya Oblast',RU-VLA,province,,9.8,,,5,Europe/Moscow,FALSE,1643381947
+Gnilaya Plota,Gnilaya Plota,,51.9592,36.7456,Russia,RU,RUS,Kurskaya Oblast’,Kurskaya Oblast',RU-KRS,province,,8.5,,,5,Europe/Moscow,FALSE,1643528287
+Ryaykhyavara,Ryaykhyavara,,61.4167,29.8667,Russia,RU,RUS,Kareliya,Kareliya,RU-KR,republic,,5.8,,,5,Europe/Moscow,FALSE,1643362989
+Malaya Lenevka,Malaya Lenevka,,57.6585,61.5247,Russia,RU,RUS,Sverdlovskaya Oblast’,Sverdlovskaya Oblast',RU-SVE,province,,14.2,,,4,Asia/Yekaterinburg,FALSE,1643627629
+Opryatkovo,Opryatkovo,,60.4540,38.6206,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.9,,,5,Europe/Moscow,FALSE,1643898521
+Mikushkino,Mikushkino,,56.0318,30.9212,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,3.6,,,5,Europe/Moscow,FALSE,1643863275
+Zagorodnyy,Zagorodnyy,,55.0624,73.5057,Russia,RU,RUS,Omskaya Oblast’,Omskaya Oblast',RU-OMS,province,,1400.4,,,3,Asia/Omsk,FALSE,1643576387
+Pravoberezhnyy,Pravoberezhnyy,,51.5378,56.2469,Russia,RU,RUS,Orenburgskaya Oblast’,Orenburgskaya Oblast',RU-ORE,province,,10.1,,,4,Asia/Yekaterinburg,FALSE,1643345891
+Glazomichi,Glazomichi,,55.8148,31.4743,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,5.2,,,5,Europe/Moscow,FALSE,1643008584
+Lovtsy,Lovtsy,,56.9866,39.0814,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,22.2,,,4,Europe/Moscow,FALSE,1643004389
+Vyalovka,Vyalovka,,55.0022,34.5817,Russia,RU,RUS,Smolenskaya Oblast’,Smolenskaya Oblast',RU-SMO,province,,2.9,,,5,Europe/Moscow,FALSE,1643630435
+Novoye Kaplino,Novoye Kaplino,Novo-Kaplino,53.2566,33.8854,Russia,RU,RUS,Bryanskaya Oblast’,Bryanskaya Oblast',RU-BRY,province,,9.2,,,5,Europe/Moscow,FALSE,1643559589
+Priberezhnaya,Priberezhnaya,,57.7364,39.4987,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,36.4,,,4,Europe/Moscow,FALSE,1643221640
+Pridorozhnaya,Pridorozhnaya,Svarukha-Dubasovo,58.4167,39.3000,Russia,RU,RUS,Yaroslavskaya Oblast’,Yaroslavskaya Oblast',RU-YAR,province,,4.2,,,5,Europe/Moscow,FALSE,1643178826
+Vorokhovo,Vorokhovo,,56.9333,47.2906,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,5.7,,,5,Europe/Kirov,FALSE,1643423932
+Zamosh’ye,Zamosh'ye,Vralovo,59.4957,40.5466,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,11.6,,,4,Europe/Moscow,FALSE,1643943975
+Zamosh’ye,Zamosh'ye,,59.1833,35.5500,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,5.4,,,5,Europe/Moscow,TRUE,1643256420
+Zamosh’ye,Zamosh'ye,,60.0693,39.5481,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,3.2,,,5,Europe/Moscow,TRUE,1643260793
+Zamosh’ye,Zamosh'ye,Zamoshch’ye,59.8134,36.9342,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,3.1,,,5,Europe/Moscow,TRUE,1643198014
+Zamosh’ye,Zamosh'ye,,59.5500,35.6833,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.2,,,5,Europe/Moscow,TRUE,1643000784
+Zamosh’ye,Zamosh'ye,,59.8667,35.9333,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.2,,,5,Europe/Moscow,TRUE,1643964622
+Zamosh’ye,Zamosh'ye,,60.6373,36.3915,Russia,RU,RUS,Vologodskaya Oblast’,Vologodskaya Oblast',RU-VLG,province,,2.0,,,5,Europe/Moscow,TRUE,1643595974
+Drovyanoy,Drovyanoy,Faktoriya Drovyanaya|Drovyanaya,72.4137,72.7683,Russia,RU,RUS,Yamalo-Nenetskiy Avtonomnyy Okrug,Yamalo-Nenetskiy Avtonomnyy Okrug,RU-YAN,autonomous region,,0.9,,,5,Asia/Yekaterinburg,FALSE,1643649250
+Burdukovo,Burdukovo,,56.5116,43.7713,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,63.5,,,4,Europe/Moscow,FALSE,1643053338
+Burdukovo,Burdukovo,,57.7493,45.3820,Russia,RU,RUS,Nizhegorodskaya Oblast’,Nizhegorodskaya Oblast',RU-NIZ,province,,5.1,,,5,Europe/Moscow,TRUE,1643287924
+Popovino,Popovino,,57.5596,49.1595,Russia,RU,RUS,Kirovskaya Oblast’,Kirovskaya Oblast',RU-KIR,province,,10.2,,,4,Europe/Kirov,FALSE,1643634761
+Kozlovskaya Zaimka,Kozlovskaya Zaimka,,54.3333,105.6000,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.5,,,5,Asia/Irkutsk,FALSE,1643791588
+Gossortuchastok,Gossortuchastok,,53.7600,44.9769,Russia,RU,RUS,Penzenskaya Oblast’,Penzenskaya Oblast',RU-PNZ,province,,11.1,,,4,Europe/Moscow,FALSE,1643034988
+Posëlok Kunashak,Poselok Kunashak,,55.6785,61.6217,Russia,RU,RUS,Chelyabinskaya Oblast’,Chelyabinskaya Oblast',RU-CHE,province,,10.1,,,4,Asia/Yekaterinburg,FALSE,1643297072
+Solontsy,Solontsy,,51.0162,39.7691,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,51.9,,,4,Europe/Moscow,FALSE,1643509507
+Solontsy,Solontsy,,51.3088,39.4471,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,23.5,,,4,Europe/Moscow,TRUE,1643373515
+Solontsy,Solontsy,,50.7046,39.5756,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,20.1,,,4,Europe/Moscow,TRUE,1643869722
+Solontsy,Solontsy,,49.9296,39.7148,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,16.1,,,4,Europe/Moscow,TRUE,1643792898
+Solontsy,Solontsy,Solonetskoye,50.6174,40.7037,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,15.2,,,4,Europe/Moscow,TRUE,1643321434
+Sukovskiy,Sukovskiy,,51.1203,43.1231,Russia,RU,RUS,Volgogradskaya Oblast’,Volgogradskaya Oblast',RU-VGG,province,,8.4,,,5,Europe/Volgograd,FALSE,1643099576
+Bruslanovka,Bruslanovka,,52.6039,39.2855,Russia,RU,RUS,Lipetskaya Oblast’,Lipetskaya Oblast',RU-LIP,province,,31.4,,,4,Europe/Moscow,FALSE,1643349228
+Plotnikovo,Plotnikovo,,56.3837,34.4635,Russia,RU,RUS,Tverskaya Oblast’,Tverskaya Oblast',RU-TVE,province,,4.1,,,5,Europe/Moscow,FALSE,1643318277
+Kovrizhnyy,Kovrizhnyy,Kovrezhnyy,51.0919,40.9128,Russia,RU,RUS,Voronezhskaya Oblast’,Voronezhskaya Oblast',RU-VOR,province,,22.2,,,4,Europe/Moscow,FALSE,1643003011
+Bol’shoye Fofankovo,Bol'shoye Fofankovo,,58.3041,33.7218,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,19.8,,,4,Europe/Moscow,FALSE,1643023629
+Shatunovo,Shatunovo,,58.6333,42.7833,Russia,RU,RUS,Kostromskaya Oblast’,Kostromskaya Oblast',RU-KOS,province,,2.8,,,5,Europe/Moscow,FALSE,1643035564
+Maloye Yablonovo,Maloye Yablonovo,,57.9739,31.9229,Russia,RU,RUS,Novgorodskaya Oblast’,Novgorodskaya Oblast',RU-NGR,province,,8.8,,,5,Europe/Moscow,FALSE,1643294453
+Svetlyy,Svetlyy,Svetly,58.4365,115.9663,Russia,RU,RUS,Irkutskaya Oblast’,Irkutskaya Oblast',RU-IRK,province,,0.2,,,5,Asia/Irkutsk,FALSE,1643823154
+Brod,Brod,,57.6474,28.3025,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,8.4,,,5,Europe/Moscow,FALSE,1643606305
+Brod,Brod,,56.4677,28.3436,Russia,RU,RUS,Pskovskaya Oblast’,Pskovskaya Oblast',RU-PSK,province,,6.4,,,5,Europe/Moscow,TRUE,1643298116

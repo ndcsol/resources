@@ -1,0 +1,1001 @@
+city,city_ascii,city_alt,lat,lng,country,iso2,iso3,admin_name,admin_name_ascii,admin_code,admin_type,capital,density,population,population_proper,ranking,timezone,same_name,id
+Almaty,Almaty,Almaty|Vernyy|Alma-Ata,43.2400,76.9150,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-75,city,admin,2810.6,1916822,1916822,1,Asia/Almaty,FALSE,1398351701
+Shymkent,Shymkent,Chimkent|Shymkent,42.3167,69.5958,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,admin,3412.4,1184113,1184113,1,Asia/Almaty,FALSE,1398791401
+Astana,Astana,Tselinograd|Akmola|Qaraötkel|Akmolinsk|Aqmola|Nur-Sultan,51.1472,71.4222,Kazakhstan,KZ,KAZ,Nur-Sultan,Nur-Sultan,KZ-71,city,primary,160.4,1078362,1078362,1,Asia/Almaty,FALSE,1398516045
+Qaraghandy,Qaraghandy,Karagandinskiye Kopi|Karaganda|Novyy Gorod,49.8028,73.1056,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,admin,50.5,497777,497777,2,Asia/Almaty,FALSE,1398274508
+Öskemen,Oskemen,Ust’-Kamenogorsk,49.9833,82.6167,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,admin,35.1,400142,400142,2,Asia/Almaty,FALSE,1398371414
+Aqtöbe,Aqtobe,Aktobe|Aktyubinsk|Aktobe|Aktiubinsk|Aktubinsk|Ukhtiubinskii,50.2836,57.2297,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,admin,237.2,387807,387807,2,Asia/Aqtobe,FALSE,1398602716
+Taraz,Taraz,Dzhambul|Talas|Zhambyl|Auliye-Ata|Jambul|Taraz,42.9000,71.3667,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,admin,21.2,357795,357795,2,Asia/Almaty,FALSE,1398626276
+Semey,Semey,Semipalatynsk|Semipalatinsk,50.4333,80.2667,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,admin,11.8,350201,350201,2,Asia/Almaty,FALSE,1398405657
+Pavlodar,Pavlodar,Kerekū|Pavlodar,52.3000,76.9500,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,admin,19.3,343091,7738,2,Asia/Almaty,FALSE,1398790087
+Türkistan,Turkistan,Turkestan,43.3019,68.2692,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,admin,49.3,250000,164746,2,Asia/Almaty,FALSE,1398398278
+Qyzylorda,Qyzylorda,Kyzylorda|Ak-Mechet’|Kzyl-Orda|Perovsk,44.8500,65.5167,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,admin,101.0,242462,242462,2,Asia/Qyzylorda,FALSE,1398248334
+Oral,Oral,Ural’sk,51.2225,51.3725,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,admin,52.1,234184,36466,2,Asia/Oral,FALSE,1398593972
+Qostanay,Qostanay,Kustanaisk|Kustanay|Kustanai|Kostanay,53.2000,63.6200,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,admin,50.2,217135,217135,2,Asia/Qostanay,FALSE,1398455461
+Petropavl,Petropavl,Petropavlovsk|Petropavlovsk|Petropawlowsk,54.8833,69.1667,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,admin,38.7,201446,201446,2,Asia/Almaty,FALSE,1398252858
+Temirtaū,Temirtau,Samarkand|Samarand|Samarka|Temirtau|Samarkandskoye,50.0500,72.9500,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,50.5,185082,185082,2,Asia/Almaty,FALSE,1398081646
+Aqtaū,Aqtau,Aktauskiy|Shevchenko|Aktau,43.6525,51.1575,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,admin,334.3,183350,183350,2,Asia/Aqtau,FALSE,1398046759
+Kökshetaū,Kokshetau,Kochetayev|Köshetaū|Kokshetau|Kokchetar|Kokchetau|Kokchetav,53.2833,69.3833,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,admin,23.3,165153,139063,2,Asia/Almaty,FALSE,1398375387
+Ekibastuz,Ekibastuz,Energograd|Ekibastuzugol’,51.6667,75.3667,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,7.1,159760,159760,2,Asia/Almaty,FALSE,1398583266
+Zhangaözen,Zhangaozen,Zhanaozen|Novyy Uzen’,43.3378,52.8553,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,147962,147962,2,Asia/Aqtau,FALSE,1398274968
+Atyraū,Atyrau,Gurev|Aterau|Gur’yev|Guriev|Chapayev|Atyrau,47.1167,51.8833,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,admin,3.3,130916,130916,2,Asia/Atyrau,FALSE,1398169063
+Taldyqorghan,Taldyqorghan,Taldykorgan|Taldy-Kurgan|Taldi Kurgan|Gavrilovskoye|Taltö-Kurgan|Gavrilovka,45.0167,78.3667,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,admin,54.0,129960,129960,2,Asia/Almaty,FALSE,1398112507
+Rudnyy,Rudnyy,Rūdnyy,52.9667,63.1333,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,43.2,128200,128200,2,Asia/Qostanay,FALSE,1398701954
+Zhezqazghan,Zhezqazghan,Zhezkazgan|Dzhezkazgan|Jezgazgan|Bol’shoy Dzhezkazgan|Jez-Kazgan,47.7833,67.7000,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,admin,1.3,90661,86227,2,Asia/Almaty,FALSE,1398121545
+Kentaū,Kentau,Kentau,43.5167,68.5167,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,49.3,81484,81484,3,Asia/Almaty,FALSE,1398997742
+Balqash,Balqash,Pribalkhashstroy|Pribalkhash|Balkhash,46.8481,74.9950,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,2.1,78002,78002,3,Asia/Almaty,FALSE,1398134106
+Aqsū,Aqsu,Aksu|Yermak|Ermak,52.0333,76.9167,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,8.6,69354,69354,3,Asia/Almaty,FALSE,1398272761
+Sätbayev,Satbayev,Sätbaev|Sätbaev|Satpayev|Nīkol’skīy|Nikol’skiy,47.9000,67.5333,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,minor,1.3,61883,61883,3,Asia/Almaty,FALSE,1398506074
+Kapchagay,Kapchagay,,43.8833,77.0833,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,61677,61677,3,Asia/Almaty,FALSE,1398649394
+Qaskeleng,Qaskeleng,Kaskelen,43.2000,76.6200,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,202.5,58418,58418,3,Asia/Almaty,FALSE,1398296961
+Ridder,Ridder,Lenīnogorsk|Lenīnogor|Ridderskiy,50.3500,83.5167,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,minor,10.2,49695,49695,3,Asia/Almaty,FALSE,1398556139
+Zyryanovsk,Zyryanovsk,Ziryanovsk|Zyryanovskoye|Zyryan|Zyranovsk|Zyranovskoye,49.7453,84.2548,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,minor,5.7,49658,49658,3,Asia/Almaty,FALSE,1398361284
+Talghar,Talghar,Talgar,43.3000,77.2333,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,41.4,47301,47301,3,Asia/Almaty,FALSE,1398444969
+Stepnogorsk,Stepnogorsk,,52.3497,71.8900,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,2.2,46712,46712,3,Asia/Almaty,FALSE,1398766937
+Shchūchīnsk,Shchuchinsk,Shchuch’ye|Shchuchinsk,52.9333,70.2000,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,11.3,45004,45004,3,Asia/Almaty,FALSE,1398291807
+Qarabulaq,Qarabulaq,Karabulag|Karabulak,42.5167,69.8000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,219.9,45000,45000,3,Asia/Almaty,FALSE,1398582036
+Zharkent,Zharkent,Djarkent|Jarkent|Dzharkent|Panfīlov|Panfilov,44.1667,80.0000,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,10.9,42617,42617,3,Asia/Almaty,FALSE,1398507500
+Qapshaghay,Qapshaghay,Ilijek|Iliisk|Iliyskoye|Iliysk|Kapchagay|Ili|Kapchagai|Kapshagay,43.8844,77.0687,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,admin,37.3,42167,42167,2,Asia/Almaty,FALSE,1398594098
+Soran,Soran,Saran’|Sorang,49.7833,72.8500,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,50.5,42058,42058,3,Asia/Almaty,FALSE,1398259748
+Ayagöz,Ayagoz,Sergiopol’|Ayaguz|Ayagoz|Ayaköz,47.9667,80.4333,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,minor,1.4,41593,41593,3,Asia/Almaty,FALSE,1398040009
+Arys,Arys,Arys’,42.4333,68.8000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,10.4,40707,40707,3,Asia/Almaty,FALSE,1398483570
+Beyneū,Beyneu,Beyneu 1|Beyneu,45.3247,55.1958,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,minor,2.5,40344,40344,3,Asia/Aqtau,FALSE,1398590005
+Baikonur,Baikonur,Bayqongyr|Baykonur|Baykonyr|Leninsk|Tyuratam|Zarya|Leninskiy,45.6167,63.3167,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,5.6,39161,39161,3,Asia/Qyzylorda,FALSE,1398535530
+Saryaghash,Saryaghash,Ssary-Agatsch|Saryagach|Saryagash,41.4667,69.1667,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,38848,38848,3,Asia/Almaty,FALSE,1398900566
+Shakhtīnsk,Shakhtinsk,Tentek|Shakhtinsk,49.7100,72.5872,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,13.4,37899,37899,3,Asia/Almaty,FALSE,1398239589
+Qulsary,Qulsary,Kul’sary|Kul’sari|Kol’sary,46.9833,54.0167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,minor,2.7,37103,37103,3,Asia/Atyrau,FALSE,1398141603
+Esik,Esik,Issök|Yesik|Issyk,43.3500,77.4667,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,37.2,36715,36715,3,Asia/Almaty,FALSE,1398166418
+Zhetisay,Zhetisay,Dzhetysay|Zhetysay|Jetisoy,40.7753,68.3272,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,174.1,36494,36494,3,Asia/Almaty,FALSE,1398994827
+Shū,Shu,Chu|Shu,43.5983,73.7614,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,8.1,35000,35000,3,Asia/Almaty,FALSE,1398834769
+Zhitiqara,Zhitiqara,Zhitikara|Jetygara|Dzhetygorinskiy Sovkhoz|Dzhetygora|Dzhetygara|Zhetiqara,52.1908,61.2011,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,5.9,34736,34736,3,Asia/Qostanay,FALSE,1398276170
+Aksay,Aksay,Aqsay|Kazakhstan,51.1678,52.9950,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,11.0,32873,32873,3,Asia/Oral,FALSE,1398621920
+Sayram,Sayram,Sairam,42.3000,69.7667,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,,219.9,32757,32757,3,Asia/Almaty,FALSE,1398493242
+Shiyeli,Shiyeli,Chiili|Shīeli,44.1789,66.7328,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,minor,2.5,32480,32480,3,Asia/Qyzylorda,FALSE,1398206798
+Staryy Beyneu,Staryy Beyneu,Beineu|Beyneu,45.1834,55.1000,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,2.5,32452,32452,3,Asia/Aqtau,FALSE,1398655445
+Balyqshy,Balyqshy,Balykshi|Belykshi,47.0667,51.8667,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,95.2,31624,31624,3,Asia/Atyrau,FALSE,1398354265
+Tekeli,Tekeli,,44.8300,78.8239,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,54.0,30707,30707,3,Asia/Almaty,FALSE,1398001451
+Uzynaghash,Uzynaghash,Uzunagach,43.2297,76.3100,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,7.1,30589,30589,3,Asia/Almaty,FALSE,1398430039
+Qarataū,Qaratau,Chulak-Tau|Karatau,43.1667,70.4500,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,4.1,30204,30204,3,Asia/Almaty,FALSE,1398932329
+Aral,Aral,Aral’skoye More|Aral Sea|Aral’sk,46.7833,61.6667,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,minor,1.7,29887,29887,3,Asia/Qyzylorda,FALSE,1398109811
+Atbasar,Atbasar,Atbasa|Atbasar,51.8000,68.3333,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,3.9,29733,29733,3,Asia/Almaty,FALSE,1398900162
+Oktyabr’sk,Oktyabr'sk,Oktyabr’sk|Kandagach|Kandagash|Oktyabr’|Kandyagash,49.4556,57.4161,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,2.1,29169,29169,3,Asia/Aqtobe,FALSE,1398394723
+Sortöbe,Sortobe,Shortoba|Shor-Tube|Shortöbe|Shor-Tyube,42.8600,75.2300,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,29000,29000,3,Asia/Almaty,FALSE,1398173306
+Arqalyq,Arqalyq,Arqalyk|Arkalyk,50.2481,66.9278,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,2.3,28169,28169,3,Asia/Qostanay,FALSE,1398980293
+Shalqar,Shalqar,Chelkar,47.8333,59.6000,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,0.7,27957,27957,3,Asia/Aqtobe,FALSE,1398440872
+Boralday,Boralday,Burunday|Baranday,43.3603,76.8578,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,201.1,27188,27188,3,Asia/Almaty,FALSE,1398737190
+Shelek,Shelek,Chiliksk|Chilik,43.5972,78.2511,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,26688,26688,3,Asia/Almaty,FALSE,1398010386
+Abay,Abay,Churubay-Nura|Churbay-Nura,49.6311,72.8539,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,13.4,25550,25550,3,Asia/Almaty,FALSE,1398353856
+Lengir,Lengir,Kopi-Lenger|Lenger-Ugol’|Lengerskiy|Lengerskij|Lengerskaya|Lenger,42.1819,69.8878,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,12.4,25298,25298,3,Asia/Almaty,FALSE,1398031838
+Üshtöbe,Ushtobe,Ush-Tyube|Ushtobe,45.2422,77.9822,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,2.2,24895,24895,3,Asia/Almaty,FALSE,1398940566
+Sarykemer,Sarykemer,Sarykamar|Mikhaylovka,43.0106,71.5172,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,21.2,24314,24314,3,Asia/Almaty,FALSE,1398707771
+Oytal,Oytal,,42.9153,73.2549,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,12.9,22673,22673,3,Asia/Almaty,FALSE,1398816918
+Qarazhal,Qarazhal,Karazhal|Kara-Dzhal,48.0253,70.7999,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,minor,0.7,22170,22170,3,Asia/Almaty,FALSE,1398149188
+Khromtaū,Khromtau,Khromtau|Khrom-Tai,50.2503,58.4347,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,2.8,21156,21156,3,Asia/Aqtobe,FALSE,1398766984
+Mangghystaū,Mangghystau,Mangghyshlaq|Manghyshlaq|Mangyshlak,43.6956,51.3261,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,minor,334.3,21004,21004,3,Asia/Aqtau,FALSE,1398790140
+Zhangatas,Zhangatas,Dzhanatas|Dzhanytas|Zhanatas,43.5705,69.7335,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,1.1,20731,20731,3,Asia/Almaty,FALSE,1398375093
+Otegen Batyr,Otegen Batyr,Energeticheskiy,43.3333,77.0500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,20163,20163,3,Asia/Almaty,FALSE,1398960718
+Alga,Alga,Algha,49.9028,57.3333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,5.4,19705,19705,3,Asia/Aqtobe,FALSE,1398920371
+Atasū,Atasu,Atasuskiy,48.6903,71.6499,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,minor,0.7,19616,19616,3,Asia/Almaty,FALSE,1398926180
+Töle Bī,Tole Bi,Novotroitskoye|Novo-Troitsk,43.6768,73.7620,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,8.1,19551,19551,3,Asia/Almaty,FALSE,1398035809
+Shemonaīkha,Shemonaikha,,50.6269,81.9109,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,minor,10.2,19127,19127,3,Asia/Almaty,FALSE,1398507085
+Zhosaly,Zhosaly,Zhusaly|Jusaly|Karmakchi|Dzhusaly,45.4893,64.0915,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,minor,5.6,18563,18563,3,Asia/Qyzylorda,FALSE,1398510696
+Uryzhar,Uryzhar,Urdzhar|Urjar|Urdzharsk|Urdzharskaya|Urdzharskoye|Urdjar|Ürzhar|Urdzharskiy,47.0900,81.6228,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,minor,3.0,17320,17320,3,Asia/Almaty,FALSE,1398461653
+Shongzhy,Shongzhy,Chunjinskiy|Chundzhinskiy|Chundzha|Shonzhy,43.5417,79.4703,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,6.9,17263,17263,3,Asia/Almaty,FALSE,1398268525
+Makīnsk,Makinsk,Makinsk,52.6292,70.4169,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,11.3,16818,16818,3,Asia/Almaty,FALSE,1398733675
+Qarabulaq,Qarabulaq,Kirov|Kara-Bulakskiy|Karov|Kerbulaq|Karabulak,44.9089,78.4922,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,54.0,16037,16037,3,Asia/Almaty,FALSE,1398637758
+Üsharal,Usharal,Ucharal,46.1697,80.9394,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,1.9,15991,15991,3,Asia/Almaty,FALSE,1398996101
+Bayserke,Bayserke,Dmitriyevka|Karasuk|Dmītrīevka,43.4797,77.0336,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,15124,15124,3,Asia/Almaty,FALSE,1398644775
+Maqat,Maqat,Makat Severnyy|Makat,47.6500,53.3167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,minor,1.3,14756,14756,3,Asia/Atyrau,FALSE,1398887034
+Qazyqurt,Qazyqurt,Kazyghurt|Lenīn|Kazykurt|Kazygurt|Leninskoye,41.7598,69.3880,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,29.5,14563,14563,3,Asia/Almaty,FALSE,1398181231
+Zaysan,Zaysan,Zaisan,47.4667,84.8667,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,minor,3.2,14389,14389,3,Asia/Almaty,FALSE,1398700526
+Sarqan,Sarqan,Sarqant|Sarkanskaya|Sarkand,45.4100,79.9186,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,3.4,14305,14305,3,Asia/Almaty,FALSE,1398159801
+Eski Īkan,Eski Ikan,Ikan|Yeskiikan|Yeskiakan|Eskiikan|Staryy Ikan|Staroikan,43.1833,68.5333,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,14294,14294,3,Asia/Almaty,FALSE,1398338734
+Aqköl,Aqkol,Alekseyevskoye|Alekseyevka|Alekseevka|Alekseev|Ak-Kul’|Akkol’,52.0000,70.9333,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,1.5,14217,14217,3,Asia/Almaty,FALSE,1398465376
+Shamalgan,Shamalgan,Chemolgan,43.3708,76.6236,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,202.5,13616,13616,3,Asia/Almaty,FALSE,1398379931
+Masangshy,Masangshy,Masanshy|Korokonyz|Masanchin|Karakunuz|Masanchi,42.9289,75.3019,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,13606,13606,3,Asia/Almaty,FALSE,1398737126
+Shetpe,Shetpe,,44.1667,52.1167,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,minor,0.7,13346,13346,3,Asia/Aqtau,FALSE,1398066409
+Īnderbor,Inderbor,Inderskoye|Inderborstroy|Indero|Inder|Inderborskiy,48.5500,51.7833,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,minor,2.8,13254,13254,3,Asia/Atyrau,FALSE,1398316274
+Qulan,Qulan,Lūgovoy|Lugovaya|Lugovoye|Kulan,42.9100,72.7150,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,7.4,13128,13128,3,Asia/Almaty,FALSE,1398525079
+Balpyq Bī,Balpyq Bi,Kīrovskīy|Balpyk Bī|Kirovskiy,44.8947,78.2083,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,5.3,12654,12654,3,Asia/Almaty,FALSE,1398089749
+Tuzdybastaū,Tuzdybastau,,43.3189,77.0594,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,12577,12577,3,Asia/Almaty,FALSE,1398000921
+Ereymentaū,Ereymentau,Yermentau|Ermentaū|Yereymentau,51.6167,73.1000,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,1.4,12518,12518,3,Asia/Almaty,FALSE,1398103059
+Baūyrzhan Momyshuly,Bauyrzhan Momyshuly,Burnoye,42.6189,70.7597,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,14.3,12491,12491,3,Asia/Almaty,FALSE,1398405690
+Taiynsha,Taiynsha,Tayncha|Taincha|Krasnoarmeysk|Krasnoarmeysk|Sovkhoz Tainchinskiy,53.8478,69.7639,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.5,12418,12418,3,Asia/Almaty,FALSE,1398304928
+Bayanaūyl,Bayanauyl,Bayan-Aul’skoye|Bayanaul|Bayan-Aulskaya,50.7889,75.6956,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,1.3,12354,12354,3,Asia/Almaty,FALSE,1398025624
+Zhetibay,Zhetibay,Zhetybay,43.5942,52.0789,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,11731,11731,3,Asia/Aqtau,FALSE,1398663278
+Novoīshīmskīy,Novoishimskiy,Novoishimskiy|Ashanino|Oshanino|Trudovoy|Kūybyshevskīy|Kuybyshevskiy|Kūybyshev,53.1981,66.7694,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.1,11583,11583,3,Asia/Almaty,FALSE,1398493177
+Esil,Esil,Yesil’,51.9556,66.4042,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,2.3,11551,11551,3,Asia/Almaty,FALSE,1398546225
+Derbisek,Derbisek,Derbise|Tobolino,41.5608,69.3378,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,11234,11234,3,Asia/Almaty,FALSE,1398930532
+Emba,Emba,Embi|Amba,48.8267,58.1442,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,11212,11212,3,Asia/Aqtobe,FALSE,1398915734
+Abay,Abay,Imeni Abaya|Oktyabr’skoye Desyatoye,43.2092,76.7603,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,202.5,10439,10439,3,Asia/Almaty,FALSE,1398792328
+Lūgovoy,Lugovoy,Lugovoye|Lugovoy|Lugowaja|Lūgovoe|Lugovka,42.9472,72.7644,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,7.4,10242,10242,3,Asia/Almaty,FALSE,1398256452
+Serebryansk,Serebryansk,Alekseyevskiy|Serebryanka|Novo-Aleksandrovka,49.6819,83.2847,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,10129,10129,3,Asia/Almaty,FALSE,1398188434
+Lenīnskīy,Leninskiy,Bayer|Sed’moy Aul|Aul Sed’moy|Leninskiy,52.2528,76.7789,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,7.9,9982,9982,4,Asia/Almaty,FALSE,1398857054
+Krasnyy Yar,Krasnyy Yar,Krasnyy Yar|Sovkhoz Krasnoyarskiy,53.3239,69.2525,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,9875,9875,4,Asia/Almaty,FALSE,1398149745
+Qarabalyq,Qarabalyq,Komsomolets,53.7506,62.0502,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,3.1,9838,9838,3,Asia/Qostanay,FALSE,1398254114
+Aqadyr,Aqadyr,Agadyr’,48.2749,72.8599,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,9710,9710,4,Asia/Almaty,FALSE,1398472084
+Saūmalköl,Saumalkol,Saumalkol’|Volodarskīy|Volodarskoye|Volodarskoe,53.2914,68.1094,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.5,9480,9480,3,Asia/Almaty,FALSE,1398118891
+Borovskoy,Borovskoy,Borovoye|Borovskoye|Borovo,53.7964,64.1894,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,3.8,9434,9434,3,Asia/Qostanay,FALSE,1398293067
+Sholaqqorghan,Sholaqqorghan,Sholakkorgan|Chalak-Kurgan|Chulakkurgan|Sholaqqkorghan|Tschulak-Kurgan,43.7650,69.1758,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,minor,1.4,9213,9213,3,Asia/Almaty,FALSE,1398413637
+Qarqaraly,Qarqaraly,Karkaralinsk,49.4167,75.4167,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,1.0,9212,9212,3,Asia/Almaty,FALSE,1398407379
+Kegen,Kegen,,43.0197,79.2203,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,5.7,9049,9049,3,Asia/Almaty,FALSE,1398638482
+Qashyr,Qashyr,Kachirski|Kashir|Kachirskiy|Kachīry|Kachiry,53.0804,76.0900,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,2.2,8931,8931,3,Asia/Almaty,FALSE,1398362078
+Makhambet,Makhambet,Yamanka|Yamankhalinski|Yamankhalinka|Yamankhalinskiy,47.6667,51.5833,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,minor,3.3,8905,8905,3,Asia/Atyrau,FALSE,1398232608
+Aqsū,Aqsu,Karasuk|Aksu|Stalinskiy,52.4502,71.9597,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,8543,8543,4,Asia/Almaty,FALSE,1398268556
+Kürshim,Kurshim,Kurchum|Kumashenkino|Kumashkino,48.5722,83.6542,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,minor,1.0,8490,8490,3,Asia/Almaty,FALSE,1398205846
+Chapaev,Chapaev,Lbishchenskoye|Lbishchenski|Chapayevo|Chapayev|Lbishchensk,50.2000,51.1667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.5,8476,8476,3,Asia/Oral,FALSE,1398386733
+Moyynqum,Moyynqum,Fūrmanovka|Moyynkum,44.2858,72.9372,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,0.6,8463,8463,3,Asia/Almaty,FALSE,1398813486
+Būlaevo,Bulaevo,Bulayevo,54.9056,70.4439,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.4,8433,8433,3,Asia/Almaty,FALSE,1398659796
+Zerendi,Zerendi,Zerenda,52.9000,69.1500,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,23.3,8369,8369,3,Asia/Almaty,FALSE,1398362712
+Zhansügirov,Zhansugirov,Dzhansugurov|Abakumovka|Dzhansugirov|Dzhangusurov|Abakumovskoye|Abakumovskaya,45.3886,79.5022,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,minor,2.5,8288,8288,3,Asia/Almaty,FALSE,1398338322
+Shar,Shar,Charskiy|Charsk,49.5858,81.0478,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,minor,1.5,8156,8156,3,Asia/Almaty,FALSE,1398393299
+Quryq,Quryq,Erälīev|Yeraliyevo|Yeraliyev|Kuryk|Yeraly,43.2000,51.6500,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,minor,3.8,8118,8118,3,Asia/Aqtau,FALSE,1398184336
+Qusmuryn,Qusmuryn,Kushmurun,52.4580,64.6000,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,3.7,8049,8049,3,Asia/Qostanay,FALSE,1398335766
+Osakarovka,Osakarovka,Oskarovka,50.5619,72.5681,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,2.6,8046,8046,3,Asia/Almaty,FALSE,1398243007
+Koktobe,Koktobe,Alatau,43.2606,76.9764,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-75,city,,5963.2,7989,7989,2,Asia/Almaty,FALSE,1398370030
+Sharbaqty,Sharbaqty,Shcherbakty,52.4800,78.1500,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,2.3,7915,7915,3,Asia/Almaty,FALSE,1398705015
+Ertis,Ertis,Irtyshskoye|Irtyshsk|Irtysh|Irtysch,53.3333,75.4572,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,1.3,7772,7772,3,Asia/Almaty,FALSE,1398172080
+Narynqol,Narynqol,Narynkol|Narön Kol,42.7258,80.1783,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,minor,5.7,7731,7731,3,Asia/Almaty,FALSE,1398059053
+Qazaly,Qazaly,Kasalinsk|Kazalinsk,45.7667,62.1000,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,minor,2.0,7686,7686,3,Asia/Qyzylorda,FALSE,1398983835
+Bayghanīn,Bayghanin,Karaulkel’dy|Bayganin,48.6917,55.8740,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,0.3,7657,7657,3,Asia/Aqtobe,FALSE,1398205914
+Amangeldi,Amangeldi,Amankeldy|Amangeldin|Batpaqqara|Batbakkara|Amangel’dy,50.1811,65.1886,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,0.5,7569,7569,3,Asia/Qostanay,FALSE,1398050147
+Zhänibek,Zhanibek,Djanybek|Djiembet|Dzhanibek|Djanibek|Janybek|Dzhanybek,49.4167,46.8500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.8,7460,7460,3,Asia/Oral,FALSE,1398255562
+Sergeevka,Sergeevka,Sergeyevka,53.8814,67.4088,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.5,7344,7344,3,Asia/Almaty,FALSE,1398880514
+Mamlyutka,Mamlyutka,,54.9414,68.5406,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.8,7320,7320,3,Asia/Almaty,FALSE,1398076022
+Zhanatalap,Zhanatalap,Dzhanatala,49.2142,50.2964,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,7202,7202,4,Asia/Oral,FALSE,1398521356
+Bestöbe,Bestobe,Bestyube|Bestobe,52.4997,73.0997,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,7189,7189,4,Asia/Almaty,FALSE,1398545422
+Tobyl,Tobyl,Tobol,52.6980,62.5749,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,8.3,7155,7155,4,Asia/Qostanay,FALSE,1398858827
+Arshaly,Arshaly,Vishnevskoye|Vishchnyevka|Vīshnyovka|Vīshnevka|Vishnëvka,50.8342,72.1717,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,4.5,7051,7051,3,Asia/Almaty,FALSE,1398740037
+Shyngghyrlaū,Shyngghyrlau,Chingirlau,51.0950,54.0814,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.6,7005,7005,3,Asia/Oral,FALSE,1398261188
+Mezhdūrechenskoye,Mezhdurechenskoye,Mezhdurechensk|Kaskelenskiy|Mezhdurechenskoye|Mezhdūrechenskoe,43.4528,76.7228,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,6972,6972,3,Asia/Almaty,FALSE,1398241983
+Zholymbet,Zholymbet,Dzhoronbet|Dzholonbet|Dzhalambet|Zholymbet,51.7502,71.7099,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.7,6876,6876,4,Asia/Almaty,FALSE,1398035914
+Kishkeneköl,Kishkenekol,Kzyltuu|Kzyltu|Kishkenekol’|Kyzl Tau|Qyzyltū,53.6394,72.3439,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,1.1,6779,6779,3,Asia/Almaty,FALSE,1398061261
+Saghyz,Saghyz,Sagyz|Sagiz,48.2364,54.8819,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.0,6530,6530,3,Asia/Atyrau,FALSE,1398521401
+Podstepnoe,Podstepnoe,Podstepnyy|Podstepnoye,51.1475,51.4881,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.7,6461,6461,4,Asia/Oral,FALSE,1398312553
+Fyodorovka,Fyodorovka,Fëdorovka|Fedorovskiy|Fedorovka,53.6314,62.7078,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,3.1,6406,6406,3,Asia/Qostanay,FALSE,1398864274
+Astrakhan,Astrakhan,Astrakhanskoye|Astrakhanskiy|Astrakhanka,51.5283,69.7972,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,3.2,6313,6313,3,Asia/Almaty,FALSE,1398676645
+Derzhavīnsk,Derzhavinsk,Derzhavinskiy|Derzhavinsk,51.1000,66.3167,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,0.8,6307,6307,3,Asia/Almaty,FALSE,1398070336
+Miyaly,Miyaly,Mīyaly|Miyala,48.8850,53.7919,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,minor,1.3,6213,6213,3,Asia/Atyrau,FALSE,1398158710
+Molodyozhnyy,Molodyozhnyy,Molodëzhnyy|Molodezhnoye|Traktorist|Molodezhnyy,50.7217,73.5300,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.5,6139,6139,4,Asia/Almaty,FALSE,1398227112
+Shortandy,Shortandy,Shartandy|Shortandy,51.6975,70.9947,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,5.7,6060,6060,3,Asia/Almaty,FALSE,1398000036
+Krūgloozernoe,Krugloozernoe,Krugloozerni|Krugloozernoye|Krugloozërnyy,51.0825,51.2853,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,6016,6016,4,Asia/Oral,FALSE,1398584542
+Azat,Azat,,43.3547,77.2675,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,5848,5848,4,Asia/Almaty,FALSE,1398853637
+Būrabay,Burabay,Kurort Borovoye|Borovoye,53.0872,70.3000,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,11.3,5800,5800,4,Asia/Almaty,FALSE,1398357322
+Smīrnovo,Smirnovo,Smirnovskiy|Smirnovo|Smīirnovo,54.5119,69.4182,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,3.5,5718,5718,3,Asia/Almaty,FALSE,1398882212
+Avat,Avat,Novyy Mir,43.4000,77.2675,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,5670,5670,4,Asia/Almaty,FALSE,1398659456
+Badamsha,Badamsha,Batamshinskiy,50.5603,58.2772,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,3.0,5668,5668,3,Asia/Aqtobe,FALSE,1398391080
+Aqshī,Aqshi,Akchi|Akshi|Akshiy,43.9900,76.3236,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,5646,5646,4,Asia/Almaty,FALSE,1398159566
+Fort-Shevchenko,Fort-Shevchenko,Fort-Schewtschenko|Fort Uritskogo|Fort Aleksandrovskiy|Fort Aleksandrovsk,44.5167,50.2667,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,minor,3.4,5559,5559,3,Asia/Aqtau,FALSE,1398201971
+Yavlenka,Yavlenka,,54.3479,68.4598,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,4.3,5478,5478,3,Asia/Almaty,FALSE,1398559969
+Presnovka,Presnovka,Presnogor’kovka,54.6703,67.1500,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,2.3,5322,5322,3,Asia/Almaty,FALSE,1398693005
+Pavlodarskoe,Pavlodarskoe,Pavlodarskiy|Pavlodarskoye,52.3889,76.8614,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,60.1,5319,5319,4,Asia/Almaty,FALSE,1398838914
+Saūdakent,Saudakent,Baykadam|Baikadam,43.7378,69.9183,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,5313,5313,4,Asia/Almaty,FALSE,1398975950
+Qaraoy,Qaraoy,Karoy|Iliyskiy|Karaoy|Karaul|Sovkhoz Iliyskiy|Karauya,43.5219,76.8297,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,5282,5282,3,Asia/Almaty,FALSE,1398807534
+Torghay,Torghay,Turgaj|Turgai|Torgay|Turgay,49.6260,63.4990,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,0.3,5277,5277,3,Asia/Qostanay,FALSE,1398845535
+Botaqara,Botaqara,Kolchoznoye|Ul’yanovskoye|Sannikovskoye|Kolkhoznoye|Ūl’yanovskīy|Ul’yanovskiy,50.0611,73.7156,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,50.5,5223,5223,3,Asia/Almaty,FALSE,1398420571
+Aqtoghay,Aqtoghay,Aktogay,46.9500,79.6667,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.4,5200,5200,4,Asia/Almaty,FALSE,1398880674
+Kaztalovka,Kaztalovka,Talovka,49.7575,48.6950,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.5,5055,5055,3,Asia/Oral,FALSE,1398892876
+Zhympīty,Zhympity,Dzhambeytinskaya Stavka|Dzhambeyta|Dzhambeita|Dzhambeyty,50.2536,52.5950,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.2,4931,4931,3,Asia/Oral,FALSE,1398696953
+Aqshī,Aqshi,Akshiy,43.5150,77.6325,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,4923,4923,4,Asia/Almaty,TRUE,1398108641
+Zhaqsyqylysh,Zhaqsyqylysh,Aralsol’|Aralsul’fat,46.8250,61.8592,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.7,4847,4847,4,Asia/Qyzylorda,FALSE,1398728181
+Tughyl,Tughyl,Priozërnyy|Tugyl|Tūghyl|Tarbagatay|Priozernyy,47.7285,84.2047,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,4744,4744,4,Asia/Almaty,FALSE,1398658837
+Dostyq,Dostyq,Druzhba|Dostyk,45.2533,82.4844,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,4698,4698,3,Asia/Almaty,FALSE,1398347917
+Taypaq,Taypaq,Kalmykovo|Kalmykova|Kalmikovsk,49.0342,51.8289,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,4692,4692,4,Asia/Oral,FALSE,1398393835
+Zhaqsy,Zhaqsy,Zhaksy|Dzhaksy,51.9133,67.3325,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,1.4,4678,4678,3,Asia/Almaty,FALSE,1398912388
+Aqköl,Aqkol,Akkol’,46.6550,49.0572,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,4596,4596,4,Asia/Atyrau,FALSE,1398731435
+Aqsū-Ayuly,Aqsu-Ayuly,Aksu-Ayuly,48.7686,73.6774,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,0.6,4587,4587,3,Asia/Almaty,FALSE,1398924790
+Otar,Otar,,43.5375,75.2089,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,8.9,4540,4540,4,Asia/Almaty,FALSE,1398243169
+Qamysty,Qamysty,Kamyshnoye|Kamyshnyy,51.9617,61.7836,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,0.8,4484,4484,3,Asia/Qostanay,FALSE,1398211846
+Balkashīno,Balkashino,Balkashinskoye|Balkashino,52.5175,68.7525,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,2.5,4466,4466,3,Asia/Almaty,FALSE,1398871910
+Teskensū,Teskensu,Teskensu,43.5482,77.8720,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,4443,4443,4,Asia/Almaty,FALSE,1398306954
+Qaramendi,Qaramendi,Dzhambul|Dokuchayevka|Dokuchayevskiy|Dokūchaevka,51.6606,64.2256,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,0.6,4425,4425,3,Asia/Qostanay,FALSE,1398135669
+Stepnyak,Stepnyak,Stepniak|Spepnyak,52.8333,70.7833,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,minor,1.2,4413,4413,3,Asia/Almaty,FALSE,1398386834
+Saryshaghan,Saryshaghan,Saryshagan,46.1167,73.6167,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,4365,4365,4,Asia/Almaty,FALSE,1398222668
+Sozaq,Sozaq,Suzak,44.1333,68.4667,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,4335,4335,4,Asia/Almaty,FALSE,1398812687
+Nura,Nura,Oktyabr’,43.6881,77.1914,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,4327,4327,4,Asia/Almaty,FALSE,1398115441
+Peremetnoe,Peremetnoe,Peremëtnoye|Peremetnaya,51.1833,50.8167,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,4308,4308,4,Asia/Oral,FALSE,1398883597
+Kūlagīno,Kulagino,Kulaginskaya,48.3708,51.5589,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.8,4307,4307,3,Asia/Atyrau,FALSE,1398050190
+Munayshy,Munayshy,Munayshi,43.4911,52.1086,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,4085,4085,4,Asia/Aqtau,FALSE,1398116459
+Qaynazar,Qaynazar,Intemak|Kaynazar|Kaynazarka,43.3664,77.3108,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.2,4058,4058,4,Asia/Almaty,FALSE,1398968603
+Besköl,Beskol,Beskol’,46.1753,81.0989,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,4000,4000,4,Asia/Almaty,FALSE,1398895018
+Qosshaghyl,Qosshaghyl,Kostschagyl|Kosh-Chagyl|Koshchagil’|Koschagil’|Kosh-chag|Koschagyl,46.8458,53.8047,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,3935,3935,3,Asia/Atyrau,FALSE,1398057743
+Qapal,Qapal,Kopal|Kapal,45.1333,79.0500,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,3869,3869,4,Asia/Almaty,TRUE,1398503161
+Bulaqty,Bulaqty,Obukhovskoye|Obūkhovka|Obukhovka,46.1953,81.1028,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,3740,3740,4,Asia/Almaty,FALSE,1398230773
+Sayqyn,Sayqyn,Saykhan|Saichin|Saikhin|Saykhin,48.8125,46.7636,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,0.8,3686,3686,3,Asia/Oral,FALSE,1398694311
+Kökpekti,Kokpekti,Kokpekty,48.7500,82.4000,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,minor,1.9,3651,3651,3,Asia/Almaty,FALSE,1398376154
+Ashchysay,Ashchysay,Karaturuk|Dala-Kara-Turuk|Karaturyq|Qaraturyq|Karaturyk,43.5569,77.9853,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,3565,3565,4,Asia/Almaty,FALSE,1398683874
+Lenīngradskoe,Leningradskoe,Leningradskiy|Leningradskoye,53.5369,71.5486,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,1.7,3509,3509,3,Asia/Almaty,FALSE,1398008920
+Qarasū,Qarasu,Karasu|Karasul’,52.6589,65.4858,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,minor,1.8,3476,3476,3,Asia/Qostanay,FALSE,1398596667
+Qaratöbe,Qaratobe,Karatobe|Kara-Tyube,49.7333,53.5000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,minor,1.3,3434,3434,3,Asia/Oral,FALSE,1398241576
+Egindibulaq,Egindibulaq,Yegindybulak|Yegendybulak,49.7856,76.3853,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,3399,3399,4,Asia/Almaty,FALSE,1398307900
+Myngbaev,Myngbaev,Mynbayevo,43.2931,76.4444,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,3305,3305,4,Asia/Almaty,FALSE,1398377011
+Myngbayev,Myngbayev,,43.2884,76.4516,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,3305,3305,3,Asia/Almaty,FALSE,1398000470
+Egindiköl,Egindikol,Shalkar|Yegendy|Yegindy|Yegindykul’|Yegindykol’,50.8431,70.8258,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,160.4,3285,3285,4,Asia/Almaty,TRUE,1398523512
+Baūtīno,Bautino,Nikolayevskoye|Staro-Nikolayevskaya|Bautino Seleniye|Seleniye Bautino|Bautino,44.5447,50.2464,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.4,3247,3247,4,Asia/Aqtau,FALSE,1398205534
+Börili,Borili,Burlin|Burli|Burlinskiy,51.4272,52.7139,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,3244,3244,4,Asia/Oral,FALSE,1398496684
+Qalqaman,Qalqaman,Kalkaman|Kalkamak|Kol’-Koman,51.9525,76.0211,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,7.9,3145,3145,4,Asia/Almaty,FALSE,1398039950
+Marīnovka,Marinovka,Marinovskoye|Amantayskaya,51.7966,69.1610,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,3024,3024,4,Asia/Almaty,FALSE,1398040337
+Qaraqastek,Qaraqastek,Kara-Köstak|Kara-Kystak|Kastek|Karakastek,43.1322,76.0933,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,3020,3020,4,Asia/Almaty,FALSE,1398705671
+Dashīno,Dashino,Dashin,46.6109,49.0586,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,3009,3009,4,Asia/Atyrau,FALSE,1398946749
+Taskesken,Taskesken,Teskesken|Taskisken,47.2231,80.7889,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,3.0,2999,2999,3,Asia/Almaty,FALSE,1398674331
+Ryskulov,Ryskulov,,43.2997,77.2864,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,2979,2979,4,Asia/Almaty,FALSE,1398000920
+Sümbe,Sumbe,Sumbe,42.9313,80.4891,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,2978,2978,4,Asia/Almaty,FALSE,1398303434
+Aqtoghay,Aqtoghay,Aktogay,48.3144,74.9769,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,minor,2.1,2770,2770,3,Asia/Almaty,FALSE,1398705584
+Aqqaynar,Aqqaynar,Prudki|Kastek,43.1667,76.0394,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,2754,2754,4,Asia/Almaty,FALSE,1398345251
+Orlīk,Orlik,Orlovski|Orlovskiy|Orlik,48.2675,51.5242,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.8,2741,2741,4,Asia/Atyrau,FALSE,1398492125
+Ketpen,Ketpen,Ketmen’|Bolshoy Ketmen’|Bol’shoy Ketmen’,43.4503,80.3500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,2689,2689,3,Asia/Almaty,FALSE,1398153091
+Kellerovka,Kellerovka,Kellerevo|Kellerovka|Kellerovskiy,53.8357,69.2990,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,2663,2663,4,Asia/Almaty,FALSE,1398958573
+Taūshyq,Taushyq,Taushik|Tauchik,44.3467,51.3494,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.4,2600,2600,4,Asia/Aqtau,FALSE,1398907805
+Stantsīonnyy,Stantsionnyy,Stantsionnyy,53.3544,69.4947,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,2595,2595,4,Asia/Almaty,FALSE,1398480905
+Ülgi,Ulgi,Ul’gy|Ulgö|Ulgi|Lepsi|Lepsy|Podsobnoye Khozyaystvo Lepsy|Ul’gi,46.3469,78.3319,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,2567,2567,4,Asia/Almaty,FALSE,1398287094
+Bektöbe,Bektobe,Bektobe,42.8833,71.2864,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,107.8,2507,2507,4,Asia/Almaty,FALSE,1398118278
+Īmantaū,Imantau,Imantavskiy|Imantav|Imantau|Sovkhoz Imantavskiy|Sovkhoz Imeni Gazety Pravda,52.9260,68.3649,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,2459,2459,4,Asia/Almaty,FALSE,1398453205
+Bozoy,Bozoy,,46.2181,58.8206,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,2349,2349,4,Asia/Aqtobe,FALSE,1398207149
+Aqköl,Aqkol,Akkul’|Akkol’,43.4342,70.7725,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,4.1,2327,2327,3,Asia/Almaty,FALSE,1398942169
+Qasymbek,Qasymbek,Novorossiyskoye|Kasymbek|Novorossiyskiy|Novorossiysk,43.2511,76.4319,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,2326,2326,3,Asia/Almaty,FALSE,1398870713
+Qyzylaghash,Qyzylaghash,Kizöl-agach|Kyzylagash|Kizyl-Agach,45.3725,78.7211,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,2256,2256,4,Asia/Almaty,FALSE,1398266994
+Qarasaz,Qarasaz,Karasaz,43.0461,79.8814,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,2250,2250,4,Asia/Almaty,FALSE,1398000371
+Aqqyztoghay,Aqqyztoghay,Akkiztogay|Akkyztogay|Kolkhoz Imeni Amangeldy,47.0986,54.3889,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,2232,2232,3,Asia/Atyrau,FALSE,1398975105
+Süyindik,Suyindik,Suyundyk|Suyunduk|Suyindik,48.1319,47.6686,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,2113,2113,3,Asia/Atyrau,FALSE,1398924373
+Qumkent,Qumkent,Kumkent|Kumgent,43.7689,69.6139,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,2063,2063,4,Asia/Almaty,FALSE,1398139891
+Sengek,Sengek,Senek|Sinek,43.3667,53.4003,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,2038,2038,3,Asia/Aqtau,FALSE,1398842311
+Tushchyqudyq,Tushchyqudyq,Tushchikuduk|Tushche-Kuduk|Tushchykuduk,44.7500,51.9667,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,2030,2030,3,Asia/Aqtau,FALSE,1398446278
+Tastykara,Tastykara,Tashty-Kara|Amangel’dy|Tashty-Kard,43.4719,77.3522,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,1962,1962,4,Asia/Almaty,FALSE,1398810267
+Balatopar,Balatopar,,45.0519,74.6161,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,0.8,1918,1918,4,Asia/Almaty,FALSE,1398048374
+Tanday,Tanday,Tangday,47.5494,51.5169,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,1913,1913,3,Asia/Atyrau,FALSE,1398552003
+Alga,Alga,,43.4450,77.1731,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,1866,1866,4,Asia/Almaty,FALSE,1398196140
+Bayshonas,Bayshonas,Baychunas,47.2414,52.9411,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,7.4,1864,1864,4,Asia/Atyrau,FALSE,1398959084
+Aqtam,Aqtam,Aktam,43.4431,79.8192,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,1846,1846,4,Asia/Almaty,FALSE,1398830963
+Basshī,Basshi,Basshiy|Baschiy|Baschiyskaya,44.1589,78.7461,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,1831,1831,4,Asia/Almaty,FALSE,1398442569
+Safonovka,Safonovka,Malaya Safonovka,46.5021,48.9135,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,1771,1771,4,Asia/Atyrau,FALSE,1398740187
+Arasan,Arasan,Arasanskiy,45.2781,79.3550,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,1758,1758,4,Asia/Almaty,FALSE,1398293122
+Sarytoghay,Sarytoghay,Sarytogay,47.7186,51.5767,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,1752,1752,3,Asia/Atyrau,FALSE,1398956123
+Köktūma,Koktuma,Koktuma|Köktuma,45.8681,81.6464,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,1729,1729,3,Asia/Almaty,FALSE,1398603124
+Basqynshy,Basqynshy,Baskunchak|Baskunchi|Kyzyl Karaul,44.3372,80.3764,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,9.9,1725,1725,4,Asia/Almaty,FALSE,1398416915
+Qurayly,Qurayly,Kurayli,50.4610,57.0200,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,237.2,1712,1712,3,Asia/Aqtobe,FALSE,1398001523
+Begimbet,Begimbet,Sarybulak,47.0914,59.0678,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,1703,1703,3,Asia/Aqtobe,FALSE,1398500290
+Üteri,Uteri,Utery,46.4889,48.9944,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,1697,1697,3,Asia/Atyrau,FALSE,1398237028
+Taschagil,Taschagil,Tasshagyl|Tasshagil|Tayshagil’,48.8753,52.9708,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,1682,1682,3,Asia/Atyrau,FALSE,1398395768
+Qarsaqbay,Qarsaqbay,Karsakpai|Karsakpay,47.8333,66.7500,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,1668,1668,4,Asia/Almaty,FALSE,1398508690
+Bīsen,Bisen,Urdinskiy|Bisanskiy|Bisinskiy,48.9928,47.6617,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,0.8,1627,1627,4,Asia/Oral,FALSE,1398715522
+Zhangel’dina,Zhangel'dina,Dzhangel’dina,48.9581,53.7361,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,1583,1583,3,Asia/Atyrau,FALSE,1398231124
+Sayötesh,Sayotesh,Say-Utës|Say-Utes,44.3278,53.5325,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,1571,1571,4,Asia/Aqtau,FALSE,1398414456
+Zhaypaq,Zhaypaq,Kommunizm,46.0184,81.2749,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,1564,1564,4,Asia/Almaty,FALSE,1398001456
+Shilikti,Shilikti,Chilakty,47.5153,60.6556,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,1492,1492,4,Asia/Aqtobe,FALSE,1398745875
+Polūdīno,Poludino,Poludennyy|Poludino,54.8617,69.9181,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.4,1492,1492,4,Asia/Almaty,FALSE,1398676107
+Novoaleksandrovka,Novoaleksandrovka,Novaya Aleksandrovka|Novo-Aleksandrovskiy,51.7855,68.8403,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,1488,1488,4,Asia/Almaty,FALSE,1398728547
+Lobanovo,Lobanovo,Sovkhoz Lobanovskiy,53.0947,68.4331,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,1483,1483,4,Asia/Almaty,FALSE,1398445980
+Aydarly,Aydarly,,44.0333,79.5164,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,10.9,1477,1477,4,Asia/Almaty,FALSE,1398860889
+Shair,Shair,,44.2419,51.8186,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,1425,1425,4,Asia/Aqtau,FALSE,1398908493
+Vīktorovka,Viktorovka,Viktorovka,52.7534,69.1144,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,1419,1419,4,Asia/Almaty,FALSE,1398293413
+Pervomayka,Pervomayka,Pervomayskoye|Pervomayskiy|Pervomayka,51.2869,70.1306,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,1388,1388,3,Asia/Almaty,FALSE,1398347452
+Voznesenka,Voznesenka,Voznesenskoye,52.4031,70.2127,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.6,1377,1377,4,Asia/Almaty,FALSE,1398744171
+Birshoghyr,Birshoghyr,Berchogur,48.4597,58.5536,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,1370,1370,3,Asia/Aqtobe,FALSE,1398539353
+Saty,Saty,Satö,43.0712,78.4086,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,1369,1369,4,Asia/Almaty,FALSE,1398949674
+Dalaqaynar,Dalaqaynar,Dalakaynar,43.8292,73.9509,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,8.1,1358,1358,4,Asia/Almaty,FALSE,1398239373
+Bögetsay,Bogetsay,Bogetsay|Bugati-Sai|Begetsay|Buget|Bugaty-Say|Bugetsay,50.1222,59.0956,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,1354,1354,3,Asia/Aqtobe,FALSE,1398285716
+Ushtaghan,Ushtaghan,Üshtagan|Ushtagan|Üshtaghon,43.8250,52.7236,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,1325,1325,3,Asia/Aqtau,FALSE,1398695324
+Sabyndy,Sabyndy,Sabandy,50.8775,70.5519,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.8,1300,1300,4,Asia/Almaty,FALSE,1398231202
+Shebir,Shebir,,44.8222,52.0894,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,1299,1299,3,Asia/Aqtau,FALSE,1398239532
+Tuyyq,Tuyyq,Tuyuk,43.0964,79.3981,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,1296,1296,3,Asia/Almaty,FALSE,1398291561
+Ölī,Oli,Aliy|Ali,43.5642,77.0303,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,1270,1270,4,Asia/Almaty,FALSE,1398320162
+Aqshymyraū,Aqshymyrau,Akshynyrau|Akshimrau,44.8000,52.8333,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,1264,1264,3,Asia/Aqtau,FALSE,1398869226
+Qaraoba,Qaraoba,Karaoba,49.9717,47.9547,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,1252,1252,4,Asia/Oral,FALSE,1398123787
+Köktal,Koktal,Aulsovet Chetvërtyy|Koktal,45.4606,75.2081,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,0.8,1247,1247,4,Asia/Almaty,TRUE,1398029846
+Peschanoe,Peschanoe,Peschanyy|Peschanoye,53.0003,76.2850,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.2,1240,1240,4,Asia/Almaty,FALSE,1398621171
+Torghay,Torghay,Turgay,51.7537,72.7311,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,1224,1224,4,Asia/Almaty,FALSE,1398298038
+Qyzyltū,Qyzyltu,Kyzyltu,43.4167,77.0736,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,1220,1220,4,Asia/Almaty,FALSE,1398335738
+Qyzylqayyng,Qyzylqayyng,Saratovka|Saratovskoye,45.8333,80.2500,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.4,1207,1207,3,Asia/Almaty,FALSE,1398394691
+Zhangatilek,Zhangatilek,Karakabak|Zhanatlek,50.4978,75.2025,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,1197,1197,4,Asia/Almaty,FALSE,1398003781
+Täūish,Tauish,Taush,49.9847,63.9422,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.0,1177,1177,4,Asia/Qostanay,FALSE,1398575153
+Lepsīnsk,Lepsinsk,Lepsi|Lepsinsk,45.5286,80.6167,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,1151,1151,4,Asia/Almaty,FALSE,1398199163
+Aqköl,Aqkol,Akkol’,53.2956,69.6031,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,1140,1140,4,Asia/Almaty,TRUE,1398297273
+Novoshūmnoe,Novoshumnoe,Shumnyy|Novoshumnyy|Novoshumnoye,53.9208,62.8686,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,1086,1086,4,Asia/Qostanay,FALSE,1398026157
+Borīsovka,Borisovka,Borisovskiy|Vladimiroborisovka,51.8911,68.5409,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,1084,1084,4,Asia/Almaty,FALSE,1398315085
+Maksīmovka,Maksimovka,Maksimovka,52.3955,68.6272,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,1072,1072,4,Asia/Almaty,TRUE,1398900464
+Kūdryashevo,Kudryashevo,Kudryashevo|Kudryashovo|Kudryashev,46.5206,48.7953,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,1071,1071,3,Asia/Atyrau,FALSE,1398851173
+Araltoghay,Araltoghay,Araltogay|Araltugay,49.8300,60.0986,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,1062,1062,3,Asia/Aqtobe,FALSE,1398784461
+Ayke,Ayke,Pskovskiy|Ashchi-Kara-Su,50.9689,61.6428,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,1058,1058,4,Asia/Aqtobe,FALSE,1398996238
+Ulanbel,Ulanbel,Ulanbel’,44.8250,71.0042,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,1047,1047,4,Asia/Almaty,FALSE,1398589527
+Saralzhin,Saralzhin,Saranzhin,49.5000,54.9000,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,1.5,1045,1045,4,Asia/Aqtobe,FALSE,1398474943
+Altynemel,Altynemel,Altynemel’|Altyn-Emel’skaya|Altön-Emel’|Altin-Emel|Imeni Kirova,44.3358,78.4406,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,1040,1040,4,Asia/Almaty,FALSE,1398235590
+Vedenovka,Vedenovka,,52.6071,69.4898,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,1015,1015,4,Asia/Almaty,FALSE,1398195689
+Aqsū,Aqsu,Aksuyskaya|Aksū|Aksu,45.6086,79.4619,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,892,892,4,Asia/Almaty,FALSE,1398658676
+Novomīkhaylovka,Novomikhaylovka,Novomikhaylovka,54.6572,68.1947,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.8,887,887,4,Asia/Almaty,FALSE,1398418879
+Altyqarasū,Altyqarasu,Altykarasu,49.2022,55.8681,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.6,879,879,3,Asia/Aqtobe,FALSE,1398621514
+Taysoyghan,Taysoyghan,Taysoygan,48.5681,53.4475,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,866,866,4,Asia/Atyrau,FALSE,1398000723
+Mīrnyy,Mirnyy,,44.6683,73.8567,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,841,841,4,Asia/Almaty,FALSE,1398845505
+Pokrovka,Pokrovka,Pokrovskiy|Pokrovskaya,51.9829,68.5327,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,834,834,4,Asia/Almaty,FALSE,1398594453
+Mayly,Mayly,Tay-Tyube|Taytobe|Taytobe,50.9847,71.2967,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,160.4,832,832,4,Asia/Almaty,FALSE,1398519087
+Bīikzhal,Biikzhal,Biikzhal,46.7983,54.7186,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,828,828,4,Asia/Atyrau,FALSE,1398000541
+Bayqadam,Bayqadam,Baykadam,47.3553,59.2364,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,809,809,3,Asia/Aqtobe,FALSE,1398568416
+Panfīlovo,Panfilovo,Panfīlovskīy|Imeni Panfilova|Panfilovo,53.2436,74.8989,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,781,781,3,Asia/Almaty,FALSE,1398409341
+Aktoghay,Aktoghay,Aktogay,43.4478,69.8822,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,781,781,4,Asia/Almaty,FALSE,1398152730
+Kyzylzhar,Kyzylzhar,Kyzylzhay,49.9819,72.6075,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,773,773,4,Asia/Almaty,FALSE,1398929671
+Aynabulaq,Aynabulaq,,44.6000,77.9333,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,5.3,754,754,4,Asia/Almaty,FALSE,1398001068
+Shoshanay,Shoshanay,Chushenay|Chushanay|Shashanay|Chuzhanay,43.2861,79.3250,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,732,732,4,Asia/Almaty,FALSE,1398657122
+Zhalanash,Zhalanash,Birlestik|Zhalangash,46.6564,61.1272,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.7,700,700,4,Asia/Qyzylorda,FALSE,1398271149
+Shīli,Shili,Shiyli|Shili,51.5917,64.7425,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.6,697,697,4,Asia/Qostanay,TRUE,1398286071
+Batpaqköl,Batpaqkol,Ushana|Batpakkol’,49.4519,52.9539,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.3,696,696,4,Asia/Oral,FALSE,1398754776
+Shalqar,Shalqar,Shalkarskiy|Shalkar|Chelkarskiy|Chalkar,53.1769,68.5192,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,696,696,4,Asia/Almaty,FALSE,1398506292
+Zhaltyr,Zhaltyr,Dzhaltyr,51.6324,69.8328,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,694,694,4,Asia/Almaty,FALSE,1398809487
+Sadovoe,Sadovoe,Sadovoye,51.8834,68.3966,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,688,688,4,Asia/Almaty,TRUE,1398001973
+Nura,Nura,,48.8939,62.3081,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.3,681,681,4,Asia/Aqtobe,FALSE,1398804368
+Kalachī,Kalachi,Kalachi|Kalachevskiy,52.2472,66.5286,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,647,647,3,Asia/Almaty,FALSE,1398337546
+Uyym,Uyym,,43.7258,69.9419,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,645,645,4,Asia/Almaty,FALSE,1398688640
+Kazatkom,Kazatkom,,43.5806,77.7275,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,634,634,4,Asia/Almaty,FALSE,1398683695
+Kolësov,Kolesov,,50.9161,51.1533,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,613,613,4,Asia/Oral,FALSE,1398552237
+Arqarly,Arqarly,Arkharly|Arkarly,46.2489,80.0978,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,611,611,4,Asia/Almaty,FALSE,1398511578
+Toghyz,Toghyz,Tuguz|Tugiz|Togyz,47.5572,60.5408,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,609,609,4,Asia/Aqtobe,FALSE,1398640292
+Tayqongyr,Tayqongyr,Taykonyr,45.2075,67.5342,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,608,608,4,Asia/Almaty,FALSE,1398140439
+Alga,Alga,Zhanatuomys,43.2347,74.7575,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,605,605,4,Asia/Almaty,FALSE,1398557575
+Ashchibulak,Ashchibulak,,45.2556,79.5194,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,600,600,4,Asia/Almaty,FALSE,1398013302
+Belovodskoye,Belovodskoye,,51.8101,67.9180,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,587,587,4,Asia/Almaty,FALSE,1398853369
+Maltabar,Maltabar,,51.6563,73.1389,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,586,586,4,Asia/Almaty,FALSE,1398117017
+Azghyr,Azghyr,Tschaptschatschi|Azgir|Chapchachi,47.8367,47.9122,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,580,580,3,Asia/Atyrau,FALSE,1398643036
+Aktogay,Aktogay,Dendrariy,43.4783,77.4477,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,568,568,4,Asia/Almaty,TRUE,1398506422
+Altyndy,Altyndy,,48.9453,58.6861,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,551,551,3,Asia/Aqtobe,FALSE,1398532280
+Belgorodskoe,Belgorodskoe,Belgorodskoye|Belgorodskiy,52.4800,69.1656,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,547,547,4,Asia/Almaty,FALSE,1398722718
+Belogorka,Belogorka,Berogorskiy|Belogorka|Belgorodskiy|Belogorskiy,50.7250,53.4603,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.6,543,543,4,Asia/Oral,FALSE,1398530735
+Aqözek,Aqozek,Akozek,43.9411,77.5144,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,536,536,3,Asia/Almaty,FALSE,1398425873
+Akdala,Akdala,,43.3278,77.2008,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,533,533,4,Asia/Almaty,FALSE,1398017948
+Eskene,Eskene,Iskine|Iskinskiy|Iskininskiy,47.2172,52.6336,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,7.4,528,528,3,Asia/Atyrau,FALSE,1398925439
+Perekatnaya,Perekatnaya,Perekatnoye|Perekatnoe,51.8320,67.9142,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,520,520,4,Asia/Almaty,FALSE,1398543560
+Ozyornoe,Ozyornoe,Ozërnoye|Ozernoye|Ozernyy,53.8539,68.8826,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,4.3,511,511,4,Asia/Almaty,FALSE,1398324248
+Īnternatsīonal’nyy,Internatsional'nyy,Imeni Mayakovskogo|Mayakovskiy|Internatsional’nyy,51.6328,65.7917,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,509,509,4,Asia/Almaty,FALSE,1398378317
+Karasevka,Karasevka,Karasevskiy|Karasevka,53.5784,68.4615,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,498,498,4,Asia/Almaty,FALSE,1398916123
+Bolgarka,Bolgarka,Bolgarskiy,49.6489,56.5300,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,5.4,480,480,3,Asia/Aqtobe,FALSE,1398813239
+Petrovka,Petrovka,,52.4772,68.7228,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,475,475,4,Asia/Almaty,FALSE,1398354641
+Ashchisay,Ashchisay,Ashche-Say,49.4172,58.2928,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,472,472,3,Asia/Aqtobe,FALSE,1398310729
+Baturasay,Baturasay,Bayturusayevskiy,50.9608,56.7822,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,4.4,471,471,3,Asia/Aqtobe,FALSE,1398714506
+Qazgorodok,Qazgorodok,Tersakkan|Terisakkan|Kazgorodok,51.2684,67.2177,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,468,468,4,Asia/Almaty,FALSE,1398196276
+Begaly,Begaly,Begala,49.8325,55.2206,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,1.0,466,466,3,Asia/Aqtobe,FALSE,1398543919
+Zhaylaūköl,Zhaylaukol,Zhaylyaukol’,44.8394,70.4439,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,464,464,4,Asia/Almaty,FALSE,1398338473
+Shyrahak,Shyrahak,Shyganak|Chiganak|Shyghanaq,44.8286,70.0053,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,436,436,4,Asia/Almaty,FALSE,1398698772
+Saryqobda,Saryqobda,Sarykobda|Bessarabskiy|Bessarabka,49.8092,56.4469,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,5.4,428,428,4,Asia/Aqtobe,FALSE,1398703346
+Ayymzhan,Ayymzhan,Aymzhan,54.5441,67.0926,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,2.3,419,419,4,Asia/Almaty,FALSE,1398301493
+Qosköl,Qoskol,Koskol’,47.5828,64.5558,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,412,412,4,Asia/Almaty,FALSE,1398708424
+Qyzyltang,Qyzyltang,Trofīmovka|Trofimovka|Kzyltan,53.3756,69.6958,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,394,394,4,Asia/Almaty,FALSE,1398702314
+Zhas,Zhas,Kokterek,49.5078,49.7922,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,381,381,4,Asia/Oral,FALSE,1398696172
+Aqtas,Aqtas,Aktas,49.7789,72.9608,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,378,378,4,Asia/Almaty,FALSE,1398630791
+Toqmansay,Toqmansay,Tokmansay,49.8372,57.9378,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,5.4,366,366,4,Asia/Aqtobe,FALSE,1398001577
+Zhastalap,Zhastalap,Dzhas Talal|Ganyushkinotobe|Gangyushkīno|Dzhas-Talap|Ganyushkintobe,46.5644,48.6822,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,4.4,351,351,3,Asia/Atyrau,FALSE,1398230493
+Rakhat,Rakhat,Madeniyet|Kolkhoz Imeni Parizhskoy Kommuny,43.3406,76.8158,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-75,city,,202.5,337,337,3,Asia/Almaty,TRUE,1398978200
+Burubaytal,Burubaytal,Būrylbaytal|Buribaytal,44.9350,74.0180,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,336,336,4,Asia/Almaty,FALSE,1398655547
+Qoshalaq,Qoshalaq,,47.3536,49.0219,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,329,329,3,Asia/Atyrau,FALSE,1398999883
+Mektep,Mektep,Daumbay,54.0520,67.6701,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,328,328,4,Asia/Almaty,FALSE,1398154267
+Matveevka,Matveevka,Matveyevskiy|Matveevski|Matveyevka,52.8363,67.8115,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,304,304,4,Asia/Almaty,FALSE,1398786135
+Īskra,Iskra,Iskra,54.8176,68.4479,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.8,299,299,4,Asia/Almaty,FALSE,1398372925
+Nagornoe,Nagornoe,Nagornoye|Nagornyy,53.9612,69.4122,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,278,278,4,Asia/Almaty,FALSE,1398148625
+Belogorka,Belogorka,Belogorskiy,50.3639,57.6392,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,237.2,275,275,3,Asia/Aqtobe,FALSE,1398022423
+Bel’kopa,Bel'kopa,,50.0719,59.5856,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,268,268,3,Asia/Aqtobe,FALSE,1398942914
+Baysary,Baysary,Ozero Baysary|Baysora,51.9605,72.6604,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,265,265,4,Asia/Almaty,FALSE,1398010366
+Blagoveshchenskoye,Blagoveshchenskoye,Blagoveshchenskiy,49.6517,56.3703,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.6,252,252,3,Asia/Aqtobe,FALSE,1398815295
+Metlīshīno,Metlishino,Metlishino,54.9697,69.6227,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,38.7,247,247,4,Asia/Almaty,FALSE,1398537191
+Molaly,Molaly,Mulaly,45.4528,78.3147,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,213,213,4,Asia/Almaty,FALSE,1398942859
+Aktuma,Aktuma,,45.2972,79.0667,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,202,202,4,Asia/Almaty,TRUE,1398811376
+Gornoe,Gornoe,Leskhoz Arykbalykskiy|Gornoye|Lesnoye Khozyaystvo Arykbalykskiy,52.9291,68.2447,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,202,202,4,Asia/Almaty,FALSE,1398404219
+Esmakhan,Esmakhan,Yesmakan|Yesmakhan,47.4747,51.4622,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,200,200,4,Asia/Atyrau,FALSE,1398526550
+Beldeūtas,Beldeutas,Beldeutas,49.0586,76.2364,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,198,198,4,Asia/Almaty,FALSE,1398697952
+Razdol’noe,Razdol'noe,Razdol’noye,52.4839,69.2331,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,197,197,4,Asia/Almaty,TRUE,1398211335
+Stanovoe,Stanovoe,Stanovoye|Stanovskoye,54.8203,68.3165,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.8,196,196,4,Asia/Almaty,FALSE,1398480997
+Qurama,Qurama,Kuroma|Puroma|Kurama,50.2603,73.9115,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,177,177,4,Asia/Almaty,FALSE,1398905454
+Konovalovka,Konovalovka,Konovalovskoye|Konovalovskiy,53.6468,67.1953,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,176,176,4,Asia/Almaty,FALSE,1398554084
+Kirovo,Kirovo,Imeni Kirova,51.9222,71.1322,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,173,173,4,Asia/Almaty,FALSE,1398535826
+Ūrūnkhayka,Urunkhayka,Urunkhaika|Urunkhayka,48.7833,86.0253,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.0,165,165,4,Asia/Almaty,FALSE,1398164797
+Ermakovka,Ermakovka,Yermakovka,53.3481,65.6500,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,163,163,4,Asia/Qostanay,FALSE,1398098328
+Bulaq,Bulaq,Bulak,50.0948,56.1146,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,1.0,161,161,4,Asia/Aqtobe,FALSE,1398001930
+Orqash,Orqash,Karasu|Urkash,51.3417,62.3250,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.8,150,150,4,Asia/Qostanay,FALSE,1398867349
+Qanshenggel,Qanshenggel,Kolshyengyel|Kol’shengel’|Kanshengel’,44.3333,75.5500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,144,144,3,Asia/Almaty,FALSE,1398571587
+Semizbughy,Semizbughy,Semizbugy|Semiz-Bugu|Semiye-Bugu|Semie Bugu|Semiz-Buga|Semizbuga,50.1961,74.8289,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,136,136,4,Asia/Almaty,FALSE,1398046779
+Aktyube,Aktyube,,45.2333,79.6667,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,125,125,4,Asia/Almaty,FALSE,1398107849
+Kamenskoye Plato,Kamenskoye Plato,Kamennoye Plato|Podsobnoye Khozyaystvo Kamennoye Plato,43.5050,77.1353,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,121,121,4,Asia/Almaty,FALSE,1398907520
+Qonystanū,Qonystanu,Konstanu|Konystanu,48.8417,53.3456,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,112,112,4,Asia/Atyrau,FALSE,1398917559
+Tosbulak,Tosbulak,,47.6350,60.4039,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,107,107,3,Asia/Aqtobe,FALSE,1398001448
+Īnternatsīonal’noe,Internatsional'noe,Internatsional’noye,54.7611,68.4547,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.8,96,96,5,Asia/Almaty,FALSE,1398392277
+Sevan,Sevan,,49.9263,72.9697,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,95,95,4,Asia/Almaty,FALSE,1398000228
+Botay,Botay,,53.3030,67.6450,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,84,84,3,Asia/Almaty,FALSE,1398733290
+Balasaz,Balasaz,,45.1444,79.4111,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.5,83,83,5,Asia/Almaty,FALSE,1398528271
+Galitsyno,Galitsyno,,53.3408,68.2071,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,81,81,4,Asia/Almaty,FALSE,1398332882
+Kökpek,Kokpek,Kokpek,43.4539,78.6803,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,74,74,4,Asia/Almaty,FALSE,1398561940
+Ūan,Uan,Uan,48.1086,82.8058,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,72,72,4,Asia/Almaty,FALSE,1398002197
+Kalmyk,Kalmyk,Kalmyki|Kalmyky,50.7535,49.3261,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,71,71,4,Asia/Oral,FALSE,1398888269
+Krasnoye,Krasnoye,Kyzylyulduz,53.3525,69.3356,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,65,65,4,Asia/Almaty,FALSE,1398839201
+Bogoslovka,Bogoslovka,,52.3428,68.7886,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,62,62,4,Asia/Almaty,FALSE,1398557173
+Sadybek,Sadybek,Sadybekovskiy,51.7753,68.7620,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,55,55,4,Asia/Almaty,FALSE,1398715920
+Araltöbe,Araltobe,Araltobe,50.1733,60.1828,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,40,40,3,Asia/Aqtobe,FALSE,1398001659
+Bereke,Bereke,,45.9831,78.7686,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.7,37,37,5,Asia/Almaty,FALSE,1398001173
+Zapadnyy,Zapadnyy,Qyzyltal|Kyzyltal,51.0801,65.6827,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.7,30,30,4,Asia/Almaty,FALSE,1398495764
+Aqyshköl,Aqyshkol,Akshkol,50.0664,51.7750,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,26,26,4,Asia/Oral,FALSE,1398002063
+Trovglazovka,Trovglazovka,Troyeglazovka,49.8458,83.2753,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,1,1,4,Asia/Almaty,FALSE,1398356679
+Kazybay,Kazybay,,49.1152,50.3886,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398001948
+Aleksandrovka,Aleksandrovka,,43.4459,77.3322,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,,,4,Asia/Almaty,FALSE,1398199131
+Zhalghyztal,Zhalghyztal,Kovyl’nyy|Kovyl’noye,49.9816,67.2514,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.3,,,5,Asia/Qostanay,FALSE,1398457850
+Dolonka,Dolonka,,46.5667,48.6833,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398278453
+Dūbrovka,Dubrovka,Dubrovka,52.6047,67.1258,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,FALSE,1398828157
+Kurylys,Kurylys,,41.3438,68.9670,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398000051
+Qazaqstannyng Zhīyrma Zhyldyghy,Qazaqstannyng Zhiyrma Zhyldyghy,Dvadtsat’ Let Kazakhstana,44.8528,64.4527,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.4,,,5,Asia/Qyzylorda,FALSE,1398000683
+Aktyubek,Aktyubek,,50.2210,69.4726,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.8,,,5,Asia/Almaty,FALSE,1398740663
+Mayshat,Mayshat,,47.2367,85.4822,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398001472
+Qorday,Qorday,Georgīevka|Georgiyevka,43.0333,74.7167,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,minor,17.7,,,3,Asia/Almaty,FALSE,1398717423
+Qorday,Qorday,Kurday,43.3110,74.9352,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,,,4,Asia/Almaty,TRUE,1398983106
+Dubrovka,Dubrovka,,51.9333,77.6333,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,60.1,,,4,Asia/Almaty,FALSE,1398140283
+Shokytas,Shokytas,Shoktas|Shektash|Shektas,43.4298,68.6380,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,,,4,Asia/Almaty,FALSE,1398123454
+Shokytas,Shokytas,,43.4942,68.9590,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,,,4,Asia/Almaty,TRUE,1398312521
+Otdeleniye Lenintu,Otdeleniye Lenintu,,42.3199,68.2206,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,2.8,,,5,Asia/Almaty,FALSE,1398942090
+Samrata,Samrata,,49.0500,71.0000,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,0.7,,,5,Asia/Almaty,FALSE,1398666730
+Kyzylzhuldyz,Kyzylzhuldyz,Kzyl-Zhuldyz,47.3500,51.9167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,,,5,Asia/Atyrau,FALSE,1398620173
+Qaraözek,Qaraozek,Karaozek|Kara-Uzek,53.6620,69.0665,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398606280
+Shümek,Shumek,Shumek|Leninskiy|Deninskiy|Chumek,48.6667,85.5333,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.0,,,4,Asia/Almaty,FALSE,1398380139
+Qaraashchy,Qaraashchy,Karashchi|Karaashchi,50.5555,74.6733,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,50.5,,,4,Asia/Almaty,FALSE,1398494177
+Doskey,Doskey,,49.8567,73.2679,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398701871
+Almaly,Almaly,Almalinka,45.1370,78.5004,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,37.8,,,4,Asia/Almaty,FALSE,1398999972
+Almaly,Almaly,,44.2884,80.3381,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,10.9,,,4,Asia/Almaty,TRUE,1398132619
+Almaly,Almaly,,45.4517,79.9805,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.4,,,5,Asia/Almaty,TRUE,1398001051
+Zhelezīnka,Zhelezinka,Zhelezinskaya|Zheleznenka|Zhelezinka,53.5388,75.3133,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,minor,1.5,,,3,Asia/Almaty,FALSE,1398932271
+Almaly,Almaly,,44.0202,75.2452,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,,,4,Asia/Almaty,FALSE,1398001090
+Bas-Liman,Bas-Liman,,50.1333,72.8000,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398204587
+Qazansū,Qazansu,Kazansu,44.4024,77.6340,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,FALSE,1398420788
+Kabyl,Kabyl,,49.5667,49.3333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398442362
+Kalīnovka,Kalinovka,Kalinovka,45.0992,78.7080,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,54.0,,,4,Asia/Almaty,FALSE,1398043967
+Kalīnovka,Kalinovka,Kalinovka,44.5098,78.8868,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,TRUE,1398384653
+Zhanakala,Zhanakala,,49.7909,66.1340,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.5,,,5,Asia/Qostanay,FALSE,1398667295
+Krasnyy Ural,Krasnyy Ural,,51.4667,51.5000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398959524
+Besköl,Beskol,Bishkul’,54.7750,69.1017,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,minor,38.7,,,3,Asia/Almaty,FALSE,1398623512
+Skvorkino,Skvorkino,Severkino|Skvorkin|Sivorkin|Sevorkino,50.7833,51.1000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398346325
+Kūrskoe,Kurskoe,Kurskiy|Kurskoye,51.7396,66.3246,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,,,5,Asia/Almaty,FALSE,1398723956
+Tūrgenevka,Turgenevka,Turgenevskoye|Turgenevka,50.7600,72.3240,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,4.5,,,5,Asia/Almaty,FALSE,1398388498
+Staryy Kardon,Staryy Kardon,,49.7333,50.9833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398340700
+Altyntobe,Altyntobe,,42.3936,69.4215,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,,50.5,,,4,Asia/Almaty,FALSE,1398438888
+Atkan,Atkan,,48.2333,51.6333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.8,,,5,Asia/Atyrau,FALSE,1398772970
+Znamensk,Znamensk,,49.3411,57.1944,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,FALSE,1398001640
+Alginskiy,Alginskiy,,49.5667,48.2000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398098629
+Bugor,Bugor,,43.9341,77.1904,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,,,4,Asia/Almaty,FALSE,1398237645
+Kyzylkayyn,Kyzylkayyn,,47.6195,84.1363,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398001389
+Gūsarka,Gusarka,Gusarka|Gusarskoye,51.9962,71.0793,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,,,5,Asia/Almaty,FALSE,1398548324
+Karluga,Karluga,Kurlyga,54.6213,68.8786,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,38.7,,,4,Asia/Almaty,FALSE,1398606963
+Novospasovka,Novospasovka,Novo-Spasskoye,53.2697,76.1752,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.2,,,5,Asia/Almaty,FALSE,1398932038
+Ortabulak,Ortabulak,Zhanatalap,42.0803,69.6020,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,FALSE,1398414655
+Qolzhat,Qolzhat,Kaldjat|Kol’dzhat|Kal’dzhat|Kil’zhat|Kol’zhat|Kol’jat|Kal’zhat|Qalzhat,43.5095,80.6743,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,,,4,Asia/Almaty,FALSE,1398191851
+Erzerum,Erzerum,,50.8566,57.8558,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,3.0,,,5,Asia/Aqtobe,FALSE,1398596071
+Shaqpaq,Shaqpaq,Shakpak|Shokpak,52.4212,66.9679,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,FALSE,1398675845
+Kak Baydybek,Kak Baydybek,Kak Baydöbek,44.2500,75.0833,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,7.1,,,5,Asia/Almaty,FALSE,1398465030
+Taldykuduk,Taldykuduk,Raz”yezd Taldykuduk,42.3690,68.8406,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398975680
+Obrazets,Obrazets,,54.8754,70.7905,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.4,,,5,Asia/Almaty,FALSE,1398358495
+Kakhovka,Kakhovka,,52.5884,68.4150,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.5,,,5,Asia/Almaty,FALSE,1398876277
+Kushakkamys,Kushakkamys,,47.0505,52.0207,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,95.2,,,4,Asia/Atyrau,FALSE,1398000869
+Kalinino,Kalinino,,42.8333,70.3333,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,14.3,,,4,Asia/Almaty,FALSE,1398765024
+Kalinino,Kalinino,,42.5484,70.6372,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,14.3,,,4,Asia/Almaty,TRUE,1398946515
+Kalīnīno,Kalinino,Imeni Kalinina|Kalinino,44.1570,78.7532,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,FALSE,1398728976
+Kalīnīno,Kalinino,Imeni Kalinina|Kalinino,49.4033,73.5338,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,13.4,,,4,Asia/Almaty,FALSE,1398224218
+Kalīnīno,Kalinino,Kalinino,49.5189,75.0476,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,,,5,Asia/Almaty,TRUE,1398739871
+Imeni Zhdanova,Imeni Zhdanova,,49.3667,77.4000,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398203078
+Vishnëvoye,Vishnevoye,,52.9459,70.4978,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,11.3,,,4,Asia/Almaty,FALSE,1398688935
+Tleke,Tleke,,49.9000,51.9333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398031372
+Tleke,Tleke,,48.9833,51.9000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,TRUE,1398217742
+Atakent,Atakent,Ilyich|Īl’īch|Il’ich,40.8478,68.5064,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398778846
+Taqyr,Taqyr,Takyr,48.1517,84.9708,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.0,,,5,Asia/Almaty,FALSE,1398310797
+Toguzkuduk,Toguzkuduk,,44.3074,77.4731,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,FALSE,1398119338
+Balghaly,Balghaly,Balgaly,44.3162,77.8467,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,FALSE,1398590292
+Aulsay,Aulsay,,50.5333,54.4333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.6,,,5,Asia/Oral,FALSE,1398758394
+Samsonovka,Samsonovka,,53.3712,67.4027,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398053105
+Tastumsyq,Tastumsyq,,42.5563,70.2417,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.4,,,4,Asia/Almaty,FALSE,1398172238
+Araltyube,Araltyube,,49.3167,63.2833,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,FALSE,1398577310
+L’vovka,L'vovka,L’vovskoye,53.2429,76.5021,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.2,,,5,Asia/Almaty,FALSE,1398242787
+Uyumshil’,Uyumshil',,47.5833,74.1667,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398453363
+Dachnyy Posëlok Zdorov’ye,Dachnyy Poselok Zdorov'ye,,43.1828,76.7164,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,202.5,,,3,Asia/Almaty,FALSE,1398000781
+Bylqyldaq,Bylqyldaq,Marinovka|Maringorskoye,49.2220,82.1753,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,5,Asia/Almaty,FALSE,1398307013
+Assan-Mula,Assan-Mula,Assan-Mulla,46.7167,49.5333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398736687
+Vishnëvka,Vishnevka,,50.8584,72.1494,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,4.5,,,5,Asia/Almaty,FALSE,1398077940
+Rentabel’nyy,Rentabel'nyy,Sovkhoz Rentabel’nyy,51.7833,67.0500,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,,,5,Asia/Almaty,FALSE,1398229343
+Terenkol’,Terenkol',Zhana-Talap,49.5569,48.3841,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398355893
+Zhartogay,Zhartogay,Kyzyloba,49.8575,64.3219,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,FALSE,1398865766
+Zharkulak,Zharkulak,,42.4022,80.1373,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,,,5,Asia/Almaty,FALSE,1398691732
+Shäptiköl,Shaptikol,Shoptykol’,47.1213,56.8872,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.3,,,5,Asia/Aqtobe,FALSE,1398001201
+Zhartogay,Zhartogay,,49.7833,72.0833,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,11.8,,,4,Asia/Almaty,FALSE,1398950221
+Glinenskiy Vtoroy,Glinenskiy Vtoroy,,49.0833,49.9667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398090933
+Turtkul’,Turtkul',,40.7167,68.4333,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398723299
+XVII Parts”yezd,XVII Parts'yezd,Kumyshbulak,42.4898,69.6251,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,219.9,,,3,Asia/Almaty,FALSE,1398764251
+Yesirkan,Yesirkan,,47.1667,50.9000,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.9,,,5,Asia/Atyrau,FALSE,1398976398
+Zav’yalovka,Zav'yalovka,,49.9791,71.8097,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,FALSE,1398564358
+Sement,Sement,,50.7610,77.1762,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,0.5,,,5,Asia/Almaty,FALSE,1398111925
+Iksbay,Iksbay,Insbay,47.9674,47.6687,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398933582
+Staryy Karashoky,Staryy Karashoky,,44.0855,77.8694,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.8,,,5,Asia/Almaty,FALSE,1398137771
+Yazovaya,Yazovaya,Yarovaya,49.4517,85.2743,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398217808
+Aznabay,Aznabay,,52.7631,71.8517,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.2,,,5,Asia/Almaty,FALSE,1398510147
+Naūm,Naum,,47.4020,82.4994,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,5,Asia/Almaty,FALSE,1398000574
+Petrogradskoe,Petrogradskoe,Petrogradskoye,50.6624,81.0418,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,5.3,,,5,Asia/Almaty,FALSE,1398002218
+Stolboūkha,Stolboukha,Stolboukha,49.9765,84.4771,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398328726
+Kürleūit,Kurleuit,Kurleut|Kurleut|Kürleūt,53.9221,73.6571,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,1.1,,,4,Asia/Almaty,FALSE,1398241424
+Dorstroy,Dorstroy,,44.1675,73.3247,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,,,5,Asia/Almaty,FALSE,1398000998
+Tongkeris,Tongkeris,Tunkurus|Tonkerys|Tonkeris,43.4761,77.1376,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,41.4,,,4,Asia/Almaty,FALSE,1398642404
+Tömengi Qayraqty,Tomengi Qayraqty,Kayrakty|Qayraqty|Koyrakty,48.4532,73.2112,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,4,Asia/Almaty,FALSE,1398218264
+Aygyrzhal,Aygyrzhal,,53.5071,69.7485,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,,,4,Asia/Almaty,FALSE,1398831646
+Chërnaya Padina,Chernaya Padina,,50.9833,50.2833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,,,5,Asia/Oral,FALSE,1398286437
+Töngkeris,Tongkeris,Tankerys,51.4463,71.1950,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.7,,,5,Asia/Almaty,FALSE,1398568176
+Ferrosplav,Ferrosplav,Ferrosplavov,50.3333,57.1333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,237.2,,,3,Asia/Aqtobe,FALSE,1398707533
+Ülken Dīqan,Ulken Diqan,Bol’shoye Ashinakho|Bolshoy Achinokho|Bol’shoye Ashinokho|Bol’shoy Dekkhan,43.5000,80.5333,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,,,4,Asia/Almaty,FALSE,1398650788
+Kosoyak,Kosoyak,,49.7167,48.1000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398414261
+Kurgan-Kubik,Kurgan-Kubik,,49.5167,49.8667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398410386
+Anīkīno,Anikino,Anikinskiy|Anikino,52.6584,78.2167,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.3,,,5,Asia/Almaty,FALSE,1398286354
+Qanabek,Qanabek,Krasnyy Vostok,45.1300,77.9364,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.2,,,5,Asia/Almaty,FALSE,1398738434
+Timashëvka,Timashevka,Timoshenskiy|Timoshëvka|Timoshyenskiy,51.6919,68.4268,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.9,,,4,Asia/Almaty,FALSE,1398845413
+Qalpak,Qalpak,Kolpak,49.6431,72.6204,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,13.4,,,4,Asia/Almaty,FALSE,1398000190
+Aqtam,Aqtam,,43.8453,69.7910,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.4,,,5,Asia/Almaty,FALSE,1398362854
+Badam Nomer Odin,Badam Nomer Odin,,42.2746,69.6008,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,,1999.9,,,3,Asia/Almaty,FALSE,1398883835
+Novonezhīnka,Novonezhinka,Novonezhinka|Novonezhinskiy,52.5336,64.0374,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.7,,,5,Asia/Qostanay,FALSE,1398038754
+Taypak-Kuduk,Taypak-Kuduk,,50.1667,52.1667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398894699
+Bogatyrovka,Bogatyrovka,Bogatyrevka|Bogatyrëvka,53.8320,69.3316,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398800829
+Utoncha,Utoncha,,48.4333,52.8333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,,,5,Asia/Atyrau,FALSE,1398698205
+Zhar-Kul’,Zhar-Kul',,50.4000,52.8000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398073597
+Rispole,Rispole,,42.9169,75.0808,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,,,4,Asia/Almaty,FALSE,1398001032
+Piryatinskoye,Piryatinskoye,Pyryatinskoye|Posëlok Dvadtsat’ Vtoroy,50.0667,72.4667,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398454133
+Akchaganskiy,Akchaganskiy,,50.7833,53.3333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,,,4,Asia/Oral,FALSE,1398452412
+Nurinsk,Nurinsk,Nurinskiy,50.1358,73.1781,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398330040
+Saryzhide,Saryzhide,,47.7611,59.6157,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,,,5,Asia/Aqtobe,FALSE,1398999973
+Danilyakol’,Danilyakol',Danilekol’,51.3643,52.5027,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,,,4,Asia/Oral,FALSE,1398616734
+Baybura,Baybura,,48.9382,82.0706,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.9,,,5,Asia/Almaty,FALSE,1398483870
+Qarashoqy,Qarashoqy,Karashoky,47.4364,85.2771,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398001484
+Qarashoqy,Qarashoqy,,48.1675,71.7283,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,0.7,,,5,Asia/Almaty,FALSE,1398363246
+Gatzulinskiy,Gatzulinskiy,Gatzulanskiy|Gataulinskiy,50.3833,52.1667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398957655
+Lesnoe,Lesnoe,Lesnoye,53.1625,62.2723,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398798761
+Burlinskiy,Burlinskiy,,51.2000,52.9167,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,,,4,Asia/Oral,FALSE,1398825828
+Shakey,Shakey,Zhanaturmys,51.1125,73.1486,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,FALSE,1398187790
+Zhambyl,Zhambyl,Imeni Dzhambula|Baybichinskoye|Dzhambul,43.1482,76.1804,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,4,Asia/Almaty,FALSE,1398759000
+Zhambyl,Zhambyl,XIX Parts”yezd,42.7230,80.0649,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,,,5,Asia/Almaty,TRUE,1398000508
+Besh-Kubur,Besh-Kubur,,41.2167,68.8333,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398080606
+Akzhana,Akzhana,Ak-Dzhana,45.8500,61.7167,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.7,,,5,Asia/Qyzylorda,FALSE,1398557278
+Zhambyl,Zhambyl,Zhambyl|Enbekshi|Yenbekshi,49.6737,58.5819,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,4,Asia/Aqtobe,FALSE,1398383146
+Zhambyl,Zhambyl,Dzhambul,50.5721,60.1897,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,TRUE,1398114651
+Chernyayev,Chernyayev,,50.4667,50.6500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398298980
+Bayavlo,Bayavlo,,49.4000,48.7667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398902151
+Zhambyl,Zhambyl,Dzhambul,53.5133,69.7084,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,,,4,Asia/Almaty,FALSE,1398305165
+Zhambyl,Zhambyl,Imeni Dzhambula|Dzhambul|Sotsialisticheskiy Kurlys|Sotskurylys,51.2734,70.3193,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,,,4,Asia/Almaty,TRUE,1398092986
+Zhīdeli,Zhideli,Ferma Nomer Dva Sovkhoza Bairkum,42.1628,68.1336,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398388251
+Sakhatushka,Sakhatushka,,49.3206,86.3430,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398530882
+Zhyraqudyq,Zhyraqudyq,Zhirakuduk,48.7466,53.9393,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,,,5,Asia/Atyrau,FALSE,1398001681
+Temirbulaq,Temirbulaq,Temirbulak,53.0722,63.2798,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,50.2,,,4,Asia/Qostanay,FALSE,1398002237
+Uchtyube,Uchtyube,,43.2500,71.3833,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,21.2,,,4,Asia/Almaty,FALSE,1398000005
+Aytūar,Aytuar,Aytuar,54.3212,67.2166,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,2.3,,,5,Asia/Almaty,FALSE,1398253934
+Qumzhiyek,Qumzhiyek,Lenino,45.7942,62.3027,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.0,,,5,Asia/Qyzylorda,FALSE,1398000955
+Semeytau,Semeytau,,50.1689,79.7437,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398555778
+Aket,Aket,,49.6333,50.7333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398802755
+Bol’shoy Rechka,Bol'shoy Rechka,Bol’shaya Rechka,49.9934,84.4251,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398167939
+Yenbekshi,Yenbekshi,,42.1474,69.5318,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,,219.9,,,3,Asia/Almaty,FALSE,1398461856
+Kamyshlovka,Kamyshlovka,,54.5198,65.9807,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.8,,,5,Asia/Qostanay,FALSE,1398350775
+Uil,Uil,Oyyl|Uilskoe,49.0753,54.6681,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,minor,1.5,,,3,Asia/Aqtobe,FALSE,1398981711
+Uil,Uil,,49.3833,56.7167,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,TRUE,1398739008
+Baysary-Sagasy,Baysary-Sagasy,,48.1000,56.8333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.3,,,5,Asia/Aqtobe,FALSE,1398872482
+Zelyonaya Balka,Zelyonaya Balka,Zelënaya Balka,49.8616,73.2601,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398721253
+Tyustas,Tyustas,,47.9349,84.9497,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.0,,,5,Asia/Almaty,FALSE,1398321853
+Yastrebovka,Yastrebovka,,51.8833,78.4667,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.3,,,5,Asia/Almaty,FALSE,1398929456
+Prorva,Prorva,,45.9052,53.2987,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398764905
+Karakiya,Karakiya,,42.0429,69.5562,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,FALSE,1398254769
+Qoghaly,Qoghaly,,40.8534,67.9994,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398203214
+Qalgansyr,Qalgansyr,Kalgansyr|Otdeleniye Nomer Shest’ Sovkhoza Birlik,41.2174,68.2007,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,7.8,,,5,Asia/Almaty,FALSE,1398660641
+Munayly,Munayly,,46.7698,54.5407,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398051545
+Qarghaly,Qarghaly,Kargaly,50.7927,70.3113,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.8,,,5,Asia/Almaty,FALSE,1398001674
+Talovochka,Talovochka,,49.2142,86.1550,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398723843
+Karashilik,Karashilik,,52.7982,69.4695,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,,,4,Asia/Almaty,FALSE,1398787551
+Yegindioy,Yegindioy,,49.3364,48.7522,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398500613
+Davydovka,Davydovka,,53.6790,62.1683,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398637553
+Novo-Alekseyevskiy,Novo-Alekseyevskiy,,50.4621,81.4693,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,5.3,,,5,Asia/Almaty,FALSE,1398473664
+Däūit,Dauit,Kūybyshevskoe|Kuybyshevskiy|Kuybyshevskoye,53.6091,71.4759,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,1.7,,,4,Asia/Almaty,FALSE,1398170107
+Nikolay-Aul,Nikolay-Aul,Nikolay-Avla,49.8216,49.6472,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398001705
+Gagarinskiy,Gagarinskiy,,51.9167,67.7167,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,FALSE,1398686751
+Gagarinskiy,Gagarinskiy,Imeni Gagarina,50.8980,67.7193,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.8,,,5,Asia/Almaty,TRUE,1398012302
+Isakovka,Isakovka,,55.4080,68.9346,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,38.7,,,4,Asia/Almaty,FALSE,1398364845
+Isakovka,Isakovka,,54.8323,69.5725,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,38.7,,,4,Asia/Almaty,TRUE,1398200693
+Otemis,Otemis,,50.4820,64.8379,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.5,,,5,Asia/Qostanay,FALSE,1398402247
+Kengir,Kengir,Kengirskoye,47.8403,67.6153,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,,,5,Asia/Almaty,FALSE,1398999957
+Ūl’yanovka,Ul'yanovka,Ul’yanovka,49.3867,84.9638,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398838926
+Zhusaly,Zhusaly,,53.8691,64.4070,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.8,,,5,Asia/Qostanay,FALSE,1398601442
+Sartugai,Sartugai,,48.7000,60.4167,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.3,,,5,Asia/Aqtobe,FALSE,1398905004
+Internatsional’nyy,Internatsional'nyy,Internatsional’naya,50.5833,72.8333,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.5,,,5,Asia/Almaty,FALSE,1398943746
+Stantsiya Maykaragay,Stantsiya Maykaragay,Sovkhoz Maykaragayskiy,51.7476,78.7859,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398000111
+Beloglīnka,Beloglinka,Beloglinka|Beloglinova,53.6780,67.8272,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398687747
+Berden-Bulak,Berden-Bulak,,49.7500,58.5833,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,FALSE,1398614839
+Qyzylzhol,Qyzylzhol,Kyzylzhol,43.4685,68.3210,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,,,4,Asia/Almaty,FALSE,1398234879
+Kyzylasker,Kyzylasker,,42.1986,69.9555,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.7,,,4,Asia/Almaty,FALSE,1398930310
+Kyzylasker,Kyzylasker,,42.5218,70.2913,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.4,,,4,Asia/Almaty,TRUE,1398778518
+Kyzylasker,Kyzylasker,,41.0927,68.6965,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,TRUE,1398868311
+Kyzylasker,Kyzylasker,,43.8500,69.2500,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,,,5,Asia/Almaty,TRUE,1398856827
+Karamoyyl,Karamoyyl,Karamayli,47.1040,81.5437,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,3.0,,,5,Asia/Almaty,FALSE,1398562669
+Baykonyr,Baykonyr,,50.4671,79.2312,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398002326
+Churbanov,Churbanov,,51.3500,50.8000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398151197
+Tasty,Tasty,,45.9873,82.4226,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,3.0,,,5,Asia/Almaty,FALSE,1398000634
+Sarbulak,Sarbulak,Sarybulak,49.7000,61.7333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398755923
+Slavyanovka,Slavyanovka,Slavyanskoye,53.9260,76.3047,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.6,,,5,Asia/Almaty,FALSE,1398749573
+Shamlattobe,Shamlattobe,Chamlak-Tyube,41.3667,68.8333,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398055469
+Imeni Oktyabr’skoy Revolyutsii,Imeni Oktyabr'skoy Revolyutsii,Bereke,40.7334,68.4684,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398456557
+Shondykol’,Shondykol',,50.0833,60.5333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398538997
+Shchuchkin,Shchuchkin,,51.6833,50.8167,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398420810
+Shchuchkin,Shchuchkin,,50.3833,49.4833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,3.7,,,5,Asia/Oral,TRUE,1398455872
+Karadyn,Karadyn,,48.2522,77.0328,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.1,,,5,Asia/Almaty,FALSE,1398323381
+Imeni Dzerzhinskogo,Imeni Dzerzhinskogo,Nurmuxamedov Yesentayev,40.9327,68.4899,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398836888
+Staryy Kendyrlik,Staryy Kendyrlik,,47.4778,85.2192,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398001440
+Sarybulaq,Sarybulaq,Sarybulak,53.4723,68.1586,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398469450
+Sarybulaq,Sarybulaq,Sarybulak,52.8807,67.3159,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,TRUE,1398972341
+Ozërnoye,Ozernoye,Ozernoye,53.5060,70.2804,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398837702
+Shyghanaq,Shyghanaq,Shiganak,52.6676,74.3084,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.1,,,5,Asia/Almaty,FALSE,1398070259
+Chërnaya Pika,Chernaya Pika,,52.1647,71.4873,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,,,5,Asia/Almaty,FALSE,1398085280
+Sengkibay,Sengkibay,,43.0443,71.2912,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,107.8,,,4,Asia/Almaty,FALSE,1398032150
+Zhanteli,Zhanteli,,49.5008,67.5207,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,,,5,Asia/Almaty,FALSE,1398151699
+Aralkol’,Aralkol',,45.9000,74.7500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,0.8,,,5,Asia/Almaty,FALSE,1398363913
+Talapker,Talapker,,48.6311,82.9148,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.9,,,5,Asia/Almaty,FALSE,1398002180
+Talapker,Talapker,,51.2412,71.1723,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,160.4,,,4,Asia/Almaty,FALSE,1398164154
+Zhayylma,Zhayylma,Imeni Kalinina,43.7602,69.7853,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,,,5,Asia/Almaty,FALSE,1398858696
+Zhalanashkol’,Zhalanashkol',Zhalanazhkol,45.5938,82.1776,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,3.0,,,5,Asia/Almaty,FALSE,1398404631
+Korzhakay,Korzhakay,,43.5299,68.9044,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,,,4,Asia/Almaty,FALSE,1398080824
+Trudovoye,Trudovoye,,49.8314,73.2346,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398904782
+Sukhinovka,Sukhinovka,,50.1811,58.3294,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,,,5,Asia/Aqtobe,FALSE,1398802423
+Ivanayev,Ivanayev,,50.9167,50.1667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,,,5,Asia/Oral,FALSE,1398532924
+Zhaylaū,Zhaylau,Zhaylau,43.5353,75.6530,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,5,Asia/Almaty,FALSE,1398255738
+Novotaubinka,Novotaubinka,Novaya Taubinka|Nova Taubinka|Taubinskoye|Taubinskaya,49.8167,80.8457,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,4,Asia/Almaty,FALSE,1398565483
+Qūanqudyq,Quanqudyq,Kuankuduk|Ferma Nomer Chetyre Sovkhoza Chardara|Ferma Nomer Tri Sovkhoza Chardara,41.1954,67.8846,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,7.8,,,4,Asia/Almaty,FALSE,1398451940
+Īl’īnka,Il'inka,Il’inka|Novo-Il’inskoye|Il’inskoye,54.2051,68.0093,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,4.3,,,4,Asia/Almaty,FALSE,1398327610
+Tegiszhol,Tegiszhol,,50.0835,72.7250,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398241323
+Chebakov,Chebakov,,50.8333,50.2833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,,,5,Asia/Oral,FALSE,1398772790
+Chebakov,Chebakov,Chebakova,50.5333,48.7914,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,TRUE,1398243190
+Shalqīya,Shalqiya,Shalkiya,44.0095,67.4106,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,4.4,,,5,Asia/Qyzylorda,FALSE,1398566521
+Ortakum,Ortakum,,43.3987,73.1595,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,12.9,,,4,Asia/Almaty,FALSE,1398688434
+Montay-Tash,Montay-Tash,,42.0852,68.9664,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398739052
+Aqīyq,Aqiyq,Akkiik,46.2340,77.2504,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,2.2,,,5,Asia/Almaty,FALSE,1398000916
+Davlembet,Davlembet,,43.9265,70.8651,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,4.1,,,5,Asia/Almaty,FALSE,1398920496
+Karakol’,Karakol',,51.8167,69.4833,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,,,5,Asia/Almaty,FALSE,1398863511
+Karakol’,Karakol',Yesil’skiy Pervyy|Karakol’sk,51.5423,67.3267,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,TRUE,1398390595
+Yeraly,Yeraly,,50.6645,72.4842,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,4.5,,,5,Asia/Almaty,FALSE,1398385035
+Tyulyugen,Tyulyugen,,48.1342,47.6711,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398555064
+Shember,Shember,,49.3167,51.9833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398584070
+Besshtannov,Besshtannov,Besshtannov,50.8167,50.8333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398464184
+Alabutaly,Alabutaly,,43.6383,73.4556,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,8.1,,,5,Asia/Almaty,FALSE,1398713520
+Qangha,Qangha,,44.6679,50.5803,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0,,,5,Asia/Aqtau,FALSE,1398001247
+Sīnegorsk,Sinegorsk,Sinegorsk,52.7980,61.4066,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.5,,,5,Asia/Qostanay,FALSE,1398646964
+Chaltas,Chaltas,,48.2000,73.6333,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398384600
+Köksayek,Koksayek,Georgiyevka,42.2528,69.9988,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.7,,,4,Asia/Almaty,FALSE,1398322889
+Mortyq,Mortyq,Murtukskiy|Murtuk|Novokrasnovskoye|Novokrasnovka|Novokrasnovskoe,53.5622,72.9344,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,1.1,,,4,Asia/Almaty,FALSE,1398921441
+Shurmanskiy,Shurmanskiy,,50.5333,50.4500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398324971
+Kīrovka,Kirovka,Kirovka,53.1114,63.3149,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,50.2,,,4,Asia/Qostanay,FALSE,1398002162
+Muqyr,Muqyr,Mukyr|Staryy Algabas|Mukur|Mukkur,53.2926,67.0689,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,4,Asia/Almaty,FALSE,1398164776
+Arustan,Arustan,,44.1667,80.1500,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,10.9,,,4,Asia/Almaty,FALSE,1398703063
+Sartyube,Sartyube,,49.2167,63.1500,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,FALSE,1398962033
+Chevilev,Chevilev,Chivilev,50.9667,49.4000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,,,5,Asia/Oral,FALSE,1398317633
+Yntymaq,Yntymaq,Karakayskoye,40.7636,68.3031,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398965887
+Yntymaq,Yntymaq,Yntymak|Intymak,41.4045,69.1399,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,TRUE,1398228931
+Borovskiy,Borovskiy,,53.2000,75.6167,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398569990
+Topar,Topar,Tsentral’nyy Khutor,49.5185,72.8220,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,13.4,,,4,Asia/Almaty,FALSE,1398110067
+Zhanauyym,Zhanauyym,Kokterek|Kokteren,42.1555,69.9300,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.7,,,4,Asia/Almaty,FALSE,1398725030
+Zhumysker,Zhumysker,,48.6451,82.8492,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.9,,,5,Asia/Almaty,FALSE,1398002265
+Nechaevka,Nechaevka,Nechayevskiy|Nechayevka,53.3581,63.9650,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,50.2,,,4,Asia/Qostanay,FALSE,1398302585
+Chapayevo,Chapayevo,,50.0142,53.0522,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398001517
+Kotel’nīkovo,Kotel'nikovo,Koskul’skiy|Kotel’nikovo|Qosköl,53.1523,73.9842,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,4,Asia/Almaty,FALSE,1398210813
+Azhibay,Azhibay,,42.0500,52.5833,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,,,5,Asia/Aqtau,FALSE,1398409735
+Aynabulaq,Aynabulaq,Aynabulakskiy|Aynabulak,49.2076,70.8887,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,0.7,,,5,Asia/Almaty,FALSE,1398146713
+Aynabulaq,Aynabulaq,Ayna-Bulak|Aynabulak,47.5039,84.9930,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398715753
+Qyzylsharūa,Qyzylsharua,Kyzylsharva,43.0123,72.8326,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,7.4,,,5,Asia/Almaty,FALSE,1398519794
+Sasyksor,Sasyksor,,50.5000,62.5500,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.5,,,5,Asia/Qostanay,FALSE,1398399862
+Sasyksor,Sasyksor,,50.3483,62.7512,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,TRUE,1398140753
+Baumanskoye,Baumanskoye,Baumanskiy,51.1115,68.9114,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.9,,,5,Asia/Almaty,FALSE,1398770206
+Volchanka,Volchanka,,50.5654,82.1426,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,10.2,,,4,Asia/Almaty,FALSE,1398745274
+Zhamanterekty,Zhamanterekty,,45.8571,80.5897,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398721636
+Sazdy Novyye,Sazdy Novyye,,46.9316,49.2835,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398000851
+Mauke,Mauke,,50.6090,76.0917,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398827661
+Krasnogorskīy,Krasnogorskiy,Krasnogorskiy,52.2456,66.5208,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,,,5,Asia/Almaty,FALSE,1398138192
+Qambaba,Qambaba,Zimovka Kambaba,50.7461,76.0334,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398156349
+Alaman,Alaman,,41.9305,69.7333,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,FALSE,1398551561
+Suttegende,Suttegende,Sut-Tugunde|Syuttegende,50.8333,51.5000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.7,,,5,Asia/Oral,FALSE,1398853938
+Drug-Pakharya,Drug-Pakharya,,52.5167,76.6500,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,7.9,,,5,Asia/Almaty,FALSE,1398357034
+Zhabasaq,Zhabasaq,Zhabasak,50.3594,61.6739,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398441283
+Verenka,Verenka,Verinskiy,53.7940,62.1723,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398472464
+Bidaychi,Bidaychi,Bidaichi,42.3333,70.0500,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,219.2,,,3,Asia/Almaty,FALSE,1398183120
+Subbotnika,Subbotnika,Subbotinka,53.9541,69.2029,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398417868
+Imeni Kalinina,Imeni Kalinina,,45.7000,79.8333,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.4,,,5,Asia/Almaty,FALSE,1398701377
+Avangard,Avangard,,50.6000,59.0333,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,,,5,Asia/Aqtobe,FALSE,1398456591
+Batpakkol’,Batpakkol',Battakkol’,48.3333,57.5833,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,FALSE,1398642354
+Dzhauken-Kstau,Dzhauken-Kstau,,47.8833,47.8667,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398640293
+Askar,Askar,,51.7333,77.3500,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,0.5,,,5,Asia/Almaty,FALSE,1398980106
+Almasay,Almasay,,49.7926,82.4453,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,35.1,,,4,Asia/Almaty,FALSE,1398449192
+Shotkalgan,Shotkalgan,Shot-Kolgan,49.9261,71.3474,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,FALSE,1398976351
+Sazandy,Sazandy,,49.7254,48.4713,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398491252
+Taldysay,Taldysay,Brigada Pervaya Kolkhoza Imeni Lenina,49.4438,76.1948,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,,,5,Asia/Almaty,FALSE,1398000177
+Taldysay,Taldysay,,49.4767,69.0945,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,TRUE,1398677519
+Bozoy,Bozoy,Sovkhoz Bozoy,44.1612,76.0991,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,5,Asia/Almaty,FALSE,1398001133
+Chagan-Obo,Chagan-Obo,Shaganovo|Chagan Obo,47.0260,84.7465,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398226007
+Kyzyltu,Kyzyltu,,47.3500,51.8667,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,,,5,Asia/Atyrau,FALSE,1398945073
+Kubentay,Kubentay,,52.1341,72.9582,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,FALSE,1398182656
+Tutamgaly,Tutamgaly,Tutan-Gali,41.8740,69.6458,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,FALSE,1398670209
+Sigzi,Sigzi,,50.8336,52.1945,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398391776
+Aqköl,Aqkol,Akkol’,43.1658,67.8015,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,4.4,,,5,Asia/Almaty,FALSE,1398823422
+Dmītriyevka,Dmitriyevka,Dmitriyevka,50.8765,56.6866,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,4.4,,,5,Asia/Aqtobe,FALSE,1398001899
+Kaban’,Kaban',Kaban,54.6618,66.4899,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,2.3,,,5,Asia/Almaty,FALSE,1398380353
+Kirchindy,Kirchindy,,42.9450,71.1656,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,107.8,,,4,Asia/Almaty,FALSE,1398293102
+Nizhnyaya Sakmarikha,Nizhnyaya Sakmarikha,,50.7667,83.1333,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,FALSE,1398751929
+Bīdayyq,Bidayyq,Bidayykskoye|Bidayyskoye|Bīdaīyq|Bidaikskiy,54.0300,72.7352,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,1.1,,,4,Asia/Almaty,FALSE,1398492182
+Abay,Abay,Kashara,52.7566,71.4826,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.2,,,5,Asia/Almaty,FALSE,1398389847
+Abay,Abay,Imeni Abaya,50.7175,69.5240,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.9,,,5,Asia/Almaty,TRUE,1398844647
+Qaratöbe,Qaratobe,Karatobinskoye,51.8063,71.8453,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.7,,,5,Asia/Almaty,FALSE,1398001649
+Uduar,Uduar,,50.0333,76.1400,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,,,5,Asia/Almaty,FALSE,1398801641
+Abay,Abay,Imeni Abaya,50.7784,61.7982,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398126515
+Zhankurgan,Zhankurgan,,41.7444,69.5881,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,FALSE,1398532077
+Isa,Isa,Issa,48.6000,48.3000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,0.8,,,5,Asia/Oral,FALSE,1398459679
+Lukashovka,Lukashovka,Lukashëvka,51.7538,70.7596,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.7,,,5,Asia/Almaty,FALSE,1398885455
+Novovoskresenovka,Novovoskresenovka,,42.8275,73.5014,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,10.2,,,4,Asia/Almaty,FALSE,1398919002
+Altynbulaq,Altynbulaq,Sovkhoz Altynbulakskiy|Altynbulak|Zagotskot,52.7345,68.3409,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,4,Asia/Almaty,FALSE,1398226810
+Shoshkaly,Shoshkaly,,49.2667,49.8667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398062999
+Shoshkaly,Shoshkaly,,49.0167,49.8833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,TRUE,1398646271
+Dzhger,Dzhger,,48.7014,47.9244,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,0.8,,,5,Asia/Oral,FALSE,1398188641
+Aqzhyryq,Aqzhyryq,Azhiryk,47.1236,79.3381,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.4,,,5,Asia/Almaty,FALSE,1398999913
+Boyaūly,Boyauly,Boyauly|Imeni Molotova,44.8357,76.1818,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,0.8,,,5,Asia/Almaty,FALSE,1398713805
+Mīkhaylovka,Mikhaylovka,Mikhaylovka,50.4853,81.9641,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,10.2,,,4,Asia/Almaty,FALSE,1398002238
+Mikhaylovka,Mikhaylovka,,50.0837,83.0404,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,TRUE,1398645810
+Mikhaylovka,Mikhaylovka,,50.2333,82.6333,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,TRUE,1398002353
+Besnen’,Besnen',,50.6500,74.3833,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.3,,,5,Asia/Almaty,FALSE,1398481937
+Maksut,Maksut,,49.6167,80.1833,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,0.7,,,5,Asia/Almaty,FALSE,1398745931
+Kurytogay,Kurytogay,,43.2694,78.9709,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,,,5,Asia/Almaty,FALSE,1398000358
+Zhiyenqum,Zhiyenqum,Zhiyenkum|Dzhen-Kum|Dzhiyenkum,42.8554,69.0568,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,50.5,,,4,Asia/Almaty,FALSE,1398665326
+Maylytoghay,Maylytoghay,Maylytogay,44.5097,66.1857,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.5,,,5,Asia/Qyzylorda,FALSE,1398000640
+Onege,Onege,Unege,49.2500,47.4167,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398993267
+Gomba,Gomba,,43.7000,79.9833,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,,,5,Asia/Almaty,FALSE,1398868397
+Qaziret,Qaziret,Khozretov|Khavretov|Khazret|Dzhetygarinskiy|Khozeret Aul|Khozret,51.9732,60.4607,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,5.9,,,4,Asia/Qostanay,FALSE,1398248228
+Zhangaaūyl,Zhangaauyl,Zhanaaul,53.2281,70.9046,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.7,,,5,Asia/Almaty,FALSE,1398254068
+Shabar,Shabar,,51.6463,77.5779,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398657389
+Kaynsay,Kaynsay,,51.3333,51.9500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.7,,,5,Asia/Oral,FALSE,1398320718
+Yelenovka,Yelenovka,,51.8769,72.2856,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,,,5,Asia/Almaty,FALSE,1398145725
+Saryaul,Saryaul,Sara-Aul,49.9500,49.0333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398845577
+Aqkemer,Aqkemer,Akkemer|Akkemir,49.6572,57.3394,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,FALSE,1398760673
+Aqkemer,Aqkemer,Akkemer,49.6654,54.8663,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,1.5,,,5,Asia/Aqtobe,TRUE,1398001549
+Kommunar,Kommunar,,43.7837,69.9286,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,,,5,Asia/Almaty,FALSE,1398482063
+Sonaly,Sonaly,,53.2716,65.8941,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398515282
+Kazbay,Kazbay,,48.3833,49.8500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398330980
+Aqqīyaq,Aqqiyaq,Akkiik,49.0650,73.6980,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398000298
+Sarytogan,Sarytogan,,49.4791,67.4566,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,,,5,Asia/Almaty,FALSE,1398853878
+Zhetipishen,Zhetipishen,Otdeleniye Pervoye Sovkhoza Zapadnyy|Otdeleniye Perviye Sovkhoza Zapadnyy|Otdeleniye Nomer Odin,53.2831,73.8026,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,4,Asia/Almaty,FALSE,1398032826
+Sonaly,Sonaly,,49.9468,70.2802,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,FALSE,1398098552
+Sonaly,Sonaly,,49.7000,70.4167,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,TRUE,1398052780
+Baybarak,Baybarak,,49.0947,52.1541,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398001627
+Quspanköl,Quspankol,Kuspankol’,50.7991,52.0534,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398001972
+Danīlovka,Danilovka,Danilovka|Danilovskoye,52.5175,77.4420,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,60.1,,,4,Asia/Almaty,FALSE,1398299587
+Nizhniy Karasay,Nizhniy Karasay,,50.8036,53.5335,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.6,,,5,Asia/Oral,FALSE,1398001593
+Ashyq Zharköl,Ashyq Zharkol,Svetlyy Zharkol’,53.3527,63.2055,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,50.2,,,4,Asia/Qostanay,FALSE,1398777144
+Baltasap,Baltasap,,52.7167,74.2809,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.1,,,5,Asia/Almaty,FALSE,1398755319
+Taranov,Taranov,,49.5833,47.3833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398154094
+Olenti,Olenti,Ölengti,51.2838,73.7666,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,6.8,,,5,Asia/Almaty,FALSE,1398592328
+Astausolgan,Astausolgan,,49.4912,47.8948,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398999959
+Leninzhol,Leninzhol,,42.6000,69.5000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,50.5,,,4,Asia/Almaty,FALSE,1398237452
+Lenīnzhol,Leninzhol,Leninzhal|Lenin-Dzhal|Leninzhol|Otdeleniye Nomer Dva Sovkhoza Imeni Dzhambula|Otdeleniye Nomer Dva Sovkhoza Dzhambula,41.4533,68.2514,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,TRUE,1398343559
+Leninzhol,Leninzhol,,41.4701,69.2634,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,TRUE,1398223037
+Leninzhol,Leninzhol,Leninzhil,47.7000,83.5667,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398340974
+Zhangatalap,Zhangatalap,Zhanatalap,43.4743,76.9650,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.3,,,4,Asia/Almaty,FALSE,1398250826
+Kengötkel,Kengotkel,Kenotkel’,53.0597,68.9980,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,23.3,,,4,Asia/Almaty,FALSE,1398342719
+Dzhunus,Dzhunus,Aul Dzhunis|Dzhunis,50.0208,70.7358,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,FALSE,1398609601
+Logashkīno,Logashkino,Logashkin|Pogyashkin|Lagashkin,50.9965,50.5029,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,4.3,,,4,Asia/Oral,FALSE,1398385815
+Verkhne-Chesnokovskiy,Verkhne-Chesnokovskiy,,50.6000,83.4667,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,FALSE,1398485115
+Kondra,Kondra,,49.9167,51.4333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398994285
+Orazgali,Orazgali,,49.3506,49.4583,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398355841
+Min’kovskoye,Min'kovskoye,,50.0167,73.2667,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398440291
+Ayyrqum,Ayyrqum,Airkum|Ayyrkum,49.3839,64.6864,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,FALSE,1398635901
+Dīmītrovka,Dimitrovka,Dmitrovka,54.2337,68.8959,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,4.3,,,5,Asia/Almaty,FALSE,1398855875
+Sadyr,Sadyr,,48.7845,50.7290,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398001798
+Balzhanay,Balzhanay,Alzhanay,50.1163,60.3563,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398411962
+Kalgzagash,Kalgzagash,Zhalgzagash,43.0833,67.7500,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,2.8,,,5,Asia/Almaty,FALSE,1398620164
+Biyatov,Biyatov,,48.7167,46.8667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,0.8,,,5,Asia/Oral,FALSE,1398888930
+Bekey,Bekey,,44.4081,63.9131,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.4,,,5,Asia/Qyzylorda,FALSE,1398000977
+Traktornyy Pervyy,Traktornyy Pervyy,Traktornyy,49.9000,72.6667,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,50.5,,,4,Asia/Almaty,FALSE,1398921546
+Sivkovka,Sivkovka,,52.8489,66.9800,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,FALSE,1398750363
+Krasnooktyabr’skiy,Krasnooktyabr'skiy,Tunkuik|Tunkiuk|Tungyik|Tunkuyuk,52.0476,62.4014,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.8,,,4,Asia/Qostanay,FALSE,1398290923
+Vīshnyovka,Vishnyovka,Vishnëvka,51.8432,69.5108,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,,,5,Asia/Almaty,FALSE,1398001882
+Kotlovannoe,Kotlovannoe,Kotlovannoye,53.8222,61.8021,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398000380
+Tsaritsyn,Tsaritsyn,,50.0333,47.4333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398112185
+Cheryomūshkī,Cheryomushki,Cheremushki|Cherëmushki,49.6465,84.3295,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398105360
+Aray,Aray,,53.2332,71.5679,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.2,,,5,Asia/Almaty,FALSE,1398166951
+Aray,Aray,,48.4364,79.9339,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,0.7,,,5,Asia/Almaty,FALSE,1398000179
+Raz”yezd Nomer Sto Tri,Raz'yezd Nomer Sto Tri,,45.6653,63.2198,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,5.6,,,5,Asia/Qyzylorda,FALSE,1398834002
+Benyash,Benyash,,54.8236,70.8810,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.4,,,5,Asia/Almaty,FALSE,1398695688
+Khabarasu,Khabarasu,,47.3520,83.0444,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,5,Asia/Almaty,FALSE,1398000737
+Aqzhar,Aqzhar,Akzhar|Ak-Jar|Ak-Dzhar,47.5819,83.6874,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,4,Asia/Almaty,FALSE,1398668479
+Aqzhar,Aqzhar,Ak-Jar|Ak-Dzhar|Stepnoye|Akzhar,41.5995,69.3471,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398509760
+Aqzhar,Aqzhar,Akzhar,42.1313,69.1376,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,29.5,,,4,Asia/Almaty,TRUE,1398630685
+Kokbastau,Kokbastau,,43.1657,76.2221,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,5,Asia/Almaty,FALSE,1398000821
+Mayterek,Mayterek,May-Terekh|May-Terek,48.5568,84.8100,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.0,,,5,Asia/Almaty,FALSE,1398523748
+Balqudyq,Balqudyq,Balkuduk|Bolkundukskiy,47.8347,47.5836,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398985097
+Sakharovka,Sakharovka,,42.3000,70.3500,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.7,,,4,Asia/Almaty,FALSE,1398731265
+Zimnik,Zimnik,L’dobaza,46.6121,48.6437,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398413940
+Balyqtyköl,Balyqtykol,Balyktykol’,49.3912,71.6353,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.4,,,5,Asia/Almaty,FALSE,1398229797
+Koreyskiy,Koreyskiy,,46.6167,48.6333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398654094
+Shirkeyli,Shirkeyli,Chirkeyli|Chirkeylinskiy,44.8264,65.1242,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,1.2,,,5,Asia/Qyzylorda,FALSE,1398625925
+Prinsk,Prinsk,,50.0167,84.9500,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398365509
+Ozenbay,Ozenbay,,49.2924,50.4241,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398000624
+Baysuat,Baysuat,,47.4333,57.4000,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.3,,,5,Asia/Aqtobe,FALSE,1398226411
+Zhabaykezek,Zhabaykezek,,44.2167,74.1167,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,,,5,Asia/Almaty,FALSE,1398529867
+Tashkulak,Tashkulak,,41.4530,69.3096,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,59.9,,,4,Asia/Almaty,FALSE,1398249748
+Novorossiyskoye,Novorossiyskoye,Novorossīyskoe|Novorossiyskiy,50.2378,57.9902,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,,,5,Asia/Aqtobe,FALSE,1398038500
+Kengashchy,Kengashchy,Kenashchy,53.3567,68.3403,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398853703
+Karashegen,Karashegen,,49.6726,48.5708,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398001873
+Bobrovka,Bobrovka,,50.4348,80.1900,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398256030
+Tyuket,Tyuket,,51.3500,79.2000,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.8,,,5,Asia/Almaty,FALSE,1398729757
+Predgornoe,Predgornoe,Krasnoyarskoye|Predgornoye,50.2450,82.2357,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,FALSE,1398917567
+Bogara,Bogara,Uchastok Nomer Tri Kolkhoza Leningrad|Jambil,40.8725,68.5445,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,185.9,,,4,Asia/Almaty,FALSE,1398437795
+Kargaly,Kargaly,Imeni Chapayeva|Kolkhoz Imeni Chapayeva,43.1680,76.8492,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-75,city,,4190.6,,,2,Asia/Almaty,FALSE,1398225696
+Alibi,Alibi,Alabidaik|Zimovka Tizek,49.1567,65.1006,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.5,,,5,Asia/Qostanay,FALSE,1398198120
+Alibi,Alibi,,49.3025,64.5192,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,TRUE,1398694043
+Zhogharghy-Eginsū,Zhogharghy-Eginsu,Yeginsu|Imeni Pevogo Maya,46.9553,81.4728,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,3.0,,,5,Asia/Almaty,FALSE,1398081120
+Novyy Zhalanash,Novyy Zhalanash,,47.3295,83.2901,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398001152
+Sarybel,Sarybel,Sarybel’,44.4263,80.0582,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,10.9,,,4,Asia/Almaty,FALSE,1398645169
+Qūrymsy,Qurymsy,Kurumsy,52.4196,76.3990,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,7.9,,,5,Asia/Almaty,FALSE,1398485633
+Shonay,Shonay,,53.6014,66.0642,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Qostanay,FALSE,1398915651
+Utemysh,Utemysh,,42.3232,69.8668,Kazakhstan,KZ,KAZ,Shymkent,Shymkent,KZ-79,city,,219.9,,,3,Asia/Almaty,FALSE,1398005484
+Intymak,Intymak,,43.1703,76.3459,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,5,Asia/Almaty,FALSE,1398000828
+Bezymyanovka,Bezymyanovka,,53.4899,65.4667,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398000093
+Maksīmovka,Maksimovka,Zhana-Zhol|Maksimovka|Maksimovskoye,52.5027,77.5984,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,60.1,,,4,Asia/Almaty,FALSE,1398578861
+Novorybīnka,Novorybinka,Novo-Rybinskiy|Novorybinka,54.6610,67.4076,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,2.3,,,5,Asia/Almaty,FALSE,1398937407
+Shirikkol’,Shirikkol',,42.1888,68.2493,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398286589
+Strezhnaya,Strezhnaya,Strazhnaya,50.5217,83.6579,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,16.3,,,4,Asia/Almaty,FALSE,1398086423
+Avrora,Avrora,,47.7667,59.6167,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,,,5,Asia/Aqtobe,FALSE,1398900210
+Sholaqsor,Sholaqsor,Sholaksor,52.7091,73.7191,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,1.1,,,5,Asia/Almaty,FALSE,1398904576
+Gerasimovka,Gerasimovka,,49.9644,82.4392,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,35.1,,,4,Asia/Almaty,FALSE,1398068974
+Üki,Uki,Oku|Uki,51.5140,67.7276,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,FALSE,1398850996
+Yevgenyevka,Yevgenyevka,,43.5112,77.6745,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,,,4,Asia/Almaty,FALSE,1398756097
+Foma-Kuduk,Foma-Kuduk,,50.1667,49.0500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398074420
+Kūrskoe,Kurskoe,Kurskoye,53.9045,62.5034,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398155992
+Karagay Khuduk,Karagay Khuduk,,47.8000,47.9167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398287640
+Zhalmanqulaq,Zhalmanqulaq,Zhalmankulak|Zhalmangqulaq,50.9302,69.0592,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.9,,,5,Asia/Almaty,FALSE,1398627109
+Saroy,Saroy,,44.6333,78.3667,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,5.3,,,5,Asia/Almaty,FALSE,1398969858
+Barashki,Barashki,,50.2217,81.9699,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,35.1,,,4,Asia/Almaty,FALSE,1398953889
+Shaykhana,Shaykhana,Kyzylchaykhana|Chaykhana|Kyzylshaykhana,41.6161,68.9175,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398040317
+Gorbunov,Gorbunov,,51.4333,51.2000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,FALSE,1398642980
+Gorbunov,Gorbunov,Razdol’noye,51.6000,51.8333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,41.2,,,4,Asia/Oral,TRUE,1398120940
+Gorbunov,Gorbunov,,50.3333,50.7333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,TRUE,1398128640
+Sterlītamak,Sterlitamak,Sterlitamak,52.7707,66.5557,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,FALSE,1398638299
+Ryavkīno,Ryavkino,Ryavkino,54.9803,70.0939,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.4,,,5,Asia/Almaty,FALSE,1398183805
+Tasoba,Tasoba,,51.8312,66.9026,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,,,5,Asia/Almaty,FALSE,1398910506
+Imeni Molotova,Imeni Molotova,,48.7333,46.9333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,0.8,,,5,Asia/Oral,FALSE,1398260411
+Sadbakas,Sadbakas,,48.2167,75.3000,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.1,,,5,Asia/Almaty,FALSE,1398613667
+Zhangatalap,Zhangatalap,Zhanatalap,53.9696,67.5494,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,FALSE,1398884895
+Yegindykol’,Yegindykol',,50.6333,70.1167,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,0.8,,,5,Asia/Almaty,FALSE,1398414307
+Zhamanzhide,Zhamanzhide,,42.3074,68.2898,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398890213
+Malshat,Malshat,Mal’chat,45.7587,80.7143,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398992078
+Senggirbay,Senggirbay,Sengirbay,43.1463,71.1581,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,107.8,,,4,Asia/Almaty,FALSE,1398521627
+Alshimbay,Alshimbay,,49.9500,59.0167,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.8,,,5,Asia/Aqtobe,FALSE,1398312528
+Borīsovka,Borisovka,Borisovka|Borisovskoye|Borisovskiy,52.8787,76.9791,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.5,,,4,Asia/Almaty,FALSE,1398081774
+Shirganak,Shirganak,,42.9093,79.0734,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,,,5,Asia/Almaty,FALSE,1398000360
+Baz,Baz,,52.7228,70.5952,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,11.3,,,4,Asia/Almaty,FALSE,1398090374
+Tegistyk,Tegistyk,,44.0333,68.3000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,,,5,Asia/Almaty,FALSE,1398998149
+Dolbushka,Dolbushka,Dolbushinskiy,53.8964,64.1016,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.8,,,5,Asia/Qostanay,FALSE,1398000039
+Kalinino,Kalinino,,49.1644,58.2225,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.1,,,5,Asia/Aqtobe,FALSE,1398018759
+Ibrayevskiy,Ibrayevskiy,,49.9333,79.5333,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398306178
+Kalinino,Kalinino,Imeni Kalinina,51.0495,71.5712,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,160.4,,,4,Asia/Almaty,FALSE,1398185788
+Kalinino,Kalinino,Imeni Kalinina|Vostochnoye,51.9793,71.4669,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.2,,,5,Asia/Almaty,TRUE,1398597393
+Mirgorodka,Mirgorodka,Mirgorodskiy,50.9658,53.5195,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,,,4,Asia/Oral,FALSE,1398775663
+Dzhandzhal,Dzhandzhal,Iski-Dzhanzhal,41.4000,68.9000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,48.2,,,4,Asia/Almaty,FALSE,1398047728
+Kungey,Kungey,,47.3005,59.2884,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.7,,,5,Asia/Aqtobe,FALSE,1398001243
+Eyskīy,Eyskiy,Yeyskiy,51.6059,65.7108,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.3,,,5,Asia/Almaty,FALSE,1398369121
+Assay,Assay,,50.6833,51.3667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.7,,,5,Asia/Oral,FALSE,1398154216
+Ardolayty,Ardolayty,Daulatyy|Daulaty|Cholan-Dulaty,43.4919,79.9915,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,6.9,,,4,Asia/Almaty,FALSE,1398833411
+Baytaylak,Baytaylak,Baytalyab|Baytalyak,45.1833,75.0500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,0.8,,,5,Asia/Almaty,FALSE,1398145936
+Karakopa,Karakopa,,53.4163,61.3328,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398151853
+Kollektīvnoe,Kollektivnoe,Kollektivnyy|Kollektivnoye,50.7457,73.0451,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.5,,,5,Asia/Almaty,FALSE,1398000844
+Orpa,Orpa,,44.2000,51.6000,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,,,5,Asia/Aqtau,FALSE,1398171893
+Makarovka,Makarovka,,49.8333,81.8000,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,35.1,,,4,Asia/Almaty,FALSE,1398514590
+Saryat,Saryat,Sarat,50.1031,61.0391,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398862937
+Novopokrovka,Novopokrovka,,53.8026,65.3136,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.8,,,5,Asia/Qostanay,FALSE,1398723364
+Qosterek,Qosterek,Kumkol’|Kumkal’|Kosterek,42.8038,68.0774,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,2.8,,,4,Asia/Almaty,FALSE,1398913127
+Zhapaslay,Zhapaslay,,50.3500,47.6000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398658576
+Karasor Pervyy,Karasor Pervyy,,49.8167,61.6667,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,0.5,,,5,Asia/Aqtobe,FALSE,1398078016
+Novopokrovka,Novopokrovka,Pokrovka|Almaly,45.4508,79.9892,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,3.4,,,5,Asia/Almaty,FALSE,1398250363
+Taumankum,Taumankum,Tumankum,50.7333,62.4500,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,0.3,,,5,Asia/Qostanay,FALSE,1398052449
+Dzhany-Kuduk,Dzhany-Kuduk,,50.2167,50.2500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398382537
+Vishnëvka,Vishnevka,,53.1105,65.9607,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398416807
+Say-Kuduk,Say-Kuduk,,49.4333,52.9167,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.3,,,5,Asia/Oral,FALSE,1398940428
+Slavyanka,Slavyanka,Slavyanskiy,53.0706,62.2298,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398683920
+Sarybulak,Sarybulak,,48.0000,82.1167,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,5,Asia/Almaty,FALSE,1398938325
+Qyzyltū,Qyzyltu,Kyzyltu|Qiziltuv,40.6963,68.4311,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,174.1,,,4,Asia/Almaty,FALSE,1398533722
+Yagodnyy,Yagodnyy,,46.6189,49.2667,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398000834
+Qengqīyaq,Qengqiyaq,Kenkiyak,48.6074,57.1142,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,2.6,,,5,Asia/Aqtobe,FALSE,1398379203
+Aksugum,Aksugum,,51.0748,54.1057,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.6,,,5,Asia/Oral,FALSE,1398001732
+Dvīnsk,Dvinsk,Dvinsk,54.1458,68.4059,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,4.3,,,5,Asia/Almaty,FALSE,1398573122
+Tülep,Tulep,,42.9827,55.3741,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,3.8,,,5,Asia/Aqtau,FALSE,1398921062
+Morozovskoe,Morozovskoe,Morozovskiy Lesnoye Khozyaystvo|Morozovskiy Leskhoz,51.4339,79.5044,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.8,,,5,Asia/Almaty,FALSE,1398949440
+Leonidovka,Leonidovka,,52.3500,61.6333,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.5,,,5,Asia/Qostanay,FALSE,1398290888
+Qūraylysay,Quraylysay,Kuraylysay,50.1106,51.8336,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.4,,,5,Asia/Oral,FALSE,1398095441
+Leninzhol,Leninzhol,,49.3333,47.0833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398119556
+Shivera,Shivera,,50.6386,78.7989,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.8,,,5,Asia/Almaty,FALSE,1398000512
+Shevelev,Shevelev,,46.6177,49.4112,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398000847
+Stalinskiy,Stalinskiy,,50.9667,52.2333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.7,,,5,Asia/Oral,FALSE,1398362945
+Poselok Rudnika Taskara,Poselok Rudnika Taskara,,47.7371,77.6962,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.4,,,5,Asia/Almaty,FALSE,1398999985
+Aleksandrovka,Aleksandrovka,,54.2330,68.1369,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,4.3,,,5,Asia/Almaty,FALSE,1398866697
+Aleksandrovka,Aleksandrovka,,54.8554,69.7278,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.5,,,5,Asia/Almaty,TRUE,1398121799
+Aleksandrovka,Aleksandrovka,,54.4319,71.0892,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.4,,,5,Asia/Almaty,TRUE,1398145422
+Yekpindy,Yekpindy,Ekpindi,45.7364,80.6183,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398783846
+Aymal,Aymal,Aymak,53.4868,70.1648,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,23.3,,,4,Asia/Almaty,FALSE,1398432043
+Dautobe,Dautobe,,44.7781,68.3048,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,,,5,Asia/Almaty,FALSE,1398530105
+Tasqudyq,Tasqudyq,Toskuduk,47.7898,54.5024,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,,,5,Asia/Atyrau,FALSE,1398001419
+Maldybay,Maldybay,,42.9913,72.3246,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,7.4,,,5,Asia/Almaty,FALSE,1398236480
+Chūmychkīno,Chumychkino,Chumynki,50.9920,78.7175,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.8,,,5,Asia/Almaty,FALSE,1398326938
+Kumtekey,Kumtekey,,42.8833,79.2500,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,5.7,,,5,Asia/Almaty,FALSE,1398254376
+Sholakespe,Sholakespe,,49.4000,79.2667,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,0.7,,,5,Asia/Almaty,FALSE,1398618531
+Shakhovskoe,Shakhovskoe,Shakhovskoye,54.7314,69.3566,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,38.7,,,4,Asia/Almaty,FALSE,1398071351
+Uytas,Uytas,,43.4169,78.6051,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,37.2,,,4,Asia/Almaty,FALSE,1398000222
+Nsan,Nsan,,43.5115,62.0886,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,5.6,,,5,Asia/Samarkand,FALSE,1398000592
+Malshybay,Malshybay,,48.3949,67.8545,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,1.3,,,5,Asia/Almaty,FALSE,1398773559
+Aqshī,Aqshi,Akshī,45.4150,82.0347,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398138267
+Aqshī,Aqshi,Akchi,45.9649,81.4856,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,TRUE,1398458486
+Qort,Qort,Kort,51.7843,78.6676,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,1.3,,,5,Asia/Almaty,FALSE,1398077024
+Zhamantogay,Zhamantogay,,50.1249,55.8994,Kazakhstan,KZ,KAZ,Aqtöbe,Aqtobe,KZ-15,province,,1.0,,,5,Asia/Aqtobe,FALSE,1398001943
+Qamqaly,Qamqaly,Kamkaly,44.8445,70.1719,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,1.1,,,5,Asia/Almaty,FALSE,1398123514
+Zharqyn,Zharqyn,Levoberezhnyy,50.3103,80.2865,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398545211
+Buratyshkan,Buratyshkan,,43.5763,68.5039,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.3,,,4,Asia/Almaty,FALSE,1398810135
+Töngkeris,Tongkeris,,45.9931,80.9579,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398001259
+Tülkibas,Tulkibas,Tyul’kubas,42.4858,70.2960,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.4,,,4,Asia/Almaty,FALSE,1398282030
+Mayskoye,Mayskoye,,46.1740,81.1596,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,FALSE,1398717795
+Balghyn,Balghyn,Balgyn,49.2695,50.0614,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398001817
+Kerey,Kerey,,49.4667,50.0500,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398983278
+Esbol,Esbol,Ispul’|Aul Nomer Odinnadtsat’,47.7034,51.6342,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,3.3,,,5,Asia/Atyrau,FALSE,1398676750
+Qyzylzhuldyz,Qyzylzhuldyz,Kyzylzhuldyz,45.5256,63.7979,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,5.6,,,5,Asia/Qyzylorda,FALSE,1398842221
+Qyzylotaū,Qyzylotau,Akdala|Sovkhoz Imeni Amangel’dy|Amangel’dy|Amangeldi,44.2457,73.3337,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,,,4,Asia/Almaty,FALSE,1398925490
+Bakatay,Bakatay,,47.7560,84.9531,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398001394
+Saralzhinsay,Saralzhinsay,,49.9167,52.5667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.2,,,5,Asia/Oral,FALSE,1398296079
+Kozhantay,Kozhantay,Yanaurn,49.4181,49.8339,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398002018
+Maloūbīnka,Maloubinka,Maloubinka|Maloubinskoye,50.4503,82.6672,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,8.0,,,5,Asia/Almaty,FALSE,1398189291
+Ryazhskoe,Ryazhskoe,Ryasskiy|Ryazhskoye|Ryasskoye,54.0660,65.5538,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,2.8,,,4,Asia/Qostanay,FALSE,1398633056
+Karamergen,Karamergen,,47.9029,83.6077,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.5,,,5,Asia/Almaty,FALSE,1398000817
+Kan-Chingiz,Kan-Chingiz,,48.8833,79.3000,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,0.7,,,5,Asia/Almaty,FALSE,1398826095
+Voznesenovka,Voznesenovka,Gyul’kubas|Voznesenskoye|Tyul’kubas,42.5554,70.2651,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,49.4,,,4,Asia/Almaty,FALSE,1398220650
+Bol’shoy Talsay,Bol'shoy Talsay,Zhdanovo,52.4708,66.7631,Kazakhstan,KZ,KAZ,North Kazakhstan,North Kazakhstan,KZ-59,region,,3.1,,,5,Asia/Almaty,FALSE,1398666256
+Karagay-Kuduk,Karagay-Kuduk,,49.8333,49.7000,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398815207
+Van-Tyube,Van-Tyube,,50.6333,78.2167,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,0.5,,,5,Asia/Almaty,FALSE,1398971358
+Shkola,Shkola,,46.5500,48.8167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398356195
+Kishiyespe,Kishiyespe,,48.8333,83.1000,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.9,,,5,Asia/Almaty,FALSE,1398529664
+Korzhinkol’,Korzhinkol',Korzhunkol’|Kurzhunkul’|Kurzhunkul’skiy,53.2667,62.6667,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,4,Asia/Qostanay,FALSE,1398006372
+Muqtar,Muqtar,Mukhtar,48.8507,72.7340,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398789224
+Khleborodnyy,Khleborodnyy,,49.7333,76.4667,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,1.0,,,5,Asia/Almaty,FALSE,1398031959
+Lesnoe,Lesnoe,Lesnoy,50.8904,78.4440,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.8,,,5,Asia/Almaty,FALSE,1398058194
+Lesnoe,Lesnoe,Lesnoye,52.5756,68.6113,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,2.5,,,5,Asia/Almaty,FALSE,1398691121
+Khanokhay,Khanokhay,Khonokhay,44.3603,80.1586,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,10.9,,,4,Asia/Almaty,FALSE,1398266528
+Tīkhomīrovka,Tikhomirovka,Tikhomirovka|Tikhanovka,53.2904,76.0382,Kazakhstan,KZ,KAZ,Pavlodar,Pavlodar,KZ-55,province,,2.2,,,5,Asia/Almaty,FALSE,1398066802
+Karakum,Karakum,,42.0487,68.3505,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,10.4,,,4,Asia/Almaty,FALSE,1398578630
+Zhaprek,Zhaprek,,46.6167,48.9333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398872107
+Karaultobe,Karaultobe,,48.8333,72.0000,Kazakhstan,KZ,KAZ,Ulytaū,Ulytau,KZ-62,region,,0.7,,,5,Asia/Almaty,FALSE,1398656061
+Eski Qanay,Eski Qanay,Kanayka|Stantsiya Kanayka,49.6438,81.8938,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,35.1,,,4,Asia/Almaty,FALSE,1398060669
+Imeni Voroshilova,Imeni Voroshilova,,49.6667,48.7667,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.5,,,5,Asia/Oral,FALSE,1398616683
+Imeni Voroshilova,Imeni Voroshilova,,49.6000,53.3333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.3,,,5,Asia/Oral,TRUE,1398973651
+Zhideli,Zhideli,,45.0833,53.0000,Kazakhstan,KZ,KAZ,Mangghystaū,Mangghystau,KZ-47,province,,0.7,,,5,Asia/Aqtau,FALSE,1398221191
+Zhambyl,Zhambyl,Dzhambul,53.3212,63.7463,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,50.2,,,4,Asia/Qostanay,FALSE,1398002195
+Zhambyl,Zhambyl,Dzhambul,53.9166,61.1418,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,TRUE,1398437326
+Zhambyl,Zhambyl,Dzhambul,52.8474,66.0665,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,1.8,,,5,Asia/Qostanay,TRUE,1398674060
+Zhideli,Zhideli,,43.7978,67.7087,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,4.4,,,5,Asia/Qyzylorda,FALSE,1398955924
+Zhideli,Zhideli,Dzhidely,43.9833,66.5500,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.5,,,5,Asia/Qyzylorda,TRUE,1398027667
+Zhīdeli,Zhideli,Zhideli,44.2483,66.7905,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.5,,,5,Asia/Qyzylorda,TRUE,1398000697
+Zhideli,Zhideli,Zhideli,45.7609,61.8183,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.0,,,5,Asia/Qyzylorda,TRUE,1398382840
+Dorofeevka,Dorofeevka,Dorofeyevka,53.0677,70.0850,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,11.3,,,4,Asia/Almaty,FALSE,1398944455
+Kuygenkol’,Kuygenkol',Kuygen-Kul’|Kugenkol’,49.2833,47.9833,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.8,,,5,Asia/Oral,FALSE,1398289116
+Zhambyl,Zhambyl,Dzhambul,44.8416,78.2304,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,5.3,,,5,Asia/Almaty,FALSE,1398999920
+Zhambyl,Zhambyl,,45.8657,80.6337,Kazakhstan,KZ,KAZ,Zhetisū,Zhetisu,KZ-33,region,,1.9,,,5,Asia/Almaty,TRUE,1398000799
+Zhambyl,Zhambyl,Dzhambul,42.9908,71.2032,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,107.8,,,4,Asia/Almaty,FALSE,1398262933
+Zhambyl,Zhambyl,Dzhambul,43.1657,74.5966,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,17.7,,,4,Asia/Almaty,TRUE,1398551530
+Zhambyl,Zhambyl,Plodovoyagodnoye|Dzhambul,42.8694,73.1542,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,12.9,,,4,Asia/Almaty,TRUE,1398347412
+Zhambyl,Zhambyl,Zhanatarlyk|Sovkhoz Imeni Dzhambula,44.2938,73.0351,Kazakhstan,KZ,KAZ,Zhambyl,Zhambyl,KZ-31,province,,0.6,,,5,Asia/Almaty,TRUE,1398001000
+Vozrozhdeniye,Vozrozhdeniye,,48.8000,72.2167,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.7,,,5,Asia/Almaty,FALSE,1398299480
+Sonaly,Sonaly,Akmeshit,49.6553,53.1803,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.3,,,5,Asia/Oral,FALSE,1398839331
+Zhambyl,Zhambyl,Dzhambul,47.2062,71.3950,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398063367
+Qūsaq,Qusaq,Kusak,51.3570,72.3888,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,4.5,,,5,Asia/Almaty,FALSE,1398884093
+Karabastuz,Karabastuz,,50.2949,79.1540,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,11.8,,,4,Asia/Almaty,FALSE,1398941515
+Seleznyovka,Seleznyovka,Seleznëvka,49.6684,83.4996,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398002281
+Karabau,Karabau,Kara-Bay|Qarabaū,48.4500,52.9333,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,1.3,,,5,Asia/Atyrau,FALSE,1398735086
+Zhalpaqqaraghay,Zhalpaqqaraghay,,47.3847,85.1532,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,3.2,,,5,Asia/Almaty,FALSE,1398001297
+Bekbaūpy,Bekbaupy,Bekbaūly|Bikbauli,45.9788,61.9372,Kazakhstan,KZ,KAZ,Qyzylorda,Qyzylorda,KZ-43,province,,2.0,,,5,Asia/Qyzylorda,FALSE,1398174671
+Yenbekisharal,Yenbekisharal,,43.2186,76.2549,Kazakhstan,KZ,KAZ,Almaty,Almaty,KZ-19,city,,7.1,,,5,Asia/Almaty,FALSE,1398000822
+Prībrezhnyy,Pribrezhnyy,Pervomayskoye,49.6584,83.7546,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,5.7,,,5,Asia/Almaty,FALSE,1398352847
+Poltavskoe,Poltavskoe,Poltavskiy|Poltavskoye,51.1082,69.7654,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,3.2,,,5,Asia/Almaty,FALSE,1398212160
+Zhualyoy,Zhualyoy,Zhualoy,48.8833,49.3333,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,1.1,,,5,Asia/Oral,FALSE,1398389038
+Kindikti,Kindikti,Kindykty,51.5879,67.3431,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,1.4,,,5,Asia/Almaty,FALSE,1398758021
+Kindikti,Kindikti,,48.3362,81.6558,Kazakhstan,KZ,KAZ,Abay,Abay,KZ-10,region,,1.5,,,5,Asia/Almaty,FALSE,1398469013
+Kounradskiy,Kounradskiy,,46.9888,75.0173,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,2.1,,,5,Asia/Almaty,FALSE,1398001109
+Kara-Kuduk,Kara-Kuduk,,48.1500,47.5167,Kazakhstan,KZ,KAZ,Atyraū,Atyrau,KZ-23,province,,2.7,,,5,Asia/Atyrau,FALSE,1398481056
+Moīseevka,Moiseevka,Moiseyeva|Moiseyevka|Moiseyevskiy,50.6234,82.1710,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,10.2,,,4,Asia/Almaty,FALSE,1398269844
+Agashty,Agashty,,52.3758,70.5202,Kazakhstan,KZ,KAZ,Aqmola,Aqmola,KZ-11,province,,5.6,,,5,Asia/Almaty,FALSE,1398092286
+Karashilik,Karashilik,,47.7660,72.6213,Kazakhstan,KZ,KAZ,Qaraghandy,Qaraghandy,KZ-35,province,,0.6,,,5,Asia/Almaty,FALSE,1398001372
+Karashilik,Karashilik,,53.1701,65.9799,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,3.1,,,5,Asia/Qostanay,FALSE,1398805862
+Karashilik,Karashilik,,52.9002,65.6647,Kazakhstan,KZ,KAZ,Qostanay,Qostanay,KZ-39,province,,1.8,,,5,Asia/Qostanay,TRUE,1398002349
+Kaindy,Kaindy,,49.0833,83.5000,Kazakhstan,KZ,KAZ,East Kazakhstan,East Kazakhstan,KZ-63,region,,1.9,,,5,Asia/Almaty,FALSE,1398112990
+Akrap,Akrap,,51.3942,52.6017,Kazakhstan,KZ,KAZ,West Kazakhstan,West Kazakhstan,KZ-27,region,,11.0,,,4,Asia/Oral,FALSE,1398001713
+Aktyme,Aktyme,Aktyma,43.8333,68.9000,Kazakhstan,KZ,KAZ,Türkistan,Turkistan,KZ-61,region,,1.4,,,5,Asia/Almaty,FALSE,1398238997
