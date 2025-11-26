@@ -1,7 +1,7 @@
 [
   {
-    "code": "ABB",
-    "model": "Airbus A300-600ST \"Super Transporter\" / \"Beluga\""
+      "code": "ABB",
+      "model": "Airbus A300-600ST \"Super Transporter\" / \"Beluga\""
   },
   { "code": "31N", "model": "Airbus A319neo", "consumption": 2.82 },
   { "code": "32N", "model": "Airbus A320neo", "consumption": 2.25 },
@@ -47,8 +47,8 @@
   { "code": "AN7", "model": "Antonov AN-72 / AN-74" },
   { "code": "APH", "model": "Eurocopter AS332 Super Puma" },
   {
-    "code": "NDE",
-    "model": "Eurocopter AS350 Écureuil / AS355 Ecureuil 2 / AS550 Fennec"
+      "code": "NDE",
+      "model": "Eurocopter AS350 Écureuil / AS355 Ecureuil 2 / AS550 Fennec"
   },
   { "code": "AT4", "model": "Aerospatiale/Alenia ATR 42-300 / 320" },
   { "code": "AT5", "model": "Aerospatiale/Alenia ATR 42-500" },
@@ -61,8 +61,8 @@
   { "code": "7M8", "model": "Boeing 737 MAX 8", "consumption": 2.28 },
   { "code": "7M9", "model": "Boeing 737 MAX 9", "consumption": 2.28 },
   {
-    "code": "74J",
-    "model": "Boeing 747-400D (deprecated 2018: no longer flying)"
+      "code": "74J",
+      "model": "Boeing 747-400D (deprecated 2018: no longer flying)"
   },
   { "code": "74R", "model": "Boeing 747SR" },
   { "code": "74V", "model": "Boeing 747SR Freighter" },
@@ -91,6 +91,7 @@
   { "code": "73W", "model": "Boeing 737-700", "consumption": 2.71 },
   { "code": "738", "model": "Boeing 737-800", "consumption": 2.68 },
   { "code": "73H", "model": "Boeing 737-800", "consumption": 2.68 },
+  { "code": "7S8", "model": "Boeing 737-800", "consumption": 2.68 },
   { "code": "739", "model": "Boeing 737-900" },
   { "code": "741", "model": "Boeing 747-100" },
   { "code": "74T", "model": "Boeing 747-100 Freighter" },
@@ -131,16 +132,14 @@
   { "code": "CS5", "model": "CASA/IPTN CN-235" },
   { "code": "SSC", "model": "Concorde (deprecated: no longer flying)" },
   { "code": "L49", "model": "Lockheed L-1049 Super Constellation" },
-  { "code": "CR1", "model": "Canadair Regional Jet 100" },
-  { "code": "CR2", "model": "Canadair Regional Jet 200" },
-  { "code": "CR7", "model": "Canadair Regional Jet 700 | Regional Jet 550" },
-  { "code": "CR9", "model": "Canadair Regional Jet 900" },
-  { "code": "CRK", "model": "Canadair Regional Jet 1000" },
+  { "code": "CRJ", "model": "Bombardier CRJ-500" },
+  { "code": "CR1", "model": "Bombardier CRJ-100" },
+  { "code": "CR2", "model": "Bombardier CRJ-200" },
+  { "code": "CR7", "model": "Bombardier CRJ-700" },
+  { "code": "CR9", "model": "Bombardier CRJ-900" },
+  { "code": "CRK", "model": "Bombardier CRJ-1000" },
   { "code": "CV4", "model": "Convair CV-240 & -440" },
-  {
-    "code": "CV5",
-    "model": "Convair CV-580, Convair CV-600, Convair CV-640"
-  },
+  { "code": "CV5", "model": "Convair CV-580, Convair CV-600, Convair CV-640"},
   { "code": "D28", "model": "Dornier 228", "consumption": 6.22 },
   { "code": "D38", "model": "Fairchild Dornier Do.328" },
   { "code": "D3F", "model": "Douglas DC-3" },
@@ -203,8 +202,8 @@
   { "code": "GJ5", "model": "Gulfstream V" },
   { "code": "GJ6", "model": "Gulfstream G650" },
   {
-    "code": "H25",
-    "model": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900"
+      "code": "H25",
+      "model": "British Aerospace 125 series / Hawker/Raytheon 700/800/800XP/850/900"
   },
   { "code": "HHJ", "model": "Honda HA-420" },
   { "code": "DHH", "model": "De Havilland DH.114 Heron" },
@@ -236,8 +235,8 @@
   { "code": "MU2", "model": "Mitsubishi Mu-2" },
   { "code": "ND2", "model": "Aerospatiale (Nord) 262" },
   {
-    "code": "CD2",
-    "model": "Government Aircraft Factories N22B / N24A Nomad"
+      "code": "CD2",
+      "model": "Government Aircraft Factories N22B / N24A Nomad"
   },
   { "code": "PN6", "model": "Partenavia P.68" },
   { "code": "P18", "model": "Piaggio P.180 Avanti" },
@@ -253,8 +252,8 @@
   { "code": "S58", "model": "Sikorsky S-58T" },
   { "code": "S61", "model": "Sikorsky S-61" },
   {
-    "code": "NDH",
-    "model": "Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2"
+      "code": "NDH",
+      "model": "Eurocopter (Aerospatiale) SA365C / SA365N Dauphin 2"
   },
   { "code": "S76", "model": "Sikorsky S-76" },
   { "code": "S92", "model": "Sikorsky S-92" },
@@ -270,8 +269,8 @@
   { "code": "TU5", "model": "Tupolev Tu-154" },
   { "code": "T20", "model": "Tupolev Tu-204 / Tu-214" },
   {
-    "code": "BNT",
-    "model": "Pilatus Britten-Norman BN-2A Mk III Trislander"
+      "code": "BNT",
+      "model": "Pilatus Britten-Norman BN-2A Mk III Trislander"
   },
   { "code": "WWP", "model": "Israel Aircraft Industries 1124 Westwind" },
   { "code": "YN2", "model": "Harbin Yunshuji Y12" },
